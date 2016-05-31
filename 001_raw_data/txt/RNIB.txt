@@ -1,0 +1,2715 @@
+108 STAT. 2338
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+Public Law 103-328
+103d Congress
+An Act
+Sept. 29, 1994
+[H.R. 3841]
+
+Riegle-Neal
+Interstate
+Banking
+and Branching
+Efficiency Act
+of 1994.
+12 u s e 1811
+note.
+
+To amend the Bank Holding Company Act of 1956, the Revised Statutes of the
+United States, and the Federal Deposit Insurance Act to provide for interstate
+banking and branching.
+
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+(a) SHORT TITLE.—This Act may be cited as the "Riegle-Neal
+
+Interstate Banking and Branching Efficiency Act of 1994".
+(b) TABLE OF CoNTE^^^s.—The table of contents for this Act
+is as follows:
+TITLE I—INTERSTATE BANKING AND BRANCHING
+Sec. 101. Interstate banking.
+Sec. 102. Interstate bank mergers.
+Sec. 103. State "opt-in" election to permit interstate branching through de novo
+branches.
+Sec. 104. Branching by foreign banks.
+Sec. 105. Coordination of examination authority.
+Sec. 106. Branch closures.
+Sec. 107. Equalizing competitive opportunities for United States and foreign banks.
+Sec. 108. Federal Reserve Board study on bank fees.
+Sec. 109. Prohibition against deposit production offices.
+Sec. 110. Community Reinvestment Act evaluation of banks with interstate
+branches.
+Sec. 111. Restatement of existing law.
+Sec. 112. GAO report on data collection under interstate branching.
+Sec. 113. Maximum interest rate on certain FMHA loans.
+Sec. 114. Notice requirements for banking agency decisions preempting State law.
+Sec. 115. Moratorium on examination fees under the International Banking Act of
+1978.
+TITLE II—GENERAL PROVISIONS
+Sec. 201. Amendments to Federal Deposit Insurance Act and Federal Home Loan
+Bank Act.
+Sec. 202, Sense of the Senate concerning multilateral export controls.
+Sec. 203. Amendments relating to silver medals for Persian Gulf veterans.
+Sec. 204, Commemoration of 1995 Special Olympic World Games.
+Sec. 205, National Community Service Commemorative Coins.
+Sec. 206. Robert F. Kennedy Memorial Commemorative Coins.
+Sec. 207, United States Military Academy Bicentennial Commemorative Coins.
+Sec. 208. United States Botanic Garden Commemorative Coins.
+Sec. 209. Mount Rushmore Commemorative Coins.
+Sec. 210. Study and report on the United States financial services system.
+Sec. 21L Flexibility in choosing boards of directors.
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2339
+
+TITLE I—INTERSTATE BANKING AND
+BRANCHING
+SEC. 101. INTERSTATE BANKING.
+
+(a) IN GENERAL.—Section 3(d) of the Bank Holding Company
+Act of 1956 (12 U.S.C. 1842(d)) is amended to read as follows:
+"(d) INTERSTATE BANKING.—
+"(1) APPROVALS AUTHORIZED.—
+"(A) ACQUISITION OF BANKS.—The Board may approve
+
+an application under this section by a bank holding company that is adequately capitalized and adequately managed to acquire control of, or acquire all or substantially
+all of the assets of, a bank located in a State other than
+the home State of such bank holding company, without
+regard to whether such transaction is pronibited under
+the law of any State.
+"(B) PRESERVATION OF STATE AGE LAWS.—
+
+"(i) I N GENERAL.—^Notwithstanding subparagraph
+(A), the Board may not approve an application pursuant to such subparagraph that would have the effect
+of permitting an out-of-State bank holding company
+to acquire a bank in a host State that has not been
+in existence for the minimum period of time, if any,
+specified in the statutory law of the host State.
+"(ii) SPECIAL RULE FOR STATE AGE LAWS SPECIFYING
+
+A PERIOD OF MORE THAN 5 YEARS.—^Notwithstanding
+clause (i), the Board may approve, pursuant to
+subparagraph (A), the acquisition of a bank that has
+been in existence for at least 5 years without regard
+to any longer minimum period of time specified in
+a statutory law of the host State.
+"(C) SHELL BANKS.—For purposes of this subsection,
+a bank that has been chartered solely for the purpose
+of, and does not open for business prior to, acquiring control
+of, or acquiring all or substantially all of the assets of,
+an existing bank shall be deemed to have been in existence
+for the same period of time as the bank to be acquired.
+"(D) EFFECT ON STATE CONTINGENCY LAWS.—No provi-
+
+sion of this subsection shall be construed as affecting the
+applicability of a State law that makes an acquisition of
+a bank contingent upon a requirement to hold a portion
+of such bank's assets available for call by a State-sponsored
+housing entity established pursuant to State law, if—
+"(i) the State law does not have the effect of
+discriminating against out-of-State banks, out-of-State
+bank holding companies, or subsidiaries of such banks
+or bank holding companies;
+"(ii) that State law was in effect as of the date
+of enactment of the Riegle-Neal Interstate Banking
+and Branching Efficiency Act of 1994;
+"(iii) the Federal Deposit Insurance Corporation
+has not determined that compliance with such State
+law would result in an unacceptable risk to the appropriate deposit insurance fund; and
+"(iv) the appropriate Federal banking agency for
+such bank has not found that compliance with such
+
+108 STAT. 2340
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+State law would place the bank in an unsafe or
+unsound condition.
+
+"(2) CONCENTRATION LIMITS.—
+"(A) NATIONWIDE CONCENTRATION LiMiTS.^The Board
+
+may not approve an application pursuant to paragraph
+(1)(A) if the applicant (including all insured depository
+institutions which are affiliates of the applicant) controls,
+or upon consummation of the acquisition for which such
+application is filed would control, more than 10 percent
+of the total amount of deposits of insured depository institutions in the United States.
+"(B)
+
+STATEWIDE CONCENTRATION LIMITS OTHER THAN
+
+WITH RESPECT TO INITIAL ENTRIES.—The Board may not
+approve an application pursuant to paragraph (1)(A) if—
+"(i) immediately before the consummation of the
+acquisition for which such application is filed, the
+am)licant (including any insured depository institution
+affiliate of the applicant) controls any insured depository institution or any branch of an insured depository
+institution in the home State of any bank to be
+acquired or in any host State in which any such bank
+maintains a branch; and
+"(ii) the applicant (including all insured depository
+institutions which are affiliates of the applicant), upon
+consummation of the acquisition, would control 30 percent or more of the total amount of deposits of insured
+depository institutions in any such State.
+"(C) EFFECTIVENESS OF STATE DEPOSIT CAPS.—^No provision of this subsection shall be construed as affecting the
+authority of any State to limit, by statute, regulation, or
+order, the percentage of the total amount of deposits of
+insured depository institutions in the State which may
+be held or controlled by any bank or bank holding compsmy
+(including all insured depository institutions which are
+affiliates of the bank or bank holding company) to the
+extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding
+companies, or subsidiaries of such banks or holding
+companies.
+"(D) EXCEPTIONS TO SUBPARAGRAPH (B).—The Board
+may approve an application pursuant to paragraph (1)(A)
+without regard to the applicability of subparagraph (B)
+with respect to any State if—
+"(i) there is a limitation described in subparagraph
+(C) in a State statute, regulation, or order which has
+the effect of permitting a bank or bank holding company (including all insured depository institutions
+which are affiliates of the bank or bank holding company) to control a greater percentage of total deposits
+of all insured depository institutions in the State than
+the percentage permitted under subparagraph (B); or
+"(ii) the acquisition is approved by the appropriate
+State bank supervisor of such State and the standard
+on which such approval is based does not have the
+effect of discriminating against out-of-State banks, outof-State bank holding companies, or subsidiaries of
+such banks or holding companies.
+
+y<«|tMK#r'^
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2341
+
+"(E) DEPOSIT DEFINED.—For purposes of this paragraph, the term 'deposit' has the same meaning as in
+section 3(1) of the Federal Deposit Insurance Act.
+"(3) COMMUMTY REINVESTMENT COMPLIANCE.—In determining whether to approve an application under paragraph (1)(A),
+the Board shall—
+"(A) comply with the responsibilities of the Board
+regarding such application under section 804 of the
+Community Reinvestment Act of 1977; and
+"(B) take into account the applicant's record of compliance with applicable State community reinvestment laws.
+"(4) APPLICABILITY OF ANTITRUST LAWS.—No provision of
+
+this subsection shall be construed as affecting—
+"(A) the applicability of the antitrust laws; or
+"(B) the applicability, if any, of any State law which
+is similar to the antitrust laws.
+"(5) EXCEPTION FOR BANKS IN DEFAULT OR IN DANGER OF
+
+DEFAULT.—^The Board may approve an application pursuant
+to paragraph (1)(A) which involves—
+"(A) an acquisition of 1 or more banks in default or
+in danger of default; or
+"(B) an acquisition with respect to which assistance
+is provided under section 13(c) of the Federal Deposit Insurance Act;
+without regard to subparagraph (B) or (D) of paragraph (1)
+or paragraph (2) or (3).".
+(b) STATE TAXATION AUTHORITY N O T AFFECTED.—Section 7 of
+
+the Bank Holding Company Act of 1956 (12 U.S.C. 1846) is
+amended—
+(1) by striking "No provision" and inserting "(a) IN GENERAL.—^No provision"; and
+
+(2) by adding at the end the following new subsection:
+"(b) STATE TAXATION AUTHORITY N O T AFFECTED.—^No provision
+
+of this Act shall be construed as aifecting the authority of any
+State or political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank holding
+company, or foreign bank, or any affiliate of any bank, bank holding
+company, or foreign bank, to the extent that such tax or tax method
+is otherwise permissible by or under the Constitution of the United
+States or other Federal law.".
+(c) DEFINITIONS.—Section 2 of the Bank Holding Company Act
+of 1956 (12 U.S.C. 1841) is amended by adding at the end the
+following new subsections:
+
+"(n)
+
+INCORPORATED DEFINITIONS.—For
+
+purposes of this Act,
+
+the terms 'insured depository institution', 'appropriate Federal
+banking agency', 'default', 'in danger of default', and 'State bank
+supervisor' have the same meanings as in section 3 of the Federal
+Deposit Insurance Act.
+"(o) OTHER DEFINITIONS.—For purposes of this Act, the following definitions shall apply:
+"(1) ADEQUATELY CAPITALIZED.—^The term 'adequately
+capitalized' means a level of capitalization which meets or
+exceeds all applicable Federal regulatory capital standards.
+"(2) ANTITRUST LAWS.—Except as provided in section 11,
+the term 'antitrust laws'—
+"(A) has the same meaning as in subsection (a) of
+the first section of the Clajrton Act; and
+
+108 STAT. 2342
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+"(B) includes section 5 of the Federal Trade Commission Act to the extent that such section 5 relates to unfair
+methods of competition.
+"(3) BRANCH.—The term 'branch' means a domestic branch
+(as defined in section 3 of the Federal Deposit Insurance Act).
+"(4) HOME STATE.—The term 'home State' means—
+"(A) with respect to a national bank, the State in
+which the main office of the bank is located;
+"(B) with respect to a State bank, the State by which
+the bank is chartered; and
+"(C) with respect to a bank holding company, the State
+in which the total deposits of all banking subsidiaries of
+such company are the largest on the later of—
+"(i) July 1, 1966; or
+"(ii) the date on which the company becomes a
+bank holding company under this Act.
+"(5) HOST STATE.—The term 'host State' means—
+"(A) with respect to a bank, a State, other than the
+home State of the bank, in which the bank maintains,
+or seeks to establish and maintain, a branch; and
+"(B) with respect to a bank holding company, a State,
+other than the home State of the company, in which the
+company controls, or seeks to control, a bank subsidiary.
+"(6) OUT-OF-STATE BANK.—The term 'out-of-State bank'
+means, with respect to any State, a bank whose home State
+is another State.
+"(7) OUT-OF-STATE BANK HOLDING COMPANY.—^The term
+'out-of-State bank holding company' means, with respect to
+any State, a bank holding company whose home State is
+another State.".
+(d) SUBSIDIARY DEPOSITORY INSTITUTIONS AS AGENTS.—Section
+
+18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended
+by adding at the end the following new subsection:
+"(r) SUBSIDIARY DEPOSITORY INSTITUTIONS AS AGENTS FOR CERTAIN AFFILIATES.—
+
+"(1) I N GENERAL.—^Any bank subsidiary of a bank holding
+company may receive deposits, renew time deposits, close loans,
+service loans, and receive pa5niients on loans and other obligations as an agent for a depository institution affiliate.
+"(2) BANK ACTING AS AGENT IS NOT A BRANCH.—Notwith-
+
+standing any other provision of law, a bank acting as an agent
+in accordance with paragraph (1) for a depository institution
+affiliate shall not be considered to be a branch of the affiliate.
+"(3) PROHIBITIONS ON ACTIVITIES.—A depository institution
+may not—
+"(A) conduct any activity as an agent under paragraph
+(1) or (6) which such institution is prohibited from conducting as a principal under any applicable Federal or State
+law; or
+"(B) as a principal, have an agent conduct any activity
+under paragraph (1) or (6) which the institution is prohibited from conducting under any applicable Federal or State
+law.
+"(4) EXISTING AUTHORITY NOT AFFECTED.—^No provision of
+
+this subsection shall be construed as affecting—
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2343
+
+"(A) the authority of any depository institution to act
+as an agent on behalf of any other depository institution
+under any other provision of law; or
+"(B) whether a depository institution which conducts
+any activity as an agent on behalf of any other depository
+institution under any other provision of law shall be considered to be a branch of such other institution.
+"(5) AGENCY RELATIONSHIP REQUIRED TO BE CONSISTENT
+
+WITH SAFE AND SOUND BANKING PRACTICES.—An agency relationship between depository institutions under paragraph (1)
+or (6) shall be on terms that are consistent with safe and
+sound banking practices and all applicable regulations of any
+appropriate Federal banking agency.
+"(6)
+
+AFFILIATED
+
+INSURED
+
+SAVINGS
+
+ASSOCIATIONS.—An
+
+insured savings association which was an affiliate of a bank
+on July 1, 1994, may conduct activities as Ein agent on behalf
+of such bank in the same manner as an insured bank affiliate
+of such bank may act as agent for such bank under this subsection to the extent such activities are conducted only in—
+"(A) any State in which—
+"(i) the bank is not prohibited from operating a
+branch under any provision of Federal or State law;
+and
+"(ii) the savings sissociation maintained an office
+or branch and conducted business as of July 1, 1994;
+or
+"(B) any State in which—
+"(i) the bank is not expressly prohibited from
+operating a branch under a State law described in
+section 44(a)(2); and
+"(ii) the savings association maintained a main
+office and conducted business as of July 1, 1994.".
+(e) EFFECTIVE DATE.^The amendments made by this section 12 use 1828
+shall take effect at the end of the 1-year period beginning on ^°^the date of the enactment of this Act.
+SEC. 102. INTERSTATE BANK MERGERS.
+(a) IN GENERAL.—The Federal Deposit Insurance \ct (12 U.S.C.
+1811 et seq.) is amended by adding at the end the following new
+section:
+"SEC. 44. INTERSTATE BANK MERGERS.
+12 USC 1831u.
+"(a) APPROVAL OF INTERSTATE MERGER TRANSACTIONS AUTHORIZED.—
+
+"(1) IN GENERAL.—Beginning on June 1, 1997, the responsible agency may approve a merger transaction under section
+18(c) between insured banks with different home States, without regard to whether such transaction is prohibited under
+the law of any State.
+"(2) STATE ELECTION TO PROHIBIT INTERSTATE MERGER
+TRANSACTIONS.—
+
+"(A) I N GENERAL.—Notwithstanding paragraph (1), a
+merger transaction may not be approved pursuant to paragraph (1) if the transaction involves a bank the home
+State of which has enacted a law after the date of enactment of the Riegle-Neal Interstate Banking and Branching
+Efficiency Act of 1994 and before June 1, 1997, that—
+"(i) applies equally to all out-of-State banks; and
+
+108 STAT. 2344
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+"(ii) expressly prohibits merger transactions involving out-of-State banks.
+"(B) No EFFECT ON PRIOR APPROVALS OF MERGER TRANSACTIONS.—^A law enacted by a State pursuant to subparagraph (A) shall have no effect on merger transactions that
+were approved before the effective date of such law.
+"(3) STATE ELECTION TO PERMIT EARLY INTERSTATE MERGER
+TRANSACTIONS.—
+
+"(A) IN GENERAL.—A merger transaction may be
+approved pursuant to paragraph (1) before June 1, 1997,
+if the home State of each bank involved in the transaction
+has in effect, as of the date of the approval of such transaction, a law that—
+"(i) applies equally to all out-of-State banks; and
+"(ii) expressly permits interstate merger transactions with all out-of-State banks.
+"(B) CERTAIN CONDITIONS ALLOWED.—A host State may
+impose conditions on a branch within such State of a bank
+resulting from an interstate merger transaction if—
+"(i) the conditions do not have the effect of discriminating against out-of-State banks, out-of-State bank
+holding companies, or any subsidiary of such bank
+or company (other than on the basis of a nationwide
+reciprocal treatment requirement);
+"(ii) the imposition of the conditions is not preempted by Federal law; and
+"(iii) the conditions do not apply or require
+performance after May 31, 1997.
+"(4) INTERSTATE MERGER TRANSACTIONS INVOLVING ACQUISI-
+
+TIONS OF BRANCHES.—
+
+"(A) IN GENERAL.—^An interstate merger transaction
+may involve the acquisition of a branch of an insured
+bank without the acquisition of the bank only if the law
+of the State in which the branch is located permits outof-State banks to acquire a branch of a bank in such
+State without acquiring the bank.
+"(B)
+
+TREATMENT OF BRANCH FOR PURPOSES OF THIS
+
+SECTION.—In the case of an interstate merger transaction
+which involves the acquisition of a branch of an insured
+bank without the acquisition of the bank, the branch shall
+be treated, for purposes of this section, as an insured
+bank the home State of which is the State in which the
+branch is located.
+"(5) PRESERVATION OF STATE AGE LAWS.—
+
+"(A) IN GENERAL.—^The responsible agency may not
+approve an application pursuant to paragraph (1) that
+would have the effect of permitting an out-of-State bank
+or out-of-State bank holding company to acquire a bank
+in a host State that has not been in existence for the
+minimum period of time, if any, specified in the statutory
+law of the host State.
+"(B)
+
+SPECIAL RULE FOR STATE AGE LAWS SPECIFYING
+
+A PERIOD OF MORE THAN 5 YEARS.—Notwithstanding
+subparagraph (A), the responsible agency may approve a
+merger transaction pursuant to paragraph (1) involving
+the acquisition of a bank that has been in existence at
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2345
+
+least 5 years without regard to any longer minimum period
+of time specified in a statutory law of the host State.
+"(6) SHELL BANKS.—^For purposes of this subsection, a bank
+that has been chartered solely for the purpose of, and does
+not open for business prior to, acquiring control of, or acquiring
+all or substantisdly all of the assets of, an existing bank or
+branch shall be deemed to have been in existence for the
+same period of time as the bank or branch to be acquired.
+"(b) PROVISIONS RELATING TO APPLICATION AND APPROVAL
+PROCESS.—
+"(1) COMPLIANCE WITH STATE FILING REQUIREMENTS.—
+
+"(A) IN GENERAL.—^Any bank which files an application
+for an interstate merger transaction shall—
+"(i) comply with the filing requirements of any
+host State of the bank which will result from such
+transaction to the extent that the requirement—
+"(I) does not have the effect of discriminating
+against out-of-State banks or out-of-State bank
+holding companies or subsidiaries of such banks
+or bank holding companies; and
+"(II) is similar in effect to £my requirement
+imposed by the host State on a nonbanking corporation incorporated in another State that
+engages in business in the host State; and
+"(ii) submit a copy of the application to the State
+bank supervisor of the host State.
+"(B) PENALTY FOR FAILURE TO COMPLY.—^The respon-
+
+sible agency may not approve an application for an interstate merger transaction if the applicfint materially fails
+to comply with subparagraph (A).
+"(2) CONCENTRATION LIMITS.—
+"(A) NATIONWIDE CONCENTRATION LIMITS.—The respon-
+
+sible agency may not approve an application for an interstate merger transaction if the resulting bank (including
+all insured depository institutions which are affiliates of
+the resulting bank), upon consummation of the transaction,
+would control more than 10 percent of the total amount
+of deposits of insured depository institutions in the United
+States.
+"(B) STATEWIDE CONCENTRATION LIMITS OTHER THAN
+
+WITH RESPECT TO INITIAL ENTRIES.—^The responsible agency
+may not approve an application for an interstate merger
+transaction if—
+"(i) any bank involved in the transaction (including
+all insured depository institutions which are Eiffiliates
+of any such bank) has a branch in any State in which
+any other bank involved in the transaction has a
+branch; and
+"(ii) the resulting bank (including all insured
+depository institutions which would be gmfiliates of the
+resulting bank), upon consummation of the transaction,
+would control 30 percent or more of the total amount
+of deposits of insured depository institutions in any
+such State.
+"(C) EFFECTIVENESS OF STATE DEPOSIT CAPS.—^No provision of this subsection shall be construed as affecting the
+authority of any State to limit, by statute, regulation, or
+
+108 STAT. 2346
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+order, the percentage of the total amount of deposits of
+insured depository institutions in the State which may
+be held or controlled by any bank or bank holding company
+(including all insured depository institutions which are
+affiliates of the bank or bank holding company) to the
+extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding
+companies, or subsidiaries of such banks or holding
+companies.
+"(D) EXCEPTIONS TO SUBPARAGRAPH (B).—The respon-
+
+sible agency may approve an application for an interstate
+merger transaction pursuant to subsection (a) without
+regard to the applicability of subparagraph (B) with respect
+to any State if—
+"(i) there is a limitation described in subparagraph
+(C) in a State statute, regulation, or order which has
+the effect of permitting a bank or bank holding company (including all insured depository institutions
+which are affiliates of the bank or bank holding company) to control a greater percentage of total deposits
+of all insured depository institutions in the State than
+the percentage permitted under subparagraph (B); or
+"(ii) the transaction is approved by the appropriate
+State bank supervisor of such State and the standard
+on which such approval is based does not have the
+effect of discriminating against out-of-State banks, outof-State bank holding companies, or subsidiaries of
+such banks or holding companies.
+"(E) EXCEPTION FOR CERTAIN BANKS.^This paragraph
+shall not apply with respect to any interstate merger transaction involving only affiliated banks.
+"(3) COMMUNITY REINVESTMENT COMPLIANCE.—In determin-
+
+ing whether to approve an application for an interstate merger
+transaction in which the resulting bank would have a branch
+or bank Eiffiliate immediately following the transaction in any
+State in which the bank submitting the application (as the
+acquiring bank) had no branch or bank siffiliate immediately
+before the transaction, the responsible agency shall—
+"(A) comply with the responsibilities of the agency
+regarding such application under section 804 of the
+Community Reinvestment Act of 1977;
+"(B) take into account the most recent written evaluation under section 804 of the Community Reinvestment
+Act of 1977 of any bank which would be an affiliate of
+the resulting bank; and
+"(C) take into account the record of compliance of any
+applicant bank with applicable State community reinvestment laws.
+"(4) ADEQUACY OF CAPITAL AND MANAGEMENT SKILLS.—^The
+
+responsible agency may approve an application for an interstate
+merger transaction pursuant to subsection (a) only if—
+"(A) each bank involved in the transaction is adequately capitalized as of the date the application is filed;
+and
+"(B) the responsible agency determines that the resulting bank will continue to be adequately capitalized and
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2347
+
+adequately managed upon the consummation of the
+transaction.
+"(5)
+
+SURRENDER
+
+OF CHARTER
+
+AFTER
+
+MERGER
+
+TRANS-
+
+ACTION.—^The charters of all banks involved in an interstate
+merger transaction, other than the charter of the resulting
+bank, shall be surrendered, upon request, to the Federal banking agency or State bank supervisor which issued the charter.
+"(c) APPLICABILITY OF CERTAIN LAWS TO INTERSTATE BANKING
+OPERATIONS.—
+"(1) STATE TAXATION AUTHORITY NOT AFFECTED.—
+
+"(A) IN GENERAL,—^No provision of this section shall
+be construed as affecting the authority of any State or
+political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank
+holding company, or foreign bank, or any affiliate of any
+bank, bank holding company, or foreign bank, to the extent
+such tax or tax method is otherwise permissible by or
+under the Constitution of the United States or other Federal law.
+"(B) IMPOSITION OF SHARES TAX BY HOST STATES.—
+
+In the case of a branch of an out-of-State bank which
+results from an interstate merger transaction, a proportionate amount of the value of the shares of the out-ofState bank may be subject to any bank shares tax levied
+or imposed by the host State, or any political subdivision
+of such host State that imposes such tax based upon a
+method adopted by the host State, which may include
+allocation and apportionment.
+"(2) APPLICABILITY OF ANTITRUST LAWS.—^No provision of
+
+this section shall be construed as affecting—
+"(A) the applicability of the antitrust laws; or
+"(B) the applicability, if any, of any State law which
+is similar to the antitrust laws.
+"(3) RESERVATION OF CERTAIN RIGHTS TO STATES.—No provision of this section shall be construed as limiting in any way
+the right of a State to—
+"(A) determine the authority of State banks chartered
+by that State to establish and maintain branches; or
+"(B) supervise, regulate, and examine State banks
+chartered by that State.
+"(4) STATE-IMPOSED NOTICE REQUIREMENTS.—A host State
+may impose any notification or reporting requirement on a
+branch of an out-of-State bank if the requirement—
+"(A) does not discriminate against out-of-State banks
+or bank holding companies; and
+"(B) is not preempted by any Federal law regarding
+the same subject.
+"(d) OPERATIONS OF THE RESULTING BANK.—
+"(1) CONTINUED OPERATIONS.—A resulting
+
+bank may, subject to the approval of the appropriate Federal banking agency,
+retain and operate, as a main office or a branch, any office
+that any bank involved in an interstate merger transaction
+was operating as a main office or a branch immediately before
+the merger transaction.
+"(2) ADDITIONAL BRANCHES.—Following the consummation
+
+of any interstate merger transaction, the resulting bank may
+establish, acquire, or operate additional branches at any loca-
+
+108 STAT. 2348
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+tion where any bank involved in the transaction could have
+established, acquired, or operated a branch under applicable
+Federal or State law if such bank had not been a party to
+the merger transaction.
+"(3) CERTAIN CONDITIONS AND COMMITMENTS CONTINUED.—
+
+If, as a condition for the acquisition of a bank by an outof-State bank holding company before the date of the enactment
+of the Riegle-Neal Interstate Bgmking and Branching Efficiency
+Act of 1994—
+"(A) the home State of the acquired bank imposed
+conditions on such acquisition by such out-of-State bank
+holding company; or
+"(B) the bank holding company made commitments
+to such State in connection with the acquisition,
+the State may enforce such conditions and commitments with
+respect to such bank holding company or any affiliated successor company which controls a bank or branch in such State
+as a result of an interstate merger transaction to the same
+extent as the State could enforce such conditions or commitments against the bank holding company before the consummation of the merger transaction.
+"(e)
+
+EXCEPTION FOR BANKS IN DEFAULT OR IN DANGER OF
+
+DEFAULT.—If an application under subsection (a)(1) for approval
+of a merger transaction which involves 1 or more banks in default
+or in danger of default or with respect to which the Corporation
+provides assistance under section 13(c), the responsible agency may
+approve such application without regard to subsection (b), or paragraph (2), (4), or (5) of subsection (a).
+"(f) DEFINITIONS.—For purposes of this section, the following
+definitions shall apply:
+"(1) ADEQUATELY CAPITALIZED.—^The term 'adequately
+capitalized' has the same meaning as in section 38.
+"(2) ANTITRUST LAWS.—The term 'antitrust laws'—
+"(A) has the same meaning as in subsection (a) of
+the first section of the Clayton Act; and
+"(B) includes section 5 of the Federal Trade Commission Act to the extent such section 5 relates to unfair
+methods of competition.
+"(3) BRANCH.—^The term 'branch' means any domestic
+branch.
+"(4) HOME STATE.—The term 'home State'—
+"(A) means—
+"(i) with respect to a national bank, the State
+in which the main office of the bank is located; and
+"(ii) with respect to a State bank, the State by
+which the bank is chartered; and
+"(B) with respect to a bank holding company, has the
+same meaning as in section 2(o)(4) of the Bank Holding
+Company Act of 1956.
+"(5) HOST STATE.—^The term 'host State' means, with
+respect to a bank, a State, other than the home State of
+the bank, in which the bank maintains, or seeks to establish
+and maintain, a branch.
+"(6) INTERSTATE MERGER TRANSACTION.—The term 'interstate merger transaction' means any merger transaction
+approved pursuant to subsection (a)(1).
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2349
+
+"(7) MERGER TRANSACTION.—The term 'merger transaction'
+has the meaning determined under section 18(c)(3).
+"(8) OUT-OF-STATE BANK.—The term 'out-of-State bank'
+means, with respect to any State, a bank whose home State
+is another State.
+"(9) OUT-OF-STATE BANK HOLDING COMPANY.—^The term
+'out-of-State bank holding compan}^' means, with respect to
+any State, a bank holding company whose home State is
+another State.
+"(10) RESPONSIBLE AGENCY.—^The term 'responsible agency'
+means the agency determined in accordance with section
+18(c)(2) with respect to a merger transaction.
+"(11) RESULTING BANK.—The term 'resulting bank' means
+a bank that has resulted from an interstate merger transaction
+under this section.",
+(b) TECHNICAL AND CONFORMING AMENDMENTS.—
+(1) REVISED STATUTES.—Section 5155 of the Revised
+
+Statutes (12 U.S.C. 36) is amended—
+(A) by redesignating subsections (d) through (h) as
+subsections (h) through (1), respectively; and
+(B) by inserting after subsection (c) the following new
+subsections:
+"(d) BRANCHES RESULTING FROM INTERSTATE MERGER TRANS-
+
+ACTIONS.—^A national bank resulting from an interstate merger
+transaction (as defined in section 44(f)(6) of the Federal Deposit
+Insurance Act) may maintain and operate a branch in a State
+other than the home State (as defined in subsection (g)(3)(B)) of
+such bank in accordance with section 44 of the Federal Deposit
+Insurance Act.
+"(e) EXCLUSIVE AUTHORITY FOR ADDITIONAL BRANCHES.—
+
+"(1) IN GENERAL.—Effective June 1, 1997, a national bank
+may not acquire, establish, or operate a branch in any State
+other than the bank's home State (as defined in subsection
+(g)(3)(B)) or a State in which the bank already has a branch
+unless the acquisition, establishment, or operation of such
+branch in such State by such national bank is authorized
+under this section or section 13(f), 13(k), or 44 of the Federal
+Deposit Insurance Act.
+"(2) RETENTION OF BRANCHES.—In the case of a national
+bank which relocates the main office of such bank from 1
+State to another State £ifter May 31, 1997, the bank may
+retain and operate branches within the State which was the
+bank's home State (as defined in subsection (g)(3)(B)) before
+the relocation of such office only to the extent the bank would
+be authorized, under this section or any other provision of
+law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
+"(A) the bank had no branches in such State; or
+"(B) the branch resulted from—
+"(i) an interstate merger transaction approved
+pursuant to section 44 of the Federal Deposit Insurance
+Act; or
+"(ii) a transaction after May 31, 1997, pursuant
+to which the bank received assistance from the Federal
+Deposit Insurance Corporation under section 13(c) of
+such Act.
+"(f) LAW APPLICABLE TO INTERSTATE BRANCHING OPERATIONS.—
+
+108 STAT. 2350
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+"(1) LAW APPLICABLE TO NATIONAL BANK BRANCHES.—
+
+"(A) IN GENERAL.—^The laws of the host State regarding
+community reinvestment, consumer protection, fair lending,
+and establishment of intrastate branches shall apply to
+any branch in the host State of an out-of-State national
+bank to the same extent as such State laws apply to
+a branch of a bank chartered by that State, except—
+"(i) when Federal law preempts the application
+of such State laws to a national bank; or
+"(ii) when the Comptroller of the Currency determines that the application of such State laws would
+have a discriminatory effect on the branch in comparison with the effect the application of such State laws
+would have with respect to branches of a bank chartered by the host State.
+"(B) ENFORCEMENT OF APPLICABLE STATE LAWS.—^The
+
+provisions of any State law to which a branch of a national
+bank is subject under this paragraph shall be enforced,
+with respect to such branch, by the Comptroller of the
+Currency.
+"(2) TREATMENT OF BRANCH AS BANK.—All laws of a host
+State, other than the laws regarding community reinvestment,
+consumer protection, fair lending, establishment of intrastate
+branches, and the application or administration of any tax
+or method of taxation, shall apply to a branch (in such State)
+of an out-of-State national bank to the same extent as such
+laws would apply if the branch were a national bank the
+main office of which is in such State.
+"(3) RULE OF CONSTRUCTION.—NO provision of this subsection may be construed as affecting the legal standards for
+preemption of the application of State law to national banks.".
+(2) ACT OF MAY i, isse.—Section 2 of the Act entitled
+"An Act to enable national banking associations to increase
+their capital stock and to change their names and locations."
+and approved May 1, 1886 (12 U.S.C. 30) is amended by adding
+at the end the following new subsection:
+"(c) COORDINATION WITH REVISED STATUTES.—In the case of
+a national bank which relocates the main office of such bank from
+1 State to another State after May 31, 1997, the bank may retain
+and operate branches within the State from which the bank
+relocated such office only to the extent authorized in section
+5155(e)(2) of the Revised Statutes.".
+(3) FEDERAL DEPOSIT INSURANCE ACT.—
+(A) EXCLUSIVE AUTHORITY FOR ADDITIONAL BRANCHES
+OF STATE NONMEMBER BANKS.—Section 18(d) of the Federal
+
+Deposit Insurance Act (12 U.S.C. 1828(d)) is amended by
+adding at the end the following new paragraph:
+"(3)
+
+EXCLUSIVE AUTHORITY FOR ADDITIONAL BRANCHES.—
+
+"(A) IN GENERAL.—Effective June 1, 1997, a State
+nonmember bank may not acquire, establish, or operate
+a branch in any State other than the bank's home State
+(as defined in section 44(f)(4)) or a State in which the
+bank already has a branch unless the acquisition, establishment, or operation of a branch in such State by a State
+nonmember bank is authorized under this subsection or
+section 13(f), 13(k), or 44.
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+i
+
+f
+
+i08 STAT. 2351
+
+"(B) RETENTION OF BRANCHES.—In the case of a State
+nonmember bank which relocates the main office of such
+bank from 1 State to another State after May 31, 1997,
+the bank may retain and operate branches within the State
+which was the bank's home State (as defined in section
+44(f)(4)) before the relocation of such office only to the
+extent the bank would be authorized, under this section
+or any other provision of law referred to in subparagraph
+(A), to acquire, establish, or commence to operate a branch
+in such State if—
+"(i) the bank had no branches in such State; or
+"(ii) the branch resulted from—
+"(I) an interstate merger transaction approved
+pursuant to section 44; or
+"(II) a transaction after May 31, 1997, pursuant to which the bank received assistance from
+the Corporation under section 13(c).".
+(B) ACTIVITIES O F BRANCHES O F STATE BANKS RESULTING FROM INTERSTATE MERGER TRANSACTIONS.—Section 24
+
+of the Federal Deposit Insurance Act (12 U.S.C. 1831a)
+is amended by adding at the end the following new subsection:
+"(j) ACTIVITIES OF BRANCHES OF OUT-OF-STATE BANKS.—
+
+"(1) I N GENERAL.—^The laws of a host State, including laws
+regarding community reinvestment, consumer protection, fair
+lending, and establishment of intrastate branches, shall apply
+to any branch in the host State of an out-of-State State bank
+to the same extent as such State laws apply to a branch
+of a bank chartered by that State.
+"(2) ACTIVITIES OF BRANCHES.^An insured State bank that
+establishes a branch in a host State may not conduct any
+activity at such branch that is not permissible for a bank
+chartered by the host State.
+"(3) DEFINITIONS.—^The terms 'host State', 'interstate
+merger transaction', and 'out-of-State bank' have the same
+meanings as in section 44(f).".
+(4) ACT OF NOVEMBER i, I9i8.—The Act entitled "An Act
+
+to provide for the consolidation of the national banking associations." and approved November 7, 1918 (12 U.S.C. 215 et seq.)
+is amended—
+(A) by redesignating section 2 as section 3;
+12 USC 2l5a.
+(B) by redesignating section 3 as section 5;
+l2USC2l5b.
+(C) in the 1st section, by striking "That (a) any national 12 USC 215 note,
+banking association" and inserting the following:
+"SECTION 1. SHORT TITLE.
+
+National Bank
+
+"This Act may be cited as the 'National Bank Consolidation and^Merger°Act.
+and Merger Act'.
+"SEC. 2. CONSOUDATION OF BANKS WITHIN THE SAME STATE.
+12 USC 215.
+"(a) IN GENERAL.—Any national bank"; and
+(D) by inserting after section 3 (as so redesignated
+under subparagraph (A) of this paragraph) the following
+new section:
+"SEC. 4. INTERSTATE CONSOLIDATIONS AND MERGERS.
+
+"(a) IN GENERAL.—^A national bank may engage in a consolidation or merger under this Act with an out-of-State bank if the
+
+12 USC 215a-l.
+
+108 STAT. 2352
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+consolidation or merger is approved pursuant to section 44 of the
+Federal Deposit Insurance Act.
+"(b) SCOPE OF APPLICATION.—Subsection (a) shall not apply
+
+with respect to any consolidation or merger before June 1, 1997,
+unless the home State of each bank involved in the transaction
+has in effect a law described in section 44(a)(3) of the Federal
+Deposit Insurance Act.
+"(c) DEFINITIONS.—The terms 'home State' and 'out-of-State
+bank' have the same meaning as in section 44(f) of the Federal
+Deposit Insurance Act,".
+(5) HOME OWNERS' LOAN ACT.—Section 3 of the Home Owners' Loan Act (12 U.S.C. 1462a) is amended—
+(A) by redesignating subsections (f) through (i) as subsections (g) through (j), respectively; and
+(B) by inserting after subsection (e), the following new
+subsection:
+"(f) STATE HOMESTEAD PROVISIONS.—^No provision of this Act
+or any other provision of law administered by the Director shall
+be construed as superseding any homestead provision of any State
+constitution, including any implementing State statute, in effect
+on the date of enactment of the Riegle-Neal Interstate Banking
+and Branching Efficiency Act of 1994, or any subsequent amendment to such a State constitutional or statutory provision in effect
+on such date, that exempts the homestead of any person from
+foreclosure, or forced sale, for the payment of all debts, other
+than a purchase money obligation relating to the homestead, taxes
+due on the homestead, or an obligation arising from work and
+material used in constructing improvements on the homestead.".
+SEC. 103. STATE "OPT-IN" ELECTION TO PERMIT INTERSTATE BRANCHING THROUGH DE NOVO BRANCHES.
+
+(a) NATIONAL BANKS.—Section 5155 of the Revised Statutes
+(12 U.S.C. 36) is amended by inserting after subsection (f) (as
+added by section 102(b)) the following new subsection:
+"(g) STATE 'OPT-IN' ELECTION To PERMIT INTERSTATE BRANCHING THROUGH D E NOVO BRANCHES.—
+
+"(1) IN GENERAL.—Subject to paragraph (2), the Comptroller
+of the Currency may approve an application by a national
+bank to establish and operate a de novo branch in a State
+(other than the bank's home State) in which the bank does
+not maintain a branch if—
+"(A) there is in effect in the host State a law that—
+"(i) applies equally to all banks; and
+"(ii) expressly permits all out-of-State banks to
+establish de novo branches in such State; and
+"(B) the conditions established in, or made applicable
+to this paragraph by, paragraph (2) are met.
+"(2) CONDITIONS ON ESTABLISHMENT AND OPERATION OF
+INTERSTATE BRANCH.—
+
+"(A) ESTABLISHMENT.—^An application by a national
+bank to establish and operate a de novo branch in a host
+State shall be subject to the same requirements and conditions to which an application for an interstate merger
+transaction is subject under paragraphs (1), (3), and (4)
+of section 44(b) of the Federal Deposit Insurance Act.
+"(B) OPERATION.—Subsections (c) and (d)(2) of section
+44 of the Federal Deposit Insurance Act shall apply with
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2353
+
+respect to each branch of a national bank which is estabhshed and operated pursuant to an application approved
+under this subsection in the same manner and to the
+same extent such provisions of such section 44 apply to
+a branch of a national bank which resulted from an interstate merger transaction approved pursuant to such section
+44.
+"(3) DEFINITIONS.—The following definitions shall apply for
+purposes of this section:
+"(A) D E NOVO BRANCH.—The term 'de novo branch'
+means a branch of a national bank which—
+"(i) is originally established by the national bank
+as a branch; and
+"(ii) does not become a branch of such bank as
+a result of—
+"(I) the acquisition by the bank of an insured
+depository institution or a branch of an insured
+depository institution; or
+"(II) the conversion, merger, or consolidation
+of any such institution or branch.
+"(B) HOME STATE.—^The term 'home State' means the
+State in which the main office of a national bank is located.
+"(C) HOST STATE.—The term 'host State' means, with
+respect to a bank, a State, other than the home State
+of the bank, in which the bank maintains, or seeks to
+establish and maintain, a branch.".
+(b) STATE BANKS.—Section 18(d) of the Federal Deposit Insurance Act (12 U.S.C. 1828(d)) is amended by inserting after paragraph (3) (as added by section 102(b)(3) of this title) the following
+new paragraph:
+"(4) STATE 'OPT-IN' ELECTION TO PERMIT INTERSTATE
+BRANCHING THROUGH DE NOVO BRANCHES.—
+
+"(A) IN GENERAL.—Subject to subparagraph (B), the
+Corporation may approve an application by an insured
+State nonmember bank to establish and operate a de novo
+branch in a State (other than the bank's home State)
+in which the bank does not maintain a branch if—
+"(i) there is in effect in the host State a law that—
+"(I) applies equally to all banks; and
+"(II) expressly permits all out-of-State banks
+to establish de novo branches in such State; and
+"(ii) the conditions established in, or made
+applicable to this paragraph by, subparagraph (B) are
+met.
+"(B) CONDITIONS ON ESTABLISHMENT AND OPERATION
+OF INTERSTATE B R A N C H . ^
+
+"(i) ESTABLISHMENT.—^An application by an insured
+State nonmember bank to establish and operate a de
+novo branch in a host State shall be subject to the
+same requirements and conditions to which an application for a merger transaction is subject under paragraphs (1), (3), and (4) of section 44(b).
+"(ii) OPERATION.—Subsections (c) and (d)(2) of section 44 shall apply with respect to each branch of
+an insured State nonmember bank which is established
+and operated pursuant to an application approved
+under this paragraph in the same manner and to the
+
+108 STAT. 2354
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+same extent such provisions of such section apply to
+a branch of a State bank which resulted from a merger
+transaction under such section 44.
+"(C) D E NOVO BRANCH DEFINED.—For purposes of this
+paragraph, the term *de novo branch' means a branch of
+a State bank which—
+"(i) is originally established by the State bank
+as a branch; and
+"(ii) does not oecome a branch of such bank as
+a result of—
+"(I) the acquisition by the bank of an insured
+depository institution or a branch of an insured
+depository institution; or
+"(II) the conversion, merger, or consolidation
+of any such institution or branch.
+"(D) HOME STATE DEFINED.—The term 'home State'
+means the State by which a State bank is chartered.
+"(E) HOST STATE DEFINED.—The term 'host State'
+means, with respect to a bank, a State, other than the
+home State of the bank, in which the bank maintains,
+or seeks to establish and maintain, a branch.".
+
+SEC. 104. BRANCHING BY FOREIGN BANKS.
+(a) IN GENERAL.—Section 5(a) of the International Banking
+Act of 1978 (12 U.S.C. 3103(a)) is amended to read as follows:
+"(a) INTERSTATE BRANCHING AND AGENCY OPERATIONS.—
+"(1) FEDERAL BRANCH OR AGENCY.—Subject to the
+
+provisions of this Act and with the prior written approval by the
+Board and the Comptroller of the Currency of an application,
+a foreign bank may establish and operate a Federal branch
+or agency in any State outside the home State of such foreign
+bank to the extent that the establishment and operation of
+such branch would be permitted under section 5155(g) of the
+Revised Statutes or section 44 of the Federal Deposit Insurance
+Act if the foreign bank were a national bank whose home
+Stj te is the same State as the home State of the foreign
+bank.
+"(2) STATE BRANCH OR AGENCY.—Subject to the provisions
+of this Act and with the prior written approval by the Board
+and the appropriate State bank supervisor of an application,
+a foreign bank may establish and operate a State branch or
+agency in any State outside the home State of such foreign
+bank to the extent that such establishment and operation would
+be permitted under section 18(d)(4) or 44 of the Federal Deposit
+Insurance Act if the foreign bank were a State bank whose
+home State is the same State as the home State of the foreign
+bank.
+"(3)
+
+CRITERIA
+
+FOR
+
+DETERMINATION.—In
+
+approving
+
+an
+
+application under paragraph (1) or (2), the Board and (in the
+case of an application under paragraph (1)) the Comptroller
+of the Currency—
+"(A) shall apply the standards applicable to the
+establishment of a foreign bank office in the United States
+under section 7(d);
+"(B) may not approve an application unless the Board
+and (in the case of an application under paragraph (1))
+the Comptroller of the Currency—
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2355
+
+"(i) determine that the foreign bank's financial
+resources, including the capital level of the bank, are
+equivalent to those required for a domestic bank to
+be approved for branching under section 5155 of the
+Revised Statutes and section 44 of the Federal Deposit
+Insurance Act; and
+"(ii) consult with the Secretary of the Treasury
+regarding capital equivalency; and
+"(C) shall apply the same requirements and conditions
+to which an application for an interstate merger transaction
+is subject under paragraphs (1), (3), and (4) of section
+44(b) of the Federal Deposit Insurance Act.
+"(4) OPERATION.—Subsections (c) and (d)(2) of section 44
+of the Federal Deposit Insurance Act shall apply with respect
+to each branch and agency of a foreign bank which is established and operated pursuant to an application approved under
+this subsection in the same manner and to the same extent
+such provisions of such section apply to a domestic branch
+of a national or State bank (as such terms are defined in
+section 3 of such Act) which resulted from a merger transaction
+under such section 44.
+"(5) EXCLUSIVE AUTHORITY FOR ADDITIONAL BRANCHES.—
+
+Except as provided in this section, a foreign bank may not,
+directly or indirectly, acquire, establish, or operate a branch
+or agency in any State other than the home State of such
+bank.
+"(6)
+
+REQUIREMENI^ FOR A SEPARATE SUBSIDIARY.—If
+
+the
+
+Board or the Comptroller of the Currency, taking into account
+differing regulatory or accounting standards, finds that adherence by a foreign bank to capital requirements equivalent to
+those imposed under section 5155 of the Revised Statutes and
+section 44 of the Federal Deposit Insurance Act could be verified
+only if the banking activities of such bank in the United States
+are carried out in a domestic banking subsidiary within the
+United States, the Board and (in the case of an application
+under paragraph (1)) the Comptroller of the Currency may
+approve an application under paragraph (1) or (2) subject to
+a requirement that the foreign bank or company controlling
+the foreign bank establish a domestic banking subsidiary in
+the United States.
+"(7) ADDITIONAL AUTHORITY FOR INTERSTATE BRANCHES AND
+AGENCIES OF FOREIGN BANKS.—Notwithstanding paragraphs (1)
+
+and (2), a foreign bank may, with the approval of the Board
+and the Comptroller of the Currency, establish and operate
+a Federal branch or Federal agency or, with the approval
+of the Board and the appropriate State bank supervisor, a
+State branch or State agency in any State outside the foreign
+bank's home State if—
+"(A) the establishment and operation of a branch or
+agency is expressly permitted by the State in which the
+branch or agency is to be established; and
+"(B) in the case of a Federal or State branch, the
+branch receives only such deposits as would be permissible
+for a corporation organized under section 25A of the Federal
+Reserve Act.
+"(9) HOME STATE OF DOMESTIC BANK DEFINED.—For purposes of this subsection, the term 'home State' means—
+
+108 STAT. 2356
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+"(A) with respect to a national bank, the State in
+which the main office of the bank is located; and
+"(B) with respect to a State bank, the State by which
+the bank is chartered.".
+(b) CONTINUED AUTHORITY FOR LIMITED BRANCHES, AGENCIES,
+
+OR COMMERCIAL LENDING COMPANIES.—Section 5(b) of the International Banking Act of 1978 (12 U.S.C. 3103(b)) is amended by
+adding at the end the following new sentence: "Notwithstanding
+subsection (a), a foreign bank may continue to operate, after the
+enactment of the Riegle-Neal Interstate Banking and Branching
+Efficiency Act of 1994, any Federal branch. State branch. Federal
+agency. State agency, or commercial lending company subsidiary
+which such bank was operating on the day before the date of
+the enactment of such Act to the extent the branch, agency, or
+subsidiary continues, after the enactment of such Act, to engage
+in operations which were lawful under the laws in effect on the
+day before such date.".
+(c) CLARIFICATION OF BRANCHING RULES IN THE CASE OF A
+FOREIGN BANK WITH A DOMESTIC BANK SUBSIDIARY.—Section 5
+
+of the International Banking Act of 1978 (12 U.S.C. 3103) is
+amended by adding at the end the following new subsection:
+"(d) CLARIFICATION OF BRANCHING RULES IN THE CASE OF A
+FOREIGN BANK WITH A DOMESTIC BANK SUBSIDIARY.—In the case
+
+of a foreign bank that has a domestic bank subsidiary within
+the United States—
+"(1) the fact that such bank controls a domestic bank shall
+not affect the authority of the foreign bank to establish Federal
+and State branches or agencies to the extent permitted under
+subsection (a); and
+"(2) the fact that the domestic bank is controlled by a
+foreign bank which has Federal or State branches or agencies
+in States other than the home State of such domestic bank
+shall not affect the authority of the domestic bank to establish
+branches outside the home State of the domestic bank to the
+extent permitted under section 5155(g) of the Revised Statutes
+or section 18(d)(4) or 44 of the Federal Deposit Insurance Act,
+as the case may be.".
+(d) HOME STATE DETERMINATIONS.—Section 5(c) of the
+
+Inter-
+
+national Banking Act of 1978 (12 U.S.C. 3103(c)) is amended to
+read as follows:
+"(c) DETERMINATION OF HOME STATE OF FOREIGN BANK.—^For
+
+the purposes of this section—
+"(1) in the case of a foreign bank that has any branch,
+agency, subsidiary commercial lending company, or subsidiary
+bank in more than 1 State, the home State of the foreign
+bank is the 1 State of such States which is selected to be
+the home State by the foreign bank or, in default of any
+such selection, by the Board; and
+"(2) in the case of a foreign bank that does not have
+a branch, agency, subsidiary commercial lending company, or
+subsidiary bank in more than 1 State, the home State of the
+foreign bank is the State in which the foreign bank has a
+branch, agency, subsidiary commercial lending company, or
+subsidiary bank.".
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2357
+
+SEC. 105. COORDINATION OF EXAMINATION AUTHORITY.
+
+Section 10 of the Federal Deposit Insurance Act (12 U.S.C.
+1820) is amended by inserting after subsection (g) the following
+new subsection:
+"(h) COORDINATION OF EXAMINATION AUTHORITY.—
+
+"(1) IN GENERAL,.—^The appropriate State bank supervisor
+of a host State may examine a branch operated in such State
+by an out-of-State insured State bank that resulted from an
+interstate merger transaction approved under section 44 or
+a branch established in such State pursuant to section 5155(g)
+of the Revised Statutes or section 18(d)(4)—
+"(A) for the purpose of determining compliance with
+host State laws, including those that govern banking,
+community reinvestment, fair lending, consumer protection,
+and permissible activities; and
+"(B) to ensure that the activities of the branch are
+not conducted in an unsafe or unsound manner.
+"(2) ENFORCEMENT.—If the State bank supervisor of a host
+State determines that there is a violation of the law of the
+host State concerning the activities being conducted by a branch
+described in paragraph (1) or that the branch is being operated
+in an unsafe and unsound manner, the State bank supervisor
+of the host State or, to the extent authorized by the law of
+the host State, a State law enforcement officer may undertake
+such enforcement actions and proceedings as would be permitted under the law of the host State as if the branch were
+a bank chartered by that host State.
+"(3) COOPERATIVE AGREEMENT.—The State bank supervisors from 2 or more States may enter into cooperative agreements to facilitate State regulatory supervision of State banks,
+including cooperative agreements relating to the coordination
+of examinations and joint participation in examinations.
+"(4) FEDERAL REGULATORY AUTHORITY.—No provision of this
+subsection shall be construed as limiting in any way the authority of an appropriate Federal banking agency to examine or
+to take any enforcement actions or proceedings against any
+bank or branch of a bank for which the agency is the appropriate Federal banking agency.".
+SEC. 106. BRANCH CLOSURES.
+
+Section 42 of the Federal Deposit Insurance Act (12 U.S.C.
+1831r-l) is amended by adding at the end the following new subsection:
+"(d) BRANCH CLOSURES IN INTERSTATE BANKING OR BRANCHING
+OPERATIONS.—
+"(1) NOTICE REQUIREMENTS.—In the case of an interstate
+
+bank which proposes to close any branch in a low- or moderateincome area, the notice required under subsection (b)(2) shall
+contain the mailing address of the appropriate Federal banking
+agency and a statement that comments on the proposed closing
+of such branch may be mailed to such agency.
+"(2) ACTION REQUIRED BY APPROPRIATE FEDERAL BANKING
+
+AGENCY.—If, in the case of a branch referred to in paragraph (1)—
+"(A) a person from the area in which such brsmch
+is located—
+
+108 STAT. 2358
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+"(i) submits a written request relating to the closing of such branch to the appropriate Federal banking
+agency; and
+"(ii) includes a statement of specific reasons for
+the request, including a discussion of the adverse effect
+of such closing on the availability of banking services
+in the area affected by the closing of the branch; and
+"(B) the agency concludes that the request is not
+frivolous,
+the agency shall consult with community leaders in the affected
+area and convene a meeting of representatives of the agency
+and other interested depository institution regulatory agencies
+with community leaders in the affected area and such other
+individuals, organizations, and depository institutions (as
+defined in section 19(b)(1)(A) of the Federal Reserve Act) as
+the agency may determine, in the discretion of the agency,
+to be appropriate, to explore the feasibility of obtaining adequate alternative facilities and services for the affected area,
+including the establishment of a new branch by another depository institution, the chartering of a new depository institution,
+or the establishment of a community development credit union,
+following the closing of the branch.
+"(3) No EFFECT ON CLOSING.—'No action by the appropriate
+Federal banking agency under paragraph (2) shall affect the
+authority of an interstate bank to close a branch (including
+the timing of such closing) if the requirements of subsections
+(a) and (b) have been met by such bank with respect to the
+branch being closed.
+"(4) DEFINITIONS.—For purposes of this subsection, the following definitions shall apply:
+"(A) INTERSTATE BANK DEFINED.—The term 'interstate
+bank' means a bank which maintains branches in more
+than 1 State.
+"(B) Low- OR MODERATE-INCOME AREA.—The term 'lowor moderate-income area' means a census tract for which
+the median family income is—
+"(i) less than 80 percent of the median family
+income for the metropolitan statistical area (as designated by the Director of the Office of Management
+and Budget) in which the census tract is located; or
+"(ii) in the case of a census tract which is not
+located in a metropolitan statistical area, less than
+80 percent of the median family income for the State
+in which the census tract is located, as determined
+without taking into account family income in metropolitan statistical areas in such State.".
+
+^
+
+SEC. 107. EQUAUZING COMPETITIVE OPPORTUNITIES FOR UNITED
+STATES AND FOREIGN BANKS.
+(a) REGULATORY OBJECTIVES.—Section 6 of the International
+
+^
+
+Banking Act of 1978 (12 U.S.C. 3104) is amended—
+(1) by redesignating subsections (a) through (c) as subsections (b) through (d), respectively; and
+(2) by inserting after "SEC. 6" the following new subsection:
+"(a) OBJECTIVE.—In implementing this section, the Comptroller
+and the Federal Deposit Insurance Corporation shall each, by affording equal competitive opportunities to foreign and United States
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2359
+
+banking organizations in their United States operations, ensure
+that foreign banking organizations do not receive an unfair competitive advantage over United States banking organizations.".
+(b) REVIEW OF REGULATIONS.—
+12 use 3i04
+(1) IN GENERAL.—Each Federal banking agency, after con- "o**sultation with the other Federal banking agencies to assure
+uniformity, shall revise the regulations adopted by such agency
+under section 6 of the International Banking Act of 1978 to
+ensure that the regulations are consistent with the objective
+set forth in section 6(a) of the International Banking Act of
+1978.
+(2) SPECIFIC FACTORS.—In carrying out paragraph (1), each
+Federal banking agency shall consider whether to permit an
+uninsured branch of a foreign bank to accept initial deposits
+of less than $ 100,000 only from—
+(A) individuals who are not citizens or residents of
+the United States at the time of the initial deposit;
+(B) individuals who—
+(i) are not citizens of the United States;
+(ii) are residents of the United States; and
+(iii) are employed by a foreign bank, foreign business, foreign government, or recognized international
+organization;
+(C) persons to whom the branch or foreign bank has
+extended credit or provided other nondeposit banking
+services;
+(D) foreign businesses and large United States
+businesses;
+(E) foreign governmental units and recognized international organizations; and
+(F) persons who are depositing funds in connection
+with the issuance of a financial instrument by the branch
+for the transmission of funds.
+(3) REDUCTION IN REGULATORY DE MINIMIS EXEMPTION.—
+
+In carrying out paragraph (1), each Federal banking agency
+shall limit any exemption which is—
+(A) available under any regulation prescribed pursuant
+to section 6(d) of the International Banking Act of 1978
+providing for the acceptance of initial deposits of less than
+$100,000 by an uninsured branch of a foreign bank; and
+(B) based on a percentage of the average deposits at
+such branch;
+to not more than 1 percent of the average deposits at such
+branch.
+(4) ADDITIONAL RELEVANT CONSIDERATIONS.—In carrying
+
+out paragraph (1), each Federal banking agency shall also
+consider the importance of maintaining and improving the
+availability of credit to all sectors of the United States economy,
+including the international trade finance sector of the United
+State economy.
+(5) DEADLINE FOR PRESCRIBING REVISED REGULATIONS.—
+
+Each Federal banking agency—
+(A) shall publish final regulations under paragraph Federal
+(1) in the Federal Register not later than 12 months after Register,
+the date of enactment of this Act; and
+publication.
+(B) may establish reasonable transition rules to facilitate any termination of any deposit-taking activities that
+
+108 STAT. 2360
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+were permissible under regulations that were in effect
+before the date of enactment of this Act.
+(6) DEFINITIONS.—For purposes of this subsection—
+(A) the term "Federal banking agency" means—
+(i) the Comptroller of the Currency with respect
+to Federal branches of foreign banks; and
+(ii) the Federal Deposit Insurance Corporation
+with respect to State branches of foreign banks; and
+(B) the term "uninsured branch" means a branch of
+a foreign bank that is not an insured branch, as defined
+in section 3(s)(3) of the Federal Deposit Insurance Act
+(12U.S.C. 1813(s)(3)).
+
+(c) AMENDMENT AFFIRMING THAT CONSUMER PROTECTION LAWS
+APPLY TO FOREIGN BANKS.—Section 9(b) of the International Bank-
+
+ing Act of 1978 (12 U.S.C. 3106a) is amended—
+(1) in paragraph (1)—
+(A) by redesignating subparagraphs (A) and (B) as
+subparagraphs (B) and (C), respectively; and
+(B) by inserting after "which—" the following new
+subparagraph:
+"(A) impose requirements that protect the rights of
+consumers in financial transactions, to the extent that
+the branch, agency, or commercial lending company
+engages in activities that are subject to such laws;"; and
+(2) in paragraph (2)—
+(A) by redesignating subparagraphs (A) and (B) as
+subparagraphs (B) and (C), respectively; eind
+(B) by inserting after "which—" the following new
+subparagraph:
+"(A) impose requirements that protect the rights of
+consumers in financial transactions, to the extent that
+the branch, agency, or commercial lending company
+engages in activities that are subject to such laws;".
+(d) INSURED BANKS IN TERRITORIES N O T TREATED AS FOREIGN
+
+BANKS FOR PURPOSES OF RETAIL DEPOSIT-TAKING RULE.—Section
+
+6(d) of the International Banking Act of 1978 (12 U.S.C. 3104(c))
+(as so redesignated by subsection (a)(1) of this section) is amended
+by adding at the end the following new paragraph:
+"(3) INSURED BANKS IN U.S. TERRITORIES.—^For purposes
+of this subsection, the term 'foreign bank' does not include
+any bank organized under the laws of any territory of the
+United States, Puerto Rico, Guam, American Samoa, or the
+Virgin Islands the deposits of which are insured by the Federal
+Deposit Insurance Corporation pursuant to the Federal Deposit
+Insurance Act.".
+(e) AMENDMENT RELATING TO SHELL BRANCHES.—
+
+(1) I N GENERAL.—Section 7 of the International Banking
+Act of 1978 (12 U.S.C. 3105) is amended by adding at the
+end the following new subsection:
+"(k) MANAGEMENT OF SHELL BRANCHES.—
+
+"(1) TRANSACTIONS PROHIBITED.—A branch or agency of
+
+a foreign bank shall not manage, through an office of the
+foreign bank which is located outside the United States and
+is managed or controlled by such branch or agency, any type
+of activity that a bank organized under the laws of the United
+States, any State, or the District of Columbia is not permitted
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2361
+
+to manage at any branch or subsidiary of such bank which
+is located outside the United States.
+"(2) REGULATIONS.—^Any regulations promulgated to carry
+out this section—
+"(A) shall be promulgated in accordance with section
+13; and
+"(B) shall be uniform, to the extent practicable.".
+(2) EFFECTIVE DATE.—The amendment made by paragraph
+(1) shall become effective at the end of the 180-day period
+beginning on the date of enactment of this Act.
+(f) MEETING COMMUNITY CREDIT NEEDS.—Section 5(a) of the
+
+International Banking Act of 1978 (12 U.S.C. 3103(a)) (as amended
+by section 104 of this Act) is amended by inserting after paragraph
+(7) the following new paragraph:
+"(8) CONTINUING REQUIREMENT FOR MEETING COMMUNITY
+CREDIT NEEDS AFTER INITIAL INTERSTATE ENTRY BY ACQUISITION.—
+
+"(A) IN GENERAL.—If a foreign bank acquires a bank
+or a branch of a bank, in a State in which the foreign
+bank does not maintain a branch, and such acquired bank
+is, or is part of, a regulated financial institution (as defined
+in section 803 of the Community Reinvestment Act of 1977),
+the Community Reinvestment Act of 1977 shall continue
+to apply to each branch of the foreign bank which results
+from the acquisition as if such branch were a regulated
+financial institution.
+"(B)
+
+EXCEPTION FOR BRANCH THAT RECEIVES ONLY
+
+DEPOSITS PERMISSIBLE FOR AN EDGE ACT CORPORATION.—
+Paragraph (1) shall not apply to any branch that receives
+only such deposits as are permissible for a corporation
+organized under section 25A of the Federal Reserve Act
+to receive.".
+SEC. 108. FEDERAL RESERVE BOARD STUDY ON BANK FEES.
+
+(a) I N GENERAL.—Section 1002 of the Financial Institutions
+Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811
+note) is amended to read as follows:
+"SEC. 1002. SURVEY OF BANK FEES AND SERVICES.
+
+"(a) ANNUAL SURVEY REQUIRED.—The Board of Governors of
+the Federal Reserve System shall obtain a sample, which is representative by geographic location and size of the institution, of—
+"(1) certain retail banking services provided by insured
+depository institutions; and
+"(2) the fees, if any, which are imposed by such institutions
+for providing any such service, including fees imposed for not
+sufficient funds, deposit items returned, and automated teller
+machine transactions.
+"(b) ANNUAL REPORT TO CONGRESS REQUIRED.—
+
+"(1) PREPARATION.—The Board of Governors of the Federal
+Reserve System shall prepare a report of the results of each
+survey conducted pursuant to subsection (a).
+"(2) CONTENTS OF THE REPORT.—Each report prepared
+pursuant to paragraph (1) shall include—
+"(A) a description of any discernible trend, in the
+Nation as a whole and in each region, in the cost and
+availability of retail banking services which delineates dif-
+
+12 use 3105
+^°^-
+
+108 STAT. 2362
+
+12 use 1811
+note.
+12 u s e 1835a.
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+ferences on the basis of size of the institution and engagement in multistate activity; and
+"(B) a description of the correlation, if any, among
+the following factors:
+"(i) An increase or decrease in the amount of any
+deposit insurance premium assessed by the Feder^
+Deposit Insurance Corporation against insured depository institutions.
+"(ii) An increase or decrease in the amount of
+the fees imposed by such institutions for providing
+retail banking services.
+"(iii) A decrease in the availability of such services.
+"(3) SUBMISSION TO CONGRESS.—The Board of Governors
+of the Federal Reserve System shall submit an annual report
+to the Congress not later than September 1, 1995, and not
+later than June 1 of each subsequent year.".
+(b) SUNSET.—The requirements of subsection (a) shall not apply
+after the end of the 7-year period beginning on the date of enactment
+of this Act.
+SEC. 109. PROfflBrriON AGAINST DEPOSIT PRODUCTION OFFICES.
+
+(a) REGULATIONS.—^The appropriate Federal banking agencies
+shall prescribe uniform regulations effective June 1, 1997, which
+prohibit any out-of-State bank from using any authority to engage
+in interstate branching pursuant to this title, or any amendment
+made by this title to any other provision of law, primarily for
+the purpose of deposit production.
+(b) GUIDELINES FOR MEETING CREDIT NEEDS.—Regulations
+
+issued under subsection (a) shall include guidelines to ensure that
+interstate branches operated by an out-of-State bank in a host
+State are reasonably helping to meet the credit needs of the communities which the branches serve.
+(c) LIMITATION ON OUT-OF-STATE LOANS.—
+
+(1) LIMITATION.—Regulations issued under subsection (a)
+shall require that, beginning no earlier than 1 year after
+establishment or acquisition of an interstate branch or branches
+in a host State by an out-of-State bank, if the appropriate
+Federal banking agency for the out-of-State bank determines
+that the bank's level of lending in the host State relative
+to the deposits from the host State (as reasonably determinable
+from available information including the agency's sampling of
+the bank's loan files during an examination or such data as
+is otherwise available) is less than half the average of total
+loans in the host State relative to total deposits from the
+host State (as determinable from relevant sources) for all banks
+the home State of which is such State—
+(A) the appropriate Federal banking agency for the
+out-of-State bank shall review the loan portfolio of the
+bank £ind determine whether the bank is reasonably helping to meet the credit needs of the communities served
+by the bank in the host State; and
+(B) if the agency determines that the out-of-State bank
+is not reasonably helping to meet those needs—
+(i) the agency may order that an interstate branch
+or branches of such bank in the host State be closed
+unless the bank provides reasonable assurances to the
+satisfaction of the appropriate Federal banking agency
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2363
+
+that the bank has an acceptable plan that will reasonably help to meet the credit needs of the communities
+served by the bank in the host State, and
+(ii) the out-of-State bank may not open a new
+interstate branch in the host State unless the bank
+provides reasonable assurances to the satisfaction of
+the appropriate Federal banking agency that the bank
+will reasonably help to meet the credit needs of the
+community that the new branch will serve.
+(2) CONSIDERATIONS.—In making a determination under
+paragraph (1)(A), the appropriate Federal banking agency shall
+consider—
+(A) whether the interstate branch or branches of the
+out-of-State bank were formerly part of a failed or failing
+depository institution;
+(B) whether the interstate branch was acquired under
+circumstances where there was a low loan-to-deposit ratio
+because of the nature of the acquired institution's business
+or loan portfolio;
+(C) whether the interstate branch or branches of the
+out-of-State bank have a higher concentration of commercial or credit card lending, trust services, or other specialized activities;
+(D) the ratings received by the out-of-State bank under
+the Community Reinvestment Act of 1977;
+(E) economic conditions, including the level of loan
+demand, within the communities served by the interstate
+branch or branches of the out-of-State bank; and
+(F) the safe and sound operation and condition of the
+out-of-State bank.
+(3) BRANCH CLOSING PROCEDURE.—
+(A) NOTICE REQUIRED.—^Before exercising any authority
+
+under paragraph (l)(B)(i), the appropriate Federal banking
+agency shall issue to the bank a notice of the agency's
+intention to close an interstate branch or branches and
+shall schedule a hearing.
+(B) HEARING.—Section 8(h) of the Federal Deposit
+Insurance Act shall apply to any proceeding brought under
+this paragraph.
+(d) APPLICATION.—^This section shall apply with respect to any
+interstate branch established or acquired in a host State pursuant
+to this title or any amendment made by this title to any other
+provision of law.
+(e) DEFINITIONS.—^For the purposes of this section, the following
+definitions shall apply:
+(1) APPROPRIATE FEDERAL BANKING AGENCY, BANK, STATE,
+
+AND STATE BANK.—The terms "appropriate Federal banking
+agency", "bank", "State", and "State bank" have the same meanings as in section 3 of the Federal Deposit Insurance Act.
+(2) HOME STATE.—The term "home State" means—
+(A) in the case of a national bank, the State in which
+the main office of the bank is located; and
+(B) in the case of a State bank, the State by which
+the bank is chartered.
+(3) HOST STATE.—The term "host State" means a State
+in which a bank establishes a branch other than the home
+State of the bank.
+
+108 STAT. 2364
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+(4) INTERSTATE BRANCH.—The term "interstate branch"
+means a branch established pursuant to this title or any amendment made by this title to any other provision of law.
+(5) OUT-OF-STATE BANK.—The term "out-of-State bank"
+means, with respect to any State, a bank the home State
+of which is another State ai^d, for purposes of this section,
+includes a foreign bank, the home State of which is another
+State.
+
+SEC. 110. COMMUNITY REINVESTMENT ACT EVALUATION OF BANKS
+WITH INTERSTATE BRANCHES.
+
+(a) IN GENERAL,—Section 807 of the Community Reinvestment
+Act of 1977 (12 U.S.C. 2906) is amended by adding at the end
+the following new subsections:
+"(d) INSTITUTIONS WITH INTERSTATE BRANCHES.—
+"(1) STATE-BY-STATE EVALUATION.—In the case of a regu-
+
+lated financial institution that maintains domestic branches
+in 2 or more States, the appropriate Federal financial supervisory agency shall prepare—
+"(A) a written evaluation of the entire institution's
+record of performance under this title, as required by subsections (a), (b), and (c); and
+"(B) for each State in which the institution maintains
+1 or more domestic branches, a separate written evaluation
+of the institution's record of performance within such State
+under this title, as required by subsections (a), (b), and
+(0.
+"(2) MULTISTATE METROPOLITAN AREAS.—In t h e case of a
+
+regulated financial institution that maintains domestic
+branches in 2 or more States within a multistate metropolitan
+area, the appropriate Federal financial supervisory agency shall
+prepare a separate written evaluation of the institution's record
+of performance within such metropolitan area under this title,
+as required by subsections (a), (b), and (c). If the agency prepares a written evaluation pursuant to this paragraph, the
+scope of the written evaluation required under paragraph (1)(B)
+shall be adjusted accordingly.
+"(3) CONTENT OF STATE LEVEL EVALUATION.—^A written
+
+evaluation prepared pursuant to paragraph (1)(B) shall—
+"(A) present the information required by subparagraphs (A) and (B) of subsection (b)(1) separately for each
+metropolitan area in which the institution maintains 1
+or more domestic branch offices and separately for the
+remainder of the nonmetropolitan area of the State if the
+institution maintains 1 or more domestic branch offices
+in such nonmetropolitan area; and
+"(B) describe how the Federal financial supervisory
+agency has performed the examination of the institution,
+including a list of the individual branches examined.
+"(e) DEFINITIONS.—For purposes of this section the following
+definitions shall apply:
+"(1) DOMESTIC BRANCH.—The term 'domestic branch' means
+any branch office or other facility of a regulated financial
+institution that accepts deposits, located in any State.
+"(2) METROPOLITAN AREA.—The term 'metropolitan area'
+means any primary metropolitan statistical area, metropolitan
+statistical area, or consolidated metropolitan statistical area.
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2365
+
+as defined by the Director of the Office of Management and
+Budget, with a population of 250,000 or more, and any other
+area designated as such by the appropriate Federal financial
+supervisory agency,
+"(3) STATE.—^The term 'State' has the same meaning as
+in section 3 of the Federal Deposit Insurance Act.",
+(b) SEPARATE PRESENTATION.—Section 807(b)(1) of the Community Reinvestment Act of 1977 (12 U.S.C. 2906(b)(1)) is amended—
+(1) by redesignating subparagraphs (A) through (C) as
+clauses (i) through (iii), respectively;
+(2) by striking "The public" and inserting the following:
+"(A) CONTENTS OF WRITTEN EVALUATION.—The public";
+
+and
+(3) by adding at the end the following new subparagraph:
+"(B) METROPOLITAN AREA DISTINCTIONS.—^The informa-
+
+tion required by clauses (i) and (ii) of subparagraph (A)
+shall be presented separately for each metropolitan area
+in which a regulated depository institution maintains one
+or more domestic branch offices.".
+SEC. 111. RESTATEMENT OF EXISTING LAW.
+
+No provision of this title and no amendment made by this
+title to any other provision of law shall be construed as affecting
+in any way—
+(1) the authority of any State or political subdivision of
+any State to adopt, apply, or administer any tax or method
+of taxation to any bank, bank holding company, or foreign
+bank, or any affiliate of any such bank, bank holding company,
+or foreign bank, to the extent that such tax or tax method
+is otherwise permissible by or under the Constitution of the
+United States or other Federal law;
+(2) the right of any State, or any political subdivision
+of any State, to impose or maintain a nondiscriminatory franchise tax or other nonproperty tax instead of a franchise tax
+in accordance with section 3124 of title 31, United States Code;
+or
+(3) the applicability of section 5197 of the Revised Statutes
+or section 27 of the Federal Deposit Insurance Act.
+SEC. 112. GAG R E P O R T ON DATA COLLECTION UNDER INTERSTATE
+BRANCHING.
+
+(a) IN GENERAL.—^The Comptroller General of the United States
+shall submit to the Congress, not later than 9 months after the
+date of enactment of this Act, a report that—
+(1) examines statutory and regulatory requirements for
+insured depository institutions to collect and report deposit
+and lending data; and
+(2) determines what modifications to such requirements
+are needed, so that the implementation of the interstate branching provisions contained in this title will result in no material
+loss of information important to regulatory or congressional
+oversight of insured depository institutions.
+(b) CONSULTATION.—^The Comptroller General, in preparing the
+report required by this section, shall consult with individuals representing the appropriate Federal banking agencies, insured depository institutions, consumers, community groups, and other
+interested parties.
+
+12 USC 1811
+
+108 STAT. 2366
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+(c) DEFINITIONS.—For purposes of this section, the terms
+"appropriate Federal banking agency" and "insured depository
+institution" have the same meanings as in section 3 of the Federal
+Deposit Insurance Act.
+SEC. 113. MAXIMUM INTEREST RATE ON CERTAIN FMHA LOANS.
+
+(a) IN GENERAL.—Section 307(a) of the ConsoHdated Farm and
+Rural Development Act (7 U.S.C. 1927(a)) is amended—
+(1) in paragraph (3)(A), by striking "Except" and inserting
+"Notwithstanding the provisions of the constitution or laws
+of any State limiting the rate or amount of interest that may
+be charged, taken, received, or reserved, except"; and
+(2) in paragraph (5)—
+(A) by striking "(5) The" and inserting "(5)(A) Except
+as provided in subparagraph (B), the"; and
+(B) by adding at the end the following new subparagraph:
+"(B) In the case of a loan made under section 310B as a
+guaranteed loan, subparagraph (A) shall apply notwithstanding
+the provisions of the constitution or laws of any State limiting
+the rate or amount of interest that may be charged, taken, received,
+or reserved.".
+7 u s e 1927 note.
+
+(b) EFFECTIVE DATES.—
+
+(1) IN GENERAL.—Except as provided in paragraphs (2)
+and (3), the amendments made by subsection (a) shall apply
+to a loan made, insured, or guaranteed under the Consolidated
+Farm and Rural Development Act (7 U.S.C. 1921 et seq.) in
+a State on or after the date of enactment of this Act.
+(2) STATE OPTION.—^Except as provided in paragraph (3),
+the amendments made by subsection (a) shall not apply to
+a loan made, insured, or guaranteed under the Consolidated
+Farm and Rural Development Act in a State after the date
+(that occurs during the 3-year period beginning on the date
+of enactment of this Act) on which the State adopts a law
+or certifies that the voters of the State have voted in favor
+of a provision of the constitution or law of the State that
+states that the State does not want the amendments made
+by subsection (a) to apply with respect to loems made, insured,
+or guaranteed under such Act in the State.
+(3) TRANSITIONAL PERIOD.—In any case in which a State
+takes an action described in paragraph (2), the amendments
+made by subsection (a) shall continue to apply to a loan made,
+insured, or guaranteed under the Consolidated Farm and Rural
+Development Act in the State after the date the action was
+taken pursuant to a commitment for the loan that was entered
+into during the period beginning on the date of enactment
+of this Act, and ending on the date on which the State takes
+the action.
+SEC. 114. NOTICE REQUIREMENTS FOR BANKING AGENCY DECISIONS
+PREEMPTING STATE LAW.
+
+Chapter 4 of title LXII of the Revised Statutes (12 U.S.C.
+21 et seq.) is amended by adding at the end the following new
+section:
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2367
+
+"SEC. 5244. INTERPRETATIONS CONCERNING PREEMPTION OF CERTAIN STATE LAWS.
+"(a)
+
+12 u s e 43.
+
+NOTICE AND OPPORTUNITY FOR COMMENT REQUIRED.—
+
+Before issuing any opinion letter or interpretive rule, in response
+to a request or upon the agency's own motion, that concludes
+that Federal law preempts the application to a national bank of
+any State law regarding community reinvestment, consumer protection, fair lending, or the establishment of intrastate branches, or
+before making a determination under section 5155(f)(l)(A)(ii) of
+the Revised Statutes, the appropriate Federal banking agency (as
+defined in section 3 of the Federal Deposit Insurance Act) shall—
+"(1) publish in the Federal Register notice of the preemption
+or discrimination issue that the agency is considering (including
+a description of each State law at issue);
+"(2) give interested parties not less than 30 days in which
+to submit written comments; and
+"(3) in developing the final opinion letter or interpretive
+rule issued by the agency, or making any determination under
+section 5155(f)(l)(A)(ii) of the Revised Statutes, consider any
+comments received.
+"(b) PUBLICATION REQUIRED.—The appropriate Federal banking
+agency shall publish in the Federal Register—
+"(1) any final opinion letter or interpretive rule concluding
+that Federal law preempts the application of any State law
+regarding community reinvestment, consumer protection, fair
+lending, or establishment of intrastate branches to a national
+bank; and
+"(2) any determination under section 5155(f)(l)(A)(ii) of
+the Revised Statutes.
+"(c) EXCEPTIONS.—
+
+"(1) No NEW ISSUE OR SIGNIFICANT BASIS.—This section
+shall not apply with respect to any opinion letter or interpretive
+rule that—
+"(A) raises issues of Federal preemption of State law
+that are essentially identical to those previously resolved
+by the courts or on which the agency has previously issued
+an opinion letter or interpretive rule; or
+"(B) responds to a request that contains no significant
+legal basis on which to make a preemption determination.
+"(2) JUDICIAL, LEGISLATIVE, OR INTRAGOVERNMENTAL MATE-
+
+RIALS.—This section shall not apply with respect to materials
+prepared for use in judicial proceedings or submission to Congress or a Member of Congress, or for intragovernmental use.
+"(3) EMERGENCY.—The appropriate Federal banking agency
+may make exceptions to subsection (a) if—
+"(A) the agency determines in writing that the exception is necessary to avoid a serious and imminent threat
+to the safety and soundness of any national bank; or
+"(B) the opinion letter or interpretive rule is issued
+in connection with—
+"(i) an acquisition of 1 or more banks in default
+or in danger of default (as such terms are defined
+in section 3 of the Federal Deposit Insurance Act);
+or
+"(ii) an acquisition with respect to which the Federal Deposit Insurance Corporation provides assistance
+
+Federal
+Register,
+publication.
+
+Federal
+Register,
+publication.
+
+108 STAT. 2368
+
+12 use 3105
+"°^-
+
+12^^SC 3107
+note.
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+under section 13(c) of the Federal Deposit Insurance
+Act.".
+SEC. 115. MORATORIUM ON EXAMINATION FEES UNDER THE INTERNATIONAL BANKING ACT OF 1978.
+(a) BRANCHES, AGENCIES, AND AFFILIATES.—Section 7(c)(1)(D)
+of the International Banking Act of 1978 shall not apply with
+respect to anv examination under section 7(c)(1)(A) of such Act
+which begins before or during the 3-year period beginning on July
+25, 1994.
+(b) REPRESENTATIVE OFFICES.—The provision of section 10(c)
+of the International Banking Act of 1978 relating to the cost of
+examinations under such section shall not apply with respect to
+any examination under such section which begins before or during
+the 3-year period beginning on July 25, 1994.
+
+TITLE II—GENERAL PROVISIONS
+SEC. 201. AMENDMENTS TO FEDERAL DEPOSIT INSURANCE ACT AND
+FEDERAL HOME LOAN BANK ACT.
+(a) FEDERAL DEPOSIT INSURANCE ACT.—Section ll(d)(14) of
+
+the Federal Deposit Insurance Act (12 U.S.C. 1821(d)(14)) is
+amended by adding at the end the following new subparagraph:
+"(C) REVIVAL OF EXPIRED STATE CAUSES OF ACTION.—
+
+"(i) I N GENERAL.—In the case of any tort claim
+described in clause (ii) for which the statute of limitation applicable under State law with respect to such
+claim has expired not more than 5 years before the
+appointment of the Corporation as conservator or
+receiver, the Corporation may bring an action as conservator or receiver on such claim without regard to
+the expiration of the statute of limitation applicable
+under State law,
+"(ii) CLAIMS DESCRIBED.—A tort claim referred to
+in clause (i) is a claim arising from fraud, intentional
+misconduct resulting in unjust enrichment, or intentional misconduct resulting in substantial loss to the
+institution.".
+(b) FEDERAL HOME LOAN BANK ACT.—Section 21A(b)(14) of
+the Federal Home Loan Bank Act (12 U.S.C. 1441a(b)(14)) is
+amended by adding at the end the following new subparagraph:
+"(E) REVIVAL OF EXPIRED STATE CAUSES OF ACTION.—
+
+In the case of any tort claim described in subparagraph
+(A)(ii) for which the statute of limitation applicable under
+State law with respect to such claim has expired not more
+than 5 years before the appointment of the Corporation
+as conservator or receiver, the Corporation may bring an
+action as conservator or receiver on such claim without
+regard to the expiration of the statute of limitation
+applicable under State law.".
+SEC. 202. SENSE OF THE SENATE CONCERNING MULTILATERAL
+EXPORT CONTROLS.
+(a) FINDINGS.—The Senate finds that—
+(1) the United States and its allies have agreed that as
+of March 31, 1994, the Coordinating Committee (hereafter
+referred to as "COCOM"), the multilateral body that controlled
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2369
+
+strategic exports to the former Soviet Union snd other Communist States, ceased to exist;
+(2) no successor has yet been estabHshed to replace the
+COCOM;
+(3) threats to United States security are posed by rogue
+regimes that support terrorism as a matter of national policy;
+(4) a critical element of the United States proposal for
+a successor to COCOM is that supplier nations agree on a
+list of militarily critical products and technologies that would
+be denied to a handful of rogue regimes;
+(5) some allies of the United States oppose this principle
+and instead propose that such controls be left to 'national
+discretion", effectively replacing multilateral export controls
+with a loose collection of unilateral export control policies which
+would be adverse for United States security and economic
+interests;
+(6) multilateral controls are needed to thwart efforts of
+Iran, Iraq, North Korea, Libya, and other rogue regimes, to
+acquire arms and sensitive dual-use goods and technologies
+that could contribute to their efforts to build weapons of mass
+destruction; and
+(7) the United States would be forced to make the difficult
+choice of choosing between unilateral export controls under
+the Export Administration Act of 1979, which would put American companies at a competitive disadvantage worldwide, or
+allowing exports that could seriously harm the national security
+interests of the United States.
+(b) SENSE OF THE SENATE.—It is the sense of the Senate that—
+(1) the President should work to achieve a clearly defined
+and enforceable agreement with allies of the United States
+which establishes a multilateral export control system for the
+proliferation of products and technologies to rogue regimes that
+would jeopardize the national security of the United States;
+and
+(2) the President should persuade allies of the United
+States to promote mutual security interests by preventing rogue
+regimes from obtaining militarily critical products and
+technologies.
+SEC. 203. AMENDMENTS RELATING TO SILVER MEDALS FOR PERSIAN
+GULF VETERANS.
+
+Title III of Public law 102-281 (31 U.S.C. 5111 note) is
+amended—
+(1) in section 303(b), by striking "entitlement" and inserting
+"enactment"; and
+(2) in section 307 by striking subsection (b) and inserting
+the following:
+"(b) No EXPENDITURES IN ADVANCE OF RECEIPT OF FUNDS.—
+
+The Secretary of the Treasury shall begin minting and issuing
+the medals described in section 302 whenever there are any funds
+available to cover the cost of minting and issuing any such medals
+from amounts received by the Secretary under section 305 and
+donations by private persons, and shall continue minting and issuing such medals, subject to the availability of funds to cover the
+costs, until all of the medals authorized have been issued.".
+SEC. 204. COMMEMORATION OF 1995 SPECIAL OLYMPIC WORLD GAMES.
+(a) COIN SPECIFICATIONS.—
+
+31 USC 5112
+^°^'
+
+108 STAT. 2370
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+(1) ONE DOLLAR SILVER COINS.—
+
+(A) ISSUANCE.—^The Secretary of the Treasury (hereafter in this section referred to as the "Secretary") shall
+issue not more than 800,000 $1 coins, which shall weigh
+26.73 grams, have a diameter of 1.500 inches, and shall
+contain 90 percent silver and IQ percent copper.
+(B) DESIGN.—^The design of the coins issued under
+this section shall be emblematic of the 1995 Special Olympics World Games. On each such coin there shall be a
+designation of the value of the coin, an inscription of the
+year "1995", and inscriptions of the words "Liberty", "In
+Gk)d We Trust", "United States of America", and "E
+Pluribus Unum".
+(2) LEGAL TENDER.—^The coins issued under this section
+shall be legal tender as provided in section 5103 of title 31,
+United States Code.
+(3) NUMISMATIC ITEMS.—^For purposes of section 5132(a)(1)
+of title 31, United States Code, all coins minted under this
+section shall be considered to be numismatic items.
+(b) SOURCES OF BULLION.—The Secretary shall obtain silver
+for the coins minted under this section only from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
+(c) SELECTION OF DESIGN.—^The design for the coins authorized
+by this section shall be selected by the Secretary after consultation
+with the 1995 Special Olympics World Games Organizing Committee, Inc. and the Commission of Fine Arts. As required by section
+5135 of title 31, United States Code, the design shall also be
+reviewed by the Citizens Commemorative Coin Advisory Committee.
+(d) ISSUANCE OF THE COINS.—
+(1) QUALITY OF COINS.—^The coins authorized under this
+
+section may be issued in uncirculated and proof qualities.
+(2) MINT FACILITY.—^Not more than 1 facility of the United
+States Mint may be used to strike any particular quality of
+the coins minted under this section.
+(3) PERIOD FOR ISSUANCE.—The Secretary shall issue coins
+minted under this section during the period beginning on January 15, 1995, and ending on December 31, 1995.
+(e) SALE OF THE COINS.—
+(1) SALE PRICE.—^The coins issued under this section shall
+
+be sold by the Secretary at a price equal to the sum of the
+face value of the coins, the surcharge provided in paragraph
+(4) with respect to such coins, and the cost of designing and
+issuing such coins (including labor, materials, dies, use of
+machinery, overhead expenses, marketing, and shipping).
+(2) BULK SALES.—The Secretary shall make bulk sales at
+a reasonable discount.
+(3) PREPAID ORDERS.—^The Secretary shall accept prepaid
+orders for the coins authorized under this section prior to
+the issuance of such coins. Sales under this subsection shall
+be at a reasonable discount.
+(4) SURCHARGE REQUIRED.—^All sales shall include a surcharge of $10 per coin.
+(5) INTERNATIONAL SALES.—^The Secretary, in cooperation
+with the 1995 Special Olympics World Games Organizing
+Committee, shall develop an international marketing program
+to promote and sell coins outside of the United States.
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2371
+
+(f) GENERAL WAIVER OF PROCUREMENT REGULATIONS.—^No
+
+provision of law governing procurement or public contracts shall
+be applicable to the procurement of goods or services necessary
+for carrying out the provisions of this section. Nothing in this
+subsection shall relieve any person entering into a contract under
+the authority of this section from complying with any law relating
+to equal employment opportunity.
+(g) DISTRIBUTION OF SURCHARGES.—^The total surcharges collected by the Secretarj^ from the sale of the coins issued under
+this section shall be promptly paid by the Secretary to the 1995
+Special Olympics World Games Organizing Committee, Inc. Such
+amounts shall be used to—
+(1) provide a world class sporting event for athletes with
+mental retardation;
+(2) demonstrate to a global audience the extraordinary
+talents, dedication, and courage of persons with mental retardation; and
+(3) underwrite the cost of staging and promoting the 1995
+Special Oljnnpics World Games.
+(h) AUDITS.—^The Comptroller General of the United States
+shall have the right to examine such books, records, documents,
+and other data of the 1995 Special Olympics World Games Organizing Committee, Inc. as may be related to the expenditure of amounts
+paid under subsection (g).
+(i) FINANCL\L ASSURANCES.—
+(1) No NET COST TO THE GOVERNMENT.—The Secretary
+
+shall take all actions necessary to ensure that the issuance
+of the coins authorized by this section shall result in no net
+cost to the United States Government.
+(2) ADEQUATE SECURITY FOR PAYMENT REQUIRED.—^No coin
+shall be issued under this section unless the Secretary has
+received—
+(A) full payment therefor;
+(B) security satisfactory to the Secretary to indemnify
+the United States for full pa)niient; or
+(C) a guarantee of full payment satisfactory to the
+'
+Secretary from a depository institution whose deposits are
+insured by the Federal Deposit Insurance Corporation or
+the National Credit Union Administration Board.
+SEC. 205. NATIONAL COMMUNITY SERVICE COMMEMORATIVE COINS.
+(a) COIN SPECIFICATIONS.—
+(1) $1 SILVER COINS.—The Secretary of the Treasury (here-
+
+after in this section referred to as the "Secretary") shall mint
+and issue not more than 500,000 $1 coins to commemorate
+students who volunteer to perform community service, which
+shall—
+(A) weigh 26.73 grams;
+(B) have a diameter of 1.500 inches; and
+(C) contain 90 percent silver and 10 percent copper.
+(2) LEGAL TENDER.—^The coins issued under this section
+shall be legal tender, as provided in section 5103 of title 31,
+United States Code.
+(3) NUMISMATIC ITEMS.—For purposes of section 5134 of
+
+title 31, United States Code, all coins minted under this section
+shall be considered to be numismatic items.
+
+31 USC 5112
+
+108 STAT. 2372
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+(b) SOURCES OF BULLION.—The Secretary shall obtain silver
+for the coins minted under this section only from stockpiles established under the Strategic and Critical Minerals Stock Piling Act.
+(c) DESIGN OF COINS.—
+(1) D E S I G N REQUIREMENTS.—
+
+(A) IN GENERAL.—^The design of the coins minted under
+this section shall be emblematic of community services
+provided by student volunteers.
+
+(B)
+
+DESIGNATION AND INSCRIPTIONS.—On
+
+each coin
+
+minted under this section there shall be—
+(i) a designation of the value of the coin;
+(ii) an inscription of the year "1996"; and
+(iii) inscriptions of the words "Liberty", "In God
+We Trust", "United States of America", and "E Pluribus
+Unum".
+(2) SELECTION.—The design for the coins authorized by
+this section shall be—
+(A) selected by the Secretary after consultation with
+the National Community Service Trust and the Commission
+•
+of Fine Arts; and
+(B) reviewed by the Citizens Commemorative Coin
+Advisory Committee.
+(d) ISSUANCE OF COINS.—
+(1) QUALITY OF COINS.—Coins minted under this section
+
+shall be issued in uncirculated and proof qualities.
+(2) MINT FACILITY.—Only 1 facility of the United States
+
+Mint may be used to strike any particular quality of the coins
+minted under this section.
+(3) PERIOD FOR ISSUANCE.—^The Secretary shall issue coins
+minted under this section for a period of not less than 6
+months and not more than 12 months, beginning no later
+than September 1, 1996.
+(e) SALE OF COINS.—
+(1) SALE PRICE.—^The coins issued under this section shall
+
+be sold by the Secretary at a price equal to the sum of—
+(A) the face value of the coins;
+(B) the surcharge provided in paragraph (4) with
+respect to such coins; and
+(C) the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead
+expenses, marketing, and shipping),
+(2) BULK SALES.—The Secretary shall make bulk sales of
+the coins issued under this section available at a reasonable
+discount.
+(3) P R E P A I D ORDERS.—
+
+(A) I N GENERAL.—^The Secretary shall accept prepaid
+orders for the coins minted under this section before the
+issuance of such coins.
+(B) DISCOUNT.—Sale prices with respect to prepaid
+orders under subparagraph (A) shall be at a reasonable
+discount.
+(4) SURCHARGES.—^All sales shall include a surcharge of
+$10 per coin.
+(f) GENERAL WAIVER OF PROCUREMENT REGULATIONS.—
+
+(1) IN GENERAL.—Except as provided in paragraph (2), no
+provision of law governing procurement or public contracts
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2373
+
+shall be applicable to the procurement of goods and services
+necessary for carrying out the provisions of this section.
+(2) EQUAL EMPLOYMENT OPPORTUNITY.—Paragraph (1) shall
+not relieve any person entering into a contract under the
+authority of this section from complying with any law relating
+to equal employment opportunity.
+(g) DISTRIBUTION OF SURCHARGES.—
+
+(1) IN GENERAL.—^All surcharges received by the Secretary
+from the sale of coins issued under this section shall be
+promptly paid by the Secretary to the National Community
+Service Trust for the purpose of funding innovative community
+service programs at American universities, including the service, research, and teaching activities of faculty and students
+involved in such programs.
+(2) AUDITS.—The Comptroller General of the United States
+shall have the right to examine such books, records, documents,
+and other data of the National Community Service Trust as
+may be related to the expenditures of amounts paid under
+paragraph (1).
+(h) FINANCIAL ASSURANCES.—
+(1) No NET COST TO THE GOVERNMENT.—The Secretary
+
+shall take such actions as may be necessary to ensure that
+minting and issuing coins under this section will not result
+in any net cost to the United States Government.
+(2) PAYMENT FOR COINS.—^A coin, shall not be issued under
+this section unless the Secretary has received—
+(A) full payment for the coin;
+(B) security satisfactory to the Secretary to indemnify
+the United States for full pa3m:ient; or
+(C) a guarantee of full payment satisfactory to the
+Secretary from a depository institution whose deposits are
+insured by the Federal Deposit Insurance Corporation or
+the National Credit Union Administration Board.
+SEC. 206. ROBERT F. KENNEDY MEMORIAL COMMEMORATIVE COINS.
+(a) COIN SPECIFICATIONS.—
+(1) $1 SILVER COlNS.^The
+
+Secretary of the Treasury (hereafter in this section referred to as the "Secretary") shall mint
+and issue not more than 500,000 $1 coins to commemorate
+the life and work of Robert F. Kennedy, which shall—
+(A) weigh 26.73 grams;
+(B) have a diameter of 1.500 inches; and
+(C) contain 90 percent silver and 10 percent copper.
+(2) LEGAL TENDER.—^The coins issued under this section
+shall be legal tender, as provided in section 5103 of title 31,
+United States Code.
+(3) NUMISMATIC ITEMS.—For purposes of section 5134 of
+
+title 31, United States Code, all coins minted under this section
+shall be considered to be numismatic items.
+(b) SOURCES OF BULLION.—^The Secretary shall obtain silver
+for the coins minted under this section only from stockpiles established under the Strategic and Critical Minerals Stock Piling Act.
+(c) DESIGN OF COINS.—
+(1) DESIGN REQUIREMENTS.—
+
+(A) IN GENERAL.—^The design of the coins minted under
+this section shall be emblematic of the life and work of
+Robert F. Kennedy.
+
+31 USC 5112
+
+108 STAT. 2374
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+(B) DESIGNATION AND INSCRIPTIONS.—On each coin
+minted under this section there shall be—
+(i) a designation of the value of the coin;
+(ii) an inscription of the year "1998"; and
+(iii) inscriptions of the words "Liberty", "In God
+We Trust", "United States of America", and "E Pluribus
+Unum".
+(2) SELECTION.—^The design for the coins authorized by
+this section shall be—
+(A) selected by the Secretary sifter consultation with
+the Robert F. Kennedy Memorial and the Commission of
+Fine Arts; and
+(B) reviewed by the Citizens Commemorative Coin
+Advisory Committee.
+(d) ISSUANCE OF COINS.—
+(1) QUALITY OF COINS.—Coins minted under this section
+
+shall be issued in uncirculated and proof qualities.
+(2) MINT FACILITY.—Only 1 facility of the United States
+
+Mint may be used to strike any particular quality of the coins
+minted under this section.
+(3) PERIOD FOR ISSUANCE.r—The Secretary shall issue coins
+minted under this section for a period of not less than 6
+months and not more than 12 months, beginning no later
+than January 1, 1998.
+(e) SALE OF COINS.—
+(1) SALE PRICE.—^The coins issued under this section shall
+
+be sold by the Secretary at a price equal to the sum of—
+(A) the face value of the coins;
+(B) the surcharge provided in paragraph (4) with
+respect to such coins; and
+(C) the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead
+expenses, marketing, and shipping).
+(2) BULK SALES.—The Secretary shall make bulk sales of
+the coins issued under this section available at a reasonable
+discount.
+(3) PREPAID ORDERS.—
+
+(A) IN GENERAL.—^The Secretary shall accept prepaid
+orders for the coins minted under this section before the
+issuance of such coins.
+(B) DISCOUNT.—Sale prices with respect to prepaid
+orders under subparagraph (A) shall be at a reasonable
+discount.
+(4) SURCHARGES.—^All sales shall include a surcharge of
+$10 per coin.
+(0 GENERAL WAIVER OF PROCUREMENT REGULATIONS.—
+
+(1) IN GENERAL.—Except as provided in paragraph (2), no
+provision of law governing procurement or public contracts
+shall be applicable to the procurement of goods and services
+necessary for carrying out the provisions of this section.
+(2) EQUAL EMPLOYMENT OPPORTUNITY.—Paragraph (1) shall
+not relieve any person entering into a contract under the
+authority of this section from complying with any law relating
+to equal employment opportunity.
+(g) DISTRIBUTION OF SURCHARGES.—
+
+(1) IN GENERAL.—All surcharges received by the Secretary
+from the sale of coins issued under this section shall be
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2375
+
+promptly paid by the Secretary to the Robert F. Kennedy Memorial for the purpose of improving the endowment of the Robert
+F. Kennedy Memorial.
+(2) AUDITS.—^The Comptroller General of the United States
+shall have the right to examine such books, records, documents,
+and other data of the Robert F. Kennedy Memorial as may
+be related to the expenditures of amounts paid under paragraph
+(1).
+(h) FINANCIAL ASSURANCES.—
+
+(1) No NET COST TO THE GOVERNMENT.—The Secretary
+shall take such actions as may be necessary to ensure that
+minting and issuing coins under this section will not result
+in any net cost to the United States Government.
+(2) PAYMENT FOR COINS.—^A coin shaU not be issued under
+this section unless the Secretary has received—
+(A) full payment for the coin;
+(B) security satisfactory to the Secretary to indemnify
+the United States for full payment; or
+(C) a guarantee of full payment satisfactory to the
+Secretary from a depository institution whose deposits are
+insured by the Federal Deposit Insurance Corporation or
+the National Credit Union Administration Board.
+SEC. 207. UNITED STATES MIUTARY ACADEMY BICENTENNIAL 31USC 5112
+COMMEMORATIVE COINS.
+"o^
+(a) COIN SPECIFICATIONS.—
+(1) ONE DOLLAR SILVER COINS.—
+
+(A) ISSUANCE.—^The Secretary shall issue not more
+than 500,000 $1 coins, which shall weigh 26.73 grams,
+have a diameter of 1.500 inches, and shall contain 90
+percent silver and 10 percent copper.
+(B) DESIGN.—The design of the $1 coins shall be
+emblematic of the United States Military Academy and
+its motto "Duty, Honor, Country". On each such coin there
+shall be a designation of the value of the coin, an inscription
+of the year "2002", and inscriptions of the words "Liberty",
+"In God We Trust", "United States of America", and "E
+Pluribus Unum".
+(2) LEGAL TENDER.—^The coins issued under this section
+shall be legal tender as provided in section 5103 of title 31,
+United States Code.
+(b) SOURCES OF BULLION.—The Secretary shall obtain silver
+for the coins minted under this section only from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
+(c) SELECTION OF DESIGN.—The design of the coins minted
+under this section shall be selected by the Secretary after consultation with the Commission of Fine Arts and the Bicentennial Steering Group, Association of Graduates, United States Military
+Academy. As required by section 5135 of title 31, United States
+Code, the designs shall also be reviewed by the Citizens Commemorative Coin Advisory Committee.
+(d) ISSUANCE OF THE COINS.—
+(1) QUALITY .\ND MINT FACILITY.—The
+
+coins authorized
+under this section may be issued in uncirculated and proof
+qualities and shall be struck at the United States Bullion
+Depository at West Point.
+
+108 STAT. 2376
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+(2) PERIOD FOR ISSUANCE.—The Secretary shall issue coins
+minted under this section during the period beginning on March
+16, 2002, and ending on March 16, 2003.
+(3) SUNSET PROVISION.—No coins shall be minted under
+this section after December 31, 2002.
+(e) SALE OF THE COINS.—
+(1) SALE PRICE.—^The
+
+coins issued under this section shall
+be sold by the Secretary at a price equal to the sum of the
+face value of the coins, the surcharge provided in paragraph
+(4) with respect to such coins, and the cost of designing and
+issuing such coins (including labor, materials, dies, use of
+machinery, overhead expenses, marketing, and shipping).
+(2) BULK SALES.—The Secretary shall make bulk sales
+available at a reasonable discount.
+(3) PREPAID ORDERS.—^The Secretary shall accept prepaid
+orders for the coins prior to the issuance of such coins. Sales
+under this paragraph shall be at a reasonable discount.
+(4) SURCHARGE REQUIRED.—All sales shall include a surcharge of $10 per coin.
+(D GENERAL WAIVER OF PROCUREMENT REGULATIONS.—NO
+
+provision of law governing procurement or public contracts shall
+be applicable to the procurement of goods and services necessary
+for carrying out the provisions of this section. Nothing in this
+subsection shall relieve any person entering into a contract under
+the authority of this section from complying with any law relating
+to equal employment opportunity.
+(g) DISTRIBUTION OF SURCHARGES.—The total surcharges collected by the Secretary from the sale of the coins issued under
+this section shall be promptly paid by the Secretary to the Association of Graduates, United States Military Academy to assist the
+Association of Graduates' efforts to provide direct support to the
+academic, military, physical, moral, and ethical development programs of the Corps of Cadets, United States Military Academy.
+(h) AUDITS.—^The Comptroller General of the United States
+shall have the right to examine such books, records, documents,
+and other data of the Association of Graduates, United States
+Military Academy as may be related to the expenditure of amounts
+paid under subsection (g).
+(i) NUMISMATIC PUBLIC ENTERPRISE FUND.—The coins issued
+under this section are subject to the provisions of section 5134
+of title 31, United States Code, relating to the Numismatic Public
+Enterprise Fund.
+(j) FINANCIAL ASSURANCES.—
+
+(1) No NET COST TO THE GOVERNMENT.—^The Secretary
+shall take all actions necessary to ensure that the issuance
+of the coins authorized by this section shall result in no net
+cost to the United States Government.
+(2) ADEQUATE SECURITY FOR PAYMENT REQUIRED.—^No coin
+shall be issued under this section unless the Secretary has
+received—
+(A) full payment therefor;
+(B) security satisfactory to the Secretary to indemnify
+the United States for full payment; or
+(C) a guarantee of full payment satisfactory to the
+Secretary from a depository institution whose deposits are
+insured by the Federal Deposit Insurance Corporation or
+the National Credit Union Administration Board.
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2377
+
+SEC. 208. UNITED STATES BOTANIC GARDEN COMMEMORATIVE COINS.
+(a) C O I N S P E C I F I C A T I O N S . —
+(1) ONE-DOLLAR SILVER COINS.—
+
+\
+1
+
+(A) ISSUANCE.—^The Secretary of the Treasury (hereafter in this section referred to as the "Secretary^') shall
+mint and issue not more than 500,000 $1 coins, which
+shall weigh 26.73 grams, have a diameter of 1.500 inches,
+and contain 90 percent silver and 10 percent copper.
+(B) DESIGN.—^The design of the coins issued under
+this section shall be a rose, the national floral emblem,
+and a frontal view of the French facade of the United
+States Botanic Garden. On each coin there shall be a
+designation of the value of the coin, an inscription of the
+years "1820-1995", and inscriptions of the words "Liberty",
+'^In God We Trust", "United States of America", and "E
+Pluribus Unum".
+(2) LEGAL TENDER.—^The coins issued under this section
+shall be legal tender, as provided in section 5103 of title 31,
+United States Code.
+(3) NUMISMATIC ITEMS.—For purposes of section 5134 of
+
+title 31, United States Code, all coins minted under this section
+shall be considered to be numismatic items.
+(b) SOURCE OF BULLION.—The Secretary shall obtain silver
+for the coins minted under this section only from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
+(c) SELECTION OF DESIGN.—The design for the coins minted
+under this section shall be—
+(1) selected by the Secretary after consultation with the
+National Fund for the United States Botanic Garden and the
+Commission of Fine Arts; and
+(2) reviewed by the Citizens Commemorative Coin Advisory
+Committee.
+(d) ISSUANCE OF COINS.—
+(1) QUALITY OF COINS.—Coins minted under this section
+
+may be issued in uncirculated and proof qualities.
+(2) MINT FACILITi^—Not more than 1 facility of the United
+States Mint may be used to strike any particular quality of
+the coins minted under this section.
+(3) PERIOD O F ISSUANCE.—^The Secretary may issue coins
+minted under this section during the period beginning on January 1, 1997, and ending on December 31, 1997.
+(e) SALE OF COINS.—
+(1) SALE PRICE.—The coins authorized under this section
+
+shall be sold by the Secretary at a price equal to the sum
+of the face value of the coins, the surcharge provided in paragraph (4) with respect to such coins, and the cost of designing
+and issuing the coins (including labor, materials, dies, use
+of machinery, overhead expenses, marketing, and shipping).
+(2) BULK SALES.—The Secretary shall make bulk sales
+available at a reasonable discount.
+(3) PREPAID ORDERS.—^The Secretary shall accept prepaid
+orders for the coins authorized under this section prior to
+the issuance of such coins. Sales under this paragraph shall
+be at a reasonable discount.
+(4) SURCHARGE REQUIRED.—All sales shall include a surcharge of $10 per coin.
+(f) GENERAL WAIVER OF PROCUREMENT REGULATIONS.—
+
+31 USC 5112
+
+108 STAT. 2378
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+(1) IN GENERAL.—Except as provided in paragraph (2), no
+provision of law governing procurement or public contracts
+shall be applicable to the procurement of goods and services
+necessary for carrying out the provisions of this section.
+(2) EQUAL EMPLOYMENT OPPORTUNITY.—Paragraph (1) shall
+not relieve any person entering into a contract under the
+authority of this section from complying with any law relating
+to equal employment opportunity.
+(g) DISTRIBUTION OF SURCHARGES.^AII surcharges received by
+the Secretary from the sale of coins issued under this section
+shall be promptly paid by the Secretary to the National Fund
+for the United States Botanic Garden.
+(h) AUDITS.—The Comptroller General of the United States
+shall have the right to examine such books, records, documents,
+and other data of the National Fund for the United States Botanic
+Garden as may be related to the expenditures of amounts paid
+under subsection (g).
+(i) FINANCIAL ASSURANCES.—
+(1) No NET COST TO THE GOVERNMENT.—The Secretary
+
+shall take all actions necessary to ensure that the issuance
+of the coins authorized by this section shall result in no net
+cost to the United States Government.
+(2) ADEQUATE SECURITY FOR PAYMENT REQUIRED.—No coin
+J shall be issued under this section unless the Secretary has
+received—
+(A) full payment therefor;
+(B) security satisfactory to the Secretary to indemnify
+the United States for full payment; or
+(C) a guarantee of full payment satisfactory to the
+Secretary from a depository institution whose deposits are
+insured by the Federal Deposit Insurance Corporation or
+the National Credit Union Administration Board.
+
+31 use 5112
+"°*®-
+
+31 use 5112
+"°^-
+
+SEC. 209. MOUNT RUSHMORE COMMEMORATIVE COINS.
+(a) DISTRIBUTION OF SURCHARGES.—Section 8 of the Mount
+Rushmore Commemorative Coin Act (104 Stat. 314; 31 U.S.C. 5112
+note) is amended by striking paragraphs (1) and (2) and inserting
+the following:
+"(1) the first $18,750,000 shall be paid during fiscal year
+1994 by the Secretary to the Society to assist the Society's
+efforts to improve, enlarge, and renovate the Mount Rushmore
+National Memorial; and
+"(2) the remainder shall be returned to the Federal Treasury for purposes of reducing the national debt.".
+(b) RETROACTIVE EFFECT.—If, prior to the enactment of this
+Act, any amount of surcharges have been received by the Secretary
+of the Treasury and paid into the United States Treasury pursuant
+to section 8(1) of the Mount Rushmore Commemorative Coin Act,
+as in effect prior to the enactment of this Act, that amount shall
+be paid out of the Treasury to the extent necessary to comply
+with section 8(1) of the Mount Rushmore Commemorative Coin
+Act, as in efiiect after the enactment of this Act. Amounts paid
+pursuant to the preceding sentence shall be out of funds not otherwise appropriated.
+(c) NUMISMATIC OPERATING PROFITS.—Nothing in this section
+shall iDe construed to affect the Secretary of the Treasury's right
+to derive operating profits from numismatic programs for use in
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2379
+
+supporting the United States Mint's numismatic operations and
+programs, or to allow the distribution of operating profits from
+the Numismatic Public Enterprise Fund to a recipient organization
+under any numismatic program.
+SEC. 210. STUDY AND REPORT ON THE UNITED STATES FINANCIAL
+SERVICES SYSTEM.
+(a) STUDY.—
+
+(1) IN GENERAL.—The Secretary of the Treasury (hereafter
+in this section referred to as the "Secretary") shall, after consultation with the Advisory Commission on Financial Services
+established under subsection (b), and consultation in accordance
+with paragraph (3), conduct a study of matters relating to
+the strengths and weaknesses of the United States financial
+services system in meeting the needs of the system's users,
+including the needs of-—
+(A) individual consumers and households;
+(B) communities;
+(C) agriculture;
+(D) small-, medium-, and large-sized businesses;
+(E) governmental and nonprofit entities; and
+(F) exporters and other users of international financial
+services.
+(2) MATTERS STUDIED.—The study required under paragraph (1) shall include consideration of—
+(A) the changes underway in the national and international economies and the financial services industry, and
+how those changes affect the financial services system's
+ability to efficiently meet the needs of the national economy
+and the system's users during the next 10 years and
+beyond; and
+(B) the adequacy of existing statutes and regulations,
+and the existing regulatory structure, to meet the needs
+of the financial services system's users effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
+(3) CONSULTATION.—Consultation in accordance with this
+paragraph means consultation with—
+(A) the Board of Grovemors of the Federal Reserve
+System;
+(B) the Commodity Futures Trading Commission;
+(C) the Comptroller of the Currency;
+(D) the Director of the Office of Thrift Supervision;
+(E) the Federal Deposit Insurance Corporation;
+(F) the Secretary of the Department of Housing and
+Urban Development;
+(G) the Securities and Exchange Commission;
+(H) the Director of the Congressional Budget Office;
+and
+(I) the Comptroller General of the United States.
+(b) ADVISORY COMMISSION ON FINANCIAL SERVICES.—
+
+(1) ESTABLISHME]'^.—There is established the Advisory
+Commission on Financial Services (hereafter in this section
+referred to as the "Advisory Commission").
+(2) MEMBERSHIP OF COMMISSION.—^The Advisory Commission—
+
+12 USC 1811
+note
+
+108 STAT. 2380
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+(A) shall consist of not less than 9 nor more than
+14 members appointed by the Secretary from among
+individuals—
+(i) who are—
+(I) users of the financial services system; or
+(II) experts in finance or on the financial services system; and
+(ii) who are not employees of the Federal Grovernment; and
+(B) shall include representatives of business, agriculture, and consumers.
+(3) CHAIRPERSON.—The Secretary or the Secretary's designee shall serve as Chairperson of the Advisory Commission.
+(4) TRAVEL EXPENSES.—Members of the Advisory Commis-
+
+sion shall be allowed travel expenses, including per diem in
+lieu of subsistence, at rates authorized for employees of agencies
+under subchapter I of chapter 57 of title 5, United States
+Code, while away from their homes or regular places of business
+in performing services for the Advisory Commission.
+(5) TERMINATION.—The Advisory Commission shall terminate 30 days after the date of submission of the report required
+under subsection (d).
+(c) RECOMMENDATIONS.—Based on the results of the study conducted under subsection (a), the Secretary shall develop such recommendations as may be appropriate for changes in statutes,
+regulations, and policies to improve the operation of the financial
+services system, including changes to better—
+(1) meet the needs of, and assure access to the system
+for, current and potential users;
+(2) promote economic growth;
+(3) protect consumers;
+(4) promote competition and efficiency;
+(5) avoid risk to the taxpayers;
+(6) control systemic risk; and
+(7) eliminate discrimination.
+(d) REPORT.—^Not later than 15 months after the date of enactment of this Act, the Secretary shall submit to the President pro
+tempore of the Senate and the Speaker of the House of Representatives a report describing the study conducted under subsection
+(a) and any recommendations developed under subsection (c).
+SEC. 211. FLEXIBILITY IN CHOOSING BOARDS OF DIRECTORS.
+
+(a) IN GENERAL.—Section 5146 of the Revised Statutes (12
+U.S.C. 72) is amended in the 1st sentence, by striking "two thirds"
+and inserting "a majority".
+
+PUBLIC LAW 103-328—SEPT. 29, 1994
+
+108 STAT. 2381
+
+(b) PROVISION REPEAL.—Effective on the date of enactment Effective date,
+of the Riegle Community Development and Regulatory Improvement
+Act of 1994, this section and the amendment made by this section
+are repealed.
+Approved September 29, 1994.
+
+LEGISLATIVE HISTORY—H.R. 3841 (S. 1963):
+HOUSE REPORTS: Nos. 103-448 (Comm. on Banking, Finance and Urban Affairs)
+and 103-651 (Comm. of Conference).
+SENATE REPORTS: No. 103-240 accompanying S. 1963 (Comm. on Banking, Housing,
+and Urban Affairs).
+CONGRESSIONAL RECORD, Vol. 140 (1994):
+Mar. 22, considered and passed House.
+Apr. 25,26, H.R. 3841 considered and passed Senate, amended, in lieu of S. 1963.
+Aug. 4, House agreed to conference report.
+Sept. 13, Senate agreed to conference report.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 30 (1994):
+Sept. 29, Presidential remarks.
+
+
