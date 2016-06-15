@@ -46,7 +46,6 @@ file_name = "010_cleaned_data/DODDFRANK.txt"
 f = open(file_name)
 lines = f.read()
 
-
 #Titles of DoddFrank document
 regex=  r"TITLE\s*[V,I,X]+[\sA-Z]+"
 title = re.findall(regex, lines)
@@ -62,17 +61,18 @@ cond_Terms=[]
 
 for i in range(len(title)-1):
     #Split the text by title 
-    my_regex = re.escape(title[i]) + r".*?"+re.escape(title[i+1])
+    my_regex = re.escape(title[i]) + r".*?" + re.escape(title[i+1])
     text=re.findall(my_regex,lines)
+    print text
     aux_fun=bullet_levels(text)
     bullets_1.append(aux_fun[0])
     bullets_2.append(aux_fun[1])
     bullets_3.append(aux_fun[2])
     referencesP.append(referencesSec(text))
+
     aux_fun=definition(text)
     def_1.append(aux_fun[0])
     def_2.append(aux_fun[1])
     def_3.append(aux_fun[2])
     cond_Terms.append(condTerms(text))
-
 
