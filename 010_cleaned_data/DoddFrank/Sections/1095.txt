@@ -1,1 +1,282 @@
-    The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.) is amended--            (1) by &lt;&lt;NOTE: 12 USC 2803 et seq.&gt;&gt; striking ``Board'' each         place that term appears, other than in sections 303, 304(h),         305(b) (as amended by this section), and 307(a) (as amended by         this section) and inserting ``Bureau''.            (2) in section 303 (12 U.S.C. 2802)--                    (A) by redesignating paragraphs (1) through (6) as                 paragraphs (2) through (7), respectively; and                    (B) by inserting before paragraph (2) the following:            ``(1) the &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means the         Bureau of Consumer Financial Protection;'';            (3) in section 304 (12 U.S.C. 2803)--                    (A) in subsection (b)--                          (i) in paragraph (4), by inserting ``age,''                       before ``and gender'';                          (ii) in paragraph (3), by striking ``and'' at                       the end;                          (iii) in paragraph (4), by striking the period                       at the end and inserting a semicolon; and                          (iv) by adding at the end the following:            ``(5) the number and dollar amount of mortgage loans grouped         according to measurements of--                    ``(A) the total points and fees payable at                 origination in connection with the mortgage as                 determined by the Bureau, taking into account 15 U.S.C.                 1602(aa)(4);                    ``(B) the difference between the annual percentage                 rate associated with the loan and a benchmark rate or                 rates for all loans;                    ``(C) the term in months of any prepayment penalty                 or other fee or charge payable on repayment of some                 portion of principal or the entire principal in advance                 of scheduled payments; and                    ``(D) such other information as the Bureau may                 require; and            ``(6) the number and dollar amount of mortgage loans and         completed applications grouped according to measurements of--                    ``(A) the value of the real property pledged or                 proposed to be pledged as collateral;                    ``(B) the actual or proposed term in months of any                 introductory period after which the rate of interest may                 change;                    ``(C) the presence of contractual terms or proposed                 contractual terms that would allow the mortgagor or                 applicant to make payments other than fully amortizing                 payments during any portion of the loan term;[[Page 124 STAT. 2098]]                    ``(D) the actual or proposed term in months of the                 mortgage loan;                    ``(E) the channel through which application was                 made, including retail, broker, and other relevant                 categories;                    ``(F) as the Bureau may determine to be appropriate,                 a unique identifier that identifies the loan originator                 as set forth in section 1503 of the S.A.F.E. Mortgage                 Licensing Act of 2008;                    ``(G) as the Bureau may determine to be appropriate,                 a universal loan identifier;                    ``(H) as the Bureau may determine to be appropriate,                 the parcel number that corresponds to the real property                 pledged or proposed to be pledged as collateral;                    ``(I) the credit score of mortgage applicants and                 mortgagors, in such form as the Bureau may prescribe;                 and                    ``(J) such other information as the Bureau may                 require.'';                    (B) by striking subsection (h) and inserting the                 following:    ``(h) Submission to Agencies.--            ``(1) In &lt;&lt;NOTE: Regulations.&gt;&gt; general.--The data required         to be disclosed under subsection (b) shall be submitted to the         Bureau or to the appropriate agency for the institution         reporting under this title, in accordance with rules prescribed         by &lt;&lt;NOTE: Notice. Public comment.&gt;&gt; the Bureau. Notwithstanding         the requirement of subsection (a)(2)(A) for disclosure by census         tract, the Bureau, in consultation with other appropriate         agencies described in paragraph (2) and, after notice and         comment, shall develop regulations that--                    ``(A) prescribe the format for such disclosures, the                 method for submission of the data to the appropriate                 agency, and the procedures for disclosing the                 information to the public;                    ``(B) require the collection of data required to be                 disclosed under subsection (b) with respect to loans                 sold by each institution reporting under this title;                    ``(C) require disclosure of the class of the                 purchaser of such loans;                    ``(D) permit any reporting institution to submit in                 writing to the Bureau or to the appropriate agency such                 additional data or explanations as it deems relevant to                 the decision to originate or purchase mortgage loans;                 and                    ``(E) modify or require modification of itemized                 information, for the purpose of protecting the privacy                 interests of the mortgage applicants or mortgagors, that                 is or will be available to the public.            ``(2) Other appropriate agencies.--The appropriate agencies         described in this paragraph are--                    ``(A) the appropriate Federal banking agencies, as                 defined in section 3(q) of the Federal Deposit Insurance                 Act (12 U.S.C. 1813(q)), with respect to the entities                 that are subject to the jurisdiction of each such                 agency, respectively;                    ``(B) the Federal Deposit Insurance Corporation for                 banks insured by the Federal Deposit Insurance                 Corporation (other than members of the Federal Reserve                 System), mutual savings banks, insured State branches of                 foreign banks, and any other depository institution                 described in[[Page 124 STAT. 2099]]                section 303(2)(A) which is not otherwise referred to in                 this paragraph;                    ``(C) the National Credit Union Administration Board                 with respect to credit unions; and                    ``(D) the Secretary of Housing and Urban Development                 with respect to other lending institutions not regulated                 by the agencies referred to in subparagraph (A) or (B).            ``(3) Rules for modifications under paragraph (1).--                    ``(A) Application.--A modification under paragraph                 (1)(E) shall apply to information concerning--                          ``(i) credit score data described in                       subsection (b)(6)(I), in a manner that is                       consistent with the purpose described in paragraph                       (1)(E); and                          ``(ii) age or any other category of data                       described in paragraph (5) or (6) of subsection                       (b), as the Bureau determines to be necessary to                       satisfy the purpose described in paragraph (1)(E),                       and in a manner consistent with that purpose.                    ``(B) Standards.--The Bureau shall prescribe                 standards for any modification under paragraph (1)(E) to                 effectuate the purposes of this title, in light of the                 privacy interests of mortgage applicants or mortgagors.                 Where necessary to protect the privacy interests of                 mortgage applicants or mortgagors, the Bureau shall                 provide for the disclosure of information described in                 subparagraph (A) in aggregate or other reasonably                 modified form, in order to effectuate the purposes of                 this title.'';                    (C) in subsection (i), by striking ``subsection                 (b)(4)'' and inserting ``subsections (b)(4), (b)(5), and                 (b)(6)'';                    (D) in subsection (j)--                          (i) by striking paragraph (3) and inserting                       the following:            ``(3) Change of form not required.--A depository institution         meets the disclosure requirement of paragraph (1) if the         institution provides the information required under such         paragraph in such formats as the Bureau may require''; and                          (ii) in paragraph (2)(A), by striking ``in the                       format in which such information is maintained by                       the institution'' and inserting ``in such formats                       as the Bureau may require'';                    (E) in subsection (m), by striking paragraph (2) and                 inserting the following:            ``(2) Form of information.--In complying with paragraph (1),         a depository institution shall provide the person requesting the         information with a copy of the information requested in such         formats as the Bureau may require.''; and                    (F) by adding at the end the following:    ``(n) Timing of Certain Disclosures.--The &lt;&lt;NOTE: Regulations.&gt;&gt; data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this title, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.'';            (4) in section 305 (12 U.S.C. 2804)--[[Page 124 STAT. 2100]]                    (A) by striking subsection (b) and inserting the                 following:    ``(b) Powers of Certain Other Agencies.--            ``(1) In general.--Subject to subtitle B of the Consumer         Financial Protection Act of 2010, compliance with the         requirements of this title shall be enforced--                    ``(A) under section 8 of the Federal Deposit                 Insurance Act, the appropriate Federal banking agency,                 as defined in section 3(q) of the Federal Deposit                 Insurance Act (12 U.S.C. 1813(q)), with respect to--                          ``(i) any national bank or Federal savings                       association, and any Federal branch or Federal                       agency of a foreign bank;                          ``(ii) any member bank of the Federal Reserve                       System (other than a national bank), branch or                       agency of a foreign bank (other than a Federal                       branch, Federal agency, and insured State branch                       of a foreign bank), commercial lending company                       owned or controlled by a foreign bank, and any                       organization operating under section 25 or 25A of                       the Federal Reserve Act; and                          ``(iii) any bank or State savings association                       insured by the Federal Deposit Insurance                       Corporation (other than a member of the Federal                       Reserve System), any mutual savings bank as,                       defined in section 3(f) of the Federal Deposit                       Insurance Act (12 U.S.C. 1813(f)), any insured                       State branch of a foreign bank, and any other                       depository institution not referred to in this                       paragraph or subparagraph (B) or (C);                    ``(B) under subtitle E of the Consumer Financial                 Protection Act of 2010, by the Bureau, with respect to                 any person subject to this subtitle;                    ``(C) under the Federal Credit Union Act, by the                 Administrator of the National Credit Union                 Administration with respect to any insured credit union;                 and                    ``(D) with respect to other lending institutions, by                 the Secretary of Housing and Urban Development.            ``(2) Incorporated definitions.--The terms used in paragraph         (1) that are not defined in this title or otherwise defined in         section 3(s) of the Federal Deposit Insurance Act (12 U.S.C.         1813(s)) shall have the same meanings as in section 1(b) of the         International Banking Act of 1978 (12 U.S.C. 3101).''; and                    (B) by adding at the end the following:    ``(d) Overall Enforcement Authority of the Bureau of Consumer Financial Protection.--Subject to subtitle B of the Consumer Financial Protection Act of 2010, enforcement of the requirements imposed under this title is committed to each of the agencies under subsection (b). To facilitate research, examinations, and enforcement, all data collected pursuant to section 304 shall be available to the entities listed under subsection (b). The Bureau may exercise its authorities under the Consumer Financial Protection Act of 2010 to exercise principal authority to examine and enforce compliance by any person with the requirements of this title.'';            (5) in section 306 (12 U.S.C. 2805(b)), by striking         subsection (b) and inserting the following:    ``(b) Exemption Authority.--The Bureau may, by regulation, exempt from the requirements of this title any State-chartered[[Page 124 STAT. 2101]]depository institution within any State or subdivision thereof, if the agency determines that, under the law of such State or subdivision, that institution is subject to requirements that are substantially similar to those imposed under this title, and that such law contains adequate provisions for enforcement. Notwithstanding any other provision of this subsection, compliance with the requirements imposed under this subsection shall be enforced by the Office of the Comptroller of the Currency under section 8 of the Federal Deposit Insurance Act, in the case of national banks and Federal savings associations, the deposits of which are insured by the Federal Deposit Insurance Corporation.''; and            (6) by striking section 307 (12 U.S.C. 2806) and inserting         the following:``SEC. 307. COMPLIANCE &lt;&lt;NOTE: 12 USC 2806.&gt;&gt;  IMPROVEMENT                         METHODS.    ``(a) In General.--            ``(1) Consultation required.--The Director of the Bureau of         Consumer Financial Protection, with the assistance of the         Secretary, the Director of the Bureau of the Census, the Board         of Governors of the Federal Reserve System, the Federal Deposit         Insurance Corporation, and such other persons as the Bureau         deems appropriate, shall develop or assist in the improvement         of, methods of matching addresses and census tracts to         facilitate compliance by depository institutions in as         economical a manner as possible with the requirements of this         title.            ``(2) Authorization of appropriations.--There are authorized         to be appropriated, such sums as may be necessary to carry out         this subsection.            ``(3) Contracting authority.--The Director of the Bureau of         Consumer Financial Protection is authorized to utilize, contract         with, act through, or compensate any person or agency in order         to carry out this subsection.    ``(b) Recommendations to Congress.--The Director of the Bureau of Consumer Financial Protection shall recommend to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, such additional legislation as the Director of the Bureau of Consumer Financial Protection deems appropriate to carry out the purpose of this title.''.
+
+    The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.) is 
+amended--
+            (1) by &lt;&lt;NOTE: 12 USC 2803 et seq.&gt;&gt; striking ``Board'' each 
+        place that term appears, other than in sections 303, 304(h), 
+        305(b) (as amended by this section), and 307(a) (as amended by 
+        this section) and inserting ``Bureau''.
+            (2) in section 303 (12 U.S.C. 2802)--
+                    (A) by redesignating paragraphs (1) through (6) as 
+                paragraphs (2) through (7), respectively; and
+                    (B) by inserting before paragraph (2) the following:
+            ``(1) the &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means the 
+        Bureau of Consumer Financial Protection;'';
+            (3) in section 304 (12 U.S.C. 2803)--
+                    (A) in subsection (b)--
+                          (i) in paragraph (4), by inserting ``age,'' 
+                      before ``and gender'';
+                          (ii) in paragraph (3), by striking ``and'' at 
+                      the end;
+                          (iii) in paragraph (4), by striking the period 
+                      at the end and inserting a semicolon; and
+                          (iv) by adding at the end the following:
+            ``(5) the number and dollar amount of mortgage loans grouped 
+        according to measurements of--
+                    ``(A) the total points and fees payable at 
+                origination in connection with the mortgage as 
+                determined by the Bureau, taking into account 15 U.S.C. 
+                1602(aa)(4);
+                    ``(B) the difference between the annual percentage 
+                rate associated with the loan and a benchmark rate or 
+                rates for all loans;
+                    ``(C) the term in months of any prepayment penalty 
+                or other fee or charge payable on repayment of some 
+                portion of principal or the entire principal in advance 
+                of scheduled payments; and
+                    ``(D) such other information as the Bureau may 
+                require; and
+            ``(6) the number and dollar amount of mortgage loans and 
+        completed applications grouped according to measurements of--
+                    ``(A) the value of the real property pledged or 
+                proposed to be pledged as collateral;
+                    ``(B) the actual or proposed term in months of any 
+                introductory period after which the rate of interest may 
+                change;
+                    ``(C) the presence of contractual terms or proposed 
+                contractual terms that would allow the mortgagor or 
+                applicant to make payments other than fully amortizing 
+                payments during any portion of the loan term;
+
+
+                    ``(D) the actual or proposed term in months of the 
+                mortgage loan;
+                    ``(E) the channel through which application was 
+                made, including retail, broker, and other relevant 
+                categories;
+                    ``(F) as the Bureau may determine to be appropriate, 
+                a unique identifier that identifies the loan originator 
+                as set forth in section 1503 of the S.A.F.E. Mortgage 
+                Licensing Act of 2008;
+                    ``(G) as the Bureau may determine to be appropriate, 
+                a universal loan identifier;
+                    ``(H) as the Bureau may determine to be appropriate, 
+                the parcel number that corresponds to the real property 
+                pledged or proposed to be pledged as collateral;
+                    ``(I) the credit score of mortgage applicants and 
+                mortgagors, in such form as the Bureau may prescribe; 
+                and
+                    ``(J) such other information as the Bureau may 
+                require.'';
+                    (B) by striking subsection (h) and inserting the 
+                following:
+
+    ``(h) Submission to Agencies.--
+            ``(1) In &lt;&lt;NOTE: Regulations.&gt;&gt; general.--The data required 
+        to be disclosed under subsection (b) shall be submitted to the 
+        Bureau or to the appropriate agency for the institution 
+        reporting under this title, in accordance with rules prescribed 
+        by &lt;&lt;NOTE: Notice. Public comment.&gt;&gt; the Bureau. Notwithstanding 
+        the requirement of subsection (a)(2)(A) for disclosure by census 
+        tract, the Bureau, in consultation with other appropriate 
+        agencies described in paragraph (2) and, after notice and 
+        comment, shall develop regulations that--
+                    ``(A) prescribe the format for such disclosures, the 
+                method for submission of the data to the appropriate 
+                agency, and the procedures for disclosing the 
+                information to the public;
+                    ``(B) require the collection of data required to be 
+                disclosed under subsection (b) with respect to loans 
+                sold by each institution reporting under this title;
+                    ``(C) require disclosure of the class of the 
+                purchaser of such loans;
+                    ``(D) permit any reporting institution to submit in 
+                writing to the Bureau or to the appropriate agency such 
+                additional data or explanations as it deems relevant to 
+                the decision to originate or purchase mortgage loans; 
+                and
+                    ``(E) modify or require modification of itemized 
+                information, for the purpose of protecting the privacy 
+                interests of the mortgage applicants or mortgagors, that 
+                is or will be available to the public.
+            ``(2) Other appropriate agencies.--The appropriate agencies 
+        described in this paragraph are--
+                    ``(A) the appropriate Federal banking agencies, as 
+                defined in section 3(q) of the Federal Deposit Insurance 
+                Act (12 U.S.C. 1813(q)), with respect to the entities 
+                that are subject to the jurisdiction of each such 
+                agency, respectively;
+                    ``(B) the Federal Deposit Insurance Corporation for 
+                banks insured by the Federal Deposit Insurance 
+                Corporation (other than members of the Federal Reserve 
+                System), mutual savings banks, insured State branches of 
+                foreign banks, and any other depository institution 
+                described in
+
+
+                section 303(2)(A) which is not otherwise referred to in 
+                this paragraph;
+                    ``(C) the National Credit Union Administration Board 
+                with respect to credit unions; and
+                    ``(D) the Secretary of Housing and Urban Development 
+                with respect to other lending institutions not regulated 
+                by the agencies referred to in subparagraph (A) or (B).
+            ``(3) Rules for modifications under paragraph (1).--
+                    ``(A) Application.--A modification under paragraph 
+                (1)(E) shall apply to information concerning--
+                          ``(i) credit score data described in 
+                      subsection (b)(6)(I), in a manner that is 
+                      consistent with the purpose described in paragraph 
+                      (1)(E); and
+                          ``(ii) age or any other category of data 
+                      described in paragraph (5) or (6) of subsection 
+                      (b), as the Bureau determines to be necessary to 
+                      satisfy the purpose described in paragraph (1)(E), 
+                      and in a manner consistent with that purpose.
+                    ``(B) Standards.--The Bureau shall prescribe 
+                standards for any modification under paragraph (1)(E) to 
+                effectuate the purposes of this title, in light of the 
+                privacy interests of mortgage applicants or mortgagors. 
+                Where necessary to protect the privacy interests of 
+                mortgage applicants or mortgagors, the Bureau shall 
+                provide for the disclosure of information described in 
+                subparagraph (A) in aggregate or other reasonably 
+                modified form, in order to effectuate the purposes of 
+                this title.'';
+                    (C) in subsection (i), by striking ``subsection 
+                (b)(4)'' and inserting ``subsections (b)(4), (b)(5), and 
+                (b)(6)'';
+                    (D) in subsection (j)--
+                          (i) by striking paragraph (3) and inserting 
+                      the following:
+            ``(3) Change of form not required.--A depository institution 
+        meets the disclosure requirement of paragraph (1) if the 
+        institution provides the information required under such 
+        paragraph in such formats as the Bureau may require''; and
+                          (ii) in paragraph (2)(A), by striking ``in the 
+                      format in which such information is maintained by 
+                      the institution'' and inserting ``in such formats 
+                      as the Bureau may require'';
+                    (E) in subsection (m), by striking paragraph (2) and 
+                inserting the following:
+            ``(2) Form of information.--In complying with paragraph (1), 
+        a depository institution shall provide the person requesting the 
+        information with a copy of the information requested in such 
+        formats as the Bureau may require.''; and
+                    (F) by adding at the end the following:
+
+    ``(n) Timing of Certain Disclosures.--
+The &lt;&lt;NOTE: Regulations.&gt;&gt; data required to be disclosed under 
+subsection (b) shall be submitted to the Bureau or to the appropriate 
+agency for any institution reporting under this title, in accordance 
+with regulations prescribed by the Bureau. Institutions shall not be 
+required to report new data under paragraph (5) or (6) of subsection (b) 
+before the first January 1 that occurs after the end of the 9-month 
+period beginning on the date on which regulations are issued by the 
+Bureau in final form with respect to such disclosures.'';
+            (4) in section 305 (12 U.S.C. 2804)--
+
+
+                    (A) by striking subsection (b) and inserting the 
+                following:
+
+    ``(b) Powers of Certain Other Agencies.--
+            ``(1) In general.--Subject to subtitle B of the Consumer 
+        Financial Protection Act of 2010, compliance with the 
+        requirements of this title shall be enforced--
+                    ``(A) under section 8 of the Federal Deposit 
+                Insurance Act, the appropriate Federal banking agency, 
+                as defined in section 3(q) of the Federal Deposit 
+                Insurance Act (12 U.S.C. 1813(q)), with respect to--
+                          ``(i) any national bank or Federal savings 
+                      association, and any Federal branch or Federal 
+                      agency of a foreign bank;
+                          ``(ii) any member bank of the Federal Reserve 
+                      System (other than a national bank), branch or 
+                      agency of a foreign bank (other than a Federal 
+                      branch, Federal agency, and insured State branch 
+                      of a foreign bank), commercial lending company 
+                      owned or controlled by a foreign bank, and any 
+                      organization operating under section 25 or 25A of 
+                      the Federal Reserve Act; and
+                          ``(iii) any bank or State savings association 
+                      insured by the Federal Deposit Insurance 
+                      Corporation (other than a member of the Federal 
+                      Reserve System), any mutual savings bank as, 
+                      defined in section 3(f) of the Federal Deposit 
+                      Insurance Act (12 U.S.C. 1813(f)), any insured 
+                      State branch of a foreign bank, and any other 
+                      depository institution not referred to in this 
+                      paragraph or subparagraph (B) or (C);
+                    ``(B) under subtitle E of the Consumer Financial 
+                Protection Act of 2010, by the Bureau, with respect to 
+                any person subject to this subtitle;
+                    ``(C) under the Federal Credit Union Act, by the 
+                Administrator of the National Credit Union 
+                Administration with respect to any insured credit union; 
+                and
+                    ``(D) with respect to other lending institutions, by 
+                the Secretary of Housing and Urban Development.
+            ``(2) Incorporated definitions.--The terms used in paragraph 
+        (1) that are not defined in this title or otherwise defined in 
+        section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1813(s)) shall have the same meanings as in section 1(b) of the 
+        International Banking Act of 1978 (12 U.S.C. 3101).''; and
+                    (B) by adding at the end the following:
+
+    ``(d) Overall Enforcement Authority of the Bureau of Consumer 
+Financial Protection.--Subject to subtitle B of the Consumer Financial 
+Protection Act of 2010, enforcement of the requirements imposed under 
+this title is committed to each of the agencies under subsection (b). To 
+facilitate research, examinations, and enforcement, all data collected 
+pursuant to section 304 shall be available to the entities listed under 
+subsection (b). The Bureau may exercise its authorities under the 
+Consumer Financial Protection Act of 2010 to exercise principal 
+authority to examine and enforce compliance by any person with the 
+requirements of this title.'';
+            (5) in section 306 (12 U.S.C. 2805(b)), by striking 
+        subsection (b) and inserting the following:
+
+    ``(b) Exemption Authority.--The Bureau may, by regulation, exempt 
+from the requirements of this title any State-chartered
+
+
+depository institution within any State or subdivision thereof, if the 
+agency determines that, under the law of such State or subdivision, that 
+institution is subject to requirements that are substantially similar to 
+those imposed under this title, and that such law contains adequate 
+provisions for enforcement. Notwithstanding any other provision of this 
+subsection, compliance with the requirements imposed under this 
+subsection shall be enforced by the Office of the Comptroller of the 
+Currency under section 8 of the Federal Deposit Insurance Act, in the 
+case of national banks and Federal savings associations, the deposits of 
+which are insured by the Federal Deposit Insurance Corporation.''; and
+            (6) by striking section 307 (12 U.S.C. 2806) and inserting 
+        the following:
+``SEC. 307. COMPLIANCE &lt;&lt;NOTE: 12 USC 2806.&gt;&gt;  IMPROVEMENT 
+                        METHODS.
+
+    ``(a) In General.--
+            ``(1) Consultation required.--The Director of the Bureau of 
+        Consumer Financial Protection, with the assistance of the 
+        Secretary, the Director of the Bureau of the Census, the Board 
+        of Governors of the Federal Reserve System, the Federal Deposit 
+        Insurance Corporation, and such other persons as the Bureau 
+        deems appropriate, shall develop or assist in the improvement 
+        of, methods of matching addresses and census tracts to 
+        facilitate compliance by depository institutions in as 
+        economical a manner as possible with the requirements of this 
+        title.
+            ``(2) Authorization of appropriations.--There are authorized 
+        to be appropriated, such sums as may be necessary to carry out 
+        this subsection.
+            ``(3) Contracting authority.--The Director of the Bureau of 
+        Consumer Financial Protection is authorized to utilize, contract 
+        with, act through, or compensate any person or agency in order 
+        to carry out this subsection.
+
+    ``(b) Recommendations to Congress.--The Director of the Bureau of 
+Consumer Financial Protection shall recommend to the Committee on 
+Banking, Housing, and Urban Affairs of the Senate and the Committee on 
+Financial Services of the House of Representatives, such additional 
+legislation as the Director of the Bureau of Consumer Financial 
+Protection deems appropriate to carry out the purpose of this title.''.

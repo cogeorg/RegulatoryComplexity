@@ -1,1 +1,12 @@
-                        ISSUER IN RATING DECISIONS.    Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o-7), as amended by this subtitle, is amended by adding at the end the following:    ``(v) Information From Sources Other Than the Issuer.--In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization finds credible and potentially significant to a rating decision.''.
+                        ISSUER IN RATING DECISIONS.
+
+    Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
+7), as amended by this subtitle, is amended by adding at the end the 
+following:
+    ``(v) Information From Sources Other Than the Issuer.--In producing 
+a credit rating, a nationally recognized statistical rating organization 
+shall consider information about an issuer that the nationally 
+recognized statistical rating organization has, or receives from a 
+source other than the issuer or underwriter, that the nationally 
+recognized statistical rating organization finds credible and 
+potentially significant to a rating decision.''.

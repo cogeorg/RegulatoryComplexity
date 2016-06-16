@@ -1,1 +1,20 @@
-    (a) Exemption.--Section 404 &lt;&lt;NOTE: 15 USC 7262.&gt;&gt; of the Sarbanes-Oxley Act of 2002 is amended by adding at the end the following:    ``(c) Exemption for Smaller Issuers.--Subsection (b) shall not apply with respect to any audit report prepared for an issuer that is neither a `large accelerated filer' nor an `accelerated filer' as those terms are defined in Rule 12b-2 of the Commission (17 C.F.R. 240.12b-2).''.    (b) Study.--The Securities and Exchange Commission shall conduct a study to determine how the Commission could reduce the burden of complying with section 404(b) of the Sarbanes-Oxley Act of 2002 for companies whose market capitalization is between $75,000,000 and $250,000,000 for the relevant reporting period while maintaining investor protections for such companies. The study shall also consider whether any such methods of reducing the compliance burden or a complete exemption for such companies from compliance with such section would encourage companies to list on exchanges in the United States in their initial public offerings. &lt;&lt;NOTE: Deadline. Reports.&gt;&gt;  Not later than 9 months after the date of the enactment of this subtitle, the Commission shall transmit a report of such study to Congress.
+
+    (a) Exemption.--Section 404 &lt;&lt;NOTE: 15 USC 7262.&gt;&gt; of the Sarbanes-
+Oxley Act of 2002 is amended by adding at the end the following:
+
+    ``(c) Exemption for Smaller Issuers.--Subsection (b) shall not apply 
+with respect to any audit report prepared for an issuer that is neither 
+a `large accelerated filer' nor an `accelerated filer' as those terms 
+are defined in Rule 12b-2 of the Commission (17 C.F.R. 240.12b-2).''.
+    (b) Study.--The Securities and Exchange Commission shall conduct a 
+study to determine how the Commission could reduce the burden of 
+complying with section 404(b) of the Sarbanes-Oxley Act of 2002 for 
+companies whose market capitalization is between $75,000,000 and 
+$250,000,000 for the relevant reporting period while maintaining 
+investor protections for such companies. The study shall also consider 
+whether any such methods of reducing the compliance burden or a complete 
+exemption for such companies from compliance with such section would 
+encourage companies to list on exchanges in the United States in their 
+initial public offerings. &lt;&lt;NOTE: Deadline. Reports.&gt;&gt;  Not later than 9 
+months after the date of the enactment of this subtitle, the Commission 
+shall transmit a report of such study to Congress.

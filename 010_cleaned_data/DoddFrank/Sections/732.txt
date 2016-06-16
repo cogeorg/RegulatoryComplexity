@@ -1,1 +1,550 @@
-                        SWAP PARTICIPANTS.    The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4r (as added by section 729) the following:``SEC. 4s. &lt;&lt;NOTE: 7 USC 6s.&gt;&gt;  REGISTRATION AND REGULATION OF                       SWAP DEALERS AND MAJOR SWAP PARTICIPANTS.    ``(a) Registration.--            ``(1) Swap dealers.--It shall be unlawful for any person to         act as a swap dealer unless the person is registered as a swap         dealer with the Commission.            ``(2) Major swap participants.--It shall be unlawful for any         person to act as a major swap participant unless the person is         registered as a major swap participant with the Commission.    ``(b) Requirements.--            ``(1) In general.--A person shall register as a swap dealer         or major swap participant by filing a registration application         with the Commission.            ``(2) Contents.--[[Page 124 STAT. 1704]]                    ``(A) In general.--The application shall be made in                 such form and manner as prescribed by the Commission,                 and shall contain such information, as the Commission                 considers necessary concerning the business in which the                 applicant is or will be engaged.                    ``(B) Continual reporting.--A person that is                 registered as a swap dealer or major swap participant                 shall continue to submit to the Commission reports that                 contain such information pertaining to the business of                 the person as the Commission may require.            ``(3) Expiration.--Each registration under this section         shall expire at such time as the Commission may prescribe by         rule or regulation.            ``(4) Rules.--Except as provided in subsections (d) and (e),         the Commission may prescribe rules applicable to swap dealers         and major swap participants, including rules that limit the         activities of swap dealers and major swap participants.            ``(5) Transition.--Rules &lt;&lt;NOTE: Regulations. Deadline.&gt;&gt;          under this section shall provide for the registration of swap         dealers and major swap participants not later than 1 year after         the date of enactment of the Wall Street Transparency and         Accountability Act of 2010.            ``(6) Statutory disqualification.--Except to the extent         otherwise specifically provided by rule, regulation, or order,         it shall be unlawful for a swap dealer or a major swap         participant to permit any person associated with a swap dealer         or a major swap participant who is subject to a statutory         disqualification to effect or be involved in effecting swaps on         behalf of the swap dealer or major swap participant, if the swap         dealer or major swap participant knew, or in the exercise of         reasonable care should have known, of the statutory         disqualification.    ``(c) Dual Registration.--            ``(1) Swap dealer.--Any person that is required to be         registered as a swap dealer under this section shall register         with the Commission regardless of whether the person also is a         depository institution or is registered with the Securities and         Exchange Commission as a security-based swap dealer.            ``(2) Major swap participant.--Any person that is required         to be registered as a major swap participant under this section         shall register with the Commission regardless of whether the         person also is a depository institution or is registered with         the Securities and Exchange Commission as a major security-based         swap participant.    ``(d) Rulemakings.--            ``(1) In general.--The Commission shall adopt rules for         persons that are registered as swap dealers or major swap         participants under this section.            ``(2) Exception for prudential requirements.--                    ``(A) In general.--The Commission may not prescribe                 rules imposing prudential requirements on swap dealers                 or major swap participants for which there is a                 prudential regulator.                    ``(B) Applicability.--Subparagraph (A) does not                 limit the authority of the Commission to prescribe rules                 as directed under this section.    ``(e) Capital and Margin Requirements.--            ``(1) &lt;&lt;NOTE: Regulations.&gt;&gt;  In general.--[[Page 124 STAT. 1705]]                    ``(A) Swap dealers and major swap participants that                 are banks.--Each registered swap dealer and major swap                 participant for which there is a prudential regulator                 shall meet such minimum capital requirements and minimum                 initial and variation margin requirements as the                 prudential regulator shall by rule or regulation                 prescribe under paragraph (2)(A).                    ``(B) Swap dealers and major swap participants that                 are not banks.--Each registered swap dealer and major                 swap participant for which there is not a prudential                 regulator shall meet such minimum capital requirements                 and minimum initial and variation margin requirements as                 the Commission shall by rule or regulation prescribe                 under paragraph (2)(B).            ``(2) Rules.--                    ``(A) Swap dealers and major swap participants that                 are banks.--The prudential regulators, in consultation                 with the Commission and the Securities and Exchange                 Commission, shall jointly adopt rules for swap dealers                 and major swap participants, with respect to their                 activities as a swap dealer or major swap participant,                 for which there is a prudential regulator imposing--                          ``(i) capital requirements; and                          ``(ii) both initial and variation margin                       requirements on all swaps that are not cleared by                       a registered derivatives clearing organization.                    ``(B) Swap dealers and major swap participants that                 are not banks.--The Commission shall adopt rules for                 swap dealers and major swap participants, with respect                 to their activities as a swap dealer or major swap                 participant, for which there is not a prudential                 regulator imposing--                          ``(i) capital requirements; and                          ``(ii) both initial and variation margin                       requirements on all swaps that are not cleared by                       a registered derivatives clearing organization.                    ``(C) Capital.--In setting capital requirements for                 a person that is designated as a swap dealer or a major                 swap participant for a single type or single class or                 category of swap or activities, the prudential regulator                 and the Commission shall take into account the risks                 associated with other types of swaps or classes of swaps                 or categories of swaps engaged in and the other                 activities conducted by that person that are not                 otherwise subject to regulation applicable to that                 person by virtue of the status of the person as a swap                 dealer or a major swap participant.            ``(3) Standards for capital and margin.--                    ``(A) In general.--To offset the greater risk to the                 swap dealer or major swap participant and the financial                 system arising from the use of swaps that are not                 cleared, the requirements imposed under paragraph (2)                 shall--                          ``(i) help ensure the safety and soundness of                       the swap dealer or major swap participant; and                          ``(ii) be appropriate for the risk associated                       with the non-cleared swaps held as a swap dealer                       or major swap participant.                    ``(B) Rule of construction.--[[Page 124 STAT. 1706]]                          ``(i) In general.--Nothing in this section                       shall limit, or be construed to limit, the                       authority--                                    ``(I) of the Commission to set                                 financial responsibility rules for a                                 futures commission merchant or                                 introducing broker registered pursuant                                 to section 4f(a) (except for section                                 4f(a)(3)) in accordance with section                                 4f(b); or                                    ``(II) of the Securities and                                 Exchange Commission to set financial                                 responsibility rules for a broker or                                 dealer registered pursuant to section                                 15(b) of the Securities Exchange Act of                                 1934 (15 U.S.C. 78o(b)) (except for                                 section 15(b)(11) of that Act (15 U.S.C.                                 78o(b)(11)) in accordance with section                                 15(c)(3) of the Securities Exchange Act                                 of 1934 (15 U.S.C. 78o(c)(3)).                          ``(ii) Futures commission merchants and other                       dealers.--A futures commission merchant,                       introducing broker, broker, or dealer shall                       maintain sufficient capital to comply with the                       stricter of any applicable capital requirements to                       which such futures commission merchant,                       introducing broker, broker, or dealer is subject                       to under this Act or the Securities Exchange Act                       of 1934 (15 U.S.C. 78a et seq.).                    ``(C) Margin requirements.--In prescribing margin                 requirements under this subsection, the prudential                 regulator with respect to swap dealers and major swap                 participants for which it is the prudential regulator                 and the Commission with respect to swap dealers and                 major swap participants for which there is no prudential                 regulator shall permit the use of noncash collateral, as                 the regulator or the Commission determines to be                 consistent with--                          ``(i) preserving the financial integrity of                       markets trading swaps; and                          ``(ii) preserving the stability of the United                       States financial system.                    ``(D) Comparability of capital and margin                 requirements.--                          ``(i) In general.--                      The &lt;&lt;NOTE: Consultation.&gt;&gt;  prudential                       regulators, the Commission, and the Securities and                       Exchange Commission shall periodically (but not                       less frequently than annually) consult on minimum                       capital requirements and minimum initial and                       variation margin requirements.                          ``(ii) Comparability.--The entities described                       in clause (i) shall, to the maximum extent                       practicable, establish and maintain comparable                       minimum capital requirements and minimum initial                       and variation margin requirements, including the                       use of non cash collateral, for--                                    ``(I) swap dealers; and                                    ``(II) major swap participants.    ``(f) Reporting and Recordkeeping.--            ``(1) In general.--Each registered swap dealer and major         swap participant--[[Page 124 STAT. 1707]]                    ``(A) &lt;&lt;NOTE: Reports. Regulations.&gt;&gt;  shall make                 such reports as are required by the Commission by rule                 or regulation regarding the transactions and positions                 and financial condition of the registered swap dealer or                 major swap participant;                    ``(B)(i) for which there is a prudential regulator,                 shall keep books and records of all activities related                 to the business as a swap dealer or major swap                 participant in such form and manner and for such period                 as may be prescribed by the Commission by rule or                 regulation; and                    ``(ii) for which there is no prudential regulator,                 shall keep books and records in such form and manner and                 for such period as may be prescribed by the Commission                 by rule or regulation;                    ``(C) shall keep books and records described in                 subparagraph (B) open to inspection and examination by                 any representative of the Commission; and                    ``(D) shall keep any such books and records relating                 to swaps defined in section 1a(47)(A)(v) open to                 inspection and examination by the Securities and                 Exchange Commission.            ``(2) Rules.--The Commission shall adopt rules governing         reporting and recordkeeping for swap dealers and major swap         participants.    ``(g) Daily Trading Records.--            ``(1) In general.--Each registered swap dealer and major         swap participant shall maintain daily trading records of the         swaps of the registered swap dealer and major swap participant         and all related records (including related cash or forward         transactions) and recorded communications, including electronic         mail, instant messages, and recordings of telephone calls, for         such period as may be required by the Commission by rule or         regulation.            ``(2) Information requirements.--The daily trading records         shall include such information as the Commission shall require         by rule or regulation.            ``(3) Counterparty records.--Each registered swap dealer and         major swap participant shall maintain daily trading records for         each counterparty in a manner and form that is identifiable with         each swap transaction.            ``(4) Audit trail.--Each registered swap dealer and major         swap participant shall maintain a complete audit trail for         conducting comprehensive and accurate trade reconstructions.            ``(5) Rules.--The Commission shall adopt rules governing         daily trading records for swap dealers and major swap         participants.    ``(h) Business Conduct Standards.--            ``(1) In general.--Each registered swap dealer and major         swap participant shall conform with such business conduct         standards as prescribed in paragraph (3) and as may be         prescribed by the Commission by rule or regulation that relate         to--                    ``(A) fraud, manipulation, and other abusive                 practices involving swaps (including swaps that are                 offered but not entered into);                    ``(B) diligent supervision of the business of the                 registered swap dealer and major swap participant;                    ``(C) adherence to all applicable position limits;                 and[[Page 124 STAT. 1708]]                    ``(D) such other matters as the Commission                 determines to be appropriate.            ``(2) Responsibilities with respect to special entities.--                    ``(A) Advising special entities.--A swap dealer or                 major swap participant that acts as an advisor to a                 special entity regarding a swap shall comply with the                 requirements of subparagraph (4) with respect to such                 Special Entity.                    ``(B) Entering of swaps with respect to special                 entities.--A &lt;&lt;NOTE: Compliance.&gt;&gt;  swap dealer that                 enters into or offers to enter into swap with a Special                 Entity shall comply with the requirements of                 subparagraph (5) with respect to such Special Entity.                    ``(C) Special entity defined.--For purposes of this                 subsection, the term `special entity' means--                          ``(i) a Federal agency;                          ``(ii) a State, State agency, city, county,                       municipality, or other political subdivision of a                       State;                          ``(iii) any employee benefit plan, as defined                       in section 3 of the Employee Retirement Income                       Security Act of 1974 (29 U.S.C. 1002);                          ``(iv) any governmental plan, as defined in                       section 3 of the Employee Retirement Income                       Security Act of 1974 (29 U.S.C. 1002); or                          ``(v) any endowment, including an endowment                       that is an organization described in section                       501(c)(3) of the Internal Revenue Code of 1986.            ``(3) Business conduct requirements.--Business conduct         requirements adopted by the Commission shall--                    ``(A) establish a duty for a swap dealer or major                 swap participant to verify that any counterparty meets                 the eligibility standards for an eligible contract                 participant;                    ``(B) require disclosure by the swap dealer or major                 swap participant to any counterparty to the transaction                 (other than a swap dealer, major swap participant,                 security-based swap dealer, or major security-based swap                 participant) of--                          ``(i) information about the material risks and                       characteristics of the swap;                          ``(ii) any material incentives or conflicts of                       interest that the swap dealer or major swap                       participant may have in connection with the swap;                       and                          ``(iii)(I) for cleared swaps, upon the request                       of the counterparty, receipt of the daily mark of                       the transaction from the appropriate derivatives                       clearing organization; and                          ``(II) for uncleared swaps, receipt of the                       daily mark of the transaction from the swap dealer                       or the major swap participant;                    ``(C) establish a duty for a swap dealer or major                 swap participant to communicate in a fair and balanced                 manner based on principles of fair dealing and good                 faith; and                    ``(D) establish such other standards and                 requirements as the Commission may determine are                 appropriate in the public interest, for the protection                 of investors, or otherwise in furtherance of the                 purposes of this Act.            ``(4) Special requirements for swap dealers acting as         advisors.--[[Page 124 STAT. 1709]]                    ``(A) In general.--It shall be unlawful for a swap                 dealer or major swap participant--                          ``(i) to employ any device, scheme, or                       artifice to defraud any Special Entity or                       prospective customer who is a Special Entity;                          ``(ii) to engage in any transaction, practice,                       or course of business that operates as a fraud or                       deceit on any Special Entity or prospective                       customer who is a Special Entity; or                          ``(iii) to engage in any act, practice, or                       course of business that is fraudulent, deceptive                       or manipulative.                    ``(B) Duty.--Any swap dealer that acts as an advisor                 to a Special Entity shall have a duty to act in the best                 interests of the Special Entity.                    ``(C) Reasonable efforts.--Any swap dealer that acts                 as an advisor to a Special Entity shall make reasonable                 efforts to obtain such information as is necessary to                 make a reasonable determination that any swap                 recommended by the swap dealer is in the best interests                 of the Special Entity, including information relating                 to--                          ``(i) the financial status of the Special                       Entity;                          ``(ii) the tax status of the Special Entity;                          ``(iii) the investment or financing objectives                       of the Special Entity; and                          ``(iv) any other information that the                       Commission may prescribe by rule or regulation.            ``(5) Special requirements for swap dealers as         counterparties to special entities.--                    ``(A) Any swap dealer or major swap participant that                 offers to enter or enters into a swap with a Special                 Entity shall--                          ``(i) comply with any duty established by the                       Commission for a swap dealer or major swap                       participant, with respect to a counterparty that                       is an eligible contract participant within the                       meaning of subclause (I) or (II) of clause (vii)                       of section 1a(18) of this Act, that requires the                       swap dealer or major swap participant to have a                       reasonable basis to believe that the counterparty                       that is a Special Entity has an independent                       representative that--                                    ``(I) has sufficient knowledge to                                 evaluate the transaction and risks;                                    ``(II) is not subject to a statutory                                 disqualification;                                    ``(III) is independent of the swap                                 dealer or major swap participant;                                    ``(IV) undertakes a duty to act in                                 the best interests of the counterparty                                 it represents;                                    ``(V) makes appropriate disclosures;                                    ``(VI) will provide written                                 representations to the Special Entity                                 regarding fair pricing and the                                 appropriateness of the transaction; and                                    ``(VII) in the case of employee                                 benefit plans subject to the Employee                                 Retirement Income Security act of 1974,                                 is a fiduciary as defined in section 3                                 of that Act (29 U.S.C. 1002); and[[Page 124 STAT. 1710]]                          ``(ii) before the initiation of the                       transaction, disclose to the Special Entity in                       writing the capacity in which the swap dealer is                       acting; and                    ``(B) the Commission may establish such other                 standards and requirements as the Commission may                 determine are appropriate in the public interest, for                 the protection of investors, or otherwise in furtherance                 of the purposes of this Act.            ``(6) Rules.--The Commission shall prescribe rules under         this subsection governing business conduct standards for swap         dealers and major swap participants.            ``(7) Applicability.--This section shall not apply with         respect to a transaction that is--                    ``(A) initiated by a Special Entity on an exchange                 or swap execution facility; and                    ``(B) one in which the swap dealer or major swap                 participant does not know the identity of the                 counterparty to the transaction.    ``(i) Documentation Standards.--            ``(1) In general.--Each registered swap dealer and major         swap participant shall conform with such standards as may be         prescribed by the Commission by rule or regulation that relate         to timely and accurate confirmation, processing, netting,         documentation, and valuation of all swaps.            ``(2) Rules.--The Commission shall adopt rules governing         documentation standards for swap dealers and major swap         participants.    ``(j) Duties.--Each registered swap dealer and major swap participant at all times shall comply with the following requirements:            ``(1) Monitoring of trading.--The swap dealer or major swap         participant shall monitor its trading in swaps to prevent         violations of applicable position limits.            ``(2) Risk management procedures.--The swap dealer or major         swap participant shall establish robust and professional risk         management systems adequate for managing the day-to-day business         of the swap dealer or major swap participant.            ``(3) Disclosure of general information.--The swap dealer or         major swap participant shall disclose to the Commission and to         the prudential regulator for the swap dealer or major swap         participant, as applicable, information concerning--                    ``(A) terms and conditions of its swaps;                    ``(B) swap trading operations, mechanisms, and                 practices;                    ``(C) financial integrity protections relating to                 swaps; and                    ``(D) other information relevant to its trading in                 swaps.            ``(4) Ability to obtain information.--The swap dealer or         major swap participant shall--                    ``(A) establish and enforce internal systems and                 procedures to obtain any necessary information to                 perform any of the functions described in this section;                 and                    ``(B) provide the information to the Commission and                 to the prudential regulator for the swap dealer or major                 swap participant, as applicable, on request.[[Page 124 STAT. 1711]]            ``(5) Conflicts of interest.--The swap dealer and major swap         participant shall implement conflict-of-interest systems and         procedures that--                    ``(A) establish structural and institutional                 safeguards to ensure that the activities of any person                 within the firm relating to research or analysis of the                 price or market for any commodity or swap or acting in a                 role of providing clearing activities or making                 determinations as to accepting clearing customers are                 separated by appropriate informational partitions within                 the firm from the review, pressure, or oversight of                 persons whose involvement in pricing, trading, or                 clearing activities might potentially bias their                 judgment or supervision and contravene the core                 principles of open access and the business conduct                 standards described in this Act; and                    ``(B) address such other issues as the Commission                 determines to be appropriate.            ``(6) Antitrust considerations.--Unless necessary or         appropriate to achieve the purposes of this Act, a swap dealer         or major swap participant shall not--                    ``(A) adopt any process or take any action that                 results in any unreasonable restraint of trade; or                    ``(B) impose any material anticompetitive burden on                 trading or clearing.            ``(7) Rules.--The Commission shall prescribe rules under         this subsection governing duties of swap dealers and major swap         participants.    ``(k) Designation of Chief Compliance Officer.--            ``(1) In general.--Each swap dealer and major swap         participant shall designate an individual to serve as a chief         compliance officer.            ``(2) Duties.--The chief compliance officer shall--                    ``(A) report directly to the board or to the senior                 officer of the swap dealer or major swap participant;                    ``(B) review the compliance of the swap dealer or                 major swap participant with respect to the swap dealer                 and major swap participant requirements described in                 this section;                    ``(C) in consultation with the board of directors, a                 body performing a function similar to the board, or the                 senior officer of the organization, resolve any                 conflicts of interest that may arise;                    ``(D) be responsible for administering each policy                 and procedure that is required to be established                 pursuant to this section;                    ``(E) ensure compliance with this Act (including                 regulations) relating to swaps, including each rule                 prescribed by the Commission under this section;                    ``(F) establish procedures for the remediation of                 noncompliance issues identified by the chief compliance                 officer through any--                          ``(i) compliance office review;                          ``(ii) look-back;                          ``(iii) internal or external audit finding;                          ``(iv) self-reported error; or                          ``(v) validated complaint; and[[Page 124 STAT. 1712]]                    ``(G) establish and follow appropriate procedures                 for the handling, management response, remediation,                 retesting, and closing of noncompliance issues.            ``(3) Annual reports.--                    ``(A) In general.--In accordance with rules                 prescribed by the Commission, the chief compliance                 officer shall annually prepare and sign a report that                 contains a description of--                          ``(i) the compliance of the swap dealer or                       major swap participant with respect to this Act                       (including regulations); and                          ``(ii) each policy and procedure of the swap                       dealer or major swap participant of the chief                       compliance officer (including the code of ethics                       and conflict of interest policies).                    ``(B) Requirements.--A compliance report under                 subparagraph (A) shall--                          ``(i) accompany each appropriate financial                       report of the swap dealer or major swap                       participant that is required to be furnished to                       the Commission pursuant to this section; and                          ``(ii) &lt;&lt;NOTE: Certification.&gt;&gt;  include a                       certification that, under penalty of law, the                       compliance report is accurate and complete.''.
+                        SWAP PARTICIPANTS.
+
+    The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by 
+inserting after section 4r (as added by section 729) the following:
+``SEC. 4s. &lt;&lt;NOTE: 7 USC 6s.&gt;&gt;  REGISTRATION AND REGULATION OF 
+                      SWAP DEALERS AND MAJOR SWAP PARTICIPANTS.
+
+    ``(a) Registration.--
+            ``(1) Swap dealers.--It shall be unlawful for any person to 
+        act as a swap dealer unless the person is registered as a swap 
+        dealer with the Commission.
+            ``(2) Major swap participants.--It shall be unlawful for any 
+        person to act as a major swap participant unless the person is 
+        registered as a major swap participant with the Commission.
+
+    ``(b) Requirements.--
+            ``(1) In general.--A person shall register as a swap dealer 
+        or major swap participant by filing a registration application 
+        with the Commission.
+            ``(2) Contents.--
+
+
+                    ``(A) In general.--The application shall be made in 
+                such form and manner as prescribed by the Commission, 
+                and shall contain such information, as the Commission 
+                considers necessary concerning the business in which the 
+                applicant is or will be engaged.
+                    ``(B) Continual reporting.--A person that is 
+                registered as a swap dealer or major swap participant 
+                shall continue to submit to the Commission reports that 
+                contain such information pertaining to the business of 
+                the person as the Commission may require.
+            ``(3) Expiration.--Each registration under this section 
+        shall expire at such time as the Commission may prescribe by 
+        rule or regulation.
+            ``(4) Rules.--Except as provided in subsections (d) and (e), 
+        the Commission may prescribe rules applicable to swap dealers 
+        and major swap participants, including rules that limit the 
+        activities of swap dealers and major swap participants.
+            ``(5) Transition.--Rules &lt;&lt;NOTE: Regulations. Deadline.&gt;&gt;  
+        under this section shall provide for the registration of swap 
+        dealers and major swap participants not later than 1 year after 
+        the date of enactment of the Wall Street Transparency and 
+        Accountability Act of 2010.
+            ``(6) Statutory disqualification.--Except to the extent 
+        otherwise specifically provided by rule, regulation, or order, 
+        it shall be unlawful for a swap dealer or a major swap 
+        participant to permit any person associated with a swap dealer 
+        or a major swap participant who is subject to a statutory 
+        disqualification to effect or be involved in effecting swaps on 
+        behalf of the swap dealer or major swap participant, if the swap 
+        dealer or major swap participant knew, or in the exercise of 
+        reasonable care should have known, of the statutory 
+        disqualification.
+
+    ``(c) Dual Registration.--
+            ``(1) Swap dealer.--Any person that is required to be 
+        registered as a swap dealer under this section shall register 
+        with the Commission regardless of whether the person also is a 
+        depository institution or is registered with the Securities and 
+        Exchange Commission as a security-based swap dealer.
+            ``(2) Major swap participant.--Any person that is required 
+        to be registered as a major swap participant under this section 
+        shall register with the Commission regardless of whether the 
+        person also is a depository institution or is registered with 
+        the Securities and Exchange Commission as a major security-based 
+        swap participant.
+
+    ``(d) Rulemakings.--
+            ``(1) In general.--The Commission shall adopt rules for 
+        persons that are registered as swap dealers or major swap 
+        participants under this section.
+            ``(2) Exception for prudential requirements.--
+                    ``(A) In general.--The Commission may not prescribe 
+                rules imposing prudential requirements on swap dealers 
+                or major swap participants for which there is a 
+                prudential regulator.
+                    ``(B) Applicability.--Subparagraph (A) does not 
+                limit the authority of the Commission to prescribe rules 
+                as directed under this section.
+
+    ``(e) Capital and Margin Requirements.--
+            ``(1) &lt;&lt;NOTE: Regulations.&gt;&gt;  In general.--
+
+
+                    ``(A) Swap dealers and major swap participants that 
+                are banks.--Each registered swap dealer and major swap 
+                participant for which there is a prudential regulator 
+                shall meet such minimum capital requirements and minimum 
+                initial and variation margin requirements as the 
+                prudential regulator shall by rule or regulation 
+                prescribe under paragraph (2)(A).
+                    ``(B) Swap dealers and major swap participants that 
+                are not banks.--Each registered swap dealer and major 
+                swap participant for which there is not a prudential 
+                regulator shall meet such minimum capital requirements 
+                and minimum initial and variation margin requirements as 
+                the Commission shall by rule or regulation prescribe 
+                under paragraph (2)(B).
+            ``(2) Rules.--
+                    ``(A) Swap dealers and major swap participants that 
+                are banks.--The prudential regulators, in consultation 
+                with the Commission and the Securities and Exchange 
+                Commission, shall jointly adopt rules for swap dealers 
+                and major swap participants, with respect to their 
+                activities as a swap dealer or major swap participant, 
+                for which there is a prudential regulator imposing--
+                          ``(i) capital requirements; and
+                          ``(ii) both initial and variation margin 
+                      requirements on all swaps that are not cleared by 
+                      a registered derivatives clearing organization.
+                    ``(B) Swap dealers and major swap participants that 
+                are not banks.--The Commission shall adopt rules for 
+                swap dealers and major swap participants, with respect 
+                to their activities as a swap dealer or major swap 
+                participant, for which there is not a prudential 
+                regulator imposing--
+                          ``(i) capital requirements; and
+                          ``(ii) both initial and variation margin 
+                      requirements on all swaps that are not cleared by 
+                      a registered derivatives clearing organization.
+                    ``(C) Capital.--In setting capital requirements for 
+                a person that is designated as a swap dealer or a major 
+                swap participant for a single type or single class or 
+                category of swap or activities, the prudential regulator 
+                and the Commission shall take into account the risks 
+                associated with other types of swaps or classes of swaps 
+                or categories of swaps engaged in and the other 
+                activities conducted by that person that are not 
+                otherwise subject to regulation applicable to that 
+                person by virtue of the status of the person as a swap 
+                dealer or a major swap participant.
+            ``(3) Standards for capital and margin.--
+                    ``(A) In general.--To offset the greater risk to the 
+                swap dealer or major swap participant and the financial 
+                system arising from the use of swaps that are not 
+                cleared, the requirements imposed under paragraph (2) 
+                shall--
+                          ``(i) help ensure the safety and soundness of 
+                      the swap dealer or major swap participant; and
+                          ``(ii) be appropriate for the risk associated 
+                      with the non-cleared swaps held as a swap dealer 
+                      or major swap participant.
+                    ``(B) Rule of construction.--
+
+
+                          ``(i) In general.--Nothing in this section 
+                      shall limit, or be construed to limit, the 
+                      authority--
+                                    ``(I) of the Commission to set 
+                                financial responsibility rules for a 
+                                futures commission merchant or 
+                                introducing broker registered pursuant 
+                                to section 4f(a) (except for section 
+                                4f(a)(3)) in accordance with section 
+                                4f(b); or
+                                    ``(II) of the Securities and 
+                                Exchange Commission to set financial 
+                                responsibility rules for a broker or 
+                                dealer registered pursuant to section 
+                                15(b) of the Securities Exchange Act of 
+                                1934 (15 U.S.C. 78o(b)) (except for 
+                                section 15(b)(11) of that Act (15 U.S.C. 
+                                78o(b)(11)) in accordance with section 
+                                15(c)(3) of the Securities Exchange Act 
+                                of 1934 (15 U.S.C. 78o(c)(3)).
+                          ``(ii) Futures commission merchants and other 
+                      dealers.--A futures commission merchant, 
+                      introducing broker, broker, or dealer shall 
+                      maintain sufficient capital to comply with the 
+                      stricter of any applicable capital requirements to 
+                      which such futures commission merchant, 
+                      introducing broker, broker, or dealer is subject 
+                      to under this Act or the Securities Exchange Act 
+                      of 1934 (15 U.S.C. 78a et seq.).
+                    ``(C) Margin requirements.--In prescribing margin 
+                requirements under this subsection, the prudential 
+                regulator with respect to swap dealers and major swap 
+                participants for which it is the prudential regulator 
+                and the Commission with respect to swap dealers and 
+                major swap participants for which there is no prudential 
+                regulator shall permit the use of noncash collateral, as 
+                the regulator or the Commission determines to be 
+                consistent with--
+                          ``(i) preserving the financial integrity of 
+                      markets trading swaps; and
+                          ``(ii) preserving the stability of the United 
+                      States financial system.
+                    ``(D) Comparability of capital and margin 
+                requirements.--
+                          ``(i) In general.--
+                      The &lt;&lt;NOTE: Consultation.&gt;&gt;  prudential 
+                      regulators, the Commission, and the Securities and 
+                      Exchange Commission shall periodically (but not 
+                      less frequently than annually) consult on minimum 
+                      capital requirements and minimum initial and 
+                      variation margin requirements.
+                          ``(ii) Comparability.--The entities described 
+                      in clause (i) shall, to the maximum extent 
+                      practicable, establish and maintain comparable 
+                      minimum capital requirements and minimum initial 
+                      and variation margin requirements, including the 
+                      use of non cash collateral, for--
+                                    ``(I) swap dealers; and
+                                    ``(II) major swap participants.
+
+    ``(f) Reporting and Recordkeeping.--
+            ``(1) In general.--Each registered swap dealer and major 
+        swap participant--
+
+
+                    ``(A) &lt;&lt;NOTE: Reports. Regulations.&gt;&gt;  shall make 
+                such reports as are required by the Commission by rule 
+                or regulation regarding the transactions and positions 
+                and financial condition of the registered swap dealer or 
+                major swap participant;
+                    ``(B)(i) for which there is a prudential regulator, 
+                shall keep books and records of all activities related 
+                to the business as a swap dealer or major swap 
+                participant in such form and manner and for such period 
+                as may be prescribed by the Commission by rule or 
+                regulation; and
+                    ``(ii) for which there is no prudential regulator, 
+                shall keep books and records in such form and manner and 
+                for such period as may be prescribed by the Commission 
+                by rule or regulation;
+                    ``(C) shall keep books and records described in 
+                subparagraph (B) open to inspection and examination by 
+                any representative of the Commission; and
+                    ``(D) shall keep any such books and records relating 
+                to swaps defined in section 1a(47)(A)(v) open to 
+                inspection and examination by the Securities and 
+                Exchange Commission.
+            ``(2) Rules.--The Commission shall adopt rules governing 
+        reporting and recordkeeping for swap dealers and major swap 
+        participants.
+
+    ``(g) Daily Trading Records.--
+            ``(1) In general.--Each registered swap dealer and major 
+        swap participant shall maintain daily trading records of the 
+        swaps of the registered swap dealer and major swap participant 
+        and all related records (including related cash or forward 
+        transactions) and recorded communications, including electronic 
+        mail, instant messages, and recordings of telephone calls, for 
+        such period as may be required by the Commission by rule or 
+        regulation.
+            ``(2) Information requirements.--The daily trading records 
+        shall include such information as the Commission shall require 
+        by rule or regulation.
+            ``(3) Counterparty records.--Each registered swap dealer and 
+        major swap participant shall maintain daily trading records for 
+        each counterparty in a manner and form that is identifiable with 
+        each swap transaction.
+            ``(4) Audit trail.--Each registered swap dealer and major 
+        swap participant shall maintain a complete audit trail for 
+        conducting comprehensive and accurate trade reconstructions.
+            ``(5) Rules.--The Commission shall adopt rules governing 
+        daily trading records for swap dealers and major swap 
+        participants.
+
+    ``(h) Business Conduct Standards.--
+            ``(1) In general.--Each registered swap dealer and major 
+        swap participant shall conform with such business conduct 
+        standards as prescribed in paragraph (3) and as may be 
+        prescribed by the Commission by rule or regulation that relate 
+        to--
+                    ``(A) fraud, manipulation, and other abusive 
+                practices involving swaps (including swaps that are 
+                offered but not entered into);
+                    ``(B) diligent supervision of the business of the 
+                registered swap dealer and major swap participant;
+                    ``(C) adherence to all applicable position limits; 
+                and
+
+
+                    ``(D) such other matters as the Commission 
+                determines to be appropriate.
+            ``(2) Responsibilities with respect to special entities.--
+                    ``(A) Advising special entities.--A swap dealer or 
+                major swap participant that acts as an advisor to a 
+                special entity regarding a swap shall comply with the 
+                requirements of subparagraph (4) with respect to such 
+                Special Entity.
+                    ``(B) Entering of swaps with respect to special 
+                entities.--A &lt;&lt;NOTE: Compliance.&gt;&gt;  swap dealer that 
+                enters into or offers to enter into swap with a Special 
+                Entity shall comply with the requirements of 
+                subparagraph (5) with respect to such Special Entity.
+                    ``(C) Special entity defined.--For purposes of this 
+                subsection, the term `special entity' means--
+                          ``(i) a Federal agency;
+                          ``(ii) a State, State agency, city, county, 
+                      municipality, or other political subdivision of a 
+                      State;
+                          ``(iii) any employee benefit plan, as defined 
+                      in section 3 of the Employee Retirement Income 
+                      Security Act of 1974 (29 U.S.C. 1002);
+                          ``(iv) any governmental plan, as defined in 
+                      section 3 of the Employee Retirement Income 
+                      Security Act of 1974 (29 U.S.C. 1002); or
+                          ``(v) any endowment, including an endowment 
+                      that is an organization described in section 
+                      501(c)(3) of the Internal Revenue Code of 1986.
+            ``(3) Business conduct requirements.--Business conduct 
+        requirements adopted by the Commission shall--
+                    ``(A) establish a duty for a swap dealer or major 
+                swap participant to verify that any counterparty meets 
+                the eligibility standards for an eligible contract 
+                participant;
+                    ``(B) require disclosure by the swap dealer or major 
+                swap participant to any counterparty to the transaction 
+                (other than a swap dealer, major swap participant, 
+                security-based swap dealer, or major security-based swap 
+                participant) of--
+                          ``(i) information about the material risks and 
+                      characteristics of the swap;
+                          ``(ii) any material incentives or conflicts of 
+                      interest that the swap dealer or major swap 
+                      participant may have in connection with the swap; 
+                      and
+                          ``(iii)(I) for cleared swaps, upon the request 
+                      of the counterparty, receipt of the daily mark of 
+                      the transaction from the appropriate derivatives 
+                      clearing organization; and
+                          ``(II) for uncleared swaps, receipt of the 
+                      daily mark of the transaction from the swap dealer 
+                      or the major swap participant;
+                    ``(C) establish a duty for a swap dealer or major 
+                swap participant to communicate in a fair and balanced 
+                manner based on principles of fair dealing and good 
+                faith; and
+                    ``(D) establish such other standards and 
+                requirements as the Commission may determine are 
+                appropriate in the public interest, for the protection 
+                of investors, or otherwise in furtherance of the 
+                purposes of this Act.
+            ``(4) Special requirements for swap dealers acting as 
+        advisors.--
+
+
+                    ``(A) In general.--It shall be unlawful for a swap 
+                dealer or major swap participant--
+                          ``(i) to employ any device, scheme, or 
+                      artifice to defraud any Special Entity or 
+                      prospective customer who is a Special Entity;
+                          ``(ii) to engage in any transaction, practice, 
+                      or course of business that operates as a fraud or 
+                      deceit on any Special Entity or prospective 
+                      customer who is a Special Entity; or
+                          ``(iii) to engage in any act, practice, or 
+                      course of business that is fraudulent, deceptive 
+                      or manipulative.
+                    ``(B) Duty.--Any swap dealer that acts as an advisor 
+                to a Special Entity shall have a duty to act in the best 
+                interests of the Special Entity.
+                    ``(C) Reasonable efforts.--Any swap dealer that acts 
+                as an advisor to a Special Entity shall make reasonable 
+                efforts to obtain such information as is necessary to 
+                make a reasonable determination that any swap 
+                recommended by the swap dealer is in the best interests 
+                of the Special Entity, including information relating 
+                to--
+                          ``(i) the financial status of the Special 
+                      Entity;
+                          ``(ii) the tax status of the Special Entity;
+                          ``(iii) the investment or financing objectives 
+                      of the Special Entity; and
+                          ``(iv) any other information that the 
+                      Commission may prescribe by rule or regulation.
+            ``(5) Special requirements for swap dealers as 
+        counterparties to special entities.--
+                    ``(A) Any swap dealer or major swap participant that 
+                offers to enter or enters into a swap with a Special 
+                Entity shall--
+                          ``(i) comply with any duty established by the 
+                      Commission for a swap dealer or major swap 
+                      participant, with respect to a counterparty that 
+                      is an eligible contract participant within the 
+                      meaning of subclause (I) or (II) of clause (vii) 
+                      of section 1a(18) of this Act, that requires the 
+                      swap dealer or major swap participant to have a 
+                      reasonable basis to believe that the counterparty 
+                      that is a Special Entity has an independent 
+                      representative that--
+                                    ``(I) has sufficient knowledge to 
+                                evaluate the transaction and risks;
+                                    ``(II) is not subject to a statutory 
+                                disqualification;
+                                    ``(III) is independent of the swap 
+                                dealer or major swap participant;
+                                    ``(IV) undertakes a duty to act in 
+                                the best interests of the counterparty 
+                                it represents;
+                                    ``(V) makes appropriate disclosures;
+                                    ``(VI) will provide written 
+                                representations to the Special Entity 
+                                regarding fair pricing and the 
+                                appropriateness of the transaction; and
+                                    ``(VII) in the case of employee 
+                                benefit plans subject to the Employee 
+                                Retirement Income Security act of 1974, 
+                                is a fiduciary as defined in section 3 
+                                of that Act (29 U.S.C. 1002); and
+
+
+                          ``(ii) before the initiation of the 
+                      transaction, disclose to the Special Entity in 
+                      writing the capacity in which the swap dealer is 
+                      acting; and
+                    ``(B) the Commission may establish such other 
+                standards and requirements as the Commission may 
+                determine are appropriate in the public interest, for 
+                the protection of investors, or otherwise in furtherance 
+                of the purposes of this Act.
+            ``(6) Rules.--The Commission shall prescribe rules under 
+        this subsection governing business conduct standards for swap 
+        dealers and major swap participants.
+            ``(7) Applicability.--This section shall not apply with 
+        respect to a transaction that is--
+                    ``(A) initiated by a Special Entity on an exchange 
+                or swap execution facility; and
+                    ``(B) one in which the swap dealer or major swap 
+                participant does not know the identity of the 
+                counterparty to the transaction.
+
+    ``(i) Documentation Standards.--
+            ``(1) In general.--Each registered swap dealer and major 
+        swap participant shall conform with such standards as may be 
+        prescribed by the Commission by rule or regulation that relate 
+        to timely and accurate confirmation, processing, netting, 
+        documentation, and valuation of all swaps.
+            ``(2) Rules.--The Commission shall adopt rules governing 
+        documentation standards for swap dealers and major swap 
+        participants.
+
+    ``(j) Duties.--Each registered swap dealer and major swap 
+participant at all times shall comply with the following requirements:
+            ``(1) Monitoring of trading.--The swap dealer or major swap 
+        participant shall monitor its trading in swaps to prevent 
+        violations of applicable position limits.
+            ``(2) Risk management procedures.--The swap dealer or major 
+        swap participant shall establish robust and professional risk 
+        management systems adequate for managing the day-to-day business 
+        of the swap dealer or major swap participant.
+            ``(3) Disclosure of general information.--The swap dealer or 
+        major swap participant shall disclose to the Commission and to 
+        the prudential regulator for the swap dealer or major swap 
+        participant, as applicable, information concerning--
+                    ``(A) terms and conditions of its swaps;
+                    ``(B) swap trading operations, mechanisms, and 
+                practices;
+                    ``(C) financial integrity protections relating to 
+                swaps; and
+                    ``(D) other information relevant to its trading in 
+                swaps.
+            ``(4) Ability to obtain information.--The swap dealer or 
+        major swap participant shall--
+                    ``(A) establish and enforce internal systems and 
+                procedures to obtain any necessary information to 
+                perform any of the functions described in this section; 
+                and
+                    ``(B) provide the information to the Commission and 
+                to the prudential regulator for the swap dealer or major 
+                swap participant, as applicable, on request.
+
+
+            ``(5) Conflicts of interest.--The swap dealer and major swap 
+        participant shall implement conflict-of-interest systems and 
+        procedures that--
+                    ``(A) establish structural and institutional 
+                safeguards to ensure that the activities of any person 
+                within the firm relating to research or analysis of the 
+                price or market for any commodity or swap or acting in a 
+                role of providing clearing activities or making 
+                determinations as to accepting clearing customers are 
+                separated by appropriate informational partitions within 
+                the firm from the review, pressure, or oversight of 
+                persons whose involvement in pricing, trading, or 
+                clearing activities might potentially bias their 
+                judgment or supervision and contravene the core 
+                principles of open access and the business conduct 
+                standards described in this Act; and
+                    ``(B) address such other issues as the Commission 
+                determines to be appropriate.
+            ``(6) Antitrust considerations.--Unless necessary or 
+        appropriate to achieve the purposes of this Act, a swap dealer 
+        or major swap participant shall not--
+                    ``(A) adopt any process or take any action that 
+                results in any unreasonable restraint of trade; or
+                    ``(B) impose any material anticompetitive burden on 
+                trading or clearing.
+            ``(7) Rules.--The Commission shall prescribe rules under 
+        this subsection governing duties of swap dealers and major swap 
+        participants.
+
+    ``(k) Designation of Chief Compliance Officer.--
+            ``(1) In general.--Each swap dealer and major swap 
+        participant shall designate an individual to serve as a chief 
+        compliance officer.
+            ``(2) Duties.--The chief compliance officer shall--
+                    ``(A) report directly to the board or to the senior 
+                officer of the swap dealer or major swap participant;
+                    ``(B) review the compliance of the swap dealer or 
+                major swap participant with respect to the swap dealer 
+                and major swap participant requirements described in 
+                this section;
+                    ``(C) in consultation with the board of directors, a 
+                body performing a function similar to the board, or the 
+                senior officer of the organization, resolve any 
+                conflicts of interest that may arise;
+                    ``(D) be responsible for administering each policy 
+                and procedure that is required to be established 
+                pursuant to this section;
+                    ``(E) ensure compliance with this Act (including 
+                regulations) relating to swaps, including each rule 
+                prescribed by the Commission under this section;
+                    ``(F) establish procedures for the remediation of 
+                noncompliance issues identified by the chief compliance 
+                officer through any--
+                          ``(i) compliance office review;
+                          ``(ii) look-back;
+                          ``(iii) internal or external audit finding;
+                          ``(iv) self-reported error; or
+                          ``(v) validated complaint; and
+
+
+                    ``(G) establish and follow appropriate procedures 
+                for the handling, management response, remediation, 
+                retesting, and closing of noncompliance issues.
+            ``(3) Annual reports.--
+                    ``(A) In general.--In accordance with rules 
+                prescribed by the Commission, the chief compliance 
+                officer shall annually prepare and sign a report that 
+                contains a description of--
+                          ``(i) the compliance of the swap dealer or 
+                      major swap participant with respect to this Act 
+                      (including regulations); and
+                          ``(ii) each policy and procedure of the swap 
+                      dealer or major swap participant of the chief 
+                      compliance officer (including the code of ethics 
+                      and conflict of interest policies).
+                    ``(B) Requirements.--A compliance report under 
+                subparagraph (A) shall--
+                          ``(i) accompany each appropriate financial 
+                      report of the swap dealer or major swap 
+                      participant that is required to be furnished to 
+                      the Commission pursuant to this section; and
+                          ``(ii) &lt;&lt;NOTE: Certification.&gt;&gt;  include a 
+                      certification that, under penalty of law, the 
+                      compliance report is accurate and complete.''.

@@ -1,1 +1,16 @@
-    (a) National Banks.--Section 5155(g)(1)(A) of the Revised Statutes of the United States (12 U.S.C. 36(g)(1)(A)) is amended to read as follows:                    ``(A) the law of the State in which the branch is                 located, or is to be located, would permit establishment                 of the branch, if the national bank were a State bank                 chartered by such State; and''.    (b) State Insured Banks.--Section 18(d)(4)(A)(i) of the Federal Deposit Insurance Act (12 U.S.C. 1828(d)(4)(A)(i)) is amended to read as follows:                          ``(i) the law of the State in which the branch                       is located, or is to be located, would permit                       establishment of the branch, if the bank were a                       State bank chartered by such State; and''.
+
+    (a) National Banks.--Section 5155(g)(1)(A) of the Revised Statutes 
+of the United States (12 U.S.C. 36(g)(1)(A)) is amended to read as 
+follows:
+                    ``(A) the law of the State in which the branch is 
+                located, or is to be located, would permit establishment 
+                of the branch, if the national bank were a State bank 
+                chartered by such State; and''.
+
+    (b) State Insured Banks.--Section 18(d)(4)(A)(i) of the Federal 
+Deposit Insurance Act (12 U.S.C. 1828(d)(4)(A)(i)) is amended to read as 
+follows:
+                          ``(i) the law of the State in which the branch 
+                      is located, or is to be located, would permit 
+                      establishment of the branch, if the bank were a 
+                      State bank chartered by such State; and''.

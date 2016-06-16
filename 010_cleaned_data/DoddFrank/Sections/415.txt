@@ -1,1 +1,13 @@
-                        EXCHANGE ACT.    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is further amended by adding at the end the following new section:``SEC. 224. &lt;&lt;NOTE: 15 USC 80b-18c.&gt;&gt;  RULE OF CONSTRUCTION                         RELATING TO THE COMMODITIES EXCHANGE ACT.    ``Nothing in this title shall relieve any person of any obligation or duty, or affect the availability of any right or remedy available to the Commodity Futures Trading Commission or any private party, arising under the Commodity Exchange Act (7 U.S.C. 1 et seq.) governing commodity pools, commodity pool operators, or commodity trading advisors.''.
+                        EXCHANGE ACT.
+
+    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
+further amended by adding at the end the following new section:
+``SEC. 224. &lt;&lt;NOTE: 15 USC 80b-18c.&gt;&gt;  RULE OF CONSTRUCTION 
+                        RELATING TO THE COMMODITIES EXCHANGE ACT.
+
+    ``Nothing in this title shall relieve any person of any obligation 
+or duty, or affect the availability of any right or remedy available to 
+the Commodity Futures Trading Commission or any private party, arising 
+under the Commodity Exchange Act (7 U.S.C. 1 et seq.) governing 
+commodity pools, commodity pool operators, or commodity trading 
+advisors.''.

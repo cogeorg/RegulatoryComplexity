@@ -1,1 +1,122 @@
-    The Electronic Fund Transfer Act &lt;&lt;NOTE: 15 USC 1693a et seq.&gt;&gt; (15 U.S.C. 1693 et seq.) is amended--            (1) by striking ``Board'' each place that term appears and         inserting ``Bureau'', except in subsections (a) and (e) of         section 904 (as amended in paragraph (3) of this section) and in         918 (15 U.S.C. 1693o) (as so designated by the Credit Card Act         of 2009) and section 920 (as added by section 1076);            (2) in section 903 (15 U.S.C. 1693a)--                    (A) by redesignating paragraphs (3) through (11) as                 paragraphs (4) through (12), respectively; and                    (B) by inserting after paragraph (3) the following:            ``(4) &lt;&lt;NOTE: Definition.&gt;&gt; the term `Bureau' means the         Bureau of Consumer Financial Protection;'';            (3) in section 904 (15 U.S.C. 1693b)--[[Page 124 STAT. 2082]]                    (A) in subsection (a), by striking ``(a)                 Prescription by Board.--The &lt;&lt;NOTE: Regulations.&gt;&gt; Board                 shall prescribe regulations to carry out the purposes of                 this title.'' and inserting the following:    ``(a) Prescription &lt;&lt;NOTE: Regulations.&gt;&gt;  by the Bureau and the Board.--            ``(1) In general.--Except as provided in paragraph (2), the         Bureau shall prescribe rules to carry out the purposes of this         title.            ``(2) Authority of the board.--The Board shall have sole         authority to prescribe rules--                    ``(A) to carry out the purposes of this title with                 respect to a person described in section 1029(a) of the                 Consumer Financial Protection Act of 2010; and                    ``(B) to carry out the purposes of section 920.'';                 and                    (B) by adding at the end the following new                 subsection:    ``(e) Deference.--No provision of this title may be construed as altering, limiting, or otherwise affecting the deference that a court affords to--            ``(1) the Bureau in making determinations regarding the         meaning or interpretation of any provision of this title for         which the Bureau has authority to prescribe regulations; or            ``(2) the Board in making determinations regarding the         meaning or interpretation of section 920.''.            (4) in section 916(d) (15 U.S.C. 1693m) (as so designated by         the Credit CARD Act of 2009)--                    (A) in the subsection heading, by striking ``of                 Board or Approval of Duly Authorized Official or                 Employee of Federal Reserve System'';                    (B) by inserting ``Bureau or the'' before ``Board''                 each place that term appears; and                    (C) by inserting ``Bureau of Consumer Financial                 Protection or the'' before ``Federal Reserve System'';                 and            (5) in section 918 (15 U.S.C. 1693o) (as so designated by         the Credit CARD Act of 2009)--                    (A) in subsection (a)--                          (i) by striking ``Compliance'' and inserting                       ``Subject to subtitle B of the Consumer Financial                       Protection Act of 2010, compliance'';                          (ii) by striking paragraphs (1) and (2), and                       inserting the following:            ``(1) section 8 of the Federal Deposit Insurance Act, by the         appropriate Federal banking agency, as defined in section 3(q)         of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with         respect to--                    ``(A) national banks, Federal savings associations,                 and Federal branches and Federal agencies of foreign                 banks;                    ``(B) member banks of the Federal Reserve System                 (other than national banks), branches and agencies of                 foreign banks (other than Federal branches, Federal                 agencies, and insured State branches of foreign banks),                 commercial lending companies owned or controlled by                 foreign banks, and organizations operating under section                 25 or 25A of the Federal Reserve Act; and                    ``(C) banks and State savings associations insured                 by the Federal Deposit Insurance Corporation (other than                 members of the Federal Reserve System), and insured                 State branches of foreign banks;'';[[Page 124 STAT. 2083]]                          (iii) by redesignating paragraphs (3) through                       (5) as paragraphs (2) through (4), respectively;                          (iv) in paragraph (2) (as so redesignated), by                       striking the period at the end and inserting a                       semicolon;                          (v) in paragraph (3) (as so redesignated), by                       striking ``and'' at the end;                          (vi) in paragraph (4) (as so redesignated), by                       striking the period at the end and inserting                       ``and''; and                          (vii) by adding at the end the following:            ``(5) subtitle E of the Consumer Financial Protection Act of         2010, by the Bureau, with respect to any person subject to this         title, except that the Bureau shall not have authority to         enforce the requirements of section 920 or any regulations         prescribed by the Board under section 920.'';                    (B) in subsection (b), by inserting ``any of                 paragraphs (1) through (4) of'' before ``subsection                 (a)'' each place that term appears; and                    (C) by striking subsection (c) and inserting the                 following:    ``(c) Overall Enforcement Authority of the Federal Trade Commission.--Except to the extent that enforcement of the requirements imposed under this title is specifically committed to some other Government agency under any of paragraphs (1) through (4) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this title shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person subject to the jurisdiction of the Federal Trade Commission with the requirements imposed under this title, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.''.
+
+    The Electronic Fund Transfer Act &lt;&lt;NOTE: 15 USC 1693a et seq.&gt;&gt; (15 
+U.S.C. 1693 et seq.) is amended--
+            (1) by striking ``Board'' each place that term appears and 
+        inserting ``Bureau'', except in subsections (a) and (e) of 
+        section 904 (as amended in paragraph (3) of this section) and in 
+        918 (15 U.S.C. 1693o) (as so designated by the Credit Card Act 
+        of 2009) and section 920 (as added by section 1076);
+            (2) in section 903 (15 U.S.C. 1693a)--
+                    (A) by redesignating paragraphs (3) through (11) as 
+                paragraphs (4) through (12), respectively; and
+                    (B) by inserting after paragraph (3) the following:
+            ``(4) &lt;&lt;NOTE: Definition.&gt;&gt; the term `Bureau' means the 
+        Bureau of Consumer Financial Protection;'';
+            (3) in section 904 (15 U.S.C. 1693b)--
+
+
+                    (A) in subsection (a), by striking ``(a) 
+                Prescription by Board.--The &lt;&lt;NOTE: Regulations.&gt;&gt; Board 
+                shall prescribe regulations to carry out the purposes of 
+                this title.'' and inserting the following:
+
+    ``(a) Prescription &lt;&lt;NOTE: Regulations.&gt;&gt;  by the Bureau and the 
+Board.--
+            ``(1) In general.--Except as provided in paragraph (2), the 
+        Bureau shall prescribe rules to carry out the purposes of this 
+        title.
+            ``(2) Authority of the board.--The Board shall have sole 
+        authority to prescribe rules--
+                    ``(A) to carry out the purposes of this title with 
+                respect to a person described in section 1029(a) of the 
+                Consumer Financial Protection Act of 2010; and
+                    ``(B) to carry out the purposes of section 920.''; 
+                and
+                    (B) by adding at the end the following new 
+                subsection:
+
+    ``(e) Deference.--No provision of this title may be construed as 
+altering, limiting, or otherwise affecting the deference that a court 
+affords to--
+            ``(1) the Bureau in making determinations regarding the 
+        meaning or interpretation of any provision of this title for 
+        which the Bureau has authority to prescribe regulations; or
+            ``(2) the Board in making determinations regarding the 
+        meaning or interpretation of section 920.''.
+            (4) in section 916(d) (15 U.S.C. 1693m) (as so designated by 
+        the Credit CARD Act of 2009)--
+                    (A) in the subsection heading, by striking ``of 
+                Board or Approval of Duly Authorized Official or 
+                Employee of Federal Reserve System'';
+                    (B) by inserting ``Bureau or the'' before ``Board'' 
+                each place that term appears; and
+                    (C) by inserting ``Bureau of Consumer Financial 
+                Protection or the'' before ``Federal Reserve System''; 
+                and
+            (5) in section 918 (15 U.S.C. 1693o) (as so designated by 
+        the Credit CARD Act of 2009)--
+                    (A) in subsection (a)--
+                          (i) by striking ``Compliance'' and inserting 
+                      ``Subject to subtitle B of the Consumer Financial 
+                      Protection Act of 2010, compliance'';
+                          (ii) by striking paragraphs (1) and (2), and 
+                      inserting the following:
+            ``(1) section 8 of the Federal Deposit Insurance Act, by the 
+        appropriate Federal banking agency, as defined in section 3(q) 
+        of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with 
+        respect to--
+                    ``(A) national banks, Federal savings associations, 
+                and Federal branches and Federal agencies of foreign 
+                banks;
+                    ``(B) member banks of the Federal Reserve System 
+                (other than national banks), branches and agencies of 
+                foreign banks (other than Federal branches, Federal 
+                agencies, and insured State branches of foreign banks), 
+                commercial lending companies owned or controlled by 
+                foreign banks, and organizations operating under section 
+                25 or 25A of the Federal Reserve Act; and
+                    ``(C) banks and State savings associations insured 
+                by the Federal Deposit Insurance Corporation (other than 
+                members of the Federal Reserve System), and insured 
+                State branches of foreign banks;'';
+
+
+                          (iii) by redesignating paragraphs (3) through 
+                      (5) as paragraphs (2) through (4), respectively;
+                          (iv) in paragraph (2) (as so redesignated), by 
+                      striking the period at the end and inserting a 
+                      semicolon;
+                          (v) in paragraph (3) (as so redesignated), by 
+                      striking ``and'' at the end;
+                          (vi) in paragraph (4) (as so redesignated), by 
+                      striking the period at the end and inserting 
+                      ``and''; and
+                          (vii) by adding at the end the following:
+            ``(5) subtitle E of the Consumer Financial Protection Act of 
+        2010, by the Bureau, with respect to any person subject to this 
+        title, except that the Bureau shall not have authority to 
+        enforce the requirements of section 920 or any regulations 
+        prescribed by the Board under section 920.'';
+                    (B) in subsection (b), by inserting ``any of 
+                paragraphs (1) through (4) of'' before ``subsection 
+                (a)'' each place that term appears; and
+                    (C) by striking subsection (c) and inserting the 
+                following:
+
+    ``(c) Overall Enforcement Authority of the Federal Trade 
+Commission.--Except to the extent that enforcement of the requirements 
+imposed under this title is specifically committed to some other 
+Government agency under any of paragraphs (1) through (4) of subsection 
+(a), and subject to subtitle B of the Consumer Financial Protection Act 
+of 2010, the Federal Trade Commission shall be authorized to enforce 
+such requirements. For the purpose of the exercise by the Federal Trade 
+Commission of its functions and powers under the Federal Trade 
+Commission Act, a violation of any requirement imposed under this title 
+shall be deemed a violation of a requirement imposed under that Act. All 
+of the functions and powers of the Federal Trade Commission under the 
+Federal Trade Commission Act are available to the Federal Trade 
+Commission to enforce compliance by any person subject to the 
+jurisdiction of the Federal Trade Commission with the requirements 
+imposed under this title, irrespective of whether that person is engaged 
+in commerce or meets any other jurisdictional tests under the Federal 
+Trade Commission Act.''.

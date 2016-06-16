@@ -1,1 +1,39 @@
-    Section 10 of the Homeowners Protection Act of 1998 (12 U.S.C. 4909) is amended--            (1) in subsection (a)--                    (A) by striking ``Compliance'' and all that follows                 through the end of paragraph (1) and inserting the                 following: ``Subject to subtitle B of the Consumer                 Financial Protection Act of 2010, compliance with the                 requirements imposed under this Act shall be enforced                 under--            ``(1) section 8 of the Federal Deposit Insurance Act, by the         appropriate Federal banking agency (as defined in section 3(q)         of that Act), with respect to--                    ``(A) insured depository institutions (as defined in                 section 3(c)(2) of that Act);                    ``(B) depository institutions described in clause                 (i), (ii), or (iii) of section 19(b)(1)(A) of the                 Federal Reserve Act[[Page 124 STAT. 2102]]                which are not insured depository institutions (as                 defined in section 3(c)(2) of the Federal Deposit                 Insurance Act); and                    ``(C) depository institutions described in clause                 (v) or (vi) of section 19(b)(1)(A) of the Federal                 Reserve Act which are not insured depository                 institutions (as defined in section 3(c)(2) of the                 Federal Deposit Insurance Act);'';                    (B) in paragraph (2), by striking ``and'' at the                 end;                    (C) in paragraph (3), by striking the period at the                 end and inserting ``; and''; and                    (D) by adding at the end the following:            ``(4) subtitle E of the Consumer Financial Protection Act of         2010, by the Bureau of Consumer Financial Protection, with         respect to any person subject to this Act.''; and            (2) in subsection (b)(2), by inserting before the period at         the end the following: ``, subject to subtitle B of the Consumer         Financial Protection Act of 2010''.
+
+    Section 10 of the Homeowners Protection Act of 1998 (12 U.S.C. 4909) 
+is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``Compliance'' and all that follows 
+                through the end of paragraph (1) and inserting the 
+                following: ``Subject to subtitle B of the Consumer 
+                Financial Protection Act of 2010, compliance with the 
+                requirements imposed under this Act shall be enforced 
+                under--
+            ``(1) section 8 of the Federal Deposit Insurance Act, by the 
+        appropriate Federal banking agency (as defined in section 3(q) 
+        of that Act), with respect to--
+                    ``(A) insured depository institutions (as defined in 
+                section 3(c)(2) of that Act);
+                    ``(B) depository institutions described in clause 
+                (i), (ii), or (iii) of section 19(b)(1)(A) of the 
+                Federal Reserve Act
+
+
+                which are not insured depository institutions (as 
+                defined in section 3(c)(2) of the Federal Deposit 
+                Insurance Act); and
+                    ``(C) depository institutions described in clause 
+                (v) or (vi) of section 19(b)(1)(A) of the Federal 
+                Reserve Act which are not insured depository 
+                institutions (as defined in section 3(c)(2) of the 
+                Federal Deposit Insurance Act);'';
+                    (B) in paragraph (2), by striking ``and'' at the 
+                end;
+                    (C) in paragraph (3), by striking the period at the 
+                end and inserting ``; and''; and
+                    (D) by adding at the end the following:
+            ``(4) subtitle E of the Consumer Financial Protection Act of 
+        2010, by the Bureau of Consumer Financial Protection, with 
+        respect to any person subject to this Act.''; and
+            (2) in subsection (b)(2), by inserting before the period at 
+        the end the following: ``, subject to subtitle B of the Consumer 
+        Financial Protection Act of 2010''.

@@ -1,1 +1,21 @@
-    The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended--            (1) in section 11(a)(2) (12 U.S.C. 248(a)(2))--                    (A) by inserting ``State savings associations that                 are insured depository institutions (as defined in                 section 3 of the Federal Deposit Insurance Act),'' after                 ``case of insured'';                    (B) by striking ``Director of the Office of Thrift                 Supervision'' and inserting ``Comptroller of the                 Currency'';                    (C) by inserting ``Federal'' before ``savings                 association which''; and                    (D) by striking ``savings and loan association'' and                 inserting ``savings association''; and            (2) in section 19(b) (12 U.S.C. 461(b))--                    (A) in paragraph (1)(F), by striking ``Director of                 the Office of Thrift Supervision'' and inserting                 ``Comptroller of the Currency''; and                    (B) in paragraph (4)(B), by striking ``Director of                 the Office of Thrift Supervision'' and inserting                 ``Comptroller of the Currency''.
+
+    The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended--
+            (1) in section 11(a)(2) (12 U.S.C. 248(a)(2))--
+                    (A) by inserting ``State savings associations that 
+                are insured depository institutions (as defined in 
+                section 3 of the Federal Deposit Insurance Act),'' after 
+                ``case of insured'';
+                    (B) by striking ``Director of the Office of Thrift 
+                Supervision'' and inserting ``Comptroller of the 
+                Currency'';
+                    (C) by inserting ``Federal'' before ``savings 
+                association which''; and
+                    (D) by striking ``savings and loan association'' and 
+                inserting ``savings association''; and
+            (2) in section 19(b) (12 U.S.C. 461(b))--
+                    (A) in paragraph (1)(F), by striking ``Director of 
+                the Office of Thrift Supervision'' and inserting 
+                ``Comptroller of the Currency''; and
+                    (B) in paragraph (4)(B), by striking ``Director of 
+                the Office of Thrift Supervision'' and inserting 
+                ``Comptroller of the Currency''.

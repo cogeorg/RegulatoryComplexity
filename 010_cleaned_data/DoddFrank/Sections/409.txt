@@ -1,1 +1,27 @@
-                        ADVISERS.    Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3) is amended by adding at the end the following:    ``(m) Exemption of and Reporting by Certain Private Fund Advisers.--            ``(1) In general.--The Commission shall provide an exemption         from the registration requirements under this section to any         investment adviser of private funds, if each of such investment         adviser acts solely as an adviser to private funds and has         assets under management in the United States of less than         $150,000,000.            ``(2) Reporting.--The &lt;&lt;NOTE: Records.&gt;&gt; Commission shall         require investment advisers exempted by reason of this         subsection to maintain such records and provide to the         Commission such annual or other reports as the Commission         determines necessary or appropriate in the public interest or         for the protection of investors.    ``(n) Registration and Examination of Mid-sized Private Fund Advisers.--In prescribing &lt;&lt;NOTE: Regulations. Procedures.&gt;&gt; regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.''.
+                        ADVISERS.
+
+    Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3) 
+is amended by adding at the end the following:
+    ``(m) Exemption of and Reporting by Certain Private Fund Advisers.--
+            ``(1) In general.--The Commission shall provide an exemption 
+        from the registration requirements under this section to any 
+        investment adviser of private funds, if each of such investment 
+        adviser acts solely as an adviser to private funds and has 
+        assets under management in the United States of less than 
+        $150,000,000.
+            ``(2) Reporting.--The &lt;&lt;NOTE: Records.&gt;&gt; Commission shall 
+        require investment advisers exempted by reason of this 
+        subsection to maintain such records and provide to the 
+        Commission such annual or other reports as the Commission 
+        determines necessary or appropriate in the public interest or 
+        for the protection of investors.
+
+    ``(n) Registration and Examination of Mid-sized Private Fund 
+Advisers.--In prescribing &lt;&lt;NOTE: Regulations. Procedures.&gt;&gt; regulations 
+to carry out the requirements of this section with respect to investment 
+advisers acting as investment advisers to mid-sized private funds, the 
+Commission shall take into account the size, governance, and investment 
+strategy of such funds to determine whether they pose systemic risk, and 
+shall provide for registration and examination procedures with respect 
+to the investment advisers of such funds which reflect the level of 
+systemic risk posed by such funds.''.

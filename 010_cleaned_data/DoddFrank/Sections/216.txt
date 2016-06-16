@@ -1,1 +1,38 @@
-    (a) Study Required.--The Council shall conduct a study evaluating the importance of maximizing United States taxpayer protections and promoting market discipline with respect to the treatment of fully secured creditors in the utilization of the orderly liquidation authority authorized by this Act. In carrying out such study, the Council shall--            (1) not be prejudicial to current or past laws or         regulations with respect to secured creditor treatment in a         resolution process;            (2) study the similarities and differences between the         resolution mechanisms authorized by the Bankruptcy Code, the         Federal Deposit Insurance Corporation Improvement Act of 1991,         and the orderly liquidation authority authorized by this Act;            (3) determine how various secured creditors are treated in         such resolution mechanisms and examine how a haircut (of various         degrees) on secured creditors could improve market discipline         and protect taxpayers;            (4) compare the benefits and dynamics of prudent lending         practices by depository institutions in secured loans for         consumers and small businesses to the lending practices of         secured creditors to large, interconnected financial firms;            (5) consider whether credit differs according to different         types of collateral and different terms and timing of the         extension of credit; amd            (6) include an examination of stakeholders who were         unsecured or under-collateralized and seek collateral when a         firm is failing, and the impact that such behavior has on         financial stability and an orderly resolution that protects         taxpayers if the firm fails.    (b) Report.--Not later than the end of the 1-year period beginning on the date of enactment of this Act, the Council shall issue a report to the Congress containing all findings and conclusions[[Page 124 STAT. 1519]]made by the Council in carrying out the study required under subsection (a).
+
+    (a) Study Required.--The Council shall conduct a study evaluating 
+the importance of maximizing United States taxpayer protections and 
+promoting market discipline with respect to the treatment of fully 
+secured creditors in the utilization of the orderly liquidation 
+authority authorized by this Act. In carrying out such study, the 
+Council shall--
+            (1) not be prejudicial to current or past laws or 
+        regulations with respect to secured creditor treatment in a 
+        resolution process;
+            (2) study the similarities and differences between the 
+        resolution mechanisms authorized by the Bankruptcy Code, the 
+        Federal Deposit Insurance Corporation Improvement Act of 1991, 
+        and the orderly liquidation authority authorized by this Act;
+            (3) determine how various secured creditors are treated in 
+        such resolution mechanisms and examine how a haircut (of various 
+        degrees) on secured creditors could improve market discipline 
+        and protect taxpayers;
+            (4) compare the benefits and dynamics of prudent lending 
+        practices by depository institutions in secured loans for 
+        consumers and small businesses to the lending practices of 
+        secured creditors to large, interconnected financial firms;
+            (5) consider whether credit differs according to different 
+        types of collateral and different terms and timing of the 
+        extension of credit; amd
+            (6) include an examination of stakeholders who were 
+        unsecured or under-collateralized and seek collateral when a 
+        firm is failing, and the impact that such behavior has on 
+        financial stability and an orderly resolution that protects 
+        taxpayers if the firm fails.
+
+    (b) Report.--Not later than the end of the 1-year period beginning 
+on the date of enactment of this Act, the Council shall issue a report 
+to the Congress containing all findings and conclusions
+
+
+made by the Council in carrying out the study required under subsection 
+(a).

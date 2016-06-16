@@ -1,1 +1,13 @@
-    (a) Exemption Eliminated.--Section 4 of the Securities Act of 1933 (15 U.S.C. 77d) is amended--            (1) by striking paragraph (5); and            (2) by striking ``(6) transactions'' and inserting the         following:[[Page 124 STAT. 1898]]            ``(5) transactions''.    (b) Conforming Amendment.--Section 3(a)(4)(B)(vii)(I) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)(B)(vii)(I)) is amended by striking ``4(6)'' and inserting ``4(5)''.
+
+    (a) Exemption Eliminated.--Section 4 of the Securities Act of 1933 
+(15 U.S.C. 77d) is amended--
+            (1) by striking paragraph (5); and
+            (2) by striking ``(6) transactions'' and inserting the 
+        following:
+
+
+            ``(5) transactions''.
+
+    (b) Conforming Amendment.--Section 3(a)(4)(B)(vii)(I) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)(B)(vii)(I)) is 
+amended by striking ``4(6)'' and inserting ``4(5)''.

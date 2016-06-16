@@ -1,1 +1,40 @@
-                        WELL CAPITALIZED AND WELL MANAGED.    (a) Amendment.--Section 4(l)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(l)(1)) is amended--            (1) in subparagraph (B), by striking ``and'' at the end;            (2) by redesignating subparagraph (C) as subparagraph (D);            (3) by inserting after subparagraph (B) the following:                    ``(C) the bank holding company is well capitalized                 and well managed; and''; and            (4) in subparagraph (D)(ii), as so redesignated, by striking         ``subparagraphs (A) and (B)'' and inserting ``subparagraphs (A),         (B), and (C)''.    (b) Home Owners' Loan Act Amendment.--Section 10(c)(2) of the Home Owners' Loan Act (12 U.S.C. 1467a(c)(2)) is amended by adding at the end the following new subparagraph:                    ``(H) Any activity that is permissible for a                 financial holding company (as such term is defined under                 section 2(p) of the Bank Holding Company Act of 1956 (12                 U.S.C. 1841(p)) to conduct under section 4(k) of the                 Bank Holding Company Act of 1956 if--                          ``(i) the savings and loan holding company                       meets all of the criteria to qualify as a                       financial holding company, and complies with all                       of the requirements applicable to a financial                       holding company, under sections 4(l) and 4(m) of                       the Bank Holding Company Act and section 804(c) of                       the Community Reinvestment Act of 1977 (12 U.S.C.                       2903(c)) as if the savings and loan holding                       company was a bank holding company; and                          ``(ii) the savings and loan holding company                       conducts the activity in accordance with the same                       terms, conditions, and requirements that apply to                       the conduct of such activity by a bank holding                       company under the Bank Holding Company Act of 1956                       and the Board's regulations and interpretations                       under such Act.''.    (c) &lt;&lt;NOTE: 12 USC 1467a note.&gt;&gt;  Effective Date.--The amendments made by this section shall take effect on the transfer date.
+                        WELL CAPITALIZED AND WELL MANAGED.
+
+    (a) Amendment.--Section 4(l)(1) of the Bank Holding Company Act of 
+1956 (12 U.S.C. 1843(l)(1)) is amended--
+            (1) in subparagraph (B), by striking ``and'' at the end;
+            (2) by redesignating subparagraph (C) as subparagraph (D);
+            (3) by inserting after subparagraph (B) the following:
+                    ``(C) the bank holding company is well capitalized 
+                and well managed; and''; and
+            (4) in subparagraph (D)(ii), as so redesignated, by striking 
+        ``subparagraphs (A) and (B)'' and inserting ``subparagraphs (A), 
+        (B), and (C)''.
+
+    (b) Home Owners' Loan Act Amendment.--Section 10(c)(2) of the Home 
+Owners' Loan Act (12 U.S.C. 1467a(c)(2)) is amended by adding at the end 
+the following new subparagraph:
+                    ``(H) Any activity that is permissible for a 
+                financial holding company (as such term is defined under 
+                section 2(p) of the Bank Holding Company Act of 1956 (12 
+                U.S.C. 1841(p)) to conduct under section 4(k) of the 
+                Bank Holding Company Act of 1956 if--
+                          ``(i) the savings and loan holding company 
+                      meets all of the criteria to qualify as a 
+                      financial holding company, and complies with all 
+                      of the requirements applicable to a financial 
+                      holding company, under sections 4(l) and 4(m) of 
+                      the Bank Holding Company Act and section 804(c) of 
+                      the Community Reinvestment Act of 1977 (12 U.S.C. 
+                      2903(c)) as if the savings and loan holding 
+                      company was a bank holding company; and
+                          ``(ii) the savings and loan holding company 
+                      conducts the activity in accordance with the same 
+                      terms, conditions, and requirements that apply to 
+                      the conduct of such activity by a bank holding 
+                      company under the Bank Holding Company Act of 1956 
+                      and the Board's regulations and interpretations 
+                      under such Act.''.
+
+    (c) &lt;&lt;NOTE: 12 USC 1467a note.&gt;&gt;  Effective Date.--The amendments 
+made by this section shall take effect on the transfer date.

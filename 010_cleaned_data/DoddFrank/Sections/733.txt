@@ -1,1 +1,25 @@
-    Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is amended--            (1) by redesignating subsection (c) as subsection (e); and            (2) by inserting after subsection (b) the following:    ``(c) &lt;&lt;NOTE: Procedures.&gt;&gt;  Conflicts of Interest.--The Commission shall require that futures commission merchants and introducing brokers implement conflict-of-interest systems and procedures that--            ``(1) establish structural and institutional safeguards to         ensure that the activities of any person within the firm         relating to research or analysis of the price or market for any         commodity are separated by appropriate informational partitions         within the firm from the review, pressure, or oversight of         persons whose involvement in trading or clearing activities         might potentially bias the judgment or supervision of the         persons; and            ``(2) address such other issues as the Commission determines         to be appropriate.    ``(d) &lt;&lt;NOTE: Regulations.&gt;&gt;  Designation of Chief Compliance Officer.--Each futures commission merchant shall designate an individual to serve as its Chief Compliance Officer and perform such duties and responsibilities as shall be set forth in regulations to be adopted by the Commission or rules to be adopted by a futures association registered under section 17.''.
+
+    Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is amended--
+            (1) by redesignating subsection (c) as subsection (e); and
+            (2) by inserting after subsection (b) the following:
+
+    ``(c) &lt;&lt;NOTE: Procedures.&gt;&gt;  Conflicts of Interest.--The Commission 
+shall require that futures commission merchants and introducing brokers 
+implement conflict-of-interest systems and procedures that--
+            ``(1) establish structural and institutional safeguards to 
+        ensure that the activities of any person within the firm 
+        relating to research or analysis of the price or market for any 
+        commodity are separated by appropriate informational partitions 
+        within the firm from the review, pressure, or oversight of 
+        persons whose involvement in trading or clearing activities 
+        might potentially bias the judgment or supervision of the 
+        persons; and
+            ``(2) address such other issues as the Commission determines 
+        to be appropriate.
+
+    ``(d) &lt;&lt;NOTE: Regulations.&gt;&gt;  Designation of Chief Compliance 
+Officer.--Each futures commission merchant shall designate an individual 
+to serve as its Chief Compliance Officer and perform such duties and 
+responsibilities as shall be set forth in regulations to be adopted by 
+the Commission or rules to be adopted by a futures association 
+registered under section 17.''.

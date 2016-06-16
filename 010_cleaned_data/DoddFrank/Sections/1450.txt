@@ -1,1 +1,51 @@
-    Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x), as amended by the preceding provisions of this subtitle, is amended by adding at the end the following:    ``(i) Accountability for Recipients of Covered Assistance.--            ``(1) Tracking of funds.--The Secretary shall--                    ``(A) develop and maintain a system to ensure that                 any organization or entity that receives any covered                 assistance uses all amounts of covered assistance in                 accordance with this section, the regulations issued                 under this section, and any requirements or conditions                 under which such amounts were provided; and                    ``(B) require any organization or entity, as a                 condition of receipt of any covered assistance, to agree                 to comply with such requirements regarding covered                 assistance as the Secretary shall establish, which shall                 include--                          ``(i) &lt;&lt;NOTE: Reports. Records.&gt;&gt; appropriate                       periodic financial and grant activity reporting,                       record retention, and audit requirements for the                       duration of the covered assistance to the                       organization or entity to ensure compliance with                       the limitations and requirements of this section,                       the regulations under this section, and any                       requirements or conditions under which such                       amounts were provided; and                          ``(ii) any other requirements that the                       Secretary determines are necessary to ensure                       appropriate administration and compliance.            ``(2) Misuse of funds.--If any organization or entity that         receives any covered assistance is determined by the Secretary         to have used any covered assistance in a manner that is         materially in violation of this section, the regulations issued         under this section, or any requirements or conditions under         which such assistance was provided--                    ``(A)                 the &lt;&lt;NOTE: Deadline. Reimbursement.&gt;&gt; Secretary shall                 require that, within 12 months after the determination                 of such misuse, the organization or entity shall                 reimburse the Secretary for such misused amounts and                 return to the Secretary any such amounts that remain                 unused or uncommitted for use; and                    ``(B) such organization or entity shall be                 ineligible, at any time after such determination, to                 apply for or receive any further covered assistance.        The remedies under this paragraph are in addition to any other         remedies that may be available under law.            ``(3) Covered assistance.--For &lt;&lt;NOTE: Definition.&gt;&gt;          purposes of this subsection, the term `covered assistance' means         any grant or other financial assistance provided under this         section.''.
+
+    Section 106 of the Housing and Urban Development Act of 1968 (12 
+U.S.C. 1701x), as amended by the preceding provisions of this subtitle, 
+is amended by adding at the end the following:
+    ``(i) Accountability for Recipients of Covered Assistance.--
+            ``(1) Tracking of funds.--The Secretary shall--
+                    ``(A) develop and maintain a system to ensure that 
+                any organization or entity that receives any covered 
+                assistance uses all amounts of covered assistance in 
+                accordance with this section, the regulations issued 
+                under this section, and any requirements or conditions 
+                under which such amounts were provided; and
+                    ``(B) require any organization or entity, as a 
+                condition of receipt of any covered assistance, to agree 
+                to comply with such requirements regarding covered 
+                assistance as the Secretary shall establish, which shall 
+                include--
+                          ``(i) &lt;&lt;NOTE: Reports. Records.&gt;&gt; appropriate 
+                      periodic financial and grant activity reporting, 
+                      record retention, and audit requirements for the 
+                      duration of the covered assistance to the 
+                      organization or entity to ensure compliance with 
+                      the limitations and requirements of this section, 
+                      the regulations under this section, and any 
+                      requirements or conditions under which such 
+                      amounts were provided; and
+                          ``(ii) any other requirements that the 
+                      Secretary determines are necessary to ensure 
+                      appropriate administration and compliance.
+            ``(2) Misuse of funds.--If any organization or entity that 
+        receives any covered assistance is determined by the Secretary 
+        to have used any covered assistance in a manner that is 
+        materially in violation of this section, the regulations issued 
+        under this section, or any requirements or conditions under 
+        which such assistance was provided--
+                    ``(A) 
+                the &lt;&lt;NOTE: Deadline. Reimbursement.&gt;&gt; Secretary shall 
+                require that, within 12 months after the determination 
+                of such misuse, the organization or entity shall 
+                reimburse the Secretary for such misused amounts and 
+                return to the Secretary any such amounts that remain 
+                unused or uncommitted for use; and
+                    ``(B) such organization or entity shall be 
+                ineligible, at any time after such determination, to 
+                apply for or receive any further covered assistance.
+        The remedies under this paragraph are in addition to any other 
+        remedies that may be available under law.
+            ``(3) Covered assistance.--For &lt;&lt;NOTE: Definition.&gt;&gt;  
+        purposes of this subsection, the term `covered assistance' means 
+        any grant or other financial assistance provided under this 
+        section.''.

@@ -1,1 +1,9 @@
-    Section 502(c) of the Housing Act of 1948 (12 U.S.C. 1701c(c)) is amended--            (1) in the matter preceding paragraph (1), by striking ``and         the Director of the Office of Thrift Supervision'' and inserting         ``, the Comptroller of the Currency, and the Federal Deposit         Insurance Corporation''; and            (2) in paragraph (3), by striking ``Board'' and inserting         ``Agency''.
+
+    Section 502(c) of the Housing Act of 1948 (12 U.S.C. 1701c(c)) is 
+amended--
+            (1) in the matter preceding paragraph (1), by striking ``and 
+        the Director of the Office of Thrift Supervision'' and inserting 
+        ``, the Comptroller of the Currency, and the Federal Deposit 
+        Insurance Corporation''; and
+            (2) in paragraph (3), by striking ``Board'' and inserting 
+        ``Agency''.

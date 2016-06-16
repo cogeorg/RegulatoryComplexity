@@ -1,1 +1,101 @@
-    Section 129B of the Truth in Lending Act (as added by section 1402(a)) is amended by inserting after subsection (b) the following new subsection:    ``(c) Prohibition on Steering Incentives.--            ``(1) In general.--For any residential mortgage loan, no         mortgage originator shall receive from any person and no person         shall pay to a mortgage originator, directly or indirectly,         compensation that varies based on the terms of the loan (other         than the amount of the principal).            ``(2) Restructuring of financing origination fee.--                    ``(A) In general.--For any mortgage loan, a mortgage                 originator may not receive from any person other than                 the consumer and no person, other than the consumer, who                 knows or has reason to know that a consumer has[[Page 124 STAT. 2140]]                directly compensated or will directly compensate a                 mortgage originator may pay a mortgage originator any                 origination fee or charge except bona fide third party                 charges not retained by the creditor, mortgage                 originator, or an affiliate of the creditor or mortgage                 originator .                    ``(B) Exception.--Notwithstanding subparagraph (A),                 a mortgage originator may receive from a person other                 than the consumer an origination fee or charge, and a                 person other than the consumer may pay a mortgage                 originator an origination fee or charge, if--                          ``(i) the mortgage originator does not receive                       any compensation directly from the consumer; and                          ``(ii) &lt;&lt;NOTE: Waiver authority.&gt;&gt;  the                       consumer does not make an upfront payment of                       discount points, origination points, or fees,                       however denominated (other than bona fide third                       party charges not retained by the mortgage                       originator, creditor, or an affiliate of the                       creditor or originator), except that the Board                       may, by rule, waive or provide exemptions to this                       clause if the Board determines that such waiver or                       exemption is in the interest of consumers and in                       the public interest.            ``(3) Regulations.--The Board shall prescribe regulations to         prohibit--                    ``(A) mortgage originators from steering any                 consumer to a residential mortgage loan that--                          ``(i) the consumer lacks a reasonable ability                       to repay (in accordance with regulations                       prescribed under section 129C(a)); or                          ``(ii) has predatory characteristics or                       effects (such as equity stripping, excessive fees,                       or abusive terms);                    ``(B) mortgage originators from steering any                 consumer from a residential mortgage loan for which the                 consumer is qualified that is a qualified mortgage (as                 defined in section 129C(b)(2)) to a residential mortgage                 loan that is not a qualified mortgage;                    ``(C) abusive or unfair lending practices that                 promote disparities among consumers of equal credit                 worthiness but of different race, ethnicity, gender, or                 age; and                    ``(D) mortgage originators from--                          ``(i) mischaracterizing the credit history of                       a consumer or the residential mortgage loans                       available to a consumer;                          ``(ii) mischaracterizing or suborning the                       mischaracterization of the appraised value of the                       property securing the extension of credit; or                          ``(iii) if unable to suggest, offer, or                       recommend to a consumer a loan that is not more                       expensive than a loan for which the consumer                       qualifies, discouraging a consumer from seeking a                       residential mortgage loan secured by a consumer's                       principal dwelling from another mortgage                       originator.            ``(4) Rules of construction.--No provision of this         subsection shall be construed as--                    ``(A) permitting any yield spread premium or other                 similar compensation that would, for any residential                 mortgage loan, permit the total amount of direct and                 indirect compensation from all sources permitted to a                 mortgage[[Page 124 STAT. 2141]]                originator to vary based on the terms of the loan (other                 than the amount of the principal);                    ``(B) limiting or affecting the amount of                 compensation received by a creditor upon the sale of a                 consummated loan to a subsequent purchaser;                    ``(C) restricting a consumer's ability to finance,                 at the option of the consumer, including through                 principal or rate, any origination fees or costs                 permitted under this subsection, or the mortgage                 originator's right to receive such fees or costs                 (including compensation) from any person, subject to                 paragraph (2)(B), so long as such fees or costs do not                 vary based on the terms of the loan (other than the                 amount of the principal) or the consumer's decision                 about whether to finance such fees or costs; or                    ``(D) prohibiting incentive payments to a mortgage                 originator based on the number of residential mortgage                 loans originated within a specified period of time.''.
+
+    Section 129B of the Truth in Lending Act (as added by section 
+1402(a)) is amended by inserting after subsection (b) the following new 
+subsection:
+    ``(c) Prohibition on Steering Incentives.--
+            ``(1) In general.--For any residential mortgage loan, no 
+        mortgage originator shall receive from any person and no person 
+        shall pay to a mortgage originator, directly or indirectly, 
+        compensation that varies based on the terms of the loan (other 
+        than the amount of the principal).
+            ``(2) Restructuring of financing origination fee.--
+                    ``(A) In general.--For any mortgage loan, a mortgage 
+                originator may not receive from any person other than 
+                the consumer and no person, other than the consumer, who 
+                knows or has reason to know that a consumer has
+
+
+                directly compensated or will directly compensate a 
+                mortgage originator may pay a mortgage originator any 
+                origination fee or charge except bona fide third party 
+                charges not retained by the creditor, mortgage 
+                originator, or an affiliate of the creditor or mortgage 
+                originator .
+                    ``(B) Exception.--Notwithstanding subparagraph (A), 
+                a mortgage originator may receive from a person other 
+                than the consumer an origination fee or charge, and a 
+                person other than the consumer may pay a mortgage 
+                originator an origination fee or charge, if--
+                          ``(i) the mortgage originator does not receive 
+                      any compensation directly from the consumer; and
+                          ``(ii) &lt;&lt;NOTE: Waiver authority.&gt;&gt;  the 
+                      consumer does not make an upfront payment of 
+                      discount points, origination points, or fees, 
+                      however denominated (other than bona fide third 
+                      party charges not retained by the mortgage 
+                      originator, creditor, or an affiliate of the 
+                      creditor or originator), except that the Board 
+                      may, by rule, waive or provide exemptions to this 
+                      clause if the Board determines that such waiver or 
+                      exemption is in the interest of consumers and in 
+                      the public interest.
+            ``(3) Regulations.--The Board shall prescribe regulations to 
+        prohibit--
+                    ``(A) mortgage originators from steering any 
+                consumer to a residential mortgage loan that--
+                          ``(i) the consumer lacks a reasonable ability 
+                      to repay (in accordance with regulations 
+                      prescribed under section 129C(a)); or
+                          ``(ii) has predatory characteristics or 
+                      effects (such as equity stripping, excessive fees, 
+                      or abusive terms);
+                    ``(B) mortgage originators from steering any 
+                consumer from a residential mortgage loan for which the 
+                consumer is qualified that is a qualified mortgage (as 
+                defined in section 129C(b)(2)) to a residential mortgage 
+                loan that is not a qualified mortgage;
+                    ``(C) abusive or unfair lending practices that 
+                promote disparities among consumers of equal credit 
+                worthiness but of different race, ethnicity, gender, or 
+                age; and
+                    ``(D) mortgage originators from--
+                          ``(i) mischaracterizing the credit history of 
+                      a consumer or the residential mortgage loans 
+                      available to a consumer;
+                          ``(ii) mischaracterizing or suborning the 
+                      mischaracterization of the appraised value of the 
+                      property securing the extension of credit; or
+                          ``(iii) if unable to suggest, offer, or 
+                      recommend to a consumer a loan that is not more 
+                      expensive than a loan for which the consumer 
+                      qualifies, discouraging a consumer from seeking a 
+                      residential mortgage loan secured by a consumer's 
+                      principal dwelling from another mortgage 
+                      originator.
+            ``(4) Rules of construction.--No provision of this 
+        subsection shall be construed as--
+                    ``(A) permitting any yield spread premium or other 
+                similar compensation that would, for any residential 
+                mortgage loan, permit the total amount of direct and 
+                indirect compensation from all sources permitted to a 
+                mortgage
+
+
+                originator to vary based on the terms of the loan (other 
+                than the amount of the principal);
+                    ``(B) limiting or affecting the amount of 
+                compensation received by a creditor upon the sale of a 
+                consummated loan to a subsequent purchaser;
+                    ``(C) restricting a consumer's ability to finance, 
+                at the option of the consumer, including through 
+                principal or rate, any origination fees or costs 
+                permitted under this subsection, or the mortgage 
+                originator's right to receive such fees or costs 
+                (including compensation) from any person, subject to 
+                paragraph (2)(B), so long as such fees or costs do not 
+                vary based on the terms of the loan (other than the 
+                amount of the principal) or the consumer's decision 
+                about whether to finance such fees or costs; or
+                    ``(D) prohibiting incentive payments to a mortgage 
+                originator based on the number of residential mortgage 
+                loans originated within a specified period of time.''.

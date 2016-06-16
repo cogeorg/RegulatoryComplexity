@@ -1,1 +1,101 @@
-    Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a)) is amended by adding at the end the following:            ``(13) Public availability of swap transaction data.--                    ``(A) Definition of real-time public reporting.--In                 this paragraph, the term `real-time public reporting'                 means to report data relating to a swap transaction,                 including price and volume, as soon as technologically                 practicable after the time at which the swap transaction                 has been executed.                    ``(B) Purpose.--The purpose of this section is to                 authorize the Commission to make swap transaction and                 pricing data available to the public in such form and at                 such times as the Commission determines appropriate to                 enhance price discovery.                    ``(C) General rule.--The Commission is authorized                 and required to provide by rule for the public                 availability of swap transaction and pricing data as                 follows:                          ``(i) With respect to those swaps that are                       subject to the mandatory clearing requirement                       described in subsection (h)(1) (including those                       swaps that are excepted from the requirement                       pursuant to subsection (h)(7)), the Commission                       shall require real-time public reporting for such                       transactions.                          ``(ii) With respect to those swaps that are                       not subject to the mandatory clearing requirement                       described in subsection (h)(1), but are cleared at                       a registered derivatives clearing organization,                       the Commission shall require real-time public                       reporting for such transactions.                          ``(iii) With respect to swaps that are not                       cleared at a registered derivatives clearing                       organization and which are reported to a swap data                       repository or the Commission under subsection                       (h)(6), the Commission shall require real-time                       public reporting for such transactions, in a                       manner that does not disclose the business                       transactions and market positions of any person.                          ``(iv) With respect to swaps that are                       determined to be required to be cleared under                       subsection (h)(2) but are not cleared, the                       Commission shall require real-time public                       reporting for such transactions.                    ``(D) Registered entities and public reporting.--The                 Commission may require registered entities to publicly                 disseminate the swap transaction and pricing data                 required to be reported under this paragraph.                    ``(E) Rulemaking required.--With respect to the rule                 providing for the public availability of transaction and                 pricing data for swaps described in clauses (i) and (ii)                 of subparagraph (C), the rule promulgated by the                 Commission shall contain provisions--                          ``(i) to ensure such information does not                       identify the participants;[[Page 124 STAT. 1697]]                          ``(ii) &lt;&lt;NOTE: Criteria.&gt;&gt; to specify the                       criteria for determining what constitutes a large                       notional swap transaction (block trade) for                       particular markets and contracts;                          ``(iii) to specify the appropriate time delay                       for reporting large notional swap transactions                       (block trades) to the public; and                          ``(iv) that take into account whether the                       public disclosure will materially reduce market                       liquidity.                    ``(F) Timeliness of reporting.--Parties to a swap                 (including agents of the parties to a swap) shall be                 responsible for reporting swap transaction information                 to the appropriate registered entity in a timely manner                 as may be prescribed by the Commission.                    ``(G) Reporting of swaps to registered swap data                 repositories.--Each swap (whether cleared or uncleared)                 shall be reported to a registered swap data repository.            ``(14) Semiannual and annual public reporting of aggregate         swap data.--                    ``(A) In general.--In accordance with subparagraph                 (B), the Commission shall issue a written report on a                 semiannual and annual basis to make available to the                 public information relating to--                          ``(i) the trading and clearing in the major                       swap categories; and                          ``(ii) the market participants and                       developments in new products.                    ``(B) Use; consultation.--In preparing a report                 under subparagraph (A), the Commission shall--                          ``(i) use information from swap data                       repositories and derivatives clearing                       organizations; and                          ``(ii) consult with the Office of the                       Comptroller of the Currency, the Bank for                       International Settlements, and such other                       regulatory bodies as may be necessary.                    ``(C) Authority of the commission.--The Commission                 may, by rule, regulation, or order, delegate the public                 reporting responsibilities of the Commission under this                 paragraph in accordance with such terms and conditions                 as the Commission determines to be appropriate and in                 the public interest.''.
+
+    Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a)) is 
+amended by adding at the end the following:
+            ``(13) Public availability of swap transaction data.--
+                    ``(A) Definition of real-time public reporting.--In 
+                this paragraph, the term `real-time public reporting' 
+                means to report data relating to a swap transaction, 
+                including price and volume, as soon as technologically 
+                practicable after the time at which the swap transaction 
+                has been executed.
+                    ``(B) Purpose.--The purpose of this section is to 
+                authorize the Commission to make swap transaction and 
+                pricing data available to the public in such form and at 
+                such times as the Commission determines appropriate to 
+                enhance price discovery.
+                    ``(C) General rule.--The Commission is authorized 
+                and required to provide by rule for the public 
+                availability of swap transaction and pricing data as 
+                follows:
+                          ``(i) With respect to those swaps that are 
+                      subject to the mandatory clearing requirement 
+                      described in subsection (h)(1) (including those 
+                      swaps that are excepted from the requirement 
+                      pursuant to subsection (h)(7)), the Commission 
+                      shall require real-time public reporting for such 
+                      transactions.
+                          ``(ii) With respect to those swaps that are 
+                      not subject to the mandatory clearing requirement 
+                      described in subsection (h)(1), but are cleared at 
+                      a registered derivatives clearing organization, 
+                      the Commission shall require real-time public 
+                      reporting for such transactions.
+                          ``(iii) With respect to swaps that are not 
+                      cleared at a registered derivatives clearing 
+                      organization and which are reported to a swap data 
+                      repository or the Commission under subsection 
+                      (h)(6), the Commission shall require real-time 
+                      public reporting for such transactions, in a 
+                      manner that does not disclose the business 
+                      transactions and market positions of any person.
+                          ``(iv) With respect to swaps that are 
+                      determined to be required to be cleared under 
+                      subsection (h)(2) but are not cleared, the 
+                      Commission shall require real-time public 
+                      reporting for such transactions.
+                    ``(D) Registered entities and public reporting.--The 
+                Commission may require registered entities to publicly 
+                disseminate the swap transaction and pricing data 
+                required to be reported under this paragraph.
+                    ``(E) Rulemaking required.--With respect to the rule 
+                providing for the public availability of transaction and 
+                pricing data for swaps described in clauses (i) and (ii) 
+                of subparagraph (C), the rule promulgated by the 
+                Commission shall contain provisions--
+                          ``(i) to ensure such information does not 
+                      identify the participants;
+
+
+                          ``(ii) &lt;&lt;NOTE: Criteria.&gt;&gt; to specify the 
+                      criteria for determining what constitutes a large 
+                      notional swap transaction (block trade) for 
+                      particular markets and contracts;
+                          ``(iii) to specify the appropriate time delay 
+                      for reporting large notional swap transactions 
+                      (block trades) to the public; and
+                          ``(iv) that take into account whether the 
+                      public disclosure will materially reduce market 
+                      liquidity.
+                    ``(F) Timeliness of reporting.--Parties to a swap 
+                (including agents of the parties to a swap) shall be 
+                responsible for reporting swap transaction information 
+                to the appropriate registered entity in a timely manner 
+                as may be prescribed by the Commission.
+                    ``(G) Reporting of swaps to registered swap data 
+                repositories.--Each swap (whether cleared or uncleared) 
+                shall be reported to a registered swap data repository.
+            ``(14) Semiannual and annual public reporting of aggregate 
+        swap data.--
+                    ``(A) In general.--In accordance with subparagraph 
+                (B), the Commission shall issue a written report on a 
+                semiannual and annual basis to make available to the 
+                public information relating to--
+                          ``(i) the trading and clearing in the major 
+                      swap categories; and
+                          ``(ii) the market participants and 
+                      developments in new products.
+                    ``(B) Use; consultation.--In preparing a report 
+                under subparagraph (A), the Commission shall--
+                          ``(i) use information from swap data 
+                      repositories and derivatives clearing 
+                      organizations; and
+                          ``(ii) consult with the Office of the 
+                      Comptroller of the Currency, the Bank for 
+                      International Settlements, and such other 
+                      regulatory bodies as may be necessary.
+                    ``(C) Authority of the commission.--The Commission 
+                may, by rule, regulation, or order, delegate the public 
+                reporting responsibilities of the Commission under this 
+                paragraph in accordance with such terms and conditions 
+                as the Commission determines to be appropriate and in 
+                the public interest.''.

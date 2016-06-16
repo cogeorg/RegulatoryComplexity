@@ -1,1 +1,12 @@
-                        LENDING LIMITS.    (a) Amendment.--Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by adding at the end the following:    ``(y) State Lending Limit Treatment of Derivatives Transactions.--An insured State bank may engage in a derivative transaction, as defined in section 5200(b)(3) of the Revised Statutes of the United States (12 U.S.C. 84(b)(3)), only if the law with respect to lending limits of the State in which the insured State bank is chartered takes into consideration credit exposure to derivative transactions.''.    (b) &lt;&lt;NOTE: 12 USC 1828 note.&gt;&gt;  Effective Date.--The amendment made by this section shall take effect 18 months after the transfer date.
+                        LENDING LIMITS.
+
+    (a) Amendment.--Section 18 of the Federal Deposit Insurance Act (12 
+U.S.C. 1828) is amended by adding at the end the following:
+    ``(y) State Lending Limit Treatment of Derivatives Transactions.--An 
+insured State bank may engage in a derivative transaction, as defined in 
+section 5200(b)(3) of the Revised Statutes of the United States (12 
+U.S.C. 84(b)(3)), only if the law with respect to lending limits of the 
+State in which the insured State bank is chartered takes into 
+consideration credit exposure to derivative transactions.''.
+    (b) &lt;&lt;NOTE: 12 USC 1828 note.&gt;&gt;  Effective Date.--The amendment made 
+by this section shall take effect 18 months after the transfer date.

@@ -1,1 +1,36 @@
-    (a) Study.--            (1) &lt;&lt;NOTE: Deadline.&gt;&gt; In general.--Not later than 18         months after the date of enactment of this Act, the appropriate         Federal banking agencies shall jointly review and prepare a         report on the activities that a banking entity, as such term is         defined in the Bank Holding Company Act of 1956 (12 U.S.C. 1841         et. seq.), may engage in under Federal and State law, including         activities authorized by statute and by order, interpretation         and guidance.            (2) Content.--In carrying out the study under paragraph (1),         the appropriate Federal banking agencies shall review and         consider--                    (A) the type of activities or investments;                    (B) any financial, operational, managerial, or                 reputation risks associated with or presented as a                 result of the banking entity engaged in the activity or                 making the investment; and                    (C) risk mitigation activities undertaken by the                 banking entity with regard to the risks.    (b) Report and Recommendations to the Council and to Congress.--The appropriate Federal banking agencies shall submit to the Council, the Committee on Financial Services of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate the study conducted pursuant to subsection (a) no later than 2 months after its completion. In addition to the information described in subsection (a), the report shall include recommendations regarding--            (1) whether each activity or investment has or could have a         negative effect on the safety and soundness of the banking         entity or the United States financial system;            (2) the appropriateness of the conduct of each activity or         type of investment by banking entities; and            (3) additional restrictions as may be necessary to address         risks to safety and soundness arising from the activities or         types of investments described in subsection (a).
+
+    (a) Study.--
+            (1) &lt;&lt;NOTE: Deadline.&gt;&gt; In general.--Not later than 18 
+        months after the date of enactment of this Act, the appropriate 
+        Federal banking agencies shall jointly review and prepare a 
+        report on the activities that a banking entity, as such term is 
+        defined in the Bank Holding Company Act of 1956 (12 U.S.C. 1841 
+        et. seq.), may engage in under Federal and State law, including 
+        activities authorized by statute and by order, interpretation 
+        and guidance.
+            (2) Content.--In carrying out the study under paragraph (1), 
+        the appropriate Federal banking agencies shall review and 
+        consider--
+                    (A) the type of activities or investments;
+                    (B) any financial, operational, managerial, or 
+                reputation risks associated with or presented as a 
+                result of the banking entity engaged in the activity or 
+                making the investment; and
+                    (C) risk mitigation activities undertaken by the 
+                banking entity with regard to the risks.
+
+    (b) Report and Recommendations to the Council and to Congress.--The 
+appropriate Federal banking agencies shall submit to the Council, the 
+Committee on Financial Services of the House of Representatives, and the 
+Committee on Banking, Housing, and Urban Affairs of the Senate the study 
+conducted pursuant to subsection (a) no later than 2 months after its 
+completion. In addition to the information described in subsection (a), 
+the report shall include recommendations regarding--
+            (1) whether each activity or investment has or could have a 
+        negative effect on the safety and soundness of the banking 
+        entity or the United States financial system;
+            (2) the appropriateness of the conduct of each activity or 
+        type of investment by banking entities; and
+            (3) additional restrictions as may be necessary to address 
+        risks to safety and soundness arising from the activities or 
+        types of investments described in subsection (a).

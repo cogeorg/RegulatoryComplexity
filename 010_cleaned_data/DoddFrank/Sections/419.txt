@@ -1,1 +1,14 @@
-    Section 205(e) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-5(e)) is amended by adding at the end the following: ``With respect &lt;&lt;NOTE: Order. Deadlines.&gt;&gt;  to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after the date of enactment of the Private Fund Investment Advisers Registration Act of 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.''.[[Page 124 STAT. 1580]]
+
+    Section 205(e) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-5(e)) is amended by adding at the end the following: ``With 
+respect &lt;&lt;NOTE: Order. Deadlines.&gt;&gt;  to any factor used in any rule or 
+regulation by the Commission in making a determination under this 
+subsection, if the Commission uses a dollar amount test in connection 
+with such factor, such as a net asset threshold, the Commission shall, 
+by order, not later than 1 year after the date of enactment of the 
+Private Fund Investment Advisers Registration Act of 2010, and every 5 
+years thereafter, adjust for the effects of inflation on such test. Any 
+such adjustment that is not a multiple of $100,000 shall be rounded to 
+the nearest multiple of $100,000.''.
+
+

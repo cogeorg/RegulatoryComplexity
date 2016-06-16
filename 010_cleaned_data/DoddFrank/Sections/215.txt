@@ -1,1 +1,11 @@
-    (a) Liquidation Required.--All financial companies put into receivership under this title shall be liquidated. No taxpayer funds shall be used to prevent the liquidation of any financial company under this title.    (b) Recovery of Funds.--All funds expended in the liquidation of a financial company under this title shall be recovered from the disposition of assets of such financial company, or shall be the responsibility of the financial sector, through assessments.    (c) No Losses to Taxpayers.--Taxpayers shall bear no losses from the exercise of any authority under this title.
+
+    (a) Liquidation Required.--All financial companies put into 
+receivership under this title shall be liquidated. No taxpayer funds 
+shall be used to prevent the liquidation of any financial company under 
+this title.
+    (b) Recovery of Funds.--All funds expended in the liquidation of a 
+financial company under this title shall be recovered from the 
+disposition of assets of such financial company, or shall be the 
+responsibility of the financial sector, through assessments.
+    (c) No Losses to Taxpayers.--Taxpayers shall bear no losses from the 
+exercise of any authority under this title.

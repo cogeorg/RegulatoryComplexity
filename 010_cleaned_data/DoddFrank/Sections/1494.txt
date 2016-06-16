@@ -1,1 +1,20 @@
-    (a) In General.--Section 104(a) of the Helping Families Save Their Homes Act of 2009 (division A of Public Law 111-22) &lt;&lt;NOTE: 12 USC 1715z-25.&gt;&gt;  is amended--[[Page 124 STAT. 2207]]            (1) in paragraph (2), by striking ``resulting'' and         inserting ``in each State that result'';            (2) in paragraph (3), by inserting ``each State for'' after         ``modifications in''; and            (3) in paragraph (4), by inserting ``in each State'' after         ``total number of loans''.    (b) Conforming Amendment.--Section 104(b)(1)(A) of such Act is amended by adding at the end the following sentence: &lt;&lt;NOTE: Deadline.&gt;&gt;  ``Not later than 60 days after the date of the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Comptroller of the Currency and the Director of the Office of Thrift Supervision shall update such requirements to reflect amendments made to this section by such Act.''.
+
+    (a) In General.--Section 104(a) of the Helping Families Save Their 
+Homes Act of 2009 (division A of Public Law 111-22) &lt;&lt;NOTE: 12 
+USC 1715z-25.&gt;&gt;  is amended--
+
+
+            (1) in paragraph (2), by striking ``resulting'' and 
+        inserting ``in each State that result'';
+            (2) in paragraph (3), by inserting ``each State for'' after 
+        ``modifications in''; and
+            (3) in paragraph (4), by inserting ``in each State'' after 
+        ``total number of loans''.
+
+    (b) Conforming Amendment.--Section 104(b)(1)(A) of such Act is 
+amended by adding at the end the following 
+sentence: &lt;&lt;NOTE: Deadline.&gt;&gt;  ``Not later than 60 days after the date 
+of the enactment of the Dodd-Frank Wall Street Reform and Consumer 
+Protection Act, the Comptroller of the Currency and the Director of the 
+Office of Thrift Supervision shall update such requirements to reflect 
+amendments made to this section by such Act.''.

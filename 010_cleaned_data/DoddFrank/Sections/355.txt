@@ -1,1 +1,54 @@
-    The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended--            (1) in section 2(j)(3) (12 U.S.C. 1841(j)(3)), strike         ``Director of the Office of Thrift Supervision'' and inserting         ``appropriate Federal banking agency'';            (2) in section 4 (12 U.S.C. 1843)--                    (A) in subsection (i)--                          (i) in paragraph (4)--                                    (I) in subparagraph (A)--                                            (aa) in the subparagraph                                         heading, by striking ``to                                         director''; and                                            (bb) by striking ``Board''                                         and all that follows through the                                         end of the subparagraph and                                         inserting ``Board shall solicit                                         comments and recommendations                                         from--                          ``(i) the Comptroller of the Currency, with                       respect to the acquisition of a Federal savings                       association; and[[Page 124 STAT. 1547]]                          ``(ii) the Federal Deposit Insurance                       Corporation, with respect to the acquisition of a                       State savings association.''.                                    (II) in subparagraph (B), by                                 striking ``Director'' each place that                                 term appears and inserting ``Comptroller                                 of the Currency or the Federal Deposit                                 Insurance Corporation, as applicable,'';                          (ii) in paragraph (5)--                                    (I) in subparagraph (B), by striking                                 ``Director with'' and inserting                                 ``Comptroller of the Currency or the                                 Federal Deposit Insurance Corporation,                                 as applicable, with''; and                                    (II) by striking ``Director'' each                                 place that term appears and inserting                                 ``Comptroller of the Currency or the                                 Federal Deposit Insurance Corporation'';                          (iii) in paragraph (6), by striking                       ``Director'' and inserting ``Comptroller of the                       Currency or the Federal Deposit Insurance                       Corporation, as applicable,''; and                          (iv) by striking paragraph (7); and            (3) in section 5(f) (12 U.S.C. 1844(f))--                    (A) by striking ``subpena'' each place that term                 appears and inserting ``subpoena'';                    (B) by striking ``subpenas'' each place that term                 appears and inserting ``subpoenas''; and                    (C) by striking ``subpenaed'' and inserting                 ``subpoenaed''.
+
+    The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is 
+amended--
+            (1) in section 2(j)(3) (12 U.S.C. 1841(j)(3)), strike 
+        ``Director of the Office of Thrift Supervision'' and inserting 
+        ``appropriate Federal banking agency'';
+            (2) in section 4 (12 U.S.C. 1843)--
+                    (A) in subsection (i)--
+                          (i) in paragraph (4)--
+                                    (I) in subparagraph (A)--
+                                            (aa) in the subparagraph 
+                                        heading, by striking ``to 
+                                        director''; and
+                                            (bb) by striking ``Board'' 
+                                        and all that follows through the 
+                                        end of the subparagraph and 
+                                        inserting ``Board shall solicit 
+                                        comments and recommendations 
+                                        from--
+                          ``(i) the Comptroller of the Currency, with 
+                      respect to the acquisition of a Federal savings 
+                      association; and
+
+
+                          ``(ii) the Federal Deposit Insurance 
+                      Corporation, with respect to the acquisition of a 
+                      State savings association.''.
+                                    (II) in subparagraph (B), by 
+                                striking ``Director'' each place that 
+                                term appears and inserting ``Comptroller 
+                                of the Currency or the Federal Deposit 
+                                Insurance Corporation, as applicable,'';
+                          (ii) in paragraph (5)--
+                                    (I) in subparagraph (B), by striking 
+                                ``Director with'' and inserting 
+                                ``Comptroller of the Currency or the 
+                                Federal Deposit Insurance Corporation, 
+                                as applicable, with''; and
+                                    (II) by striking ``Director'' each 
+                                place that term appears and inserting 
+                                ``Comptroller of the Currency or the 
+                                Federal Deposit Insurance Corporation'';
+                          (iii) in paragraph (6), by striking 
+                      ``Director'' and inserting ``Comptroller of the 
+                      Currency or the Federal Deposit Insurance 
+                      Corporation, as applicable,''; and
+                          (iv) by striking paragraph (7); and
+            (3) in section 5(f) (12 U.S.C. 1844(f))--
+                    (A) by striking ``subpena'' each place that term 
+                appears and inserting ``subpoena'';
+                    (B) by striking ``subpenas'' each place that term 
+                appears and inserting ``subpoenas''; and
+                    (C) by striking ``subpenaed'' and inserting 
+                ``subpoenaed''.

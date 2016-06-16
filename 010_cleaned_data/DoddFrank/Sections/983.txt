@@ -1,1 +1,244 @@
-    (a) Definitions.--            (1) Definitions amended.--Title I of the Sarbanes-Oxley Act         of 2002 (15 U.S.C. 7201 et seq.) is amended by adding at the end         the following new section:``SEC. 110. &lt;&lt;NOTE: 15 USC 7220.&gt;&gt;  DEFINITIONS.    ``For the purposes of this title, the following definitions shall apply:            ``(1) Audit.--The term `audit' means an examination of the         financial statements, reports, documents, procedures, controls,         or notices of any issuer, broker, or dealer by an independent         public accounting firm in accordance with the rules of the Board         or the Commission, for the purpose of expressing an opinion on         the financial statements or providing an audit report.            ``(2) Audit report.--The term `audit report' means a         document, report, notice, or other record--                    ``(A) prepared following an audit performed for                 purposes of compliance by an issuer, broker, or dealer                 with the requirements of the securities laws; and                    ``(B) in which a public accounting firm either--                          ``(i) sets forth the opinion of that firm                       regarding a financial statement, report, notice,                       or other document, procedures, or controls; or                          ``(ii) asserts that no such opinion can be                       expressed.            ``(3) Broker.--The term `broker' means a broker (as such         term is defined in section 3(a)(4) of the Securities Exchange         Act of 1934 (15 U.S.C. 78c(a)(4))) that is required to file a         balance sheet, income statement, or other financial statement         under section 17(e)(1)(A) of such Act (15 U.S.C. 78q(e)(1)(A)),         where such balance sheet, income statement, or financial         statement is required to be certified by a registered public         accounting firm.[[Page 124 STAT. 1928]]            ``(4) Dealer.--The term `dealer' means a dealer (as such         term is defined in section 3(a)(5) of the Securities Exchange         Act of 1934 (15 U.S.C. 78c(a)(5))) that is required to file a         balance sheet, income statement, or other financial statement         under section 17(e)(1)(A) of such Act (15 U.S.C. 78q(e)(1)(A)),         where such balance sheet, income statement, or financial         statement is required to be certified by a registered public         accounting firm.            ``(5) Professional standards.--The term `professional         standards' means--                    ``(A) accounting principles that are--                          ``(i) established by the standard setting body                       described in section 19(b) of the Securities Act                       of 1933, as amended by this Act, or prescribed by                       the Commission under section 19(a) of that Act (15                       U.S.C. 17a(s)) or section 13(b) of the Securities                       Exchange Act of 1934 (15 U.S.C. 78a(m)); and                          ``(ii) relevant to audit reports for                       particular issuers, brokers, or dealers, or dealt                       with in the quality control system of a particular                       registered public accounting firm; and                    ``(B) auditing standards, standards for attestation                 engagements, quality control policies and procedures,                 ethical and competency standards, and independence                 standards (including rules implementing title II) that                 the Board or the Commission determines--                          ``(i) relate to the preparation or issuance of                       audit reports for issuers, brokers, or dealers;                       and                          ``(ii) are established or adopted by the Board                       under section 103(a), or are promulgated as rules                       of the Commission.            ``(6) Self-regulatory organization.--The term `self-        regulatory organization' has the same meaning as in section 3(a)         of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).''.            (2) Conforming amendment.--Section 2(a) of the Sarbanes-        Oxley Act of 2002 (15 U.S.C. 7201(a)) is amended in the matter         preceding paragraph (1), by striking ``In this'' and inserting         ``Except as otherwise specifically provided in this Act, in         this''.    (b) Establishment and Administration of the Public Company Accounting Oversight Board.--Section 101 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211) is amended--            (1) by striking ``issuers'' each place that term appears and         inserting ``issuers, brokers, and dealers''; and            (2) in subsection (a)--                    (A) by striking ``public companies'' and inserting                 ``companies''; and                    (B) by striking ``for companies the securities of                 which are sold to, and held by and for, public                 investors''.    (c) Registration With the Board.--Section 102 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7212) is amended--            (1) in subsection (a)--                    (A) by striking ``Beginning 180'' and all that                 follows through ``101(d), it'' and inserting ``It''; and                    (B) by striking ``issuer'' and inserting ``issuer,                 broker, or dealer'';            (2) in subsection (b)--[[Page 124 STAT. 1929]]                    (A) in paragraph (2)(A), by striking ``issuers'' and                 inserting ``issuers, brokers, and dealers''; and                    (B) by striking ``issuer'' each place that term                 appears and inserting ``issuer, broker, or dealer''.    (d) Auditing and Independence.--Section 103(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7213(a)) is amended--            (1) in paragraph (1), by striking ``and such ethics         standards'' and inserting ``such ethics standards, and such         independence standards'';            (2) in paragraph (2)(A)(iii), by striking ``describe in each         audit report'' and inserting ``in each audit report for an         issuer, describe''; and            (3) in paragraph (2)(B)(i), by striking ``issuers'' and         inserting ``issuers, brokers, and dealers''.    (e) Inspections of Registered Public Accounting Firms.--            (1) Amendments.--Section 104(a) of the Sarbanes-Oxley Act of         2002 (15 U.S.C. 7214(a)) is amended--                    (A) by striking ``The Board shall'' and inserting                 the following:            ``(1) Inspections generally.--The Board shall''; and                    (B) by adding at the end the following:            ``(2) Inspections of audit reports for brokers and         dealers.--                    ``(A) The Board may, by rule, conduct and require a                 program of inspection in accordance with paragraph (1),                 on a basis to be determined by the Board, of registered                 public accounting firms that provide one or more audit                 reports for a broker or dealer. The Board, in                 establishing such a program, may allow for                 differentiation among classes of brokers and dealers, as                 appropriate.                    ``(B) If the Board determines to establish a program                 of inspection pursuant to subparagraph (A), the Board                 shall consider in establishing any inspection schedules                 whether differing schedules would be appropriate with                 respect to registered public accounting firms that issue                 audit reports only for one or more brokers or dealers                 that do not receive, handle, or hold customer securities                 or cash or are not a member of the Securities Investor                 Protection Corporation.                    ``(C) Any rules of the Board pursuant to this                 paragraph shall be subject to prior approval by the                 Commission pursuant to section 107(b) before the rules                 become effective, including an opportunity for public                 notice and comment.                    ``(D) Notwithstanding anything to the contrary in                 section 102 of this Act, a public accounting firm shall                 not be required to register with the Board if the public                 accounting firm is exempt from the inspection program                 which may be established by the Board under subparagraph                 (A).''.            (2) Conforming amendment.--Section 17(e)(1)(A) of the         Securities Exchange Act of 1934 (15 U.S.C. 78q(e)(1)(A)) is         amended by striking ``registered public accounting firm'' and         inserting ``independent public accounting firm, or by a         registered public accounting firm if the firm is required to be         registered under the Sarbanes-Oxley Act of 2002,''.    (f) Investigations and Disciplinary Proceedings.--Section 105(c)(7)(B) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(7)(B)) is amended--[[Page 124 STAT. 1930]]            (1) in the subparagraph heading, by inserting ``, broker, or         dealer'' after ``issuer'';            (2) by striking ``any issuer'' each place that term appears         and inserting ``any issuer, broker, or dealer''; and            (3) by striking ``an issuer under this subsection'' and         inserting ``a registered public accounting firm under this         subsection''.    (g) Foreign Public Accounting Firms.--Section 106(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216(a)) is amended--            (1) in paragraph (1), by striking ``issuer'' and inserting         ``issuer, broker, or dealer''; and            (2) in paragraph (2), by striking ``issuers'' and inserting         ``issuers, brokers, or dealers''.    (h) Funding.--Section 109 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7219) is amended--            (1) in subsection (c)(2), by striking ``subsection (i)'' and         inserting ``subsection (j)'';            (2) in subsection (d)--                    (A) in paragraph (2), by striking ``allowing for                 differentiation among classes of issuers, as                 appropriate'' and inserting ``and among brokers and                 dealers, in accordance with subsection (h), and allowing                 for differentiation among classes of issuers, brokers                 and dealers, as appropriate''; and                    (B) by adding at the end the following:            ``(3) Brokers and dealers.-- &lt;&lt;NOTE: Fees.&gt;&gt; The Board shall         begin the allocation, assessment, and collection of fees under         paragraph (2) with respect to brokers and dealers with the         payment of support fees to fund the first full fiscal year         beginning after the date of enactment of the Investor Protection         and Securities Reform Act of 2010.'';            (3) &lt;&lt;NOTE: 15 USC 78m.&gt;&gt;  by redesignating subsections (h),         (i), and (j) as subsections (i), (j), and (k), respectively; and            (4) by inserting after subsection (g) the following:    ``(h) Allocation of Accounting Support Fees Among Brokers and Dealers.--            ``(1) Obligation to pay.--Each broker or dealer shall pay to         the Board the annual accounting support fee allocated to such         broker or dealer under this section.            ``(2) Allocation.--Any amount due from a broker or dealer         (or from a particular class of brokers and dealers) under this         section shall be allocated among brokers and dealers and payable         by the broker or dealer (or the brokers and dealers in the         particular class, as applicable).            ``(3) Proportionality.--The amount due from a broker or         dealer shall be in proportion to the net capital of the broker         or dealer (before or after any adjustments), compared to the         total net capital of all brokers and dealers (before or after         any adjustments), in accordance with rules issued by the         Board.''.    (i) Referral of Investigations to a Self-regulatory Organization.--Section 105(b)(4)(B) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(4)(B)) is amended--            (1) by redesignating clauses (ii) and (iii) as clauses (iii)         and (iv), respectively; and            (2) by inserting after clause (i) the following:[[Page 124 STAT. 1931]]                          ``(ii) to a self-regulatory organization, in                       the case of an investigation that concerns an                       audit report for a broker or dealer that is under                       the jurisdiction of such self-regulatory                       organization;''.    (j) Use of Documents Related to an Inspection or Investigation.--Section 105(b)(5)(B)(ii) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(B)(ii)) is amended--            (1) in subclause (III), by striking ``and'' at the end;            (2) in subclause (IV), by striking the comma and inserting         ``; and''; and            (3) by inserting after subclause (IV) the following:                                    ``(V) a self-regulatory                                 organization, with respect to an audit                                 report for a broker or dealer that is                                 under the jurisdiction of such self-                                regulatory organization,''.
+
+    (a) Definitions.--
+            (1) Definitions amended.--Title I of the Sarbanes-Oxley Act 
+        of 2002 (15 U.S.C. 7201 et seq.) is amended by adding at the end 
+        the following new section:
+``SEC. 110. &lt;&lt;NOTE: 15 USC 7220.&gt;&gt;  DEFINITIONS.
+
+    ``For the purposes of this title, the following definitions shall 
+apply:
+            ``(1) Audit.--The term `audit' means an examination of the 
+        financial statements, reports, documents, procedures, controls, 
+        or notices of any issuer, broker, or dealer by an independent 
+        public accounting firm in accordance with the rules of the Board 
+        or the Commission, for the purpose of expressing an opinion on 
+        the financial statements or providing an audit report.
+            ``(2) Audit report.--The term `audit report' means a 
+        document, report, notice, or other record--
+                    ``(A) prepared following an audit performed for 
+                purposes of compliance by an issuer, broker, or dealer 
+                with the requirements of the securities laws; and
+                    ``(B) in which a public accounting firm either--
+                          ``(i) sets forth the opinion of that firm 
+                      regarding a financial statement, report, notice, 
+                      or other document, procedures, or controls; or
+                          ``(ii) asserts that no such opinion can be 
+                      expressed.
+            ``(3) Broker.--The term `broker' means a broker (as such 
+        term is defined in section 3(a)(4) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78c(a)(4))) that is required to file a 
+        balance sheet, income statement, or other financial statement 
+        under section 17(e)(1)(A) of such Act (15 U.S.C. 78q(e)(1)(A)), 
+        where such balance sheet, income statement, or financial 
+        statement is required to be certified by a registered public 
+        accounting firm.
+
+
+            ``(4) Dealer.--The term `dealer' means a dealer (as such 
+        term is defined in section 3(a)(5) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78c(a)(5))) that is required to file a 
+        balance sheet, income statement, or other financial statement 
+        under section 17(e)(1)(A) of such Act (15 U.S.C. 78q(e)(1)(A)), 
+        where such balance sheet, income statement, or financial 
+        statement is required to be certified by a registered public 
+        accounting firm.
+            ``(5) Professional standards.--The term `professional 
+        standards' means--
+                    ``(A) accounting principles that are--
+                          ``(i) established by the standard setting body 
+                      described in section 19(b) of the Securities Act 
+                      of 1933, as amended by this Act, or prescribed by 
+                      the Commission under section 19(a) of that Act (15 
+                      U.S.C. 17a(s)) or section 13(b) of the Securities 
+                      Exchange Act of 1934 (15 U.S.C. 78a(m)); and
+                          ``(ii) relevant to audit reports for 
+                      particular issuers, brokers, or dealers, or dealt 
+                      with in the quality control system of a particular 
+                      registered public accounting firm; and
+                    ``(B) auditing standards, standards for attestation 
+                engagements, quality control policies and procedures, 
+                ethical and competency standards, and independence 
+                standards (including rules implementing title II) that 
+                the Board or the Commission determines--
+                          ``(i) relate to the preparation or issuance of 
+                      audit reports for issuers, brokers, or dealers; 
+                      and
+                          ``(ii) are established or adopted by the Board 
+                      under section 103(a), or are promulgated as rules 
+                      of the Commission.
+            ``(6) Self-regulatory organization.--The term `self-
+        regulatory organization' has the same meaning as in section 3(a) 
+        of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).''.
+            (2) Conforming amendment.--Section 2(a) of the Sarbanes-
+        Oxley Act of 2002 (15 U.S.C. 7201(a)) is amended in the matter 
+        preceding paragraph (1), by striking ``In this'' and inserting 
+        ``Except as otherwise specifically provided in this Act, in 
+        this''.
+
+    (b) Establishment and Administration of the Public Company 
+Accounting Oversight Board.--Section 101 of the Sarbanes-Oxley Act of 
+2002 (15 U.S.C. 7211) is amended--
+            (1) by striking ``issuers'' each place that term appears and 
+        inserting ``issuers, brokers, and dealers''; and
+            (2) in subsection (a)--
+                    (A) by striking ``public companies'' and inserting 
+                ``companies''; and
+                    (B) by striking ``for companies the securities of 
+                which are sold to, and held by and for, public 
+                investors''.
+
+    (c) Registration With the Board.--Section 102 of the Sarbanes-Oxley 
+Act of 2002 (15 U.S.C. 7212) is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``Beginning 180'' and all that 
+                follows through ``101(d), it'' and inserting ``It''; and
+                    (B) by striking ``issuer'' and inserting ``issuer, 
+                broker, or dealer'';
+            (2) in subsection (b)--
+
+
+                    (A) in paragraph (2)(A), by striking ``issuers'' and 
+                inserting ``issuers, brokers, and dealers''; and
+                    (B) by striking ``issuer'' each place that term 
+                appears and inserting ``issuer, broker, or dealer''.
+
+    (d) Auditing and Independence.--Section 103(a) of the Sarbanes-Oxley 
+Act of 2002 (15 U.S.C. 7213(a)) is amended--
+            (1) in paragraph (1), by striking ``and such ethics 
+        standards'' and inserting ``such ethics standards, and such 
+        independence standards'';
+            (2) in paragraph (2)(A)(iii), by striking ``describe in each 
+        audit report'' and inserting ``in each audit report for an 
+        issuer, describe''; and
+            (3) in paragraph (2)(B)(i), by striking ``issuers'' and 
+        inserting ``issuers, brokers, and dealers''.
+
+    (e) Inspections of Registered Public Accounting Firms.--
+            (1) Amendments.--Section 104(a) of the Sarbanes-Oxley Act of 
+        2002 (15 U.S.C. 7214(a)) is amended--
+                    (A) by striking ``The Board shall'' and inserting 
+                the following:
+            ``(1) Inspections generally.--The Board shall''; and
+                    (B) by adding at the end the following:
+            ``(2) Inspections of audit reports for brokers and 
+        dealers.--
+                    ``(A) The Board may, by rule, conduct and require a 
+                program of inspection in accordance with paragraph (1), 
+                on a basis to be determined by the Board, of registered 
+                public accounting firms that provide one or more audit 
+                reports for a broker or dealer. The Board, in 
+                establishing such a program, may allow for 
+                differentiation among classes of brokers and dealers, as 
+                appropriate.
+                    ``(B) If the Board determines to establish a program 
+                of inspection pursuant to subparagraph (A), the Board 
+                shall consider in establishing any inspection schedules 
+                whether differing schedules would be appropriate with 
+                respect to registered public accounting firms that issue 
+                audit reports only for one or more brokers or dealers 
+                that do not receive, handle, or hold customer securities 
+                or cash or are not a member of the Securities Investor 
+                Protection Corporation.
+                    ``(C) Any rules of the Board pursuant to this 
+                paragraph shall be subject to prior approval by the 
+                Commission pursuant to section 107(b) before the rules 
+                become effective, including an opportunity for public 
+                notice and comment.
+                    ``(D) Notwithstanding anything to the contrary in 
+                section 102 of this Act, a public accounting firm shall 
+                not be required to register with the Board if the public 
+                accounting firm is exempt from the inspection program 
+                which may be established by the Board under subparagraph 
+                (A).''.
+            (2) Conforming amendment.--Section 17(e)(1)(A) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78q(e)(1)(A)) is 
+        amended by striking ``registered public accounting firm'' and 
+        inserting ``independent public accounting firm, or by a 
+        registered public accounting firm if the firm is required to be 
+        registered under the Sarbanes-Oxley Act of 2002,''.
+
+    (f) Investigations and Disciplinary Proceedings.--Section 
+105(c)(7)(B) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(7)(B)) 
+is amended--
+
+
+            (1) in the subparagraph heading, by inserting ``, broker, or 
+        dealer'' after ``issuer'';
+            (2) by striking ``any issuer'' each place that term appears 
+        and inserting ``any issuer, broker, or dealer''; and
+            (3) by striking ``an issuer under this subsection'' and 
+        inserting ``a registered public accounting firm under this 
+        subsection''.
+
+    (g) Foreign Public Accounting Firms.--Section 106(a) of the 
+Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216(a)) is amended--
+            (1) in paragraph (1), by striking ``issuer'' and inserting 
+        ``issuer, broker, or dealer''; and
+            (2) in paragraph (2), by striking ``issuers'' and inserting 
+        ``issuers, brokers, or dealers''.
+
+    (h) Funding.--Section 109 of the Sarbanes-Oxley Act of 2002 (15 
+U.S.C. 7219) is amended--
+            (1) in subsection (c)(2), by striking ``subsection (i)'' and 
+        inserting ``subsection (j)'';
+            (2) in subsection (d)--
+                    (A) in paragraph (2), by striking ``allowing for 
+                differentiation among classes of issuers, as 
+                appropriate'' and inserting ``and among brokers and 
+                dealers, in accordance with subsection (h), and allowing 
+                for differentiation among classes of issuers, brokers 
+                and dealers, as appropriate''; and
+                    (B) by adding at the end the following:
+            ``(3) Brokers and dealers.-- &lt;&lt;NOTE: Fees.&gt;&gt; The Board shall 
+        begin the allocation, assessment, and collection of fees under 
+        paragraph (2) with respect to brokers and dealers with the 
+        payment of support fees to fund the first full fiscal year 
+        beginning after the date of enactment of the Investor Protection 
+        and Securities Reform Act of 2010.'';
+            (3) &lt;&lt;NOTE: 15 USC 78m.&gt;&gt;  by redesignating subsections (h), 
+        (i), and (j) as subsections (i), (j), and (k), respectively; and
+            (4) by inserting after subsection (g) the following:
+
+    ``(h) Allocation of Accounting Support Fees Among Brokers and 
+Dealers.--
+            ``(1) Obligation to pay.--Each broker or dealer shall pay to 
+        the Board the annual accounting support fee allocated to such 
+        broker or dealer under this section.
+            ``(2) Allocation.--Any amount due from a broker or dealer 
+        (or from a particular class of brokers and dealers) under this 
+        section shall be allocated among brokers and dealers and payable 
+        by the broker or dealer (or the brokers and dealers in the 
+        particular class, as applicable).
+            ``(3) Proportionality.--The amount due from a broker or 
+        dealer shall be in proportion to the net capital of the broker 
+        or dealer (before or after any adjustments), compared to the 
+        total net capital of all brokers and dealers (before or after 
+        any adjustments), in accordance with rules issued by the 
+        Board.''.
+
+    (i) Referral of Investigations to a Self-regulatory Organization.--
+Section 105(b)(4)(B) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+7215(b)(4)(B)) is amended--
+            (1) by redesignating clauses (ii) and (iii) as clauses (iii) 
+        and (iv), respectively; and
+            (2) by inserting after clause (i) the following:
+
+
+                          ``(ii) to a self-regulatory organization, in 
+                      the case of an investigation that concerns an 
+                      audit report for a broker or dealer that is under 
+                      the jurisdiction of such self-regulatory 
+                      organization;''.
+
+    (j) Use of Documents Related to an Inspection or Investigation.--
+Section 105(b)(5)(B)(ii) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+7215(b)(5)(B)(ii)) is amended--
+            (1) in subclause (III), by striking ``and'' at the end;
+            (2) in subclause (IV), by striking the comma and inserting 
+        ``; and''; and
+            (3) by inserting after subclause (IV) the following:
+                                    ``(V) a self-regulatory 
+                                organization, with respect to an audit 
+                                report for a broker or dealer that is 
+                                under the jurisdiction of such self-
+                                regulatory organization,''.

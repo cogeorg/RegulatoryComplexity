@@ -1,1 +1,17 @@
-    Section 8a(7) of the Commodity Exchange Act (7 U.S.C. 12a(7)) is amended--            (1) in subparagraph (C), by striking ``, excepting the         setting of levels of margin'';            (2) by redesignating subparagraphs (D) through (F) as         subparagraphs (E) through (G), respectively; and            (3) by inserting after subparagraph (C) the following:                    ``(D) margin requirements, provided that the rules,                 regulations, or orders shall--                          ``(i) be limited to protecting the financial                       integrity of the derivatives clearing                       organization;                          ``(ii) be designed for risk management                       purposes to protect the financial integrity of                       transactions; and                          ``(iii) not set specific margin amounts;''.
+
+    Section 8a(7) of the Commodity Exchange Act (7 U.S.C. 12a(7)) is 
+amended--
+            (1) in subparagraph (C), by striking ``, excepting the 
+        setting of levels of margin'';
+            (2) by redesignating subparagraphs (D) through (F) as 
+        subparagraphs (E) through (G), respectively; and
+            (3) by inserting after subparagraph (C) the following:
+                    ``(D) margin requirements, provided that the rules, 
+                regulations, or orders shall--
+                          ``(i) be limited to protecting the financial 
+                      integrity of the derivatives clearing 
+                      organization;
+                          ``(ii) be designed for risk management 
+                      purposes to protect the financial integrity of 
+                      transactions; and
+                          ``(iii) not set specific margin amounts;''.

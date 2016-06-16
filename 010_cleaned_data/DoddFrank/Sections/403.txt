@@ -1,1 +1,40 @@
-    (a) Investment Advisers Act of 1940 Definitions.--Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)) is amended by adding at the end the following:            ``(29) The term `private fund' means an issuer that would be         an investment company, as defined in section 3 of the Investment         Company Act of 1940 (15 U.S.C. 80a-3), but for section 3(c)(1)         or 3(c)(7) of that Act.            ``(30) The term `foreign private adviser' means any         investment adviser who--                    ``(A) has no place of business in the United States;                    ``(B) has, in total, fewer than 15 clients and                 investors in the United States in private funds advised                 by the investment adviser;                    ``(C) has aggregate assets under management                 attributable to clients in the United States and                 investors in the United States in private funds advised                 by the investment adviser of less than $25,000,000, or                 such higher amount as the Commission may, by rule, deem                 appropriate in accordance with the purposes of this                 title; and                    ``(D) neither--                          ``(i) holds itself out generally to the public                       in the United States as an investment adviser; nor                          ``(ii) acts as--                                    ``(I) an investment adviser to any                                 investment company registered under the                                 Investment Company Act of 1940; or                                    ``(II) a company that has elected to                                 be a business development company                                 pursuant to section 54 of the Investment                                 Company Act of 1940 (15 U.S.C. 80a-53),                                 and has not withdrawn its election.''.    (b) Other &lt;&lt;NOTE: 15 USC 80b-2 note.&gt;&gt; Definitions.--As used in this title, the terms ``investment adviser'' and ``private fund'' have the same meanings as in section 202 of the Investment Advisers Act of 1940, as amended by this title.[[Page 124 STAT. 1571]]
+
+    (a) Investment Advisers Act of 1940 Definitions.--Section 202(a) of 
+the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)) is amended by 
+adding at the end the following:
+            ``(29) The term `private fund' means an issuer that would be 
+        an investment company, as defined in section 3 of the Investment 
+        Company Act of 1940 (15 U.S.C. 80a-3), but for section 3(c)(1) 
+        or 3(c)(7) of that Act.
+            ``(30) The term `foreign private adviser' means any 
+        investment adviser who--
+                    ``(A) has no place of business in the United States;
+                    ``(B) has, in total, fewer than 15 clients and 
+                investors in the United States in private funds advised 
+                by the investment adviser;
+                    ``(C) has aggregate assets under management 
+                attributable to clients in the United States and 
+                investors in the United States in private funds advised 
+                by the investment adviser of less than $25,000,000, or 
+                such higher amount as the Commission may, by rule, deem 
+                appropriate in accordance with the purposes of this 
+                title; and
+                    ``(D) neither--
+                          ``(i) holds itself out generally to the public 
+                      in the United States as an investment adviser; nor
+                          ``(ii) acts as--
+                                    ``(I) an investment adviser to any 
+                                investment company registered under the 
+                                Investment Company Act of 1940; or
+                                    ``(II) a company that has elected to 
+                                be a business development company 
+                                pursuant to section 54 of the Investment 
+                                Company Act of 1940 (15 U.S.C. 80a-53), 
+                                and has not withdrawn its election.''.
+
+    (b) Other &lt;&lt;NOTE: 15 USC 80b-2 note.&gt;&gt; Definitions.--As used in this 
+title, the terms ``investment adviser'' and ``private fund'' have the 
+same meanings as in section 202 of the Investment Advisers Act of 1940, 
+as amended by this title.
+
+

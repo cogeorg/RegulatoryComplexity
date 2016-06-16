@@ -1,1 +1,8 @@
-    Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2) is amended by adding at the end the following:            ``(29) The terms `commodity pool', `commodity pool         operator', `commodity trading advisor', `major swap         participant', `swap', `swap dealer', and `swap execution         facility' have the same meanings as in section 1a of the         Commodity Exchange Act (7 U.S.C. 1a).''.
+
+    Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-2) is amended by adding at the end the following:
+            ``(29) The terms `commodity pool', `commodity pool 
+        operator', `commodity trading advisor', `major swap 
+        participant', `swap', `swap dealer', and `swap execution 
+        facility' have the same meanings as in section 1a of the 
+        Commodity Exchange Act (7 U.S.C. 1a).''.

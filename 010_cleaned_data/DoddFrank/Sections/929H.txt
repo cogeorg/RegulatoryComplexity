@@ -1,1 +1,28 @@
-    (a) Appointment Authority.--Section 3114 of title 5, United States Code, is amended by striking the section heading and all that follows through the end of subsection (a) and inserting the following:[[Page 124 STAT. 1856]]``Sec. 3114. Appointment of candidates to certain positions in the                   competitive service by the Securities and                   Exchange Commission    ``(a) Applicability.--This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service, and any position at the Commission in the competitive service that requires specialized knowledge of financial and capital market formation or regulation, financial market structures or surveillance, or information technology.''.    (b) Clerical Amendment.--The table of sections for chapter 31 of title 5, United States Code, is amended by striking the item relating to section 3114 and inserting the following:``3114. Appointment of candidates to positions in the competitive            service by the Securities and Exchange Commission.''.    (c) &lt;&lt;NOTE: 15 USC 78d note.&gt;&gt;  Pay Authority.--The Commission may set the rate of pay for experts and consultants appointed under the authority of section 3109 of title 5, United States Code, in the same manner in which it sets the rate of pay for employees of the Commission.
+
+    (a) Appointment Authority.--Section 3114 of title 5, United States 
+Code, is amended by striking the section heading and all that follows 
+through the end of subsection (a) and inserting the following:
+
+
+``Sec. 3114. Appointment of candidates to certain positions in the 
+                  competitive service by the Securities and 
+                  Exchange Commission
+
+    ``(a) Applicability.--This section applies with respect to any 
+position of accountant, economist, and securities compliance examiner at 
+the Commission that is in the competitive service, and any position at 
+the Commission in the competitive service that requires specialized 
+knowledge of financial and capital market formation or regulation, 
+financial market structures or surveillance, or information 
+technology.''.
+    (b) Clerical Amendment.--The table of sections for chapter 31 of 
+title 5, United States Code, is amended by striking the item relating to 
+section 3114 and inserting the following:
+
+``3114. Appointment of candidates to positions in the competitive 
+           service by the Securities and Exchange Commission.''.
+
+    (c) &lt;&lt;NOTE: 15 USC 78d note.&gt;&gt;  Pay Authority.--The Commission may 
+set the rate of pay for experts and consultants appointed under the 
+authority of section 3109 of title 5, United States Code, in the same 
+manner in which it sets the rate of pay for employees of the Commission.

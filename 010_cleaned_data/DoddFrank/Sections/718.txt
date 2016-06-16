@@ -1,1 +1,88 @@
-    (a) Amendments to the Commodity Exchange Act.--Section 2(a)(1)(C) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)(C)) is amended--            (1) in clause (i) by striking ``This'' and inserting ``(I)         Except as provided in subclause (II), this''; and            (2) by adding at the end of clause (i) the following:                                    ``(II) This Act shall apply to and                                 the Commission shall have jurisdiction                                 with respect to accounts, agreements,                                 and transactions involving, and may                                 permit the listing for trading pursuant                                 to section 5c(c) of, a put, call, or                                 other option on 1 or more securities (as                                 defined in section 2(a)(1) of the                                 Securities Act of 1933 or section                                 3(a)(10) of the Securities Exchange Act                                 of 1934 on the date of enactment of the                                 Futures Trading Act of 1982), including                                 any group or index of such securities,                                 or any interest therein or based on the                                 value thereof, that is exempted by the                                 Securities and Exchange Commission                                 pursuant to section 36(a)(1) of the                                 Securities Exchange Act of 1934 with the                                 condition that the Commission exercise                                 concurrent jurisdiction over such put,                                 call, or other option; provided,                                 however, that nothing in this paragraph                                 shall be construed to affect the                                 jurisdiction and authority of the                                 Securities and Exchange Commission over                                 such put, call, or other option.''.    (b) Amendments to the Securities Exchange Act of 1934.--The Securities Exchange Act of 1934 is amended by adding the following section after section 3A (15 U.S.C. 78c-1):``SEC. 3B. &lt;&lt;NOTE: 15 USC 78c-2.&gt;&gt;  SECURITIES-RELATED                       DERIVATIVES.    ``(a) Any agreement, contract, or transaction (or class thereof) that is exempted by the Commodity Futures Trading Commission[[Page 124 STAT. 1652]]pursuant to section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)) with the condition that the Commission exercise concurrent jurisdiction over such agreement, contract, or transaction (or class thereof) shall be deemed a security for purposes of the securities laws.    ``(b) With respect to any agreement, contract, or transaction (or class thereof) that is exempted by the Commodity Futures Trading Commission pursuant to section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)) with the condition that the Commission exercise concurrent jurisdiction over such agreement, contract, or transaction (or class thereof), references in the securities laws to the `purchase' or `sale' of a security shall be deemed to include the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under such agreement, contract, or transaction, as the context may require.''.    (c) Amendment to Securities Exchange Act of 1934.--Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b)) is amended by adding at the end the following:            ``(10) Notwithstanding paragraph (2), the time period within         which the Commission is required by order to approve a proposed         rule change or institute proceedings to determine whether the         proposed rule change should be disapproved is stayed pending a         determination by the Commission upon the request of the         Commodity Futures Trading Commission or its Chairman that the         Commission issue a determination as to whether a product that is         the subject of such proposed rule change is a security pursuant         to section 718 of the Wall Street Transparency and         Accountability Act of 2010.''.    (d) Amendment to Commodity Exchange Act.--Section 5c(c)(1) of the Commodity Exchange Act (7 U.S.C. 7a-2(c)(1)) is amended--            (1) by striking ``Subject to paragraph (2)'' and inserting         the following:                    ``(A) Election.--Subject to paragraph (2)''; and            (2) by adding at the end the following:                    ``(B) Certification.--The certification of a product                 pursuant to this paragraph shall be stayed pending a                 determination by the Commission upon the request of the                 Securities and Exchange Commission or its Chairman that                 the Commission issue a determination as to whether the                 product that is the subject of such certification is a                 contract of sale of a commodity for future delivery, an                 option on such a contract, or an option on a commodity                 pursuant to section 718 of the Wall Street Transparency                 and Accountability Act of 2010.''.
+
+    (a) Amendments to the Commodity Exchange Act.--Section 2(a)(1)(C) of 
+the Commodity Exchange Act (7 U.S.C. 2(a)(1)(C)) is amended--
+            (1) in clause (i) by striking ``This'' and inserting ``(I) 
+        Except as provided in subclause (II), this''; and
+            (2) by adding at the end of clause (i) the following:
+                                    ``(II) This Act shall apply to and 
+                                the Commission shall have jurisdiction 
+                                with respect to accounts, agreements, 
+                                and transactions involving, and may 
+                                permit the listing for trading pursuant 
+                                to section 5c(c) of, a put, call, or 
+                                other option on 1 or more securities (as 
+                                defined in section 2(a)(1) of the 
+                                Securities Act of 1933 or section 
+                                3(a)(10) of the Securities Exchange Act 
+                                of 1934 on the date of enactment of the 
+                                Futures Trading Act of 1982), including 
+                                any group or index of such securities, 
+                                or any interest therein or based on the 
+                                value thereof, that is exempted by the 
+                                Securities and Exchange Commission 
+                                pursuant to section 36(a)(1) of the 
+                                Securities Exchange Act of 1934 with the 
+                                condition that the Commission exercise 
+                                concurrent jurisdiction over such put, 
+                                call, or other option; provided, 
+                                however, that nothing in this paragraph 
+                                shall be construed to affect the 
+                                jurisdiction and authority of the 
+                                Securities and Exchange Commission over 
+                                such put, call, or other option.''.
+
+    (b) Amendments to the Securities Exchange Act of 1934.--The 
+Securities Exchange Act of 1934 is amended by adding the following 
+section after section 3A (15 U.S.C. 78c-1):
+``SEC. 3B. &lt;&lt;NOTE: 15 USC 78c-2.&gt;&gt;  SECURITIES-RELATED 
+                      DERIVATIVES.
+
+    ``(a) Any agreement, contract, or transaction (or class thereof) 
+that is exempted by the Commodity Futures Trading Commission
+
+
+pursuant to section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 
+6(c)(1)) with the condition that the Commission exercise concurrent 
+jurisdiction over such agreement, contract, or transaction (or class 
+thereof) shall be deemed a security for purposes of the securities laws.
+    ``(b) With respect to any agreement, contract, or transaction (or 
+class thereof) that is exempted by the Commodity Futures Trading 
+Commission pursuant to section 4(c)(1) of the Commodity Exchange Act (7 
+U.S.C. 6(c)(1)) with the condition that the Commission exercise 
+concurrent jurisdiction over such agreement, contract, or transaction 
+(or class thereof), references in the securities laws to the `purchase' 
+or `sale' of a security shall be deemed to include the execution, 
+termination (prior to its scheduled maturity date), assignment, 
+exchange, or similar transfer or conveyance of, or extinguishing of 
+rights or obligations under such agreement, contract, or transaction, as 
+the context may require.''.
+    (c) Amendment to Securities Exchange Act of 1934.--Section 19(b) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78s(b)) is amended by 
+adding at the end the following:
+            ``(10) Notwithstanding paragraph (2), the time period within 
+        which the Commission is required by order to approve a proposed 
+        rule change or institute proceedings to determine whether the 
+        proposed rule change should be disapproved is stayed pending a 
+        determination by the Commission upon the request of the 
+        Commodity Futures Trading Commission or its Chairman that the 
+        Commission issue a determination as to whether a product that is 
+        the subject of such proposed rule change is a security pursuant 
+        to section 718 of the Wall Street Transparency and 
+        Accountability Act of 2010.''.
+
+    (d) Amendment to Commodity Exchange Act.--Section 5c(c)(1) of the 
+Commodity Exchange Act (7 U.S.C. 7a-2(c)(1)) is amended--
+            (1) by striking ``Subject to paragraph (2)'' and inserting 
+        the following:
+                    ``(A) Election.--Subject to paragraph (2)''; and
+            (2) by adding at the end the following:
+                    ``(B) Certification.--The certification of a product 
+                pursuant to this paragraph shall be stayed pending a 
+                determination by the Commission upon the request of the 
+                Securities and Exchange Commission or its Chairman that 
+                the Commission issue a determination as to whether the 
+                product that is the subject of such certification is a 
+                contract of sale of a commodity for future delivery, an 
+                option on such a contract, or an option on a commodity 
+                pursuant to section 718 of the Wall Street Transparency 
+                and Accountability Act of 2010.''.

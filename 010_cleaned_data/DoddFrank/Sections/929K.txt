@@ -1,1 +1,68 @@
-                          EXCHANGED.    Section 106 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216) is amended--            (1) by striking subsection (b) and inserting the following:    ``(b) Production of Documents.--            ``(1) Production by foreign firms.--If a foreign public         accounting firm performs material services upon which a         registered public accounting firm relies in the conduct of an         audit or interim review, issues an audit report, performs audit         work, or conducts interim reviews, the foreign public accounting         firm shall--                    ``(A) produce the audit work papers of the foreign                 public accounting firm and all other documents of the                 firm related to any such audit work or interim review to                 the Commission or the Board, upon request of the                 Commission or the Board; and                    ``(B) be subject to the jurisdiction of the courts                 of the United States for purposes of enforcement of any                 request for such documents.            ``(2) Other production.--Any registered public accounting         firm that relies, in whole or in part, on the work of a foreign         public accounting firm in issuing an audit report, performing         audit work, or conducting an interim review, shall--                    ``(A) produce the audit work papers of the foreign                 public accounting firm and all other documents related                 to any such work in response to a request for production                 by the Commission or the Board; and                    ``(B) secure the agreement of any foreign public                 accounting firm to such production, as a condition of                 the reliance by the registered public accounting firm on                 the work of that foreign public accounting firm.'';            (2) by redesignating subsection (d) as subsection (g); and            (3) by inserting after subsection (c) the following:    ``(d) Service of Requests or Process.--            ``(1) In general.--Any foreign public accounting firm that         performs work for a domestic registered public accounting firm         shall furnish to the domestic registered public accounting firm         a written irrevocable consent and power of attorney that         designates the domestic registered public accounting firm as an         agent upon whom may be served any request by the Commission or         the Board under this section or upon whom may be served any         process, pleadings, or other papers in any action brought to         enforce this section.[[Page 124 STAT. 1860]]            ``(2) &lt;&lt;NOTE: Designation.&gt;&gt;  Specific audit work.--Any         foreign public accounting firm that performs material services         upon which a registered public accounting firm relies in the         conduct of an audit or interim review, issues an audit report,         performs audit work, or, performs interim reviews, shall         designate to the Commission or the Board an agent in the United         States upon whom may be served any request by the Commission or         the Board under this section or upon whom may be served any         process, pleading, or other papers in any action brought to         enforce this section.    ``(e) Sanctions.--A willful refusal to comply, in whole in or in part, with any request by the Commission or the Board under this section, shall be deemed a violation of this Act.    ``(f) Other Means of Satisfying Production Obligations.--Notwithstanding any other provisions of this section, the staff of the Commission or the Board may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.''.
+                          EXCHANGED.
+
+    Section 106 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216) is 
+amended--
+            (1) by striking subsection (b) and inserting the following:
+
+    ``(b) Production of Documents.--
+            ``(1) Production by foreign firms.--If a foreign public 
+        accounting firm performs material services upon which a 
+        registered public accounting firm relies in the conduct of an 
+        audit or interim review, issues an audit report, performs audit 
+        work, or conducts interim reviews, the foreign public accounting 
+        firm shall--
+                    ``(A) produce the audit work papers of the foreign 
+                public accounting firm and all other documents of the 
+                firm related to any such audit work or interim review to 
+                the Commission or the Board, upon request of the 
+                Commission or the Board; and
+                    ``(B) be subject to the jurisdiction of the courts 
+                of the United States for purposes of enforcement of any 
+                request for such documents.
+            ``(2) Other production.--Any registered public accounting 
+        firm that relies, in whole or in part, on the work of a foreign 
+        public accounting firm in issuing an audit report, performing 
+        audit work, or conducting an interim review, shall--
+                    ``(A) produce the audit work papers of the foreign 
+                public accounting firm and all other documents related 
+                to any such work in response to a request for production 
+                by the Commission or the Board; and
+                    ``(B) secure the agreement of any foreign public 
+                accounting firm to such production, as a condition of 
+                the reliance by the registered public accounting firm on 
+                the work of that foreign public accounting firm.'';
+            (2) by redesignating subsection (d) as subsection (g); and
+            (3) by inserting after subsection (c) the following:
+
+    ``(d) Service of Requests or Process.--
+            ``(1) In general.--Any foreign public accounting firm that 
+        performs work for a domestic registered public accounting firm 
+        shall furnish to the domestic registered public accounting firm 
+        a written irrevocable consent and power of attorney that 
+        designates the domestic registered public accounting firm as an 
+        agent upon whom may be served any request by the Commission or 
+        the Board under this section or upon whom may be served any 
+        process, pleadings, or other papers in any action brought to 
+        enforce this section.
+
+
+            ``(2) &lt;&lt;NOTE: Designation.&gt;&gt;  Specific audit work.--Any 
+        foreign public accounting firm that performs material services 
+        upon which a registered public accounting firm relies in the 
+        conduct of an audit or interim review, issues an audit report, 
+        performs audit work, or, performs interim reviews, shall 
+        designate to the Commission or the Board an agent in the United 
+        States upon whom may be served any request by the Commission or 
+        the Board under this section or upon whom may be served any 
+        process, pleading, or other papers in any action brought to 
+        enforce this section.
+
+    ``(e) Sanctions.--A willful refusal to comply, in whole in or in 
+part, with any request by the Commission or the Board under this 
+section, shall be deemed a violation of this Act.
+    ``(f) Other Means of Satisfying Production Obligations.--
+Notwithstanding any other provisions of this section, the staff of the 
+Commission or the Board may allow a foreign public accounting firm that 
+is subject to this section to meet production obligations under this 
+section through alternate means, such as through foreign counterparts of 
+the Commission or the Board.''.

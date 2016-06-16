@@ -1,1 +1,4 @@
-    Section 3502(5) of title 44, United States Code, is amended by inserting ``Office of the Comptroller of the Currency,'' after ``the Securities and Exchange Commission,''.
+
+    Section 3502(5) of title 44, United States Code, is amended by 
+inserting ``Office of the Comptroller of the Currency,'' after ``the 
+Securities and Exchange Commission,''.

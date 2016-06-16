@@ -1,1 +1,35 @@
-    Title 18, United States Code, is amended--            (1) in section 212(c)(2)--                    (A) by striking subparagraph (C); and                    (B) by redesignating subparagraphs (D) through (H)                 as subparagraphs (C) through (G), respectively;            (2) in section 657, by striking ``Office of Thrift         Supervision, the Resolution Trust Corporation,'';            (3) in section 981(a)(1)(D)--                    (A) by striking ``Resolution Trust Corporation,'';                 and                    (B) by striking ``or the Office of Thrift                 Supervision'';            (4) in section 982(a)(3)--                    (A) by striking ``Resolution Trust Corporation,'';                 and                    (B) by striking ``or the Office of Thrift                 Supervision'';            (5) in section 1006--                    (A) by striking ``Office of Thrift Supervision,'';                 and                    (B) by striking ``the Resolution Trust                 Corporation,'';            (6) in section 1014--                    (A) by striking ``the Office of Thrift                 Supervision''; and                    (B) by striking ``the Resolution Trust                 Corporation,''; and            (7) in section 1032(1)--                    (A) by striking ``the Resolution Trust                 Corporation,''; and                    (B) by striking ``or the Director of the Office of                 Thrift Supervision''.[[Page 124 STAT. 1570]]
+
+    Title 18, United States Code, is amended--
+            (1) in section 212(c)(2)--
+                    (A) by striking subparagraph (C); and
+                    (B) by redesignating subparagraphs (D) through (H) 
+                as subparagraphs (C) through (G), respectively;
+            (2) in section 657, by striking ``Office of Thrift 
+        Supervision, the Resolution Trust Corporation,'';
+            (3) in section 981(a)(1)(D)--
+                    (A) by striking ``Resolution Trust Corporation,''; 
+                and
+                    (B) by striking ``or the Office of Thrift 
+                Supervision'';
+            (4) in section 982(a)(3)--
+                    (A) by striking ``Resolution Trust Corporation,''; 
+                and
+                    (B) by striking ``or the Office of Thrift 
+                Supervision'';
+            (5) in section 1006--
+                    (A) by striking ``Office of Thrift Supervision,''; 
+                and
+                    (B) by striking ``the Resolution Trust 
+                Corporation,'';
+            (6) in section 1014--
+                    (A) by striking ``the Office of Thrift 
+                Supervision''; and
+                    (B) by striking ``the Resolution Trust 
+                Corporation,''; and
+            (7) in section 1032(1)--
+                    (A) by striking ``the Resolution Trust 
+                Corporation,''; and
+                    (B) by striking ``or the Director of the Office of 
+                Thrift Supervision''.
+
+

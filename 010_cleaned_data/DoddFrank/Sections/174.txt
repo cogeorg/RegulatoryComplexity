@@ -1,1 +1,56 @@
-                        INSTITUTIONS.    (a) Establishment of Foreign Bank Offices in the United States.--Section 7(d)(3) of the International Banking Act of 1978 (12 U.S.C. 3105(d)(3)) is amended--            (1) in subparagraph (C), by striking ``and'' at the end;            (2) in subparagraph (D), by striking the period at the end         of and inserting ``; and''; and            (3) by adding at the end the following new subparagraph:                    ``(E) for a foreign bank that presents a risk to the                 stability of United States financial system, whether the                 home country of the foreign bank has adopted, or is                 making demonstrable progress toward adopting, an                 appropriate system of financial regulation for the                 financial system of such home country to mitigate such                 risk.''.    (b) Termination of Foreign Bank Offices in the United States.--Section 7(e)(1) of the International Banking Act of 1978 (12 U.S.C. 3105(e)(1)) is amended--            (1) in subparagraph (A), by striking ``or'' at the end;            (2) in subparagraph (B), by striking the period at the end         of and inserting ``; or''; and            (3) by inserting after subparagraph (B), the following new         subparagraph:                    ``(C) for a foreign bank that presents a risk to the                 stability of the United States financial system, the                 home country of the foreign bank has not adopted, or                 made demonstrable progress toward adopting, an                 appropriate system of financial regulation to mitigate                 such risk.''.    (c) Registration or Succession to a United States Broker or Dealer and Termination of Such Registration.--Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) is amended by adding at the end the following new subsections:    ``(k) Registration or Succession to a United States Broker or Dealer.--In determining whether to permit a foreign person or an affiliate of a foreign person to register as a United States broker or dealer, or succeed to the registration of a United States broker or dealer, the Commission may consider whether, for a foreign person, or an affiliate of a foreign person that presents a risk to the stability of the United States financial system, the home country of the foreign person has adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.    ``(l) Termination of a United States Broker or Dealer.--For a foreign person or an affiliate of a foreign person that presents such a risk to the stability of the United States financial system, the Commission may determine to terminate the registration of such foreign person or an affiliate of such foreign person as a broker or dealer in the United States, if the Commission determines that the home country of the foreign person has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.''.[[Page 124 STAT. 1441]]
+                        INSTITUTIONS.
+
+    (a) Establishment of Foreign Bank Offices in the United States.--
+Section 7(d)(3) of the International Banking Act of 1978 (12 U.S.C. 
+3105(d)(3)) is amended--
+            (1) in subparagraph (C), by striking ``and'' at the end;
+            (2) in subparagraph (D), by striking the period at the end 
+        of and inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(E) for a foreign bank that presents a risk to the 
+                stability of United States financial system, whether the 
+                home country of the foreign bank has adopted, or is 
+                making demonstrable progress toward adopting, an 
+                appropriate system of financial regulation for the 
+                financial system of such home country to mitigate such 
+                risk.''.
+
+    (b) Termination of Foreign Bank Offices in the United States.--
+Section 7(e)(1) of the International Banking Act of 1978 (12 U.S.C. 
+3105(e)(1)) is amended--
+            (1) in subparagraph (A), by striking ``or'' at the end;
+            (2) in subparagraph (B), by striking the period at the end 
+        of and inserting ``; or''; and
+            (3) by inserting after subparagraph (B), the following new 
+        subparagraph:
+                    ``(C) for a foreign bank that presents a risk to the 
+                stability of the United States financial system, the 
+                home country of the foreign bank has not adopted, or 
+                made demonstrable progress toward adopting, an 
+                appropriate system of financial regulation to mitigate 
+                such risk.''.
+
+    (c) Registration or Succession to a United States Broker or Dealer 
+and Termination of Such Registration.--Section 15 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o) is amended by adding at the end the 
+following new subsections:
+    ``(k) Registration or Succession to a United States Broker or 
+Dealer.--In determining whether to permit a foreign person or an 
+affiliate of a foreign person to register as a United States broker or 
+dealer, or succeed to the registration of a United States broker or 
+dealer, the Commission may consider whether, for a foreign person, or an 
+affiliate of a foreign person that presents a risk to the stability of 
+the United States financial system, the home country of the foreign 
+person has adopted, or made demonstrable progress toward adopting, an 
+appropriate system of financial regulation to mitigate such risk.
+    ``(l) Termination of a United States Broker or Dealer.--For a 
+foreign person or an affiliate of a foreign person that presents such a 
+risk to the stability of the United States financial system, the 
+Commission may determine to terminate the registration of such foreign 
+person or an affiliate of such foreign person as a broker or dealer in 
+the United States, if the Commission determines that the home country of 
+the foreign person has not adopted, or made demonstrable progress toward 
+adopting, an appropriate system of financial regulation to mitigate such 
+risk.''.
+
+

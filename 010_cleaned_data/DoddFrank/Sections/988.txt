@@ -1,1 +1,94 @@
-                        LOSSES TO THE DEPOSIT INSURANCE FUND FOR                         PURPOSES OF INSPECTOR GENERAL REVIEWS.    (a) In General.--Section 38(k) of the Federal Deposit Insurance Act &lt;&lt;NOTE: 12 USC 1831o.&gt;&gt;  (U.S.C. 1831o(k)) is amended--            (1) in paragraph (2), by striking subparagraph (B) and         inserting the following:                    ``(B) Material loss defined.--The term `material                 loss' means any estimated loss in excess of--                          ``(i) $200,000,000, if the loss occurs during                       the period beginning on January 1, 2010, and                       ending on December 31, 2011;                          ``(ii) $150,000,000, if the loss occurs during                       the period beginning on January 1, 2012, and                       ending on December 31, 2013; and                          ``(iii) $50,000,000, if the loss occurs on or                       after January 1, 2014, provided that if the                       inspector general of a Federal banking agency                       certifies to the Committee on Banking, Housing,                       and Urban Affairs of the Senate and the Committee                       on Financial Services of the House[[Page 124 STAT. 1937]]                      of Representatives that the number of projected                       failures of depository institutions that would                       require material loss reviews for the following 12                       months will be greater than 30 and would hinder                       the effectiveness of its oversight functions, then                       the definition of `material loss' shall be                       $75,000,000 for a duration of 1 year from the date                       of the certification.'';            (2) in paragraph (4)(A) by striking ``the report'' and         inserting ``any report on losses required under this         subsection,'';            (3) by striking paragraph (6);            (4) by redesignating paragraph (5) as paragraph (6); and            (5) by inserting after paragraph (4) the following:            ``(5) Losses that are not material.--                    ``(A) Semiannual report.-- &lt;&lt;NOTE: Time                 period.&gt;&gt; For the 6-month period ending on March 31,                 2010, and each 6-month period thereafter, the Inspector                 General of each Federal banking agency shall--                          ``(i) identify losses that the Inspector                       General estimates have been incurred by the                       Deposit Insurance Fund during that 6-month period,                       with respect to the insured depository                       institutions supervised by the Federal banking                       agency;                          ``(ii) for each loss incurred by the Deposit                       Insurance Fund that is not a material loss,                       determine--                                    ``(I) the grounds identified by the                                 Federal banking agency or State bank                                 supervisor for appointing the                                 Corporation as receiver under section                                 11(c)(5); and                                    ``(II) whether any unusual                                 circumstances exist that might warrant                                 an in-depth review of the loss; and                          ``(iii) prepare and submit a written report to                       the appropriate Federal banking agency and to                       Congress on the results of any determination by                       the Inspector General, including--                                    ``(I) an identification of any loss                                 that warrants an in-depth review,                                 together with the reasons why such                                 review is warranted, or, if the                                 Inspector General determines that no                                 review is warranted, an explanation of                                 such determination; and                                    ``(II) for each loss identified                                 under subclause (I) that warrants an in-                                depth review, the date by which such                                 review, and a report on such review                                 prepared in a manner consistent with                                 reports under paragraph (1)(A), will be                                 completed and submitted to the Federal                                 banking agency and Congress.                    ``(B) Deadline for semiannual report.--The Inspector                 General of each Federal banking agency shall--                          ``(i) submit each report required under                       paragraph (A) expeditiously, and not later than 90                       days after the end of the 6-month period covered                       by the report; and                          ``(ii) provide a copy of the report required                       under paragraph (A) to any Member of Congress,                       upon request.''.[[Page 124 STAT. 1938]]    (b) Technical and Conforming Amendment.--The heading for subsection (k) of section 38 of the Federal Deposit Insurance Act (U.S.C. 1831o(k)) is amended to read as follows:    ``(k) Reviews Required When Deposit Insurance Fund Incurs Losses.--''.
+                        LOSSES TO THE DEPOSIT INSURANCE FUND FOR 
+                        PURPOSES OF INSPECTOR GENERAL REVIEWS.
+
+    (a) In General.--Section 38(k) of the Federal Deposit Insurance 
+Act &lt;&lt;NOTE: 12 USC 1831o.&gt;&gt;  (U.S.C. 1831o(k)) is amended--
+            (1) in paragraph (2), by striking subparagraph (B) and 
+        inserting the following:
+                    ``(B) Material loss defined.--The term `material 
+                loss' means any estimated loss in excess of--
+                          ``(i) $200,000,000, if the loss occurs during 
+                      the period beginning on January 1, 2010, and 
+                      ending on December 31, 2011;
+                          ``(ii) $150,000,000, if the loss occurs during 
+                      the period beginning on January 1, 2012, and 
+                      ending on December 31, 2013; and
+                          ``(iii) $50,000,000, if the loss occurs on or 
+                      after January 1, 2014, provided that if the 
+                      inspector general of a Federal banking agency 
+                      certifies to the Committee on Banking, Housing, 
+                      and Urban Affairs of the Senate and the Committee 
+                      on Financial Services of the House
+
+
+                      of Representatives that the number of projected 
+                      failures of depository institutions that would 
+                      require material loss reviews for the following 12 
+                      months will be greater than 30 and would hinder 
+                      the effectiveness of its oversight functions, then 
+                      the definition of `material loss' shall be 
+                      $75,000,000 for a duration of 1 year from the date 
+                      of the certification.'';
+            (2) in paragraph (4)(A) by striking ``the report'' and 
+        inserting ``any report on losses required under this 
+        subsection,'';
+            (3) by striking paragraph (6);
+            (4) by redesignating paragraph (5) as paragraph (6); and
+            (5) by inserting after paragraph (4) the following:
+            ``(5) Losses that are not material.--
+                    ``(A) Semiannual report.-- &lt;&lt;NOTE: Time 
+                period.&gt;&gt; For the 6-month period ending on March 31, 
+                2010, and each 6-month period thereafter, the Inspector 
+                General of each Federal banking agency shall--
+                          ``(i) identify losses that the Inspector 
+                      General estimates have been incurred by the 
+                      Deposit Insurance Fund during that 6-month period, 
+                      with respect to the insured depository 
+                      institutions supervised by the Federal banking 
+                      agency;
+                          ``(ii) for each loss incurred by the Deposit 
+                      Insurance Fund that is not a material loss, 
+                      determine--
+                                    ``(I) the grounds identified by the 
+                                Federal banking agency or State bank 
+                                supervisor for appointing the 
+                                Corporation as receiver under section 
+                                11(c)(5); and
+                                    ``(II) whether any unusual 
+                                circumstances exist that might warrant 
+                                an in-depth review of the loss; and
+                          ``(iii) prepare and submit a written report to 
+                      the appropriate Federal banking agency and to 
+                      Congress on the results of any determination by 
+                      the Inspector General, including--
+                                    ``(I) an identification of any loss 
+                                that warrants an in-depth review, 
+                                together with the reasons why such 
+                                review is warranted, or, if the 
+                                Inspector General determines that no 
+                                review is warranted, an explanation of 
+                                such determination; and
+                                    ``(II) for each loss identified 
+                                under subclause (I) that warrants an in-
+                                depth review, the date by which such 
+                                review, and a report on such review 
+                                prepared in a manner consistent with 
+                                reports under paragraph (1)(A), will be 
+                                completed and submitted to the Federal 
+                                banking agency and Congress.
+                    ``(B) Deadline for semiannual report.--The Inspector 
+                General of each Federal banking agency shall--
+                          ``(i) submit each report required under 
+                      paragraph (A) expeditiously, and not later than 90 
+                      days after the end of the 6-month period covered 
+                      by the report; and
+                          ``(ii) provide a copy of the report required 
+                      under paragraph (A) to any Member of Congress, 
+                      upon request.''.
+
+
+    (b) Technical and Conforming Amendment.--The heading for subsection 
+(k) of section 38 of the Federal Deposit Insurance Act (U.S.C. 1831o(k)) 
+is amended to read as follows:
+    ``(k) Reviews Required When Deposit Insurance Fund Incurs Losses.--
+''.

@@ -1,1 +1,40 @@
-    (a) Accountability.--Section 15E(m) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-7(m)) is amended to read as follows:    ``(m) Accountability.--            ``(1) In general.-- &lt;&lt;NOTE: Applicability.&gt;&gt; The enforcement         and penalty provisions of this title shall apply to statements         made by a credit rating agency in the same manner and to the         same extent as such provisions apply to statements made by a         registered public accounting firm or a securities analyst under         the securities laws, and such statements shall not be deemed         forward-looking statements for the purposes of section 21E.            ``(2) Rulemaking.--The Commission shall issue such rules as         may be necessary to carry out this subsection.''.    (b) State of Mind.--Section 21D(b)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78u-4(b)(2)) is amended--            (1) by striking ``In any'' and inserting the following:                    ``(A) In general.--Except as provided in                 subparagraph (B), in any''; and            (2) by adding at the end the following:[[Page 124 STAT. 1884]]                    ``(B) Exception.--In the case of an action for money                 damages brought against a credit rating agency or a                 controlling person under this title, it shall be                 sufficient, for purposes of pleading any required state                 of mind in relation to such action, that the complaint                 state with particularity facts giving rise to a strong                 inference that the credit rating agency knowingly or                 recklessly failed--                          ``(i) to conduct a reasonable investigation of                       the rated security with respect to the factual                       elements relied upon by its own methodology for                       evaluating credit risk; or                          ``(ii) to obtain reasonable verification of                       such factual elements (which verification may be                       based on a sampling technique that does not amount                       to an audit) from other sources that the credit                       rating agency considered to be competent and that                       were independent of the issuer and underwriter.''.
+
+    (a) Accountability.--Section 15E(m) of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78o-7(m)) is amended to read as follows:
+    ``(m) Accountability.--
+            ``(1) In general.-- &lt;&lt;NOTE: Applicability.&gt;&gt; The enforcement 
+        and penalty provisions of this title shall apply to statements 
+        made by a credit rating agency in the same manner and to the 
+        same extent as such provisions apply to statements made by a 
+        registered public accounting firm or a securities analyst under 
+        the securities laws, and such statements shall not be deemed 
+        forward-looking statements for the purposes of section 21E.
+            ``(2) Rulemaking.--The Commission shall issue such rules as 
+        may be necessary to carry out this subsection.''.
+
+    (b) State of Mind.--Section 21D(b)(2) of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78u-4(b)(2)) is amended--
+            (1) by striking ``In any'' and inserting the following:
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), in any''; and
+            (2) by adding at the end the following:
+
+
+                    ``(B) Exception.--In the case of an action for money 
+                damages brought against a credit rating agency or a 
+                controlling person under this title, it shall be 
+                sufficient, for purposes of pleading any required state 
+                of mind in relation to such action, that the complaint 
+                state with particularity facts giving rise to a strong 
+                inference that the credit rating agency knowingly or 
+                recklessly failed--
+                          ``(i) to conduct a reasonable investigation of 
+                      the rated security with respect to the factual 
+                      elements relied upon by its own methodology for 
+                      evaluating credit risk; or
+                          ``(ii) to obtain reasonable verification of 
+                      such factual elements (which verification may be 
+                      based on a sampling technique that does not amount 
+                      to an audit) from other sources that the credit 
+                      rating agency considered to be competent and that 
+                      were independent of the issuer and underwriter.''.

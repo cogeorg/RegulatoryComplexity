@@ -1,1 +1,120 @@
-                        TRADING.    (a) Definitions.--In this section--            (1) the term ``covered entity'' means--                    (A) an insured depository institution, an affiliate                 of an insured depository institution, a bank holding                 company,[[Page 124 STAT. 1940]]                a financial holding company, or a subsidiary of a bank                 holding company or a financial holding company, as those                 terms are defined in the Bank Holding Company Act of                 1956 (12 U.S.C. 1841 et seq.); and                    (B) any other entity, as the Comptroller General of                 the United States may determine; and            (2) the term ``proprietary trading'' means the act of a         covered entity investing as a principal in securities,         commodities, derivatives, hedge funds, private equity firms, or         such other financial products or entities as the Comptroller         General may determine.    (b) Study.--            (1) In general.--The Comptroller General of the United         States shall conduct a study regarding the risks and conflicts         associated with proprietary trading by and within covered         entities, including an evaluation of--                    (A) whether proprietary trading presents a material                 systemic risk to the stability of the United States                 financial system, and if so, the costs and benefits of                 options for mitigating such systemic risk;                    (B) whether proprietary trading presents material                 risks to the safety and soundness of the covered                 entities that engage in such activities, and if so, the                 costs and benefits of options for mitigating such risks;                    (C) whether proprietary trading presents material                 conflicts of interest between covered entities that                 engage in proprietary trading and the clients of the                 institutions who use the firm to execute trades or who                 rely on the firm to manage assets, and if so, the costs                 and benefits of options for mitigating such conflicts of                 interest;                    (D) whether adequate disclosure regarding the risks                 and conflicts of proprietary trading is provided to the                 depositors, trading and asset management clients, and                 investors of covered entities that engage in proprietary                 trading, and if not, the costs and benefits of options                 for the improvement of such disclosure; and                    (E) whether the banking, securities, and commodities                 regulators of institutions that engage in proprietary                 trading have in place adequate systems and controls to                 monitor and contain any risks and conflicts of interest                 related to proprietary trading, and if not, the costs                 and benefits of options for the improvement of such                 systems and controls.            (2) Considerations.--In carrying out the study required         under paragraph (1), the Comptroller General shall consider--                    (A) current practice relating to proprietary                 trading;                    (B) the advisability of a complete ban on                 proprietary trading;                    (C) limitations on the scope of activities that                 covered entities may engage in with respect to                 proprietary trading;                    (D) the advisability of additional capital                 requirements for covered entities that engage in                 proprietary trading;                    (E) enhanced restrictions on transactions between                 affiliates related to proprietary trading;                    (F) enhanced accounting disclosures relating to                 proprietary trading;                    (G) enhanced public disclosure relating to                 proprietary trading; and[[Page 124 STAT. 1941]]                    (H) any other options the Comptroller General deems                 appropriate.    (c) Report to Congress.--Not later than 15 months after the date of enactment of this Act, the Comptroller General shall submit a report to Congress on the results of the study conducted under subsection (b).    (d) Access by Comptroller General.--For purposes of conducting the study required under subsection (b), the Comptroller General shall have access, upon request, to any information, data, schedules, books, accounts, financial records, reports, files, electronic communications, or other papers, things, or property belonging to or in use by a covered entity that engages in proprietary trading, and to the officers, directors, employees, independent public accountants, financial advisors, staff, and agents and representatives of a covered entity (as related to the activities of the agent or representative on behalf of the covered entity), at such reasonable times as the Comptroller General may request. The Comptroller General may make and retain copies of books, records, accounts, and other records, as the Comptroller General deems appropriate.    (e) Confidentiality of Reports.--            (1) In general.--Except as provided in paragraph (2), the         Comptroller General may not disclose information regarding--                    (A) any proprietary trading activity of a covered                 entity, unless such information is disclosed at a level                 of generality that does not reveal the investment or                 trading position or strategy of the covered entity for                 any specific security, commodity, derivative, or other                 investment or financial product; or                    (B) any individual interviewed by the Comptroller                 General for purposes of the study under subsection (b),                 unless such information is disclosed at a level of                 generality that does not reveal--                          (i) the name of or identifying details                       relating to such individual; or                          (ii) in the case of an individual who is an                       employee of a third party that provides                       professional services to a covered entity believed                       to be engaged in proprietary trading, the name of                       or any identifying details relating to such third                       party.            (2) Exceptions.--The Comptroller General may disclose the         information described in paragraph (1)--                    (A) to a department, agency, or official of the                 Federal Government, for official use, upon request;                    (B) to a committee of Congress, upon request; and                    (C) to a court, upon an order of such court.
+                        TRADING.
+
+    (a) Definitions.--In this section--
+            (1) the term ``covered entity'' means--
+                    (A) an insured depository institution, an affiliate 
+                of an insured depository institution, a bank holding 
+                company,
+
+
+                a financial holding company, or a subsidiary of a bank 
+                holding company or a financial holding company, as those 
+                terms are defined in the Bank Holding Company Act of 
+                1956 (12 U.S.C. 1841 et seq.); and
+                    (B) any other entity, as the Comptroller General of 
+                the United States may determine; and
+            (2) the term ``proprietary trading'' means the act of a 
+        covered entity investing as a principal in securities, 
+        commodities, derivatives, hedge funds, private equity firms, or 
+        such other financial products or entities as the Comptroller 
+        General may determine.
+
+    (b) Study.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study regarding the risks and conflicts 
+        associated with proprietary trading by and within covered 
+        entities, including an evaluation of--
+                    (A) whether proprietary trading presents a material 
+                systemic risk to the stability of the United States 
+                financial system, and if so, the costs and benefits of 
+                options for mitigating such systemic risk;
+                    (B) whether proprietary trading presents material 
+                risks to the safety and soundness of the covered 
+                entities that engage in such activities, and if so, the 
+                costs and benefits of options for mitigating such risks;
+                    (C) whether proprietary trading presents material 
+                conflicts of interest between covered entities that 
+                engage in proprietary trading and the clients of the 
+                institutions who use the firm to execute trades or who 
+                rely on the firm to manage assets, and if so, the costs 
+                and benefits of options for mitigating such conflicts of 
+                interest;
+                    (D) whether adequate disclosure regarding the risks 
+                and conflicts of proprietary trading is provided to the 
+                depositors, trading and asset management clients, and 
+                investors of covered entities that engage in proprietary 
+                trading, and if not, the costs and benefits of options 
+                for the improvement of such disclosure; and
+                    (E) whether the banking, securities, and commodities 
+                regulators of institutions that engage in proprietary 
+                trading have in place adequate systems and controls to 
+                monitor and contain any risks and conflicts of interest 
+                related to proprietary trading, and if not, the costs 
+                and benefits of options for the improvement of such 
+                systems and controls.
+            (2) Considerations.--In carrying out the study required 
+        under paragraph (1), the Comptroller General shall consider--
+                    (A) current practice relating to proprietary 
+                trading;
+                    (B) the advisability of a complete ban on 
+                proprietary trading;
+                    (C) limitations on the scope of activities that 
+                covered entities may engage in with respect to 
+                proprietary trading;
+                    (D) the advisability of additional capital 
+                requirements for covered entities that engage in 
+                proprietary trading;
+                    (E) enhanced restrictions on transactions between 
+                affiliates related to proprietary trading;
+                    (F) enhanced accounting disclosures relating to 
+                proprietary trading;
+                    (G) enhanced public disclosure relating to 
+                proprietary trading; and
+
+
+                    (H) any other options the Comptroller General deems 
+                appropriate.
+
+    (c) Report to Congress.--Not later than 15 months after the date of 
+enactment of this Act, the Comptroller General shall submit a report to 
+Congress on the results of the study conducted under subsection (b).
+    (d) Access by Comptroller General.--For purposes of conducting the 
+study required under subsection (b), the Comptroller General shall have 
+access, upon request, to any information, data, schedules, books, 
+accounts, financial records, reports, files, electronic communications, 
+or other papers, things, or property belonging to or in use by a covered 
+entity that engages in proprietary trading, and to the officers, 
+directors, employees, independent public accountants, financial 
+advisors, staff, and agents and representatives of a covered entity (as 
+related to the activities of the agent or representative on behalf of 
+the covered entity), at such reasonable times as the Comptroller General 
+may request. The Comptroller General may make and retain copies of 
+books, records, accounts, and other records, as the Comptroller General 
+deems appropriate.
+    (e) Confidentiality of Reports.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        Comptroller General may not disclose information regarding--
+                    (A) any proprietary trading activity of a covered 
+                entity, unless such information is disclosed at a level 
+                of generality that does not reveal the investment or 
+                trading position or strategy of the covered entity for 
+                any specific security, commodity, derivative, or other 
+                investment or financial product; or
+                    (B) any individual interviewed by the Comptroller 
+                General for purposes of the study under subsection (b), 
+                unless such information is disclosed at a level of 
+                generality that does not reveal--
+                          (i) the name of or identifying details 
+                      relating to such individual; or
+                          (ii) in the case of an individual who is an 
+                      employee of a third party that provides 
+                      professional services to a covered entity believed 
+                      to be engaged in proprietary trading, the name of 
+                      or any identifying details relating to such third 
+                      party.
+            (2) Exceptions.--The Comptroller General may disclose the 
+        information described in paragraph (1)--
+                    (A) to a department, agency, or official of the 
+                Federal Government, for official use, upon request;
+                    (B) to a committee of Congress, upon request; and
+                    (C) to a court, upon an order of such court.

@@ -1,1 +1,50 @@
-    (a) In General.--The Comptroller General of the United States shall conduct a study--            (1) to identify and examine potential conflicts of interest         that exist between the staffs of the investment banking and         equity and fixed income securities analyst functions within the         same firm; and[[Page 124 STAT. 1838]]            (2) to make recommendations to Congress designed to protect         investors in light of such conflicts.    (b) Considerations.--In conducting the study under subsection (a), the Comptroller General shall--            (1) consider--                    (A) the potential for investor harm resulting from                 conflicts, including consideration of the forms of                 misconduct engaged in by the several securities firms                 and individuals that entered into the Global Analyst                 Research Settlements in 2003 (also known as the ``Global                 Settlement'');                    (B) the nature and benefits of the undertakings to                 which those firms agreed in enforcement proceedings,                 including firewalls between research and investment                 banking, separate reporting lines, dedicated legal and                 compliance staffs, allocation of budget, physical                 separation, compensation, employee performance                 evaluations, coverage decisions, limitations on                 soliciting investment banking business, disclosures,                 transparency, and other measures;                    (C) whether any such undertakings should be codified                 and applied permanently to securities firms, or whether                 the Commission should adopt rules applying any such                 undertakings to securities firms; and                    (D) whether to recommend regulatory or legislative                 measures designed to mitigate possible adverse                 consequences to investors arising from the conflicts of                 interest or to enhance investor protection or confidence                 in the integrity of the securities markets; and            (2) consult with State attorneys general, State securities         officials, the Commission, the Financial Industry Regulatory         Authority (``FINRA''), NYSE Regulation, investor advocates,         brokers, dealers, retail investors, institutional investors, and         academics.    (c) Report.--The Comptroller General shall submit a report on the results of the study required by this section to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, not later than 18 months after the date of enactment of this Act.
+
+    (a) In General.--The Comptroller General of the United States shall 
+conduct a study--
+            (1) to identify and examine potential conflicts of interest 
+        that exist between the staffs of the investment banking and 
+        equity and fixed income securities analyst functions within the 
+        same firm; and
+
+
+            (2) to make recommendations to Congress designed to protect 
+        investors in light of such conflicts.
+
+    (b) Considerations.--In conducting the study under subsection (a), 
+the Comptroller General shall--
+            (1) consider--
+                    (A) the potential for investor harm resulting from 
+                conflicts, including consideration of the forms of 
+                misconduct engaged in by the several securities firms 
+                and individuals that entered into the Global Analyst 
+                Research Settlements in 2003 (also known as the ``Global 
+                Settlement'');
+                    (B) the nature and benefits of the undertakings to 
+                which those firms agreed in enforcement proceedings, 
+                including firewalls between research and investment 
+                banking, separate reporting lines, dedicated legal and 
+                compliance staffs, allocation of budget, physical 
+                separation, compensation, employee performance 
+                evaluations, coverage decisions, limitations on 
+                soliciting investment banking business, disclosures, 
+                transparency, and other measures;
+                    (C) whether any such undertakings should be codified 
+                and applied permanently to securities firms, or whether 
+                the Commission should adopt rules applying any such 
+                undertakings to securities firms; and
+                    (D) whether to recommend regulatory or legislative 
+                measures designed to mitigate possible adverse 
+                consequences to investors arising from the conflicts of 
+                interest or to enhance investor protection or confidence 
+                in the integrity of the securities markets; and
+            (2) consult with State attorneys general, State securities 
+        officials, the Commission, the Financial Industry Regulatory 
+        Authority (``FINRA''), NYSE Regulation, investor advocates, 
+        brokers, dealers, retail investors, institutional investors, and 
+        academics.
+
+    (c) Report.--The Comptroller General shall submit a report on the 
+results of the study required by this section to the Committee on 
+Banking, Housing, and Urban Affairs of the Senate and the Committee on 
+Financial Services of the House of Representatives, not later than 18 
+months after the date of enactment of this Act.

@@ -1,1 +1,20 @@
-    Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 1834(a)) is amended--            (1) in the subsection heading, by striking ``by Federal         Reserve Board'';            (2) in paragraph (1)--                    (A) by striking ``The Board of Governors of the                 Federal Reserve System,'' and inserting ``The                 Comptroller of the Currency''; and                    (B) by striking ``section 7(b)(2)(H)'' and inserting                 ``section 7(b)(2)(E)'';            (3) in paragraph (2)(A), by striking ``Board'' and inserting         ``Comptroller''; and            (4) in paragraph (3)--                    (A) by redesignating subparagraphs (A) through (C)                 as subparagraphs (B) through (D), respectively; and                    (B) by inserting before subparagraph (B) the                 following:                    ``(A) Comptroller.--The &lt;&lt;NOTE: Definition.&gt;&gt; term                 `Comptroller' means the Comptroller of the Currency.''.
+
+    Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 
+1834(a)) is amended--
+            (1) in the subsection heading, by striking ``by Federal 
+        Reserve Board'';
+            (2) in paragraph (1)--
+                    (A) by striking ``The Board of Governors of the 
+                Federal Reserve System,'' and inserting ``The 
+                Comptroller of the Currency''; and
+                    (B) by striking ``section 7(b)(2)(H)'' and inserting 
+                ``section 7(b)(2)(E)'';
+            (3) in paragraph (2)(A), by striking ``Board'' and inserting 
+        ``Comptroller''; and
+            (4) in paragraph (3)--
+                    (A) by redesignating subparagraphs (A) through (C) 
+                as subparagraphs (B) through (D), respectively; and
+                    (B) by inserting before subparagraph (B) the 
+                following:
+                    ``(A) Comptroller.--The &lt;&lt;NOTE: Definition.&gt;&gt; term 
+                `Comptroller' means the Comptroller of the Currency.''.

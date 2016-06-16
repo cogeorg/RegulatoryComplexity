@@ -1,1 +1,142 @@
-    (a) Sentencing &lt;&lt;NOTE: Review.&gt;&gt; Guidelines.--            (1) Securities &lt;&lt;NOTE: 28 USC 994 note.&gt;&gt;  fraud.--                    (A) Directive.--Pursuant to its authority under                 section 994 of title 28, United States Code, and in                 accordance with this paragraph, the United States                 Sentencing Commission shall review and, if appropriate,                 amend the Federal Sentencing Guidelines and policy                 statements applicable to persons convicted of offenses                 relating to securities fraud or any other similar                 provision of law, in order to reflect the intent of                 Congress that penalties for the offenses under the                 guidelines and policy statements appropriately account                 for the potential and actual harm to the public and the                 financial markets from the offenses.[[Page 124 STAT. 2078]]                    (B) Requirements.--In making any amendments to the                 Federal Sentencing Guidelines and policy statements                 under subparagraph (A), the United States Sentencing                 Commission shall--                          (i) ensure that the guidelines and policy                       statements, particularly section 2B1.1(b)(14) and                       section 2B1.1(b)(17) (and any successors thereto),                       reflect--                                    (I) the serious nature of the                                 offenses described in subparagraph (A);                                    (II) the need for an effective                                 deterrent and appropriate punishment to                                 prevent the offenses; and                                    (III) the effectiveness of                                 incarceration in furthering the                                 objectives described in subclauses (I)                                 and (II);                          (ii) consider the extent to which the                       guidelines appropriately account for the potential                       and actual harm to the public and the financial                       markets resulting from the offenses;                          (iii) ensure reasonable consistency with other                       relevant directives and guidelines and Federal                       statutes;                          (iv) make any necessary conforming changes to                       guidelines; and                          (v) ensure that the guidelines adequately meet                       the purposes of sentencing, as set forth in                       section 3553(a)(2) of title 18, United States                       Code.            (2) Financial &lt;&lt;NOTE: 28 USC 994 note.&gt;&gt; institution         fraud.--                    (A) Directive.--Pursuant to its authority under                 section 994 of title 28, United States Code, and in                 accordance with this paragraph, the United States                 Sentencing Commission shall review and, if appropriate,                 amend the Federal Sentencing Guidelines and policy                 statements applicable to persons convicted of fraud                 offenses relating to financial institutions or federally                 related mortgage loans and any other similar provisions                 of law, to reflect the intent of Congress that the                 penalties for the offenses under the guidelines and                 policy statements ensure appropriate terms of                 imprisonment for offenders involved in substantial bank                 frauds or other frauds relating to financial                 institutions.                    (B) Requirements.--In making any amendments to the                 Federal Sentencing Guidelines and policy statements                 under subparagraph (A), the United States Sentencing                 Commission shall--                          (i) ensure that the guidelines and policy                       statements reflect--                                    (I) the serious nature of the                                 offenses described in subparagraph (A);                                    (II) the need for an effective                                 deterrent and appropriate punishment to                                 prevent the offenses; and                                    (III) the effectiveness of                                 incarceration in furthering the                                 objectives described in subclauses (I)                                 and (II);                          (ii) consider the extent to which the                       guidelines appropriately account for the potential                       and actual harm[[Page 124 STAT. 2079]]                      to the public and the financial markets resulting                       from the offenses;                          (iii) ensure reasonable consistency with other                       relevant directives and guidelines and Federal                       statutes;                          (iv) make any necessary conforming changes to                       guidelines; and                          (v) ensure that the guidelines adequately meet                       the purposes of sentencing, as set forth in                       section 3553(a)(2) of title 18, United States                       Code.    (b) Extension of Statute of Limitations for Securities Fraud Violations.--            (1) In general.--Chapter 213 of title 18, United States         Code, is amended by adding at the end the following:``Sec. 3301. Securities fraud offenses    ``(a) Definition.--In this section, the term `securities fraud offense' means a violation of, or a conspiracy or an attempt to violate--            ``(1) section 1348;            ``(2) section 32(a) of the Securities Exchange Act of 1934         (15 U.S.C. 78ff(a));            ``(3) section 24 of the Securities Act of 1933 (15 U.S.C.         77x);            ``(4) section 217 of the Investment Advisers Act of 1940 (15         U.S.C. 80b-17);            ``(5) section 49 of the Investment Company Act of 1940 (15         U.S.C. 80a-48); or            ``(6) section 325 of the Trust Indenture Act of 1939 (15         U.S.C. 77yyy).    ``(b) Limitation.--No person shall be prosecuted, tried, or punished for a securities fraud offense, unless the indictment is found or the information is instituted within 6 years after the commission of the offense.''.            (2) Technical and conforming amendment.--The table of         sections for chapter 213 of title 18, United States Code, is         amended by adding at the end the following:``3301. Securities fraud offenses.''.    (c) Amendments to the False Claims Act Relating to Limitations on Actions.--Section 3730(h) of title 31, United States Code, is amended--            (1) in paragraph (1), by striking ``or agent on behalf of         the employee, contractor, or agent or associated others in         furtherance of other efforts to stop 1 or more violations of         this subchapter'' and inserting ``agent or associated others in         furtherance of an action under this section or other efforts to         stop 1 or more violations of this subchapter''; and            (2) by adding at the end the following:            ``(3) Limitation on bringing civil action.--A civil action         under this subsection may not be brought more than 3 years after         the date when the retaliation occurred.''.[[Page 124 STAT. 2080]]                    Subtitle H--Conforming Amendments
+
+    (a) Sentencing &lt;&lt;NOTE: Review.&gt;&gt; Guidelines.--
+            (1) Securities &lt;&lt;NOTE: 28 USC 994 note.&gt;&gt;  fraud.--
+                    (A) Directive.--Pursuant to its authority under 
+                section 994 of title 28, United States Code, and in 
+                accordance with this paragraph, the United States 
+                Sentencing Commission shall review and, if appropriate, 
+                amend the Federal Sentencing Guidelines and policy 
+                statements applicable to persons convicted of offenses 
+                relating to securities fraud or any other similar 
+                provision of law, in order to reflect the intent of 
+                Congress that penalties for the offenses under the 
+                guidelines and policy statements appropriately account 
+                for the potential and actual harm to the public and the 
+                financial markets from the offenses.
+
+
+                    (B) Requirements.--In making any amendments to the 
+                Federal Sentencing Guidelines and policy statements 
+                under subparagraph (A), the United States Sentencing 
+                Commission shall--
+                          (i) ensure that the guidelines and policy 
+                      statements, particularly section 2B1.1(b)(14) and 
+                      section 2B1.1(b)(17) (and any successors thereto), 
+                      reflect--
+                                    (I) the serious nature of the 
+                                offenses described in subparagraph (A);
+                                    (II) the need for an effective 
+                                deterrent and appropriate punishment to 
+                                prevent the offenses; and
+                                    (III) the effectiveness of 
+                                incarceration in furthering the 
+                                objectives described in subclauses (I) 
+                                and (II);
+                          (ii) consider the extent to which the 
+                      guidelines appropriately account for the potential 
+                      and actual harm to the public and the financial 
+                      markets resulting from the offenses;
+                          (iii) ensure reasonable consistency with other 
+                      relevant directives and guidelines and Federal 
+                      statutes;
+                          (iv) make any necessary conforming changes to 
+                      guidelines; and
+                          (v) ensure that the guidelines adequately meet 
+                      the purposes of sentencing, as set forth in 
+                      section 3553(a)(2) of title 18, United States 
+                      Code.
+            (2) Financial &lt;&lt;NOTE: 28 USC 994 note.&gt;&gt; institution 
+        fraud.--
+                    (A) Directive.--Pursuant to its authority under 
+                section 994 of title 28, United States Code, and in 
+                accordance with this paragraph, the United States 
+                Sentencing Commission shall review and, if appropriate, 
+                amend the Federal Sentencing Guidelines and policy 
+                statements applicable to persons convicted of fraud 
+                offenses relating to financial institutions or federally 
+                related mortgage loans and any other similar provisions 
+                of law, to reflect the intent of Congress that the 
+                penalties for the offenses under the guidelines and 
+                policy statements ensure appropriate terms of 
+                imprisonment for offenders involved in substantial bank 
+                frauds or other frauds relating to financial 
+                institutions.
+                    (B) Requirements.--In making any amendments to the 
+                Federal Sentencing Guidelines and policy statements 
+                under subparagraph (A), the United States Sentencing 
+                Commission shall--
+                          (i) ensure that the guidelines and policy 
+                      statements reflect--
+                                    (I) the serious nature of the 
+                                offenses described in subparagraph (A);
+                                    (II) the need for an effective 
+                                deterrent and appropriate punishment to 
+                                prevent the offenses; and
+                                    (III) the effectiveness of 
+                                incarceration in furthering the 
+                                objectives described in subclauses (I) 
+                                and (II);
+                          (ii) consider the extent to which the 
+                      guidelines appropriately account for the potential 
+                      and actual harm
+
+
+                      to the public and the financial markets resulting 
+                      from the offenses;
+                          (iii) ensure reasonable consistency with other 
+                      relevant directives and guidelines and Federal 
+                      statutes;
+                          (iv) make any necessary conforming changes to 
+                      guidelines; and
+                          (v) ensure that the guidelines adequately meet 
+                      the purposes of sentencing, as set forth in 
+                      section 3553(a)(2) of title 18, United States 
+                      Code.
+
+    (b) Extension of Statute of Limitations for Securities Fraud 
+Violations.--
+            (1) In general.--Chapter 213 of title 18, United States 
+        Code, is amended by adding at the end the following:
+``Sec. 3301. Securities fraud offenses
+
+    ``(a) Definition.--In this section, the term `securities fraud 
+offense' means a violation of, or a conspiracy or an attempt to 
+violate--
+            ``(1) section 1348;
+            ``(2) section 32(a) of the Securities Exchange Act of 1934 
+        (15 U.S.C. 78ff(a));
+            ``(3) section 24 of the Securities Act of 1933 (15 U.S.C. 
+        77x);
+            ``(4) section 217 of the Investment Advisers Act of 1940 (15 
+        U.S.C. 80b-17);
+            ``(5) section 49 of the Investment Company Act of 1940 (15 
+        U.S.C. 80a-48); or
+            ``(6) section 325 of the Trust Indenture Act of 1939 (15 
+        U.S.C. 77yyy).
+
+    ``(b) Limitation.--No person shall be prosecuted, tried, or punished 
+for a securities fraud offense, unless the indictment is found or the 
+information is instituted within 6 years after the commission of the 
+offense.''.
+            (2) Technical and conforming amendment.--The table of 
+        sections for chapter 213 of title 18, United States Code, is 
+        amended by adding at the end the following:
+
+``3301. Securities fraud offenses.''.
+
+    (c) Amendments to the False Claims Act Relating to Limitations on 
+Actions.--Section 3730(h) of title 31, United States Code, is amended--
+            (1) in paragraph (1), by striking ``or agent on behalf of 
+        the employee, contractor, or agent or associated others in 
+        furtherance of other efforts to stop 1 or more violations of 
+        this subchapter'' and inserting ``agent or associated others in 
+        furtherance of an action under this section or other efforts to 
+        stop 1 or more violations of this subchapter''; and
+            (2) by adding at the end the following:
+            ``(3) Limitation on bringing civil action.--A civil action 
+        under this subsection may not be brought more than 3 years after 
+        the date when the retaliation occurred.''.
+
+
+                    Subtitle H--Conforming Amendments
+

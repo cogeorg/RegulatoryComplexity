@@ -1,1 +1,40 @@
-    Section 128(a) of Truth in Lending Act (15 U.S.C. 1638(a)) is amended by adding at the end the following new paragraphs:[[Page 124 STAT. 2155]]            ``(16) In the case of a variable rate residential mortgage         loan for which an escrow or impound account will be established         for the payment of all applicable taxes, insurance, and         assessments--                    ``(A) the amount of initial monthly payment due                 under the loan for the payment of principal and                 interest, and the amount of such initial monthly payment                 including the monthly payment deposited in the account                 for the payment of all applicable taxes, insurance, and                 assessments; and                    ``(B) the amount of the fully indexed monthly                 payment due under the loan for the payment of principal                 and interest, and the amount of such fully indexed                 monthly payment including the monthly payment deposited                 in the account for the payment of all applicable taxes,                 insurance, and assessments.            ``(17) In the case of a residential mortgage loan, the         aggregate amount of settlement charges for all settlement         services provided in connection with the loan, the amount of         charges that are included in the loan and the amount of such         charges the borrower must pay at closing, the approximate amount         of the wholesale rate of funds in connection with the loan, and         the aggregate amount of other fees or required payments in         connection with the loan.            ``(18) In the case of a residential mortgage loan, the         aggregate amount of fees paid to the mortgage originator in         connection with the loan, the amount of such fees paid directly         by the consumer, and any additional amount received by the         originator from the creditor.            ``(19) In the case of a residential mortgage loan, the total         amount of interest that the consumer will pay over the life of         the loan as a percentage of the principal of the loan. Such         amount shall be computed assuming the consumer makes each         monthly payment in full and on-time, and does not make any over-        payments.''.
+
+    Section 128(a) of Truth in Lending Act (15 U.S.C. 1638(a)) is 
+amended by adding at the end the following new paragraphs:
+
+
+            ``(16) In the case of a variable rate residential mortgage 
+        loan for which an escrow or impound account will be established 
+        for the payment of all applicable taxes, insurance, and 
+        assessments--
+                    ``(A) the amount of initial monthly payment due 
+                under the loan for the payment of principal and 
+                interest, and the amount of such initial monthly payment 
+                including the monthly payment deposited in the account 
+                for the payment of all applicable taxes, insurance, and 
+                assessments; and
+                    ``(B) the amount of the fully indexed monthly 
+                payment due under the loan for the payment of principal 
+                and interest, and the amount of such fully indexed 
+                monthly payment including the monthly payment deposited 
+                in the account for the payment of all applicable taxes, 
+                insurance, and assessments.
+            ``(17) In the case of a residential mortgage loan, the 
+        aggregate amount of settlement charges for all settlement 
+        services provided in connection with the loan, the amount of 
+        charges that are included in the loan and the amount of such 
+        charges the borrower must pay at closing, the approximate amount 
+        of the wholesale rate of funds in connection with the loan, and 
+        the aggregate amount of other fees or required payments in 
+        connection with the loan.
+            ``(18) In the case of a residential mortgage loan, the 
+        aggregate amount of fees paid to the mortgage originator in 
+        connection with the loan, the amount of such fees paid directly 
+        by the consumer, and any additional amount received by the 
+        originator from the creditor.
+            ``(19) In the case of a residential mortgage loan, the total 
+        amount of interest that the consumer will pay over the life of 
+        the loan as a percentage of the principal of the loan. Such 
+        amount shall be computed assuming the consumer makes each 
+        monthly payment in full and on-time, and does not make any over-
+        payments.''.

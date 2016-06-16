@@ -1,1 +1,56 @@
-    (a) In General.--Section 202(a)(11) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(11)) is amended by striking ``or (G)'' and inserting the following: ``; (G) any family office, as defined by rule, regulation, or order of the Commission, in accordance with the purposes of this title; or (H)''.    (b) Rulemaking.--The &lt;&lt;NOTE: 15 USC 80b-2 note.&gt;&gt; rules, regulations, or orders issued by the Commission pursuant to section 202(a)(11)(G) of the Investment Advisers Act of 1940, as added by this section, regarding the definition of the term ``family office'' shall provide for an exemption that--            (1) is consistent with the previous exemptive policy of the         Commission, as reflected in exemptive orders for family offices         in effect on the date of enactment of this Act, and the         grandfathering provisions in paragraph (3);            (2) recognizes the range of organizational, management, and         employment structures and arrangements employed by family         offices; and            (3) does not exclude any person who was not registered or         required to be registered under the Investment Advisers Act of         1940 on January 1, 2010 from the definition of the term ``family         office'', solely because such person provides investment advice         to, and was engaged before January 1, 2010 in providing         investment advice to--[[Page 124 STAT. 1576]]                    (A) natural persons who, at the time of their                 applicable investment, are officers, directors, or                 employees of the family office who--                          (i) &lt;&lt;NOTE: Deadline.&gt;&gt; have invested with the                       family office before January 1, 2010; and                          (ii) are accredited investors, as defined in                       Regulation D of the Commission (or any successor                       thereto) under the Securities Act of 1933, or, as                       the Commission may prescribe by rule, the                       successors-in-interest thereto;                    (B) any company owned exclusively and controlled by                 members of the family of the family office, or as the                 Commission may prescribe by rule;                    (C) any investment adviser registered under the                 Investment Adviser Act of 1940 that provides investment                 advice to the family office and who identifies                 investment opportunities to the family office, and                 invests in such transactions on substantially the same                 terms as the family office invests, but does not invest                 in other funds advised by the family office, and whose                 assets as to which the family office directly or                 indirectly provides investment advice represent, in the                 aggregate, not more than 5 percent of the value of the                 total assets as to which the family office provides                 investment advice.    (c) Antifraud Authority.--A family office that would not be a family office, but for subsection (b)(3), shall be deemed to be an investment adviser for the purposes of paragraphs (1), (2) and (4) of section 206 of the Investment Advisers Act of 1940.
+
+    (a) In General.--Section 202(a)(11) of the Investment Advisers Act 
+of 1940 (15 U.S.C. 80b-2(a)(11)) is amended by striking ``or (G)'' and 
+inserting the following: ``; (G) any family office, as defined by rule, 
+regulation, or order of the Commission, in accordance with the purposes 
+of this title; or (H)''.
+    (b) Rulemaking.--The &lt;&lt;NOTE: 15 USC 80b-2 note.&gt;&gt; rules, 
+regulations, or orders issued by the Commission pursuant to section 
+202(a)(11)(G) of the Investment Advisers Act of 1940, as added by this 
+section, regarding the definition of the term ``family office'' shall 
+provide for an exemption that--
+            (1) is consistent with the previous exemptive policy of the 
+        Commission, as reflected in exemptive orders for family offices 
+        in effect on the date of enactment of this Act, and the 
+        grandfathering provisions in paragraph (3);
+            (2) recognizes the range of organizational, management, and 
+        employment structures and arrangements employed by family 
+        offices; and
+            (3) does not exclude any person who was not registered or 
+        required to be registered under the Investment Advisers Act of 
+        1940 on January 1, 2010 from the definition of the term ``family 
+        office'', solely because such person provides investment advice 
+        to, and was engaged before January 1, 2010 in providing 
+        investment advice to--
+
+
+                    (A) natural persons who, at the time of their 
+                applicable investment, are officers, directors, or 
+                employees of the family office who--
+                          (i) &lt;&lt;NOTE: Deadline.&gt;&gt; have invested with the 
+                      family office before January 1, 2010; and
+                          (ii) are accredited investors, as defined in 
+                      Regulation D of the Commission (or any successor 
+                      thereto) under the Securities Act of 1933, or, as 
+                      the Commission may prescribe by rule, the 
+                      successors-in-interest thereto;
+                    (B) any company owned exclusively and controlled by 
+                members of the family of the family office, or as the 
+                Commission may prescribe by rule;
+                    (C) any investment adviser registered under the 
+                Investment Adviser Act of 1940 that provides investment 
+                advice to the family office and who identifies 
+                investment opportunities to the family office, and 
+                invests in such transactions on substantially the same 
+                terms as the family office invests, but does not invest 
+                in other funds advised by the family office, and whose 
+                assets as to which the family office directly or 
+                indirectly provides investment advice represent, in the 
+                aggregate, not more than 5 percent of the value of the 
+                total assets as to which the family office provides 
+                investment advice.
+
+    (c) Antifraud Authority.--A family office that would not be a family 
+office, but for subsection (b)(3), shall be deemed to be an investment 
+adviser for the purposes of paragraphs (1), (2) and (4) of section 206 
+of the Investment Advisers Act of 1940.

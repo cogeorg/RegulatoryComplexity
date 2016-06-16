@@ -1,1 +1,38 @@
-    Section 128(b) of the Truth in Lending Act (15 U.S.C. 1638(b)) is amended by adding at the end the following new paragraph:            ``(4) Repayment analysis required to include escrow         payments.--                    ``(A) In general.--In the case of any consumer                 credit transaction secured by a first mortgage or lien                 on the principal dwelling of the consumer, other than a                 consumer credit transaction under an open end credit                 plan or a reverse mortgage, for which an impound, trust,                 or other type of account has been or will be established                 in connection with the transaction for the payment of                 property taxes, hazard and flood (if any) insurance                 premiums, or other periodic payments or premiums with                 respect to the property, the information required to be                 provided under subsection (a) with respect to the                 number, amount, and due dates or period of payments                 scheduled to repay the total of payments shall take into                 account the amount of any monthly payment to such                 account for each such repayment in accordance with                 section 10(a)(2) of the Real Estate Settlement                 Procedures Act of 1974.                    ``(B) Assessment value.--The amount taken into                 account under subparagraph (A) for the payment of                 property taxes, hazard and flood (if any) insurance                 premiums, or other periodic payments or premiums with                 respect to the property shall reflect the taxable                 assessed value of the real property securing the                 transaction after the consummation of the transaction,                 including the value of any improvements on the property                 or to be constructed on the property (whether or not                 such construction will be financed from the proceeds of                 the transaction), if known, and the replacement costs of                 the property for hazard insurance, in the initial year                 after the transaction.''.                    Subtitle F--Appraisal Activities
+
+    Section 128(b) of the Truth in Lending Act (15 U.S.C. 1638(b)) is 
+amended by adding at the end the following new paragraph:
+            ``(4) Repayment analysis required to include escrow 
+        payments.--
+                    ``(A) In general.--In the case of any consumer 
+                credit transaction secured by a first mortgage or lien 
+                on the principal dwelling of the consumer, other than a 
+                consumer credit transaction under an open end credit 
+                plan or a reverse mortgage, for which an impound, trust, 
+                or other type of account has been or will be established 
+                in connection with the transaction for the payment of 
+                property taxes, hazard and flood (if any) insurance 
+                premiums, or other periodic payments or premiums with 
+                respect to the property, the information required to be 
+                provided under subsection (a) with respect to the 
+                number, amount, and due dates or period of payments 
+                scheduled to repay the total of payments shall take into 
+                account the amount of any monthly payment to such 
+                account for each such repayment in accordance with 
+                section 10(a)(2) of the Real Estate Settlement 
+                Procedures Act of 1974.
+                    ``(B) Assessment value.--The amount taken into 
+                account under subparagraph (A) for the payment of 
+                property taxes, hazard and flood (if any) insurance 
+                premiums, or other periodic payments or premiums with 
+                respect to the property shall reflect the taxable 
+                assessed value of the real property securing the 
+                transaction after the consummation of the transaction, 
+                including the value of any improvements on the property 
+                or to be constructed on the property (whether or not 
+                such construction will be financed from the proceeds of 
+                the transaction), if known, and the replacement costs of 
+                the property for hazard insurance, in the initial year 
+                after the transaction.''.
+
+                    Subtitle F--Appraisal Activities
+

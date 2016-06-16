@@ -1,1 +1,15 @@
-    Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, that was, before the transfer date, providing support services to the Office of Thrift Supervision in connection with functions transferred to the Office of the Comptroller of the Currency, the Corporation or the Board of Governors under this title, shall--            (1) continue to provide such services, subject to         reimbursement by the Office of the Comptroller of the Currency,         the Corporation, or the Board of Governors, until the transfer         of functions under this title is complete; and            (2) consult &lt;&lt;NOTE: Consultation.&gt;&gt; with the Comptroller of         the Currency, the Chairperson of the Corporation, or the         Chairman of the Board of Governors, as appropriate, to         coordinate and facilitate a prompt and orderly transition.
+
+    Any agency, department, or other instrumentality of the United 
+States, and any successor to any such agency, department, or 
+instrumentality, that was, before the transfer date, providing support 
+services to the Office of Thrift Supervision in connection with 
+functions transferred to the Office of the Comptroller of the Currency, 
+the Corporation or the Board of Governors under this title, shall--
+            (1) continue to provide such services, subject to 
+        reimbursement by the Office of the Comptroller of the Currency, 
+        the Corporation, or the Board of Governors, until the transfer 
+        of functions under this title is complete; and
+            (2) consult &lt;&lt;NOTE: Consultation.&gt;&gt; with the Comptroller of 
+        the Currency, the Chairperson of the Corporation, or the 
+        Chairman of the Board of Governors, as appropriate, to 
+        coordinate and facilitate a prompt and orderly transition.

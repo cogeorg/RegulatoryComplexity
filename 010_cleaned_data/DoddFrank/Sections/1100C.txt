@@ -1,1 +1,42 @@
-    The Truth in Savings Act (12 U.S.C. 4301 et seq.) is amended--[[Page 124 STAT. 2110]]            (1) by &lt;&lt;NOTE: 12 USC 4302 et seq.&gt;&gt; striking ``Board'' each         place that term appears, other than in section 272(b) (12 U.S.C.         4311), and inserting ``Bureau'';            (2) in section 270(a) (12 U.S.C. 4309)--                    (A) by striking ``Compliance'' and all that follows                 through the end of paragraph (1) and inserting:                 ``Subject to subtitle B of the Consumer Financial                 Protection Act of 2010, compliance with the requirements                 imposed under this subtitle shall be enforced under--            ``(1) section 8 of the Federal Deposit Insurance Act by the         appropriate Federal banking agency (as defined in section 3(q)         of that Act), with respect to--                    ``(A) insured depository institutions (as defined in                 section 3(c)(2) of that Act);                    ``(B) depository institutions described in clause                 (i), (ii), or (iii) of section 19(b)(1)(A) of the                 Federal Reserve Act which are not insured depository                 institutions (as defined in section 3(c)(2) of the                 Federal Deposit Insurance Act); and                    ``(C) depository institutions described in clause                 (v) or (vi) of section 19(b)(1)(A) of the Federal                 Reserve Act which are not insured depository                 institutions (as defined in section 3(c)(2) of the                 Federal Deposit Insurance Act);'';                    (B) in paragraph (2), by striking the period at the                 end and inserting ``; and''; and                    (C) by adding at the end the following:            ``(3) subtitle E of the Consumer Financial Protection Act of         2010, by the Bureau, with respect to any person subject to this         subtitle.'';            (3) in section 272(b) (12 U.S.C. 4311(b)), by striking         ``regulation prescribed by the Board'' each place that term         appears and inserting ``regulation prescribed by the Bureau'';         and            (4) in section 274 (12 U.S.C. 4313), by striking paragraph         (4) and inserting the following:            ``(4) Bureau.--The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means         the Bureau of Consumer Financial Protection.''.
+
+    The Truth in Savings Act (12 U.S.C. 4301 et seq.) is amended--
+
+
+            (1) by &lt;&lt;NOTE: 12 USC 4302 et seq.&gt;&gt; striking ``Board'' each 
+        place that term appears, other than in section 272(b) (12 U.S.C. 
+        4311), and inserting ``Bureau'';
+            (2) in section 270(a) (12 U.S.C. 4309)--
+                    (A) by striking ``Compliance'' and all that follows 
+                through the end of paragraph (1) and inserting: 
+                ``Subject to subtitle B of the Consumer Financial 
+                Protection Act of 2010, compliance with the requirements 
+                imposed under this subtitle shall be enforced under--
+            ``(1) section 8 of the Federal Deposit Insurance Act by the 
+        appropriate Federal banking agency (as defined in section 3(q) 
+        of that Act), with respect to--
+                    ``(A) insured depository institutions (as defined in 
+                section 3(c)(2) of that Act);
+                    ``(B) depository institutions described in clause 
+                (i), (ii), or (iii) of section 19(b)(1)(A) of the 
+                Federal Reserve Act which are not insured depository 
+                institutions (as defined in section 3(c)(2) of the 
+                Federal Deposit Insurance Act); and
+                    ``(C) depository institutions described in clause 
+                (v) or (vi) of section 19(b)(1)(A) of the Federal 
+                Reserve Act which are not insured depository 
+                institutions (as defined in section 3(c)(2) of the 
+                Federal Deposit Insurance Act);'';
+                    (B) in paragraph (2), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+            ``(3) subtitle E of the Consumer Financial Protection Act of 
+        2010, by the Bureau, with respect to any person subject to this 
+        subtitle.'';
+            (3) in section 272(b) (12 U.S.C. 4311(b)), by striking 
+        ``regulation prescribed by the Board'' each place that term 
+        appears and inserting ``regulation prescribed by the Bureau''; 
+        and
+            (4) in section 274 (12 U.S.C. 4313), by striking paragraph 
+        (4) and inserting the following:
+            ``(4) Bureau.--The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means 
+        the Bureau of Consumer Financial Protection.''.

@@ -1,1 +1,198 @@
-    (a) In General.--            (1) Rule &lt;&lt;NOTE: 15 USC 1639c note.&gt;&gt;  of construction.--No         regulation, order, or guidance issued by the Bureau under this         title shall be construed as requiring a depository institution         to apply mortgage underwriting standards that do not meet the         minimum underwriting standards required by the appropriate         prudential regulator of the depository institution.            (2) Amendment to truth in lending act.--Chapter 2 of the         Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by         inserting after section 129B (as added by section 1402(a)) the         following new section:``Sec. 129C. Minimum &lt;&lt;NOTE: 15 USC 1639c.&gt;&gt;  standards for                   residential mortgage loans    ``(a) Ability To Repay.--            ``(1) In general.--In accordance with regulations prescribed         by the Board, no creditor may make a residential mortgage loan         unless the creditor makes a reasonable and good faith         determination based on verified and documented information that,         at the time the loan is consummated, the consumer has a         reasonable ability to repay the loan, according to its terms,         and all applicable taxes, insurance (including mortgage         guarantee insurance), and assessments.            ``(2) Multiple loans.--If the creditor knows, or has reason         to know, that 1 or more residential mortgage loans secured[[Page 124 STAT. 2143]]        by the same dwelling will be made to the same consumer, the         creditor shall make a reasonable and good faith determination,         based on verified and documented information, that the consumer         has a reasonable ability to repay the combined payments of all         loans on the same dwelling according to the terms of those loans         and all applicable taxes, insurance (including mortgage         guarantee insurance), and assessments.            ``(3) Basis for determination.--A determination under this         subsection of a consumer's ability to repay a residential         mortgage loan shall include consideration of the consumer's         credit history, current income, expected income the consumer is         reasonably assured of receiving, current obligations, debt-to-        income ratio or the residual income the consumer will have after         paying non-mortgage debt and mortgage-related obligations,         employment status, and other financial resources other than the         consumer's equity in the dwelling or real property that secures         repayment of the loan. A creditor shall determine the ability of         the consumer to repay using a payment schedule that fully         amortizes the loan over the term of the loan.            ``(4) Income verification.--A creditor making a residential         mortgage loan shall verify amounts of income or assets that such         creditor relies on to determine repayment ability, including         expected income or assets, by reviewing the consumer's Internal         Revenue Service Form W-2, tax returns, payroll receipts,         financial institution records, or other third-party documents         that provide reasonably reliable evidence of the consumer's         income or assets. In order to safeguard against fraudulent         reporting, any consideration of a consumer's income history in         making a determination under this subsection shall include the         verification of such income by the use of--                    ``(A) Internal Revenue Service transcripts of tax                 returns; or                    ``(B) a method that quickly and effectively verifies                 income documentation by a third party subject to rules                 prescribed by the Board.            ``(5) Exemption.--With respect to loans made, guaranteed, or         insured by Federal departments or agencies identified in         subsection (b)(3)(B)(ii), such departments or agencies may         exempt refinancings under a streamlined refinancing from this         income verification requirement as long as the following         conditions are met:                    ``(A) The consumer is not 30 days or more past due                 on the prior existing residential mortgage loan.                    ``(B) The refinancing does not increase the                 principal balance outstanding on the prior existing                 residential mortgage loan, except to the extent of fees                 and charges allowed by the department or agency making,                 guaranteeing, or insuring the refinancing.                    ``(C) Total points and fees (as defined in section                 103(aa)(4), other than bona fide third party charges not                 retained by the mortgage originator, creditor, or an                 affiliate of the creditor or mortgage originator)                 payable in connection with the refinancing do not exceed                 3 percent of the total new loan amount.                    ``(D) The interest rate on the refinanced loan is                 lower than the interest rate of the original loan,                 unless the borrower is refinancing from an adjustable                 rate to a fixed-[[Page 124 STAT. 2144]]                rate loan, under guidelines that the department or                 agency shall establish for loans they make, guarantee,                 or issue.                    ``(E) The &lt;&lt;NOTE: Regulations.&gt;&gt; refinancing is                 subject to a payment schedule that will fully amortize                 the refinancing in accordance with the regulations                 prescribed by the department or agency making,                 guaranteeing, or insuring the refinancing.                    ``(F) The terms of the refinancing do not result in                 a balloon payment, as defined in subsection                 (b)(2)(A)(ii).                    ``(G) Both the residential mortgage loan being                 refinanced and the refinancing satisfy all requirements                 of the department or agency making, guaranteeing, or                 insuring the refinancing.            ``(6) Nonstandard loans.--                    ``(A) Variable rate loans that defer repayment of                 any principal or interest.--For purposes of determining,                 under this subsection, a consumer's ability to repay a                 variable rate residential mortgage loan that allows or                 requires the consumer to defer the repayment of any                 principal or interest, the creditor shall use a fully                 amortizing repayment schedule.                    ``(B) Interest-only loans.--For purposes of                 determining, under this subsection, a consumer's ability                 to repay a residential mortgage loan that permits or                 requires the payment of interest only, the creditor                 shall use the payment amount required to amortize the                 loan by its final maturity.                    ``(C) Calculation for negative amortization.--In                 making any determination under this subsection, a                 creditor shall also take into consideration any balance                 increase that may accrue from any negative amortization                 provision.                    ``(D) Calculation process.--For purposes of making                 any determination under this subsection, a creditor                 shall calculate the monthly payment amount for principal                 and interest on any residential mortgage loan by                 assuming--                          ``(i) the loan proceeds are fully disbursed on                       the date of the consummation of the loan;                          ``(ii) the loan is to be repaid in                       substantially equal monthly amortizing payments                       for principal and interest over the entire term of                       the loan with no balloon payment, unless the loan                       contract requires more rapid repayment (including                       balloon payment), in which case the calculation                       shall be made (I) in accordance with regulations                       prescribed by the Board, with respect to any loan                       which has an annual percentage rate that does not                       exceed the average prime offer rate for a                       comparable transaction, as of the date the                       interest rate is set, by 1.5 or more percentage                       points for a first lien residential mortgage loan;                       and by 3.5 or more percentage points for a                       subordinate lien residential mortgage loan; or                       (II) using the contract's repayment schedule, with                       respect to a loan which has an annual percentage                       rate, as of the date the interest rate is set,                       that is at least 1.5 percentage points above the                       average prime offer rate for a first lien                       residential mortgage loan; and 3.5 percentage                       points above the average prime offer rate for a                       subordinate lien residential mortgage loan; and[[Page 124 STAT. 2145]]                          ``(iii) the interest rate over the entire term                       of the loan is a fixed rate equal to the fully                       indexed rate at the time of the loan closing,                       without considering the introductory rate.                    ``(E) Refinance of hybrid loans with current                 lender.--In considering any application for refinancing                 an existing hybrid loan by the creditor into a standard                 loan to be made by the same creditor in any case in                 which there would be a reduction in monthly payment and                 the mortgagor has not been delinquent on any payment on                 the existing hybrid loan, the creditor may--                          ``(i) consider the mortgagor's good standing                       on the existing mortgage;                          ``(ii) consider if the extension of new credit                       would prevent a likely default should the original                       mortgage reset and give such concerns a higher                       priority as an acceptable underwriting practice;                       and                          ``(iii) offer rate discounts and other                       favorable terms to such mortgagor that would be                       available to new customers with high credit                       ratings based on such underwriting practice.            ``(7) Fully-indexed rate defined.--For purposes of this         subsection, the term `fully indexed rate' means the index rate         prevailing on a residential mortgage loan at the time the loan         is made plus the margin that will apply after the expiration of         any introductory interest rates.            ``(8) Reverse mortgages and bridge loans.--This subsection         shall not apply with respect to any reverse mortgage or         temporary or bridge loan with a term of 12 months or less,         including to any loan to purchase a new dwelling where the         consumer plans to sell a different dwelling within 12 months.            ``(9) Seasonal income.--If documented income, including         income from a small business, is a repayment source for a         residential mortgage loan, a creditor may consider the         seasonality and irregularity of such income in the underwriting         of and scheduling of payments for such credit.''.    (b) Clerical Amendment.--The table of sections for chapter 2 of the Truth in Lending Act is amended by inserting after the item relating to section 129B (as added by section 1402(b)) the following new item:``129C. Minimum standards for residential mortgage loans.''.
+
+    (a) In General.--
+            (1) Rule &lt;&lt;NOTE: 15 USC 1639c note.&gt;&gt;  of construction.--No 
+        regulation, order, or guidance issued by the Bureau under this 
+        title shall be construed as requiring a depository institution 
+        to apply mortgage underwriting standards that do not meet the 
+        minimum underwriting standards required by the appropriate 
+        prudential regulator of the depository institution.
+            (2) Amendment to truth in lending act.--Chapter 2 of the 
+        Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by 
+        inserting after section 129B (as added by section 1402(a)) the 
+        following new section:
+``Sec. 129C. Minimum &lt;&lt;NOTE: 15 USC 1639c.&gt;&gt;  standards for 
+                  residential mortgage loans
+
+    ``(a) Ability To Repay.--
+            ``(1) In general.--In accordance with regulations prescribed 
+        by the Board, no creditor may make a residential mortgage loan 
+        unless the creditor makes a reasonable and good faith 
+        determination based on verified and documented information that, 
+        at the time the loan is consummated, the consumer has a 
+        reasonable ability to repay the loan, according to its terms, 
+        and all applicable taxes, insurance (including mortgage 
+        guarantee insurance), and assessments.
+            ``(2) Multiple loans.--If the creditor knows, or has reason 
+        to know, that 1 or more residential mortgage loans secured
+
+
+        by the same dwelling will be made to the same consumer, the 
+        creditor shall make a reasonable and good faith determination, 
+        based on verified and documented information, that the consumer 
+        has a reasonable ability to repay the combined payments of all 
+        loans on the same dwelling according to the terms of those loans 
+        and all applicable taxes, insurance (including mortgage 
+        guarantee insurance), and assessments.
+            ``(3) Basis for determination.--A determination under this 
+        subsection of a consumer's ability to repay a residential 
+        mortgage loan shall include consideration of the consumer's 
+        credit history, current income, expected income the consumer is 
+        reasonably assured of receiving, current obligations, debt-to-
+        income ratio or the residual income the consumer will have after 
+        paying non-mortgage debt and mortgage-related obligations, 
+        employment status, and other financial resources other than the 
+        consumer's equity in the dwelling or real property that secures 
+        repayment of the loan. A creditor shall determine the ability of 
+        the consumer to repay using a payment schedule that fully 
+        amortizes the loan over the term of the loan.
+            ``(4) Income verification.--A creditor making a residential 
+        mortgage loan shall verify amounts of income or assets that such 
+        creditor relies on to determine repayment ability, including 
+        expected income or assets, by reviewing the consumer's Internal 
+        Revenue Service Form W-2, tax returns, payroll receipts, 
+        financial institution records, or other third-party documents 
+        that provide reasonably reliable evidence of the consumer's 
+        income or assets. In order to safeguard against fraudulent 
+        reporting, any consideration of a consumer's income history in 
+        making a determination under this subsection shall include the 
+        verification of such income by the use of--
+                    ``(A) Internal Revenue Service transcripts of tax 
+                returns; or
+                    ``(B) a method that quickly and effectively verifies 
+                income documentation by a third party subject to rules 
+                prescribed by the Board.
+            ``(5) Exemption.--With respect to loans made, guaranteed, or 
+        insured by Federal departments or agencies identified in 
+        subsection (b)(3)(B)(ii), such departments or agencies may 
+        exempt refinancings under a streamlined refinancing from this 
+        income verification requirement as long as the following 
+        conditions are met:
+                    ``(A) The consumer is not 30 days or more past due 
+                on the prior existing residential mortgage loan.
+                    ``(B) The refinancing does not increase the 
+                principal balance outstanding on the prior existing 
+                residential mortgage loan, except to the extent of fees 
+                and charges allowed by the department or agency making, 
+                guaranteeing, or insuring the refinancing.
+                    ``(C) Total points and fees (as defined in section 
+                103(aa)(4), other than bona fide third party charges not 
+                retained by the mortgage originator, creditor, or an 
+                affiliate of the creditor or mortgage originator) 
+                payable in connection with the refinancing do not exceed 
+                3 percent of the total new loan amount.
+                    ``(D) The interest rate on the refinanced loan is 
+                lower than the interest rate of the original loan, 
+                unless the borrower is refinancing from an adjustable 
+                rate to a fixed-
+
+
+                rate loan, under guidelines that the department or 
+                agency shall establish for loans they make, guarantee, 
+                or issue.
+                    ``(E) The &lt;&lt;NOTE: Regulations.&gt;&gt; refinancing is 
+                subject to a payment schedule that will fully amortize 
+                the refinancing in accordance with the regulations 
+                prescribed by the department or agency making, 
+                guaranteeing, or insuring the refinancing.
+                    ``(F) The terms of the refinancing do not result in 
+                a balloon payment, as defined in subsection 
+                (b)(2)(A)(ii).
+                    ``(G) Both the residential mortgage loan being 
+                refinanced and the refinancing satisfy all requirements 
+                of the department or agency making, guaranteeing, or 
+                insuring the refinancing.
+            ``(6) Nonstandard loans.--
+                    ``(A) Variable rate loans that defer repayment of 
+                any principal or interest.--For purposes of determining, 
+                under this subsection, a consumer's ability to repay a 
+                variable rate residential mortgage loan that allows or 
+                requires the consumer to defer the repayment of any 
+                principal or interest, the creditor shall use a fully 
+                amortizing repayment schedule.
+                    ``(B) Interest-only loans.--For purposes of 
+                determining, under this subsection, a consumer's ability 
+                to repay a residential mortgage loan that permits or 
+                requires the payment of interest only, the creditor 
+                shall use the payment amount required to amortize the 
+                loan by its final maturity.
+                    ``(C) Calculation for negative amortization.--In 
+                making any determination under this subsection, a 
+                creditor shall also take into consideration any balance 
+                increase that may accrue from any negative amortization 
+                provision.
+                    ``(D) Calculation process.--For purposes of making 
+                any determination under this subsection, a creditor 
+                shall calculate the monthly payment amount for principal 
+                and interest on any residential mortgage loan by 
+                assuming--
+                          ``(i) the loan proceeds are fully disbursed on 
+                      the date of the consummation of the loan;
+                          ``(ii) the loan is to be repaid in 
+                      substantially equal monthly amortizing payments 
+                      for principal and interest over the entire term of 
+                      the loan with no balloon payment, unless the loan 
+                      contract requires more rapid repayment (including 
+                      balloon payment), in which case the calculation 
+                      shall be made (I) in accordance with regulations 
+                      prescribed by the Board, with respect to any loan 
+                      which has an annual percentage rate that does not 
+                      exceed the average prime offer rate for a 
+                      comparable transaction, as of the date the 
+                      interest rate is set, by 1.5 or more percentage 
+                      points for a first lien residential mortgage loan; 
+                      and by 3.5 or more percentage points for a 
+                      subordinate lien residential mortgage loan; or 
+                      (II) using the contract's repayment schedule, with 
+                      respect to a loan which has an annual percentage 
+                      rate, as of the date the interest rate is set, 
+                      that is at least 1.5 percentage points above the 
+                      average prime offer rate for a first lien 
+                      residential mortgage loan; and 3.5 percentage 
+                      points above the average prime offer rate for a 
+                      subordinate lien residential mortgage loan; and
+
+
+                          ``(iii) the interest rate over the entire term 
+                      of the loan is a fixed rate equal to the fully 
+                      indexed rate at the time of the loan closing, 
+                      without considering the introductory rate.
+                    ``(E) Refinance of hybrid loans with current 
+                lender.--In considering any application for refinancing 
+                an existing hybrid loan by the creditor into a standard 
+                loan to be made by the same creditor in any case in 
+                which there would be a reduction in monthly payment and 
+                the mortgagor has not been delinquent on any payment on 
+                the existing hybrid loan, the creditor may--
+                          ``(i) consider the mortgagor's good standing 
+                      on the existing mortgage;
+                          ``(ii) consider if the extension of new credit 
+                      would prevent a likely default should the original 
+                      mortgage reset and give such concerns a higher 
+                      priority as an acceptable underwriting practice; 
+                      and
+                          ``(iii) offer rate discounts and other 
+                      favorable terms to such mortgagor that would be 
+                      available to new customers with high credit 
+                      ratings based on such underwriting practice.
+            ``(7) Fully-indexed rate defined.--For purposes of this 
+        subsection, the term `fully indexed rate' means the index rate 
+        prevailing on a residential mortgage loan at the time the loan 
+        is made plus the margin that will apply after the expiration of 
+        any introductory interest rates.
+            ``(8) Reverse mortgages and bridge loans.--This subsection 
+        shall not apply with respect to any reverse mortgage or 
+        temporary or bridge loan with a term of 12 months or less, 
+        including to any loan to purchase a new dwelling where the 
+        consumer plans to sell a different dwelling within 12 months.
+            ``(9) Seasonal income.--If documented income, including 
+        income from a small business, is a repayment source for a 
+        residential mortgage loan, a creditor may consider the 
+        seasonality and irregularity of such income in the underwriting 
+        of and scheduling of payments for such credit.''.
+
+    (b) Clerical Amendment.--The table of sections for chapter 2 of the 
+Truth in Lending Act is amended by inserting after the item relating to 
+section 129B (as added by section 1402(b)) the following new item:
+
+``129C. Minimum standards for residential mortgage loans.''.
+

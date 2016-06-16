@@ -1,1 +1,3 @@
-    Section 7(c)(1)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 78g(c)(1)(A)) is amended by striking ``; and'' and inserting ``; or''.
+
+    Section 7(c)(1)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78g(c)(1)(A)) is amended by striking ``; and'' and inserting ``; or''.

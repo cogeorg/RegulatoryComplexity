@@ -1,1 +1,18 @@
-                        ADVISERS.    Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3) is amended by adding at the end the following:    ``(l) Exemption of Venture Capital Fund Advisers.--No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this title with respect to the provision of investment advice relating to a venture &lt;&lt;NOTE: Regulations.&gt;&gt; capital fund. Not later than 1 year after the date of enactment of this subsection, the Commission[[Page 124 STAT. 1575]]shall issue final rules to define the term `venture capital fund' for purposes of this subsection. The &lt;&lt;NOTE: Records.&gt;&gt; Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.''.
+                        ADVISERS.
+
+    Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3) 
+is amended by adding at the end the following:
+    ``(l) Exemption of Venture Capital Fund Advisers.--No investment 
+adviser that acts as an investment adviser solely to 1 or more venture 
+capital funds shall be subject to the registration requirements of this 
+title with respect to the provision of investment advice relating to a 
+venture &lt;&lt;NOTE: Regulations.&gt;&gt; capital fund. Not later than 1 year after 
+the date of enactment of this subsection, the Commission
+
+
+shall issue final rules to define the term `venture capital fund' for 
+purposes of this subsection. The &lt;&lt;NOTE: Records.&gt;&gt; Commission shall 
+require such advisers to maintain such records and provide to the 
+Commission such annual or other reports as the Commission determines 
+necessary or appropriate in the public interest or for the protection of 
+investors.''.

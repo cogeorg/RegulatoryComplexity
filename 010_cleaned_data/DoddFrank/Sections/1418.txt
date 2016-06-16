@@ -1,1 +1,9 @@
-    Section 130 of the Truth in Lending Act (15 U.S.C. 1640) is amended by adding after subsection (k) (as added by this title) the following new subsection:    ``(l) Exemption From Liability and Rescission in Case of Borrower Fraud or Deception.--In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.''.
+
+    Section 130 of the Truth in Lending Act (15 U.S.C. 1640) is amended 
+by adding after subsection (k) (as added by this title) the following 
+new subsection:
+    ``(l) Exemption From Liability and Rescission in Case of Borrower 
+Fraud or Deception.--In addition to any other remedy available by law or 
+contract, no creditor or assignee shall be liable to an obligor under 
+this section, if such obligor, or co-obligor has been convicted of 
+obtaining by actual fraud such residential mortgage loan.''.

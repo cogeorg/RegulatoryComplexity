@@ -1,1 +1,12 @@
-                          ENTITIES.    Section 8G(e) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended--            (1) by redesignating the sentences following ``(e)'' as         paragraph (2); and            (2) by striking ``(e)'' and inserting the following:    ``(e)(1) In the case of a designated Federal entity for which a board or commission is the head of the designated Federal entity, a removal under this subsection may only be made upon the written concurrence of a \2/3\ majority of the board or commission.''.
+                          ENTITIES.
+
+    Section 8G(e) of the Inspector General Act of 1978 (5 U.S.C. App.) 
+is amended--
+            (1) by redesignating the sentences following ``(e)'' as 
+        paragraph (2); and
+            (2) by striking ``(e)'' and inserting the following:
+
+    ``(e)(1) In the case of a designated Federal entity for which a 
+board or commission is the head of the designated Federal entity, a 
+removal under this subsection may only be made upon the written 
+concurrence of a \2/3\ majority of the board or commission.''.

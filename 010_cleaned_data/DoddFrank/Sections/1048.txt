@@ -1,1 +1,39 @@
-                          ASSOCIATIONS.    (a) National Banks.--Section 5136C of the Revised Statutes of the United States &lt;&lt;NOTE: 12 USC 25b.&gt;&gt;  (as added by this subtitle) is amended by adding at the end the following:    ``(i) Visitorial Powers.--            ``(1) In general.--In accordance with the decision of the         Supreme Court of the United States in Cuomo v. Clearing House         Assn., L. L. C. (129 S. Ct. 2710 (2009)), no provision of this         title which relates to visitorial powers or otherwise limits or         restricts the visitorial authority to which any national bank is         subject shall be construed as limiting or restricting the         authority of any attorney general (or other chief law         enforcement officer) of any State to bring an action against a         national bank in a court of appropriate jurisdiction to enforce         an applicable law and to seek relief as authorized by such law.    ``(j) Enforcement Actions.--The ability of the Comptroller of the Currency to bring an enforcement action under this title or section 5 of the Federal Trade Commission Act does not preclude any private party from enforcing rights granted under Federal or State law in the courts.''.    (b) Savings Associations.--Section 6 of the Home Owners' Loan Act &lt;&lt;NOTE: 12 USC 1465.&gt;&gt;  (as added by this title) is amended by adding at the end the following:    ``(c) Visitorial Powers.--The provisions &lt;&lt;NOTE: Applicability.&gt;&gt;  of sections 5136C(i) of the Revised Statutes of the United States shall apply to Federal savings associations, and any subsidiary thereof, to the same extent and in the same manner as if such savings associations, or subsidiaries thereof, were national banks or subsidiaries of national banks, respectively.''    ``(d) Enforcement Actions.--The ability of the Comptroller of the Currency to bring an enforcement action under this Act or section 5 of the Federal Trade Commission Act does not preclude any private party from enforcing rights granted under Federal or State law in the courts.''.
+                          ASSOCIATIONS.
+
+    (a) National Banks.--Section 5136C of the Revised Statutes of the 
+United States &lt;&lt;NOTE: 12 USC 25b.&gt;&gt;  (as added by this subtitle) is 
+amended by adding at the end the following:
+
+    ``(i) Visitorial Powers.--
+            ``(1) In general.--In accordance with the decision of the 
+        Supreme Court of the United States in Cuomo v. Clearing House 
+        Assn., L. L. C. (129 S. Ct. 2710 (2009)), no provision of this 
+        title which relates to visitorial powers or otherwise limits or 
+        restricts the visitorial authority to which any national bank is 
+        subject shall be construed as limiting or restricting the 
+        authority of any attorney general (or other chief law 
+        enforcement officer) of any State to bring an action against a 
+        national bank in a court of appropriate jurisdiction to enforce 
+        an applicable law and to seek relief as authorized by such law.
+
+    ``(j) Enforcement Actions.--The ability of the Comptroller of the 
+Currency to bring an enforcement action under this title or section 5 of 
+the Federal Trade Commission Act does not preclude any private party 
+from enforcing rights granted under Federal or State law in the 
+courts.''.
+    (b) Savings Associations.--Section 6 of the Home Owners' Loan 
+Act &lt;&lt;NOTE: 12 USC 1465.&gt;&gt;  (as added by this title) is amended by 
+adding at the end the following:
+
+    ``(c) Visitorial Powers.--The provisions &lt;&lt;NOTE: Applicability.&gt;&gt;  
+of sections 5136C(i) of the Revised Statutes of the United States shall 
+apply to Federal savings associations, and any subsidiary thereof, to 
+the same extent and in the same manner as if such savings associations, 
+or subsidiaries thereof, were national banks or subsidiaries of national 
+banks, respectively.''
+
+    ``(d) Enforcement Actions.--The ability of the Comptroller of the 
+Currency to bring an enforcement action under this Act or section 5 of 
+the Federal Trade Commission Act does not preclude any private party 
+from enforcing rights granted under Federal or State law in the 
+courts.''.

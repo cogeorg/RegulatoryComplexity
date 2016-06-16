@@ -1,1 +1,219 @@
-                        WITH AFFILIATES.    (a) Affiliate Transactions.--Section 23A of the Federal Reserve Act (12 U.S.C. 371c) is amended--            (1) in subsection (b)--                    (A) in paragraph (1), by striking subparagraph (D)                 and inserting the following:                    ``(D) any investment fund with respect to which a                 member bank or affiliate thereof is an investment                 adviser; and''; and                    (B) in paragraph (7)--                          (i) in subparagraph (A), by inserting before                       the semicolon at the end the following: ``,                       including a purchase of assets subject to an                       agreement to repurchase'';                          (ii) in subparagraph (C), by striking ``,                       including assets subject to an agreement to                       repurchase,'';                          (iii) in subparagraph (D)--                                    (I) by inserting ``or other debt                                 obligations'' after ``acceptance of                                 securities''; and                                    (II) by striking ``or'' at the end;                                 and                          (iv) by adding at the end the following:                    ``(F) a transaction with an affiliate that involves                 the borrowing or lending of securities, to the extent                 that the transaction causes a member bank or a                 subsidiary to have credit exposure to the affiliate; or                    ``(G) a derivative transaction, as defined in                 paragraph (3) of section 5200(b) of the Revised Statutes                 of the United States (12 U.S.C. 84(b)), with an                 affiliate, to the extent that the transaction causes a                 member bank or a subsidiary to have credit exposure to                 the affiliate;'';            (2) in subsection (c)--                    (A) in paragraph (1)--                          (i) in the matter preceding subparagraph (A),                       by striking ``subsidiary'' and all that follows                       through ``time of the transaction'' and inserting                       ``subsidiary, and any credit exposure of a member                       bank or a subsidiary to an affiliate resulting                       from a securities borrowing or lending                       transaction, or a derivative transaction, shall be                       secured at all times''; and                          (ii) in each of subparagraphs (A) through (D),                       by striking ``or letter of credit'' and inserting                       ``letter of credit, or credit exposure'';                    (B) by striking paragraph (2);                    (C) by redesignating paragraphs (3) through (5) as                 paragraphs (2) through (4), respectively;                    (D) in paragraph (2), as so redesignated, by                 inserting before the period at the end ``, or credit                 exposure to an affiliate resulting from a securities                 borrowing or lending transaction, or derivative                 transaction''; and[[Page 124 STAT. 1609]]                    (E) in paragraph (3), as so redesignated--                          (i) by inserting ``or other debt obligations''                       after ``securities''; and                          (ii) by striking ``or guarantee'' and all that                       follows through ``behalf of,'' and inserting                       ``guarantee, acceptance, or letter of credit                       issued on behalf of, or credit exposure from a                       securities borrowing or lending transaction, or                       derivative transaction to,'';            (3) in subsection (d)(4), in the matter preceding         subparagraph (A), by striking ``or issuing'' and all that         follows through ``behalf of,'' and inserting ``issuing a         guarantee, acceptance, or letter of credit on behalf of, or         having credit exposure resulting from a securities borrowing or         lending transaction, or derivative transaction to,''; and            (4) in subsection (f)--                    (A) in paragraph (2)--                          (i) by striking ``or order'';                          (ii) by striking ``if it finds'' and all that                       follows through the end of the paragraph and                       inserting the following: ``if--                          ``(i) &lt;&lt;NOTE: Notification.&gt;&gt;  the Board finds                       the exemption to be in the public interest and                       consistent with the purposes of this section, and                       notifies the Federal Deposit Insurance Corporation                       of such finding; and                          ``(ii) &lt;&lt;NOTE: Time period. Notice.&gt;&gt;  before                       the end of the 60-day period beginning on the date                       on which the Federal Deposit Insurance Corporation                       receives notice of the finding under clause (i),                       the Federal Deposit Insurance Corporation does not                       object, in writing, to the finding, based on a                       determination that the exemption presents an                       unacceptable risk to the Deposit Insurance                       Fund.'';                          (iii) by striking the Board and inserting the                       following:                    ``(A) In general.--The Board''; and                          (iv) by adding at the end the following:                    ``(B) Additional exemptions.--                          ``(i) National banks.--The Comptroller of the                       Currency may, by order, exempt a transaction of a                       national bank from the requirements of this                       section if--                                    ``(I) &lt;&lt;NOTE: Notification.&gt;&gt; the                                 Board and the Office of the Comptroller                                 of the Currency jointly find the                                 exemption to be in the public interest                                 and consistent with the purposes of this                                 section and notify the Federal Deposit                                 Insurance Corporation of such finding;                                 and                                    ``(II) &lt;&lt;NOTE: Time                                 period. Notice.&gt;&gt;  before the end of the                                 60-day period beginning on the date on                                 which the Federal Deposit Insurance                                 Corporation receives notice of the                                 finding under subclause (I), the Federal                                 Deposit Insurance Corporation does not                                 object, in writing, to the finding,                                 based on a determination that the                                 exemption presents an unacceptable risk                                 to the Deposit Insurance Fund.                          ``(ii) State banks.--The Federal Deposit                       Insurance Corporation may, by order, exempt a                       transaction of a State nonmember bank, and the                       Board may, by order, exempt a transaction of a                       State member bank, from the requirements of this                       section if--[[Page 124 STAT. 1610]]                                    ``(I) the Board and the Federal                                 Deposit Insurance Corporation jointly                                 find that the exemption is in the public                                 interest and consistent with the                                 purposes of this section; and                                    ``(II) the Federal Deposit Insurance                                 Corporation finds that the exemption                                 does not present an unacceptable risk to                                 the Deposit Insurance Fund.''; and                    (B) by adding at the end the following:            ``(4) Amounts of covered transactions.--The Board may issue         such regulations or interpretations as the Board determines are         necessary or appropriate with respect to the manner in which a         netting agreement may be taken into account in determining the         amount of a covered transaction between a member bank or a         subsidiary and an affiliate, including the extent to which         netting agreements between a member bank or a subsidiary and an         affiliate may be taken into account in determining whether a         covered transaction is fully secured for purposes of subsection         (d)(4). An interpretation under this paragraph with respect to a         specific member bank, subsidiary, or affiliate shall be issued         jointly with the appropriate Federal banking agency for such         member bank, subsidiary, or affiliate.''.    (b) Transactions With Affiliates.--Section 23B(e) of the Federal Reserve Act (12 U.S.C. 371c-1(e)) is amended--            (1) by striking the undesignated matter following         subparagraph (B);            (2) by redesignating subparagraphs (A) and (B) as clauses         (i) and (ii), respectively, and adjusting the clause margins         accordingly;            (3) by redesignating paragraphs (1) and (2) as subparagraphs         (A) and (B), respectively, and adjusting the subparagraph         margins accordingly;            (4) by striking ``The Board'' and inserting the following:            ``(1) In general.--The Board'';            (5) in paragraph (1)(B), as so redesignated--                    (A) in the matter preceding clause (i), by inserting                 before ``regulations'' the following: ``subject to                 paragraph (2), &lt;&lt;NOTE: Notification.&gt;&gt;  if the Board                 finds that an exemption or exclusion is in the public                 interest and is consistent with the purposes of this                 section, and notifies the Federal Deposit Insurance                 Corporation of such finding,''; and                    (B) in clause (ii), by striking the comma at the end                 and inserting a period; and            (6) by adding at the end the following:            ``(2) Exception.-- &lt;&lt;NOTE: Time period. Notice.&gt;&gt; The Board         may grant an exemption or exclusion under this subsection only         if, during the 60-day period beginning on the date of receipt of         notice of the finding from the Board under paragraph (1)(B), the         Federal Deposit Insurance Corporation does not object, in         writing, to such exemption or exclusion, based on a         determination that the exemption presents an unacceptable risk         to the Deposit Insurance Fund.''.    (c) Home Owners' Loan Act.--Section 11 of the Home Owners' Loan Act (12 U.S.C. 1468) is amended by adding at the end the following:    ``(d) Exemptions.--[[Page 124 STAT. 1611]]            ``(1) Federal savings associations.--The Comptroller of the         Currency may, by order, exempt a transaction of a Federal         savings association from the requirements of this section if--                    ``(A) &lt;&lt;NOTE: Notification.&gt;&gt; the Board and the                 Office of the Comptroller of the Currency jointly find                 the exemption to be in the public interest and                 consistent with the purposes of this section and notify                 the Federal Deposit Insurance Corporation of such                 finding; and                    ``(B) &lt;&lt;NOTE: Time period. Notice.&gt;&gt;  before the end                 of the 60-day period beginning on the date on which the                 Federal Deposit Insurance Corporation receives notice of                 the finding under subparagraph (A), the Federal Deposit                 Insurance Corporation does not object, in writing, to                 the finding, based on a determination that the exemption                 presents an unacceptable risk to the Deposit Insurance                 Fund.            ``(2) State savings association.--The Federal Deposit         Insurance Corporation may, by order, exempt a transaction of a         State savings association from the requirements of this section         if the Board and the Federal Deposit Insurance Corporation         jointly find that--                    ``(A) the exemption is in the public interest and                 consistent with the purposes of this section; and                    ``(B) the exemption does not present an unacceptable                 risk to the Deposit Insurance Fund.''.    (d) &lt;&lt;NOTE: 12 USC 371c note.&gt;&gt;  Effective Date.--The amendments made by this section shall take effect 1 year after the transfer date.
+                        WITH AFFILIATES.
+
+    (a) Affiliate Transactions.--Section 23A of the Federal Reserve Act 
+(12 U.S.C. 371c) is amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (1), by striking subparagraph (D) 
+                and inserting the following:
+                    ``(D) any investment fund with respect to which a 
+                member bank or affiliate thereof is an investment 
+                adviser; and''; and
+                    (B) in paragraph (7)--
+                          (i) in subparagraph (A), by inserting before 
+                      the semicolon at the end the following: ``, 
+                      including a purchase of assets subject to an 
+                      agreement to repurchase'';
+                          (ii) in subparagraph (C), by striking ``, 
+                      including assets subject to an agreement to 
+                      repurchase,'';
+                          (iii) in subparagraph (D)--
+                                    (I) by inserting ``or other debt 
+                                obligations'' after ``acceptance of 
+                                securities''; and
+                                    (II) by striking ``or'' at the end; 
+                                and
+                          (iv) by adding at the end the following:
+                    ``(F) a transaction with an affiliate that involves 
+                the borrowing or lending of securities, to the extent 
+                that the transaction causes a member bank or a 
+                subsidiary to have credit exposure to the affiliate; or
+                    ``(G) a derivative transaction, as defined in 
+                paragraph (3) of section 5200(b) of the Revised Statutes 
+                of the United States (12 U.S.C. 84(b)), with an 
+                affiliate, to the extent that the transaction causes a 
+                member bank or a subsidiary to have credit exposure to 
+                the affiliate;'';
+            (2) in subsection (c)--
+                    (A) in paragraph (1)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by striking ``subsidiary'' and all that follows 
+                      through ``time of the transaction'' and inserting 
+                      ``subsidiary, and any credit exposure of a member 
+                      bank or a subsidiary to an affiliate resulting 
+                      from a securities borrowing or lending 
+                      transaction, or a derivative transaction, shall be 
+                      secured at all times''; and
+                          (ii) in each of subparagraphs (A) through (D), 
+                      by striking ``or letter of credit'' and inserting 
+                      ``letter of credit, or credit exposure'';
+                    (B) by striking paragraph (2);
+                    (C) by redesignating paragraphs (3) through (5) as 
+                paragraphs (2) through (4), respectively;
+                    (D) in paragraph (2), as so redesignated, by 
+                inserting before the period at the end ``, or credit 
+                exposure to an affiliate resulting from a securities 
+                borrowing or lending transaction, or derivative 
+                transaction''; and
+
+
+                    (E) in paragraph (3), as so redesignated--
+                          (i) by inserting ``or other debt obligations'' 
+                      after ``securities''; and
+                          (ii) by striking ``or guarantee'' and all that 
+                      follows through ``behalf of,'' and inserting 
+                      ``guarantee, acceptance, or letter of credit 
+                      issued on behalf of, or credit exposure from a 
+                      securities borrowing or lending transaction, or 
+                      derivative transaction to,'';
+            (3) in subsection (d)(4), in the matter preceding 
+        subparagraph (A), by striking ``or issuing'' and all that 
+        follows through ``behalf of,'' and inserting ``issuing a 
+        guarantee, acceptance, or letter of credit on behalf of, or 
+        having credit exposure resulting from a securities borrowing or 
+        lending transaction, or derivative transaction to,''; and
+            (4) in subsection (f)--
+                    (A) in paragraph (2)--
+                          (i) by striking ``or order'';
+                          (ii) by striking ``if it finds'' and all that 
+                      follows through the end of the paragraph and 
+                      inserting the following: ``if--
+                          ``(i) &lt;&lt;NOTE: Notification.&gt;&gt;  the Board finds 
+                      the exemption to be in the public interest and 
+                      consistent with the purposes of this section, and 
+                      notifies the Federal Deposit Insurance Corporation 
+                      of such finding; and
+                          ``(ii) &lt;&lt;NOTE: Time period. Notice.&gt;&gt;  before 
+                      the end of the 60-day period beginning on the date 
+                      on which the Federal Deposit Insurance Corporation 
+                      receives notice of the finding under clause (i), 
+                      the Federal Deposit Insurance Corporation does not 
+                      object, in writing, to the finding, based on a 
+                      determination that the exemption presents an 
+                      unacceptable risk to the Deposit Insurance 
+                      Fund.'';
+                          (iii) by striking the Board and inserting the 
+                      following:
+                    ``(A) In general.--The Board''; and
+                          (iv) by adding at the end the following:
+                    ``(B) Additional exemptions.--
+                          ``(i) National banks.--The Comptroller of the 
+                      Currency may, by order, exempt a transaction of a 
+                      national bank from the requirements of this 
+                      section if--
+                                    ``(I) &lt;&lt;NOTE: Notification.&gt;&gt; the 
+                                Board and the Office of the Comptroller 
+                                of the Currency jointly find the 
+                                exemption to be in the public interest 
+                                and consistent with the purposes of this 
+                                section and notify the Federal Deposit 
+                                Insurance Corporation of such finding; 
+                                and
+                                    ``(II) &lt;&lt;NOTE: Time 
+                                period. Notice.&gt;&gt;  before the end of the 
+                                60-day period beginning on the date on 
+                                which the Federal Deposit Insurance 
+                                Corporation receives notice of the 
+                                finding under subclause (I), the Federal 
+                                Deposit Insurance Corporation does not 
+                                object, in writing, to the finding, 
+                                based on a determination that the 
+                                exemption presents an unacceptable risk 
+                                to the Deposit Insurance Fund.
+                          ``(ii) State banks.--The Federal Deposit 
+                      Insurance Corporation may, by order, exempt a 
+                      transaction of a State nonmember bank, and the 
+                      Board may, by order, exempt a transaction of a 
+                      State member bank, from the requirements of this 
+                      section if--
+
+
+                                    ``(I) the Board and the Federal 
+                                Deposit Insurance Corporation jointly 
+                                find that the exemption is in the public 
+                                interest and consistent with the 
+                                purposes of this section; and
+                                    ``(II) the Federal Deposit Insurance 
+                                Corporation finds that the exemption 
+                                does not present an unacceptable risk to 
+                                the Deposit Insurance Fund.''; and
+                    (B) by adding at the end the following:
+            ``(4) Amounts of covered transactions.--The Board may issue 
+        such regulations or interpretations as the Board determines are 
+        necessary or appropriate with respect to the manner in which a 
+        netting agreement may be taken into account in determining the 
+        amount of a covered transaction between a member bank or a 
+        subsidiary and an affiliate, including the extent to which 
+        netting agreements between a member bank or a subsidiary and an 
+        affiliate may be taken into account in determining whether a 
+        covered transaction is fully secured for purposes of subsection 
+        (d)(4). An interpretation under this paragraph with respect to a 
+        specific member bank, subsidiary, or affiliate shall be issued 
+        jointly with the appropriate Federal banking agency for such 
+        member bank, subsidiary, or affiliate.''.
+
+    (b) Transactions With Affiliates.--Section 23B(e) of the Federal 
+Reserve Act (12 U.S.C. 371c-1(e)) is amended--
+            (1) by striking the undesignated matter following 
+        subparagraph (B);
+            (2) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively, and adjusting the clause margins 
+        accordingly;
+            (3) by redesignating paragraphs (1) and (2) as subparagraphs 
+        (A) and (B), respectively, and adjusting the subparagraph 
+        margins accordingly;
+            (4) by striking ``The Board'' and inserting the following:
+            ``(1) In general.--The Board'';
+            (5) in paragraph (1)(B), as so redesignated--
+                    (A) in the matter preceding clause (i), by inserting 
+                before ``regulations'' the following: ``subject to 
+                paragraph (2), &lt;&lt;NOTE: Notification.&gt;&gt;  if the Board 
+                finds that an exemption or exclusion is in the public 
+                interest and is consistent with the purposes of this 
+                section, and notifies the Federal Deposit Insurance 
+                Corporation of such finding,''; and
+                    (B) in clause (ii), by striking the comma at the end 
+                and inserting a period; and
+            (6) by adding at the end the following:
+            ``(2) Exception.-- &lt;&lt;NOTE: Time period. Notice.&gt;&gt; The Board 
+        may grant an exemption or exclusion under this subsection only 
+        if, during the 60-day period beginning on the date of receipt of 
+        notice of the finding from the Board under paragraph (1)(B), the 
+        Federal Deposit Insurance Corporation does not object, in 
+        writing, to such exemption or exclusion, based on a 
+        determination that the exemption presents an unacceptable risk 
+        to the Deposit Insurance Fund.''.
+
+    (c) Home Owners' Loan Act.--Section 11 of the Home Owners' Loan Act 
+(12 U.S.C. 1468) is amended by adding at the end the following:
+    ``(d) Exemptions.--
+
+
+            ``(1) Federal savings associations.--The Comptroller of the 
+        Currency may, by order, exempt a transaction of a Federal 
+        savings association from the requirements of this section if--
+                    ``(A) &lt;&lt;NOTE: Notification.&gt;&gt; the Board and the 
+                Office of the Comptroller of the Currency jointly find 
+                the exemption to be in the public interest and 
+                consistent with the purposes of this section and notify 
+                the Federal Deposit Insurance Corporation of such 
+                finding; and
+                    ``(B) &lt;&lt;NOTE: Time period. Notice.&gt;&gt;  before the end 
+                of the 60-day period beginning on the date on which the 
+                Federal Deposit Insurance Corporation receives notice of 
+                the finding under subparagraph (A), the Federal Deposit 
+                Insurance Corporation does not object, in writing, to 
+                the finding, based on a determination that the exemption 
+                presents an unacceptable risk to the Deposit Insurance 
+                Fund.
+            ``(2) State savings association.--The Federal Deposit 
+        Insurance Corporation may, by order, exempt a transaction of a 
+        State savings association from the requirements of this section 
+        if the Board and the Federal Deposit Insurance Corporation 
+        jointly find that--
+                    ``(A) the exemption is in the public interest and 
+                consistent with the purposes of this section; and
+                    ``(B) the exemption does not present an unacceptable 
+                risk to the Deposit Insurance Fund.''.
+
+    (d) &lt;&lt;NOTE: 12 USC 371c note.&gt;&gt;  Effective Date.--The amendments 
+made by this section shall take effect 1 year after the transfer date.

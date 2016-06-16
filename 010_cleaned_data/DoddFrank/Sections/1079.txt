@@ -1,1 +1,12 @@
-    (a) Study.--The Bureau shall conduct a study on the nature, range, and size of variations between the credit scores sold to creditors and those sold to consumers by consumer reporting agencies that compile and maintain files on consumers on a nationwide basis (as defined in section 603(p) of the Fair Credit Reporting Act; 15 U.S.C. 1681a(p)), and whether such variations disadvantage consumers.    (b) Report to Congress.--The Bureau shall submit a report to Congress on the results of the study conducted under subsection (a) not later than 1 year after the date of enactment of this Act.[[Page 124 STAT. 2077]]
+
+    (a) Study.--The Bureau shall conduct a study on the nature, range, 
+and size of variations between the credit scores sold to creditors and 
+those sold to consumers by consumer reporting agencies that compile and 
+maintain files on consumers on a nationwide basis (as defined in section 
+603(p) of the Fair Credit Reporting Act; 15 U.S.C. 1681a(p)), and 
+whether such variations disadvantage consumers.
+    (b) Report to Congress.--The Bureau shall submit a report to 
+Congress on the results of the study conducted under subsection (a) not 
+later than 1 year after the date of enactment of this Act.
+
+

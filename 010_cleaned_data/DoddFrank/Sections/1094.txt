@@ -1,1 +1,104 @@
-    Title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.) is amended--            (1) in section 501(b) (15 U.S.C. 6801(b)), by inserting ``,         other than the Bureau of Consumer Financial Protection,'' after         ``505(a)'';            (2) in section 502(e)(5) (15 U.S.C. 6802(e)(5)), by         inserting ``the Bureau of Consumer Financial Protection'' after         ``(including'';            (3) in section 504(a) (15 U.S.C. 6804(a))--                    (A) by striking paragraphs (1) and (2) and inserting                 the following:            ``(1) Rulemaking.--                    ``(A) In general.--Except as provided in                 subparagraph (C), the Bureau of Consumer Financial                 Protection and the Securities and Exchange Commission                 shall have authority to prescribe such regulations as                 may be necessary to carry out the purposes of this                 subtitle with respect to financial institutions and                 other persons subject to their respective jurisdiction                 under section 505 (and notwithstanding subtitle B of the                 Consumer Financial Protection Act of 2010), except that                 the Bureau of Consumer Financial Protection shall not                 have authority to prescribe regulations with respect to                 the standards under section 501.                    ``(B) CFTC.--The Commodity Futures Trading                 Commission shall have authority to prescribe such                 regulations as may be necessary to carry out the                 purposes of[[Page 124 STAT. 2096]]                this subtitle with respect to financial institutions and                 other persons subject to the jurisdiction of the                 Commodity Futures Trading Commission under section 5g of                 the Commodity Exchange Act.                    ``(C) Federal trade commission authority.--                Notwithstanding the authority of the Bureau of Consumer                 Financial Protection under subparagraph (A), the Federal                 Trade Commission shall have authority to prescribe such                 regulations as may be necessary to carry out the                 purposes of this subtitle with respect to any financial                 institution that is a person described in section                 1029(a) of the Consumer Financial Protection Act of                 2010.                    ``(D) Rule of construction.--Nothing in this                 paragraph shall be construed to alter, affect, or                 otherwise limit the authority of a State insurance                 authority to adopt regulations to carry out this                 subtitle.            ``(2) Coordination, consistency, and comparability.--        Each &lt;&lt;NOTE: Consultation.&gt;&gt; of the agencies authorized under         paragraph (1) to prescribe regulations shall consult and         coordinate with the other such agencies and, as appropriate, and         with representatives of State insurance authorities designated         by the National Association of Insurance Commissioners, for the         purpose of assuring, to the extent possible, that the         regulations prescribed by each such agency are consistent and         comparable with the regulations prescribed by the other such         agencies.''; and                    (B) in &lt;&lt;NOTE: Deadline.&gt;&gt;  paragraph (3), by                 striking ``, and shall be issued in final form not later                 than 6 months after the date of enactment of this Act'';            (4) in section 505(a) (15 U.S.C. 6805(a))--                    (A) by striking ``This subtitle'' and all that                 follows through ``as follows:'' and inserting ``Subject                 to subtitle B of the Consumer Financial Protection Act                 of 2010, this subtitle and the regulations prescribed                 thereunder shall be enforced by the Bureau of Consumer                 Financial Protection, the Federal functional regulators,                 the State insurance authorities, and the Federal Trade                 Commission with respect to financial institutions and                 other persons subject to their jurisdiction under                 applicable law, as follows:'';                    (B) in paragraph (1)--                          (i) in the matter preceding subparagraph (A),                       by inserting ``by the appropriate Federal banking                       agency, as defined in section 3(q) of the Federal                       Deposit Insurance Act,'' after ``Act,'';                          (ii) in subparagraph (A), by striking ``, by                       the Office of the Comptroller of the Currency'';                          (iii) in subparagraph (B), by striking ``, by                       the Board of Governors of the Federal Reserve                       System'';                          (iv) in subparagraph (C), by striking ``, by                       the Board of Directors of the Federal Deposit                       Insurance Corporation''; and                          (v) in subparagraph (D), by striking ``, by                       the Director of the Office of Thrift                       Supervision''; and                    (C) by adding at the end the following:            ``(8) Under subtitle E of the Consumer Financial Protection         Act of 2010, by the Bureau of Consumer Financial Protection, in         the case of any financial institution and other covered person         or service provider that is subject to the jurisdiction of the[[Page 124 STAT. 2097]]        Bureau and any person subject to this subtitle, but not with         respect to the standards under section 501.'';            (5) in section 505(b)(1) (15 U.S.C. 6805(b)(1)), by         inserting ``, other than the Bureau of Consumer Financial         Protection,'' after ``subsection (a)''; and            (6) in section 507(b) (15 U.S.C. 6807), by striking         ``Federal Trade Commission'' and inserting ``Bureau of Consumer         Financial Protection''.
+
+    Title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.) is 
+amended--
+            (1) in section 501(b) (15 U.S.C. 6801(b)), by inserting ``, 
+        other than the Bureau of Consumer Financial Protection,'' after 
+        ``505(a)'';
+            (2) in section 502(e)(5) (15 U.S.C. 6802(e)(5)), by 
+        inserting ``the Bureau of Consumer Financial Protection'' after 
+        ``(including'';
+            (3) in section 504(a) (15 U.S.C. 6804(a))--
+                    (A) by striking paragraphs (1) and (2) and inserting 
+                the following:
+            ``(1) Rulemaking.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (C), the Bureau of Consumer Financial 
+                Protection and the Securities and Exchange Commission 
+                shall have authority to prescribe such regulations as 
+                may be necessary to carry out the purposes of this 
+                subtitle with respect to financial institutions and 
+                other persons subject to their respective jurisdiction 
+                under section 505 (and notwithstanding subtitle B of the 
+                Consumer Financial Protection Act of 2010), except that 
+                the Bureau of Consumer Financial Protection shall not 
+                have authority to prescribe regulations with respect to 
+                the standards under section 501.
+                    ``(B) CFTC.--The Commodity Futures Trading 
+                Commission shall have authority to prescribe such 
+                regulations as may be necessary to carry out the 
+                purposes of
+
+
+                this subtitle with respect to financial institutions and 
+                other persons subject to the jurisdiction of the 
+                Commodity Futures Trading Commission under section 5g of 
+                the Commodity Exchange Act.
+                    ``(C) Federal trade commission authority.--
+                Notwithstanding the authority of the Bureau of Consumer 
+                Financial Protection under subparagraph (A), the Federal 
+                Trade Commission shall have authority to prescribe such 
+                regulations as may be necessary to carry out the 
+                purposes of this subtitle with respect to any financial 
+                institution that is a person described in section 
+                1029(a) of the Consumer Financial Protection Act of 
+                2010.
+                    ``(D) Rule of construction.--Nothing in this 
+                paragraph shall be construed to alter, affect, or 
+                otherwise limit the authority of a State insurance 
+                authority to adopt regulations to carry out this 
+                subtitle.
+            ``(2) Coordination, consistency, and comparability.--
+        Each &lt;&lt;NOTE: Consultation.&gt;&gt; of the agencies authorized under 
+        paragraph (1) to prescribe regulations shall consult and 
+        coordinate with the other such agencies and, as appropriate, and 
+        with representatives of State insurance authorities designated 
+        by the National Association of Insurance Commissioners, for the 
+        purpose of assuring, to the extent possible, that the 
+        regulations prescribed by each such agency are consistent and 
+        comparable with the regulations prescribed by the other such 
+        agencies.''; and
+                    (B) in &lt;&lt;NOTE: Deadline.&gt;&gt;  paragraph (3), by 
+                striking ``, and shall be issued in final form not later 
+                than 6 months after the date of enactment of this Act'';
+            (4) in section 505(a) (15 U.S.C. 6805(a))--
+                    (A) by striking ``This subtitle'' and all that 
+                follows through ``as follows:'' and inserting ``Subject 
+                to subtitle B of the Consumer Financial Protection Act 
+                of 2010, this subtitle and the regulations prescribed 
+                thereunder shall be enforced by the Bureau of Consumer 
+                Financial Protection, the Federal functional regulators, 
+                the State insurance authorities, and the Federal Trade 
+                Commission with respect to financial institutions and 
+                other persons subject to their jurisdiction under 
+                applicable law, as follows:'';
+                    (B) in paragraph (1)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by inserting ``by the appropriate Federal banking 
+                      agency, as defined in section 3(q) of the Federal 
+                      Deposit Insurance Act,'' after ``Act,'';
+                          (ii) in subparagraph (A), by striking ``, by 
+                      the Office of the Comptroller of the Currency'';
+                          (iii) in subparagraph (B), by striking ``, by 
+                      the Board of Governors of the Federal Reserve 
+                      System'';
+                          (iv) in subparagraph (C), by striking ``, by 
+                      the Board of Directors of the Federal Deposit 
+                      Insurance Corporation''; and
+                          (v) in subparagraph (D), by striking ``, by 
+                      the Director of the Office of Thrift 
+                      Supervision''; and
+                    (C) by adding at the end the following:
+            ``(8) Under subtitle E of the Consumer Financial Protection 
+        Act of 2010, by the Bureau of Consumer Financial Protection, in 
+        the case of any financial institution and other covered person 
+        or service provider that is subject to the jurisdiction of the
+
+
+        Bureau and any person subject to this subtitle, but not with 
+        respect to the standards under section 501.'';
+            (5) in section 505(b)(1) (15 U.S.C. 6805(b)(1)), by 
+        inserting ``, other than the Bureau of Consumer Financial 
+        Protection,'' after ``subsection (a)''; and
+            (6) in section 507(b) (15 U.S.C. 6807), by striking 
+        ``Federal Trade Commission'' and inserting ``Bureau of Consumer 
+        Financial Protection''.

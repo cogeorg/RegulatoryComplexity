@@ -1,1 +1,37 @@
-    Section 10(m)(3) of the Home Owners' Loan Act (12 U.S.C. 1467a(m)(3)) is amended--            (1) by striking subparagraph (A) and inserting the         following:                    ``(A) In general.--A savings association that fails                 to become or remain a qualified thrift lender shall                 immediately be subject to the restrictions under                 subparagraph (B).''; and            (2) in subparagraph (B)(i), by striking subclause (III) and         inserting the following:                                    ``(III) Dividends.--The savings                                 association may not pay dividends,                                 except for dividends that--                                            ``(aa) would be permissible                                         for a national bank;                                            ``(bb) are necessary to meet                                         obligations of a company that                                         controls such savings                                         association; and                                            ``(cc) are specifically                                         approved by the Comptroller of                                         the Currency and the Board after                                         a written request submitted to                                         the Comptroller of the Currency                                         and the Board by the savings                                         association not later than 30                                         days before the date of the                                         proposed payment.                                    ``(IV) Regulatory authority.--A                                 savings association that fails to become                                 or remain a qualified thrift lender                                 shall be deemed to have violated section                                 5 of the Home Owners' Loan Act (12                                 U.S.C. 1464) and subject to actions                                 authorized by section 5(d) of the Home                                 Owners' Loan Act (12 U.S.C. 1464(d)).''.
+
+    Section 10(m)(3) of the Home Owners' Loan Act (12 U.S.C. 
+1467a(m)(3)) is amended--
+            (1) by striking subparagraph (A) and inserting the 
+        following:
+                    ``(A) In general.--A savings association that fails 
+                to become or remain a qualified thrift lender shall 
+                immediately be subject to the restrictions under 
+                subparagraph (B).''; and
+            (2) in subparagraph (B)(i), by striking subclause (III) and 
+        inserting the following:
+                                    ``(III) Dividends.--The savings 
+                                association may not pay dividends, 
+                                except for dividends that--
+                                            ``(aa) would be permissible 
+                                        for a national bank;
+                                            ``(bb) are necessary to meet 
+                                        obligations of a company that 
+                                        controls such savings 
+                                        association; and
+                                            ``(cc) are specifically 
+                                        approved by the Comptroller of 
+                                        the Currency and the Board after 
+                                        a written request submitted to 
+                                        the Comptroller of the Currency 
+                                        and the Board by the savings 
+                                        association not later than 30 
+                                        days before the date of the 
+                                        proposed payment.
+                                    ``(IV) Regulatory authority.--A 
+                                savings association that fails to become 
+                                or remain a qualified thrift lender 
+                                shall be deemed to have violated section 
+                                5 of the Home Owners' Loan Act (12 
+                                U.S.C. 1464) and subject to actions 
+                                authorized by section 5(d) of the Home 
+                                Owners' Loan Act (12 U.S.C. 1464(d)).''.

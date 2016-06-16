@@ -1,1 +1,10 @@
-    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is amended by adding at the end the following new section:``SEC. 223. &lt;&lt;NOTE: 15 USC 80b-18b.&gt;&gt;  CUSTODY OF CLIENT ACCOUNTS.    ``An investment adviser registered under this title shall take such steps to safeguard client assets over which such adviser has custody, including, without limitation, verification of such assets by an independent public accountant, as the Commission may, by rule, prescribe.''.
+
+    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
+amended by adding at the end the following new section:
+``SEC. 223. &lt;&lt;NOTE: 15 USC 80b-18b.&gt;&gt;  CUSTODY OF CLIENT ACCOUNTS.
+
+    ``An investment adviser registered under this title shall take such 
+steps to safeguard client assets over which such adviser has custody, 
+including, without limitation, verification of such assets by an 
+independent public accountant, as the Commission may, by rule, 
+prescribe.''.

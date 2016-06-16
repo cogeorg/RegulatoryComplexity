@@ -1,1 +1,12 @@
-                        ADVISERS ACT OF 1940 DOES NOT APPLY TO                         STATE-REGISTERED ADVISERS.    Section 205(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-5(a)) is amended, in the matter preceding paragraph (1)--            (1) by striking ``, unless exempt from registration pursuant         to section 203(b),'' and inserting ``registered or required to         be registered with the Commission'';            (2) by striking ``make use of the mails or any means or         instrumentality of interstate commerce, directly or indirectly,         to''; and            (3) by striking ``to'' after ``in any way''.
+                        ADVISERS ACT OF 1940 DOES NOT APPLY TO 
+                        STATE-REGISTERED ADVISERS.
+
+    Section 205(a) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-5(a)) is amended, in the matter preceding paragraph (1)--
+            (1) by striking ``, unless exempt from registration pursuant 
+        to section 203(b),'' and inserting ``registered or required to 
+        be registered with the Commission'';
+            (2) by striking ``make use of the mails or any means or 
+        instrumentality of interstate commerce, directly or indirectly, 
+        to''; and
+            (3) by striking ``to'' after ``in any way''.
