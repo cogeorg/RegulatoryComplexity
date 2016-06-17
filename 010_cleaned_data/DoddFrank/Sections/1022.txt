@@ -1,45 +1,283 @@
-                          FUNCTIONS.
 
-    (a) Purpose.--The Bureau shall seek to implement and, where 
-applicable, enforce Federal consumer financial law consistently for the 
-purpose of ensuring that all consumers have access to markets
+    (a) In General.--The Bureau is authorized to exercise its 
+authorities under Federal consumer financial law to administer, enforce, 
+and otherwise implement the provisions of Federal consumer financial 
+law.
+    (b) Rulemaking, Orders, and Guidance.--
+            (1) General authority.--The Director may prescribe rules and 
+        issue orders and guidance, as may be necessary or appropriate to 
+        enable the Bureau to administer and carry out the purposes and 
+        objectives of the Federal consumer financial laws, and to 
+        prevent evasions thereof.
+            (2) Standards for rulemaking.--In prescribing a rule under 
+        the Federal consumer financial laws--
+                    (A) the Bureau shall consider--
+                          (i) the potential benefits and costs to 
+                      consumers and covered persons, including the 
+                      potential reduction of access by consumers to 
+                      consumer financial products or services resulting 
+                      from such rule; and
 
 
-for consumer financial products and services and that markets for 
-consumer financial products and services are fair, transparent, and 
-competitive.
-    (b) Objectives.--The Bureau is authorized to exercise its 
-authorities under Federal consumer financial law for the purposes of 
-ensuring that, with respect to consumer financial products and 
-services--
-            (1) consumers are provided with timely and understandable 
-        information to make responsible decisions about financial 
-        transactions;
-            (2) consumers are protected from unfair, deceptive, or 
-        abusive acts and practices and from discrimination;
-            (3) outdated, unnecessary, or unduly burdensome regulations 
-        are regularly identified and addressed in order to reduce 
-        unwarranted regulatory burdens;
-            (4) Federal consumer financial law is enforced consistently, 
-        without regard to the status of a person as a depository 
-        institution, in order to promote fair competition; and
-            (5) markets for consumer financial products and services 
-        operate transparently and efficiently to facilitate access and 
-        innovation.
+                          (ii) the impact of proposed rules on covered 
+                      persons, as described in section 1026, and the 
+                      impact on consumers in rural areas;
+                    (B) &lt;&lt;NOTE: Consultation.&gt;&gt;  the Bureau shall 
+                consult with the appropriate prudential regulators or 
+                other Federal agencies prior to proposing a rule and 
+                during the comment process regarding consistency with 
+                prudential, market, or systemic objectives administered 
+                by such agencies; and
+                    (C) if, during the consultation process described in 
+                subparagraph (B), a prudential regulator provides the 
+                Bureau with a written objection to the proposed rule of 
+                the Bureau or a portion thereof, the Bureau shall 
+                include in the adopting release a description of the 
+                objection and the basis for the Bureau decision, if any, 
+                regarding such objection, except that nothing in this 
+                clause shall be construed as altering or limiting the 
+                procedures under section 1023 that may apply to any rule 
+                prescribed by the Bureau.
+            (3) Exemptions.--
+                    (A) In general.--The Bureau, by rule, may 
+                conditionally or unconditionally exempt any class of 
+                covered persons, service providers, or consumer 
+                financial products or services, from any provision of 
+                this title, or from any rule issued under this title, as 
+                the Bureau determines necessary or appropriate to carry 
+                out the purposes and objectives of this title, taking 
+                into consideration the factors in subparagraph (B).
+                    (B) Factors.--In issuing an exemption, as permitted 
+                under subparagraph (A), the Bureau shall, as 
+                appropriate, take into consideration--
+                          (i) the total assets of the class of covered 
+                      persons;
+                          (ii) the volume of transactions involving 
+                      consumer financial products or services in which 
+                      the class of covered persons engages; and
+                          (iii) existing provisions of law which are 
+                      applicable to the consumer financial product or 
+                      service and the extent to which such provisions 
+                      provide consumers with adequate protections.
+            (4) Exclusive rulemaking authority.--
+                    (A) In general.--Notwithstanding any other 
+                provisions of Federal law and except as provided in 
+                section 1061(b)(5), to the extent that a provision of 
+                Federal consumer financial law authorizes the Bureau and 
+                another Federal agency to issue regulations under that 
+                provision of law for purposes of assuring compliance 
+                with Federal consumer financial law and any regulations 
+                thereunder, the Bureau shall have the exclusive 
+                authority to prescribe rules subject to those provisions 
+                of law.
+                    (B) Deference.--Notwithstanding 
+                any &lt;&lt;NOTE: Applicability.&gt;&gt;  power granted to any 
+                Federal agency or to the Council under this title, and 
+                subject to section 1061(b)(5)(E), the deference that a 
+                court affords to the Bureau with respect to a 
+                determination by the Bureau regarding the meaning or 
+                interpretation of any provision of a Federal consumer 
+                financial law shall be applied as if the Bureau were the 
+                only agency authorized to apply, enforce, interpret, or 
+                administer the provisions of such Federal consumer 
+                financial law.
 
-    (c) Functions.--The primary functions of the Bureau are--
-            (1) conducting financial education programs;
-            (2) collecting, investigating, and responding to consumer 
-        complaints;
-            (3) collecting, researching, monitoring, and publishing 
-        information relevant to the functioning of markets for consumer 
-        financial products and services to identify risks to consumers 
-        and the proper functioning of such markets;
-            (4) subject to sections 1024 through 1026, supervising 
-        covered persons for compliance with Federal consumer financial 
-        law, and taking appropriate enforcement action to address 
-        violations of Federal consumer financial law;
-            (5) issuing rules, orders, and guidance implementing Federal 
-        consumer financial law; and
-            (6) performing such support activities as may be necessary 
-        or useful to facilitate the other functions of the Bureau.
+    (c) Monitoring.--
+
+
+            (1) In general.--In order to support its rulemaking and 
+        other functions, the Bureau shall monitor for risks to consumers 
+        in the offering or provision of consumer financial products or 
+        services, including developments in markets for such products or 
+        services.
+            (2) Considerations.--In allocating its resources to perform 
+        the monitoring required by this section, the Bureau may 
+        consider, among other factors--
+                    (A) likely risks and costs to consumers associated 
+                with buying or using a type of consumer financial 
+                product or service;
+                    (B) understanding by consumers of the risks of a 
+                type of consumer financial product or service;
+                    (C) the legal protections applicable to the offering 
+                or provision of a consumer financial product or service, 
+                including the extent to which the law is likely to 
+                adequately protect consumers;
+                    (D) rates of growth in the offering or provision of 
+                a consumer financial product or service;
+                    (E) the extent, if any, to which the risks of a 
+                consumer financial product or service may 
+                disproportionately affect traditionally underserved 
+                consumers; or
+                    (F) the types, number, and other pertinent 
+                characteristics of covered persons that offer or provide 
+                the consumer financial product or service.
+            (3) Significant findings.--
+                    (A) In general.--The 
+                Bureau &lt;&lt;NOTE: Publication. Reports. Deadline.&gt;&gt;  shall 
+                publish not fewer than 1 report of significant findings 
+                of its monitoring required by this subsection in each 
+                calendar year, beginning with the first calendar year 
+                that begins at least 1 year after the designated 
+                transfer date.
+                    (B) Confidential information.--The Bureau may make 
+                public such information obtained by the Bureau under 
+                this section as is in the public interest, through 
+                aggregated reports or other appropriate formats designed 
+                to protect confidential information in accordance with 
+                paragraphs (4), (6), (8), and (9).
+            (4) Collection of information.--
+                    (A) In general.--In conducting any monitoring or 
+                assessment required by this section, the Bureau shall 
+                have the authority to gather information from time to 
+                time regarding the organization, business conduct, 
+                markets, and activities of covered persons and service 
+                providers.
+                    (B) Methodology.--In order to gather information 
+                described in subparagraph (A), the Bureau may--
+                          (i) gather and compile information from a 
+                      variety of sources, including examination reports 
+                      concerning covered persons or service providers, 
+                      consumer complaints, voluntary surveys and 
+                      voluntary interviews of consumers, surveys and 
+                      interviews with covered persons and service 
+                      providers, and review of available databases; and
+                          (ii) require covered persons and service 
+                      providers participating in consumer financial 
+                      services markets to file with the Bureau, under 
+                      oath or otherwise, in such form and within such 
+                      reasonable period of time as the Bureau may 
+                      prescribe by rule or order, annual
+
+
+                      or special reports, or answers in writing to 
+                      specific questions, furnishing information 
+                      described in paragraph (4), as necessary for the 
+                      Bureau to fulfill the monitoring, assessment, and 
+                      reporting responsibilities imposed by Congress.
+                    (C) Limitation.--The Bureau may not use its 
+                authorities under this paragraph to obtain records from 
+                covered persons and service providers participating in 
+                consumer financial services markets for purposes of 
+                gathering or analyzing the personally identifiable 
+                financial information of consumers.
+            (5) Limited information gathering.--In order to assess 
+        whether a nondepository is a covered person, as defined in 
+        section 1002, the Bureau may require such nondepository to file 
+        with the Bureau, under oath or otherwise, in such form and 
+        within such reasonable period of time as the Bureau may 
+        prescribe by rule or order, annual or special reports, or 
+        answers in writing to specific questions.
+            (6) Confidentiality rules.--
+                    (A) Rulemaking.--The Bureau shall prescribe rules 
+                regarding the confidential treatment of information 
+                obtained from persons in connection with the exercise of 
+                its authorities under Federal consumer financial law.
+                    (B) Access by the bureau to reports of other 
+                regulators.--
+                          (i) Examination and financial condition 
+                      reports.--Upon providing reasonable assurances of 
+                      confidentiality, the Bureau shall have access to 
+                      any report of examination or financial condition 
+                      made by a prudential regulator or other Federal 
+                      agency having jurisdiction over a covered person 
+                      or service provider, and to all revisions made to 
+                      any such report.
+                          (ii) Provision of other reports to the 
+                      bureau.--In addition to the reports described in 
+                      clause (i), a prudential regulator or other 
+                      Federal agency having jurisdiction over a covered 
+                      person or service provider may, in its discretion, 
+                      furnish to the Bureau any other report or other 
+                      confidential supervisory information concerning 
+                      any insured depository institution, credit union, 
+                      or other entity examined by such agency under 
+                      authority of any provision of Federal law.
+                    (C) Access by other regulators to reports of the 
+                bureau.--
+                          (i) Examination reports.--Upon providing 
+                      reasonable assurances of confidentiality, a 
+                      prudential regulator, a State regulator, or any 
+                      other Federal agency having jurisdiction over a 
+                      covered person or service provider shall have 
+                      access to any report of examination made by the 
+                      Bureau with respect to such person, and to all 
+                      revisions made to any such report.
+                          (ii) Provision of other reports to other 
+                      regulators.--In addition to the reports described 
+                      in clause (i), the Bureau may, in its discretion, 
+                      furnish to a prudential regulator or other agency 
+                      having jurisdiction over a covered person or 
+                      service provider any
+
+
+                      other report or other confidential supervisory 
+                      information concerning such person examined by the 
+                      Bureau under the authority of any other provision 
+                      of Federal law.
+            (7) Registration.--
+                    (A) In general.--The Bureau may prescribe rules 
+                regarding registration requirements applicable to a 
+                covered person, other than an insured depository 
+                institution, insured credit union, or related person.
+                    (B) Registration information.--Subject to rules 
+                prescribed by the Bureau, the Bureau may publicly 
+                disclose registration information to facilitate the 
+                ability of consumers to identify covered persons that 
+                are registered with the Bureau.
+                    (C) Consultation with state agencies.--In developing 
+                and implementing registration requirements under this 
+                paragraph, the Bureau shall consult with State agencies 
+                regarding requirements or systems (including coordinated 
+                or combined systems for registration), where 
+                appropriate.
+            (8) Privacy considerations.--In collecting information from 
+        any person, publicly releasing information held by the Bureau, 
+        or requiring covered persons to publicly report information, the 
+        Bureau shall take steps to ensure that proprietary, personal, or 
+        confidential consumer information that is protected from public 
+        disclosure under section 552(b) or 552a of title 5, United 
+        States Code, or any other provision of law, is not made public 
+        under this title.
+            (9) Consumer privacy.--
+                    (A) In general.--The Bureau may not obtain from a 
+                covered person or service provider any personally 
+                identifiable financial information about a consumer from 
+                the financial records of the covered person or service 
+                provider, except--
+                          (i) if the financial records are reasonably 
+                      described in a request by the Bureau and the 
+                      consumer provides written permission for the 
+                      disclosure of such information by the covered 
+                      person or service provider to the Bureau; or
+                          (ii) as may be specifically permitted or 
+                      required under other applicable provisions of law 
+                      and in accordance with the Right to Financial 
+                      Privacy Act of 1978 (12 U.S.C. 3401 et seq.).
+                    (B) Treatment of covered person or service 
+                provider.--With respect to the application of any 
+                provision of the Right to Financial Privacy Act of 1978, 
+                to a disclosure by a covered person or service provider 
+                subject to this subsection, the covered person or 
+                service provider shall be treated as if it were a 
+                ``financial institution'', as defined in section 1101 of 
+                that Act (12 U.S.C. 3401).
+
+    (d) Assessment of Significant Rules.--
+            (1) In general.--The Bureau shall conduct an assessment of 
+        each significant rule or order adopted by the Bureau under 
+        Federal consumer financial law. The assessment shall address, 
+        among other relevant factors, the effectiveness of the rule or 
+        order in meeting the purposes and objectives of this title and 
+        the specific goals stated by the Bureau. The assessment shall
+
+
+        reflect available evidence and any data that the Bureau 
+        reasonably may collect.
+            (2) Reports.--The Bureau &lt;&lt;NOTE: Publication.&gt;&gt;  shall 
+        publish a report of its assessment under this subsection not 
+        later than 5 years after the effective date of the subject rule 
+        or order.
+            (3) Public comment required.--Before publishing a report of 
+        its assessment, the Bureau shall invite public comment on 
+        recommendations for modifying, expanding, or eliminating the 
+        newly adopted significant rule or order.

@@ -1,212 +1,58 @@
 
-    (a) Authority to Impose Civil Penalties in Cease and Desist 
-Proceedings.--
-            (1) Under the securities act of 1933.--Section 8A of the 
-        Securities Act of 1933 (15 U.S.C. 77h-1) is amended by adding at 
-        the end the following new subsection:
-
-    ``(g) Authority to Impose Money Penalties.--
-            ``(1) Grounds.--In any cease-and-desist proceeding under 
-        subsection (a), the Commission may impose a civil penalty on a 
-        person if the Commission finds, on the record, after notice and 
-        opportunity for hearing, that--
-                    ``(A) such person--
-                          ``(i) is violating or has violated any 
-                      provision of this title, or any rule or regulation 
-                      issued under this title; or
-                          ``(ii) is or was a cause of the violation of 
-                      any provision of this title, or any rule or 
-                      regulation thereunder; and
-                    ``(B) such penalty is in the public interest.
-            ``(2) Maximum amount of penalty.--
-                    ``(A) First tier.--The maximum amount of a penalty 
-                for each act or omission described in paragraph (1) 
-                shall be $7,500 for a natural person or $75,000 for any 
-                other person.
-                    ``(B) Second tier.--Notwithstanding subparagraph 
-                (A), the maximum amount of penalty for each such act or 
-                omission shall be $75,000 for a natural person or 
-                $375,000 for any other person, if the act or omission 
-                described in paragraph (1) involved fraud, deceit, 
-                manipulation, or deliberate or reckless disregard of a 
-                regulatory requirement.
-                    ``(C) Third tier.--Notwithstanding subparagraphs (A) 
-                and (B), the maximum amount of penalty for each such act 
-                or omission shall be $150,000 for a natural person or 
-                $725,000 for any other person, if--
+    (a) Investment Company Act of 1940 Amendments.--Section 31 of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-30) is amended--
+            (1) in subsection (a)(1), by adding at the end the 
+        following: ``Each person having custody or use of the 
+        securities, deposits, or credits of a registered investment 
+        company shall maintain and preserve all records that relate to 
+        the custody or use by such person of the securities, deposits, 
+        or credits of the registered investment company for such period 
+        or periods as the Commission, by rule or regulation, may 
+        prescribe, as necessary or appropriate in the public interest or 
+        for the protection of investors.''; and
+            (2) in subsection (b), by adding at the end the following:
+            ``(4) Records of persons with custody or use.--
 
 
-                          ``(i) the act or omission described in 
-                      paragraph (1) involved fraud, deceit, 
-                      manipulation, or deliberate or reckless disregard 
-                      of a regulatory requirement; and
-                          ``(ii) such act or omission directly or 
-                      indirectly resulted in--
-                                    ``(I) substantial losses or created 
-                                a significant risk of substantial losses 
-                                to other persons; or
-                                    ``(II) substantial pecuniary gain to 
-                                the person who committed the act or 
-                                omission.
-            ``(3) Evidence concerning ability to pay.--In any proceeding 
-        in which the Commission may impose a penalty under this section, 
-        a respondent may present evidence of the ability of the 
-        respondent to pay such penalty. The Commission may, in its 
-        discretion, consider such evidence in determining whether such 
-        penalty is in the public interest. Such evidence may relate to 
-        the extent of the ability of the respondent to continue in 
-        business and the collectability of a penalty, taking into 
-        account any other claims of the United States or third parties 
-        upon the assets of the respondent and the amount of the assets 
-        of the respondent.''.
-            (2) Under the securities exchange act of 1934.--Section 
-        21B(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78u-
-        2(a)) is amended--
-                    (A) by striking the matter following paragraph (4);
-                    (B) in the matter preceding paragraph (1), by 
-                inserting after ``opportunity for hearing,'' the 
-                following: ``that such penalty is in the public interest 
-                and'';
-                    (C) by redesignating paragraphs (1) through (4) as 
-                subparagraphs (A) through (D), respectively, and 
-                adjusting the margins accordingly;
-                    (D) by striking ``In any proceeding'' and inserting 
-                the following:
-            ``(1) In general.--In any proceeding''; and
-                    (E) by adding at the end the following:
-            ``(2) Cease-and-desist proceedings.--In any proceeding 
-        instituted under section 21C against any person, the Commission 
-        may impose a civil penalty, if the Commission finds, on the 
-        record after notice and opportunity for hearing, that such 
-        person--
-                    ``(A) is violating or has violated any provision of 
-                this title, or any rule or regulation issued under this 
-                title; or
-                    ``(B) is or was a cause of the violation of any 
-                provision of this title, or any rule or regulation 
-                issued under this title.''.
-            (3) Under the investment company act of 1940.--Section 
-        9(d)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a-
-        9(d)(1)) is amended--
-                    (A) by striking the matter following subparagraph 
-                (C);
-                    (B) in the matter preceding subparagraph (A), by 
-                inserting after ``opportunity for hearing,'' the 
-                following: ``that such penalty is in the public 
-                interest, and'';
-                    (C) by redesignating subparagraphs (A) through (C) 
-                as clauses (i) through (iii), respectively, and 
-                adjusting the margins accordingly;
-                    (D) by striking ``In any proceeding'' and inserting 
-                the following:
+                    ``(A) In general.--Records of persons having custody 
+                or use of the securities, deposits, or credits of a 
+                registered investment company that relate to such 
+                custody or use, are subject at any time, or from time to 
+                time, to such reasonable periodic, special, or other 
+                examinations and other information and document requests 
+                by representatives of the Commission, as the Commission 
+                deems necessary or appropriate in the public interest or 
+                for the protection of investors.
+                    ``(B) Certain persons subject to other regulation.--
+                Any person that is subject to regulation and examination 
+                by a Federal financial institution regulatory agency (as 
+                such term is defined under section 212(c)(2) of title 
+                18, United States Code) may satisfy any examination 
+                request, information request, or document request 
+                described under subparagraph (A), by providing to the 
+                Commission a detailed listing, in writing, of the 
+                securities, deposits, or credits of the registered 
+                investment company within the custody or use of such 
+                person.''.
 
-
-                    ``(A) In general.--In any proceeding''; and
-                    (E) by adding at the end the following:
-                    ``(B) Cease-and-desist proceedings.--In any 
-                proceeding instituted pursuant to subsection (f) against 
-                any person, the Commission may impose a civil penalty if 
-                the Commission finds, on the record, after notice and 
-                opportunity for hearing, that such person--
-                          ``(i) is violating or has violated any 
-                      provision of this title, or any rule or regulation 
-                      issued under this title; or
-                          ``(ii) is or was a cause of the violation of 
-                      any provision of this title, or any rule or 
-                      regulation issued under this title.''.
-            (4) Under the investment advisers act of 1940.--Section 
-        203(i)(1) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
-        3(i)(1)) is amended--
-                    (A) by striking the matter following subparagraph 
-                (D);
-                    (B) in the matter preceding subparagraph (A), by 
-                inserting after ``opportunity for hearing,'' the 
-                following: ``that such penalty is in the public interest 
-                and'';
-                    (C) by redesignating subparagraphs (A) through (D) 
-                as clauses (i) through (iv), respectively, and adjusting 
-                the margins accordingly;
-                    (D) by striking ``In any proceeding'' and inserting 
-                the following:
-                    ``(A) In general.--In any proceeding''; and
-                    (E) by adding at the end the following new 
-                subparagraph:
-                    ``(B) Cease-and-desist proceedings.--In any 
-                proceeding instituted pursuant to subsection (k) against 
-                any person, the Commission may impose a civil penalty if 
-                the Commission finds, on the record, after notice and 
-                opportunity for hearing, that such person--
-                          ``(i) is violating or has violated any 
-                      provision of this title, or any rule or regulation 
-                      issued under this title; or
-                          ``(ii) is or was a cause of the violation of 
-                      any provision of this title, or any rule or 
-                      regulation issued under this title.''.
-
-    (b) &lt;&lt;NOTE: Courts.&gt;&gt;  Extraterritorial Jurisdiction of the 
-Antifraud Provisions of the Federal Securities Laws.--
-            (1) Under the securities act of 1933.--Section 22 of the 
-        Securities Act of 1933 (15 U.S.C. 77v(a)) is amended by adding 
-        at the end the following new subsection:
-
-    ``(c) Extraterritorial Jurisdiction.--The district courts of the 
-United States and the United States courts of any Territory shall have 
-jurisdiction of an action or proceeding brought or instituted by the 
-Commission or the United States alleging a violation of section 17(a) 
-involving--
-            ``(1) conduct within the United States that constitutes 
-        significant steps in furtherance of the violation, even if the 
-        securities transaction occurs outside the United States and 
-        involves only foreign investors; or
-            ``(2) conduct occurring outside the United States that has a 
-        foreseeable substantial effect within the United States.''.
-
-
-            (2) Under the securities exchange act of 1934.--Section 27 
-        of the Securities Exchange Act of 1934 (15 U.S.C. 78aa) is 
-        amended--
-                    (A) by striking ``The district'' and inserting the 
-                following:
-
-    ``(a) In General.--The district''; and
-                    (B) by adding at the end the following new 
-                subsection:
-
-    ``(b) Extraterritorial Jurisdiction.--The district courts of the 
-United States and the United States courts of any Territory shall have 
-jurisdiction of an action or proceeding brought or instituted by the 
-Commission or the United States alleging a violation of the antifraud 
-provisions of this title involving--
-            ``(1) conduct within the United States that constitutes 
-        significant steps in furtherance of the violation, even if the 
-        securities transaction occurs outside the United States and 
-        involves only foreign investors; or
-            ``(2) conduct occurring outside the United States that has a 
-        foreseeable substantial effect within the United States.''.
-            (3) Under the investment advisers act of 1940.--Section 214 
-        of the Investment Advisers Act of 1940 (15 U.S.C. 80b-14) is 
-        amended--
-                    (A) by striking ``The district'' and inserting the 
-                following:
-
-    ``(a) In General.--The district''; and
-                    (B) by adding at the end the following new 
-                subsection:
-
-    ``(b) Extraterritorial Jurisdiction.--The district courts of the 
-United States and the United States courts of any Territory shall have 
-jurisdiction of an action or proceeding brought or instituted by the 
-Commission or the United States alleging a violation of section 206 
-involving--
-            ``(1) conduct within the United States that constitutes 
-        significant steps in furtherance of the violation, even if the 
-        violation is committed by a foreign adviser and involves only 
-        foreign investors; or
-            ``(2) conduct occurring outside the United States that has a 
-        foreseeable substantial effect within the United States.''.
-
-    (c) Control Person Liability Under the Securities Exchange Act of 
-1934.--Section 20(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
-78t(a)) is amended by inserting after ``controlled person is liable'' 
-the following: ``(including to the Commission in any action brought 
-under paragraph (1) or (3) of section 21(d))''.
+    (b) Investment Advisers Act of 1940 Amendment.--Section 204 of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-4) is amended by adding 
+at the end the following new subsection:
+    ``(d) Records of Persons With Custody or Use.--
+            ``(1) In general.--Records of persons having custody or use 
+        of the securities, deposits, or credits of a client, that relate 
+        to such custody or use, are subject at any time, or from time to 
+        time, to such reasonable periodic, special, or other 
+        examinations and other information and document requests by 
+        representatives of the Commission, as the Commission deems 
+        necessary or appropriate in the public interest or for the 
+        protection of investors.
+            ``(2) Certain persons subject to other regulation.--Any 
+        person that is subject to regulation and examination by a 
+        Federal financial institution regulatory agency (as such term is 
+        defined under section 212(c)(2) of title 18, United States Code) 
+        may satisfy any examination request, information request, or 
+        document request described under paragraph (1), by providing the 
+        Commission with a detailed listing, in writing, of the 
+        securities, deposits, or credits of the client within the 
+        custody or use of such person.''.

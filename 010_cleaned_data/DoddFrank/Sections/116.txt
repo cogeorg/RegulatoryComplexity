@@ -1,185 +1,38 @@
-                        PRUDENTIAL STANDARDS FOR NONBANK FINANCIAL 
-                        COMPANIES SUPERVISED BY THE BOARD OF 
-                        GOVERNORS AND CERTAIN BANK HOLDING 
-                        COMPANIES.
 
-    (a) In General.--
-            (1) Purpose.--In order to prevent or mitigate risks to the 
-        financial stability of the United States that could arise from 
-        the material financial distress, failure, or ongoing activities 
-        of large, interconnected financial institutions, the Council may 
-        make recommendations to the Board of Governors concerning the 
-        establishment and refinement of prudential standards and 
-        reporting and disclosure requirements applicable to nonbank 
-        financial companies supervised by the Board of Governors and 
-        large, interconnected bank holding companies, that--
-                    (A) are more stringent than those applicable to 
-                other nonbank financial companies and bank holding 
-                companies that do not present similar risks to the 
-                financial stability of the United States; and
-                    (B) increase in stringency, based on the 
-                considerations identified in subsection (b)(3).
-            (2) Recommended application of required standards.--In 
-        making recommendations under this section, the Council may--
-                    (A) differentiate among companies that are subject 
-                to heightened standards on an individual basis or by 
-                category, taking into consideration their capital 
-                structure, riskiness, complexity, financial activities 
-                (including the financial activities of their 
-                subsidiaries), size, and any other risk-related factors 
-                that the Council deems appropriate; or
-                    (B) recommend an asset threshold that is higher than 
-                $50,000,000,000 for the application of any standard 
-                described in subsections (c) through (g).
+    (a) In General.--Subject to subsection (b), the Council, acting 
+through the Office of Financial Research, may require a bank holding 
+company with total consolidated assets of $50,000,000,000 or greater or 
+a nonbank financial company supervised by the Board of Governors, and 
+any subsidiary thereof, to submit certified reports to keep the Council 
+informed as to--
+            (1) the financial condition of the company;
+            (2) systems for monitoring and controlling financial, 
+        operating, and other risks;
+            (3) transactions with any subsidiary that is a depository 
+        institution; and
+            (4) the extent to which the activities and operations of the 
+        company and any subsidiary thereof, could, under adverse 
+        circumstances, have the potential to disrupt financial markets 
+        or affect the overall financial stability of the United States.
 
-    (b) Development of Prudential Standards.--
-            (1) In general.--The recommendations of the Council under 
-        subsection (a) may include--
-                    (A) risk-based capital requirements;
-                    (B) leverage limits;
-                    (C) liquidity requirements;
-                    (D) resolution plan and credit exposure report 
-                requirements;
-                    (E) concentration limits;
-                    (F) a contingent capital requirement;
-                    (G) enhanced public disclosures;
-                    (H) short-term debt limits; and
-                    (I) overall risk management requirements.
-
-
-            (2) Prudential standards for foreign financial companies.--
-        In making recommendations concerning the standards set forth in 
-        paragraph (1) that would apply to foreign nonbank financial 
-        companies supervised by the Board of Governors or foreign-based 
-        bank holding companies, the Council shall--
-                    (A) give due regard to the principle of national 
-                treatment and equality of competitive opportunity; and
-                    (B) take into account the extent to which the 
-                foreign nonbank financial company or foreign-based bank 
-                holding company is subject on a consolidated basis to 
-                home country standards that are comparable to those 
-                applied to financial companies in the United States.
-            (3) Considerations.--In making recommendations concerning 
-        prudential standards under paragraph (1), the Council shall--
-                    (A) take into account differences among nonbank 
-                financial companies supervised by the Board of Governors 
-                and bank holding companies described in subsection (a), 
-                based on--
-                          (i) the factors described in subsections (a) 
-                      and (b) of section 113;
-                          (ii) whether the company owns an insured 
-                      depository institution;
-                          (iii) nonfinancial activities and affiliations 
-                      of the company; and
-                          (iv) any other factors that the Council 
-                      determines appropriate;
-                    (B) to the extent possible, ensure that small 
-                changes in the factors listed in subsections (a) and (b) 
-                of section 113 would not result in sharp, discontinuous 
-                changes in the prudential standards established under 
-                section 165; and
-                    (C) adapt its recommendations as appropriate in 
-                light of any predominant line of business of such 
-                company, including assets under management or other 
-                activities for which particular standards may not be 
-                appropriate.
-
-    (c) Contingent Capital.--
-            (1) Study required.--The Council shall conduct a study of 
-        the feasibility, benefits, costs, and structure of a contingent 
-        capital requirement for nonbank financial companies supervised 
-        by the Board of Governors and bank holding companies described 
-        in subsection (a), which study shall include--
-                    (A) an evaluation of the degree to which such 
-                requirement would enhance the safety and soundness of 
-                companies subject to the requirement, promote the 
-                financial stability of the United States, and reduce 
-                risks to United States taxpayers;
-                    (B) an evaluation of the characteristics and amounts 
-                of contingent capital that should be required;
-                    (C) an analysis of potential prudential standards 
-                that should be used to determine whether the contingent 
-                capital of a company would be converted to equity in 
-                times of financial stress;
-                    (D) an evaluation of the costs to companies, the 
-                effects on the structure and operation of credit and 
-                other financial markets, and other economic effects of 
-                requiring contingent capital;
-
-
-                    (E) an evaluation of the effects of such requirement 
-                on the international competitiveness of companies 
-                subject to the requirement and the prospects for 
-                international coordination in establishing such 
-                requirement; and
-                    (F) recommendations for implementing regulations.
-            (2) Report.--The Council shall submit a report to Congress 
-        regarding the study required by paragraph (1) not later than 2 
-        years after the date of enactment of this Act.
-            (3) Recommendations.--
-                    (A) In general.--Subsequent to submitting a report 
-                to Congress under paragraph (2), the Council may make 
-                recommendations to the Board of Governors to require any 
-                nonbank financial company supervised by the Board of 
-                Governors and any bank holding company described in 
-                subsection (a) to maintain a minimum amount of 
-                contingent capital that is convertible to equity in 
-                times of financial stress.
-                    (B) Factors to consider.--In making recommendations 
-                under this subsection, the Council shall consider--
-                          (i) an appropriate transition period for 
-                      implementation of a conversion under this 
-                      subsection;
-                          (ii) the factors described in subsection 
-                      (b)(3);
-                          (iii) capital requirements applicable to a 
-                      nonbank financial company supervised by the Board 
-                      of Governors or a bank holding company described 
-                      in subsection (a), and subsidiaries thereof;
-                          (iv) results of the study required by 
-                      paragraph (1); and
-                          (v) any other factor that the Council deems 
-                      appropriate.
-
-    (d) Resolution Plan and Credit Exposure Reports.--
-            (1) Resolution plan.--The Council may make recommendations 
-        to the Board of Governors concerning the requirement that each 
-        nonbank financial company supervised by the Board of Governors 
-        and each bank holding company described in subsection (a) report 
-        periodically to the Council, the Board of Governors, and the 
-        Corporation, the plan of such company for rapid and orderly 
-        resolution in the event of material financial distress or 
-        failure.
-            (2) Credit exposure report.--The Council may make 
-        recommendations to the Board of Governors concerning the 
-        advisability of requiring each nonbank financial company 
-        supervised by the Board of Governors and bank holding company 
-        described in subsection (a) to report periodically to the 
-        Council, the Board of Governors, and the Corporation on--
-                    (A) the nature and extent to which the company has 
-                credit exposure to other significant nonbank financial 
-                companies and significant bank holding companies; and
-                    (B) the nature and extent to which other such 
-                significant nonbank financial companies and significant 
-                bank holding companies have credit exposure to that 
-                company.
-
-    (e) Concentration Limits.--In order to limit the risks that the 
-failure of any individual company could pose to nonbank financial 
-companies supervised by the Board of Governors or bank holding companies 
-described in subsection (a), the Council may make recommendations to the 
-Board of Governors to prescribe standards to limit such risks, as set 
-forth in section 165.
-
-
-    (f) Enhanced Public Disclosures.--The Council may make 
-recommendations to the Board of Governors to require periodic public 
-disclosures by bank holding companies described in subsection (a) and by 
-nonbank financial companies supervised by the Board of Governors, in 
-order to support market evaluation of the risk profile, capital 
-adequacy, and risk management capabilities thereof.
-    (g) Short-term Debt Limits.--The Council may make recommendations to 
-the Board of Governors to require short-term debt limits to mitigate the 
-risks that an over-accumulation of such debt could pose to bank holding 
-companies described in subsection (a), nonbank financial companies 
-supervised by the Board of Governors, or the financial system.
+    (b) Use of Existing Reports.--
+            (1) In general.--For purposes of compliance with subsection 
+        (a), the Council, acting through the Office of Financial 
+        Research, shall, to the fullest extent possible, use--
+                    (A) reports that a bank holding company, nonbank 
+                financial company supervised by the Board of Governors, 
+                or any functionally regulated subsidiary of such company 
+                has been required to provide to other Federal or State 
+                regulatory agencies or to a relevant foreign supervisory 
+                authority;
+                    (B) information that is otherwise required to be 
+                reported publicly; and
+                    (C) externally audited financial statements.
+            (2) Availability.--Each bank holding company described in 
+        subsection (a) and nonbank financial company supervised by the 
+        Board of Governors, and any subsidiary thereof, shall provide to 
+        the Council, at the request of the Council, copies of all 
+        reports referred to in paragraph (1).
+            (3) Confidentiality.--The Council shall maintain the 
+        confidentiality of the reports obtained under subsection (a) and 
+        paragraph (1)(A) of this subsection.

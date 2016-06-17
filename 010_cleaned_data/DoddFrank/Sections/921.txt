@@ -1,44 +1,25 @@
 
-    Section 4(g) of the Securities Exchange Act of 1934, as added by 
-section 914, is amended by adding at the end the following:
-            ``(8) Ombudsman.--
-                    ``(A) &lt;&lt;NOTE: Deadline.&gt;&gt;  Appointment.--Not later 
-                than 180 days after the date on which the first Investor 
-                Advocate is appointed under paragraph (2)(A)(i), the 
-                Investor Advocate shall appoint an Ombudsman, who shall 
-                report directly to the Investor Advocate.
-                    ``(B) Duties.--The Ombudsman appointed under 
-                subparagraph (A) shall--
-                          ``(i) act as a liaison between the Commission 
-                      and any retail investor in resolving problems that 
-                      retail investors may have with the Commission or 
-                      with self-regulatory organizations;
-                          ``(ii) review and make recommendations 
-                      regarding policies and procedures to encourage 
-                      persons to present questions to the Investor 
-                      Advocate regarding compliance with the securities 
-                      laws; and
-                          ``(iii) establish safeguards to maintain the 
-                      confidentiality of communications between the 
-                      persons described in clause (ii) and the 
-                      Ombudsman.
-                    ``(C) Limitation.--In carrying out the duties of the 
-                Ombudsman under subparagraph (B), the Ombudsman shall 
-                utilize personnel of the Commission to the extent 
-                practicable. Nothing in this paragraph shall be 
-                construed as replacing, altering, or diminishing the 
-                activities of any ombudsman or similar office of any 
-                other agency.
-                    ``(D) Report.--The Ombudsman shall submit a 
-                semiannual report to the Investor Advocate that 
-                describes the
-
-
-                activities and evaluates the effectiveness of the 
-                Ombudsman during the preceding year. The Investor 
-                Advocate shall include the reports required under this 
-                section in the reports required to be submitted by the 
-                Inspector Advocate under paragraph (6).''.
-
-       Subtitle B--Increasing Regulatory Enforcement and Remedies
-
+    (a) Amendment to Securities Exchange Act of 1934.--Section 15 of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78o), as amended by this 
+title, is further amended by adding at the end the following new 
+subsection:
+    ``(o) Authority to Restrict Mandatory Pre-dispute Arbitration.--The 
+Commission, by rule, may prohibit, or impose conditions or limitations 
+on the use of, agreements that require customers or clients of any 
+broker, dealer, or municipal securities dealer to arbitrate any future 
+dispute between them arising under the Federal securities laws, the 
+rules and regulations thereunder, or the rules of a self-regulatory 
+organization if it finds that such prohibition, imposition of 
+conditions, or limitations are in the public interest and for the 
+protection of investors.''.
+    (b) Amendment to Investment Advisers Act of 1940.--Section 205 of 
+the Investment Advisers Act of 1940 (15 U.S.C. 80b-5) is amended by 
+adding at the end the following new subsection:
+    ``(f) Authority to Restrict Mandatory Pre-dispute Arbitration.--The 
+Commission, by rule, may prohibit, or impose conditions or limitations 
+on the use of, agreements that require customers or clients of any 
+investment adviser to arbitrate any future dispute between them arising 
+under the Federal securities laws, the rules and regulations thereunder, 
+or the rules of a self-regulatory organization if it finds that such 
+prohibition, imposition of conditions, or limitations are in the public 
+interest and for the protection of investors.''.

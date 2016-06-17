@@ -1,156 +1,118 @@
-                        FINANCIAL MARKET UTILITIES.
+                        ACTIONS AGAINST DESIGNATED FINANCIAL 
+                        MARKET UTILITIES.
 
-    (a) Federal Reserve Account and Services.--The Board of Governors 
-may authorize a Federal Reserve Bank to establish and maintain an 
-account for a designated financial market utility and provide the 
-services listed in section 11A(b) of the Federal Reserve Act (12 U.S.C. 
-248a(b)) and deposit accounts under the first undesignated paragraph of 
-section 13 of the Federal Reserve Act (12 U.S.C. 342) to the designated 
-financial market utility that the Federal Reserve Bank is authorized 
-under the Federal Reserve Act to provide to a depository institution, 
-subject to any applicable rules, orders, standards, or guidelines 
-prescribed by the Board of Governors.
-    (b) Advances.--The Board of Governors may authorize a Federal 
-Reserve bank under section 10B of the Federal Reserve Act (12 U.S.C. 
-347b) to provide to a designated financial market utility discount and 
-borrowing privileges only in unusual or exigent circumstances, upon the 
-affirmative vote of a majority of the Board of Governors then serving 
-(or such other number in accordance with the provisions of section 
-11(r)(2) of the Federal Reserve Act (12 U.S.C. 248(r)(2)) after 
-consultation with the Secretary, and upon a showing by the designated 
-financial market utility that it is unable to secure adequate credit 
-accommodations from other banking institutions. All such discounts and 
-borrowing privileges shall be subject to such other limitations, 
-restrictions, and regulations as the Board of Governors may prescribe. 
-Access to discount and borrowing privileges under section 10B of the 
-Federal Reserve Act as authorized in this section does not require a 
-designated
+    (a) Examination.--Notwithstanding any other provision of law and 
+subject to subsection (d), the Supervisory Agency shall conduct 
+examinations of a designated financial market utility at least once 
+annually in order to determine the following:
+            (1) The nature of the operations of, and the risks borne by, 
+        the designated financial market utility.
+            (2) The financial and operational risks presented by the 
+        designated financial market utility to financial institutions, 
+        critical markets, or the broader financial system.
+            (3) The resources and capabilities of the designated 
+        financial market utility to monitor and control such risks.
+            (4) The safety and soundness of the designated financial 
+        market utility.
+            (5) The designated financial market utility's compliance 
+        with--
+                    (A) this title; and
+                    (B) the rules and orders prescribed under this 
+                title.
+
+    (b) Service Providers.--Whenever a service integral to the operation 
+of a designated financial market utility is performed for the designated 
+financial market utility by another entity, whether an affiliate or non-
+affiliate and whether on or off the premises of the designated financial 
+market utility, the Supervisory Agency may examine whether the provision 
+of that service is in compliance with applicable law, rules, orders, and 
+standards to the same extent as if the designated financial market 
+utility were performing the service on its own premises.
+    (c) Enforcement.--For purposes of enforcing the provisions of this 
+title, a designated financial market utility shall be subject to, and 
+the appropriate Supervisory Agency shall have authority under the 
+provisions of subsections (b) through (n) of section 8 of the Federal 
+Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the 
+same extent as if the designated financial market utility was an insured 
+depository institution and the Supervisory Agency was the appropriate 
+Federal banking agency for such insured depository institution.
+    (d) Board of Governors Involvement in Examinations.--
+            (1) Board of governors consultation on examination 
+        planning.-- &lt;&lt;NOTE: Deadline.&gt;&gt; The Supervisory Agency shall 
+        consult annually with the Board of Governors regarding the scope 
+        and methodology of any examination conducted under subsections 
+        (a) and (b). The Supervisory Agency shall lead all examinations 
+        conducted under subsections (a) and (b)
+            (2) Board of governors participation in examination.--The 
+        Board of Governors may, in its discretion, participate in any 
+        examination led by a Supervisory Agency and conducted under 
+        subsections (a) and (b).
+
+    (e) Board of Governors Enforcement Recommendations.--
+            (1) Recommendation.--The Board of Governors may, after 
+        consulting with the Council and the Supervisory Agency, at any 
+        time recommend to the Supervisory Agency that such
 
 
-financial market utility to be or become a bank or bank holding company.
-    (c) Earnings on Federal Reserve Balances.--A Federal Reserve Bank 
-may pay earnings on balances maintained by or on behalf of a designated 
-financial market utility in the same manner and to the same extent as 
-the Federal Reserve Bank may pay earnings to a depository institution 
-under the Federal Reserve Act, subject to any applicable rules, orders, 
-standards, or guidelines prescribed by the Board of Governors.
-    (d) Reserve Requirements.--The Board of Governors may exempt a 
-designated financial market utility from, or modify any, reserve 
-requirements under section 19 of the Federal Reserve Act (12 U.S.C. 461) 
-applicable to a designated financial market utility.
-    (e) Changes to Rules, Procedures, or Operations.--
-            (1) Advance notice.--
-                    (A) Advance notice of proposed changes required.--A 
-                designated financial market utility shall provide notice 
-                60 days in advance notice to its Supervisory Agency of 
-                any proposed change to its rules, procedures, or 
-                operations that could, as defined in rules of each 
-                Supervisory Agency, materially affect, the nature or 
-                level of risks presented by the designated financial 
-                market utility.
-                    (B) Terms and standards prescribed by the 
-                supervisory agencies.--Each Supervisory Agency, in 
-                consultation with the Board of Governors, shall 
-                prescribe regulations that define and describe the 
-                standards for determining when notice is required to be 
-                provided under subparagraph (A).
-                    (C) Contents of notice.--The notice of a proposed 
-                change shall describe--
-                          (i) the nature of the change and expected 
-                      effects on risks to the designated financial 
-                      market utility, its participants, or the market; 
+        agency take enforcement action against a designated financial 
+        market utility in order to prevent or mitigate significant 
+        liquidity, credit, operational, or other risks to the financial 
+        markets or to the financial stability of the United States. Any 
+        such recommendation for enforcement action shall provide a 
+        detailed analysis supporting the recommendation of the Board of 
+        Governors.
+            (2) &lt;&lt;NOTE: Deadline.&gt;&gt;  Consideration.--The Supervisory 
+        Agency shall consider the recommendation of the Board of 
+        Governors and submit a response to the Board of Governors within 
+        60 days.
+            (3) Binding arbitration.--If the Supervisory Agency rejects, 
+        in whole or in part, the recommendation of the Board of 
+        Governors, the Board of Governors may refer the recommendation 
+        to the Council for a binding decision on whether an enforcement 
+        action is warranted.
+            (4) Enforcement action.--Upon an affirmative vote by a 
+        majority of the Council in favor of the Board of Governors' 
+        recommendation under paragraph (3), the Council may require the 
+        Supervisory Agency to--
+                    (A) exercise the enforcement authority referenced in 
+                subsection (c); and
+                    (B) take enforcement action against the designated 
+                financial market utility.
+
+    (f) Emergency Enforcement Actions by the Board of Governors.--
+            (1) Imminent risk of substantial harm.--The Board of 
+        Governors may, after consulting with the Supervisory Agency and 
+        upon an affirmative vote by a majority the Council, take 
+        enforcement action against a designated financial market utility 
+        if the Board of Governors has reasonable cause to conclude 
+        that--
+                    (A) either--
+                          (i) an action engaged in, or contemplated by, 
+                      a designated financial market utility (including 
+                      any change proposed by the designated financial 
+                      market utility to its rules, procedures, or 
+                      operations that would otherwise be subject to 
+                      section 806(e)) poses an imminent risk of 
+                      substantial harm to financial institutions, 
+                      critical markets, or the broader financial system 
+                      of the United States; or
+                          (ii) the condition of a designated financial 
+                      market utility poses an imminent risk of 
+                      substantial harm to financial institutions, 
+                      critical markets, or the broader financial system; 
                       and
-                          (ii) how the designated financial market 
-                      utility plans to manage any identified risks.
-                    (D) Additional information.--The Supervisory Agency 
-                may require a designated financial market utility to 
-                provide any information necessary to assess the effect 
-                the proposed change would have on the nature or level of 
-                risks associated with the designated financial market 
-                utility's payment, clearing, or settlement activities 
-                and the sufficiency of any proposed risk management 
-                techniques.
-                    (E) &lt;&lt;NOTE: Deadline.&gt;&gt;  Notice of objection.--The 
-                Supervisory Agency shall notify the designated financial 
-                market utility of any objection regarding the proposed 
-                change within 60 days from the later of--
-                          (i) the date that the notice of the proposed 
-                      change is received; or
-                          (ii) the date any further information 
-                      requested for consideration of the notice is 
-                      received.
-                    (F) Change not allowed if objection.--A designated 
-                financial market utility shall not implement a change to 
-                which the Supervisory Agency has an objection.
-                    (G) Change allowed if no objection within 60 days.--
-                A designated financial market utility may implement a 
-                change if it has not received an objection to the 
-                proposed change within 60 days of the later of--
+                    (B) the imminent risk of substantial harm precludes 
+                the Board of Governors' use of the procedures in 
+                subsection (e).
+            (2) Enforcement authority.--For purposes of taking 
+        enforcement action under paragraph (1), a designated financial 
+        market utility shall be subject to, and the Board of Governors 
+        shall have authority under the provisions of subsections (b) 
+        through (n) of section 8 of the Federal Deposit Insurance Act 
+        (12 U.S.C. 1818) in the same manner and to the same extent as if 
+        the designated financial market utility was an insured 
+        depository institution and the Board of Governors was the 
+        appropriate Federal banking agency for such insured depository 
+        institution.
 
 
-                          (i) the date that the Supervisory Agency 
-                      receives the notice of proposed change; or
-                          (ii) the date the Supervisory Agency receives 
-                      any further information it requests for 
-                      consideration of the notice.
-                    (H) Review extension for novel or complex issues.-- 
-                &lt;&lt;NOTE: Time period.&gt;&gt; The Supervisory Agency may, 
-                during the 60-day review period, extend the review 
-                period for an additional 60 days for proposed changes 
-                that raise novel or complex issues, subject to the 
-                Supervisory Agency providing the designated financial 
-                market utility with prompt written notice of the 
-                extension. Any extension under this subparagraph will 
-                extend the time periods under subparagraphs (E) and (G).
-                    (I) Change allowed earlier if notified of no 
-                objection.-- &lt;&lt;NOTE: Time period.&gt;&gt; A designated 
-                financial market utility may implement a change in less 
-                than 60 days from the date of receipt of the notice of 
-                proposed change by the Supervisory Agency, or the date 
-                the Supervisory Agency receives any further information 
-                it requested, if the Supervisory Agency notifies the 
-                designated financial market utility in writing that it 
-                does not object to the proposed change and authorizes 
-                the designated financial market utility to implement the 
-                change on an earlier date, subject to any conditions 
-                imposed by the Supervisory Agency.
-            (2) Emergency changes.--
-                    (A) In general.--A designated financial market 
-                utility may implement a change that would otherwise 
-                require advance notice under this subsection if it 
-                determines that--
-                          (i) an emergency exists; and
-                          (ii) immediate implementation of the change is 
-                      necessary for the designated financial market 
-                      utility to continue to provide its services in a 
-                      safe and sound manner.
-                    (B) Notice required within 24 hours.--The designated 
-                financial market utility shall provide notice of any 
-                such emergency change to its Supervisory Agency, as soon 
-                as practicable, which shall be no later than 24 hours 
-                after implementation of the change.
-                    (C) Contents of emergency notice.--In addition to 
-                the information required for changes requiring advance 
-                notice, the notice of an emergency change shall 
-                describe--
-                          (i) the nature of the emergency; and
-                          (ii) the reason the change was necessary for 
-                      the designated financial market utility to 
-                      continue to provide its services in a safe and 
-                      sound manner.
-                    (D) Modification or rescission of change may be 
-                required.--The Supervisory Agency may require 
-                modification or rescission of the change if it finds 
-                that the change is not consistent with the purposes of 
-                this Act or any applicable rules, orders, or standards 
-                prescribed under section 805(a).
-            (3) Copying the board of governors.--The Supervisory Agency 
-        shall provide the Board of Governors concurrently with a 
-        complete copy of any notice, request, or other information it 
-        issues, submits, or receives under this subsection.
-
-
-            (4) Consultation with board of governors.--Before taking any 
-        action on, or completing its review of, a change proposed by a 
-        designated financial market utility, the Supervisory Agency 
-        shall consult with the Board of Governors.

@@ -1,48 +1,34 @@
-                          DATABASE.
 
-    (a) Establishment.--The &lt;&lt;NOTE: Public information.&gt;&gt;  Secretary of 
-Housing and Urban Development and the Director of the Bureau, in 
-consultation with the Federal agencies responsible for regulation of 
-banking and financial institutions involved in residential mortgage 
-lending and servicing, shall establish and maintain a database of 
-information on foreclosures and defaults on mortgage loans for one- to 
-four-unit residential properties and shall make such information 
-publicly available, subject to subsection (e).
+    Section 106 of the Housing and Urban Development Act of 1968 (12 
+U.S.C. 1701x), as amended by the preceding provisions of this subtitle, 
+is amended by adding at the end the following new subsection:
+    ``(h) Definitions.--For purposes of this section:
+            ``(1) Nonprofit organization.--The term `nonprofit 
+        organization' has the meaning given such term in section 104(5) 
+        of the Cranston-Gonzalez National Affordable Housing Act (42 
+        U.S.C. 12704(5)), except that subparagraph (D) of such section 
+        shall not apply for purposes of this section.
+            ``(2) State.--The term `State' means each of the several 
+        States, the Commonwealth of Puerto Rico, the District of 
+        Columbia, the Commonwealth of the Northern Mariana Islands, 
+        Guam, the Virgin Islands, American Samoa, the Trust Territories 
+        of the Pacific, or any other possession of the United States.
+            ``(3) Unit of general local government.--The term `unit of 
+        general local government' means any city, county, parish, town, 
+        township, borough, village, or other general purpose political 
+        subdivision of a State.
+            ``(4) HUD-approved counseling agency.--The term `HUD-
+        approved counseling agency' means a private or public nonprofit 
+        organization that is--
+                    ``(A) exempt from taxation under section 501(c) of 
+                the Internal Revenue Code of 1986; and
+                    ``(B) certified by the Secretary to provide housing 
+                counseling services.
+            ``(5) State housing finance agency.--The term `State housing 
+        finance agency' means any public body, agency, or 
+        instrumentality specifically created under State statute that is 
+        authorised to finance activities designed to provide housing and 
+        related facilities throughout an entire State through land 
+        acquisition, construction, or rehabilitation.''.
 
-    (b) Census Tract Data.--Information in the database may be 
-collected, aggregated, and made available on a census tract basis.
-    (c) Requirements.--Information collected and made available through 
-the database shall include--
-            (1) the number and percentage of such mortgage loans that 
-        are delinquent by more than 30 days;
-            (2) the number and percentage of such mortgage loans that 
-        are delinquent by more than 90 days;
-            (3) the number and percentage of such properties that are 
-        real estate-owned;
-            (4) number and percentage of such mortgage loans that are in 
-        the foreclosure process;
-            (5) the number and percentage of such mortgage loans that 
-        have an outstanding principal obligation amount that is greater 
-        than the value of the property for which the loan was made; and
 
-
-            (6) such other information as the Secretary of Housing and 
-        Urban Development and the Director of the Bureau consider 
-        appropriate.
-
-    (d) Rule of Construction.--Nothing in this section shall be 
-construed to encourage discriminatory or unsound allocation of credit or 
-lending policies or practices.
-    (e) Privacy and Confidentiality.--In establishing and maintaining 
-the database described in subsection (a), the Secretary of Housing and 
-Urban Development and the Director of the Bureau shall--
-            (1) be subject to the standards applicable to Federal 
-        agencies for the protection of the confidentiality of personally 
-        identifiable information and for data security and integrity;
-            (2) implement the necessary measures to conform to the 
-        standards for data integrity and security described in paragraph 
-        (1); and
-            (3) collect and make available information under this 
-        section, in accordance with paragraphs (5) and (6) of section 
-        1022(c) and the rules prescribed under such paragraphs, in order 
-        to protect privacy and confidentiality.

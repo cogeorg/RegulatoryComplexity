@@ -1,31 +1,77 @@
-                          INVESTOR ACCESS TO INFORMATION ON 
-                          INVESTMENT ADVISERS AND BROKER-DEALERS.
+                          DESIGNATIONS.
 
-    (a) Study.--
-            (1) &lt;&lt;NOTE: Deadlines.&gt;&gt;  In general.--Not later than 6 
-        months after the date of enactment of this Act, the Commission 
-        shall complete a study, including recommendations, of ways to 
-        improve the access of investors to registration information 
-        (including disciplinary actions, regulatory, judicial, and 
-        arbitration proceedings, and other information) about registered 
-        and previously registered investment advisers, associated 
-        persons of investment advisers, brokers and dealers and their 
-        associated persons on the existing Central Registration 
-        Depository and Investment Adviser Registration Depository 
-        systems, as well as identify additional information that should 
-        be made publicly available.
-            (2) Contents.--The study required by subsection (a) shall 
-        include an analysis of the advantages and disadvantages of 
-        further centralizing access to the information contained in the 
-        2 systems, including--
+    (a) &lt;&lt;NOTE: Evaluation. Regulations.&gt;&gt;  In General.--The Comptroller 
+General of the United States shall conduct a study to evaluate--
+            (1) the effectiveness of State and Federal regulations to 
+        protect investors and other consumers from individuals who hold 
+        themselves out as financial planners through the use of 
+        misleading titles, designations, or marketing materials;
+            (2) current State and Federal oversight structure and 
+        regulations for financial planners; and
+            (3) legal or regulatory gaps in the regulation of financial 
+        planners and other individuals who provide or offer to provide 
+        financial planning services to consumers.
+
+    (b) Considerations.--In conducting the study required under 
+subsection (a), the Comptroller General shall consider--
+            (1) the role of financial planners in providing advice 
+        regarding the management of financial resources, including 
+        investment planning, income tax planning, education planning, 
+        retirement planning, estate planning, and risk management;
+            (2) whether current regulations at the State and Federal 
+        level provide adequate ethical and professional standards for 
+        financial planners;
+            (3) the possible risk posed to investors and other consumers 
+        by individuals who hold themselves out as financial planners or 
+        as otherwise providing financial planning services in connection 
+        with the sale of financial products, including insurance and 
+        securities;
+            (4) the possible risk posed to investors and other consumers 
+        by individuals who otherwise use titles, designations, or 
+        marketing materials in a misleading way in connection with the 
+        delivery of financial advice;
+            (6) the ability of investors and other consumers to 
+        understand licensing requirements and standards of care that 
+        apply to individuals who hold themselves out as financial 
+        planners or as otherwise providing financial planning services;
+            (7) the possible benefits to investors and other consumers 
+        of regulation and professional oversight of financial planners; 
+        and
+            (8) any other consideration that the Comptroller General 
+        deems necessary or appropriate to effectively execute the study 
+        required under subsection (a).
+
+    (c) Recommendations.--In providing recommendations for the 
+appropriate regulation of financial planners and other individuals who 
+provide or offer to provide financial planning services, in order to 
+protect investors and other consumers of financial planning services, 
+the Comptroller General shall consider--
 
 
-                    (A) identification of those data pertinent to 
-                investors; and
-                    (B) the identification of the method and format for 
-                displaying and publishing such data to enhance 
-                accessibility by and utility to investors.
+            (1) the appropriate structure for regulation of financial 
+        planners and individuals providing financial planning services; 
+        and
+            (2) the appropriate scope of the regulations needed to 
+        protect investors and other consumers, including but not limited 
+        to the need to establish competency standards, practice 
+        standards, ethical guidelines, disciplinary authority, and 
+        transparency to investors and other consumers.
 
-    (b) &lt;&lt;NOTE: Deadlines.&gt;&gt;  Implementation.--Not later than 18 months 
-after the date of completion of the study required by subsection (a), 
-the Commission shall implement any recommendations of the study.
+    (d) Report.--
+            (1) In general.--Not later than 180 days after the date of 
+        enactment of this Act, the Comptroller General shall submit a 
+        report on the study required under subsection (a) to--
+                    (A) the Committee on Banking, Housing, and Urban 
+                Affairs of the Senate;
+                    (B) the Special Committee on Aging of the Senate; 
+                and
+                    (C) the Committee on Financial Services of the House 
+                of Representatives.
+            (2) Content requirements.--The report required under 
+        paragraph (1) shall describe the findings and determinations 
+        made by the Comptroller General in carrying out the study 
+        required under subsection (a), including a description of the 
+        considerations, analysis, and government, public, industry, 
+        nonprofit and consumer input that the Comptroller General 
+        considered to make such findings, conclusions, and legislative, 
+        regulatory, or other recommendations.

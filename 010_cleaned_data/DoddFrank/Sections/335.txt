@@ -1,33 +1,23 @@
-                        ASSESSMENT BASE.
 
-    (a) Section 7(b)(3)(B) of the Federal Deposit Insurance Act is 
-amended to read as follows:
-                    ``(B) Minimum reserve ratio.--The reserve ratio 
-                designated by the Board of Directors for any year may 
-                not be less than 1.35 percent of estimated insured 
-                deposits, or the comparable percentage of the assessment 
-                base set forth in paragraph (2)(C).''.
+    (a) Permanent Increase in Deposit Insurance.--Section 11(a)(1)(E) of 
+the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)(E)) is amended--
+            (1) by striking ``$100,000'' and inserting ``$250,000''; and
+            (2) by adding at the end the following new sentences: 
+        ``Notwithstanding any other provision of law, the increase in 
+        the standard maximum deposit insurance amount to $250,000 shall 
+        apply to depositors in any institution for which the Corporation 
+        was appointed as receiver or conservator on or after January 1, 
+        2008, and before October 3, 2008. The Corporation shall take 
+        such actions as are necessary to carry out the requirements of 
+        this section with respect to such depositors, without regard to 
+        any time limitations under this Act. In implementing this and 
+        the preceding 2 sentences, any payment on a deposit claim made 
+        by the Corporation as receiver or conservator to a depositor 
+        above the standard maximum deposit insurance amount in effect at 
+        the time of the appointment of the Corporation as receiver or 
+        conservator shall be deemed to be part of the net amount due to 
+        the depositor under subparagraph (B).''
 
-    (b) Section 3(y)(3) of the &lt;&lt;NOTE: 12 USC 1813.&gt;&gt; Federal Deposit 
-Insurance Act is amended by inserting ``, or such comparable percentage 
-of the assessment base set forth in section 7(b)(2)(C)'' before the 
-period.
-
-    (c) For a &lt;&lt;NOTE: Time period. Public information. 12 USC 1817 
-note.&gt;&gt; period of not less than 5 years after the date of the enactment 
-of this title, the Federal Deposit Insurance Corporation shall make 
-available to the public the reserve ratio and the designated reserve 
-ratio using both estimated insured deposits and the assessment base 
-under section 7(b)(2)(C) of the Federal Deposit Insurance Act.
-
-    (d) Reserve Ratio.--Notwithstanding the timing requirements of 
-section 7(b)(3)(E)(ii) of the Federal Deposit Insurance Act, the 
-Corporation shall take such steps as may be necessary for the reserve 
-ratio of the Deposit Insurance Fund to reach 1.35 percent of estimated 
-insured deposits by September 30, 2020.
-    (e) Offset.--In setting the assessments necessary to meet the 
-requirements of subsection (d), the Corporation shall offset the effect 
-of subsection (d) on insured depository institutions with total 
-consolidated assets of less than $10,000,000,000.
-
-
+    (b) Permanent Increase in Share Insurance.--Section 207(k)(5) of the 
+Federal Credit Union Act (12 U.S.C. 1787(k)(5)) is amended by striking 
+``$100,000'' and inserting ``$250,000''.

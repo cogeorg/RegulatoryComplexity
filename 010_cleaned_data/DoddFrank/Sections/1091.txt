@@ -1,51 +1,6 @@
+                          COUNCIL ACT OF 1978.
 
-    The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is 
-amended--
-            (1) in section 8(t) (12 U.S.C. 1818(t)), by adding at the 
-        end the following:
-
-
-            ``(6) Referral to bureau of consumer financial protection.--
-        Subject to subtitle B of the Consumer Financial Protection Act 
-        of 2010, each appropriate Federal banking agency shall make a 
-        referral to the Bureau of Consumer Financial Protection when the 
-        Federal banking agency has a reasonable belief that a violation 
-        of an enumerated consumer law, as defined in the Consumer 
-        Financial Protection Act of 2010, has been committed by any 
-        insured depository institution or institution-affiliated party 
-        within the jurisdiction of that appropriate Federal banking 
-        agency.''; and
-            (2) in section 43 (12 U.S.C. 1831t)--
-                    (A) in subsection (c), by striking ``Federal Trade 
-                Commission'' and inserting ``Bureau'';
-                    (B) in subsection (d), by striking ``Federal Trade 
-                Commission'' and inserting ``Bureau'';
-                    (C) in subsection (e)--
-                          (i) in paragraph (2), by striking ``Federal 
-                      Trade Commission'' and inserting ``Bureau''; and
-                          (ii) by adding at the end the following new 
-                      paragraph:
-            ``(5) Bureau.--The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means 
-        the Bureau of Consumer Financial Protection.''; and
-                    (D) in subsection (f)--
-                          (i) by striking paragraph (1) and inserting 
-                      the following:
-            ``(1) Limited enforcement authority.--Compliance with the 
-        requirements of subsections (b), (c), and (e), and any 
-        regulation prescribed or order issued under such subsection, 
-        shall be enforced under the Consumer Financial Protection Act of 
-        2010, by the Bureau, subject to subtitle B of the Consumer 
-        Financial Protection Act of 2010, and under the Federal Trade 
-        Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade 
-        Commission.''; and
-                          (ii) in paragraph (2), by striking 
-                      subparagraph (C) and inserting the following:
-                    ``(C) Limitation on state action while federal 
-                action pending.--If the Bureau or Federal Trade 
-                Commission has instituted an enforcement action for a 
-                violation of this section, no appropriate State 
-                supervisory agency may, during the pendency of such 
-                action, bring an action under this section against any 
-                defendant named in the complaint of the Bureau or 
-                Federal Trade Commission for any violation of this 
-                section that is alleged in that complaint.''.
+    Section 1004(a)(4) of the Federal Financial Institutions Examination 
+Council Act of 1978 (12 U.S.C. 3303(a)(4)) is amended by striking 
+``Director, Office of Thrift Supervision'' and inserting ``Director of 
+the Consumer Financial Protection Bureau''.

@@ -1,53 +1,22 @@
+                        WARRANTIES IN ASSET-BACKED OFFERINGS.
 
-    (a) Securities Exchange Act of 1934.--Section 15(d) of the 
-Securities Exchange Act of 1934 (15 U.S.C. 78o(d)) is amended--
-            (1) by striking ``(d) Each'' and inserting the following:
-
-    ``(d) Supplementary and Periodic Information.--
-            ``(1) In general.--Each'';
-            (2) in the third sentence, by inserting after ``securities 
-        of each class'' the following: ``, other than any class of 
-        asset-backed securities,''; and
-            (3) by adding at the end the following:
-            ``(2) Asset-backed securities.--
-                    ``(A) Suspension of duty to file.--The Commission 
-                may, by rule or regulation, provide for the suspension 
-                or termination of the duty to file under this subsection 
-                for any class of asset-backed security, on such terms 
-                and conditions and for such period or periods as the 
-                Commission deems necessary or appropriate in the public 
-                interest or for the protection of investors.
-                    ``(B) Classification of issuers.--The Commission 
-                may, for purposes of this subsection, classify issuers 
-                and
-
-
-                prescribe requirements appropriate for each class of 
-                issuers of asset-backed securities.''.
-
-    (b) Securities Act of 1933.--Section 7 of the Securities Act of 1933 
-(15 U.S.C. 77g) is amended by adding at the end the following:
-    ``(c) Disclosure Requirements.--
-            ``(1) &lt;&lt;NOTE: Regulations.&gt;&gt;  In general.--The Commission 
-        shall adopt regulations under this subsection requiring each 
-        issuer of an asset-backed security to disclose, for each tranche 
-        or class of security, information regarding the assets backing 
-        that security.
-            ``(2) Content of regulations.--In adopting regulations under 
-        this subsection, the Commission shall--
-                    ``(A) set standards for the format of the data 
-                provided by issuers of an asset-backed security, which 
-                shall, to the extent feasible, facilitate comparison of 
-                such data across securities in similar types of asset 
-                classes; and
-                    ``(B) require issuers of asset-backed securities, at 
-                a minimum, to disclose asset-level or loan-level data, 
-                if such data are necessary for investors to 
-                independently perform due diligence, including--
-                          ``(i) data having unique identifiers relating 
-                      to loan brokers or originators;
-                          ``(ii) the nature and extent of the 
-                      compensation of the broker or originator of the 
-                      assets backing the security; and
-                          ``(iii) the amount of risk retention by the 
-                      originator and the securitizer of such assets.''.
+    Not &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt; later than 180 days after the 
+date of enactment of this Act, the Securities and Exchange Commission 
+shall prescribe regulations on the use of representations and warranties 
+in the market for asset-backed securities (as that term is defined in 
+section 3(a)(77) of the Securities Exchange Act of 1934, as added by 
+this subtitle) that--
+            (1) require each national recognized statistical rating 
+        organization to include in any report accompanying a credit 
+        rating a description of--
+                    (A) the representations, warranties, and enforcement 
+                mechanisms available to investors; and
+                    (B) how they differ from the representations, 
+                warranties, and enforcement mechanisms in issuances of 
+                similar securities; and
+            (2) require any securitizer (as that term is defined in 
+        section 15G(a) of the Securities Exchange Act of 1934, as added 
+        by this subtitle) to disclose fulfilled and unfulfilled 
+        repurchase requests across all trusts aggregated by the 
+        securitizer, so that investors may identify asset originators 
+        with clear underwriting deficiencies.

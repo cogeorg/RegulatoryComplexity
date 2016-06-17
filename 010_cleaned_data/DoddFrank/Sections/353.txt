@@ -1,8 +1,20 @@
-                        1985.
 
-    Section 256(h) of the Balanced Budget and Emergency Deficit Control 
-Act of 1985 (2 U.S.C. 906(h)) is amended--
-            (1) in paragraph (4), by striking subparagraphs (C) and (G); 
-        and
-            (2) by redesignating subparagraphs (D), (E), (F), and (H) as 
-        subparagraphs (C), (D), (E), and (F), respectively.
+    Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 
+1834(a)) is amended--
+            (1) in the subsection heading, by striking ``by Federal 
+        Reserve Board'';
+            (2) in paragraph (1)--
+                    (A) by striking ``The Board of Governors of the 
+                Federal Reserve System,'' and inserting ``The 
+                Comptroller of the Currency''; and
+                    (B) by striking ``section 7(b)(2)(H)'' and inserting 
+                ``section 7(b)(2)(E)'';
+            (3) in paragraph (2)(A), by striking ``Board'' and inserting 
+        ``Comptroller''; and
+            (4) in paragraph (3)--
+                    (A) by redesignating subparagraphs (A) through (C) 
+                as subparagraphs (B) through (D), respectively; and
+                    (B) by inserting before subparagraph (B) the 
+                following:
+                    ``(A) Comptroller.--The &lt;&lt;NOTE: Definition.&gt;&gt; term 
+                `Comptroller' means the Comptroller of the Currency.''.

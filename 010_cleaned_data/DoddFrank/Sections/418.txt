@@ -1,33 +1,14 @@
 
-    (a) Studies.--The Division of Risk, Strategy, and Financial 
-Innovation of the Commission shall conduct--
-            (1) a study, taking into account current scholarship, on the 
-        state of short selling on national securities exchanges and in 
-        the over-the-counter markets, with particular attention to the 
-        impact of recent rule changes and the incidence of--
-                    (A) the failure to deliver shares sold short; or
-                    (B) delivery of shares on the fourth day following 
-                the short sale transaction; and
-            (2) a study of--
-                    (A) the feasibility, benefits, and costs of 
-                requiring reporting publicly, in real time short sale 
-                positions of publicly listed securities, or, in the 
-                alternative, reporting such short positions in real time 
-                only to the Commission and the Financial Industry 
-                Regulatory Authority; and
-                    (B) the feasibility, benefits, and costs of 
-                conducting a voluntary pilot program in which public 
-                companies will agree to have all trades of their shares 
-                marked ``short'', ``market maker short'', ``buy'', 
-                ``buy-to-cover'', or ``long'', and reported in real time 
-                through the Consolidated Tape.
+    Section 205(e) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-5(e)) is amended by adding at the end the following: ``With 
+respect &lt;&lt;NOTE: Order. Deadlines.&gt;&gt;  to any factor used in any rule or 
+regulation by the Commission in making a determination under this 
+subsection, if the Commission uses a dollar amount test in connection 
+with such factor, such as a net asset threshold, the Commission shall, 
+by order, not later than 1 year after the date of enactment of the 
+Private Fund Investment Advisers Registration Act of 2010, and every 5 
+years thereafter, adjust for the effects of inflation on such test. Any 
+such adjustment that is not a multiple of $100,000 shall be rounded to 
+the nearest multiple of $100,000.''.
 
-    (b) Reports.--The Commission shall submit a report to the Committee 
-on Banking, Housing, and Urban Affairs of the Senate and the Committee 
-on Financial Services of the House of Representatives--
-            (1) on the results of the study required under subsection 
-        (a)(1), including recommendations for market improvements, not 
-        later than 2 years after the date of enactment of this Act; and
-            (2) on the results of the study required under subsection 
-        (a)(2), not later than 1 year after the date of enactment of 
-        this Act.
+

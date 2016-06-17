@@ -1,7 +1,20 @@
-                          OF PUBLICLY TRADED COMPANIES.
 
-    Section 1514A of title 18, United States Code, is amended by 
-inserting ``including any subsidiary or affiliate whose financial 
-information is included in the consolidated financial statements of such 
-company'' after ``the Securities Exchange Act of 1934 (15 U.S.C. 
-78o(d))''.
+    Section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(a)) is 
+amended--
+            (1) by striking subsection (a) and inserting the following:
+
+    ``(a) Civil Penalties to Be Used for the Relief of Victims.--If, in 
+any judicial or administrative action brought by the Commission under 
+the securities laws, the Commission obtains a civil penalty against any 
+person for a violation of such laws, or such person agrees, in 
+settlement of any such action, to such civil penalty, the amount of such 
+civil penalty shall, on the motion or at the direction of the 
+Commission, be added to and become part of a disgorgement fund or other 
+fund established for the benefit of the victims of such violation.'';
+            (2) in subsection (b)--
+                    (A) by striking ``for a disgorgement fund described 
+                in subsection (a)'' and inserting ``for a disgorgement 
+                fund or other fund described in subsection (a)''; and
+                    (B) by striking ``in the disgorgement fund'' and 
+                inserting ``in such fund''; and
+            (3) by striking subsection (e).

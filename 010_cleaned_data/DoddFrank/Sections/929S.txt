@@ -1,33 +1,11 @@
 
-    (a) Beneficial Ownership Reporting.--Section 13 of the Securities 
-Exchange Act of 1934 (15 U.S.C. 78m) is amended--
-            (1) in subsection (d)(1)--
-                    (A) by inserting after ``within ten days after such 
-                acquisition'' the following: ``or within such shorter 
-                time as the Commission may establish by rule''; and
-                    (B) by striking ``send to the issuer of the security 
-                at its principal executive office, by registered or 
-                certified mail, send to each exchange where the security 
-                is traded, and'';
-            (2) in subsection (d)(2)--
-                    (A) by striking ``in the statements to the issuer 
-                and the exchange, and''; and
-
-
-                    (B) by striking ``shall be transmitted to the issuer 
-                and the exchange and'';
-            (3) in subsection (g)(1), by striking ``shall send to the 
-        issuer of the security and''; and
-            (4) in subsection (g)(2)--
-                    (A) by striking ``sent to the issuer and''; and
-                    (B) by striking ``shall be transmitted to the issuer 
-                and''.
-
-    (b) Short-swing Profit Reporting.--Section 16(a) of the Securities 
-Exchange Act of 1934 (15 U.S.C. 78p(a)) is amended--
-            (1) in paragraph (1), by striking ``(and, if such security 
-        is registered on a national securities exchange, also with the 
-        exchange)''; and
-            (2) in paragraph (2)(B), by inserting after ``officer'' the 
-        following: ``, or within such shorter time as the Commission may 
-        establish by rule''.
+    Section 17(f)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78q(f)(2)) is amended--
+            (1) in the first sentence, by striking ``and registered 
+        clearing agency,'' and inserting ``registered clearing agency, 
+        registered securities information processor, national securities 
+        exchange, and national securities association''; and
+            (2) in the second sentence, by striking ``or clearing 
+        agency,'' and inserting ``clearing agency, securities 
+        information processor, national securities exchange, or national 
+        securities association,''.

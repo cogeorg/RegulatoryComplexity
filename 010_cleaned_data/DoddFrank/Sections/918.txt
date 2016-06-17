@@ -1,37 +1,21 @@
 
-    (a) In General.--The Commission shall conduct a study to identify--
-            (1) the existing level of financial literacy among retail 
-        investors, including subgroups of investors identified by the 
-        Commission;
-            (2) methods to improve the timing, content, and format of 
-        disclosures to investors with respect to financial 
-        intermediaries, investment products, and investment services;
-            (3) the most useful and understandable relevant information 
-        that retail investors need to make informed financial decisions 
-        before engaging a financial intermediary or purchasing an 
-        investment product or service that is typically sold to retail 
-        investors, including shares of open-end companies, as that term 
-        is defined in section 5 of the Investment Company Act of 1940 
-        (15 U.S.C. 80a-5) that are registered under section 8 of that 
-        Act;
-            (4) methods to increase the transparency of expenses and 
-        conflicts of interests in transactions involving investment 
-        services and products, including shares of open-end companies 
-        described in paragraph (3);
-            (5) the most effective existing private and public efforts 
-        to educate investors; and
-            (6) in consultation with the Financial Literacy and 
-        Education Commission, a strategy (including, to the extent 
-        practicable, measurable goals and objectives) to increase the 
-        financial literacy of investors in order to bring about a 
-        positive change in investor behavior.
+    (a) In General.--The Comptroller General of the United States shall 
+conduct a study on mutual fund advertising to identify--
+            (1) existing and proposed regulatory requirements for open-
+        end investment company advertisements;
+            (2) current marketing practices for the sale of open-end 
+        investment company shares, including the use of past performance 
+        data, funds that have merged, and incubator funds;
+            (3) the impact of such advertising on consumers; and
+            (4) recommendations to improve investor protections in 
+        mutual fund advertising and additional information necessary to 
+        ensure that investors can make informed financial decisions when 
+        purchasing shares.
 
-    (b) Report.--Not later than 2 years after the date of enactment of 
-this Act, the Commission shall submit a report on the study required 
-under subsection (a) to--
+    (b) Report.--Not later than 18 months after the date of enactment of 
+this Act, the Comptroller General of the United States shall submit a 
+report on the results of the study conducted under subsection (a) to--
             (1) the Committee on Banking, Housing, and Urban Affairs of 
-        the Senate; and
+        the United States Senate; and
             (2) the Committee on Financial Services of the House of 
         Representatives.
-
-

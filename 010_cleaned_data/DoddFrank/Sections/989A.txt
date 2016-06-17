@@ -1,120 +1,200 @@
-                        TRADING.
 
-    (a) Definitions.--In this section--
-            (1) the term ``covered entity'' means--
-                    (A) an insured depository institution, an affiliate 
-                of an insured depository institution, a bank holding 
-                company,
-
-
-                a financial holding company, or a subsidiary of a bank 
-                holding company or a financial holding company, as those 
-                terms are defined in the Bank Holding Company Act of 
-                1956 (12 U.S.C. 1841 et seq.); and
-                    (B) any other entity, as the Comptroller General of 
-                the United States may determine; and
-            (2) the term ``proprietary trading'' means the act of a 
-        covered entity investing as a principal in securities, 
-        commodities, derivatives, hedge funds, private equity firms, or 
-        such other financial products or entities as the Comptroller 
-        General may determine.
-
-    (b) Study.--
-            (1) In general.--The Comptroller General of the United 
-        States shall conduct a study regarding the risks and conflicts 
-        associated with proprietary trading by and within covered 
-        entities, including an evaluation of--
-                    (A) whether proprietary trading presents a material 
-                systemic risk to the stability of the United States 
-                financial system, and if so, the costs and benefits of 
-                options for mitigating such systemic risk;
-                    (B) whether proprietary trading presents material 
-                risks to the safety and soundness of the covered 
-                entities that engage in such activities, and if so, the 
-                costs and benefits of options for mitigating such risks;
-                    (C) whether proprietary trading presents material 
-                conflicts of interest between covered entities that 
-                engage in proprietary trading and the clients of the 
-                institutions who use the firm to execute trades or who 
-                rely on the firm to manage assets, and if so, the costs 
-                and benefits of options for mitigating such conflicts of 
-                interest;
-                    (D) whether adequate disclosure regarding the risks 
-                and conflicts of proprietary trading is provided to the 
-                depositors, trading and asset management clients, and 
-                investors of covered entities that engage in proprietary 
-                trading, and if not, the costs and benefits of options 
-                for the improvement of such disclosure; and
-                    (E) whether the banking, securities, and commodities 
-                regulators of institutions that engage in proprietary 
-                trading have in place adequate systems and controls to 
-                monitor and contain any risks and conflicts of interest 
-                related to proprietary trading, and if not, the costs 
-                and benefits of options for the improvement of such 
-                systems and controls.
-            (2) Considerations.--In carrying out the study required 
-        under paragraph (1), the Comptroller General shall consider--
-                    (A) current practice relating to proprietary 
-                trading;
-                    (B) the advisability of a complete ban on 
-                proprietary trading;
-                    (C) limitations on the scope of activities that 
-                covered entities may engage in with respect to 
-                proprietary trading;
-                    (D) the advisability of additional capital 
-                requirements for covered entities that engage in 
-                proprietary trading;
-                    (E) enhanced restrictions on transactions between 
-                affiliates related to proprietary trading;
-                    (F) enhanced accounting disclosures relating to 
-                proprietary trading;
-                    (G) enhanced public disclosure relating to 
-                proprietary trading; and
+    (a) Definitions.--As used in this section--
+            (1) the term ``eligible entity'' means--
+                    (A) a securities commission (or any agency or office 
+                performing like functions) of a State that the Office 
+                determines has adopted rules on the appropriate use of 
+                designations in the offer or sale of securities or the 
+                provision of investment advice that meet or exceed the 
+                minimum requirements of the NASAA Model Rule on the Use 
+                of
 
 
-                    (H) any other options the Comptroller General deems 
-                appropriate.
+                Senior-Specific Certifications and Professional 
+                Designations (or any successor thereto);
+                    (B) the insurance commission (or any agency or 
+                office performing like functions) of any State that the 
+                Office determines has--
+                          (i) adopted rules on the appropriate use of 
+                      designations in the sale of insurance products 
+                      that, to the extent practicable, conform to the 
+                      minimum requirements of the National Association 
+                      of Insurance Commissioners Model Regulation on the 
+                      Use of Senior-Specific Certifications and 
+                      Professional Designations in the Sale of Life 
+                      Insurance and Annuities (or any successor 
+                      thereto); and
+                          (ii) adopted rules with respect to fiduciary 
+                      or suitability requirements in the sale of 
+                      annuities that meet or exceed the minimum 
+                      requirements established by the Suitability in 
+                      Annuity Transactions Model Regulation of the 
+                      National Association of Insurance Commissioners 
+                      (or any successor thereto); or
+                    (C) a consumer protection agency of any State, if--
+                          (i) the securities commission (or any agency 
+                      or office performing like functions) of the State 
+                      is eligible under subparagraph (A); or
+                          (ii) the insurance commission (or any agency 
+                      or office performing like functions) of the State 
+                      is eligible under subparagraph (B);
+            (2) the term ``financial product'' means a security, an 
+        insurance product (including an insurance product that pays a 
+        return, whether fixed or variable), a bank product, and a loan 
+        product;
+            (3) the term ``misleading designation''--
+                    (A) means a certification, professional designation, 
+                or other purported credential that indicates or implies 
+                that a salesperson or adviser has special certification 
+                or training in advising or servicing seniors; and
+                    (B) does not include a certification, professional 
+                designation, license, or other credential that--
+                          (i) was issued by or obtained from an academic 
+                      institution having regional accreditation;
+                          (ii) meets the standards for certifications 
+                      and professional designations outlined by the 
+                      NASAA Model Rule on the Use of Senior-Specific 
+                      Certifications and Professional Designations (or 
+                      any successor thereto) or by the Model Regulations 
+                      on the Use of Senior-Specific Certifications and 
+                      Professional Designations in the Sale of Life 
+                      Insurance and Annuities, adopted by the National 
+                      Association of Insurance Commissioners (or any 
+                      successor thereto); or
+                          (iii) was issued by or obtained from a State;
+            (4) the term ``misleading or fraudulent marketing'' means 
+        the use of a misleading designation by a person that sells to or 
+        advises a senior in connection with the sale of a financial 
+        product;
+            (5) the term ``NASAA'' means the North American Securities 
+        Administrators Association;
+            (6) the term ``Office'' means the Office of Financial 
+        Literacy of the Bureau;
 
-    (c) Report to Congress.--Not later than 15 months after the date of 
-enactment of this Act, the Comptroller General shall submit a report to 
-Congress on the results of the study conducted under subsection (b).
-    (d) Access by Comptroller General.--For purposes of conducting the 
-study required under subsection (b), the Comptroller General shall have 
-access, upon request, to any information, data, schedules, books, 
-accounts, financial records, reports, files, electronic communications, 
-or other papers, things, or property belonging to or in use by a covered 
-entity that engages in proprietary trading, and to the officers, 
-directors, employees, independent public accountants, financial 
-advisors, staff, and agents and representatives of a covered entity (as 
-related to the activities of the agent or representative on behalf of 
-the covered entity), at such reasonable times as the Comptroller General 
-may request. The Comptroller General may make and retain copies of 
-books, records, accounts, and other records, as the Comptroller General 
-deems appropriate.
-    (e) Confidentiality of Reports.--
-            (1) In general.--Except as provided in paragraph (2), the 
-        Comptroller General may not disclose information regarding--
-                    (A) any proprietary trading activity of a covered 
-                entity, unless such information is disclosed at a level 
-                of generality that does not reveal the investment or 
-                trading position or strategy of the covered entity for 
-                any specific security, commodity, derivative, or other 
-                investment or financial product; or
-                    (B) any individual interviewed by the Comptroller 
-                General for purposes of the study under subsection (b), 
-                unless such information is disclosed at a level of 
-                generality that does not reveal--
-                          (i) the name of or identifying details 
-                      relating to such individual; or
-                          (ii) in the case of an individual who is an 
-                      employee of a third party that provides 
-                      professional services to a covered entity believed 
-                      to be engaged in proprietary trading, the name of 
-                      or any identifying details relating to such third 
-                      party.
-            (2) Exceptions.--The Comptroller General may disclose the 
-        information described in paragraph (1)--
-                    (A) to a department, agency, or official of the 
-                Federal Government, for official use, upon request;
-                    (B) to a committee of Congress, upon request; and
-                    (C) to a court, upon an order of such court.
+
+            (7) the term ``senior'' means any individual who has 
+        attained the age of 62 years or older; and
+            (8) the term ``State'' has the same meaning as in section 3 
+        of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+
+    (b) Grants to States for Enhanced Protection of Seniors From Being 
+Misled by False Designations.--The Office shall establish a program 
+under which the Office may make grants to States or eligible entities--
+            (1) to hire staff to identify, investigate, and prosecute 
+        (through civil, administrative, or criminal enforcement actions) 
+        cases involving misleading or fraudulent marketing;
+            (2) to fund technology, equipment, and training for 
+        regulators, prosecutors, and law enforcement officers, in order 
+        to identify salespersons and advisers who target seniors through 
+        the use of misleading designations;
+            (3) to fund technology, equipment, and training for 
+        prosecutors to increase the successful prosecution of 
+        salespersons and advisers who target seniors with the use of 
+        misleading designations;
+            (4) to provide educational materials and training to 
+        regulators on the appropriateness of the use of designations by 
+        salespersons and advisers in connection with the sale and 
+        marketing of financial products;
+            (5) to provide educational materials and training to seniors 
+        to increase awareness and understanding of misleading or 
+        fraudulent marketing;
+            (6) to develop comprehensive plans to combat misleading or 
+        fraudulent marketing of financial products to seniors; and
+            (7) to enhance provisions of State law to provide protection 
+        for seniors against misleading or fraudulent marketing.
+
+    (c) Applications.--A State or eligible entity desiring a grant under 
+this section shall submit an application to the Office, in such form and 
+in such a manner as the Office may determine, that includes--
+            (1) a proposal for activities to protect seniors from 
+        misleading or fraudulent marketing that are proposed to be 
+        funded using a grant under this section, including--
+                    (A) an identification of the scope of the problem of 
+                misleading or fraudulent marketing in the State;
+                    (B) a description of how the proposed activities 
+                would--
+                          (i) protect seniors from misleading or 
+                      fraudulent marketing in the sale of financial 
+                      products, including by proactively identifying 
+                      victims of misleading and fraudulent marketing who 
+                      are seniors;
+                          (ii) assist in the investigation and 
+                      prosecution of those using misleading or 
+                      fraudulent marketing; and
+                          (iii) discourage and reduce cases of 
+                      misleading or fraudulent marketing; and
+                    (C) a description of how the proposed activities 
+                would be coordinated with other State efforts; and
+            (2) any other information, as the Office determines is 
+        appropriate.
+
+    (d) Performance Objectives and Reporting Requirements.--The Office 
+may establish such performance objectives and reporting requirements for 
+States and eligible entities receiving a grant under this section as the 
+Office determines are necessary
+
+
+to carry out and assess the effectiveness of the program under this 
+section.
+    (e) Maximum Amount.--The amount of a grant under this section may 
+not exceed--
+            (1) $500,000 for each of 3 consecutive fiscal years, if the 
+        recipient is a State, or an eligible entity of a State, that has 
+        adopted rules--
+                    (A) on the appropriate use of designations in the 
+                offer or sale of securities or investment advice that 
+                meet or exceed the minimum requirements of the NASAA 
+                Model Rule on the Use of Senior-Specific Certifications 
+                and Professional Designations (or any successor 
+                thereto);
+                    (B) on the appropriate use of designations in the 
+                sale of insurance products that, to the extent 
+                practicable, conform to the minimum requirements of the 
+                National Association of Insurance Commissioners Model 
+                Regulation on the Use of Senior-Specific Certifications 
+                and Professional Designations in the Sale of Life 
+                Insurance and Annuities (or any successor thereto); and
+                    (C) with respect to fiduciary or suitability 
+                requirements in the sale of annuities that meet or 
+                exceed the minimum requirements established by the 
+                Suitability in Annuity Transactions Model Regulation of 
+                the National Association of Insurance Commissioners (or 
+                any successor thereto); and
+            (2) $100,000 for each of 3 consecutive fiscal years, if the 
+        recipient is a State, or an eligible entity of a State, that has 
+        adopted--
+                    (A) rules on the appropriate use of designations in 
+                the offer or sale of securities or investment advice 
+                that meet or exceed the minimum requirements of the 
+                NASAA Model Rule on the Use of Senior-Specific 
+                Certifications and Professional Designations (or any 
+                successor thereto); or
+                    (B) rules--
+                          (i) on the appropriate use of designations in 
+                      the sale of insurance products that, to the extent 
+                      practicable, conform to the minimum requirements 
+                      of the National Association of Insurance 
+                      Commissioners Model Regulation on the Use of 
+                      Senior-Specific Certifications and Professional 
+                      Designations in the Sale of Life Insurance and 
+                      Annuities (or any successor thereto); and
+                          (ii) with respect to fiduciary or suitability 
+                      requirements in the sale of annuities that meet or 
+                      exceed the minimum requirements established by the 
+                      Suitability in Annuity Transactions Model 
+                      Regulation of the National Association of 
+                      Insurance Commissioners (or any successor 
+                      thereto).
+
+    (f) Subgrants.--A State or eligible entity that receives a grant 
+under this section may make a subgrant, as the State or eligible entity 
+determines is necessary to carry out the activities funded using a grant 
+under this section.
+    (g) Reapplication.--A State or eligible entity that receives a grant 
+under this section may reapply for a grant under this section, 
+notwithstanding the limitations on grant amounts under subsection (e).
+
+
+    (h) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section, $8,000,000 for each of fiscal 
+years 2011 through 2015.

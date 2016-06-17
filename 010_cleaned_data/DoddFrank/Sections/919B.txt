@@ -1,50 +1,31 @@
+                          INVESTOR ACCESS TO INFORMATION ON 
+                          INVESTMENT ADVISERS AND BROKER-DEALERS.
 
-    (a) In General.--The Comptroller General of the United States shall 
-conduct a study--
-            (1) to identify and examine potential conflicts of interest 
-        that exist between the staffs of the investment banking and 
-        equity and fixed income securities analyst functions within the 
-        same firm; and
+    (a) Study.--
+            (1) &lt;&lt;NOTE: Deadlines.&gt;&gt;  In general.--Not later than 6 
+        months after the date of enactment of this Act, the Commission 
+        shall complete a study, including recommendations, of ways to 
+        improve the access of investors to registration information 
+        (including disciplinary actions, regulatory, judicial, and 
+        arbitration proceedings, and other information) about registered 
+        and previously registered investment advisers, associated 
+        persons of investment advisers, brokers and dealers and their 
+        associated persons on the existing Central Registration 
+        Depository and Investment Adviser Registration Depository 
+        systems, as well as identify additional information that should 
+        be made publicly available.
+            (2) Contents.--The study required by subsection (a) shall 
+        include an analysis of the advantages and disadvantages of 
+        further centralizing access to the information contained in the 
+        2 systems, including--
 
 
-            (2) to make recommendations to Congress designed to protect 
-        investors in light of such conflicts.
+                    (A) identification of those data pertinent to 
+                investors; and
+                    (B) the identification of the method and format for 
+                displaying and publishing such data to enhance 
+                accessibility by and utility to investors.
 
-    (b) Considerations.--In conducting the study under subsection (a), 
-the Comptroller General shall--
-            (1) consider--
-                    (A) the potential for investor harm resulting from 
-                conflicts, including consideration of the forms of 
-                misconduct engaged in by the several securities firms 
-                and individuals that entered into the Global Analyst 
-                Research Settlements in 2003 (also known as the ``Global 
-                Settlement'');
-                    (B) the nature and benefits of the undertakings to 
-                which those firms agreed in enforcement proceedings, 
-                including firewalls between research and investment 
-                banking, separate reporting lines, dedicated legal and 
-                compliance staffs, allocation of budget, physical 
-                separation, compensation, employee performance 
-                evaluations, coverage decisions, limitations on 
-                soliciting investment banking business, disclosures, 
-                transparency, and other measures;
-                    (C) whether any such undertakings should be codified 
-                and applied permanently to securities firms, or whether 
-                the Commission should adopt rules applying any such 
-                undertakings to securities firms; and
-                    (D) whether to recommend regulatory or legislative 
-                measures designed to mitigate possible adverse 
-                consequences to investors arising from the conflicts of 
-                interest or to enhance investor protection or confidence 
-                in the integrity of the securities markets; and
-            (2) consult with State attorneys general, State securities 
-        officials, the Commission, the Financial Industry Regulatory 
-        Authority (``FINRA''), NYSE Regulation, investor advocates, 
-        brokers, dealers, retail investors, institutional investors, and 
-        academics.
-
-    (c) Report.--The Comptroller General shall submit a report on the 
-results of the study required by this section to the Committee on 
-Banking, Housing, and Urban Affairs of the Senate and the Committee on 
-Financial Services of the House of Representatives, not later than 18 
-months after the date of enactment of this Act.
+    (b) &lt;&lt;NOTE: Deadlines.&gt;&gt;  Implementation.--Not later than 18 months 
+after the date of completion of the study required by subsection (a), 
+the Commission shall implement any recommendations of the study.

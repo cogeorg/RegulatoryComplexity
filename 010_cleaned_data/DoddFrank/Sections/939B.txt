@@ -1,26 +1,10 @@
-                          RELIANCE ON RATINGS.
+                          FROM FAIR DISCLOSURE RULE.
 
-    (a) Agency Review.-- &lt;&lt;NOTE: Deadline.&gt;&gt; Not later than 1 year after 
-the date of the enactment of this subtitle, each Federal agency shall, 
-to the extent applicable, review--
-            (1) any regulation issued by such agency that requires the 
-        use of an assessment of the credit-worthiness of a security or 
-        money market instrument; and
-            (2) any references to or requirements in such regulations 
-        regarding credit ratings.
+    Not &lt;&lt;NOTE: Deadline.&gt;&gt; later than 90 days after the date of 
+enactment of this subtitle, the Securities Exchange Commission shall 
+revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation 
+the
 
-    (b) Modifications Required.--Each such agency shall modify any such 
-regulations identified by the review conducted under subsection (a) to 
-remove any reference to or requirement of reliance on credit ratings and 
-to substitute in such regulations such standard of credit-worthiness as 
-each respective agency shall determine as appropriate for such 
-regulations. &lt;&lt;NOTE: Standards.&gt;&gt; In making such determination, such 
-agencies shall seek to establish, to the extent feasible, uniform 
-standards of credit-worthiness for use by each such agency, taking into 
-account the entities regulated by each such agency and the purposes for 
-which such entities would rely on such standards of credit-worthiness.
 
-    (c) Report.--Upon conclusion of the review required under subsection 
-(a), each Federal agency shall transmit a report to Congress containing 
-a description of any modification of any regulation such agency made 
-pursuant to subsection (b).
+exemption for entities whose primary business is the issuance of credit 
+ratings (17 C.F.R. 243.100(b)(2)(iii)).

@@ -1,4 +1,12 @@
 
-    Section 606(c)(3) of the Neighborhood Reinvestment Corporation Act 
-(42 U.S.C. 8105(c)(3)) is amended by striking ``Federal Home Loan Bank 
-Board'' and inserting ``Federal Housing Finance Agency''.
+    Section 5(d) of Public Law 93-100 (12 U.S.C. 1470(a)) is amended--
+            (1) in paragraph (1), by striking ``Federal Savings and Loan 
+        Insurance Corporation with respect to insured institutions, the 
+        Board of Governors of the Federal Reserve System with respect to 
+        State member insured banks, and the Federal Deposit Insurance 
+        Corporation with respect to State nonmember insured banks'' and 
+        inserting ``appropriate Federal banking agency, with respect to 
+        the institutions subject to the jurisdiction of each such 
+        agency,''; and
+            (2) in paragraph (2), by striking ``supervisory'' and 
+        inserting ``banking''.

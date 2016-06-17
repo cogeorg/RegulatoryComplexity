@@ -1,32 +1,38 @@
 
-    (a) Requirements for Prompt Crediting of Home Loan Payments.--
-Chapter 2 of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is 
-amended by inserting after section 129E (as added by section 1472) the 
-following new section:
-``Sec. 129F. &lt;&lt;NOTE: 15 USC 1639f.&gt;&gt; Requirements for prompt 
-                  crediting of home loan payments
+    Section 128(b) of the Truth in Lending Act (15 U.S.C. 1638(b)) is 
+amended by adding at the end the following new paragraph:
+            ``(4) Repayment analysis required to include escrow 
+        payments.--
+                    ``(A) In general.--In the case of any consumer 
+                credit transaction secured by a first mortgage or lien 
+                on the principal dwelling of the consumer, other than a 
+                consumer credit transaction under an open end credit 
+                plan or a reverse mortgage, for which an impound, trust, 
+                or other type of account has been or will be established 
+                in connection with the transaction for the payment of 
+                property taxes, hazard and flood (if any) insurance 
+                premiums, or other periodic payments or premiums with 
+                respect to the property, the information required to be 
+                provided under subsection (a) with respect to the 
+                number, amount, and due dates or period of payments 
+                scheduled to repay the total of payments shall take into 
+                account the amount of any monthly payment to such 
+                account for each such repayment in accordance with 
+                section 10(a)(2) of the Real Estate Settlement 
+                Procedures Act of 1974.
+                    ``(B) Assessment value.--The amount taken into 
+                account under subparagraph (A) for the payment of 
+                property taxes, hazard and flood (if any) insurance 
+                premiums, or other periodic payments or premiums with 
+                respect to the property shall reflect the taxable 
+                assessed value of the real property securing the 
+                transaction after the consummation of the transaction, 
+                including the value of any improvements on the property 
+                or to be constructed on the property (whether or not 
+                such construction will be financed from the proceeds of 
+                the transaction), if known, and the replacement costs of 
+                the property for hazard insurance, in the initial year 
+                after the transaction.''.
 
-    ``(a) In General.--In connection with a consumer credit transaction 
-secured by a consumer's principal dwelling, no servicer shall fail to 
-credit a payment to the consumer's loan account as of the date of 
-receipt, except when a delay in crediting does not result in any charge 
-to the consumer or in the reporting of negative information to a 
-consumer reporting agency, except as required in subsection (b).
-    ``(b) Exception.--If a servicer specifies in writing requirements 
-for the consumer to follow in making payments, but accepts a payment 
-that does not conform to the requirements, the servicer shall credit the 
-payment as of 5 days after receipt.''.
-    (b) Requests for Payoff Amounts.--Chapter 2 of the Truth in Lending 
-Act (15 U.S.C. 1631 et seq.), as amended by this title, is amended by 
-inserting after section 129F (as added by subsection (a)) the following 
-new section:
-``Sec. 129G. &lt;&lt;NOTE: 15 USC 1639g.&gt;&gt;  Requests for payoff amounts 
-                  of home loan
+                    Subtitle F--Appraisal Activities
 
-     &lt;&lt;NOTE: Deadline.&gt;&gt; ``A creditor or servicer of a home loan shall 
-send an accurate payoff balance within a reasonable time, but in no case 
-more
-
-
-than 7 business days, after the receipt of a written request for such 
-balance from or on behalf of the borrower.''.

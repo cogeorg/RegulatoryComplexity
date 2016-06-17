@@ -1,6 +1,9 @@
 
-    Section 4(h) of the Securities Investor Protection Act of 1970 (15 
-U.S.C. 78ddd(h)) is amended in the first sentence, by striking 
-``$1,000,000,000'' and inserting ``$2,500,000,000''.
-
-
+    Section 17(f)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78q(f)(1)) is amended--
+            (1) in subparagraph (A), by striking ``missing, lost, 
+        counterfeit, or stolen securities'' and inserting ``securities 
+        that are missing, lost, counterfeit, stolen, or cancelled''; and
+            (2) in subparagraph (B), by striking ``or stolen'' and 
+        inserting ``stolen, cancelled, or reported in such other manner 
+        as the Commission, by rule, may prescribe''.

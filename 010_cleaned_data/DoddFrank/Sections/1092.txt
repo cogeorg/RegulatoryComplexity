@@ -1,6 +1,38 @@
-                          COUNCIL ACT OF 1978.
 
-    Section 1004(a)(4) of the Federal Financial Institutions Examination 
-Council Act of 1978 (12 U.S.C. 3303(a)(4)) is amended by striking 
-``Director, Office of Thrift Supervision'' and inserting ``Director of 
-the Consumer Financial Protection Bureau''.
+    Section 18(f) of the Federal Trade Commission Act (15 U.S.C. 57a(f)) 
+is amended--
+            (1) by striking the subsection heading and inserting the 
+        following:
+
+
+    ``(f) Definitions of Banks, Savings and Loan Institutions, and 
+Federal Credit Unions.--''.
+            (2) by striking paragraph (1) and inserting the following:
+            ``(1) [Repealed.]'';
+            (3) by striking paragraphs (5) through (7);
+            (4) in paragraph (2)--
+                    (A) by striking ``(2) Enforcement'' and all that 
+                follows through ``in the case of'' and inserting the 
+                following:
+            ``(2) Definition.--For purposes of this Act, the term `bank' 
+        means'';
+                    (B) in subparagraph (A), by striking ``, by the 
+                division'' and all that follows through ``Currency'';
+                    (C) in subparagraph (B)--
+                          (i) by striking ``, by the division'' and all 
+                      that follows through ``System''; and
+                          (ii) by striking ``25(a)'' and inserting 
+                      ``25A''; and
+                    (D) in subparagraph (C)--
+                          (i) by striking ``(other'' and inserting 
+                      ``(other than''; and
+                          (ii) by striking ``, by the division'' and all 
+                      that follows through ``Corporation'';
+            (5) in paragraph (3), by striking ``Compliance'' and all 
+        that follows through ``as defined in'' and inserting the 
+        following: ``For purposes of this Act, the term ``savings and 
+        loan institution'' has the same meaning as in''; and
+            (6) in paragraph (4), by striking ``Compliance'' and all 
+        that follows through ``credit unions under'' and inserting the 
+        following: ``For purposes of this Act, the term ``Federal credit 
+        union'' has the same meaning as in''.

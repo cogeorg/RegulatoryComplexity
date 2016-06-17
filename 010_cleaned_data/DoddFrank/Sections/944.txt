@@ -1,22 +1,13 @@
-                        WARRANTIES IN ASSET-BACKED OFFERINGS.
 
-    Not &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt; later than 180 days after the 
-date of enactment of this Act, the Securities and Exchange Commission 
-shall prescribe regulations on the use of representations and warranties 
-in the market for asset-backed securities (as that term is defined in 
-section 3(a)(77) of the Securities Exchange Act of 1934, as added by 
-this subtitle) that--
-            (1) require each national recognized statistical rating 
-        organization to include in any report accompanying a credit 
-        rating a description of--
-                    (A) the representations, warranties, and enforcement 
-                mechanisms available to investors; and
-                    (B) how they differ from the representations, 
-                warranties, and enforcement mechanisms in issuances of 
-                similar securities; and
-            (2) require any securitizer (as that term is defined in 
-        section 15G(a) of the Securities Exchange Act of 1934, as added 
-        by this subtitle) to disclose fulfilled and unfulfilled 
-        repurchase requests across all trusts aggregated by the 
-        securitizer, so that investors may identify asset originators 
-        with clear underwriting deficiencies.
+    (a) Exemption Eliminated.--Section 4 of the Securities Act of 1933 
+(15 U.S.C. 77d) is amended--
+            (1) by striking paragraph (5); and
+            (2) by striking ``(6) transactions'' and inserting the 
+        following:
+
+
+            ``(5) transactions''.
+
+    (b) Conforming Amendment.--Section 3(a)(4)(B)(vii)(I) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)(B)(vii)(I)) is 
+amended by striking ``4(6)'' and inserting ``4(5)''.

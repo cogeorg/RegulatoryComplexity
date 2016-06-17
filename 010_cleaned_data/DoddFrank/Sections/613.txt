@@ -1,100 +1,16 @@
 
-    (a) Conversion of a National Banking Association.--The Act entitled 
-``An Act to provide for the conversion of national banking associations 
-into and their merger or consolidation with State banks, and for other 
-purposes.'' (12 U.S.C. 214 et seq.) is amended by adding at the end the 
-following:
-``SEC. 10. &lt;&lt;NOTE: 12 USC 214d.&gt;&gt; PROHIBITION ON CONVERSION.
+    (a) National Banks.--Section 5155(g)(1)(A) of the Revised Statutes 
+of the United States (12 U.S.C. 36(g)(1)(A)) is amended to read as 
+follows:
+                    ``(A) the law of the State in which the branch is 
+                located, or is to be located, would permit establishment 
+                of the branch, if the national bank were a State bank 
+                chartered by such State; and''.
 
-    ``A national banking association may not convert to a State bank or 
-State savings association during any period in which the national 
-banking association is subject to a cease and desist order (or other 
-formal enforcement order) issued by, or a memorandum of understanding 
-entered into with, the Comptroller of the Currency with respect to a 
-significant supervisory matter.''.
-    (b) Conversion of a State Bank or Savings Association.--Section 5154 
-of the Revised Statutes of the United States (12 U.S.C. 35) is amended 
-by adding at the end the following: ``The Comptroller of the Currency 
-may not approve the conversion of a State bank or State savings 
-association to a national banking association or Federal savings 
-association during any period in which the State bank or State savings 
-association is subject to
-
-
-a cease and desist order (or other formal enforcement order) issued by, 
-or a memorandum of understanding entered into with, a State bank 
-supervisor or the appropriate Federal banking agency with respect to a 
-significant supervisory matter or a final enforcement action by a State 
-Attorney General.''.
-    (c) Conversion of a Federal Savings Association.--Section 5(i) of 
-the Home Owners' Loan Act (12 U.S.C. 1464(i)) is amended by adding at 
-the end the following:
-            ``(6) Limitation on certain conversions by federal savings 
-        associations.--A Federal savings association may not convert to 
-        a State bank or State savings association during any period in 
-        which the Federal savings association is subject to a cease and 
-        desist order (or other formal enforcement order) issued by, or a 
-        memorandum of understanding entered into with, the Office of 
-        Thrift Supervision or the Comptroller of the Currency with 
-        respect to a significant supervisory matter.''.
-
-    (d) &lt;&lt;NOTE: 12 USC 35 note.&gt;&gt; Exception.--The prohibition on the 
-approval of conversions under the amendments made by subsections (a), 
-(b), and (c) shall not apply, if--
-            (1) &lt;&lt;NOTE: Notice.&gt;&gt;  the Federal banking agency that would 
-        be the appropriate Federal banking agency after the proposed 
-        conversion gives the appropriate Federal banking agency or State 
-        bank supervisor that issued the cease and desist order (or other 
-        formal enforcement order) or memorandum of understanding, as 
-        appropriate, written notice of the proposed conversion including 
-        a plan to address the significant supervisory matter in a manner 
-        that is consistent with the safe and sound operation of the 
-        institution;
-            (2) &lt;&lt;NOTE: Deadline.&gt;&gt;  within 30 days of receipt of the 
-        written notice required under paragraph (1), the appropriate 
-        Federal banking agency or State bank supervisor that issued the 
-        cease and desist order (or other formal enforcement order) or 
-        memorandum of understanding, as appropriate, does not object to 
-        the conversion or the plan to address the significant 
-        supervisory matter;
-            (3) after conversion of the insured depository institution, 
-        the appropriate Federal banking agency after the conversion 
-        implements such plan; and
-            (4) in the case of a final enforcement action by a State 
-        Attorney General, approval of the conversion is conditioned on 
-        compliance by the insured depository institution with the terms 
-        of such final enforcement action.
-
-    (e) &lt;&lt;NOTE: 12 USC 35 note.&gt;&gt;  Notification of Pending Enforcement 
-Actions.--
-            (1) Copy of conversion application.--At the time an insured 
-        depository institution files a conversion application, the 
-        insured depository institution shall transmit a copy of the 
-        conversion application to--
-                    (A) the appropriate Federal banking agency for the 
-                insured depository institution; and
-                    (B) the Federal banking agency that would be the 
-                appropriate Federal banking agency of the insured 
-                depository institution after the proposed conversion.
-            (2) Notification and access to information.--Upon receipt of 
-        a copy of the application described in paragraph (1), the 
-        appropriate Federal banking agency for the insured depository 
-        institution proposing the conversion shall--
-                    (A) notify the Federal banking agency that would be 
-                the appropriate Federal banking agency for the 
-                institution
-
-
-                after the proposed conversion in writing of any ongoing 
-                supervisory or investigative proceedings that the 
-                appropriate Federal banking agency for the institution 
-                proposing to convert believes is likely to result, in 
-                the near term and absent the proposed conversion, in a 
-                cease and desist order (or other formal enforcement 
-                order) or memorandum of understanding with respect to a 
-                significant supervisory matter; and
-                    (B) provide the Federal banking agency that would be 
-                the appropriate Federal banking agency for the 
-                institution after the proposed conversion access to all 
-                investigative and supervisory information relating to 
-                the proceedings described in subparagraph (A).
+    (b) State Insured Banks.--Section 18(d)(4)(A)(i) of the Federal 
+Deposit Insurance Act (12 U.S.C. 1828(d)(4)(A)(i)) is amended to read as 
+follows:
+                          ``(i) the law of the State in which the branch 
+                      is located, or is to be located, would permit 
+                      establishment of the branch, if the bank were a 
+                      State bank chartered by such State; and''.

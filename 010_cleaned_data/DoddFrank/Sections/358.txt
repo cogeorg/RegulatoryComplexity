@@ -1,19 +1,29 @@
 
-    The Bank Service Company Act (12 U.S.C. 1861 et seq.) is amended--
-            (1) in section 1(b)(4) (12 U.S.C. 1861(b)(4))--
-                    (A) by inserting after ``an insured bank,'' the 
-                following: ``a savings association,'';
-                    (B) by striking ``Director of the Office of Thrift 
-                Supervision'' and inserting ``appropriate Federal 
-                banking agency''; and
-
-
-                    (C) by striking ``, the Federal Savings and Loan 
-                Insurance Corporation,'';
-            (2) in section 1(b)(5), by striking ``term `insured 
-        depository institution' has the same meaning as in section 
-        3(c)'' and inserting ``terms `depository institution' and 
-        `savings association' have the same meanings as in section 3''; 
-        and
-            (3) in section 7(c)(2) (12 U.S.C. 1867(c)(2)), by inserting 
-        ``each'' after ``notify''.
+    The Community Reinvestment Act of 1977 (12 U.S.C. 2901 et seq.) is 
+amended--
+            (1) in section 803 (12 U.S.C. 2902)--
+                    (A) in paragraph (1)--
+                          (i) in subparagraph (A), by inserting ``and 
+                      Federal savings associations (the deposits of 
+                      which are insured by the Federal Deposit Insurance 
+                      Corporation)'' after ``banks'';
+                          (ii) in subparagraph (B), by striking ``and 
+                      bank holding companies'' and inserting ``, bank 
+                      holding companies, and savings and loan holding 
+                      companies''; and
+                          (iii) in subparagraph (C), by striking ``; 
+                      and'' and inserting ``, and State savings 
+                      associations (the deposits of which are insured by 
+                      the Federal Deposit Insurance Corporation).''; and
+                    (B) by striking paragraph (2) (relating to the 
+                Office of Thrift Supervision), as added by section 
+                744(q) of the Financial Institutions Reform, Recovery, 
+                and Enforcement Act of 1989 (Public Law 101-73; 103 
+                Stat. 440); and
+            (2) in &lt;&lt;NOTE: Regulations. Applicability.&gt;&gt; section 806 (12 
+        U.S.C. 2905), by inserting ``, except that the Comptroller of 
+        the Currency shall prescribe regulations applicable to savings 
+        associations and the Board of Governors shall prescribe 
+        regulations applicable to insured State member banks, bank 
+        holding companies and savings and loan holding companies,'' 
+        after ``supervisory agency''.

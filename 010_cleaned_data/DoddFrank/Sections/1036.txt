@@ -1,58 +1,30 @@
-                          OMBUDSMAN.
 
-    (a) Establishment.--The Secretary, &lt;&lt;NOTE: Designation.&gt;&gt;  in 
-consultation with the Director, shall designate a Private Education Loan 
-Ombudsman (in this section referred to as the ``Ombudsman'') within the 
-Bureau, to provide timely assistance to borrowers of private education 
-loans.
+    (a) In General.--It shall be unlawful for--
+            (1) any covered person or service provider--
+                    (A) to offer or provide to a consumer any financial 
+                product or service not in conformity with Federal 
+                consumer financial law, or otherwise commit any act or 
+                omission in violation of a Federal consumer financial 
+                law; or
+                    (B) to engage in any unfair, deceptive, or abusive 
+                act or practice;
+            (2) any covered person or service provider to fail or 
+        refuse, as required by Federal consumer financial law, or any 
+        rule or order issued by the Bureau thereunder--
+                    (A) to permit access to or copying of records;
+                    (B) to establish or maintain records; or
 
-    (b) Public Information.--The Secretary and the Director shall 
-disseminate information about the availability and functions of the 
-Ombudsman to borrowers and potential borrowers, as well
 
+                    (C) to make reports or provide information to the 
+                Bureau; or
+            (3) any person to knowingly or recklessly provide 
+        substantial assistance to a covered person or service provider 
+        in violation of the provisions of section 1031, or any rule or 
+        order issued thereunder, and notwithstanding any provision of 
+        this title, the provider of such substantial assistance shall be 
+        deemed to be in violation of that section to the same extent as 
+        the person to whom such assistance is provided.
 
-as institutions of higher education, lenders, guaranty agencies, loan 
-servicers, and other participants in private education student loan 
-programs.
-    (c) Functions of Ombudsman.--The Ombudsman designated under this 
-subsection shall--
-            (1) in accordance with regulations of the Director, receive, 
-        review, and attempt to resolve informally complaints from 
-        borrowers of loans described in subsection (a), including, as 
-        appropriate, attempts to resolve such complaints in 
-        collaboration with the Department of Education and with 
-        institutions of higher education, lenders, guaranty agencies, 
-        loan servicers, and other participants in private education loan 
-        programs;
-            (2) &lt;&lt;NOTE: Deadline. Memorandum.&gt;&gt;  not later than 90 days 
-        after the designated transfer date, establish a memorandum of 
-        understanding with the student loan ombudsman established under 
-        section 141(f) of the Higher Education Act of 1965 (20 U.S.C. 
-        1018(f)), to ensure coordination in providing assistance to and 
-        serving borrowers seeking to resolve complaints related to their 
-        private education or Federal student loans;
-            (3) compile and analyze data on borrower complaints 
-        regarding private education loans; and
-            (4) &lt;&lt;NOTE: Recommenda- tions.&gt;&gt;  make appropriate 
-        recommendations to the Director, the Secretary, the Secretary of 
-        Education, the Committee on Banking, Housing, and Urban Affairs 
-        and the Committee on Health, Education, Labor, and Pensions of 
-        the Senate and the Committee on Financial Services and the 
-        Committee on Education and Labor of the House of 
-        Representatives.
-
-    (d) Annual Reports.--
-            (1) In general.--The Ombudsman shall prepare an annual 
-        report that describes the activities, and evaluates the 
-        effectiveness of the Ombudsman during the preceding year.
-            (2) Submission.--The report required by paragraph (1) shall 
-        be submitted on the same date annually to the Secretary, the 
-        Secretary of Education, the Committee on Banking, Housing, and 
-        Urban Affairs and the Committee on Health, Education, Labor, and 
-        Pensions of the Senate and the Committee on Financial Services 
-        and the Committee on Education and Labor of the House of 
-        Representatives.
-
-    (e) Definitions.--For purposes of this section, the terms ``private 
-education loan'' and ``institution of higher education'' have the same 
-meanings as in section 140 of the Truth in Lending Act (15 U.S.C. 1650).
+    (b) Exception.--No person shall be held to have violated subsection 
+(a)(1) solely by virtue of providing or selling time or space to a 
+covered person or service provider placing an advertisement.

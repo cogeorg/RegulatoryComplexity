@@ -1,13 +1,15 @@
+                        SECURITIES ISSUES.
 
-    (a) Exemption Eliminated.--Section 4 of the Securities Act of 1933 
-(15 U.S.C. 77d) is amended--
-            (1) by striking paragraph (5); and
-            (2) by striking ``(6) transactions'' and inserting the 
-        following:
-
-
-            ``(5) transactions''.
-
-    (b) Conforming Amendment.--Section 3(a)(4)(B)(vii)(I) of the 
-Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)(B)(vii)(I)) is 
-amended by striking ``4(6)'' and inserting ``4(5)''.
+    Section 7 of the Securities Act of 1933 (15 U.S.C. 77g), as amended 
+by this subtitle, is amended by adding at the end the following:
+    ``(d) &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt;  Registration Statement for 
+Asset-backed Securities.--Not later than 180 days after the date of 
+enactment of this subsection, the Commission shall issue rules relating 
+to the registration statement required to be filed by any issuer of an 
+asset-backed security (as that term is defined in section 3(a)(77) of 
+the Securities Exchange Act of 1934) that require any issuer of an 
+asset-backed security--
+            ``(1) to perform a review of the assets underlying the 
+        asset-backed security; and
+            ``(2) to disclose the nature of the review under paragraph 
+        (1).''.

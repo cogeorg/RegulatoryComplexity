@@ -1,45 +1,51 @@
 
-    (a) Increasing the Minimum Assessment Paid by SIPC Members.--Section 
-4(d)(1)(C) of the Securities Investor Protection Act of 1970 (15 U.S.C. 
-78ddd(d)(1)(C)) is amended by striking ``$150 per annum'' and inserting 
-the following: ``0.02 percent of the gross revenues from the securities 
-business of such member of SIPC''.
-    (b) Increasing the Fine for Prohibited Acts Under SIPA.--Section 
-14(c) of the Securities Investor Protection Act of 1970 (15 U.S.C. 
-78jjj(c)) is amended--
-            (1) in paragraph (1), by striking ``$50,000'' and inserting 
-        ``$250,000''; and
-            (2) in paragraph (2), by striking ``$50,000'' and inserting 
-        ``$250,000''.
+    Section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1) 
+is amended by adding at the end the following new subsection:
+    ``(g) Due Diligence for the Delivery of Dividends, Interest, and 
+Other Valuable Property Rights.--
+            ``(1) Revision of rules required.--The Commission shall 
+        revise its regulations in section 240.17Ad-17 of title 17, Code 
+        of Federal Regulations, as in effect on December 8, 1997, to 
+        extend the application of such section to brokers and dealers 
+        and to provide for the following:
+                    ``(A) &lt;&lt;NOTE: Notification. Deadline.&gt;&gt;  A 
+                requirement that the paying agent provide a single 
+                written notification to each missing security holder 
+                that the missing security holder has been sent a check 
+                that has not yet been negotiated. The written 
+                notification may be sent along with a check or other 
+                mailing subsequently sent to the missing security holder 
+                but must be provided no later than 7 months after the 
+                sending of the not yet negotiated check.
+                    ``(B) An exclusion for paying agents from the 
+                notification requirements when the value of the not yet 
+                negotiated check is less than $25.
+                    ``(C) A provision clarifying that the requirements 
+                described in subparagraph (A) shall have no effect on 
+                State escheatment laws.
+                    ``(D) For purposes of such revised regulations--
+                          ``(i) a security holder shall be considered a 
+                      `missing security holder' if a check is sent to 
+                      the security holder and the check is not 
+                      negotiated before the earlier of the paying agent 
+                      sending the next regularly scheduled check or the 
+                      elapsing of 6 months after the sending of the not 
+                      yet negotiated check; and
+                          ``(ii) the term `paying agent' includes any 
+                      issuer, transfer agent, broker, dealer, investment 
+                      adviser, indenture trustee, custodian, or any 
+                      other person that
 
-    (c) Penalty for Misrepresentation of SIPC Membership or 
-Protection.--Section 14 of the Securities Investor Protection Act of 
-1970 (15 U.S.C. 78jjj) is amended by adding at the end the following new 
-subsection:
-    ``(d) Misrepresentation of SIPC Membership or Protection.--
-            ``(1) In general.--Any person who falsely represents by any 
-        means (including, without limitation, through the Internet or 
-        any other medium of mass communication), with actual
 
-
-        knowledge of the falsity of the representation and with an 
-        intent to deceive or cause injury to another, that such person, 
-        or another person, is a member of SIPC or that any person or 
-        account is protected or is eligible for protection under this 
-        Act or by SIPC, shall be liable for any damages caused thereby 
-        and shall be fined not more than $250,000 or imprisoned for not 
-        more than 5 years.
-            ``(2) &lt;&lt;NOTE: Procedures. Certification. Records.&gt;&gt;  
-        Injunctions.--Any court having jurisdiction of a civil action 
-        arising under this Act may grant temporary injunctions and final 
-        injunctions on such terms as the court deems reasonable to 
-        prevent or restrain any violation of paragraph (1). Any such 
-        injunction may be served anywhere in the United States on the 
-        person enjoined, shall be operative throughout the United 
-        States, and shall be enforceable, by proceedings in contempt or 
-        otherwise, by any United States court having jurisdiction over 
-        that person. The clerk of the court granting the injunction 
-        shall, when requested by any other court in which enforcement of 
-        the injunction is sought, transmit promptly to the other court a 
-        certified copy of all papers in the case on file in such clerk's 
-        office.''.
+                      accepts payments from the issuer of a security and 
+                      distributes the payments to the holders of the 
+                      security.
+            ``(2) &lt;&lt;NOTE: Deadline.&gt;&gt;  Rulemaking.--The Commission shall 
+        adopt such rules, regulations, and orders necessary to implement 
+        this subsection no later than 1 year after the date of enactment 
+        of this subsection. In proposing such rules, the Commission 
+        shall seek to minimize disruptions to current systems used by or 
+        on behalf of paying agents to process payment to account holders 
+        and avoid requiring multiple paying agents to send written 
+        notification to a missing security holder regarding the same not 
+        yet negotiated check.''.

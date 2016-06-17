@@ -1,27 +1,17 @@
 
-    (a) In General.--Section 2 of the Federal Deposit Insurance Act (12 
-U.S.C. 1812) is amended--
-            (1) in subsection (a)(1)(B), by striking ``Director of the 
-        Office of Thrift Supervision'' and inserting ``Director of the 
-        Consumer Financial Protection Bureau'';
-            (2) by amending subsection (d)(2) to read as follows:
-            ``(2) Acting officials may serve.--In the event of a vacancy 
-        in the office of the Comptroller of the Currency or the office 
-        of Director of the Consumer Financial Protection Bureau and 
-        pending the appointment of a successor, or during the absence or 
-        disability of the Comptroller of the Currency or the Director of 
-        the Consumer Financial Protection Bureau, the acting Comptroller 
-        of the Currency or the acting Director of the Consumer Financial 
-        Protection Bureau, as the case may be, shall be a member of the 
-        Board of Directors in the place of the Comptroller or 
-        Director.''; and
-            (3) in subsection (f)(2), by striking ``Office of Thrift 
-        Supervision'' and inserting ``Consumer Financial Protection 
-        Bureau''.
+    Notwithstanding the Federal Deposit Insurance Act (12 U.S.C. 1811 et 
+seq.), the Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.), or 
+any other provision of Federal or State law, a savings association that 
+becomes a bank may--
 
-    (b) Effective &lt;&lt;NOTE: 12 USC 1812 note.&gt;&gt; Date.--This section, and 
-the amendments made by this section, shall take effect on the transfer 
-date.
 
-                        Subtitle D--Other Matters
-
+            (1) continue to operate any branch or agency that the 
+        savings association operated immediately before the savings 
+        association became a bank; and
+            (2) establish, acquire, and operate additional branches and 
+        agencies at any location within any State in which the savings 
+        association operated a branch immediately before the savings 
+        association became a bank, if the law of the State in which the 
+        branch is located, or is to be located, would permit 
+        establishment of the branch if the bank were a State bank 
+        chartered by such State.

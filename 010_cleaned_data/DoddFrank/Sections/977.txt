@@ -1,41 +1,30 @@
-                        DISCLOSURE TO INVESTORS.
+                        SECURITIES MARKETS.
 
     (a) Study.--The Comptroller General of the United States shall 
-conduct a study and review of the disclosure required to be made by 
-issuers of municipal securities.
-    (b) Subjects for Evaluation.--In conducting the study under 
-subsection (a), the Comptroller General of the United States shall--
-            (1) broadly describe--
-                    (A) the size of the municipal securities markets and 
-                the issuers and investors; and
-                    (B) the disclosures provided by issuers to 
-                investors;
-            (2) compare the amount, frequency, and quality of 
-        disclosures that issuers of municipal securities are required by 
-        law to provide for the benefit of municipal securities holders, 
-        including the amount of and frequency of disclosures actually
-
-
-        provided by issuers of municipal securities, with the amount of 
-        and frequency of disclosures that issuers of corporate 
-        securities provide for the benefit of corporate securities 
-        holders, taking into account the differences between issuers of 
-        municipal securities and issuers of corporate securities;
-            (3) evaluate the costs and benefits to various types of 
-        issuers of municipal securities of requiring issuers of 
-        municipal bonds to provide additional financial disclosures for 
-        the benefit of investors;
-            (4) evaluate the potential benefit to investors from 
-        additional financial disclosures by issuers of municipal bonds; 
-        and
-            (5) make recommendations relating to disclosure requirements 
-        for municipal issuers, including the advisability of the repeal 
-        or retention of section 15B(d) of the Securities Exchange Act of 
-        1934 (15 U.S.C. 78o-4(d)) (commonly known as the ``Tower 
-        Amendment'').
-
-    (c) Report.--Not later than 24 months after the date of enactment of 
+conduct a study of the municipal securities markets.
+    (b) Report.--Not later than 18 months after the date of enactment of 
 this Act, the Comptroller General of the United States shall submit a 
-report to Congress on the results of the study conducted under 
-subsection (a), including recommendations for how to improve disclosure 
-by issuers of municipal securities.
+report to the Committee on Banking, Housing, and Urban Affairs of the 
+Senate, and the Committee on Financial Services of the House of 
+Representatives, with copies to the Special Committee on Aging of the 
+Senate and the Commission, on the results of the study conducted under 
+subsection (a), including--
+            (1) an analysis of the mechanisms for trading, quality of 
+        trade executions, market transparency, trade reporting, price 
+        discovery, settlement clearing, and credit enhancements;
+            (2) the needs of the markets and investors and the impact of 
+        recent innovations;
+            (3) recommendations for how to improve the transparency, 
+        efficiency, fairness, and liquidity of trading in the municipal 
+        securities markets, including with reference to items listed in 
+        paragraph (1); and
+            (4) potential uses of derivatives in the municipal 
+        securities markets.
+
+    (c) Responses.-- &lt;&lt;NOTE: Deadline.&gt;&gt; Not later than 180 days after 
+receipt of the report required under subsection (b), the Commission 
+shall submit a response to the Committee on Banking, Housing, and Urban 
+Affairs of the Senate, and the Committee on Financial Services of the 
+House of Representatives, with a copy to the Special Committee on Aging 
+of the Senate, stating the actions the Commission has taken in response 
+to the recommendations contained in such report.

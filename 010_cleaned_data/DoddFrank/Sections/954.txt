@@ -1,40 +1,29 @@
 
-    (a) Disclosure of Pay Versus Performance.--Section 14 of the 
-Securities Exchange Act of 1934 (15 U.S.C. 78n), as amended by this 
-title, is amended by adding at the end the following:
-    ``(i) &lt;&lt;NOTE: Regulations.&gt;&gt;  Disclosure of Pay Versus 
-Performance.--The Commission shall, by rule, require each issuer to 
-disclose in any proxy or consent solicitation material for an annual 
-meeting of the shareholders of the issuer a clear description of any 
-compensation required to be disclosed by the issuer under section 
-229.402 of title 17, Code of Federal Regulations (or any successor 
-thereto), including information that shows the relationship between 
-executive compensation actually paid and the financial performance of 
-the issuer, taking into account any change in the value of the shares of 
-stock and dividends of the issuer and any distributions. The
+    The Securities Exchange Act of 1934 is amended by inserting after 
+section 10C, as added by section 952, the following:
+``SEC. 10D. &lt;&lt;NOTE: 15 USC 78j-4.&gt;&gt;  RECOVERY OF ERRONEOUSLY 
+                        AWARDED COMPENSATION POLICY.
 
+    ``(a) Listing Standards.-- &lt;&lt;NOTE: Regulations.&gt;&gt; The Commission 
+shall, by rule, direct the national securities exchanges and national 
+securities associations to prohibit the listing of any security of an 
+issuer that does not comply with the requirements of this section.
 
-disclosure under this subsection may include a graphic representation of 
-the information required to be disclosed.''.
-
-    (b) &lt;&lt;NOTE: 15 USC 78l note.&gt;&gt;  Additional Disclosure 
-Requirements.--
-            (1) In general.-- &lt;&lt;NOTE: Regulations.&gt;&gt; The Commission 
-        shall amend section 229.402 of title 17, Code of Federal 
-        Regulations, to require each issuer to disclose in any filing of 
-        the issuer described in section 229.10(a) of title 17, Code of 
-        Federal Regulations (or any successor thereto)--
-                    (A) the median of the annual total compensation of 
-                all employees of the issuer, except the chief executive 
-                officer (or any equivalent position) of the issuer;
-                    (B) the annual total compensation of the chief 
-                executive officer (or any equivalent position) of the 
-                issuer; and
-                    (C) the ratio of the amount described in 
-                subparagraph (A) to the amount described in subparagraph 
-                (B).
-            (2) Total compensation.--For purposes of this subsection, 
-        the total compensation of an employee of an issuer shall be 
-        determined in accordance with section 229.402(c)(2)(x) of title 
-        17, Code of Federal Regulations, as in effect on the day before 
-        the date of enactment of this Act.
+    ``(b) Recovery of Funds.--The rules of the Commission under 
+subsection (a) shall require each issuer to develop and implement a 
+policy providing--
+            ``(1) for disclosure of the policy of the issuer on 
+        incentive-based compensation that is based on financial 
+        information required to be reported under the securities laws; 
+        and
+            ``(2) that, in the event that the issuer is required to 
+        prepare an accounting restatement due to the material 
+        noncompliance of the issuer with any financial reporting 
+        requirement under the securities laws, the issuer will recover 
+        from any current or former executive officer of the issuer who 
+        received incentive-based compensation (including stock options 
+        awarded as compensation) during the 3-year period preceding the 
+        date on which the issuer is required to prepare an accounting 
+        restatement, based on the erroneous data, in excess of what 
+        would have been paid to the executive officer under the 
+        accounting restatement.''.

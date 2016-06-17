@@ -1,26 +1,27 @@
-                            DISCLOSURE ACT.
+                          1978.
 
-    The Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701 et 
-seq.) is amended--
-            (1) by &lt;&lt;NOTE: 15 USC 1702 et seq.&gt;&gt; striking ``Secretary'' 
-        each place that term appears and inserting ``Director'';
-            (2) &lt;&lt;NOTE: 15 USC 1715.&gt;&gt; by striking ``Department of 
-        Housing and Urban Development'' each place that term appears and 
-        inserting ``Bureau of Consumer Financial Protection'';
-            (3) by &lt;&lt;NOTE: 15 USC 1715.&gt;&gt; striking ``Department'' each 
-        place that term appears and inserting ``Bureau'';
-            (4) in section 1402 (15 U.S.C. 1701)--
-                    (A) by striking paragraph (1) and inserting the 
-                following:
-            ``(1) `Director' &lt;&lt;NOTE: Definition.&gt;&gt; means the Director of 
-        the Bureau of Consumer FinancialProtection;'';
-                    (B) in paragraph (10), by striking ``and'' at the 
-                end;
-                    (C) in paragraph (11), by striking the period at the 
-                end and inserting ``; and''; and
-                    (D) by adding at the end the following:
-            ``(12) `Bureau' &lt;&lt;NOTE: Definition.&gt;&gt; means the Bureau of 
-        Consumer Financial Protection.''; and
-            (5) in section 1416(a) (15 U.S.C. 1715(a)), by striking 
-        ``Secretary of Housing and Urban Development'' and inserting 
-        ``Director of the Bureau of Consumer Financial Protection''.
+    The Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.) 
+is amended--
+            (1) in section 1101-- &lt;&lt;NOTE: 12 USC 3401.&gt;&gt; 
+                    (A) in paragraph (6)--
+                          (i) in subparagraph (A), by inserting ``and'' 
+                      after the semicolon;
+                          (ii) in subparagraph (B), by striking ``and'' 
+                      at the end; and
+                          (iii) by striking subparagraph (C); and
+                    (B) in paragraph (7), by striking subparagraph (B), 
+                and inserting the following:
+                    ``(B) the Bureau of Consumer Financial 
+                Protection;'';
+            (2) in section 1112(e) (12 U.S.C. 3412(e)), by striking 
+        ``and the Commodity Futures Trading Commission is permitted'' 
+        and inserting ``the Commodity Futures Trading Commission, and 
+        the Bureau of Consumer Financial Protection is permitted''; and
+            (3) in section 1113 (12 U.S.C. 3413), by adding at the end 
+        the following new subsection:
+
+    ``(r) Disclosure to the Bureau of Consumer Financial Protection.--
+Nothing in this title shall apply to the examination by or disclosure to 
+the Bureau of Consumer Financial Protection of financial records or 
+information in the exercise of its authority with respect to a financial 
+institution.''.

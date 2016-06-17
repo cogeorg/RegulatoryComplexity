@@ -1,118 +1,28 @@
 
-    (a) Member or Employee of the Municipal Securities Rulemaking 
-Board.--Section 15B(c)(8) of the Securities Exchange Act of 1934 (15 
-U.S.C. 78o-4(c)(8)) is amended by striking ``any member
+    (a) Appointment Authority.--Section 3114 of title 5, United States 
+Code, is amended by striking the section heading and all that follows 
+through the end of subsection (a) and inserting the following:
 
 
-or employee'' and inserting ``any person who is, or at the time of the 
-alleged violation or abuse was, a member or employee''.
-    (b) Person Associated With a Government Securities Broker or 
-Dealer.--Section 15C(c) of the Securities Exchange Act of 1934 (15 
-U.S.C. 78o-5(c)) is amended--
-            (1) in paragraph (1)(C), by striking ``any person 
-        associated, or seeking to become associated,'' and inserting 
-        ``any person who is, or at the time of the alleged misconduct 
-        was, associated or seeking to become associated''; and
-            (2) in paragraph (2)--
-                    (A) in subparagraph (A), by inserting ``, seeking to 
-                become associated, or, at the time of the alleged 
-                misconduct, associated or seeking to become associated'' 
-                after ``any person associated''; and
-                    (B) in subparagraph (B), by inserting ``, seeking to 
-                become associated, or, at the time of the alleged 
-                misconduct, associated or seeking to become associated'' 
-                after ``any person associated''.
+``Sec. 3114. Appointment of candidates to certain positions in the 
+                  competitive service by the Securities and 
+                  Exchange Commission
 
-    (c) Person Associated With a Member of a National Securities 
-Exchange or Registered Securities Association.--Section 21(a)(1) of the 
-Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended, in the 
-first sentence, by inserting ``, or, as to any act or practice, or 
-omission to act, while associated with a member, formerly associated'' 
-after ``member or a person associated''.
-    (d) Participant of a Registered Clearing Agency.--Section 21(a)(1) 
-of the Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended, 
-in the first sentence, by inserting ``or, as to any act or practice, or 
-omission to act, while a participant, was a participant,'' after ``in 
-which such person is a participant,''.
-    (e) Officer or Director of a Self-regulatory Organization.--Section 
-19(h)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(h)(4)) is 
-amended--
-            (1) by striking ``any officer or director'' and inserting 
-        ``any person who is, or at the time of the alleged misconduct 
-        was, an officer or director''; and
-            (2) by striking ``such officer or director'' and inserting 
-        ``such person''.
+    ``(a) Applicability.--This section applies with respect to any 
+position of accountant, economist, and securities compliance examiner at 
+the Commission that is in the competitive service, and any position at 
+the Commission in the competitive service that requires specialized 
+knowledge of financial and capital market formation or regulation, 
+financial market structures or surveillance, or information 
+technology.''.
+    (b) Clerical Amendment.--The table of sections for chapter 31 of 
+title 5, United States Code, is amended by striking the item relating to 
+section 3114 and inserting the following:
 
-    (f) Officer or Director of an Investment Company.--Section 36(a) of 
-the Investment Company Act of 1940 (15 U.S.C. 80a-35(a)) is amended--
-            (1) by striking ``a person serving or acting'' and inserting 
-        ``a person who is, or at the time of the alleged misconduct was, 
-        serving or acting''; and
-            (2) by striking ``such person so serves or acts'' and 
-        inserting ``such person so serves or acts, or at the time of the 
-        alleged misconduct, so served or acted''.
+``3114. Appointment of candidates to positions in the competitive 
+           service by the Securities and Exchange Commission.''.
 
-    (g) Person Associated With a Public Accounting Firm.--
-            (1) Sarbanes-oxley act of 2002 amendment.--Section 2(a)(9) 
-        of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(9)) is amended 
-        by adding at the end the following:
-                    ``(C) &lt;&lt;NOTE: Applicability.&gt;&gt;  Investigative and 
-                enforcement authority.--For purposes of sections 3(c), 
-                101(c), 105, and 107(c) and the rules of the Board and 
-                Commission issued thereunder, except to the extent 
-                specifically excepted by such rules, the terms defined 
-                in subparagraph (A) shall include any
-
-
-                person associated, seeking to become associated, or 
-                formerly associated with a public accounting firm, 
-                except that--
-                          ``(i) the authority to conduct an 
-                      investigation of such person under section 105(b) 
-                      shall apply only with respect to any act or 
-                      practice, or omission to act, by the person while 
-                      such person was associated or seeking to become 
-                      associated with a registered public accounting 
-                      firm; and
-                          ``(ii) the authority to commence a 
-                      disciplinary proceeding under section 105(c)(1), 
-                      or impose sanctions under section 105(c)(4), 
-                      against such person shall apply only with respect 
-                      to--
-                                    ``(I) conduct occurring while such 
-                                person was associated or seeking to 
-                                become associated with a registered 
-                                public accounting firm; or
-                                    ``(II) non-cooperation, as described 
-                                in section 105(b)(3), with respect to a 
-                                demand in a Board investigation for 
-                                testimony, documents, or other 
-                                information relating to a period when 
-                                such person was associated or seeking to 
-                                become associated with a registered 
-                                public accounting firm.''.
-            (2) Securities exchange act of 1934 amendment.--Section 
-        21(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 
-        78u(a)(1)) is amended by striking ``or a person associated with 
-        such a firm'' and inserting ``, a person associated with such a 
-        firm, or, as to any act, practice, or omission to act, while 
-        associated with such firm, a person formerly associated with 
-        such a firm''.
-
-    (h) Supervisory Personnel of an Audit Firm.--Section 105(c)(6) of 
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(6)) is amended--
-            (1) in subparagraph (A), by striking ``the supervisory 
-        personnel'' and inserting ``any person who is, or at the time of 
-        the alleged failure reasonably to supervise was, a supervisory 
-        person''; and
-            (2) in subparagraph (B)--
-                    (A) by striking ``No associated person'' and 
-                inserting ``No current or former supervisory person''; 
-                and
-                    (B) by striking ``any other person'' and inserting 
-                ``any associated person''.
-
-    (i) Member of the Public Company Accounting Oversight Board.--
-Section 107(d)(3) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
-7217(d)(3)) is amended by striking ``any member'' and inserting ``any 
-person who is, or at the time of the alleged misconduct was, a member''.
+    (c) &lt;&lt;NOTE: 15 USC 78d note.&gt;&gt;  Pay Authority.--The Commission may 
+set the rate of pay for experts and consultants appointed under the 
+authority of section 3109 of title 5, United States Code, in the same 
+manner in which it sets the rate of pay for employees of the Commission.

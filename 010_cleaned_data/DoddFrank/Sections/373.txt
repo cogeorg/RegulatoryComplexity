@@ -1,4 +1,15 @@
 
-    Section 469 of the Housing and Urban-Rural Recovery Act of 1983 (12 
-U.S.C. 1701p-1) is amended in the first sentence, by striking ``Federal 
-Home Loan Bank Board'' and inserting ``Federal Housing Finance Agency''.
+    Section 202(f) of the National Housing Act (12 U.S.C. 1708(f)) is 
+amended--
+            (1) by striking paragraph (5) and inserting the following:
+            ``(5) if the mortgagee is a national bank, a subsidiary or 
+        affiliate of such bank, a Federal savings association or a 
+        subsidiary or affiliate of a savings association, the 
+        Comptroller of the Currency;'';
+            (2) in paragraph (6), by adding ``and'' at the end;
+            (3) in paragraph (7)--
+                    (A) by inserting ``or State savings association'' 
+                after ``State bank''; and
+                    (B) by striking ``; and'' and inserting a period; 
+                and
+            (4) by striking paragraph (8).

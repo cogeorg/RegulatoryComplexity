@@ -1,6 +1,12 @@
 
-    Unless otherwise provided by the amendments made by this subtitle, 
-the amendments made by this subtitle do not divest any appropriate 
-Federal banking agency, the Commodity Futures Trading Commission, the 
-Securities and Exchange Commission, or other Federal or State agency of 
-any authority derived from any other applicable law.
+    Section 6c(d) of the Commodity Exchange Act (7 U.S.C. 13a-1(d)) is 
+amended by adding at the end the following:
+            ``(3) Equitable remedies.--In any action brought under this 
+        section, the Commission may seek, and the court may impose, on a 
+        proper showing, on any person found in the action to have 
+        committed any violation, equitable remedies including--
+                    ``(A) restitution to persons who have sustained 
+                losses proximately caused by such violation (in the 
+                amount of such losses); and
+                    ``(B) disgorgement of gains received in connection 
+                with such violation.''.

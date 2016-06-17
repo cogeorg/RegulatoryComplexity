@@ -1,18 +1,34 @@
 
-    (a) Caps.--
-            (1) Credit transactions.--Section 104(3) of the Truth in 
-        Lending Act (15 U.S.C. 1603(3)) is amended by striking 
-        ``$25,000'' and inserting ``$50,000''.
-            (2) Consumer leases.--Section 181(1) of the Truth in Lending 
-        Act (15 U.S.C. 1667(1)) is amended by striking ``$25,000'' and 
-        inserting ``$50,000''.
-
-    (b) Adjustments for Inflation.--On &lt;&lt;NOTE: Deadline. 15 USC 1603 
-note.&gt;&gt; and after December 31, 2011, the Bureau shall adjust annually 
-the dollar amounts described in sections 104(3) and 181(1) of the Truth 
-in Lending Act (as amended by this section), by the annual percentage 
-increase in the Consumer Price Index for Urban Wage Earners and Clerical 
-Workers, as published by the Bureau of Labor Statistics, rounded to the 
-nearest multiple of $100, or $1,000, as applicable.
-
-
+    Section 615 of the Fair Credit Reporting Act (15 U.S.C. 1681m) is 
+amended--
+            (1) in subsection (a)--
+                    (A) by redesignating paragraphs (2) and (3) as 
+                paragraphs (3) and (4), respectively;
+                    (B) by inserting after paragraph (1) the following:
+            ``(2) provide to the consumer written or electronic 
+        disclosure--
+                    ``(A) of a numerical credit score as defined in 
+                section 609(f)(2)(A) used by such person in taking any 
+                adverse action based in whole or in part on any 
+                information in a consumer report; and
+                    ``(B) of the information set forth in subparagraphs 
+                (B) through (E) of section 609(f)(1);''; and
+                    (C) in paragraph (4) (as so redesignated), by 
+                striking ``paragraph (2)'' and inserting ``paragraph 
+                (3)''; and
+            (2) in subsection (h)(5)--
+                    (A) in subparagraph (C), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in subparagraph (D), by striking the period and 
+                inserting ``; and''; and
+                    (C) by inserting at the end the following:
+                    ``(E) include a statement informing the consumer 
+                of--
+                          ``(i) a numerical credit score as defined in 
+                      section 609(f)(2)(A), used by such person in 
+                      making the credit decision described in paragraph 
+                      (1) based in whole or in part on any information 
+                      in a consumer report; and
+                          ``(ii) the information set forth in 
+                      subparagraphs (B) through (E) of section 
+                      609(f)(1).''.

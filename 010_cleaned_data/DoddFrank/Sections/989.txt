@@ -1,115 +1,120 @@
-                        LOSSES TO THE NATIONAL CREDIT UNION SHARE 
-                        INSURANCE FUND FOR PURPOSES OF INSPECTOR 
-                        GENERAL REVIEWS.
+                        TRADING.
 
-    (a) In General.--Section 216(j) of the Federal Credit Union Act (12 
-U.S.C. 1790d(j)) is amended to read as follows:
-    ``(j) Reviews Required When Share Insurance Fund Experiences 
-Losses.--
-            ``(1) In general.--If the Fund incurs a material loss with 
-        respect to an insured credit union, the Inspector General of the 
-        Board shall--
-                    ``(A) &lt;&lt;NOTE: Reports.&gt;&gt; submit to the Board a 
-                written report reviewing the supervision of the credit 
-                union by the Administration (including the 
-                implementation of this section by the Administration), 
-                which shall include--
-                          ``(i) a description of the reasons why the 
-                      problems of the credit union resulted in a 
-                      material loss to the Fund; and
-                          ``(ii) recommendations for preventing any such 
-                      loss in the future; and
-                    ``(B) submit a copy of the report under subparagraph 
-                (A) to--
-                          ``(i) the Comptroller General of the United 
-                      States;
-                          ``(ii) the Corporation;
-                          ``(iii) in the case of a report relating to a 
-                      State credit union, the appropriate State 
-                      supervisor; and
-                          ``(iv) to any Member of Congress, upon 
-                      request.
-            ``(2) Material loss defined.--For purposes of determining 
-        whether the Fund has incurred a material loss with respect to an 
-        insured credit union, a loss is material if it exceeds the sum 
-        of--
-                    ``(A) $25,000,000; and
-                    ``(B) an amount equal to 10 percent of the total 
-                assets of the credit union on the date on which the 
-                Board initiated assistance under section 208 or was 
-                appointed liquidating agent.
-            ``(3) Public disclosure required.--
-                    ``(A) In general.--The Board shall disclose a report 
-                under this subsection, upon request under section 552 of 
-                title 5, United States Code, without excising--
-                          ``(i) any portion under section 552(b)(5) of 
-                      title 5, United States Code; or
-                          ``(ii) any information about the insured 
-                      credit union (other than trade secrets) under 
-                      section 552(b)(8) of title 5, United States Code.
-                    ``(B) Rule of construction.--Subparagraph (A) may 
-                not be construed as requiring the agency to disclose the 
-                name of any customer of the insured credit union (other 
-                than an institution-affiliated party), or information 
-                from which the identity of such customer could 
-                reasonably be ascertained.
+    (a) Definitions.--In this section--
+            (1) the term ``covered entity'' means--
+                    (A) an insured depository institution, an affiliate 
+                of an insured depository institution, a bank holding 
+                company,
 
 
-            ``(4) Losses that are not material.--
-                    ``(A) Semiannual report.-- &lt;&lt;NOTE: Time 
-                periods.&gt;&gt; For the 6-month period ending on March 31, 
-                2010, and each 6-month period thereafter, the Inspector 
-                General of the Board shall--
-                          ``(i) identify any losses that the Inspector 
-                      General estimates were incurred by the Fund during 
-                      such 6-month period, with respect to insured 
-                      credit unions;
-                          ``(ii) &lt;&lt;NOTE: Determination.&gt;&gt;  for each loss 
-                      to the Fund that is not a material loss, 
-                      determine--
-                                    ``(I) the grounds identified by the 
-                                Board or the State official having 
-                                jurisdiction over a State credit union 
-                                for appointing the Board as the 
-                                liquidating agent for any Federal or 
-                                State credit union; and
-                                    ``(II) whether any unusual 
-                                circumstances exist that might warrant 
-                                an in-depth review of the loss; and
-                          ``(iii) prepare and submit a written report to 
-                      the Board and to Congress on the results of the 
-                      determinations of the Inspector General that 
-                      includes--
-                                    ``(I) an identification of any loss 
-                                that warrants an in-depth review, and 
-                                the reasons such review is warranted, or 
-                                if the Inspector General determines that 
-                                no review is warranted, an explanation 
-                                of such determination; and
-                                    ``(II) for each loss identified in 
-                                subclause (I) that warrants an in-depth 
-                                review, the date by which such review, 
-                                and a report on the review prepared in a 
-                                manner consistent with reports under 
-                                paragraph (1)(A), will be completed.
-                    ``(B) Deadline for semiannual report.--The Inspector 
-                General of the Board shall--
-                          ``(i) submit each report required under 
-                      subparagraph (A) expeditiously, and not later than 
-                      90 days after the end of the 6-month period 
-                      covered by the report; and
-                          ``(ii) provide a copy of the report required 
-                      under subparagraph (A) to any Member of Congress, 
-                      upon request.
-            ``(5) GAO review.--The Comptroller General of the United 
-        States shall, under such conditions as the Comptroller General 
-        determines to be appropriate--
-                    ``(A) review each report made under paragraph (1), 
-                including the extent to which the Inspector General of 
-                the Board complied with the requirements under section 
-                8L of the Inspector General Act of 1978 (5 U.S.C. App.) 
-                with respect to each such report; and
-                    ``(B) &lt;&lt;NOTE: Recommenda- tions.&gt;&gt;  recommend 
-                improvements to the supervision of insured credit unions 
-                (including improvements relating to the implementation 
-                of this section).''.
+                a financial holding company, or a subsidiary of a bank 
+                holding company or a financial holding company, as those 
+                terms are defined in the Bank Holding Company Act of 
+                1956 (12 U.S.C. 1841 et seq.); and
+                    (B) any other entity, as the Comptroller General of 
+                the United States may determine; and
+            (2) the term ``proprietary trading'' means the act of a 
+        covered entity investing as a principal in securities, 
+        commodities, derivatives, hedge funds, private equity firms, or 
+        such other financial products or entities as the Comptroller 
+        General may determine.
+
+    (b) Study.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study regarding the risks and conflicts 
+        associated with proprietary trading by and within covered 
+        entities, including an evaluation of--
+                    (A) whether proprietary trading presents a material 
+                systemic risk to the stability of the United States 
+                financial system, and if so, the costs and benefits of 
+                options for mitigating such systemic risk;
+                    (B) whether proprietary trading presents material 
+                risks to the safety and soundness of the covered 
+                entities that engage in such activities, and if so, the 
+                costs and benefits of options for mitigating such risks;
+                    (C) whether proprietary trading presents material 
+                conflicts of interest between covered entities that 
+                engage in proprietary trading and the clients of the 
+                institutions who use the firm to execute trades or who 
+                rely on the firm to manage assets, and if so, the costs 
+                and benefits of options for mitigating such conflicts of 
+                interest;
+                    (D) whether adequate disclosure regarding the risks 
+                and conflicts of proprietary trading is provided to the 
+                depositors, trading and asset management clients, and 
+                investors of covered entities that engage in proprietary 
+                trading, and if not, the costs and benefits of options 
+                for the improvement of such disclosure; and
+                    (E) whether the banking, securities, and commodities 
+                regulators of institutions that engage in proprietary 
+                trading have in place adequate systems and controls to 
+                monitor and contain any risks and conflicts of interest 
+                related to proprietary trading, and if not, the costs 
+                and benefits of options for the improvement of such 
+                systems and controls.
+            (2) Considerations.--In carrying out the study required 
+        under paragraph (1), the Comptroller General shall consider--
+                    (A) current practice relating to proprietary 
+                trading;
+                    (B) the advisability of a complete ban on 
+                proprietary trading;
+                    (C) limitations on the scope of activities that 
+                covered entities may engage in with respect to 
+                proprietary trading;
+                    (D) the advisability of additional capital 
+                requirements for covered entities that engage in 
+                proprietary trading;
+                    (E) enhanced restrictions on transactions between 
+                affiliates related to proprietary trading;
+                    (F) enhanced accounting disclosures relating to 
+                proprietary trading;
+                    (G) enhanced public disclosure relating to 
+                proprietary trading; and
+
+
+                    (H) any other options the Comptroller General deems 
+                appropriate.
+
+    (c) Report to Congress.--Not later than 15 months after the date of 
+enactment of this Act, the Comptroller General shall submit a report to 
+Congress on the results of the study conducted under subsection (b).
+    (d) Access by Comptroller General.--For purposes of conducting the 
+study required under subsection (b), the Comptroller General shall have 
+access, upon request, to any information, data, schedules, books, 
+accounts, financial records, reports, files, electronic communications, 
+or other papers, things, or property belonging to or in use by a covered 
+entity that engages in proprietary trading, and to the officers, 
+directors, employees, independent public accountants, financial 
+advisors, staff, and agents and representatives of a covered entity (as 
+related to the activities of the agent or representative on behalf of 
+the covered entity), at such reasonable times as the Comptroller General 
+may request. The Comptroller General may make and retain copies of 
+books, records, accounts, and other records, as the Comptroller General 
+deems appropriate.
+    (e) Confidentiality of Reports.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        Comptroller General may not disclose information regarding--
+                    (A) any proprietary trading activity of a covered 
+                entity, unless such information is disclosed at a level 
+                of generality that does not reveal the investment or 
+                trading position or strategy of the covered entity for 
+                any specific security, commodity, derivative, or other 
+                investment or financial product; or
+                    (B) any individual interviewed by the Comptroller 
+                General for purposes of the study under subsection (b), 
+                unless such information is disclosed at a level of 
+                generality that does not reveal--
+                          (i) the name of or identifying details 
+                      relating to such individual; or
+                          (ii) in the case of an individual who is an 
+                      employee of a third party that provides 
+                      professional services to a covered entity believed 
+                      to be engaged in proprietary trading, the name of 
+                      or any identifying details relating to such third 
+                      party.
+            (2) Exceptions.--The Comptroller General may disclose the 
+        information described in paragraph (1)--
+                    (A) to a department, agency, or official of the 
+                Federal Government, for official use, upon request;
+                    (B) to a committee of Congress, upon request; and
+                    (C) to a court, upon an order of such court.

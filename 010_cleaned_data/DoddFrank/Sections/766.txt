@@ -1,40 +1,145 @@
-                        INTEREST.
 
-    (a) &lt;&lt;NOTE: Deadline.&gt;&gt;  In General.--In order to mitigate conflicts 
-of interest, not later than 180 days after the date of enactment of the 
-Wall Street Transparency and Accountability Act of 2010, the Securities 
-and Exchange Commission shall adopt rules which may include numerical 
-limits on the control of, or the voting rights with respect to, any 
-clearing agency that clears security-based swaps, or on the control of 
-any security-based swap execution facility or national securities 
-exchange that posts or makes available for trading security-based swaps, 
-by a bank holding company (as defined in section
+    (a) In General.--The Securities Exchange Act of 1934 (15 U.S.C. 78a 
+et seq.) is amended by inserting after section 13 the following:
+``SEC. 13A. &lt;&lt;NOTE: 15 USC 78m-1.&gt;&gt;  REPORTING AND RECORDKEEPING 
+                        FOR CERTAIN SECURITY-BASED SWAPS.
+
+    ``(a) Required Reporting of Security-based Swaps Not Accepted by Any 
+Clearing Agency or Derivatives Clearing Organization.--
+            ``(1) In general.--Each security-based swap that is not 
+        accepted for clearing by any clearing agency or derivatives 
+        clearing organization shall be reported to--
+                    ``(A) a security-based swap data repository 
+                described in section 13(n); or
+                    ``(B) in the case in which there is no security-
+                based swap data repository that would accept the 
+                security-based swap, to the Commission pursuant to this 
+                section within such time period as the Commission may by 
+                rule or regulation prescribe.
+            ``(2) Transition rule for preenactment security-based 
+        swaps.--
+                    ``(A) Security-based swaps entered into before the 
+                date of enactment of the wall street transparency and 
+                accountability act of 2010.--Each security-based swap 
+                entered into before the date of enactment of the Wall 
+                Street Transparency and Accountability Act of 2010, the 
+                terms of which have not expired as of the date of 
+                enactment of that Act, shall be reported to a registered
 
 
-2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)) with total 
-consolidated assets of $50,000,000,000 or more, a nonbank financial 
-company (as defined in section 102) supervised by the Board of Governors 
-of the Federal Reserve System, affiliate of such a bank holding company 
-or nonbank financial company, a security-based swap dealer, major 
-security-based swap participant, or person associated with a security-
-based swap dealer or major security-based swap participant.
+                security-based swap data repository or the Commission by 
+                a date that is not later than--
+                          ``(i) 30 days after issuance of the interim 
+                      final rule; or
+                          ``(ii) such other period as the Commission 
+                      determines to be appropriate.
+                    ``(B) Commission rulemaking.--The Commission shall 
+                promulgate an interim final rule within 90 days of the 
+                date of enactment of this section providing for the 
+                reporting of each security-based swap entered into 
+                before the date of enactment as referenced in 
+                subparagraph (A).
+                    ``(C) Effective date.--The reporting provisions 
+                described in this section shall be effective upon the 
+                date of the enactment of this section.
+            ``(3) Reporting obligations.--
+                    ``(A) Security-based swaps in which only 1 
+                counterparty is a security-based swap dealer or major 
+                security-based swap participant.--With respect to a 
+                security-based swap in which only 1 counterparty is a 
+                security-based swap dealer or major security-based swap 
+                participant, the security-based swap dealer or major 
+                security-based swap participant shall report the 
+                security-based swap as required under paragraphs (1) and 
+                (2).
+                    ``(B) Security-based swaps in which 1 counterparty 
+                is a security-based swap dealer and the other a major 
+                security-based swap participant.--With respect to a 
+                security-based swap in which 1 counterparty is a 
+                security-based swap dealer and the other a major 
+                security-based swap participant, the security-based swap 
+                dealer shall report the security-based swap as required 
+                under paragraphs (1) and (2).
+                    ``(C) Other security-based swaps.--With respect to 
+                any other security-based swap not described in 
+                subparagraph (A) or (B), the counterparties to the 
+                security-based swap shall select a counterparty to 
+                report the security-based swap as required under 
+                paragraphs (1) and (2).
 
-    (b) Purposes.--The Securities and Exchange Commission shall adopt 
-rules if the Commission determines, after the review described in 
-subsection (a), that such rules are necessary or appropriate to improve 
-the governance of, or to mitigate systemic risk, promote competition, or 
-mitigate conflicts of interest in connection with a security-based swap 
-dealer or major security-based swap participant's conduct of business 
-with, a clearing agency, national securities exchange, or security-based 
-swap execution facility that clears, posts, or makes available for 
-trading security-based swaps and in which such security-based swap 
-dealer or major security-based swap participant has a material debt or 
-equity investment.
-    (c) Considerations.--In adopting rules pursuant to this section, the 
-Securities and Exchange Commission shall consider any conflicts of 
-interest arising from the amount of equity owned by a single investor, 
-the ability to vote, cause the vote of, or withhold votes entitled to be 
-cast on any matters by the holders of the ownership interest, and the 
-governance arrangements of any derivatives clearing organization that 
-clears swaps, or swap execution facility or board of trade designated as 
-a contract market that posts swaps or makes swaps available for trading.
+    ``(b) Duties of Certain Individuals.--Any individual or entity that 
+enters into a security-based swap shall meet each requirement described 
+in subsection (c) if the individual or entity did not--
+            ``(1) clear the security-based swap in accordance with 
+        section 3C(a)(1); or
+            ``(2) have the data regarding the security-based swap 
+        accepted by a security-based swap data repository in accordance 
+        with rules (including timeframes) adopted by the Commission 
+        under this title.
+
+    ``(c) Requirements.--An individual or entity described in subsection 
+(b) shall--
+            ``(1) upon written request from the Commission, provide 
+        reports regarding the security-based swaps held by the 
+        individual or entity to the Commission in such form and in such 
+        manner as the Commission may request; and
+            ``(2) maintain books and records pertaining to the security-
+        based swaps held by the individual or entity in such form, in 
+        such manner, and for such period as the Commission may require, 
+        which shall be open to inspection by--
+                    ``(A) any representative of the Commission;
+                    ``(B) an appropriate prudential regulator;
+
+
+                    ``(C) the Commodity Futures Trading Commission;
+                    ``(D) the Financial Stability Oversight Council; and
+                    ``(E) the Department of Justice.
+
+    ``(d) Identical Data.--In prescribing rules under this section, the 
+Commission shall require individuals and entities described in 
+subsection (b) to submit to the Commission a report that contains data 
+that is not less comprehensive than the data required to be collected by 
+security-based swap data repositories under this title.''.
+    (b) Beneficial Ownership Reporting.--Section 13 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78m) is amended--
+            (1) in subsection (d)(1), by inserting ``or otherwise 
+        becomes or is deemed to become a beneficial owner of any of the 
+        foregoing upon the purchase or sale of a security-based swap 
+        that the Commission may define by rule, and'' after ``Alaska 
+        Native Claims Settlement Act,''; and
+            (2) in subsection (g)(1), by inserting ``or otherwise 
+        becomes or is deemed to become a beneficial owner of any 
+        security of a class described in subsection (d)(1) upon the 
+        purchase or sale of a security-based swap that the Commission 
+        may define by rule'' after ``subsection (d)(1) of this 
+        section''.
+
+    (c) Reports by Institutional Investment Managers.--Section 13(f)(1) 
+of the Securities Exchange Act of 1934 (15 U.S.C. 78m(f)(1)) is amended 
+by inserting ``or otherwise becomes or is deemed to become a beneficial 
+owner of any security of a class described in subsection (d)(1) upon the 
+purchase or sale of a security-based swap that the Commission may define 
+by rule,'' after ``subsection (d)(1) of this section''.
+    (d) Administrative Proceeding Authority.--Section 15(b)(4) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78o(b)(4)) is amended--
+            (1) in subparagraph (C), by inserting ``security-based swap 
+        dealer, major security-based swap participant,'' after 
+        ``government securities dealer,''; and
+            (2) in subparagraph (F), by striking ``broker or dealer'' 
+        and inserting ``broker, dealer, security-based swap dealer, or a 
+        major security-based swap participant''.
+
+    (e) Security-based Swap Beneficial Ownership.--Section 13 of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at 
+the end the following:
+    ``(o) Beneficial Ownership.--For purposes of this section and 
+section 16, a person shall be deemed to acquire beneficial ownership of 
+an equity security based on the purchase or sale of a security-based 
+swap, only to the extent that the Commission, by rule, determines after 
+consultation with the prudential regulators and the Secretary of the 
+Treasury, that the purchase or sale of the security-based swap, or class 
+of security-based swap, provides incidents of ownership comparable to 
+direct ownership of the equity security, and that it is necessary to 
+achieve the purposes of this section that the purchase or sale of the 
+security-based swaps, or class of security-based swap, be deemed the 
+acquisition of beneficial ownership of the equity security.''.

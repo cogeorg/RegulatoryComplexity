@@ -1,81 +1,68 @@
-                          THE COMMISSION.
+                          EXCHANGED.
 
-    (a) Securities Exchange Act of 1934.--Section 24 of the Securities 
-Exchange Act of 1934 (15 U.S.C. 78x) is amended--
-            (1) in subsection (d), by striking ``subsection (e)'' and 
-        inserting ``subsection (f)'';
-            (2) by redesignating subsection (e) as subsection (f); and
+    Section 106 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216) is 
+amended--
+            (1) by striking subsection (b) and inserting the following:
 
+    ``(b) Production of Documents.--
+            ``(1) Production by foreign firms.--If a foreign public 
+        accounting firm performs material services upon which a 
+        registered public accounting firm relies in the conduct of an 
+        audit or interim review, issues an audit report, performs audit 
+        work, or conducts interim reviews, the foreign public accounting 
+        firm shall--
+                    ``(A) produce the audit work papers of the foreign 
+                public accounting firm and all other documents of the 
+                firm related to any such audit work or interim review to 
+                the Commission or the Board, upon request of the 
+                Commission or the Board; and
+                    ``(B) be subject to the jurisdiction of the courts 
+                of the United States for purposes of enforcement of any 
+                request for such documents.
+            ``(2) Other production.--Any registered public accounting 
+        firm that relies, in whole or in part, on the work of a foreign 
+        public accounting firm in issuing an audit report, performing 
+        audit work, or conducting an interim review, shall--
+                    ``(A) produce the audit work papers of the foreign 
+                public accounting firm and all other documents related 
+                to any such work in response to a request for production 
+                by the Commission or the Board; and
+                    ``(B) secure the agreement of any foreign public 
+                accounting firm to such production, as a condition of 
+                the reliance by the registered public accounting firm on 
+                the work of that foreign public accounting firm.'';
+            (2) by redesignating subsection (d) as subsection (g); and
+            (3) by inserting after subsection (c) the following:
 
-            (3) by inserting after subsection (d) the following:
-
-    ``(e) Records Obtained From Registered Persons.--
-            ``(1) In general.--Except as provided in subsection (f), the 
-        Commission shall not be compelled to disclose records or 
-        information obtained pursuant to section 17(b), or records or 
-        information based upon or derived from such records or 
-        information, if such records or information have been obtained 
-        by the Commission for use in furtherance of the purposes of this 
-        title, including surveillance, risk assessments, or other 
-        regulatory and oversight activities.
-            ``(2) Treatment of information.--For purposes of section 552 
-        of title 5, United States Code, this subsection shall be 
-        considered a statute described in subsection (b)(3)(B) of such 
-        section 552. Collection of information pursuant to section 17 
-        shall be an administrative action involving an agency against 
-        specific individuals or agencies pursuant to section 3518(c)(1) 
-        of title 44, United States Code.''.
-
-    (b) Investment Company Act of 1940.--Section 31 of the Investment 
-Company Act of 1940 (15 U.S.C. 80a-30) is amended--
-            (1) by striking subsection (c) and inserting the following:
-
-    ``(c) Limitations on Disclosure by Commission.--Notwithstanding any 
-other provision of law, the Commission shall not be compelled to 
-disclose any records or information provided to the Commission under 
-this section, or records or information based upon or derived from such 
-records or information, if such records or information have been 
-obtained by the Commission for use in furtherance of the purposes of 
-this title, including surveillance, risk assessments, or other 
-regulatory and oversight activities. Nothing in this subsection 
-authorizes the Commission to withhold information from the Congress or 
-prevent the Commission from complying with a request for information 
-from any other Federal department or agency requesting the information 
-for purposes within the scope of jurisdiction of that department or 
-agency, or complying with an order of a court of the United States in an 
-action brought by the United States or the Commission. For purposes of 
-section 552 of title 5, United States Code, this section shall be 
-considered a statute described in subsection (b)(3)(B) of such section 
-552. Collection of information pursuant to section 31 shall be an 
-administrative action involving an agency against specific individuals 
-or agencies pursuant to section 3518(c)(1) of title 44, United States 
-Code.'';
-            (2) by striking subsection (d); and
-            (3) by redesignating subsections (e) and (f) as subsections 
-        (d) and (e), respectively.
-
-    (c) Investment Advisers Act of 1940.--Section 210 of the Investment 
-Advisers Act of 1940 (15 U.S.C. 80b-10) is amended by adding at the end 
-the following:
-    ``(d) Limitations on Disclosure by the Commission.--Notwithstanding 
-any other provision of law, the Commission shall not be compelled to 
-disclose any records or information provided to the Commission under 
-section 204, or records or information based upon or derived from such 
-records or information, if such records or information have been 
-obtained by the Commission for use in furtherance of the purposes of 
-this title, including surveillance, risk assessments, or other 
-regulatory and oversight activities. Nothing in this subsection 
-authorizes the Commission to withhold information from the Congress or 
-prevent the Commission from
+    ``(d) Service of Requests or Process.--
+            ``(1) In general.--Any foreign public accounting firm that 
+        performs work for a domestic registered public accounting firm 
+        shall furnish to the domestic registered public accounting firm 
+        a written irrevocable consent and power of attorney that 
+        designates the domestic registered public accounting firm as an 
+        agent upon whom may be served any request by the Commission or 
+        the Board under this section or upon whom may be served any 
+        process, pleadings, or other papers in any action brought to 
+        enforce this section.
 
 
-complying with a request for information from any other Federal 
-department or agency requesting the information for purposes within the 
-scope of jurisdiction of that department or agency, or complying with an 
-order of a court of the United States in an action brought by the United 
-States or the Commission. For purposes of section 552 of title 5, United 
-States Code, this subsection shall be considered a statute described in 
-subsection (b)(3)(B) of such section 552. Collection of information 
-pursuant to section 204 shall be an administrative action involving an 
-agency against specific individuals or agencies pursuant to section 
-3518(c)(1) of title 44, United States Code.''.
+            ``(2) &lt;&lt;NOTE: Designation.&gt;&gt;  Specific audit work.--Any 
+        foreign public accounting firm that performs material services 
+        upon which a registered public accounting firm relies in the 
+        conduct of an audit or interim review, issues an audit report, 
+        performs audit work, or, performs interim reviews, shall 
+        designate to the Commission or the Board an agent in the United 
+        States upon whom may be served any request by the Commission or 
+        the Board under this section or upon whom may be served any 
+        process, pleading, or other papers in any action brought to 
+        enforce this section.
+
+    ``(e) Sanctions.--A willful refusal to comply, in whole in or in 
+part, with any request by the Commission or the Board under this 
+section, shall be deemed a violation of this Act.
+    ``(f) Other Means of Satisfying Production Obligations.--
+Notwithstanding any other provisions of this section, the staff of the 
+Commission or the Board may allow a foreign public accounting firm that 
+is subject to this section to meet production obligations under this 
+section through alternate means, such as through foreign counterparts of 
+the Commission or the Board.''.

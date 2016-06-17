@@ -1,144 +1,1426 @@
-                        SWAP AGREEMENTS.
 
-    (a) Repeal.--Sections 206B and 206C of the Gramm-Leach-Bliley Act 
-(Public Law 106-102; 15 U.S.C. 78c note) are repealed.
-    (b) Conforming Amendments to Gramm-Leach-Bliley.--Section 206A(a) of 
-the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended in the 
-material preceding paragraph (1), by striking ``Except as'' and all that 
-follows through ``that--'' and inserting the following: ``Except as 
-provided in subsection (b), as used in this section, the term `swap 
-agreement' means any agreement, contract, or transaction that--''.
-    (c) Conforming Amendments to the Securities Act of 1933.--
-            (1) Section 2A of the Securities Act of 1933 (15 U.S.C. 77b-
-        1) is amended--
-                    (A) by striking subsection (a) and reserving that 
-                subsection; and
-                    (B) by striking ``(as defined in section 206B of the 
-                Gramm-Leach-Bliley Act)'' each place that such term 
-                appears and inserting ``(as defined in section 3(a)(78) 
-                of the Securities Exchange Act of 1934)''.
-            (2) Section 17 of the Securities Act of 1933 (15 U.S.C. 77q) 
-        is amended--
-                    (A) in subsection (a)--
+    (a) Clearing for Security-based Swaps.--The Securities Exchange Act 
+of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 3B 
+(as added by section 717 of this Act):
+``SEC. 3C. &lt;&lt;NOTE: 15 USC 78c-3.&gt;&gt;  CLEARING FOR SECURITY-BASED 
+                      SWAPS.
 
+    ``(a) In General.--
+            ``(1) Standard for clearing.--It shall be unlawful for any 
+        person to engage in a security-based swap unless that person 
+        submits such security-based swap for clearing to a clearing 
+        agency that is registered under this Act or a clearing agency 
+        that is exempt from registration under this Act if the security-
+        based swap is required to be cleared.
+            ``(2) Open access.--The rules of a clearing agency described 
+        in paragraph (1) shall--
+                    ``(A) prescribe that all security-based swaps 
+                submitted to the clearing agency with the same terms and 
+                conditions are economically equivalent within the 
+                clearing agency and may be offset with each other within 
+                the clearing agency; and
+                    ``(B) provide for non-discriminatory clearing of a 
+                security-based swap executed bilaterally or on or 
+                through the rules of an unaffiliated national securities 
+                exchange or security-based swap execution facility.
 
-                          (i) by inserting ``(including security-based 
-                      swaps)'' after ``securities''; and
-                          (ii) by striking ``(as defined in section 206B 
-                      of the Gramm-Leach-Bliley Act)'' and inserting 
-                      ``(as defined in section 3(a)(78) of the 
-                      Securities Exchange Act)''; and
-                    (B) in subsection (d), by striking ``206B of the 
-                Gramm-Leach-Bliley Act'' and inserting ``3(a)(78) of the 
-                Securities Exchange Act of 1934''.
-
-    (d) Conforming Amendments to the Securities Exchange Act of 1934.--
-The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended--
-            (1) in section 3A (15 U.S.C. 78c-1)--
-                    (A) by striking subsection (a) and reserving that 
-                subsection; and
-                    (B) by striking ``(as defined in section 206B of the 
-                Gramm-Leach-Bliley Act)'' each place that the term 
-                appears;
-            (2) in section 9 (15 U.S.C. 78i)--
-                    (A) in subsection (a), by striking paragraphs (2) 
-                through (5) and inserting the following:
-
-    ``(2) To effect, alone or with 1 or more other persons, a series of 
-transactions in any security registered on a national securities 
-exchange, any security not so registered, or in connection with any 
-security-based swap or security-based swap agreement with respect to 
-such security creating actual or apparent active trading in such 
-security, or raising or depressing the price of such security, for the 
-purpose of inducing the purchase or sale of such security by others.
-    ``(3) If a dealer, broker, security-based swap dealer, major 
-security-based swap participant, or other person selling or offering for 
-sale or purchasing or offering to purchase the security, a security-
-based swap, or a security-based swap agreement with respect to such 
-security, to induce the purchase or sale of any security registered on a 
-national securities exchange, any security not so registered, any 
-security-based swap, or any security-based swap agreement with respect 
-to such security by the circulation or dissemination in the ordinary 
-course of business of information to the effect that the price of any 
-such security will or is likely to rise or fall because of market 
-operations of any 1 or more persons conducted for the purpose of raising 
-or depressing the price of such security.
-    ``(4) If a dealer, broker, security-based swap dealer, major 
-security-based swap participant, or other person selling or offering for 
-sale or purchasing or offering to purchase the security, a security-
-based swap, or security-based swap agreement with respect to such 
-security, to make, regarding any security registered on a national 
-securities exchange, any security not so registered, any security-based 
-swap, or any security-based swap agreement with respect to such 
-security, for the purpose of inducing the purchase or sale of such 
-security, such security-based swap, or such security-based swap 
-agreement any statement which was at the time and in the light of the 
-circumstances under which it was made, false or misleading with respect 
-to any material fact, and which that person knew or had reasonable 
-ground to believe was so false or misleading.
+    ``(b) Commission Review.--
+            ``(1) Commission-initiated review.--
+                    ``(A) The Commission on an ongoing basis shall 
+                review each security-based swap, or any group, category, 
+                type, or class of security-based swaps to make a 
+                determination that such security-based swap, or group, 
+                category, type, or class of security-based swaps should 
+                be required to be cleared.
+                    ``(B) &lt;&lt;NOTE: Public comment.&gt;&gt;  The Commission 
+                shall provide at least a 30-day public comment period 
+                regarding any determination under subparagraph (A).
+            ``(2) Swap submissions.--
+                    ``(A) &lt;&lt;NOTE: Notice.&gt;&gt;  A clearing agency shall 
+                submit to the Commission each security-based swap, or 
+                any group, category, type, or class of security-based 
+                swaps that it plans to accept for clearing and provide 
+                notice to its members (in a manner to be determined by 
+                the Commission) of such submission.
+                    ``(B) Any security-based swap or group, category, 
+                type, or class of security-based swaps listed for 
+                clearing by a clearing agency as of the date of 
+                enactment of this subsection shall be considered 
+                submitted to the Commission.
+                    ``(C) The Commission shall--
+                          ``(i) &lt;&lt;NOTE: Public information.&gt;&gt;  make 
+                      available to the public any submission received 
+                      under subparagraphs (A) and (B);
+                          ``(ii) review each submission made under 
+                      subparagraphs (A) and (B), and determine whether 
+                      the security-based swap, or group, category, type, 
+                      or class of security-based swaps, described in the 
+                      submission is required to be cleared; and
+                          ``(iii) &lt;&lt;NOTE: Public comment.&gt;&gt;  provide at 
+                      least a 30-day public comment period regarding its 
+                      determination whether the
 
 
-    ``(5) For a consideration, received directly or indirectly from a 
-broker, dealer, security-based swap dealer, major security-based swap 
-participant, or other person selling or offering for sale or purchasing 
-or offering to purchase the security, a security-based swap, or 
-security-based swap agreement with respect to such security, to induce 
-the purchase of any security registered on a national securities 
-exchange, any security not so registered, any security-based swap, or 
-any security-based swap agreement with respect to such security by the 
-circulation or dissemination of information to the effect that the price 
-of any such security will or is likely to rise or fall because of the 
-market operations of any 1 or more persons conducted for the purpose of 
-raising or depressing the price of such security.''; and
-                    (B) in subsection (i), by striking ``(as defined in 
-                section 206B of the Gramm-Leach-Bliley Act)'';
-            (3) in section 10 (15 U.S.C. 78j)--
-                    (A) in subsection (b), by striking ``(as defined in 
-                section 206B of the Gramm-Leach-Bliley Act),'' each 
-                place that term appears; and
-                    (B) in the matter following subsection (b), by 
-                striking ``(as defined in section 206B of the Gramm-
-                Leach-Bliley Act), in each place that such terms 
-                appear'';
-            (4) in section 15 (15 U.S.C. 78o)--
-                    (A) in subsection (c)(1)(A), by striking ``(as 
-                defined in section 206B of the Gramm-Leach-Bliley 
-                Act),'';
-                    (B) in subparagraphs (B) and (C) of subsection 
-                (c)(1), by striking ``(as defined in section 206B of the 
-                Gramm-Leach-Bliley Act)'' each place that term appears;
-                    (C) by redesignating subsection (i), as added by 
-                section 303(f) of the Commodity Futures Modernization 
-                Act of 2000 (Public Law 106-554; 114 Stat. 2763A-455)), 
-                as subsection (j); and
-                    (D) in subsection (j), as redesignated by 
-                subparagraph (C), by striking ``(as defined in section 
-                206B of the Gramm-Leach-Bliley Act)'';
-            (5) in section 16 (15 U.S.C. 78p)--
-                    (A) in subsection (a)(2)(C), by striking ``(as 
-                defined in section 206(b) of the Gramm-Leach-Bliley Act 
-                (15 U.S.C. 78c note))'';
-                    (B) in subsection (a)(3)(B), by inserting ``or 
-                security-based swaps'' after ``security-based swap 
-                agreement'';
-                    (C) in the first sentence of subsection (b), by 
-                striking ``(as defined in section 206B of the Gramm-
-                Leach-Bliley Act)'';
-                    (D) in the third sentence of subsection (b), by 
-                striking ``(as defined in section 206B of the Gramm-
-                Leach Bliley Act)'' and inserting ``or a security-based 
-                swap''; and
-                    (E) in subsection (g), by striking ``(as defined in 
-                section 206B of the Gramm-Leach-Bliley Act)'';
-            (6) in section 20 (15 U.S.C. 78t),
-                    (A) in subsection (d), by striking ``(as defined in 
-                section 206B of the Gramm-Leach-Bliley Act)''; and
-                    (B) in subsection (f), by striking ``(as defined in 
-                section 206B of the Gramm-Leach-Bliley Act)''; and
-            (7) in section 21A (15 U.S.C. 78u-1)--
-                    (A) in subsection (a)(1), by striking ``(as defined 
-                in section 206B of the Gramm-Leach-Bliley Act)''; and
+                      clearing requirement under subsection (a)(1) shall 
+                      apply to the submission.
+            ``(3) Deadline.--The Commission shall make its determination 
+        under paragraph (2)(C) not later than 90 days after receiving a 
+        submission made under paragraphs (2)(A) and (2)(B), unless the 
+        submitting clearing agency agrees to an extension for the time 
+        limitation established under this paragraph.
+            ``(4) Determination.--
+                    ``(A) In reviewing a submission made under paragraph 
+                (2), the Commission shall review whether the submission 
+                is consistent with section 17A.
+                    ``(B) In reviewing a security-based swap, group of 
+                security-based swaps or class of security-based swaps 
+                pursuant to paragraph (1) or a submission made under 
+                paragraph (2), the Commission shall take into account 
+                the following factors:
+                          ``(i) The existence of significant outstanding 
+                      notional exposures, trading liquidity and adequate 
+                      pricing data.
+                          ``(ii) The availability of rule framework, 
+                      capacity, operational expertise and resources, and 
+                      credit support infrastructure to clear the 
+                      contract on terms that are consistent with the 
+                      material terms and trading conventions on which 
+                      the contract is then traded.
+                          ``(iii) The effect on the mitigation of 
+                      systemic risk, taking into account the size of the 
+                      market for such contract and the resources of the 
+                      clearing agency available to clear the contract.
+                          ``(iv) The effect on competition, including 
+                      appropriate fees and charges applied to clearing.
+                          ``(v) The existence of reasonable legal 
+                      certainty in the event of the insolvency of the 
+                      relevant clearing agency or 1 or more of its 
+                      clearing members with regard to the treatment of 
+                      customer and security-based swap counterparty 
+                      positions, funds, and property.
+                    ``(C) In making a determination under subsection 
+                (b)(1) or paragraph (2)(C) that the clearing requirement 
+                shall apply, the Commission may require such terms and 
+                conditions to the requirement as the Commission 
+                determines to be appropriate.
+            ``(5) Rules.--Not &lt;&lt;NOTE: Deadline.&gt;&gt;  later than 1 year 
+        after the date of the enactment of this section, the Commission 
+        shall adopt rules for a clearing agency's submission for review, 
+        pursuant to this subsection, of a security-based swap, or a 
+        group, category, type, or class of security-based swaps, that it 
+        seeks to accept for clearing. Nothing in this paragraph limits 
+        the Commission from making a determination under paragraph 
+        (2)(C) for security-based swaps described in paragraph (2)(B).
+
+    ``(c) Stay of Clearing Requirement.--
+            ``(1) In general.--After making a determination pursuant to 
+        subsection (b)(2), the Commission, on application of a 
+        counterparty to a security-based swap or on its own initiative, 
+        may stay the clearing requirement of subsection (a)(1) until the 
+        Commission completes a review of the terms of the security-based 
+        swap (or the group, category, type, or class of security-based 
+        swaps) and the clearing arrangement.
 
 
-                    (B) in subsection (g), by striking ``(as defined in 
-                section 206B of the Gramm-Leach-Bliley Act)''.
+            ``(2) Deadline.--The Commission shall complete a review 
+        undertaken pursuant to paragraph (1) not later than 90 days 
+        after issuance of the stay, unless the clearing agency that 
+        clears the security-based swap, or group, category, type, or 
+        class of security-based swaps, agrees to an extension of the 
+        time limitation established under this paragraph.
+            ``(3) Determination.--Upon completion of the review 
+        undertaken pursuant to paragraph (1), the Commission may--
+                    ``(A) determine, unconditionally or subject to such 
+                terms and conditions as the Commission determines to be 
+                appropriate, that the security-based swap, or group, 
+                category, type, or class of security-based swaps, must 
+                be cleared pursuant to this subsection if it finds that 
+                such clearing is consistent with subsection (b)(4); or
+                    ``(B) determine that the clearing requirement of 
+                subsection (a)(1) shall not apply to the security-based 
+                swap, or group, category, type, or class of security-
+                based swaps.
+            ``(4) Rules.--Not &lt;&lt;NOTE: Deadline.&gt;&gt;  later than 1 year 
+        after the date of the enactment of this section, the Commission 
+        shall adopt rules for reviewing, pursuant to this subsection, a 
+        clearing agency's clearing of a security-based swap, or a group, 
+        category, type, or class of security-based swaps, that it has 
+        accepted for clearing.
+
+    ``(d) Prevention of Evasion.--
+            ``(1) In general.--The &lt;&lt;NOTE: Regulations.&gt;&gt;  Commission 
+        shall prescribe rules under this section (and issue 
+        interpretations of rules prescribed under this section), as 
+        determined by the Commission to be necessary to prevent evasions 
+        of the mandatory clearing requirements under this Act.
+            ``(2) Duty of commission to investigate and take certain 
+        actions.--To the extent the Commission finds that a particular 
+        security-based swap or any group, category, type, or class of 
+        security-based swaps that would otherwise be subject to 
+        mandatory clearing but no clearing agency has listed the 
+        security-based swap or the group, category, type, or class of 
+        security-based swaps for clearing, the Commission shall--
+                    ``(A) investigate the relevant facts and 
+                circumstances;
+                    ``(B) &lt;&lt;NOTE: Deadline. Reports.&gt;&gt;  within 30 days 
+                issue a public report containing the results of the 
+                investigation; and
+                    ``(C) take such actions as the Commission determines 
+                to be necessary and in the public interest, which may 
+                include requiring the retaining of adequate margin or 
+                capital by parties to the security-based swap or the 
+                group, category, type, or class of security-based swaps.
+            ``(3) Effect on authority.--Nothing in this subsection--
+                    ``(A) authorizes the Commission to adopt rules 
+                requiring a clearing agency to list for clearing a 
+                security-based swap or any group, category, type, or 
+                class of security-based swaps if the clearing of the 
+                security-based swap or the group, category, type, or 
+                class of security-based swaps would threaten the 
+                financial integrity of the clearing agency; and
+                    ``(B) affects the authority of the Commission to 
+                enforce the open access provisions of subsection (a)(2) 
+                with respect to a security-based swap or the group, 
+                category, type, or class of security-based swaps that is 
+                listed for clearing by a clearing agency.
+
+
+    ``(e) Reporting &lt;&lt;NOTE: Deadlines.&gt;&gt;  Transition Rules.--Rules 
+adopted by the Commission under this section shall provide for the 
+reporting of data, as follows:
+            ``(1) Security-based swaps entered into before the date of 
+        the enactment of this section shall be reported to a registered 
+        security-based swap data repository or the Commission no later 
+        than 180 days after the effective date of this section.
+            ``(2) Security-based swaps entered into on or after such 
+        date of enactment shall be reported to a registered security-
+        based swap data repository or the Commission no later than the 
+        later of--
+                    ``(A) 90 days after such effective date; or
+                    ``(B) such other time after entering into the 
+                security-based swap as the Commission may prescribe by 
+                rule or regulation.
+
+    ``(f) Clearing Transition Rules.--
+            ``(1) Security-based swaps entered into before the date of 
+        the enactment of this section are exempt from the clearing 
+        requirements of this subsection if reported pursuant to 
+        subsection (e)(1).
+            ``(2) Security-based swaps entered into before application 
+        of the clearing requirement pursuant to this section are exempt 
+        from the clearing requirements of this section if reported 
+        pursuant to subsection (e)(2).
+
+    ``(g) Exceptions.--
+            ``(1) In general.--The requirements of subsection (a)(1) 
+        shall not apply to a security-based swap if 1 of the 
+        counterparties to the security-based swap--
+                    ``(A) is not a financial entity;
+                    ``(B) is using security-based swaps to hedge or 
+                mitigate commercial risk; and
+                    ``(C) &lt;&lt;NOTE: Notification.&gt;&gt;  notifies the 
+                Commission, in a manner set forth by the Commission, how 
+                it generally meets its financial obligations associated 
+                with entering into non-cleared security-based swaps.
+            ``(2) Option to clear.--The application of the clearing 
+        exception in paragraph (1) is solely at the discretion of the 
+        counterparty to the security-based swap that meets the 
+        conditions of subparagraphs (A) through (C) of paragraph (1).
+            ``(3) Financial entity definition.--
+                    ``(A) In general.--For the purposes of this 
+                subsection, the term `financial entity' means--
+                          ``(i) a swap dealer;
+                          ``(ii) a security-based swap dealer;
+                          ``(iii) a major swap participant;
+                          ``(iv) a major security-based swap 
+                      participant;
+                          ``(v) a commodity pool as defined in section 
+                      1a(10) of the Commodity Exchange Act;
+                          ``(vi) a private fund as defined in section 
+                      202(a) of the Investment Advisers Act of 1940 (15 
+                      U.S.C. 80-b-2(a));
+                          ``(vii) an employee benefit plan as defined in 
+                      paragraphs (3) and (32) of section 3 of the 
+                      Employee Retirement Income Security Act of 1974 
+                      (29 U.S.C. 1002);
+                          ``(viii) a person predominantly engaged in 
+                      activities that are in the business of banking or 
+                      financial in
+
+
+                      nature, as defined in section 4(k) of the Bank 
+                      Holding Company Act of 1956.
+                    ``(B) Exclusion.--The Commission shall consider 
+                whether to exempt small banks, savings associations, 
+                farm credit system institutions, and credit unions, 
+                including--
+                          ``(i) depository institutions with total 
+                      assets of $10,000,000,000 or less;
+                          ``(ii) farm credit system institutions with 
+                      total assets of $10,000,000,000 or less; or
+                          ``(iii) credit unions with total assets of 
+                      $10,000,000,000 or less.
+            ``(4) Treatment of affiliates.--
+                    ``(A) In general.--An affiliate of a person that 
+                qualifies for an exception under this subsection 
+                (including affiliate entities predominantly engaged in 
+                providing financing for the purchase of the merchandise 
+                or manufactured goods of the person) may qualify for the 
+                exception only if the affiliate, acting on behalf of the 
+                person and as an agent, uses the security-based swap to 
+                hedge or mitigate the commercial risk of the person or 
+                other affiliate of the person that is not a financial 
+                entity.
+                    ``(B) Prohibition relating to certain affiliates.--
+                The exception in subparagraph (A) shall not apply if the 
+                affiliate is--
+                          ``(i) a swap dealer;
+                          ``(ii) a security-based swap dealer;
+                          ``(iii) a major swap participant;
+                          ``(iv) a major security-based swap 
+                      participant;
+                          ``(v) an issuer that would be an investment 
+                      company, as defined in section 3 of the Investment 
+                      Company Act of 1940 (15 U.S.C. 80a-3), but for 
+                      paragraph (1) or (7) of subsection (c) of that Act 
+                      (15 U.S.C. 80a-3(c));
+                          ``(vi) a commodity pool; or
+                          ``(vii) a bank holding company with over 
+                      $50,000,000,000 in consolidated assets.
+                    ``(C) Transition rule for affiliates.--An affiliate, 
+                subsidiary, or a wholly owned entity of a person that 
+                qualifies for an exception under subparagraph (A) and is 
+                predominantly engaged in providing financing for the 
+                purchase or lease of merchandise or manufactured goods 
+                of the person shall be exempt from the margin 
+                requirement described in section 15F(e) and the clearing 
+                requirement described in subsection (a) with regard to 
+                security-based swaps entered into to mitigate the risk 
+                of the financing activities for not less than a 2-year 
+                period beginning on the date of enactment of this 
+                subparagraph.
+            ``(5) Election of counterparty.--
+                    ``(A) Security-based swaps required to be cleared.--
+                With respect to any security-based swap that is subject 
+                to the mandatory clearing requirement under subsection 
+                (a) and entered into by a security-based swap dealer or 
+                a major security-based swap participant with a 
+                counterparty that is not a swap dealer, major swap 
+                participant, security-based swap dealer, or major 
+                security-based swap participant, the counterparty shall 
+                have the
+
+
+                sole right to select the clearing agency at which the 
+                security-based swap will be cleared.
+                    ``(B) Security-based swaps not required to be 
+                cleared.--With respect to any security-based swap that 
+                is not subject to the mandatory clearing requirement 
+                under subsection (a) and entered into by a security-
+                based swap dealer or a major security-based swap 
+                participant with a counterparty that is not a swap 
+                dealer, major swap participant, security-based swap 
+                dealer, or major security-based swap participant, the 
+                counterparty--
+                          ``(i) may elect to require clearing of the 
+                      security-based swap; and
+                          ``(ii) shall have the sole right to select the 
+                      clearing agency at which the security-based swap 
+                      will be cleared.
+            ``(6) Abuse of exception.--The Commission may prescribe such 
+        rules or issue interpretations of the rules as the Commission 
+        determines to be necessary to prevent abuse of the exceptions 
+        described in this subsection. The Commission may also request 
+        information from those persons claiming the clearing exception 
+        as necessary to prevent abuse of the exceptions described in 
+        this subsection.
+
+    ``(h) Trade Execution.--
+            ``(1) In general.--With respect to transactions involving 
+        security-based swaps subject to the clearing requirement of 
+        subsection (a)(1), counterparties shall--
+                    ``(A) execute the transaction on an exchange; or
+                    ``(B) execute the transaction on a security-based 
+                swap execution facility registered under section 3D or a 
+                security-based swap execution facility that is exempt 
+                from registration under section 3D(e).
+            ``(2) Exception.--The requirements of subparagraphs (A) and 
+        (B) of paragraph (1) shall not apply if no exchange or security-
+        based swap execution facility makes the security-based swap 
+        available to trade or for security-based swap transactions 
+        subject to the clearing exception under subsection (g).
+
+    ``(i) Board Approval.--Exemptions from the requirements of this 
+section to clear a security-based swap or execute a security-based swap 
+through a national securities exchange or security-based swap execution 
+facility shall be available to a counterparty that is an issuer of 
+securities that are registered under section 12 or that is required to 
+file reports pursuant to section 15(d), only if an appropriate committee 
+of the issuer's board or governing body has reviewed and approved the 
+issuer's decision to enter into security-based swaps that are subject to 
+such exemptions.
+    ``(j) Designation of Chief Compliance Officer.--
+            ``(1) In general.--Each registered clearing agency shall 
+        designate an individual to serve as a chief compliance officer.
+            ``(2) Duties.--The chief compliance officer shall--
+                    ``(A) report directly to the board or to the senior 
+                officer of the clearing agency;
+                    ``(B) in consultation with its board, a body 
+                performing a function similar thereto, or the senior 
+                officer of the registered clearing agency, resolve any 
+                conflicts of interest that may arise;
+
+
+                    ``(C) be responsible for administering each policy 
+                and procedure that is required to be established 
+                pursuant to this section;
+                    ``(D) ensure compliance with this title (including 
+                regulations issued under this title) relating to 
+                agreements, contracts, or transactions, including each 
+                rule prescribed by the Commission under this section;
+                    ``(E) establish procedures for the remediation of 
+                noncompliance issues identified by the compliance 
+                officer through any--
+                          ``(i) compliance office review;
+                          ``(ii) look-back;
+                          ``(iii) internal or external audit finding;
+                          ``(iv) self-reported error; or
+                          ``(v) validated complaint; and
+                    ``(F) establish and follow appropriate procedures 
+                for the handling, management response, remediation, 
+                retesting, and closing of noncompliance issues.
+            ``(3) Annual reports.--
+                    ``(A) In general.--In accordance with rules 
+                prescribed by the Commission, the chief compliance 
+                officer shall annually prepare and sign a report that 
+                contains a description of--
+                          ``(i) the compliance of the registered 
+                      clearing agency or security-based swap execution 
+                      facility of the compliance officer with respect to 
+                      this title (including regulations under this 
+                      title); and
+                          ``(ii) each policy and procedure of the 
+                      registered clearing agency of the compliance 
+                      officer (including the code of ethics and conflict 
+                      of interest policies of the registered clearing 
+                      agency).
+                    ``(B) Requirements.--A compliance report under 
+                subparagraph (A) shall--
+                          ``(i) accompany each appropriate financial 
+                      report of the registered clearing agency that is 
+                      required to be furnished to the Commission 
+                      pursuant to this section; and
+                          ``(ii) include a certification that, under 
+                      penalty of law, the compliance report is accurate 
+                      and complete.''.
+
+    (b) Clearing Agency Requirements.--Section 17A of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78q-1) is amended by adding at the end 
+the following:
+    ``(g) Registration Requirement.--It shall be unlawful for a clearing 
+agency, unless registered with the Commission, directly or indirectly to 
+make use of the mails or any means or instrumentality of interstate 
+commerce to perform the functions of a clearing agency with respect to a 
+security-based swap.
+    ``(h) Voluntary Registration.--A person that clears agreements, 
+contracts, or transactions that are not required to be cleared under 
+this title may register with the Commission as a clearing agency.
+    ``(i) Standards for Clearing Agencies Clearing Security-based Swap 
+Transactions.--To be registered and to maintain registration as a 
+clearing agency that clears security-based swap transactions, a clearing 
+agency shall comply with such standards as the Commission may establish 
+by rule. In establishing any such standards, and in the exercise of its 
+oversight of such a
+
+
+clearing agency pursuant to this title, the Commission may conform such 
+standards or oversight to reflect evolving United States and 
+international standards. Except where the Commission determines 
+otherwise by rule or regulation, a clearing agency shall have reasonable 
+discretion in establishing the manner in which it complies with any such 
+standards.
+    ``(j) Rules.--The Commission shall adopt rules governing persons 
+that are registered as clearing agencies for security-based swaps under 
+this title.
+    ``(k) Exemptions.--The Commission may exempt, conditionally or 
+unconditionally, a clearing agency from registration under this section 
+for the clearing of security-based swaps if the Commission determines 
+that the clearing agency is subject to comparable, comprehensive 
+supervision and regulation by the Commodity Futures Trading Commission 
+or the appropriate government authorities in the home country of the 
+agency. Such conditions may include, but are not limited to, requiring 
+that the clearing agency be available for inspection by the Commission 
+and make available all information requested by the Commission.
+    ``(l) Existing Depository Institutions and Derivative Clearing 
+Organizations.--
+            ``(1) In general.--A depository institution or derivative 
+        clearing organization registered with the Commodity Futures 
+        Trading Commission under the Commodity Exchange Act that is 
+        required to be registered as a clearing agency under this 
+        section is deemed to be registered under this section solely for 
+        the purpose of clearing security-based swaps to the extent that, 
+        before the date of enactment of this subsection--
+                    ``(A) the depository institution cleared swaps as a 
+                multilateral clearing organization; or
+                    ``(B) the derivative clearing organization cleared 
+                swaps pursuant to an exemption from registration as a 
+                clearing agency.
+            ``(2) Conversion of depository institutions.--A depository 
+        institution to which this subsection applies may, by the vote of 
+        the shareholders owning not less than 51 percent of the voting 
+        interests of the depository institution, be converted into a 
+        State corporation, partnership, limited liability company, or 
+        similar legal form pursuant to a plan of conversion, if the 
+        conversion is not in contravention of applicable State law.
+            ``(3) Sharing of information.--The Commodity Futures Trading 
+        Commission shall make available to the Commission, upon request, 
+        all information determined to be relevant by the Commodity 
+        Futures Trading Commission regarding a derivatives clearing 
+        organization deemed to be registered with the Commission under 
+        paragraph (1).
+
+    ``(m) Modification of Core Principles.--The Commission may conform 
+the core principles established in this section to reflect evolving 
+United States and international standards.''.
+    (c) Security-based Swap Execution Facilities.--The Securities 
+Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting 
+after section 3C (as added by subsection (a) of this section) the 
+following:
+``SEC. 3D. &lt;&lt;NOTE: 15 USC 78c-4.&gt;&gt;  SECURITY-BASED SWAP EXECUTION 
+                      FACILITIES.
+
+    ``(a) Registration.--
+
+
+            ``(1) In general.--No person may operate a facility for the 
+        trading or processing of security-based swaps, unless the 
+        facility is registered as a security-based swap execution 
+        facility or as a national securities exchange under this 
+        section.
+            ``(2) Dual registration.--Any person that is registered as a 
+        security-based swap execution facility under this section shall 
+        register with the Commission regardless of whether the person 
+        also is registered with the Commodity Futures Trading Commission 
+        as a swap execution facility.
+
+    ``(b) Trading and Trade Processing.--A security-based swap execution 
+facility that is registered under subsection (a) may--
+            ``(1) make available for trading any security-based swap; 
+        and
+            ``(2) facilitate trade processing of any security-based 
+        swap.
+
+    ``(c) Identification of Facility Used To Trade Security-based Swaps 
+by National Securities Exchanges.--A national securities exchange shall, 
+to the extent that the exchange also operates a security-based swap 
+execution facility and uses the same electronic trade execution system 
+for listing and executing trades of security-based swaps on or through 
+the exchange and the facility, identify whether electronic trading of 
+such security-based swaps is taking place on or through the national 
+securities exchange or the security-based swap execution facility.
+    ``(d) Core Principles for Security-based Swap Execution 
+Facilities.--
+            ``(1) Compliance with core principles.--
+                    ``(A) In general.--To be registered, and maintain 
+                registration, as a security-based swap execution 
+                facility, the security-based swap execution facility 
+                shall comply with--
+                          ``(i) the core principles described in this 
+                      subsection; and
+                          ``(ii) any requirement that the Commission may 
+                      impose by rule or regulation.
+                    ``(B) Reasonable discretion of security-based swap 
+                execution facility.--Unless otherwise determined by the 
+                Commission, by rule or regulation, a security-based swap 
+                execution facility described in subparagraph (A) shall 
+                have reasonable discretion in establishing the manner in 
+                which it complies with the core principles described in 
+                this subsection.
+            ``(2) Compliance with rules.--A security-based swap 
+        execution facility shall--
+                    ``(A) establish and enforce compliance with any rule 
+                established by such security-based swap execution 
+                facility, including--
+                          ``(i) the terms and conditions of the 
+                      security-based swaps traded or processed on or 
+                      through the facility; and
+                          ``(ii) any limitation on access to the 
+                      facility;
+                    ``(B) establish and enforce trading, trade 
+                processing, and participation rules that will deter 
+                abuses and have the capacity to detect, investigate, and 
+                enforce those rules, including means--
+                          ``(i) to provide market participants with 
+                      impartial access to the market; and
+                          ``(ii) to capture information that may be used 
+                      in establishing whether rule violations have 
+                      occurred; and
+
+
+                    ``(C) establish rules governing the operation of the 
+                facility, including rules specifying trading procedures 
+                to be used in entering and executing orders traded or 
+                posted on the facility, including block trades.
+            ``(3) Security-based swaps not readily susceptible to 
+        manipulation.--The security-based swap execution facility shall 
+        permit trading only in security-based swaps that are not readily 
+        susceptible to manipulation.
+            ``(4) Monitoring of trading and trade processing.--The 
+        security-based swap execution facility shall--
+                    ``(A) establish and enforce rules or terms and 
+                conditions defining, or specifications detailing--
+                          ``(i) trading procedures to be used in 
+                      entering and executing orders traded on or through 
+                      the facilities of the security-based swap 
+                      execution facility; and
+                          ``(ii) procedures for trade processing of 
+                      security-based swaps on or through the facilities 
+                      of the security-based swap execution facility; and
+                    ``(B) monitor trading in security-based swaps to 
+                prevent manipulation, price distortion, and disruptions 
+                of the delivery or cash settlement process through 
+                surveillance, compliance, and disciplinary practices and 
+                procedures, including methods for conducting real-time 
+                monitoring of trading and comprehensive and accurate 
+                trade reconstructions.
+            ``(5) Ability to obtain information.--The security-based 
+        swap execution facility shall--
+                    ``(A) &lt;&lt;NOTE: Regulations.&gt;&gt;  establish and enforce 
+                rules that will allow the facility to obtain any 
+                necessary information to perform any of the functions 
+                described in this subsection;
+                    ``(B) provide the information to the Commission on 
+                request; and
+                    ``(C) have the capacity to carry out such 
+                international information-sharing agreements as the 
+                Commission may require.
+            ``(6) Financial integrity of transactions.--
+        The &lt;&lt;NOTE: Regulations. Procedures.&gt;&gt;  security-based swap 
+        execution facility shall establish and enforce rules and 
+        procedures for ensuring the financial integrity of security-
+        based swaps entered on or through the facilities of the 
+        security-based swap execution facility, including the clearance 
+        and settlement of security-based swaps pursuant to section 
+        3C(a)(1).
+            ``(7) Emergency authority.--The &lt;&lt;NOTE: Regulations.&gt;&gt;  
+        security-based swap execution facility shall adopt rules to 
+        provide for the exercise of emergency authority, in consultation 
+        or cooperation with the Commission, as is necessary and 
+        appropriate, including the authority to liquidate or transfer 
+        open positions in any security-based swap or to suspend or 
+        curtail trading in a security-based swap.
+            ``(8) Timely publication of trading information.--
+                    ``(A) &lt;&lt;NOTE: Public information.&gt;&gt;  In general.--
+                The security-based swap execution facility shall make 
+                public timely information on price, trading volume, and 
+                other trading data on security-based swaps to the extent 
+                prescribed by the Commission.
+                    ``(B) Capacity of security-based swap execution 
+                facility.--The security-based swap execution facility 
+                shall be required to have the capacity to electronically 
+                capture
+
+
+                and transmit and disseminate trade information with 
+                respect to transactions executed on or through the 
+                facility.
+            ``(9) Recordkeeping and reporting.--
+                    ``(A) In general.--A security-based swap execution 
+                facility shall--
+                          ``(i) &lt;&lt;NOTE: Time period.&gt;&gt;  maintain records 
+                      of all activities relating to the business of the 
+                      facility, including a complete audit trail, in a 
+                      form and manner acceptable to the Commission for a 
+                      period of 5 years; and
+                          ``(ii) report to the Commission, in a form and 
+                      manner acceptable to the Commission, such 
+                      information as the Commission determines to be 
+                      necessary or appropriate for the Commission to 
+                      perform the duties of the Commission under this 
+                      title.
+                    ``(B) Requirements.--The Commission shall adopt data 
+                collection and reporting requirements for security-based 
+                swap execution facilities that are comparable to 
+                corresponding requirements for clearing agencies and 
+                security-based swap data repositories.
+            ``(10) Antitrust considerations.--Unless necessary or 
+        appropriate to achieve the purposes of this title, the security-
+        based swap execution facility shall not--
+                    ``(A) adopt any rules or taking any actions that 
+                result in any unreasonable restraint of trade; or
+                    ``(B) impose any material anticompetitive burden on 
+                trading or clearing.
+            ``(11) Conflicts of interest.--The security-based swap 
+        execution facility shall--
+                    ``(A) &lt;&lt;NOTE: Regulations.&gt;&gt;  establish and enforce 
+                rules to minimize conflicts of interest in its decision-
+                making process; and
+                    ``(B) &lt;&lt;NOTE: Process.&gt;&gt;  establish a process for 
+                resolving the conflicts of interest.
+            ``(12) Financial resources.--
+                    ``(A) In general.--The security-based swap execution 
+                facility shall have adequate financial, operational, and 
+                managerial resources to discharge each responsibility of 
+                the security-based swap execution facility, as 
+                determined by the Commission.
+                    ``(B) Determination of resource adequacy.--The 
+                financial resources of a security-based swap execution 
+                facility shall be considered to be adequate if the value 
+                of the financial resources--
+                          ``(i) enables the organization to meet its 
+                      financial obligations to its members and 
+                      participants notwithstanding a default by the 
+                      member or participant creating the largest 
+                      financial exposure for that organization in 
+                      extreme but plausible market conditions; and
+                          ``(ii) exceeds the total amount that would 
+                      enable the security-based swap execution facility 
+                      to cover the operating costs of the security-based 
+                      swap execution facility for a 1-year period, as 
+                      calculated on a rolling basis.
+            ``(13) System safeguards.--The security-based swap execution 
+        facility shall--
+
+
+                    ``(A) establish and maintain a program of risk 
+                analysis and oversight to identify and minimize sources 
+                of operational risk, through the development of 
+                appropriate controls and procedures, and automated 
+                systems, that--
+                          ``(i) are reliable and secure; and
+                          ``(ii) have adequate scalable capacity;
+                    ``(B) &lt;&lt;NOTE: Procedures.&gt;&gt;  establish and maintain 
+                emergency procedures, backup facilities, and a plan for 
+                disaster recovery that allow for--
+                          ``(i) the timely recovery and resumption of 
+                      operations; and
+                          ``(ii) the fulfillment of the responsibilities 
+                      and obligations of the security-based swap 
+                      execution facility; and
+                    ``(C) &lt;&lt;NOTE: Tests.&gt;&gt;  periodically conduct tests 
+                to verify that the backup resources of the security-
+                based swap execution facility are sufficient to ensure 
+                continued--
+                          ``(i) order processing and trade matching;
+                          ``(ii) price reporting;
+                          ``(iii) market surveillance; and
+                          ``(iv) maintenance of a comprehensive and 
+                      accurate audit trail.
+            ``(14) Designation of chief compliance officer.--
+                    ``(A) In general.--Each security-based swap 
+                execution facility shall designate an individual to 
+                serve as a chief compliance officer.
+                    ``(B) Duties.--The chief compliance officer shall--
+                          ``(i) report directly to the board or to the 
+                      senior officer of the facility;
+                          ``(ii) review compliance with the core 
+                      principles in this subsection;
+                          ``(iii) in consultation with the board of the 
+                      facility, a body performing a function similar to 
+                      that of a board, or the senior officer of the 
+                      facility, resolve any conflicts of interest that 
+                      may arise;
+                          ``(iv) be responsible for establishing and 
+                      administering the policies and procedures required 
+                      to be established pursuant to this section;
+                          ``(v) ensure compliance with this title and 
+                      the rules and regulations issued under this title, 
+                      including rules prescribed by the Commission 
+                      pursuant to this section;
+                          ``(vi) establish procedures for the 
+                      remediation of noncompliance issues found during--
+                                    ``(I) compliance office reviews;
+                                    ``(II) look backs;
+                                    ``(III) internal or external audit 
+                                findings;
+                                    ``(IV) self-reported errors; or
+                                    ``(V) through validated complaints; 
+                                and
+                          ``(vii) establish and follow appropriate 
+                      procedures for the handling, management response, 
+                      remediation, retesting, and closing of 
+                      noncompliance issues.
+                    ``(C) Annual reports.--
+                          ``(i) In general.--In accordance with rules 
+                      prescribed by the Commission, the chief compliance 
+                      officer shall annually prepare and sign a report 
+                      that contains a description of--
+
+
+                                    ``(I) the compliance of the 
+                                security-based swap execution facility 
+                                with this title; and
+                                    ``(II) the policies and procedures, 
+                                including the code of ethics and 
+                                conflict of interest policies, of the 
+                                security-based security-based swap 
+                                execution facility.
+                          ``(ii) Requirements.--The chief compliance 
+                      officer shall--
+                                    ``(I) submit each report described 
+                                in clause (i) with the appropriate 
+                                financial report of the security-based 
+                                swap execution facility that is required 
+                                to be submitted to the Commission 
+                                pursuant to this section; and
+                                    ``(II) include in the report a 
+                                certification that, under penalty of 
+                                law, the report is accurate and 
+                                complete.
+
+    ``(e) Exemptions.--The Commission may exempt, conditionally or 
+unconditionally, a security-based swap execution facility from 
+registration under this section if the Commission finds that the 
+facility is subject to comparable, comprehensive supervision and 
+regulation on a consolidated basis by the Commodity Futures Trading 
+Commission.
+    ``(f) Rules.--The Commission shall prescribe rules governing the 
+regulation of security-based swap execution facilities under this 
+section.''.
+    (d) Segregation of Assets Held as Collateral in Security-based Swap 
+Transactions.--The Securities Exchange Act of 1934 (15 U.S.C. 78a et 
+seq.) is amended by inserting after section 3D (as added by subsection 
+(b)) the following:
+``SEC. 3E. &lt;&lt;NOTE: 15 USC 78c-5.&gt;&gt;  SEGREGATION OF ASSETS HELD AS 
+                      COLLATERAL IN SECURITY-BASED SWAP 
+                      TRANSACTIONS.
+
+    ``(a) Registration Requirement.--It shall be unlawful for any person 
+to accept any money, securities, or property (or to extend any credit in 
+lieu of money, securities, or property) from, for, or on behalf of a 
+security-based swaps customer to margin, guarantee, or secure a 
+security-based swap cleared by or through a clearing agency (including 
+money, securities, or property accruing to the customer as the result of 
+such a security-based swap), unless the person shall have registered 
+under this title with the Commission as a broker, dealer, or security-
+based swap dealer, and the registration shall not have expired nor been 
+suspended nor revoked.
+    ``(b) Cleared Security-based Swaps.--
+            ``(1) Segregation required.--A broker, dealer, or security-
+        based swap dealer shall treat and deal with all money, 
+        securities, and property of any security-based swaps customer 
+        received to margin, guarantee, or secure a security-based swap 
+        cleared by or though a clearing agency (including money, 
+        securities, or property accruing to the security-based swaps 
+        customer as the result of such a security-based swap) as 
+        belonging to the security-based swaps customer.
+            ``(2) Commingling prohibited.--Money, securities, and 
+        property of a security-based swaps customer described in 
+        paragraph (1) shall be separately accounted for and shall not be 
+        commingled with the funds of the broker, dealer, or security-
+        based swap dealer or be used to margin, secure, or guarantee
+
+
+        any trades or contracts of any security-based swaps customer or 
+        person other than the person for whom the same are held.
+
+    ``(c) Exceptions.--
+            ``(1) Use of funds.--
+                    ``(A) In general.--Notwithstanding subsection (b), 
+                money, securities, and property of a security-based 
+                swaps customer of a broker, dealer, or security-based 
+                swap dealer described in subsection (b) may, for 
+                convenience, be commingled and deposited in the same 1 
+                or more accounts with any bank or trust company or with 
+                a clearing agency.
+                    ``(B) Withdrawal.--Notwithstanding subsection (b), 
+                such share of the money, securities, and property 
+                described in subparagraph (A) as in the normal course of 
+                business shall be necessary to margin, guarantee, 
+                secure, transfer, adjust, or settle a cleared security-
+                based swap with a clearing agency, or with any member of 
+                the clearing agency, may be withdrawn and applied to 
+                such purposes, including the payment of commissions, 
+                brokerage, interest, taxes, storage, and other charges, 
+                lawfully accruing in connection with the cleared 
+                security-based swap.
+            ``(2) Commission action.--Notwithstanding subsection (b), in 
+        accordance with such terms and conditions as the Commission may 
+        prescribe by rule, regulation, or order, any money, securities, 
+        or property of the security-based swaps customer of a broker, 
+        dealer, or security-based swap dealer described in subsection 
+        (b) may be commingled and deposited as provided in this section 
+        with any other money, securities, or property received by the 
+        broker, dealer, or security-based swap dealer and required by 
+        the Commission to be separately accounted for and treated and 
+        dealt with as belonging to the security-based swaps customer of 
+        the broker, dealer, or security-based swap dealer.
+
+    ``(d) Permitted Investments.--Money described in subsection (b) may 
+be invested in obligations of the United States, in general obligations 
+of any State or of any political subdivision of a State, and in 
+obligations fully guaranteed as to principal and interest by the United 
+States, or in any other investment that the Commission may by rule or 
+regulation prescribe, and such investments shall be made in accordance 
+with such rules and regulations and subject to such conditions as the 
+Commission may prescribe.
+    ``(e) Prohibition.--It shall be unlawful for any person, including 
+any clearing agency and any depository institution, that has received 
+any money, securities, or property for deposit in a separate account or 
+accounts as provided in subsection (b) to hold, dispose of, or use any 
+such money, securities, or property as belonging to the depositing 
+broker, dealer, or security-based swap dealer or any person other than 
+the swaps customer of the broker, dealer, or security-based swap dealer.
+    ``(f) Segregation Requirements for Uncleared Security-based Swaps.--
+            ``(1) Segregation of assets held as collateral in uncleared 
+        security-based swap transactions.--
+                    ``(A) Notification.--A security-based swap dealer or 
+                major security-based swap participant shall be required 
+                to notify the counterparty of the security-based swap 
+                dealer or major security-based swap participant at the 
+                beginning of a security-based swap transaction that the 
+                counterparty
+
+
+                has the right to require segregation of the funds of 
+                other property supplied to margin, guarantee, or secure 
+                the obligations of the counterparty.
+                    ``(B) Segregation and maintenance of funds.--At the 
+                request of a counterparty to a security-based swap that 
+                provides funds or other property to a security-based 
+                swap dealer or major security-based swap participant to 
+                margin, guarantee, or secure the obligations of the 
+                counterparty, the security-based swap dealer or major 
+                security-based swap participant shall--
+                          ``(i) segregate the funds or other property 
+                      for the benefit of the counterparty; and
+                          ``(ii) in accordance with such rules and 
+                      regulations as the Commission may promulgate, 
+                      maintain the funds or other property in a 
+                      segregated account separate from the assets and 
+                      other interests of the security-based swap dealer 
+                      or major security-based swap participant.
+            ``(2) Applicability.--The requirements described in 
+        paragraph (1) shall--
+                    ``(A) apply only to a security-based swap between a 
+                counterparty and a security-based swap dealer or major 
+                security-based swap participant that is not submitted 
+                for clearing to a clearing agency; and
+                    ``(B)(i) not apply to variation margin payments; or
+                    ``(ii) not preclude any commercial arrangement 
+                regarding--
+                          ``(I) the investment of segregated funds or 
+                      other property that may only be invested in such 
+                      investments as the Commission may permit by rule 
+                      or regulation; and
+                          ``(II) the related allocation of gains and 
+                      losses resulting from any investment of the 
+                      segregated funds or other property.
+            ``(3) Use of independent third-party custodians.--The 
+        segregated account described in paragraph (1) shall be--
+                    ``(A) carried by an independent third-party 
+                custodian; and
+                    ``(B) designated as a segregated account for and on 
+                behalf of the counterparty.
+            ``(4) Reporting requirement.--If the counterparty does not 
+        choose to require segregation of the funds or other property 
+        supplied to margin, guarantee, or secure the obligations of the 
+        counterparty, the security-based swap dealer or major security-
+        based swap participant shall report to the counterparty of the 
+        security-based swap dealer or major security-based swap 
+        participant on a quarterly basis that the back office procedures 
+        of the security-based swap dealer or major security-based swap 
+        participant relating to margin and collateral requirements are 
+        in compliance with the agreement of the counterparties.
+
+    ``(g) Bankruptcy.--A security-based swap, as defined in section 
+3(a)(68) shall be considered to be a security as such term is used in 
+section 101(53A)(B) and subchapter III of title 11, United States Code. 
+An account that holds a security-based swap, other than a portfolio 
+margining account referred to in section 15(c)(3)(C) shall be considered 
+to be a securities account, as that term is defined in section 741 of 
+title 11, United States Code. &lt;&lt;NOTE: Applicability.&gt;&gt;  The definitions
+
+
+of the terms `purchase' and `sale' in section 3(a)(13) and (14) shall be 
+applied to the terms `purchase' and `sale', as used in section 741 of 
+title 11, United States Code. The term `customer', as defined in section 
+741 of title 11, United States Code, excludes any person, to the extent 
+that such person has a claim based on any open repurchase agreement, 
+open reverse repurchase agreement, stock borrowed agreement, non-cleared 
+option, or non-cleared security-based swap except to the extent of any 
+margin delivered to or by the customer with respect to which there is a 
+customer protection requirement under section 15(c)(3) or a segregation 
+requirement.''.
+
+    (e) Trading in Security-based Swaps.--Section 6 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at the end the 
+following:
+    ``(l) Security-based Swaps.--It shall be unlawful for any person to 
+effect a transaction in a security-based swap with or for a person that 
+is not an eligible contract participant, unless such transaction is 
+effected on a national securities exchange registered pursuant to 
+subsection (b).''.
+    (f) Additions of Security-based Swaps to Certain Enforcement 
+Provisions.--Section 9(b) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78i(b)) is amended by striking paragraphs (1) through (3) and 
+inserting the following:
+            ``(1) any transaction in connection with any security 
+        whereby any party to such transaction acquires--
+                    ``(A) any put, call, straddle, or other option or 
+                privilege of buying the security from or selling the 
+                security to another without being bound to do so;
+                    ``(B) any security futures product on the security; 
+                or
+                    ``(C) any security-based swap involving the security 
+                or the issuer of the security;
+            ``(2) any transaction in connection with any security with 
+        relation to which such person has, directly or indirectly, any 
+        interest in any--
+                    ``(A) such put, call, straddle, option, or 
+                privilege;
+                    ``(B) such security futures product; or
+                    ``(C) such security-based swap; or
+            ``(3) any transaction in any security for the account of any 
+        person who such person has reason to believe has, and who 
+        actually has, directly or indirectly, any interest in any--
+                    ``(A) such put, call, straddle, option, or 
+                privilege;
+                    ``(B) such security futures product with relation to 
+                such security; or
+                    ``(C) any security-based swap involving such 
+                security or the issuer of such security.''.
+
+    (g) Rulemaking Authority To Prevent Fraud, Manipulation and 
+Deceptive Conduct in Security-based Swaps.--Section 9 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78i) is amended by adding at the end the 
+following:
+    ``(j) It shall be unlawful for any person, directly or indirectly, 
+by the use of any means or instrumentality of interstate commerce or of 
+the mails, or of any facility of any national securities exchange, to 
+effect any transaction in, or to induce or attempt to induce the 
+purchase or sale of, any security-based swap, in connection with which 
+such person engages in any fraudulent, deceptive, or manipulative act or 
+practice, makes any fictitious quotation, or engages in any transaction, 
+practice, or course of business which operates as a fraud or deceit upon 
+any person. &lt;&lt;NOTE: Regulations.&gt;&gt;  The Commission
+
+
+shall, for the purposes of this subsection, by rules and regulations 
+define, and prescribe means reasonably designed to prevent, such 
+transactions, acts, practices, and courses of business as are 
+fraudulent, deceptive, or manipulative, and such quotations as are 
+fictitious.''.
+
+    (h) Position Limits and Position Accountability for Security-based 
+Swaps.--The Securities Exchange Act of 1934 is amended by inserting 
+after section 10A (15 U.S.C. 78j-1) the following:
+``SEC. 10B. &lt;&lt;NOTE: 15 USC 78j-2.&gt;&gt;  POSITION LIMITS AND POSITION 
+                        ACCOUNTABILITY FOR SECURITY-BASED SWAPS 
+                        AND LARGE TRADER REPORTING.
+
+    ``(a) Position Limits.-- &lt;&lt;NOTE: Fraud. Regulations.&gt;&gt; As a means 
+reasonably designed to prevent fraud and manipulation, the Commission 
+shall, by rule or regulation, as necessary or appropriate in the public 
+interest or for the protection of investors, establish limits (including 
+related hedge exemption provisions) on the size of positions in any 
+security-based swap that may be held by any person. In establishing such 
+limits, the Commission may require any person to aggregate positions 
+in--
+            ``(1) any security-based swap and any security or loan or 
+        group of securities or loans on which such security-based swap 
+        is based, which such security-based swap references, or to which 
+        such security-based swap is related as described in paragraph 
+        (68) of section 3(a), and any other instrument relating to such 
+        security or loan or group or index of securities or loans; or
+            ``(2) any security-based swap and--
+                    ``(A) any security or group or index of securities, 
+                the price, yield, value, or volatility of which, or of 
+                which any interest therein, is the basis for a material 
+                term of such security-based swap as described in 
+                paragraph (68) of section 3(a); and
+                    ``(B) any other instrument relating to the same 
+                security or group or index of securities described under 
+                subparagraph (A).
+
+    ``(b) Exemptions.--The Commission, by rule, regulation, or order, 
+may conditionally or unconditionally exempt any person or class of 
+persons, any security-based swap or class of security-based swaps, or 
+any transaction or class of transactions from any requirement the 
+Commission may establish under this section with respect to position 
+limits.
+    ``(c) SRO Rules.--
+            ``(1) In general.--As a means reasonably designed to prevent 
+        fraud or manipulation, the Commission, by rule, regulation, or 
+        order, as necessary or appropriate in the public interest, for 
+        the protection of investors, or otherwise in furtherance of the 
+        purposes of this title, may direct a self-regulatory 
+        organization--
+                    ``(A) to adopt rules regarding the size of positions 
+                in any security-based swap that may be held by--
+                          ``(i) any member of such self-regulatory 
+                      organization; or
+                          ``(ii) any person for whom a member of such 
+                      self-regulatory organization effects transactions 
+                      in such security-based swap; and
+
+
+                    ``(B) to adopt rules reasonably designed to ensure 
+                compliance with requirements prescribed by the 
+                Commission under this subsection.
+            ``(2) Requirement to aggregate positions.--In establishing 
+        the limits under paragraph (1), the self-regulatory organization 
+        may require such member or person to aggregate positions in--
+                    ``(A) any security-based swap and any security or 
+                loan or group or narrow-based security index of 
+                securities or loans on which such security-based swap is 
+                based, which such security-based swap references, or to 
+                which such security-based swap is related as described 
+                in section 3(a)(68), and any other instrument relating 
+                to such security or loan or group or narrow-based 
+                security index of securities or loans; or
+                    ``(B)(i) any security-based swap; and
+                    ``(ii) any security-based swap and any other 
+                instrument relating to the same security or group or 
+                narrow-based security index of securities.
+
+    ``(d) Large Trader Reporting.--The Commission, by rule or 
+regulation, may require any person that effects transactions for such 
+person's own account or the account of others in any securities-based 
+swap or uncleared security-based swap and any security or loan or group 
+or narrow-based security index of securities or loans as set forth in 
+paragraphs (1) and (2) of subsection (a) under this section to report 
+such information as the Commission may prescribe regarding any position 
+or positions in any security-based swap or uncleared security-based swap 
+and any security or loan or group or narrow-based security index of 
+securities or loans and any other instrument relating to such security 
+or loan or group or narrow-based security index of securities or loans 
+as set forth in paragraphs (1) and (2) of subsection (a) under this 
+section.''.
+    (i) Public Reporting and Repositories for Security-based Swaps.--
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is 
+amended by adding at the end the following:
+    ``(m) Public Availability of Security-based Swap Transaction Data.--
+            ``(1) In general.--
+                    ``(A) Definition of real-time public reporting.--In 
+                this paragraph, the term `real-time public reporting' 
+                means to report data relating to a security-based swap 
+                transaction, including price and volume, as soon as 
+                technologically practicable after the time at which the 
+                security-based swap transaction has been executed.
+                    ``(B) Purpose.--The purpose of this subsection is to 
+                authorize the Commission to make security-based swap 
+                transaction and pricing data available to the public in 
+                such form and at such times as the Commission determines 
+                appropriate to enhance price discovery.
+                    ``(C) General rule.--The Commission is authorized to 
+                provide by rule for the public availability of security-
+                based swap transaction, volume, and pricing data as 
+                follows:
+                          ``(i) With respect to those security-based 
+                      swaps that are subject to the mandatory clearing 
+                      requirement described in section 3C(a)(1) 
+                      (including those security-based swaps that are 
+                      excepted from the requirement
+
+
+                      pursuant to section 3C(g)), the Commission shall 
+                      require real-time public reporting for such 
+                      transactions.
+                          ``(ii) With respect to those security-based 
+                      swaps that are not subject to the mandatory 
+                      clearing requirement described in section 
+                      3C(a)(1), but are cleared at a registered clearing 
+                      agency, the Commission shall require real-time 
+                      public reporting for such transactions.
+                          ``(iii) With respect to security-based swaps 
+                      that are not cleared at a registered clearing 
+                      agency and which are reported to a security-based 
+                      swap data repository or the Commission under 
+                      section 3C(a)(6), the Commission shall require 
+                      real-time public reporting for such transactions, 
+                      in a manner that does not disclose the business 
+                      transactions and market positions of any person.
+                          ``(iv) With respect to security-based swaps 
+                      that are determined to be required to be cleared 
+                      under section 3C(b) but are not cleared, the 
+                      Commission shall require real-time public 
+                      reporting for such transactions.
+                    ``(D) Registered entities and public reporting.--The 
+                Commission may require registered entities to publicly 
+                disseminate the security-based swap transaction and 
+                pricing data required to be reported under this 
+                paragraph.
+                    ``(E) Rulemaking required.--With respect to the rule 
+                providing for the public availability of transaction and 
+                pricing data for security-based swaps described in 
+                clauses (i) and (ii) of subparagraph (C), the rule 
+                promulgated by the Commission shall contain provisions--
+                          ``(i) to ensure such information does not 
+                      identify the participants;
+                          ``(ii) &lt;&lt;NOTE: Criteria.&gt;&gt; to specify the 
+                      criteria for determining what constitutes a large 
+                      notional security-based swap transaction (block 
+                      trade) for particular markets and contracts;
+                          ``(iii) to specify the appropriate time delay 
+                      for reporting large notional security-based swap 
+                      transactions (block trades) to the public; and
+                          ``(iv) that take into account whether the 
+                      public disclosure will materially reduce market 
+                      liquidity.
+                    ``(F) Timeliness of reporting.--Parties to a 
+                security-based swap (including agents of the parties to 
+                a security-based swap) shall be responsible for 
+                reporting security-based swap transaction information to 
+                the appropriate registered entity in a timely manner as 
+                may be prescribed by the Commission.
+                    ``(G) Reporting of swaps to registered security-
+                based swap data repositories.--Each security-based swap 
+                (whether cleared or uncleared) shall be reported to a 
+                registered security-based swap data repository.
+                    ``(H) Registration of clearing agencies.--A clearing 
+                agency may register as a security-based swap data 
+                repository.
+            ``(2) Semiannual and annual public reporting of aggregate 
+        security-based swap data.--
+
+
+                    ``(A) In general.--In accordance with subparagraph 
+                (B), the Commission shall issue a written report on a 
+                semiannual and annual basis to make available to the 
+                public information relating to--
+                          ``(i) the trading and clearing in the major 
+                      security-based swap categories; and
+                          ``(ii) the market participants and 
+                      developments in new products.
+                    ``(B) Use; consultation.--In preparing a report 
+                under subparagraph (A), the Commission shall--
+                          ``(i) use information from security-based swap 
+                      data repositories and clearing agencies; and
+                          ``(ii) consult with the Office of the 
+                      Comptroller of the Currency, the Bank for 
+                      International Settlements, and such other 
+                      regulatory bodies as may be necessary.
+                    ``(C) Authority of commission.--The Commission may, 
+                by rule, regulation, or order, delegate the public 
+                reporting responsibilities of the Commission under this 
+                paragraph in accordance with such terms and conditions 
+                as the Commission determines to be appropriate and in 
+                the public interest.
+
+    ``(n) Security-based Swap Data Repositories.--
+            ``(1) Registration requirement.--It shall be unlawful for 
+        any person, unless registered with the Commission, directly or 
+        indirectly, to make use of the mails or any means or 
+        instrumentality of interstate commerce to perform the functions 
+        of a security-based swap data repository.
+            ``(2) Inspection and examination.--Each registered security-
+        based swap data repository shall be subject to inspection and 
+        examination by any representative of the Commission.
+            ``(3) Compliance with core principles.--
+                    ``(A) In general.--To be registered, and maintain 
+                registration, as a security-based swap data repository, 
+                the security-based swap data repository shall comply 
+                with--
+                          ``(i) the requirements and core principles 
+                      described in this subsection; and
+                          ``(ii) any requirement that the Commission may 
+                      impose by rule or regulation.
+                    ``(B) Reasonable discretion of security-based swap 
+                data repository.--Unless otherwise determined by the 
+                Commission, by rule or regulation, a security-based swap 
+                data repository described in subparagraph (A) shall have 
+                reasonable discretion in establishing the manner in 
+                which the security-based swap data repository complies 
+                with the core principles described in this subsection.
+            ``(4) Standard setting.--
+                    ``(A) Data identification.--
+                          ``(i) In general.--In accordance with clause 
+                      (ii), the Commission shall prescribe standards 
+                      that specify the data elements for each security-
+                      based swap that shall be collected and maintained 
+                      by each registered security-based swap data 
+                      repository.
+                          ``(ii) Requirement.--In carrying out clause 
+                      (i), the Commission shall prescribe consistent 
+                      data element standards applicable to registered 
+                      entities and reporting counterparties.
+
+
+                    ``(B) Data collection and maintenance.--The 
+                Commission shall prescribe data collection and data 
+                maintenance standards for security-based swap data 
+                repositories.
+                    ``(C) Comparability.--The standards prescribed by 
+                the Commission under this subsection shall be comparable 
+                to the data standards imposed by the Commission on 
+                clearing agencies in connection with their clearing of 
+                security-based swaps.
+            ``(5) Duties.--A security-based swap data repository shall--
+                    ``(A) accept data prescribed by the Commission for 
+                each security-based swap under subsection (b);
+                    ``(B) confirm with both counterparties to the 
+                security-based swap the accuracy of the data that was 
+                submitted;
+                    ``(C) maintain the data described in subparagraph 
+                (A) in such form, in such manner, and for such period as 
+                may be required by the Commission;
+                    ``(D)(i) provide direct electronic access to the 
+                Commission (or any designee of the Commission, including 
+                another registered entity); and
+                    ``(ii) provide the information described in 
+                subparagraph (A) in such form and at such frequency as 
+                the Commission may require to comply with the public 
+                reporting requirements set forth in subsection (m);
+                    ``(E) at the direction of the Commission, establish 
+                automated systems for monitoring, screening, and 
+                analyzing security-based swap data;
+                    ``(F) maintain the privacy of any and all security-
+                based swap transaction information that the security-
+                based swap data repository receives from a security-
+                based swap dealer, counterparty, or any other registered 
+                entity; and
+                    ``(G) &lt;&lt;NOTE: Confidentiality. Notification.&gt;&gt;  on a 
+                confidential basis pursuant to section 24, upon request, 
+                and after notifying the Commission of the request, make 
+                available all data obtained by the security-based swap 
+                data repository, including individual counterparty trade 
+                and position data, to--
+                          ``(i) each appropriate prudential regulator;
+                          ``(ii) the Financial Stability Oversight 
+                      Council;
+                          ``(iii) the Commodity Futures Trading 
+                      Commission;
+                          ``(iv) the Department of Justice; and
+                          ``(v) any other person that the Commission 
+                      determines to be appropriate, including--
+                                    ``(I) foreign financial supervisors 
+                                (including foreign futures authorities);
+                                    ``(II) foreign central banks; and
+                                    ``(III) foreign ministries.
+                    ``(H) Confidentiality and indemnification 
+                agreement.--Before the security-based swap data 
+                repository may share information with any entity 
+                described in subparagraph (G)--
+                          ``(i) the security-based swap data repository 
+                      shall receive a written agreement from each entity 
+                      stating that the entity shall abide by the 
+                      confidentiality requirements described in section 
+                      24 relating to the information on security-based 
+                      swap transactions that is provided; and
+
+
+                          ``(ii) each entity shall agree to indemnify 
+                      the security-based swap data repository and the 
+                      Commission for any expenses arising from 
+                      litigation relating to the information provided 
+                      under section 24.
+            ``(6) Designation of chief compliance officer.--
+                    ``(A) In general.--Each security-based swap data 
+                repository shall designate an individual to serve as a 
+                chief compliance officer.
+                    ``(B) Duties.--The chief compliance officer shall--
+                          ``(i) report directly to the board or to the 
+                      senior officer of the security-based swap data 
+                      repository;
+                          ``(ii) review the compliance of the security-
+                      based swap data repository with respect to the 
+                      requirements and core principles described in this 
+                      subsection;
+                          ``(iii) in consultation with the board of the 
+                      security-based swap data repository, a body 
+                      performing a function similar to the board of the 
+                      security-based swap data repository, or the senior 
+                      officer of the security-based swap data 
+                      repository, resolve any conflicts of interest that 
+                      may arise;
+                          ``(iv) be responsible for administering each 
+                      policy and procedure that is required to be 
+                      established pursuant to this section;
+                          ``(v) ensure compliance with this title 
+                      (including regulations) relating to agreements, 
+                      contracts, or transactions, including each rule 
+                      prescribed by the Commission under this section;
+                          ``(vi) establish procedures for the 
+                      remediation of noncompliance issues identified by 
+                      the chief compliance officer through any--
+                                    ``(I) compliance office review;
+                                    ``(II) look-back;
+                                    ``(III) internal or external audit 
+                                finding;
+                                    ``(IV) self-reported error; or
+                                    ``(V) validated complaint; and
+                          ``(vii) establish and follow appropriate 
+                      procedures for the handling, management response, 
+                      remediation, retesting, and closing of 
+                      noncompliance issues.
+                    ``(C) Annual reports.--
+                          ``(i) &lt;&lt;NOTE: Regulations.&gt;&gt;  In general.--In 
+                      accordance with rules prescribed by the 
+                      Commission, the chief compliance officer shall 
+                      annually prepare and sign a report that contains a 
+                      description of--
+                                    ``(I) the compliance of the 
+                                security-based swap data repository of 
+                                the chief compliance officer with 
+                                respect to this title (including 
+                                regulations); and
+                                    ``(II) each policy and procedure of 
+                                the security-based swap data repository 
+                                of the chief compliance officer 
+                                (including the code of ethics and 
+                                conflict of interest policies of the 
+                                security-based swap data repository).
+                          ``(ii) Requirements.--A compliance report 
+                      under clause (i) shall--
+                                    ``(I) accompany each appropriate 
+                                financial report of the security-based 
+                                swap data repository that is required to 
+                                be furnished to the Commission pursuant 
+                                to this section; and
+
+
+                                    ``(II) &lt;&lt;NOTE: Certification.&gt;&gt;  
+                                include a certification that, under 
+                                penalty of law, the compliance report is 
+                                accurate and complete.
+            ``(7) Core principles applicable to security-based swap data 
+        repositories.--
+                    ``(A) Antitrust considerations.--Unless necessary or 
+                appropriate to achieve the purposes of this title, the 
+                swap data repository shall not--
+                          ``(i) adopt any rule or take any action that 
+                      results in any unreasonable restraint of trade; or
+                          ``(ii) impose any material anticompetitive 
+                      burden on the trading, clearing, or reporting of 
+                      transactions.
+                    ``(B) Governance arrangements.--Each security-based 
+                swap data repository shall establish governance 
+                arrangements that are transparent--
+                          ``(i) to fulfill public interest requirements; 
+                      and
+                          ``(ii) to support the objectives of the 
+                      Federal Government, owners, and participants.
+                    ``(C) Conflicts of interest.--Each security-based 
+                swap data repository shall--
+                          ``(i) &lt;&lt;NOTE: Regulations.&gt;&gt;  establish and 
+                      enforce rules to minimize conflicts of interest in 
+                      the decision-making process of the security-based 
+                      swap data repository; and
+                          ``(ii) &lt;&lt;NOTE: Process.&gt;&gt;  establish a process 
+                      for resolving any conflicts of interest described 
+                      in clause (i).
+                    ``(D) Additional duties developed by commission.--
+                          ``(i) In general.--The Commission may develop 
+                      1 or more additional duties applicable to 
+                      security-based swap data repositories.
+                          ``(ii) Consideration of evolving standards.--
+                      In developing additional duties under subparagraph 
+                      (A), the Commission may take into consideration 
+                      any evolving standard of the United States or the 
+                      international community.
+                          ``(iii) Additional duties for commission 
+                      designees.--The Commission shall establish 
+                      additional duties for any registrant described in 
+                      section 13(m)(2)(C) in order to minimize conflicts 
+                      of interest, protect data, ensure compliance, and 
+                      guarantee the safety and security of the security-
+                      based swap data repository.
+            ``(8) Required registration for security-based swap data 
+        repositories.--Any person that is required to be registered as a 
+        security-based swap data repository under this subsection shall 
+        register with the Commission, regardless of whether that person 
+        is also licensed under the Commodity Exchange Act as a swap data 
+        repository.
+            ``(9) Rules.--The Commission shall adopt rules governing 
+        persons that are registered under this subsection.''.

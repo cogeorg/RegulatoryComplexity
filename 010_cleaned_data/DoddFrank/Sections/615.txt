@@ -1,23 +1,34 @@
 
-    (a) Extensions of Credit.--Section 22(h)(9)(D)(i) of the Federal 
-Reserve Act (12 U.S.C. 375b(9)(D)(i)) is amended--
-            (1) by striking the period at the end and inserting ``; 
-        or'';
-            (2) by striking ``a person'' and inserting ``the person'';
-            (3) by striking ``extends credit by making'' and inserting 
-        the following: ``extends credit to a person by--
-                                    ``(I) making''; and
-            (4) by adding at the end the following:
-                                    ``(II) having credit exposure to the 
-                                person arising from a derivative 
-                                transaction (as defined in section 
-                                5200(b) of the Revised Statutes of the 
-                                United States (12 U.S.C. 84(b))), 
-                                repurchase agreement, reverse repurchase 
-                                agreement, securities lending 
-                                transaction, or securities borrowing 
-                                transaction between the member bank and 
-                                the person.''.
+    (a) Amendment to the Federal Deposit Insurance Act.--Section 18 of 
+the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by adding 
+at the end the following:
+    ``(z) General Prohibition on Sale of Assets.--
+            ``(1) In general.--An insured depository institution may not 
+        purchase an asset from, or sell an asset to, an executive 
+        officer, director, or principal shareholder of the insured 
+        depository institution, or any related interest of such person 
+        (as
 
-    (b) &lt;&lt;NOTE: 12 USC 375b note.&gt;&gt;  Effective Date.--The amendments 
-made by this section shall take effect 1 year after the transfer date.
+
+        such terms are defined in section 22(h) of Federal Reserve Act), 
+        unless--
+                    ``(A) the transaction is on market terms; and
+                    ``(B) if the transaction represents more than 10 
+                percent of the capital stock and surplus of the insured 
+                depository institution, the transaction has been 
+                approved in advance by a majority of the members of the 
+                board of directors of the insured depository institution 
+                who do not have an interest in the transaction.
+            ``(2) &lt;&lt;NOTE: Consultation.&gt;&gt;  Rulemaking.--The Board of 
+        Governors of the Federal Reserve System may issue such rules as 
+        may be necessary to define terms and to carry out the purposes 
+        this subsection. Before proposing or adopting a rule under this 
+        paragraph, the Board of Governors of the Federal Reserve System 
+        shall consult with the Comptroller of the Currency and the 
+        Corporation as to the terms of the rule.''.
+
+    (b) Amendments to the Federal Reserve Act.--Section 22(d) of the 
+Federal Reserve Act (12 U.S.C. 375) is amended to read as follows:
+    ``(d) [Reserved]''.
+    (c) &lt;&lt;NOTE: 12 USC 375 note.&gt;&gt;  Effective Date.--The amendments made 
+by this section shall take effect on the transfer date.

@@ -1,23 +1,10 @@
-                          INSPECTOR GENERAL ACT.
+                          ACT OF 1974.
 
-    Effective &lt;&lt;NOTE: Effective date.&gt;&gt;  on the date of enactment of 
-this Act, the Inspector General Act of 1978 &lt;&lt;NOTE: 5 USC app. 8G.&gt;&gt; (5 
-U.S.C. App. 3) is amended--
-            (1) in section 8G(a)(2), by inserting ``and the Bureau of 
-        Consumer Financial Protection'' after ``Board of Governors of 
-        the Federal Reserve System'';
-            (2) in &lt;&lt;NOTE: Appointment.&gt;&gt; section 8G(c), by adding at 
-        the end the following: ``For purposes of implementing this 
-        section, the Chairman of the Board of Governors of the Federal 
-        Reserve System shall appoint the Inspector General of the Board 
-        of Governors of the Federal Reserve System and the Bureau of 
-        Consumer Financial Protection. The Inspector General of the 
-        Board of Governors of the Federal Reserve System and the Bureau 
-        of Consumer Financial Protection shall have all of the 
-        authorities and responsibilities provided by this Act with 
-        respect to the Bureau of Consumer Financial Protection, as if 
-        the Bureau were part of the Board of Governors of the Federal 
-        Reserve System.''; and
-            (3) in section 8G(g)(3), by inserting ``and the Bureau of 
-        Consumer Financial Protection'' after ``Board of Governors of 
-        the Federal Reserve System'' the first place that term appears.
+    Effective &lt;&lt;NOTE: Effective date.&gt;&gt; on the date of enactment of this 
+Act, section 552a of title 5, United States Code, is amended by adding 
+at the end the following:
+
+    ``(w) Applicability to Bureau of Consumer Financial Protection.--
+Except as provided in the Consumer Financial Protection Act of 2010, 
+this section shall apply with respect to the Bureau of Consumer 
+Financial Protection.''.

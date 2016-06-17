@@ -1,77 +1,94 @@
-                        UTILITY HOLDING COMPANY ACT OF 1935.
+                        LOSSES TO THE DEPOSIT INSURANCE FUND FOR 
+                        PURPOSES OF INSPECTOR GENERAL REVIEWS.
 
-    (a) Securities Exchange Act of 1934.--The Securities Exchange Act of 
-1934 (15 U.S.C. 78 et seq.) is amended--
-            (1) in section 3(a)(47) (15 U.S.C. 78c(a)(47)), by striking 
-        ``the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a 
-        et seq.),'';
-            (2) in section 12(k) (15 U.S.C. 78l(k)), by amending 
-        paragraph (7) to read as follows:  
-            ``(7) Definition.--For purposes of this subsection, the term 
-        `emergency' means--
-                    ``(A) a major market disturbance characterized by or 
-                constituting--
-                          ``(i) sudden and excessive fluctuations of 
-                      securities prices generally, or a substantial 
-                      threat thereof, that threaten fair and orderly 
-                      markets; or
-                          ``(ii) a substantial disruption of the safe or 
-                      efficient operation of the national system for 
-                      clearance and settlement of transactions in 
-                      securities, or a substantial threat thereof; or
-                    ``(B) a major disturbance that substantially 
-                disrupts, or threatens to substantially disrupt--
-                          ``(i) the functioning of securities markets, 
-                      investment companies, or any other significant 
-                      portion or segment of the securities markets; or
-                          ``(ii) the transmission or processing of 
-                      securities transactions.''; and
-            (3) in section 21(h)(2) (15 U.S.C. 78u(h)(2)), by striking 
-        ``section 18(c) of the Public Utility Holding Company Act of 
-        1935,''.
-
-    (b) Trust Indenture Act of 1939.--The Trust Indenture Act of 1939 
-(15 U.S.C. 77aaa et seq.) is amended--
-            (1) in section 303 (15 U.S.C. 77ccc), by striking paragraph 
-        (17) and inserting the following:
-            ``(17) The terms `Securities Act of 1933' and `Securities 
-        Exchange Act of 1934' shall be deemed to refer, respectively,
+    (a) In General.--Section 38(k) of the Federal Deposit Insurance 
+Act &lt;&lt;NOTE: 12 USC 1831o.&gt;&gt;  (U.S.C. 1831o(k)) is amended--
+            (1) in paragraph (2), by striking subparagraph (B) and 
+        inserting the following:
+                    ``(B) Material loss defined.--The term `material 
+                loss' means any estimated loss in excess of--
+                          ``(i) $200,000,000, if the loss occurs during 
+                      the period beginning on January 1, 2010, and 
+                      ending on December 31, 2011;
+                          ``(ii) $150,000,000, if the loss occurs during 
+                      the period beginning on January 1, 2012, and 
+                      ending on December 31, 2013; and
+                          ``(iii) $50,000,000, if the loss occurs on or 
+                      after January 1, 2014, provided that if the 
+                      inspector general of a Federal banking agency 
+                      certifies to the Committee on Banking, Housing, 
+                      and Urban Affairs of the Senate and the Committee 
+                      on Financial Services of the House
 
 
-        to such Acts, as amended, whether amended prior to or after the 
-        enactment of this title.'';
-            (2) in section 308 (15 U.S.C. 77hhh), by striking 
-        ``Securities Act of 1933, the Securities Exchange Act of 1934, 
-        or the Public Utility Holding Company Act of 1935'' each place 
-        that term appears and inserting ``Securities Act of 1933 or the 
-        Securities Exchange Act of 1934'';
-            (3) in section 310 (15 U.S.C. 77jjj), by striking subsection 
-        (c);
-            (4) in section 311 (15 U.S.C. 77kkk), by striking subsection 
-        (c);
-            (5) in section 323(b) (15 U.S.C. 77www(b)), by striking 
-        ``Securities Act of 1933, or the Securities Exchange Act of 
-        1934, or the Public Utility Holding Company Act of 1935'' and 
-        inserting ``Securities Act of 1933 or the Securities Exchange 
-        Act of 1934''; and
-            (6) in section 326 (15 U.S.C. 77zzz), by striking 
-        ``Securities Act of 1933, or the Securities Exchange Act of 
-        1934, or the Public Utility Holding Company Act of 1935,'' and 
-        inserting ``Securities Act of 1933 or the Securities Exchange 
-        Act of 1934''.
+                      of Representatives that the number of projected 
+                      failures of depository institutions that would 
+                      require material loss reviews for the following 12 
+                      months will be greater than 30 and would hinder 
+                      the effectiveness of its oversight functions, then 
+                      the definition of `material loss' shall be 
+                      $75,000,000 for a duration of 1 year from the date 
+                      of the certification.'';
+            (2) in paragraph (4)(A) by striking ``the report'' and 
+        inserting ``any report on losses required under this 
+        subsection,'';
+            (3) by striking paragraph (6);
+            (4) by redesignating paragraph (5) as paragraph (6); and
+            (5) by inserting after paragraph (4) the following:
+            ``(5) Losses that are not material.--
+                    ``(A) Semiannual report.-- &lt;&lt;NOTE: Time 
+                period.&gt;&gt; For the 6-month period ending on March 31, 
+                2010, and each 6-month period thereafter, the Inspector 
+                General of each Federal banking agency shall--
+                          ``(i) identify losses that the Inspector 
+                      General estimates have been incurred by the 
+                      Deposit Insurance Fund during that 6-month period, 
+                      with respect to the insured depository 
+                      institutions supervised by the Federal banking 
+                      agency;
+                          ``(ii) for each loss incurred by the Deposit 
+                      Insurance Fund that is not a material loss, 
+                      determine--
+                                    ``(I) the grounds identified by the 
+                                Federal banking agency or State bank 
+                                supervisor for appointing the 
+                                Corporation as receiver under section 
+                                11(c)(5); and
+                                    ``(II) whether any unusual 
+                                circumstances exist that might warrant 
+                                an in-depth review of the loss; and
+                          ``(iii) prepare and submit a written report to 
+                      the appropriate Federal banking agency and to 
+                      Congress on the results of any determination by 
+                      the Inspector General, including--
+                                    ``(I) an identification of any loss 
+                                that warrants an in-depth review, 
+                                together with the reasons why such 
+                                review is warranted, or, if the 
+                                Inspector General determines that no 
+                                review is warranted, an explanation of 
+                                such determination; and
+                                    ``(II) for each loss identified 
+                                under subclause (I) that warrants an in-
+                                depth review, the date by which such 
+                                review, and a report on such review 
+                                prepared in a manner consistent with 
+                                reports under paragraph (1)(A), will be 
+                                completed and submitted to the Federal 
+                                banking agency and Congress.
+                    ``(B) Deadline for semiannual report.--The Inspector 
+                General of each Federal banking agency shall--
+                          ``(i) submit each report required under 
+                      paragraph (A) expeditiously, and not later than 90 
+                      days after the end of the 6-month period covered 
+                      by the report; and
+                          ``(ii) provide a copy of the report required 
+                      under paragraph (A) to any Member of Congress, 
+                      upon request.''.
 
-    (c) Investment Company Act of 1940.--The Investment Company Act of 
-1940 (15 U.S.C. 80a-1 et seq.) is amended--
-            (1) in section 2(a)(44) (15 U.S.C. 80a-2(a)(44)), by 
-        striking `` `Public Utility Holding Company Act of 1935','';
-            (2) in section 3(c) (15 U.S.C. 80a-3(c)), by striking 
-        paragraph (8) and inserting the following:
-            ``(8) [Repealed]'';
-            (3) in section 38(b) (15 U.S.C. 80a-37(b)), by striking 
-        ``the Public Utility Holding Company Act of 1935,''; and
-            (4) in section 50 (15 U.S.C. 80a-49), by striking ``the 
-        Public Utility Holding Company Act of 1935,''.
 
-    (d) Investment Advisers Act of 1940.--Section 202(a)(21) of the 
-Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(21)) is amended by 
-striking `` `Public Utility Holding Company Act of 1935',''.
+    (b) Technical and Conforming Amendment.--The heading for subsection 
+(k) of section 38 of the Federal Deposit Insurance Act (U.S.C. 1831o(k)) 
+is amended to read as follows:
+    ``(k) Reviews Required When Deposit Insurance Fund Incurs Losses.--
+''.

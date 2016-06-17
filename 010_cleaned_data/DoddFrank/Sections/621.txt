@@ -1,36 +1,50 @@
 
-    (a) Study.--
-            (1) &lt;&lt;NOTE: Deadline.&gt;&gt; In general.--Not later than 18 
-        months after the date of enactment of this Act, the appropriate 
-        Federal banking agencies shall jointly review and prepare a 
-        report on the activities that a banking entity, as such term is 
-        defined in the Bank Holding Company Act of 1956 (12 U.S.C. 1841 
-        et. seq.), may engage in under Federal and State law, including 
-        activities authorized by statute and by order, interpretation 
-        and guidance.
-            (2) Content.--In carrying out the study under paragraph (1), 
-        the appropriate Federal banking agencies shall review and 
-        consider--
-                    (A) the type of activities or investments;
-                    (B) any financial, operational, managerial, or 
-                reputation risks associated with or presented as a 
-                result of the banking entity engaged in the activity or 
-                making the investment; and
-                    (C) risk mitigation activities undertaken by the 
-                banking entity with regard to the risks.
+    (a) In General.--The Securities Act of 1933 (15 U.S.C. 77a et seq.) 
+is amended by inserting after section 27A the following:
+``SEC. 27B. &lt;&lt;NOTE: 15 USC 77z-2a.&gt;&gt;  CONFLICTS OF INTEREST 
+                        RELATING TO CERTAIN SECURITIZATIONS.
 
-    (b) Report and Recommendations to the Council and to Congress.--The 
-appropriate Federal banking agencies shall submit to the Council, the 
-Committee on Financial Services of the House of Representatives, and the 
-Committee on Banking, Housing, and Urban Affairs of the Senate the study 
-conducted pursuant to subsection (a) no later than 2 months after its 
-completion. In addition to the information described in subsection (a), 
-the report shall include recommendations regarding--
-            (1) whether each activity or investment has or could have a 
-        negative effect on the safety and soundness of the banking 
-        entity or the United States financial system;
-            (2) the appropriateness of the conduct of each activity or 
-        type of investment by banking entities; and
-            (3) additional restrictions as may be necessary to address 
-        risks to safety and soundness arising from the activities or 
-        types of investments described in subsection (a).
+    ``(a) In General.--An underwriter, placement agent, initial 
+purchaser, or sponsor, or any affiliate or subsidiary of any such 
+entity, of an asset-backed security (as such term is defined in
+
+
+section 3 of the Securities and Exchange Act of 1934 (15 U.S.C. 78c), 
+which for the purposes of this section shall include a synthetic asset-
+backed security), shall not, at any time for a period ending on the date 
+that is one year after the date of the first closing of the sale of the 
+asset-backed security, engage in any transaction that would involve or 
+result in any material conflict of interest with respect to any investor 
+in a transaction arising out of such activity.
+    ``(b) &lt;&lt;NOTE: Deadline.&gt;&gt;  Rulemaking.--Not later than 270 days 
+after the date of enactment of this section, the Commission shall issue 
+rules for the purpose of implementing subsection (a).
+
+    ``(c) Exception.--The prohibitions of subsection (a) shall not apply 
+to--
+            ``(1) risk-mitigating hedging activities in connection with 
+        positions or holdings arising out of the underwriting, 
+        placement, initial purchase, or sponsorship of an asset-backed 
+        security, provided that such activities are designed to reduce 
+        the specific risks to the underwriter, placement agent, initial 
+        purchaser, or sponsor associated with positions or holdings 
+        arising out of such underwriting, placement, initial purchase, 
+        or sponsorship; or
+            ``(2) purchases or sales of asset-backed securities made 
+        pursuant to and consistent with--
+                    ``(A) commitments of the underwriter, placement 
+                agent, initial purchaser, or sponsor, or any affiliate 
+                or subsidiary of any such entity, to provide liquidity 
+                for the asset-backed security, or
+                    ``(B) bona fide market-making in the asset backed 
+                security.
+
+    ``(d) Rule of Construction.--This subsection shall not otherwise 
+limit the application of section 15G of the Securities Exchange Act of 
+1934.''.
+    (b) &lt;&lt;NOTE: 15 USC 77z-2a note.&gt;&gt;  Effective Date.--Section 27B of 
+the Securities Act of 1933, as added by this section, shall take effect 
+on the effective date of final rules issued by the Commission under 
+subsection (b) of such section 27B, except that subsections (b) and (d) 
+of such section 27B shall take effect on the date of enactment of this 
+Act.

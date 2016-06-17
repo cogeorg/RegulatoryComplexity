@@ -1,13 +1,11 @@
-                        EXCHANGE ACT.
 
-    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
-further amended by adding at the end the following new section:
-``SEC. 224. &lt;&lt;NOTE: 15 USC 80b-18c.&gt;&gt;  RULE OF CONSTRUCTION 
-                        RELATING TO THE COMMODITIES EXCHANGE ACT.
+    The Comptroller General of the United States shall conduct a study 
+on the appropriate criteria for determining the financial thresholds or 
+other criteria needed to qualify for accredited investor status and 
+eligibility to invest in private funds, and shall submit a report to the 
+Committee on Banking, Housing, and Urban Affairs of the Senate and the 
+Committee on Financial Services of the House of Representatives on the 
+results of such study not later than 3 years after the date of enactment 
+of this Act.
 
-    ``Nothing in this title shall relieve any person of any obligation 
-or duty, or affect the availability of any right or remedy available to 
-the Commodity Futures Trading Commission or any private party, arising 
-under the Commodity Exchange Act (7 U.S.C. 1 et seq.) governing 
-commodity pools, commodity pool operators, or commodity trading 
-advisors.''.
+

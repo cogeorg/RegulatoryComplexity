@@ -1,95 +1,26 @@
 
-    (a) Advances.--Section 9(a)(1) of the Securities Investor Protection 
-Act of 1970 &lt;&lt;NOTE: 15 USC 78fff-3.&gt;&gt;  (15 U.S.C. 78fff3(a)(1)) is 
-amended by inserting ``or options on commodity futures contracts'' after 
-``claim for securities''.
-
-    (b) Definitions.--Section 16 of the Securities Investor Protection 
-Act of 1970 (15 U.S.C. 78lll) is amended--
-            (1) by striking paragraph (2) and inserting the following:
-            ``(2) Customer.--
-                    ``(A) In general.--The term `customer' of a debtor 
-                means any person (including any person with whom the 
-                debtor deals as principal or agent) who has a claim on 
-                account of securities received, acquired, or held by the 
-                debtor in the ordinary course of its business as a 
-                broker or dealer from or for the securities accounts of 
-                such person for safekeeping, with a view to sale, to 
-                cover consummated sales, pursuant to purchases, as 
-                collateral, security, or for purposes of effecting 
-                transfer.
-                    ``(B) Included persons.--The term `customer' 
-                includes--
-                          ``(i) any person who has deposited cash with 
-                      the debtor for the purpose of purchasing 
-                      securities;
-                          ``(ii) any person who has a claim against the 
-                      debtor for cash, securities, futures contracts, or 
-                      options on futures contracts received, acquired, 
-                      or held in a portfolio margining account carried 
-                      as a securities account pursuant to a portfolio 
-                      margining program approved by the Commission; and
-                          ``(iii) any person who has a claim against the 
-                      debtor arising out of sales or conversions of such 
-                      securities.
-                    ``(C) Excluded persons.--The term `customer' does 
-                not include any person, to the extent that--
-                          ``(i) the claim of such person arises out of 
-                      transactions with a foreign subsidiary of a member 
-                      of SIPC; or
-                          ``(ii) such person has a claim for cash or 
-                      securities which by contract, agreement, or 
-                      understanding, or by operation of law, is part of 
-                      the capital of the debtor, or is subordinated to 
-                      the claims of any or all creditors of the debtor, 
-                      notwithstanding that some ground exists
+    (a) Rulemaking Authority.--Section 10 of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78j) is amended by adding at the end the following:
+            ``(c)(1) To effect, accept, or facilitate a transaction 
+        involving the loan or borrowing of securities in contravention 
+        of such rules and regulations as the Commission may prescribe as 
+        necessary or appropriate in the public interest or for the 
+        protection of investors.
+            ``(2) Nothing in paragraph (1) may be construed to limit the 
+        authority of the appropriate Federal banking agency (as
 
 
-                      for declaring such contract, agreement, or 
-                      understanding void or voidable in a suit between 
-                      the claimant and the debtor.'';
-            (2) in paragraph (4)--
-                    (A) in subparagraph (C), by striking ``and'' at the 
-                end;
-                    (B) by redesignating subparagraph (D) as 
-                subparagraph (E); and
-                    (C) by inserting after subparagraph (C) the 
-                following:
-                    ``(D) in the case of a portfolio margining account 
-                of a customer that is carried as a securities account 
-                pursuant to a portfolio margining program approved by 
-                the Commission, a futures contract or an option on a 
-                futures contract received, acquired, or held by or for 
-                the account of a debtor from or for such portfolio 
-                margining account, and the proceeds thereof; and'';
-            (3) in paragraph (9), in the matter following subparagraph 
-        (L), by inserting after ``Such term'' the following: ``includes 
-        revenues earned by a broker or dealer in connection with a 
-        transaction in the portfolio margining account of a customer 
-        carried as securities accounts pursuant to a portfolio margining 
-        program approved by the Commission. Such term''; and
-            (4) in paragraph (11)--
-                    (A) in subparagraph (A)--
-                          (i) by striking ``filing date, all'' and all 
-                      that follows through the end of the subparagraph 
-                      and inserting the following: ``filing date--
-                          ``(i) all securities positions of such 
-                      customer (other than customer name securities 
-                      reclaimed by such customer); and
-                          ``(ii) all positions in futures contracts and 
-                      options on futures contracts held in a portfolio 
-                      margining account carried as a securities account 
-                      pursuant to a portfolio margining program approved 
-                      by the Commission, including all property 
-                      collateralizing such positions, to the extent that 
-                      such property is not otherwise included herein; 
-                      minus''; and
-                    (B) in the matter following subparagraph (C), by 
-                striking ``In determining'' and inserting the following: 
-                ``A claim for a commodity futures contract received, 
-                acquired, or held in a portfolio margining account 
-                pursuant to a portfolio margining program approved by 
-                the Commission or a claim for a security futures 
-                contract, shall be deemed to be a claim with respect to 
-                such contract as of the filing date, and such claim 
-                shall be treated as a claim for cash. In determining''.
+        defined in section 3(q) of the Federal Deposit Insurance Act (12 
+        U.S.C. 1813(q))), the National Credit Union Administration, or 
+        any other Federal department or agency having a responsibility 
+        under Federal law to prescribe rules or regulations restricting 
+        transactions involving the loan or borrowing of securities in 
+        order to protect the safety and soundness of a financial 
+        institution or to protect the financial system from systemic 
+        risk.''.
+
+    (b) &lt;&lt;NOTE: Deadline. 15 USC 78j note.&gt;&gt;  Rulemaking Required.--Not 
+later than 2 years after the date of enactment of this Act, the 
+Commission shall promulgate rules that are designed to increase the 
+transparency of information available to brokers, dealers, and 
+investors, with respect to the loan or borrowing of securities.

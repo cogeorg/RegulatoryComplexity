@@ -1,11 +1,33 @@
-                        PURPOSES.
+                        ASSESSMENT BASE.
 
-    (a) Section 7(a)(2)(B) of the Federal Deposit Insurance Act is 
-amended by striking ``agreement'' and inserting ``consultation''.
-    (b) Section 7(b)(1)(E) of the Federal Deposit Insurance Act is 
-amended--
-            (1) in clause (i), by striking ``such as'' and inserting 
-        ``including''; and
-            (2) in clause (iii), by striking ``Corporation'' and 
-        inserting ``Corporation, except as provided in section 
-        7(a)(2)(B)''.
+    (a) Section 7(b)(3)(B) of the Federal Deposit Insurance Act is 
+amended to read as follows:
+                    ``(B) Minimum reserve ratio.--The reserve ratio 
+                designated by the Board of Directors for any year may 
+                not be less than 1.35 percent of estimated insured 
+                deposits, or the comparable percentage of the assessment 
+                base set forth in paragraph (2)(C).''.
+
+    (b) Section 3(y)(3) of the &lt;&lt;NOTE: 12 USC 1813.&gt;&gt; Federal Deposit 
+Insurance Act is amended by inserting ``, or such comparable percentage 
+of the assessment base set forth in section 7(b)(2)(C)'' before the 
+period.
+
+    (c) For a &lt;&lt;NOTE: Time period. Public information. 12 USC 1817 
+note.&gt;&gt; period of not less than 5 years after the date of the enactment 
+of this title, the Federal Deposit Insurance Corporation shall make 
+available to the public the reserve ratio and the designated reserve 
+ratio using both estimated insured deposits and the assessment base 
+under section 7(b)(2)(C) of the Federal Deposit Insurance Act.
+
+    (d) Reserve Ratio.--Notwithstanding the timing requirements of 
+section 7(b)(3)(E)(ii) of the Federal Deposit Insurance Act, the 
+Corporation shall take such steps as may be necessary for the reserve 
+ratio of the Deposit Insurance Fund to reach 1.35 percent of estimated 
+insured deposits by September 30, 2020.
+    (e) Offset.--In setting the assessments necessary to meet the 
+requirements of subsection (d), the Corporation shall offset the effect 
+of subsection (d) on insured depository institutions with total 
+consolidated assets of less than $10,000,000,000.
+
+

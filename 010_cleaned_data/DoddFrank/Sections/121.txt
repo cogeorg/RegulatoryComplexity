@@ -1,97 +1,65 @@
-                        TO ACTIVITIES OR PRACTICES FOR FINANCIAL 
-                        STABILITY PURPOSES.
+                        STABILITY.
 
-    (a) In General.--The Council may provide for more stringent 
-regulation of a financial activity by issuing recommendations to the 
-primary financial regulatory agencies to apply new or heightened 
-standards and safeguards, including standards enumerated in section 115, 
-for a financial activity or practice conducted by bank holding companies 
-or nonbank financial companies under their respective jurisdictions, if 
-the Council determines that the
+    (a) Mitigatory Actions.--If the Board of Governors determines that a 
+bank holding company with total consolidated assets of $50,000,000,000 
+or more, or a nonbank financial company supervised by the Board of 
+Governors, poses a grave threat to the financial stability of the United 
+States, the Board of Governors, upon an affirmative vote of not fewer 
+than \2/3\ of the voting members of the Council then serving, shall--
+            (1) limit the ability of the company to merge with, acquire, 
+        consolidate with, or otherwise become affiliated with another 
+        company;
+            (2) restrict the ability of the company to offer a financial 
+        product or products;
+            (3) require the company to terminate one or more activities;
+            (4) impose conditions on the manner in which the company 
+        conducts 1 or more activities; or
+            (5) if the Board of Governors determines that the actions 
+        described in paragraphs (1) through (4) are inadequate to 
+        mitigate a threat to the financial stability of the United 
+        States in its recommendation, require the company to sell or 
+        otherwise transfer assets or off-balance-sheet items to 
+        unaffiliated entities.
 
-
-conduct, scope, nature, size, scale, concentration, or 
-interconnectedness of such activity or practice could create or increase 
-the risk of significant liquidity, credit, or other problems spreading 
-among bank holding companies and nonbank financial companies, financial 
-markets of the United States, or low-income, minority, or underserved 
-communities.
-    (b) Procedure for Recommendations to Regulators.--
-            (1) Notice and opportunity for comment.--
-        The &lt;&lt;NOTE: Consultation. Public comments.&gt;&gt; Council shall 
-        consult with the primary financial regulatory agencies and 
-        provide notice to the public and opportunity for comment for any 
-        proposed recommendation that the primary financial regulatory 
-        agencies apply new or heightened standards and safeguards for a 
-        financial activity or practice.
-            (2) Criteria.--The new or heightened standards and 
-        safeguards for a financial activity or practice recommended 
-        under paragraph (1)--
-                    (A) shall take costs to long-term economic growth 
-                into account; and
-                    (B) may include prescribing the conduct of the 
-                activity or practice in specific ways (such as by 
-                limiting its scope, or applying particular capital or 
-                risk management requirements to the conduct of the 
-                activity) or prohibiting the activity or practice.
-
-    (c) Implementation of Recommended Standards.--
-            (1) Role of primary financial regulatory agency.--
-                    (A) In general.--Each primary financial regulatory 
-                agency may impose, require reports regarding, examine 
-                for compliance with, and enforce standards in accordance 
-                with this section with respect to those entities for 
-                which it is the primary financial regulatory agency.
-                    (B) Rule of construction.--The authority under this 
-                paragraph is in addition to, and does not limit, any 
-                other authority of a primary financial regulatory 
-                agency. Compliance by an entity with actions taken by a 
-                primary financial regulatory agency under this section 
-                shall be enforceable in accordance with the statutes 
-                governing the respective jurisdiction of the primary 
-                financial regulatory agency over the entity, as if the 
-                agency action were taken under those statutes.
-            (2) Imposition of standards.--
-        The &lt;&lt;NOTE: Deadline.&gt;&gt; primary financial regulatory agency 
-        shall impose the standards recommended by the Council in 
-        accordance with subsection (a), or similar standards that the 
-        Council deems acceptable, or shall explain in writing to the 
-        Council, not later than 90 days after the date on which the 
-        Council issues the recommendation, why the agency has determined 
-        not to follow the recommendation of the Council.
-
-    (d) Report to Congress.--The Council shall report to Congress on--
-            (1) any recommendations issued by the Council under this 
-        section;
-            (2) the implementation of, or failure to implement, such 
-        recommendation on the part of a primary financial regulatory 
-        agency; and
-            (3) in any case in which no primary financial regulatory 
-        agency exists for the nonbank financial company conducting 
-        financial activities or practices referred to in subsection (a),
+    (b) Notice &lt;&lt;NOTE: Deadlines.&gt;&gt; and Hearing.--
+            (1) In general.--The Board of Governors, in consultation 
+        with the Council, shall provide to a company described in 
+        subsection (a) written notice that such company is being 
+        considered for mitigatory action pursuant to this section, 
+        including an explanation of the basis for, and description of, 
+        the proposed mitigatory action.
+            (2) Hearing.--Not later than 30 days after the date of 
+        receipt of notice under paragraph (1), the company may request, 
+        in writing, an opportunity for a written or oral hearing before 
+        the Board of Governors to contest the proposed mitigatory 
+        action. Upon receipt of a timely request, the Board of Governors 
+        shall fix a time (not later than 30 days after the date of
 
 
-        recommendations for legislation that would prevent such 
-        activities or practices from threatening the stability of the 
-        financial system of the United States.
+        receipt of the request) and place at which such company may 
+        appear, personally or through counsel, to submit written 
+        materials (or, at the discretion of the Board of Governors, in 
+        consultation with the Council, oral testimony and oral 
+        argument).
+            (3) Decision.--Not later than 60 days after the date of a 
+        hearing under paragraph (2), or not later than 60 days after the 
+        provision of a notice under paragraph (1) if no hearing was 
+        held, the Board of Governors shall notify the company of the 
+        final decision of the Board of Governors, including the results 
+        of the vote of the Council, as described in subsection (a).
 
-    (e) Effect of Rescission of Identification.--
-            (1) Notice.--The Council may recommend to the relevant 
-        primary financial regulatory agency that a financial activity or 
-        practice no longer requires any standards or safeguards 
-        implemented under this section.
-            (2) Determination of primary financial regulatory agency to 
-        continue.--
-                    (A) In general.--Upon receipt of a recommendation 
-                under paragraph (1), a primary financial regulatory 
-                agency that has imposed standards under this section 
-                shall determine whether such standards should remain in 
-                effect.
-                    (B) Appeal process.--
-                Each &lt;&lt;NOTE: Regulations.&gt;&gt; primary financial regulatory 
-                agency that has imposed standards under this section 
-                shall promulgate regulations to establish a procedure 
-                under which entities under its jurisdiction may appeal a 
-                determination by such agency under this paragraph that 
-                standards imposed under this section should remain in 
-                effect.
+    (c) Factors for Consideration.--The Board of Governors and the 
+Council shall take into consideration the factors set forth in 
+subsection (a) or (b) of section 113, as applicable, in making any 
+determination under subsection (a).
+    (d) Application to Foreign Financial Companies.--The Board of 
+Governors may prescribe regulations regarding the application of this 
+section to foreign nonbank financial companies supervised by the Board 
+of Governors and foreign-based bank holding companies--
+            (1) giving due regard to the principle of national treatment 
+        and equality of competitive opportunity; and
+            (2) taking into account the extent to which the foreign 
+        nonbank financial company or foreign-based bank holding company 
+        is subject on a consolidated basis to home country standards 
+        that are comparable to those applied to financial companies in 
+        the United States.

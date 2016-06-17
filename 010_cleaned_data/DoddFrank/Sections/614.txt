@@ -1,16 +1,23 @@
 
-    (a) National Banks.--Section 5155(g)(1)(A) of the Revised Statutes 
-of the United States (12 U.S.C. 36(g)(1)(A)) is amended to read as 
-follows:
-                    ``(A) the law of the State in which the branch is 
-                located, or is to be located, would permit establishment 
-                of the branch, if the national bank were a State bank 
-                chartered by such State; and''.
+    (a) Extensions of Credit.--Section 22(h)(9)(D)(i) of the Federal 
+Reserve Act (12 U.S.C. 375b(9)(D)(i)) is amended--
+            (1) by striking the period at the end and inserting ``; 
+        or'';
+            (2) by striking ``a person'' and inserting ``the person'';
+            (3) by striking ``extends credit by making'' and inserting 
+        the following: ``extends credit to a person by--
+                                    ``(I) making''; and
+            (4) by adding at the end the following:
+                                    ``(II) having credit exposure to the 
+                                person arising from a derivative 
+                                transaction (as defined in section 
+                                5200(b) of the Revised Statutes of the 
+                                United States (12 U.S.C. 84(b))), 
+                                repurchase agreement, reverse repurchase 
+                                agreement, securities lending 
+                                transaction, or securities borrowing 
+                                transaction between the member bank and 
+                                the person.''.
 
-    (b) State Insured Banks.--Section 18(d)(4)(A)(i) of the Federal 
-Deposit Insurance Act (12 U.S.C. 1828(d)(4)(A)(i)) is amended to read as 
-follows:
-                          ``(i) the law of the State in which the branch 
-                      is located, or is to be located, would permit 
-                      establishment of the branch, if the bank were a 
-                      State bank chartered by such State; and''.
+    (b) &lt;&lt;NOTE: 12 USC 375b note.&gt;&gt;  Effective Date.--The amendments 
+made by this section shall take effect 1 year after the transfer date.

@@ -1,24 +1,9 @@
 
-    (a) Increase in Amount of Civil Money Penalties for Certain 
-Violations.--Section 130(a) of the Truth in Lending Act (15 U.S.C. 
-1640(a)) is amended--
-            (1) in paragraph (2)(A)(ii)--
-                    (A) by striking ``$100'' and inserting ``$200''; and
-                    (B) by striking ``$1,000'' and inserting ``$2,000'';
-            (2) in paragraph (2)(B), by striking ``$500,000'' and 
-        inserting ``$1,000,000''; and
-            (3) in paragraph (4), by inserting ``, paragraph (1) or (2) 
-        of section 129B(c), or section 129C(a)'' after ``section 129''.
-
-    (b) Statute of Limitations Extended for Section 129 Violations.--
-Section 130(e) of the Truth in Lending Act (15 U.S.C. 1640(e)) is 
-amended--
-            (1) in the first sentence, by striking ``Any action'' and 
-        inserting ``Except as provided in the subsequent sentence, any 
-        action''; and
-            (2) by inserting after the first sentence the following new 
-        sentence: ``Any action under this section with respect to any 
-        violation of section 129, 129B, or 129C may be brought in any 
-        United States district court, or in any other court of competent 
-        jurisdiction, before the end of the 3-year period beginning on 
-        the date of the occurrence of the violation.''.
+    Section 130 of the Truth in Lending Act (15 U.S.C. 1640) is amended 
+by adding after subsection (k) (as added by this title) the following 
+new subsection:
+    ``(l) Exemption From Liability and Rescission in Case of Borrower 
+Fraud or Deception.--In addition to any other remedy available by law or 
+contract, no creditor or assignee shall be liable to an obligor under 
+this section, if such obligor, or co-obligor has been convicted of 
+obtaining by actual fraud such residential mortgage loan.''.

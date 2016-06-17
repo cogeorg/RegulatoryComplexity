@@ -1,8 +1,67 @@
+                          2008.
 
-    Section 106 of the Emergency Economic Stabilization Act of 2008 (12 
-U.S.C. 5216) is amended by inserting at the end the following:
-    ``(f) Report.--The Secretary of the Treasury shall report to 
-Congress every 6 months on amounts received and transferred to the 
-general fund under subsection (d).''.
+    (a) Sale of Fannie Mae Obligations and Securities by the Treasury; 
+Deficit Reduction.--Section 304(g)(2) of the Federal National Mortgage 
+Association Charter Act (12 U.S.C. 1719(g)(2)) is amended--
+            (1) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (2) by inserting after subparagraph (B) the following:
+                    ``(C) Deficit reduction.--The Secretary of the 
+                Treasury shall deposit in the General Fund of the 
+                Treasury any amounts received by the Secretary from the 
+                sale of any obligation acquired by the Secretary under 
+                this subsection, where such amounts shall be--
+                          ``(i) dedicated for the sole purpose of 
+                      deficit reduction; and
+                          ``(ii) prohibited from use as an offset for 
+                      other spending increases or revenue reductions.''.
+
+    (b) Sale of Freddie Mac Obligations and Securities by the Treasury; 
+Deficit Reduction.--Section 306(l)(2) of the Federal Home Loan Mortgage 
+Corporation Act (12 U.S.C. 1455(l)(2)) is amended--
+            (1) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (2) by inserting after subparagraph (B) the following:
+                    ``(C) Deficit reduction.--The Secretary of the 
+                Treasury shall deposit in the General Fund of the 
+                Treasury any amounts received by the Secretary from the 
+                sale of any obligation acquired by the Secretary under 
+                this subsection, where such amounts shall be--
+                          ``(i) dedicated for the sole purpose of 
+                      deficit reduction; and
+                          ``(ii) prohibited from use as an offset for 
+                      other spending increases or revenue reductions.''.
+
+    (c) Sale of Federal Home Loan Banks Obligations by the Treasury; 
+Deficit Reduction.--Section 11(l)(2) of the Federal Home Loan Bank Act 
+(12 U.S.C. 1431(l)(2)) is amended--
+            (1) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (2) by inserting after subparagraph (B) the following:
+                    ``(C) Deficit reduction.--The Secretary of the 
+                Treasury shall deposit in the General Fund of the 
+                Treasury any amounts received by the Secretary from the 
+                sale of any obligation acquired by the Secretary under 
+                this subsection, where such amounts shall be--
+                          ``(i) dedicated for the sole purpose of 
+                      deficit reduction; and
+                          ``(ii) prohibited from use as an offset for 
+                      other spending increases or revenue reductions.''.
+
+    (d) Repayment &lt;&lt;NOTE: 12 USC 1455 note.&gt;&gt; of Fees.--Any periodic 
+commitment fee or any other fee or assessment paid by the Federal 
+National Mortgage Association or Federal Home Loan Mortgage Corporation 
+to the Secretary of the Treasury as a result of any preferred stock 
+purchase agreement, mortgage-backed security purchase program, or any 
+other program or activity authorized or carried out pursuant to the 
+authorities granted to the Secretary of the Treasury under section 1117 
+of the Housing and Economic Recovery Act of 2008
 
 
+(Public Law 110-289; 122 Stat. 2683), including any fee agreed to by 
+contract between the Secretary and the Association or Corporation, shall 
+be deposited in the General Fund of the Treasury where such amounts 
+shall be--
+            (1) dedicated for the sole purpose of deficit reduction; and
+            (2) prohibited from use as an offset for other spending 
+        increases or revenue reductions.

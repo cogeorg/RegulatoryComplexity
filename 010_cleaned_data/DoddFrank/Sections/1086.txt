@@ -1,121 +1,58 @@
 
-    The Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.) is 
-amended--
-            (1) by striking ``Board'' each place that term appears, 
-        other than in section 703(f) (as added by this section) and 
-        section 704(a)(4) (15 U.S.C. 1691c(a)(4)), and inserting 
-        ``Bureau'';
-            (2) in section 702 (15 U.S.C. 1691a), by striking subsection 
-        (c) and inserting the following:
-
-    ``(c) The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means the Bureau of 
-Consumer Financial Protection.'';
-            (3) in section 703 (15 U.S.C. 1691b)--
-                    (A) by striking the section heading and inserting 
-                the following:
-``SEC. 703. PROMULGATION OF REGULATIONS BY THE BUREAU.'';
-                    (B) by striking ``(a) Regulations.--'';
-                    (C) by striking subsection (b);
+    (a) Amendment to Section 603.--Section 603(d)(1) of the Expedited 
+Funds Availability Act (12 U.S.C. 4002) is amended by inserting after 
+``Board'' the following ``, jointly with the Director of the Bureau of 
+Consumer Financial Protection,''.
+    (b) Amendments to Section 604.--Section 604 of the Expedited Funds 
+Availability Act (12 U.S.C. 4003) is amended--
+            (1) by inserting after ``Board'' each place that term 
+        appears, other than in subsection (f), the following: ``, 
+        jointly with the Director of the Bureau of Consumer Financial 
+        Protection,''; and
 
 
-                    (D) by redesignating paragraphs (1) through (5) as 
-                subsections (a) through (e), respectively;
-                    (E) in subsection (c), as so redesignated, by 
-                striking ``paragraph (2)'' and inserting ``subsection 
-                (b)''; and
-                    (F) by adding at the end the following:
+            (2) in subsection (f), by striking ``Board.'' each place 
+        that term appears and inserting the following: ``Board, jointly 
+        with the Director of the Bureau of Consumer Financial 
+        Protection.''.
 
-    ``(f) Board &lt;&lt;NOTE: Regulations.&gt;&gt;  Authority.--Notwithstanding 
-subsection (a), the Board shall prescribe regulations to carry out the 
-purposes of this title with respect to a person described in section 
-1029(a) of the Consumer Financial Protection Act of 2010. These 
-regulations may contain but are not limited to such classifications, 
-differentiation, or other provision, and may provide for such 
-adjustments and exceptions for any class of transactions, as in the 
-judgment of the Board are necessary or proper to effectuate the purposes 
-of this title, to prevent circumvention or evasion thereof, or to 
-facilitate or substantiate compliance therewith.
+    (c) Amendments to Section 605.--Section 605 of the Expedited Funds 
+Availability Act (12 U.S.C. 4004) is amended--
+            (1) by inserting after ``Board'' each place that term 
+        appears, other than in the heading for section 605(f)(1), the 
+        following: ``, jointly with the Director of the Bureau of 
+        Consumer Financial Protection,''; and
+            (2) in subsection (f)(1), in the paragraph heading, by 
+        inserting ``and bureau'' after ``board''.
 
-    ``(g) Deference.--Notwithstanding any power granted to any Federal 
-agency under this title, the deference that a court affords to a Federal 
-agency with respect to a determination made by such agency relating to 
-the meaning or interpretation of any provision of this title that is 
-subject to the jurisdiction of such agency shall be applied as if that 
-agency were the only agency authorized to apply, enforce, interpret, or 
-administer the provisions of this title'';
-            (4) in section 704 (15 U.S.C. 1691c)--
-                    (A) in subsection (a)--
-                          (i) by striking ``Compliance'' and inserting 
-                      ``Subject to subtitle B of the Consumer Protection 
-                      Financial Protection Act of 2010'';
-                          (ii) by striking paragraphs (1) and (2) and 
-                      inserting the following:
-            ``(1) section 8 of the Federal Deposit Insurance Act, by the 
-        appropriate Federal banking agency, as defined in section 3(q) 
-        of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with 
-        respect to--
-                    ``(A) national banks, Federal savings associations, 
-                and Federal branches and Federal agencies of foreign 
-                banks;
-                    ``(B) member banks of the Federal Reserve System 
-                (other than national banks), branches and agencies of 
-                foreign banks (other than Federal branches, Federal 
-                agencies, and insured State branches of foreign banks), 
-                commercial lending companies owned or controlled by 
-                foreign banks, and organizations operating under section 
-                25 or 25A of the Federal Reserve Act; and
-                    ``(C) banks and State savings associations insured 
-                by the Federal Deposit Insurance Corporation (other than 
-                members of the Federal Reserve System), and insured 
-                State branches of foreign banks;'';
-                          (iii) by redesignating paragraphs (3) through 
-                      (9) as paragraphs (2) through (8), respectively;
-                          (iv) in paragraph (7) (as so redesignated), by 
-                      striking ``and'' at the end;
-                          (v) in paragraph (8) (as so redesignated), by 
-                      striking the period at the end, and inserting ``; 
-                      and''; and
-                          (vi) by adding at the end the following:
+    (d) Amendments to Section 609.--Section 609 of the Expedited Funds 
+Availability Act (12 U.S.C. 4008) is amended:
+            (1) in subsection (a), by inserting after ``Board'' the 
+        following ``, jointly with the Director of the Bureau of 
+        Consumer Financial Protection,''; and
+            (2) by striking subsection (e) and inserting the following:
 
+    ``(e) Consultations.--In prescribing regulations under subsections 
+(a) and (b), the Board and the Director of the Bureau of Consumer 
+Financial Protection, in the case of subsection (a), and the Board, in 
+the case of subsection (b), shall consult with the Comptroller of the 
+Currency, the Board of Directors of the Federal Deposit Insurance 
+Corporation, and the National Credit Union Administration Board.''.
+    (e) Expedited Funds Availability Improvements.--Section 603 of the 
+Expedited Funds Availability Act (12 U.S.C. 4002) is amended--
+            (1) in subsection (a)(2)(D), by striking ``$100'' and 
+        inserting ``$200''; and
+            (2) in subsection (b)(3)(C), in the subparagraph heading, by 
+        striking ``$100'' and inserting ``$200''; and
+            (3) in subsection (c)(1)(B)(iii), in the clause heading, by 
+        striking ``$100'' and inserting ``$200''.
 
-            ``(9) Subtitle E of the Consumer Financial Protection Act of 
-        2010, by the Bureau, with respect to any person subject to this 
-        title.'';
-                    (B) by striking subsection (c) and inserting the 
-                following:
-
-    ``(c) Overall Enforcement Authority of Federal Trade Commission.--
-Except to the extent that enforcement of the requirements imposed under 
-this title is specifically committed to some other Government agency 
-under any of paragraphs (1) through (8) of subsection (a), and subject 
-to subtitle B of the Consumer Financial Protection Act of 2010, the 
-Federal Trade Commission shall be authorized to enforce such 
-requirements. For the purpose of the exercise by the Federal Trade 
-Commission of its functions and powers under the Federal Trade 
-Commission Act (15 U.S.C. 41 et seq.), a violation of any requirement 
-imposed under this subchapter shall be deemed a violation of a 
-requirement imposed under that Act. All of the functions and powers of 
-the Federal Trade Commission under the Federal Trade Commission Act are 
-available to the Federal Trade Commission to enforce compliance by any 
-person with the requirements imposed under this title, irrespective of 
-whether that person is engaged in commerce or meets any other 
-jurisdictional tests under the Federal Trade Commission Act, including 
-the power to enforce any rule prescribed by the Bureau under this title 
-in the same manner as if the violation had been a violation of a Federal 
-Trade Commission trade regulation rule.''; and
-                    (C) in subsection (d), by striking ``Board'' and 
-                inserting ``Bureau'';
-            (5) in section 706(e) (15 U.S.C. 1691e(e))--
-                    (A) in the subsection heading--
-                          (i) by striking ``Board'' each place that term 
-                      appears and inserting ``Bureau''; and
-                          (ii) by striking ``Federal Reserve System'' 
-                      and inserting ``Bureau of Consumer Financial 
-                      Protection''; and
-                    (B) by striking ``Federal Reserve System'' and 
-                inserting ``Bureau of Consumer Financial Protection'';
-            (6) in section 706(g) (15 U.S.C. 1691e(g)), by striking 
-        ``(3)'' and inserting ``(9)''; and
-            (7) in section 706(f) (15 U.S.C. 1691e(f)), by striking 
-        ``two years from'' each place that term appears and inserting 
-        ``5 years after''.
+    (f) Regular Adjustments for Inflation.--Section 607 of the Expedited 
+Funds Availability Act (12 U.S.C. 4006) is amended by adding at the end 
+the following:
+    ``(f) Adjustments to Dollar Amounts 
+for &lt;&lt;NOTE: Deadline.&gt;&gt; Inflation.--The dollar amounts under this title 
+shall be adjusted every 5 years after December 31, 2011, by the annual 
+percentage increase in the Consumer Price Index for Urban Wage Earners 
+and Clerical Workers, as published by the Bureau of Labor Statistics, 
+rounded to the nearest multiple of $25.''.

@@ -1,19 +1,15 @@
-                        LINES ELIGIBILITY.
+                        COMMERCIAL PURCHASERS.
 
-    A State may not--
-            (1) impose eligibility requirements on, or otherwise 
-        establish eligibility criteria for, nonadmitted insurers 
-        domiciled in a United States jurisdiction, except in conformance 
-        with such requirements and criteria in sections 5A(2) and 
-        5C(2)(a) of the Non-Admitted Insurance Model Act, unless the 
-        State has adopted nationwide uniform requirements, forms, and 
-        procedures developed in accordance with section 521(b) of this 
-        subtitle that include alternative nationwide uniform eligibility 
-        requirements; or
-            (2) prohibit a surplus lines broker from placing nonadmitted 
-        insurance with, or procuring nonadmitted insurance from, a 
-        nonadmitted insurer domiciled outside the United States that is 
-        listed on the Quarterly Listing of Alien Insurers maintained by 
-        the International Insurers Department of the NAIC.
-
-
+    A surplus lines broker seeking to procure or place nonadmitted 
+insurance in a State for an exempt commercial purchaser shall not be 
+required to satisfy any State requirement to make a due diligence search 
+to determine whether the full amount or type of insurance sought by such 
+exempt commercial purchaser can be obtained from admitted insurers if--
+            (1) the broker procuring or placing the surplus lines 
+        insurance has disclosed to the exempt commercial purchaser that 
+        such insurance may or may not be available from the admitted 
+        market that may provide greater protection with more regulatory 
+        oversight; and
+            (2) &lt;&lt;NOTE: Written request.&gt;&gt; the exempt commercial 
+        purchaser has subsequently requested in writing the broker to 
+        procure or place such insurance from a nonadmitted insurer.

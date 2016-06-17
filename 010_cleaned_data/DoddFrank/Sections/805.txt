@@ -1,128 +1,138 @@
-                        IMPORTANCE.
+                        IMPORTANT FINANCIAL MARKET UTILITIES AND 
+                        PAYMENT, CLEARING, OR SETTLEMENT 
+                        ACTIVITIES.
 
-    (a) Designation.--
-            (1) Financial stability oversight council.--The Council, on 
-        a nondelegable basis and by a vote of not fewer than \2/3\ of 
-        members then serving, including an affirmative vote by the 
-        Chairperson of the Council, shall designate those financial 
-        market utilities or payment, clearing, or settlement activities 
-        that the Council determines are, or are likely to become, 
-        systemically important.
-            (2) Considerations.--In determining whether a financial 
-        market utility or payment, clearing, or settlement activity is, 
-        or is likely to become, systemically important, the Council 
-        shall take into consideration the following:
-                    (A) The aggregate monetary value of transactions 
-                processed by the financial market utility or carried out 
-                through the payment, clearing, or settlement activity.
-                    (B) The aggregate exposure of the financial market 
-                utility or a financial institution engaged in payment, 
-                clearing, or settlement activities to its 
-                counterparties.
-                    (C) The relationship, interdependencies, or other 
-                interactions of the financial market utility or payment, 
-                clearing, or settlement activity with other financial 
-                market utilities or payment, clearing, or settlement 
-                activities.
-                    (D) The effect that the failure of or a disruption 
-                to the financial market utility or payment, clearing, or 
-                settlement activity would have on critical markets, 
-                financial institutions, or the broader financial system.
-                    (E) Any other factors that the Council deems 
-                appropriate.
-
-    (b) Rescission of Designation.--
-            (1) In general.--The Council, on a nondelegable basis and by 
-        a vote of not fewer than \2/3\ of members then serving, 
-        including an affirmative vote by the Chairperson of the Council, 
-        shall rescind a designation of systemic importance for a 
-        designated financial market utility or designated activity if 
-        the Council determines that the utility or activity no longer 
-        meets the standards for systemic importance.
-            (2) Effect of rescission.--Upon rescission, the financial 
-        market utility or financial institutions conducting the activity 
-        will no longer be subject to the provisions of this title or any 
-        rules or orders prescribed under this title.
-
-    (c) Consultation and Notice and Opportunity for Hearing.--
+    (a) Authority to Prescribe Standards.--
+            (1) Board of governors.--Except as provided in paragraph 
+        (2), the Board of Governors, by rule or order, and in 
+        consultation with the Council and the Supervisory Agencies, 
+        shall prescribe risk management standards, taking into 
+        consideration relevant international standards and existing 
+        prudential requirements, governing--
+                    (A) the operations related to the payment, clearing, 
+                and settlement activities of designated financial market 
+                utilities; and
+                    (B) the conduct of designated activities by 
+                financial institutions.
+            (2) Special procedures for designated clearing entities and 
+        designated activities of certain financial institutions.--
+                    (A) CFTC and commission.--The Commodity Futures 
+                Trading Commission and the Commission may each prescribe 
+                regulations, in consultation with the Council and the 
+                Board of Governors, containing risk management 
+                standards, taking into consideration relevant 
+                international standards and existing prudential 
+                requirements, for those designated clearing entities and 
+                financial institutions engaged in designated activities 
+                for which each is the Supervisory Agency or the 
+                appropriate financial regulator, governing--
+                          (i) the operations related to payment, 
+                      clearing, and settlement activities of such 
+                      designated clearing entities; and
+                          (ii) the conduct of designated activities by 
+                      such financial institutions.
+                    (B) Review and determination.--The Board of 
+                Governors may determine that existing prudential 
+                requirements of the Commodity Futures Trading 
+                Commission, the Commission, or both (including 
+                requirements prescribed pursuant to subparagraph (A)) 
+                with respect to designated clearing entities and 
+                financial institutions engaged in designated activities 
+                for which the Commission or the Commodity Futures 
+                Trading Commission is the Supervisory Agency or the 
+                appropriate financial regulator are insufficient to 
+                prevent or mitigate significant liquidity, credit,
 
 
-            (1) Consultation.--Before making any determination under 
-        subsection (a) or (b), the Council shall consult with the 
-        relevant Supervisory Agency and the Board of Governors.
-            (2) Advance notice and opportunity for hearing.--
-                    (A) In general.--Before making any determination 
-                under subsection (a) or (b), the Council shall provide 
-                the financial market utility or, in the case of a 
-                payment, clearing, or settlement activity, financial 
-                institutions with advance notice of the proposed 
-                determination of the Council.
-                    (B) Notice in federal register.--The Council shall 
-                provide such advance notice to financial institutions by 
-                publishing a notice in the Federal Register.
-                    (C) &lt;&lt;NOTE: Deadline.&gt;&gt;  Requests for hearing.--
-                Within 30 days from the date of any notice of the 
-                proposed determination of the Council, the financial 
-                market utility or, in the case of a payment, clearing, 
-                or settlement activity, a financial institution engaged 
-                in the designated activity may request, in writing, an 
-                opportunity for a written or oral hearing before the 
-                Council to demonstrate that the proposed designation or 
-                rescission of designation is not supported by 
-                substantial evidence.
-                    (D) &lt;&lt;NOTE: Deadline.&gt;&gt;  Written submissions.--Upon 
-                receipt of a timely request, the Council shall fix a 
-                time, not more than 30 days after receipt of the 
-                request, unless extended at the request of the financial 
-                market utility or financial institution, and place at 
-                which the financial market utility or financial 
-                institution may appear, personally or through counsel, 
-                to submit written materials, or, at the sole discretion 
-                of the Council, oral testimony or oral argument.
-            (3) Emergency exception.--
-                    (A) Waiver or modification by vote of the council.--
-                The Council may waive or modify the requirements of 
-                paragraph (2) if the Council determines, by an 
-                affirmative vote of not fewer than \2/3\ of members then 
-                serving, including an affirmative vote by the 
-                Chairperson of the Council, that the waiver or 
-                modification is necessary to prevent or mitigate an 
-                immediate threat to the financial system posed by the 
-                financial market utility or the payment, clearing, or 
-                settlement activity.
-                    (B) &lt;&lt;NOTE: Deadlines.&gt;&gt;  Notice of waiver or 
-                modification.--The Council shall provide notice of the 
-                waiver or modification to the financial market utility 
-                concerned or, in the case of a payment, clearing, or 
-                settlement activity, to financial institutions, as soon 
-                as practicable, which shall be no later than 24 hours 
-                after the waiver or modification in the case of a 
-                financial market utility and 3 business days in the case 
-                of financial institutions. &lt;&lt;NOTE: Web posting. Federal 
-                Register, publication.&gt;&gt; The Council shall provide the 
-                notice to financial institutions by posting a notice on 
-                the website of the Council and by publishing a notice in 
-                the Federal Register.
+                operational, or other risks to the financial markets or 
+                to the financial stability of the United States.
+                    (C) Written determination.--Any determination by the 
+                Board of Governors under subparagraph (B) shall be 
+                provided in writing to the Commodity Futures Trading 
+                Commission or the Commission, as applicable, and the 
+                Council, and shall explain why existing prudential 
+                requirements, considered as a whole, are insufficient to 
+                ensure that the operations and activities of the 
+                designated clearing entities or the activities of 
+                financial institutions described in subparagraph (B) 
+                will not pose significant liquidity, credit, 
+                operational, or other risks to the financial markets or 
+                to the financial stability of the United States. The 
+                Board of Governors' determination shall contain a 
+                detailed analysis supporting its findings and identify 
+                the specific prudential requirements that are 
+                insufficient.
+                    (D) &lt;&lt;NOTE: Deadline.&gt;&gt;  CFTC and commission 
+                response.--The Commodity Futures Trading Commission or 
+                the Commission, as applicable, shall within 60 days 
+                either object to the Board of Governors' determination 
+                with a detailed analysis as to why existing prudential 
+                requirements are sufficient, or submit an explanation to 
+                the Council and the Board of Governors describing the 
+                actions to be taken in response to the Board of 
+                Governors' determination.
+                    (E) Authorization.--Upon an affirmative vote by not 
+                fewer than 2/3 of members then serving on the Council, 
+                the Council shall either find that the response 
+                submitted under subparagraph (D) is sufficient, or 
+                require the Commodity Futures Trading Commission, or the 
+                Commission, as applicable, to prescribe such risk 
+                management standards as the Council determines is 
+                necessary to address the specific prudential 
+                requirements that are determined to be insufficient.''
 
-    (d) &lt;&lt;NOTE: Deadlines.&gt;&gt;  Notification of Final Determination.--
-            (1) After hearing.--Within 60 days of any hearing under 
-        subsection (c)(2), the Council shall notify the financial market 
-        utility or financial institutions of the final determination of 
-        the Council in writing, which shall include findings of fact 
-        upon which the determination of the Council is based.
+    (b) Objectives and Principles.--The objectives and principles for 
+the risk management standards prescribed under subsection (a) shall be 
+to--
+            (1) promote robust risk management;
+            (2) promote safety and soundness;
+            (3) reduce systemic risks; and
+            (4) support the stability of the broader financial system.
+
+    (c) Scope.--The standards prescribed under subsection (a) may 
+address areas such as--
+            (1) risk management policies and procedures;
+            (2) margin and collateral requirements;
+            (3) participant or counterparty default policies and 
+        procedures;
+            (4) the ability to complete timely clearing and settlement 
+        of financial transactions;
+            (5) capital and financial resource requirements for 
+        designated financial market utilities; and
+            (6) other areas that are necessary to achieve the objectives 
+        and principles in subsection (b).
+
+    (d) Limitation on Scope.--Except as provided in subsections (e) and 
+(f) of section 807, nothing in this title shall be construed to permit 
+the Council or the Board of Governors to take any action or exercise any 
+authority granted to the Commodity Futures Trading Commission under 
+section 2(h) of the Commodity Exchange
 
 
-            (2) When no hearing requested.--If the Council does not 
-        receive a timely request for a hearing under subsection (c)(2), 
-        the Council shall notify the financial market utility or 
-        financial institutions of the final determination of the Council 
-        in writing not later than 30 days after the expiration of the 
-        date by which a financial market utility or a financial 
-        institution could have requested a hearing. &lt;&lt;NOTE: Federal 
-        Register, publication.&gt;&gt; All notices to financial institutions 
-        under this subsection shall be published in the Federal 
-        Register.
+Act or the Securities and Exchange Commission under section 3C(a) of the 
+Securities Exchange Act of 1934, including--
+            (1) the approval of, disapproval of, or stay of the clearing 
+        requirement for any group, category, type, or class of swaps 
+        that a designated clearing entity may accept for clearing;
+            (2) the determination that any group, category, type, or 
+        class of swaps shall be subject to the mandatory clearing 
+        requirement of section 2(h)(1) of the Commodity Exchange Act or 
+        section 3C(a)(1) of the Securities Exchange Act of 1934;
+            (3) the determination that any person is exempt from the 
+        mandatory clearing requirement of section 2(h)(1) of the 
+        Commodity Exchange Act or section 3C(a)(1) of the Securities 
+        Exchange Act of 1934; or
+            (4) any authority granted to the Commodity Futures Trading 
+        Commission or the Securities and Exchange Commission with 
+        respect to transaction reporting or trade execution.
 
-    (e) Extension of Time Periods.--The Council may extend the time 
-periods established in subsections (c) and (d) as the Council determines 
-to be necessary or appropriate.
+    (e) Threshold Level.--The standards prescribed under subsection (a) 
+governing the conduct of designated activities by financial institutions 
+shall, where appropriate, establish a threshold as to the level or 
+significance of engagement in the activity at which a financial 
+institution will become subject to the standards with respect to that 
+activity.
+    (f) Compliance Required.--Designated financial market utilities and 
+financial institutions subject to the standards prescribed under 
+subsection (a) for a designated activity shall conduct their operations 
+in compliance with the applicable risk management standards.

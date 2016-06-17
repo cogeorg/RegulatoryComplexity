@@ -1,7 +1,12 @@
 
-    Section 106(b)(1) of the Bank Holding Company Act Amendments of 1970 
-(12 U.S.C. 1972(1)) is amended in the undesignated matter following 
-subparagraph (E) by inserting ``issue such regulations as are necessary 
-to carry out this section, and, in consultation with the Comptroller of 
-the Currency and the Federal Deposit Insurance Company, may'' after 
-``The Board may''.
+    The Bank Protection Act of 1968 (12 U.S.C. 1881 et seq.) is 
+amended--
+            (1) in section 2 (12 U.S.C. 1881), by striking ``the term'' 
+        and all that follows through the end of the section and 
+        inserting ``the &lt;&lt;NOTE: Definition.&gt;&gt; term `Federal supervisory 
+        agency' means the appropriate Federal banking agency, as defined 
+        in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1813(q)).'';
+            (2) in section 3 (12 U.S.C. 1882), by striking ``and loan'' 
+        each place that term appears; and
+            (3) in section 5 (12 U.S.C. 1884), by striking ``and loan''.

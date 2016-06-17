@@ -1,43 +1,65 @@
-                          INFORMATION.
+                          AND INQUIRIES.
 
-    (a) In General.--Subject to rules prescribed by the Bureau, a 
-covered person shall make available to a consumer, upon request, 
-information in the control or possession of the covered person 
-concerning the consumer financial product or service that the consumer 
-obtained from such covered person, including information relating to any 
-transaction, series of transactions, or to the account including costs, 
-charges and usage data. The information shall be made available in an 
-electronic form usable by consumers.
-    (b) Exceptions.--A covered person may not be required by this 
-section to make available to the consumer--
-            (1) any confidential commercial information, including an 
-        algorithm used to derive credit scores or other risk scores or 
-        predictors;
-            (2) any information collected by the covered person for the 
-        purpose of preventing fraud or money laundering, or detecting, 
-        or making any report regarding other unlawful or potentially 
-        unlawful conduct;
-            (3) any information required to be kept confidential by any 
-        other provision of law; or
-            (4) any information that the covered person cannot retrieve 
-        in the ordinary course of its business with respect to that 
-        information.
+    (a) &lt;&lt;NOTE: Procedures.&gt;&gt;  Timely Regulator Response to Consumers.--
+The Bureau shall establish, in consultation with the appropriate Federal 
+regulatory agencies, reasonable procedures to provide a timely response 
+to consumers, in writing where appropriate, to complaints against, or 
+inquiries concerning, a covered person, including--
+            (1) steps that have been taken by the regulator in response 
+        to the complaint or inquiry of the consumer;
+            (2) any responses received by the regulator from the covered 
+        person; and
+            (3) any follow-up actions or planned follow-up actions by 
+        the regulator in response to the complaint or inquiry of the 
+        consumer.
 
-    (c) No Duty To Maintain Records.--Nothing in this section shall be 
-construed to impose any duty on a covered person to maintain or keep any 
-information about a consumer.
-    (d) Standardized Formats for Data.--The Bureau, by rule, shall 
-prescribe standards applicable to covered persons to promote the 
-development and use of standardized formats for information, including 
-through the use of machine readable files, to be made available to 
-consumers under this section.
-    (e) Consultation.--The Bureau shall, when prescribing any rule under 
-this section, consult with the Federal banking agencies and the Federal 
-Trade Commission to ensure, to the extent appropriate, that the rules--
-            (1) impose substantively similar requirements on covered 
-        persons;
-            (2) take into account conditions under which covered persons 
-        do business both in the United States and in other countries; 
-        and
-            (3) do not require or promote the use of any particular 
-        technology in order to develop systems for compliance.
+
+    (b) Timely Response to Regulator by Covered Person.--A covered 
+person subject to supervision and primary enforcement by the Bureau 
+pursuant to section 1025 shall provide a timely response, in writing 
+where appropriate, to the Bureau, the prudential regulators, and any 
+other agency having jurisdiction over such covered person concerning a 
+consumer complaint or inquiry, including--
+            (1) steps that have been taken by the covered person to 
+        respond to the complaint or inquiry of the consumer;
+            (2) responses received by the covered person from the 
+        consumer; and
+            (3) follow-up actions or planned follow-up actions by the 
+        covered person to respond to the complaint or inquiry of the 
+        consumer.
+
+    (c) Provision of Information to Consumers.--
+            (1) In general.--A covered &lt;&lt;NOTE: Compliance.&gt;&gt;  person 
+        subject to supervision and primary enforcement by the Bureau 
+        pursuant to section 1025 shall, in a timely manner, comply with 
+        a consumer request for information in the control or possession 
+        of such covered person concerning the consumer financial product 
+        or service that the consumer obtained from such covered person, 
+        including supporting written documentation, concerning the 
+        account of the consumer.
+            (2) Exceptions.--A covered person subject to supervision and 
+        primary enforcement by the Bureau pursuant to section 1025, a 
+        prudential regulator, and any other agency having jurisdiction 
+        over a covered person subject to supervision and primary 
+        enforcement by the Bureau pursuant to section 1025 may not be 
+        required by this section to make available to the consumer--
+                    (A) any confidential commercial information, 
+                including an algorithm used to derive credit scores or 
+                other risk scores or predictors;
+                    (B) any information collected by the covered person 
+                for the purpose of preventing fraud or money laundering, 
+                or detecting or making any report regarding other 
+                unlawful or potentially unlawful conduct;
+                    (C) any information required to be kept confidential 
+                by any other provision of law; or
+                    (D) any nonpublic or confidential information, 
+                including confidential supervisory information.
+
+    (d) Agreements With Other Agencies.--The 
+Bureau &lt;&lt;NOTE: Memorandum.&gt;&gt;  shall enter into a memorandum of 
+understanding with any affected Federal regulatory agency regarding 
+procedures by which any covered person, and the prudential regulators, 
+and any other agency having jurisdiction over a covered person, 
+including the Secretary of the Department of Housing and Urban 
+Development and the Secretary of Education, shall comply with this 
+section.

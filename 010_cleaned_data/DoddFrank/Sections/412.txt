@@ -1,10 +1,17 @@
 
-    The Investment Advisers Act of 1940 (15 U.S.C. 80b-1 et seq.) is 
-amended by adding at the end the following new section:
-``SEC. 223. &lt;&lt;NOTE: 15 USC 80b-18b.&gt;&gt;  CUSTODY OF CLIENT ACCOUNTS.
-
-    ``An investment adviser registered under this title shall take such 
-steps to safeguard client assets over which such adviser has custody, 
-including, without limitation, verification of such assets by an 
-independent public accountant, as the Commission may, by rule, 
-prescribe.''.
+    The Comptroller General of the United States shall--
+            (1) conduct a study of--
+                    (A) the compliance costs associated with the current 
+                Securities and Exchange Commission rules 204-2 (17 
+                C.F.R. Parts 275.204-2) and rule 206(4)-2 (17 C.F.R. 
+                275.206(4)-2) under the Investment Advisers Act of 1940 
+                regarding custody of funds or securities of clients by 
+                investment advisers; and
+                    (B) the additional costs if subsection (b)(6) of 
+                rule 206(4)-2 (17 C.F.R. 275.206(4)-2(b)(6)) relating to 
+                operational independence were eliminated; and
+            (2) &lt;&lt;NOTE: Reports. Deadline.&gt;&gt; submit a report to the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        and the Committee on Financial Services of the House of 
+        Representatives on the results of such study, not later than 3 
+        years after the date of enactment of this Act.

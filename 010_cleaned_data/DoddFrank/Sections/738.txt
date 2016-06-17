@@ -1,211 +1,203 @@
 
-    (a) Aggregate Position Limits.--Section 4a(a) of the Commodity 
-Exchange Act (7 U.S.C. 6a(a)) is amended--
-            (1) by inserting after ``(a)'' the following:
-            ``(1) In general.--'';
-            (2) in the first sentence, by striking ``on electronic 
-        trading facilities with respect to a significant price discovery 
-        contract'' and inserting ``swaps that perform or affect a 
-        significant price discovery function with respect to registered 
-        entities'';
-            (3) in the second sentence--
-                    (A) by inserting ``, including any group or class of 
-                traders,'' after ``held by any person''; and
-                    (B) by striking ``on an electronic trading facility 
-                with respect to a significant price discovery 
-                contract,'' and inserting ``swaps traded on or subject 
-                to the rules of a
-
-
-                designated contract market or a swap execution facility, 
-                or swaps not traded on or subject to the rules of a 
-                designated contract market or a swap execution facility 
-                that performs a significant price discovery function 
-                with respect to a registered entity,''; and
-            (4) by adding at the end the following:
-            ``(2) Establishment of limitations.--
-                    ``(A) &lt;&lt;NOTE: Regulations. Contracts.&gt;&gt;  In 
-                general.--In accordance with the standards set forth in 
-                paragraph (1) of this subsection and consistent with the 
-                good faith exception cited in subsection (b)(2), with 
-                respect to physical commodities other than excluded 
-                commodities as defined by the Commission, the Commission 
-                shall by rule, regulation, or order establish limits on 
-                the amount of positions, as appropriate, other than bona 
-                fide hedge positions, that may be held by any person 
-                with respect to contracts of sale for future delivery or 
-                with respect to options on the contracts or commodities 
-                traded on or subject to the rules of a designated 
-                contract market.
-                    ``(B) Timing.--
-                          ``(i) Exempt commodities.--For exempt 
-                      commodities, the limits required under 
-                      subparagraph (A) shall be established within 180 
-                      days after the date of the enactment of this 
-                      paragraph.
-                          ``(ii) Agricultural commodities.--For 
-                      agricultural commodities, the limits required 
-                      under subparagraph (A) shall be established within 
-                      270 days after the date of the enactment of this 
-                      paragraph.
-                    ``(C) Goal.--In establishing the limits required 
-                under subparagraph (A), the Commission shall strive to 
-                ensure that trading on foreign boards of trade in the 
-                same commodity will be subject to comparable limits and 
-                that any limits to be imposed by the Commission will not 
-                cause price discovery in the commodity to shift to 
-                trading on the foreign boards of trade.
-            ``(3) Specific limitations.--In establishing the limits 
-        required in paragraph (2), the Commission, as appropriate, shall 
-        set limits--
-                    ``(A) on the number of positions that may be held by 
-                any person for the spot month, each other month, and the 
-                aggregate number of positions that may be held by any 
-                person for all months; and
-                    ``(B) to the maximum extent practicable, in its 
-                discretion--
-                          ``(i) to diminish, eliminate, or prevent 
-                      excessive speculation as described under this 
-                      section;
-                          ``(ii) to deter and prevent market 
-                      manipulation, squeezes, and corners;
-                          ``(iii) to ensure sufficient market liquidity 
-                      for bona fide hedgers; and
-                          ``(iv) to ensure that the price discovery 
-                      function of the underlying market is not 
-                      disrupted.
-            ``(4) Significant price discovery function.--In making a 
-        determination whether a swap performs or affects a significant 
-        price discovery function with respect to regulated markets, the 
-        Commission shall consider, as appropriate:
-
-
-                    ``(A) Price linkage.--The extent to which the swap 
-                uses or otherwise relies on a daily or final settlement 
-                price, or other major price parameter, of another 
-                contract traded on a regulated market based upon the 
-                same underlying commodity, to value a position, transfer 
-                or convert a position, financially settle a position, or 
-                close out a position.
-                    ``(B) Arbitrage.--The extent to which the price for 
-                the swap is sufficiently related to the price of another 
-                contract traded on a regulated market based upon the 
-                same underlying commodity so as to permit market 
-                participants to effectively arbitrage between the 
-                markets by simultaneously maintaining positions or 
-                executing trades in the swaps on a frequent and 
-                recurring basis.
-                    ``(C) Material price reference.--The extent to 
-                which, on a frequent and recurring basis, bids, offers, 
-                or transactions in a contract traded on a regulated 
-                market are directly based on, or are determined by 
-                referencing, the price generated by the swap.
-                    ``(D) Material liquidity.--The extent to which the 
-                volume of swaps being traded in the commodity is 
-                sufficient to have a material effect on another contract 
-                traded on a regulated market.
-                    ``(E) Other material factors.--Such other material 
-                factors as the Commission specifies by rule or 
-                regulation as relevant to determine whether a swap 
-                serves a significant price discovery function with 
-                respect to a regulated market.
-            ``(5) Economically equivalent contracts.--
-                    ``(A) Notwithstanding any other provision of this 
-                section, the Commission shall establish limits on the 
-                amount of positions, including aggregate position 
-                limits, as appropriate, other than bona fide hedge 
-                positions, that may be held by any person with respect 
-                to swaps that are economically equivalent to contracts 
-                of sale for future delivery or to options on the 
-                contracts or commodities traded on or subject to the 
-                rules of a designated contract market subject to 
-                paragraph (2).
-                    ``(B) In establishing limits pursuant to 
-                subparagraph (A), the Commission shall--
-                          ``(i) develop the limits concurrently with 
-                      limits established under paragraph (2), and the 
-                      limits shall have similar requirements as under 
-                      paragraph (3)(B); and
-                          ``(ii) establish the limits simultaneously 
-                      with limits established under paragraph (2).
-            ``(6) &lt;&lt;NOTE: Contracts.&gt;&gt;  Aggregate position limits.--The 
-        Commission shall, by rule or regulation, establish limits 
-        (including related hedge exemption provisions) on the aggregate 
-        number or amount of positions in contracts based upon the same 
-        underlying commodity (as defined by the Commission) that may be 
-        held by any person, including any group or class of traders, for 
-        each month across--
-                    ``(A) contracts listed by designated contract 
-                markets;
-                    ``(B) with respect to an agreement contract, or 
-                transaction that settles against any price (including 
-                the daily or final settlement price) of 1 or more 
-                contracts listed
-
-
-                for trading on a registered entity, contracts traded on 
-                a foreign board of trade that provides members or other 
+    (a) In General.--Section 4(b) of the Commodity Exchange Act (7 
+U.S.C. 6(b)) is amended--
+            (1) in the first sentence, by striking ``The Commission'' 
+        and inserting the following:
+            ``(2) Persons located in the united states.--
+                    ``(A) In general.--The Commission'';
+            (2) in the second sentence, by striking ``Such rules and 
+        regulations'' and inserting the following:
+                    ``(B) Different requirements.--Rules and regulations 
+                described in subparagraph (A)'';
+            (3) in the third sentence--
+                    (A) by striking ``No rule or regulation'' and 
+                inserting the following:
+                    ``(C) Prohibition.--Except as provided in paragraphs 
+                (1) and (2), no rule or regulation'';
+                    (B) by striking ``that (1) requires'' and inserting 
+                the following: ``that--
+                          ``(i) requires''; and
+                    (C) by striking ``market, or (2) governs'' and 
+                inserting the following: ``market; or
+                          ``(ii) governs''; and
+            (4) by inserting before paragraph (2) (as designated by 
+        paragraph (1)) the following:
+            ``(1) Foreign boards of trade.--
+                    ``(A) Registration.--The Commission may adopt rules 
+                and regulations requiring registration with the 
+                Commission for a foreign board of trade that provides 
+                the members of the foreign board of trade or other 
                 participants located in the United States with direct 
-                access to its electronic trading and order matching 
-                system; and
-                    ``(C) swap contracts that perform or affect a 
-                significant price discovery function with respect to 
-                regulated entities.
-            ``(7) Exemptions.--The Commission, by rule, regulation, or 
-        order, may exempt, conditionally or unconditionally, any person 
-        or class of persons, any swap or class of swaps, any contract of 
-        sale of a commodity for future delivery or class of such 
-        contracts, any option or class of options, or any transaction or 
-        class of transactions from any requirement it may establish 
-        under this section with respect to position limits.''.
+                access to the electronic trading and order matching 
+                system of the foreign board of trade, including rules 
+                and regulations prescribing procedures and requirements 
+                applicable to the registration of such foreign boards of 
+                trade. For purposes of this paragraph, `direct access' 
+                refers to an explicit grant of authority by a foreign 
+                board of trade to an identified member or other 
+                participant located in the United States to enter trades 
+                directly into the trade matching system of the foreign 
+                board of trade. In adopting such rules and regulations, 
+                the commission shall consider--
+                          ``(i) whether any such foreign board of trade 
+                      is subject to comparable, comprehensive 
+                      supervision and regulation by the appropriate 
+                      governmental authorities in the foreign board of 
+                      trade's home country; and
+                          ``(ii) any previous commission findings that 
+                      the foreign board of trade is subject to 
+                      comparable comprehensive supervision and 
+                      regulation by the appropriate government 
+                      authorities in the foreign board of trade's home 
+                      country.
+                    ``(B) Linked contracts.--The Commission may not 
+                permit a foreign board of trade to provide to the 
+                members of the foreign board of trade or other 
+                participants located in the United States direct access 
+                to the electronic trading and order-matching system of 
+                the foreign board of trade with respect to an agreement, 
+                contract, or transaction that settles against any price 
+                (including the daily or final settlement price) of 1 or 
+                more contracts listed for trading on
 
-    (b) Conforming Amendments.--Section 4a(b) of the Commodity Exchange 
-Act (7 U.S.C. 6a(b)) is amended--
-            (1) in paragraph (1), by striking ``or derivatives 
-        transaction execution facility or facilities or electronic 
-        trading facility'' and inserting ``or swap execution facility or 
-        facilities''; and
-            (2) in paragraph (2), by striking ``or derivatives 
-        transaction execution facility or facilities or electronic 
-        trading facility'' and inserting ``or swap execution facility''.
 
-    (c) Bona Fide Hedging Transaction.--Section 4a(c) of the Commodity 
-Exchange Act is amended--
-            (1) by inserting ``(1)'' after ``(c)''; and
+                a registered entity, unless the Commission determines 
+                that--
+                          ``(i) the foreign board of trade makes public 
+                      daily trading information regarding the agreement, 
+                      contract, or transaction that is comparable to the 
+                      daily trading information published by the 
+                      registered entity for the 1 or more contracts 
+                      against which the agreement, contract, or 
+                      transaction traded on the foreign board of trade 
+                      settles; and
+                          ``(ii) the foreign board of trade (or the 
+                      foreign futures authority that oversees the 
+                      foreign board of trade)--
+                                    ``(I) adopts position limits 
+                                (including related hedge exemption 
+                                provisions) for the agreement, contract, 
+                                or transaction that are comparable to 
+                                the position limits (including related 
+                                hedge exemption provisions) adopted by 
+                                the registered entity for the 1 or more 
+                                contracts against which the agreement, 
+                                contract, or transaction traded on the 
+                                foreign board of trade settles;
+                                    ``(II) has the authority to require 
+                                or direct market participants to limit, 
+                                reduce, or liquidate any position the 
+                                foreign board of trade (or the foreign 
+                                futures authority that oversees the 
+                                foreign board of trade) determines to be 
+                                necessary to prevent or reduce the 
+                                threat of price manipulation, excessive 
+                                speculation as described in section 4a, 
+                                price distortion, or disruption of 
+                                delivery or the cash settlement process;
+                                    ``(III) &lt;&lt;NOTE: Notification.&gt;&gt;  
+                                agrees to promptly notify the 
+                                Commission, with regard to the 
+                                agreement, contract, or transaction that 
+                                settles against any price (including the 
+                                daily or final settlement price) of 1 or 
+                                more contracts listed for trading on a 
+                                registered entity, of any change 
+                                regarding--
+                                            ``(aa) &lt;&lt;NOTE: Public 
+                                        information.&gt;&gt;  the information 
+                                        that the foreign board of trade 
+                                        will make publicly available;
+                                            ``(bb) the position limits 
+                                        that the foreign board of trade 
+                                        or foreign futures authority 
+                                        will adopt and enforce;
+                                            ``(cc) the position 
+                                        reductions required to prevent 
+                                        manipulation, excessive 
+                                        speculation as described in 
+                                        section 4a, price distortion, or 
+                                        disruption of delivery or the 
+                                        cash settlement process; and
+                                            ``(dd) any other area of 
+                                        interest expressed by the 
+                                        Commission to the foreign board 
+                                        of trade or foreign futures 
+                                        authority;
+                                    ``(IV) provides information to the 
+                                Commission regarding large trader 
+                                positions in the agreement, contract, or 
+                                transaction that is comparable to the 
+                                large trader position information 
+                                collected by the Commission for the 1 or 
+                                more contracts against which the 
+                                agreement, contract, or transaction 
+                                traded on the foreign board of trade 
+                                settles; and
+                                    ``(V) &lt;&lt;NOTE: Reports.&gt;&gt;  provides 
+                                the Commission such information as is 
+                                necessary to publish reports on 
+                                aggregate
+
+
+                                trader positions for the agreement, 
+                                contract, or transaction traded on the 
+                                foreign board of trade that are 
+                                comparable to such reports on aggregate 
+                                trader positions for the 1 or more 
+                                contracts against which the agreement, 
+                                contract, or transaction traded on the 
+                                foreign board of trade settles.
+                    ``(C) &lt;&lt;NOTE: Effective date.&gt;&gt;  Existing foreign 
+                boards of trade.--Subparagraphs (A) and (B) shall not be 
+                effective with respect to any foreign board of trade to 
+                which, prior to the date of enactment of this paragraph, 
+                the Commission granted direct access permission until 
+                the date that is 180 days after that date of 
+                enactment.''.
+
+    (b) Liability of Registered Persons Trading on a Foreign Board of 
+Trade.--Section 4 of the Commodity Exchange Act (7 U.S.C. 6) is 
+amended--
+            (1) in subsection (a), in the matter preceding paragraph 
+        (1), by inserting ``or by subsection (e)'' after ``Unless 
+        exempted by the Commission pursuant to subsection (c)''; and
             (2) by adding at the end the following:
-            ``(2) &lt;&lt;NOTE: Contracts.&gt;&gt;  For the purposes of 
-        implementation of subsection (a)(2) for contracts of sale for 
-        future delivery or options on the contracts or commodities, the 
-        Commission shall define what constitutes a bona fide hedging 
-        transaction or position as a transaction or position that--
-                    ``(A)(i) represents a substitute for transactions 
-                made or to be made or positions taken or to be taken at 
-                a later time in a physical marketing channel;
-                    ``(ii) is economically appropriate to the reduction 
-                of risks in the conduct and management of a commercial 
-                enterprise; and
-                    ``(iii) arises from the potential change in the 
-                value of--
-                          ``(I) assets that a person owns, produces, 
-                      manufactures, processes, or merchandises or 
-                      anticipates owning, producing, manufacturing, 
-                      processing, or merchandising;
-                          ``(II) liabilities that a person owns or 
-                      anticipates incurring; or
-                          ``(III) services that a person provides, 
-                      purchases, or anticipates providing or purchasing; 
-                      or
-                    ``(B) reduces risks attendant to a position 
-                resulting from a swap that--
-                          ``(i) was executed opposite a counterparty for 
-                      which the transaction would qualify as a bona fide 
-                      hedging transaction pursuant to subparagraph (A); 
-                      or
-                          ``(ii) meets the requirements of subparagraph 
-                      (A).''.
 
-    (d) &lt;&lt;NOTE: 7 USC 6a note.&gt;&gt;  Effective Date.--This section and the 
-amendments made by this section shall become effective on the date of 
-the enactment of this section.
+    ``(e) Liability of Registered Persons Trading on a Foreign Board of 
+Trade.--
+            ``(1) In general.--A person registered with the Commission, 
+        or exempt from registration by the Commission, under this Act 
+        may not be found to have violated subsection (a) with respect to 
+        a transaction in, or in connection with, a contract of sale of a 
+        commodity for future delivery if the person--
+                    ``(A) has reason to believe that the transaction and 
+                the contract is made on or subject to the rules of a 
+                foreign board of trade that is--
+                          ``(i) legally organized under the laws of a 
+                      foreign country;
+                          ``(ii) authorized to act as a board of trade 
+                      by a foreign futures authority; and
+                          ``(iii) subject to regulation by the foreign 
+                      futures authority; and
+                    ``(B) has not been determined by the Commission to 
+                be operating in violation of subsection (a).
+            ``(2) Rule of construction.--Nothing in this subsection 
+        shall be construed as implying or creating any presumption that 
+        a board of trade, exchange, or market is located outside the 
+        United States, or its territories or possessions, for purposes 
+        of subsection (a).''.
+
+    (c) Contract Enforcement for Foreign Futures Contracts.--Section 
+22(a) of the Commodity Exchange Act (7 U.S.C. 25(a)) (as amended by 
+section 739) is amended by adding at the end the following:
+    ``(6) Contract Enforcement for Foreign Futures Contracts.--A 
+contract of sale of a commodity for future delivery traded or executed 
+on or through the facilities of a board of trade, exchange, or market 
+located outside the United States for purposes of section 4(a) shall not 
+be void, voidable, or unenforceable, and a party to such a contract 
+shall not be entitled to rescind or recover any payment made with 
+respect to the contract, based on the failure of the foreign board of 
+trade to comply with any provision of this Act.''.
 
 

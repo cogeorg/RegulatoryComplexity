@@ -1,12 +1,175 @@
 
-    Section 5(d) of Public Law 93-100 (12 U.S.C. 1470(a)) is amended--
-            (1) in paragraph (1), by striking ``Federal Savings and Loan 
-        Insurance Corporation with respect to insured institutions, the 
-        Board of Governors of the Federal Reserve System with respect to 
-        State member insured banks, and the Federal Deposit Insurance 
-        Corporation with respect to State nonmember insured banks'' and 
-        inserting ``appropriate Federal banking agency, with respect to 
-        the institutions subject to the jurisdiction of each such 
-        agency,''; and
-            (2) in paragraph (2), by striking ``supervisory'' and 
-        inserting ``banking''.
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended--
+            (1) in section 3(a)(34) (15 U.S.C. 78c(a)(34))--
+                    (A) in subparagraph (A)--
+
+
+                          (i) in clause (i), by striking ``or a 
+                      subsidiary or a department or division of any such 
+                      bank'' and inserting ``a subsidiary or a 
+                      department or division of any such bank, a Federal 
+                      savings association (as defined in section 3(b)(2) 
+                      of the Federal Deposit Insurance Act (12 U.S.C. 
+                      1813(b)(2))), the deposits of which are insured by 
+                      the Federal Deposit Insurance Corporation, or a 
+                      subsidiary or department or division of any such 
+                      Federal savings association'';
+                          (ii) in clause (ii), by striking ``or a 
+                      subsidiary or a department or division of such 
+                      subsidiary'' and inserting ``a subsidiary or a 
+                      department or division of such subsidiary, or a 
+                      savings and loan holding company'';
+                          (iii) in clause (iii), by striking ``or a 
+                      subsidiary or department or division thereof;'' 
+                      and inserting ``a subsidiary or department or 
+                      division of any such bank, a State savings 
+                      association (as defined in section 3(b)(3) of the 
+                      Federal Deposit Insurance Act (12 U.S.C. 
+                      1813(b)(3))), the deposits of which are insured by 
+                      the Federal Deposit Insurance Corporation, or a 
+                      subsidiary or a department or division of any such 
+                      State savings association; and'';
+                          (iv) by striking clause (iv); and
+                          (v) by redesignating clause (v) as clause 
+                      (iv);
+                    (B) in subparagraph (B)--
+                          (i) in clause (i), by striking ``or a 
+                      subsidiary of any such bank'' and inserting ``a 
+                      subsidiary of any such bank, a Federal savings 
+                      association (as defined in section 3(b)(2) of the 
+                      Federal Deposit Insurance Act (12 U.S.C. 
+                      1813(b)(2))), the deposits of which are insured by 
+                      the Federal Deposit Insurance Corporation, or a 
+                      subsidiary of any such Federal savings 
+                      association'';
+                          (ii) in clause (ii), by striking ``or a 
+                      subsidiary of a bank holding company which is a 
+                      bank other than a bank specified in clause (i), 
+                      (iii), or (iv) of this subparagraph'' and 
+                      inserting ``a subsidiary of a bank holding company 
+                      that is a bank other than a bank specified in 
+                      clause (i) or (iii) of this subparagraph, or a 
+                      savings and loan holding company'';
+                          (iii) in clause (iii), by striking ``or a 
+                      subsidiary thereof;'' and inserting ``a subsidiary 
+                      of any such bank, a State savings association (as 
+                      defined in section 3(b)(3) of the Federal Deposit 
+                      Insurance Act (12 U.S.C. 1813(b)(3))), the 
+                      deposits of which are insured by the Federal 
+                      Deposit Insurance Corporation, or a subsidiary of 
+                      any such State savings association; and'';
+                          (iv) by striking clause (iv); and
+                          (v) by redesignating clause (v) as clause 
+                      (iv);
+                    (C) in subparagraph (C)--
+                          (i) in clause (i), by striking ``bank'' and 
+                      inserting ``bank or a Federal savings association 
+                      (as defined in section 3(b)(2) of the Federal 
+                      Deposit Insurance Act (12 U.S.C. 1813(b)(2))), the 
+                      deposits of which are insured by the Federal 
+                      Deposit Insurance Corporation'';
+
+
+                          (ii) in clause (ii), by striking ``or a 
+                      subsidiary of a bank holding company which is a 
+                      bank other than a bank specified in clause (i), 
+                      (iii), or (iv) of this subparagraph'' and 
+                      inserting ``a subsidiary of a bank holding company 
+                      that is a bank other than a bank specified in 
+                      clause (i) or (iii) of this subparagraph, or a 
+                      savings and loan holding company'';
+                          (iii) in clause (iii), by striking ``System)'' 
+                      and inserting, ``System) or a State savings 
+                      association (as defined in section 3(b)(3) of the 
+                      Federal Deposit Insurance Act (12 U.S.C. 
+                      1813(b)(3))), the deposits of which are insured by 
+                      the Federal Deposit Insurance Corporation; and'';
+                          (iv) by striking clause (iv); and
+                          (v) by redesignating clause (v) as clause 
+                      (iv);
+                    (D) in subparagraph (D)--
+                          (i) in clause (i), by inserting after ``bank'' 
+                      the following: ``or a Federal savings association 
+                      (as defined in section 3(b)(2) of the Federal 
+                      Deposit Insurance Act (12 U.S.C. 1813(b)(2))), the 
+                      deposits of which are insured by the Federal 
+                      Deposit Insurance Corporation'';
+                          (ii) in clause (ii), by adding ``and'' at the 
+                      end;
+                          (iii) by striking clause (iii);
+                          (iv) by redesignating clause (iv) as clause 
+                      (iii); and
+                          (v) in clause (iii), as so redesignated, by 
+                      inserting after ``bank'' the following: ``or a 
+                      State savings association (as defined in section 
+                      3(b)(3) of the Federal Deposit Insurance Act (12 
+                      U.S.C. 1813(b)(3))), the deposits of which are 
+                      insured by the Federal Deposit Insurance 
+                      Corporation'';
+                    (E) in subparagraph (F)--
+                          (i) in clause (i), by inserting after ``bank'' 
+                      the following: ``or a Federal savings association 
+                      (as defined in section 3(b)(2) of the Federal 
+                      Deposit Insurance Act (12 U.S.C. 1813(b)(2))), the 
+                      deposits of which are insured by the Federal 
+                      Deposit Insurance Corporation'';
+                          (ii) by striking clause (ii);
+                          (iii) by redesignating clauses (iii), (iv), 
+                      and (v) as clauses (ii), (iii), and (iv), 
+                      respectively; and
+                          (iv) in clause (iii), as so redesignated, by 
+                      inserting before the semicolon the following: ``or 
+                      a State savings association (as defined in section 
+                      3(b)(3) of the Federal Deposit Insurance Act (12 
+                      U.S.C. 1813(b)(3))), the deposits of which are 
+                      insured by the Federal Deposit Insurance 
+                      Corporation'';
+                    (F) in subparagraph (G)--
+                          (i) in clause (i), by inserting after 
+                      ``national bank'' the following: ``, a Federal 
+                      savings association (as defined in section 3(b)(2) 
+                      of the Federal Deposit Insurance Act), the 
+                      deposits of which are insured by the Federal 
+                      Deposit Insurance Corporation,'';
+                          (ii) in clause (iii)--
+                                    (I) by inserting after ``bank)'' the 
+                                following: ``, a State savings 
+                                association (as defined in section 
+                                3(b)(3) of the Federal Deposit Insurance 
+                                Act), the deposits of which are insured 
+                                by the Federal Deposit Insurance 
+                                Corporation,''; and
+
+
+                                    (II) by adding ``and'' at the end;
+                          (iii) by striking clause (iv); and
+                          (iv) by redesignating clause (v) as clause 
+                      (iv); and
+                    (G) in the undesignated matter following 
+                subparagraph (H), by striking ``, and the term `District 
+                of Columbia savings and loan association' means any 
+                association subject to examination and supervision by 
+                the Office of Thrift Supervision under section 8 of the 
+                Home Owners' Loan Act of 1933'';
+            (2) in section 12(i) (15 U.S.C. 78l(i))--
+                    (A) in paragraph (1), by inserting after ``national 
+                banks'' the following: ``and Federal savings 
+                associations, the accounts of which are insured by the 
+                Federal Deposit Insurance Corporation'';
+                    (B) by striking ``(3)'' and all that follows through 
+                ``vested in the Office of Thrift Supervision'' and 
+                inserting ``and (3) with respect to all other insured 
+                banks and State savings associations, the accounts of 
+                which are insured by the Federal Deposit Insurance 
+                Corporation, are vested in the Federal Deposit Insurance 
+                Corporation''; and
+                    (C) in the second sentence, by striking ``the 
+                Federal Deposit Insurance Corporation, and the Office of 
+                Thrift Supervision'' and inserting ``and the Federal 
+                Deposit Insurance Corporation'';
+            (3) in section 15C(g)(1) (15 U.S.C. 78o-5(g)(1)), by 
+        striking ``the Director of the Office of Thrift Supervision, the 
+        Federal Savings and Loan Insurance Corporation,''; and
+            (4) in section 23(b)(1) (15 U.S.C. 78w(b)(1)), by striking 
+        ``, other than the Office of Thrift Supervision,''.

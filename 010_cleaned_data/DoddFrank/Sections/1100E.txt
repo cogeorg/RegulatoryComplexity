@@ -1,13 +1,18 @@
 
-    (a) Designation as an Independent Agency.--Section 2(5) of the 
-Paperwork Reduction Act (44 U.S.C. 3502(5)) is amended by inserting 
-``the Bureau of Consumer Financial Protection, the Office of Financial 
-Research,'' after ``the Securities and Exchange Commission,''.
-    (b) Comparable Treatment.--Section 3513 of title 44, United States 
-Code, is amended by adding at the end the following:
-    ``(c) Comparable Treatment.--Notwithstanding any other provision of 
-law, the Director shall treat or review a rule or order prescribed or 
-proposed by the Director of the Bureau of Consumer Financial Protection 
-on the same terms and conditions as apply to any rule or order 
-prescribed or proposed by the Board of Governors of the Federal Reserve 
-System.''.
+    (a) Caps.--
+            (1) Credit transactions.--Section 104(3) of the Truth in 
+        Lending Act (15 U.S.C. 1603(3)) is amended by striking 
+        ``$25,000'' and inserting ``$50,000''.
+            (2) Consumer leases.--Section 181(1) of the Truth in Lending 
+        Act (15 U.S.C. 1667(1)) is amended by striking ``$25,000'' and 
+        inserting ``$50,000''.
+
+    (b) Adjustments for Inflation.--On &lt;&lt;NOTE: Deadline. 15 USC 1603 
+note.&gt;&gt; and after December 31, 2011, the Bureau shall adjust annually 
+the dollar amounts described in sections 104(3) and 181(1) of the Truth 
+in Lending Act (as amended by this section), by the annual percentage 
+increase in the Consumer Price Index for Urban Wage Earners and Clerical 
+Workers, as published by the Bureau of Labor Statistics, rounded to the 
+nearest multiple of $100, or $1,000, as applicable.
+
+

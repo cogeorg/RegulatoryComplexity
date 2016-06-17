@@ -1,40 +1,44 @@
+                          RESIDENTIAL MORTGAGE LOANS.
 
-    Section 128(a) of Truth in Lending Act (15 U.S.C. 1638(a)) is 
-amended by adding at the end the following new paragraphs:
+    Section 128 of the Truth in Lending Act (15 U.S.C. 1638) is amended 
+by adding at the end the following new subsection:
+    ``(f) Periodic Statements for Residential Mortgage Loans.--
+            ``(1) In general.--The creditor, assignee, or servicer with 
+        respect to any residential mortgage loan shall transmit to the 
+        obligor, for each billing cycle, a statement setting forth each 
+        of the following items, to the extent applicable, in a 
+        conspicuous and prominent manner:
+                    ``(A) The amount of the principal obligation under 
+                the mortgage.
+                    ``(B) The current interest rate in effect for the 
+                loan.
+                    ``(C) The date on which the interest rate may next 
+                reset or adjust.
+                    ``(D) The amount of any prepayment fee to be 
+                charged, if any.
+                    ``(E) A description of any late payment fees.
+                    ``(F) A telephone number and electronic mail address 
+                that may be used by the obligor to obtain information 
+                regarding the mortgage.
 
 
-            ``(16) In the case of a variable rate residential mortgage 
-        loan for which an escrow or impound account will be established 
-        for the payment of all applicable taxes, insurance, and 
-        assessments--
-                    ``(A) the amount of initial monthly payment due 
-                under the loan for the payment of principal and 
-                interest, and the amount of such initial monthly payment 
-                including the monthly payment deposited in the account 
-                for the payment of all applicable taxes, insurance, and 
-                assessments; and
-                    ``(B) the amount of the fully indexed monthly 
-                payment due under the loan for the payment of principal 
-                and interest, and the amount of such fully indexed 
-                monthly payment including the monthly payment deposited 
-                in the account for the payment of all applicable taxes, 
-                insurance, and assessments.
-            ``(17) In the case of a residential mortgage loan, the 
-        aggregate amount of settlement charges for all settlement 
-        services provided in connection with the loan, the amount of 
-        charges that are included in the loan and the amount of such 
-        charges the borrower must pay at closing, the approximate amount 
-        of the wholesale rate of funds in connection with the loan, and 
-        the aggregate amount of other fees or required payments in 
-        connection with the loan.
-            ``(18) In the case of a residential mortgage loan, the 
-        aggregate amount of fees paid to the mortgage originator in 
-        connection with the loan, the amount of such fees paid directly 
-        by the consumer, and any additional amount received by the 
-        originator from the creditor.
-            ``(19) In the case of a residential mortgage loan, the total 
-        amount of interest that the consumer will pay over the life of 
-        the loan as a percentage of the principal of the loan. Such 
-        amount shall be computed assuming the consumer makes each 
-        monthly payment in full and on-time, and does not make any over-
-        payments.''.
+                    ``(G) The names, addresses, telephone numbers, and 
+                Internet addresses of counseling agencies or programs 
+                reasonably available to the consumer that have been 
+                certified or approved and made publicly available by the 
+                Secretary of Housing and Urban Development or a State 
+                housing finance authority (as defined in section 1301 of 
+                the Financial Institutions Reform, Recovery, and 
+                Enforcement Act of 1989).
+                    ``(H) Such other information as the Board may 
+                prescribe in regulations.
+            ``(2) Development and use of standard form.--The Board shall 
+        develop and prescribe a standard form for the disclosure 
+        required under this subsection, taking into account that the 
+        statements required may be transmitted in writing or 
+        electronically.
+            ``(3) Exception.--Paragraph (1) shall not apply to any fixed 
+        rate residential mortgage loan where the creditor, assignee, or 
+        servicer provides the obligor with a coupon book that provides 
+        the obligor with substantially the same information as required 
+        in paragraph (1).''.

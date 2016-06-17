@@ -1,24 +1,49 @@
-                        SECURITIES.
+                        AUTHORITIES.
 
-    (a) &lt;&lt;NOTE: Establishment.&gt;&gt;  In General.--There shall be in the 
-Commission an Office of Municipal Securities, which shall--
-            (1) administer the rules of the Commission with respect to 
-        the practices of municipal securities brokers and dealers, 
-        municipal securities advisors, municipal securities investors, 
-        and municipal securities issuers; and
-            (2) coordinate with the Municipal Securities Rulemaking 
-        Board for rulemaking and enforcement actions as required by law.
+    (a) Definition.--Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 
+U.S.C. 7201(a)) is amended by adding at the end the following:
+            ``(17) Foreign auditor oversight authority.--The term 
+        `foreign auditor oversight authority' means any governmental 
+        body or other entity empowered by a foreign government to 
+        conduct inspections of public accounting firms or otherwise to 
+        administer or enforce laws related to the regulation of public 
+        accounting firms.''.
 
-    (b) Director of the Office.--The head of the Office of Municipal 
-Securities shall be the Director, who shall report to the Chairman.
-    (c) Staffing.--
-            (1) In general.--The Office of Municipal Securities shall be 
-        staffed sufficiently to carry out the requirements of this 
-        section.
-            (2) Requirement.--The staff of the Office of Municipal 
-        Securities shall include individuals with knowledge of and 
-        expertise in municipal finance.
+    (b) Availability to Share Information.--Section 105(b)(5) of the 
+Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)) is amended by adding 
+at the end the following:
+                    ``(C) Availability to foreign oversight 
+                authorities.--Without the loss of its status as 
+                confidential and privileged in the hands of the Board, 
+                all information referred to in subparagraph (A) that 
+                relates to a public accounting firm that a foreign 
+                government has empowered
 
-    Subtitle I--Public Company Accounting Oversight Board, Portfolio 
-                      Margining, and Other Matters
 
+                a foreign auditor oversight authority to inspect or 
+                otherwise enforce laws with respect to, may, at the 
+                discretion of the Board, be made available to the 
+                foreign auditor oversight authority, if--
+                          ``(i) the Board finds that it is necessary to 
+                      accomplish the purposes of this Act or to protect 
+                      investors;
+                          ``(ii) the foreign auditor oversight authority 
+                      provides--
+                                    ``(I) such assurances of 
+                                confidentiality as the Board may 
+                                request;
+                                    ``(II) a description of the 
+                                applicable information systems and 
+                                controls of the foreign auditor 
+                                oversight authority; and
+                                    ``(III) a description of the laws 
+                                and regulations of the foreign 
+                                government of the foreign auditor 
+                                oversight authority that are relevant to 
+                                information access; and
+                          ``(iii) the Board determines that it is 
+                      appropriate to share such information.''.
+
+    (c) Conforming Amendment.--Section 105(b)(5)(A) of the Sarbanes-
+Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(A)) is amended by striking 
+``subparagraph (B)'' and inserting ``subparagraphs (B) and (C)''.

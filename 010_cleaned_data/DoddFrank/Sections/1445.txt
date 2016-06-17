@@ -1,63 +1,42 @@
+                          PROGRAMS.
 
-    Section 106(a) of the Housing and Urban Development Act of 1968 (12 
-U.S.C. 1701x(a)) is amended by adding at the end the following new 
-paragraph:
-    ``(4) Homeownership and Rental Counseling Assistance.--
-            ``(A) In general.--The Secretary shall make financial 
-        assistance available under this paragraph to HUD-approved 
-        housing counseling agencies and State housing finance agencies.
-            ``(B) Qualified entities.--
-        The &lt;&lt;NOTE: Standards. Guidelines.&gt;&gt;  Secretary shall establish 
-        standards and guidelines for eligibility of organizations 
-        (including governmental and nonprofit organizations) to receive 
-        assistance under this paragraph, in accordance with subparagraph 
-        (D).
-            ``(C) Distribution.--Assistance made available under this 
-        paragraph shall be distributed in a manner that encourages 
-        efficient and successful counseling programs and that ensures 
-        adequate distribution of amounts for rural areas having 
-        traditionally low levels of access to such counseling services, 
-        including areas with insufficient access to the Internet. In 
-        distributing such assistance, the Secretary may give priority 
-        consideration to entities serving areas with the highest home 
-        foreclosure rates.
-            ``(D) Limitation on distribution of assistance.--
-                    ``(i) In general.--None of the amounts made 
-                available under this paragraph shall be distributed to--
+    Section 106(e) of the Housing and Urban Development Act of 1968 (12 
+U.S.C. 1701x(e)) is amended--
+            (1) by striking paragraph (1) and inserting the following 
+        new paragraph:
+            ``(1) Requirement for assistance.--An organization may not 
+        receive assistance for counseling activities under subsection 
+        (a)(1)(iii), (a)(2), (a)(4), (c), or (d) of this section, or 
+        under section 101(e), unless the organization, or the 
+        individuals through which the organization provides such 
+        counseling, has been certified by the Secretary under this 
+        subsection as competent to provide such counseling.'';
+            (2) in paragraph (2)--
+                    (A) by inserting ``and for certifying 
+                organizations'' before the period at the end of the 
+                first sentence; and
+                    (B) in the second sentence by striking ``for 
+                certification'' and inserting ``, for certification of 
+                an organization, that each individual through which the 
+                organization provides counseling shall demonstrate, and, 
+                for certification of an individual,'';
+            (3) in paragraph (3), by inserting ``organizations and'' 
+        before ``individuals'';
+            (4) by redesignating paragraph (3) as paragraph (5); and
 
 
-                          ``(I) any organization which has been 
-                      convicted for a violation under Federal law 
-                      relating to an election for Federal office; or
-                          ``(II) any organization which employs 
-                      applicable individuals.
-                    ``(ii) Definition of applicable individuals.--In 
-                this subparagraph, the term `applicable individual' 
-                means an individual who--
-                          ``(I) is--
-                                    ``(aa) employed by the organization 
-                                in a permanent or temporary capacity;
-                                    ``(bb) contracted or retained by the 
-                                organization; or
-                                    ``(cc) acting on behalf of, or with 
-                                the express or apparent authority of, 
-                                the organization; and
-                          ``(II) has been convicted for a violation 
-                      under Federal law relating to an election for 
-                      Federal office.
-            ``(E) Grantmaking process.--In making assistance available 
-        under this paragraph, the Secretary shall consider appropriate 
-        ways of streamlining and improving the processes for grant 
-        application, review, approval, and award.
-            ``(F) Authorization of appropriations.--There are authorized 
-        to be appropriated $45,000,000 for each of fiscal years 2009 
-        through 2012 for--
-                    ``(i) the operations of the Office of Housing 
-                Counseling of the Department of Housing and Urban 
-                Development;
-                    ``(ii) the responsibilities of the Director of 
-                Housing Counseling under paragraphs (2) through (5) of 
-                subsection (g); and
-                    ``(iii) assistance pursuant to this paragraph for 
-                entities providing homeownership and rental 
-                counseling.''.
+            (5) by inserting after paragraph (2) the following new 
+        paragraphs:
+            ``(3) Requirement under hud programs.--Any homeownership 
+        counseling or rental housing counseling (as such terms are 
+        defined in subsection (g)(1)) required under, or provided in 
+        connection with, any program administered by the Department of 
+        Housing and Urban Development shall be provided only by 
+        organizations or counselors certified by the Secretary under 
+        this subsection as competent to provide such counseling.
+            ``(4) Outreach.--The Secretary shall take such actions as 
+        the Secretary considers appropriate to ensure that individuals 
+        and organizations providing homeownership or rental housing 
+        counseling are aware of the certification requirements and 
+        standards of this subsection and of the training and 
+        certification programs under subsection (f).''.

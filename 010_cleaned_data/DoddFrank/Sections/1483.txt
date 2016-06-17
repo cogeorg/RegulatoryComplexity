@@ -1,44 +1,46 @@
-                          PROGRAM GUIDELINES.
+                          INFORMATION OF MAKING HOME AFFORDABLE 
+                          PROGRAM.
 
-    (a) Net Present Value Input Data.--The Secretary of the Treasury (in 
-this section referred to as the ``Secretary'') shall revise the 
-supplemental directives and other guidelines for the Home Affordable 
-Modification Program of the Making Home Affordable initiative of the 
-Secretary of the Treasury, authorized under the Emergency Economic 
-Stabilization Act of 2008 (Public Law 110-343), to require each mortgage 
-servicer participating in such program to provide each borrower under a 
-mortgage whose request for a mortgage modification under the Program is 
-denied with all borrower-related and mortgage-related input data used in 
-any net present value (NPV) analyses performed in connection with the 
-subject mortgage. Such input data shall be provided to the borrower at 
-the time of such denial.
-    (b) Web-based Site for NPV Calculator and Application.--
-            (1) NPV calculator.--In carrying out the Home Affordable 
-        Modification Program, the Secretary shall establish and maintain 
-        a site on the World Wide Web that provides a calculator for net 
-        present value analyses of a mortgage, based on the Secretary's 
-        methodology for calculating such value, that mortgagors can use 
-        to enter information regarding their own mortgages and that 
-        provides a determination after entering such information 
-        regarding a mortgage of whether such mortgage would be accepted 
-        or rejected for modification under the Program, using such 
-        methodology.
-            (2) Disclosure.--Such Web site shall also prominently 
-        disclose that each mortgage servicer participating in such 
-        Program may use a method for calculating net present value of a 
-        mortgage that is different than the method used by such 
-        calculator.
-            (3) Application.--The Secretary shall make a reasonable 
-        effort to include on such World Wide Web site a method for 
-        homeowners to apply for a mortgage modification under the Home 
-        Affordable Modification Program.
+    (a) Revisions to Program Guidelines.--The Secretary of the Treasury 
+(in this section referred to as the ``Secretary'') shall revise the 
+guidelines for the Home Affordable Modification Program of the Making 
+Home Affordable initiative of the Secretary of the
 
-    (c) Public Availability of NPV Methodology, Computer Model, and 
-Variables.--The Secretary shall make publicly available, including by 
-posting on a World Wide Web site of the Secretary--
-            (1) the Secretary's methodology and computer model, 
-        including all formulae used in such computer model, used for 
-        calculating net present value of a mortgage that is used by the 
-        calculator established pursuant to subsection (b); and
-            (2) all non-proprietary variables used in such net present 
-        value analysis.
+
+Treasury, authorized under the Emergency Economic Stabilization Act of 
+2008 (Public Law 110-343), to provide that the data being collected by 
+the Secretary from each mortgage servicer and lender participating in 
+the Program is made public in accordance with subsection (b).
+    (b) &lt;&lt;NOTE: Deadlines.&gt;&gt;  Public Availability.--Data shall be made 
+available according to the following guidelines:
+            (1) &lt;&lt;NOTE: Reports. Web posting.&gt;&gt; Not more than 14 days 
+        after each monthly deadline for submission of data by mortgage 
+        servicers and lenders participating in the Program, reports 
+        shall be made publicly available by means of a World Wide Web 
+        site of the Secretary, and by submitting a report to the 
+        Congress, that shall includes the following information:
+                    (A) The number of requests for mortgage 
+                modifications under the Program that the servicer or 
+                lender has received.
+                    (B) The number of requests for mortgage 
+                modifications under the Program that the servicer or 
+                lender has processed.
+                    (C) The number of requests for mortgage 
+                modifications under the Program that the servicer or 
+                lender has approved.
+                    (D) The number of requests for mortgage 
+                modifications under the Program that the servicer or 
+                lender has denied.
+            (2) &lt;&lt;NOTE: Records.&gt;&gt; Not more than 60 days after each 
+        monthly deadline for submission of data by mortgage servicers 
+        and lenders participating in the Program, the Secretary shall 
+        make data tables available to the public at the individual 
+        record level. The &lt;&lt;NOTE: Regulations.&gt;&gt; Secretary shall issue 
+        regulations prescribing--
+                    (A) the procedures for disclosing such data to the 
+                public; and
+                    (B) such deletions as the Secretary may determine to 
+                be appropriate to protect any privacy interest of any 
+                mortgage modification applicant, including the deletion 
+                or alteration of the applicant's name and identification 
+                number.

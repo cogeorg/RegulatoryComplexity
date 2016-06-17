@@ -1,78 +1,51 @@
 
-    The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) is 
+    The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is 
 amended--
-            (1) by &lt;&lt;NOTE: 15 USC 1692k, 1692m, 1692o.&gt;&gt; striking 
-        ``Commission'' each place that term appears and inserting 
-        ``Bureau'';
-            (2) in section 803 (15 U.S.C. 1692a)--
-                    (A) by striking paragraph (1) and inserting the 
-                following:
-            ``(1) The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means the 
-        Bureau of Consumer Financial Protection.'';
-            (3) in section 814 (15 U.S.C. 1692l)--
-                    (A) by striking subsection (a) and inserting the 
-                following:
-
-    ``(a) Federal &lt;&lt;NOTE: Compliance.&gt;&gt; Trade Commission.--The Federal 
-Trade Commission shall be authorized to enforce compliance with this 
-title, except to the extent that enforcement of the requirements imposed 
-under this title is specifically committed to another Government agency 
-under any of paragraphs (1) through (5) of subsection (b), subject to 
-subtitle B of the Consumer Financial Protection Act of 2010. For purpose 
-of the exercise by the Federal Trade Commission of its functions and 
-powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a 
-violation of this title shall be deemed an unfair or deceptive act or 
-practice in violation of that Act. All of the functions and powers of 
-the Federal Trade Commission
+            (1) in section 8(t) (12 U.S.C. 1818(t)), by adding at the 
+        end the following:
 
 
-under the Federal Trade Commission Act are available to the Federal 
-Trade Commission to enforce compliance by any person with this title, 
-irrespective of whether that person is engaged in commerce or meets any 
-other jurisdictional tests under the Federal Trade Commission Act, 
-including the power to enforce the provisions of this title, in the same 
-manner as if the violation had been a violation of a Federal Trade 
-Commission trade regulation rule.''; and
-                    (B) in subsection (b)--
-                          (i) by striking ``Compliance'' and inserting 
-                      ``Subject to subtitle B of the Consumer Financial 
-                      Protection Act of 2010, compliance'';
-                          (ii) by striking paragraphs (1) and (2) and 
-                      inserting the following:
-            ``(1) section 8 of the Federal Deposit Insurance Act, by the 
-        appropriate Federal banking agency, as defined in section 3(q) 
-        of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with 
-        respect to--
-                    ``(A) national banks, Federal savings associations, 
-                and Federal branches and Federal agencies of foreign 
-                banks;
-                    ``(B) member banks of the Federal Reserve System 
-                (other than national banks), branches and agencies of 
-                foreign banks (other than Federal branches, Federal 
-                agencies, and insured State branches of foreign banks), 
-                commercial lending companies owned or controlled by 
-                foreign banks, and organizations operating under section 
-                25 or 25A of the Federal Reserve Act; and
-                    ``(C) banks and State savings associations insured 
-                by the Federal Deposit Insurance Corporation (other than 
-                members of the Federal Reserve System), and insured 
-                State branches of foreign banks;'';
-                          (iii) by redesignating paragraphs (3) through 
-                      (6), as paragraphs (2) through (5), respectively;
-                          (iv) in paragraph (4) (as so redesignated), by 
-                      striking ``and'' at the end;
-                          (v) in paragraph (5) (as so redesignated), by 
-                      striking the period at the end and inserting ``; 
-                      and''; and
-                          (vi) by inserting before the undesignated 
-                      matter at the end the following:
-            ``(6) subtitle E of the Consumer Financial Protection Act of 
-        2010, by the Bureau, with respect to any person subject to this 
-        title.''.
-            (4) in subsection (d), by striking ``Neither the 
-        Commission'' and all that follows through the end of the 
-        subsection and inserting the following: ``Except as provided in 
-        section 1029(a) of the Consumer Financial Protection Act of 
-        2010, the Bureau may prescribe rules with respect to the 
-        collection of debts by debt collectors, as defined in this 
-        title.''.
+            ``(6) Referral to bureau of consumer financial protection.--
+        Subject to subtitle B of the Consumer Financial Protection Act 
+        of 2010, each appropriate Federal banking agency shall make a 
+        referral to the Bureau of Consumer Financial Protection when the 
+        Federal banking agency has a reasonable belief that a violation 
+        of an enumerated consumer law, as defined in the Consumer 
+        Financial Protection Act of 2010, has been committed by any 
+        insured depository institution or institution-affiliated party 
+        within the jurisdiction of that appropriate Federal banking 
+        agency.''; and
+            (2) in section 43 (12 U.S.C. 1831t)--
+                    (A) in subsection (c), by striking ``Federal Trade 
+                Commission'' and inserting ``Bureau'';
+                    (B) in subsection (d), by striking ``Federal Trade 
+                Commission'' and inserting ``Bureau'';
+                    (C) in subsection (e)--
+                          (i) in paragraph (2), by striking ``Federal 
+                      Trade Commission'' and inserting ``Bureau''; and
+                          (ii) by adding at the end the following new 
+                      paragraph:
+            ``(5) Bureau.--The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means 
+        the Bureau of Consumer Financial Protection.''; and
+                    (D) in subsection (f)--
+                          (i) by striking paragraph (1) and inserting 
+                      the following:
+            ``(1) Limited enforcement authority.--Compliance with the 
+        requirements of subsections (b), (c), and (e), and any 
+        regulation prescribed or order issued under such subsection, 
+        shall be enforced under the Consumer Financial Protection Act of 
+        2010, by the Bureau, subject to subtitle B of the Consumer 
+        Financial Protection Act of 2010, and under the Federal Trade 
+        Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade 
+        Commission.''; and
+                          (ii) in paragraph (2), by striking 
+                      subparagraph (C) and inserting the following:
+                    ``(C) Limitation on state action while federal 
+                action pending.--If the Bureau or Federal Trade 
+                Commission has instituted an enforcement action for a 
+                violation of this section, no appropriate State 
+                supervisory agency may, during the pendency of such 
+                action, bring an action under this section against any 
+                defendant named in the complaint of the Bureau or 
+                Federal Trade Commission for any violation of this 
+                section that is alleged in that complaint.''.

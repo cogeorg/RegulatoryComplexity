@@ -1,12 +1,19 @@
 
-    The Bank Protection Act of 1968 (12 U.S.C. 1881 et seq.) is 
-amended--
-            (1) in section 2 (12 U.S.C. 1881), by striking ``the term'' 
-        and all that follows through the end of the section and 
-        inserting ``the &lt;&lt;NOTE: Definition.&gt;&gt; term `Federal supervisory 
-        agency' means the appropriate Federal banking agency, as defined 
-        in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 
-        1813(q)).'';
-            (2) in section 3 (12 U.S.C. 1882), by striking ``and loan'' 
-        each place that term appears; and
-            (3) in section 5 (12 U.S.C. 1884), by striking ``and loan''.
+    The Bank Service Company Act (12 U.S.C. 1861 et seq.) is amended--
+            (1) in section 1(b)(4) (12 U.S.C. 1861(b)(4))--
+                    (A) by inserting after ``an insured bank,'' the 
+                following: ``a savings association,'';
+                    (B) by striking ``Director of the Office of Thrift 
+                Supervision'' and inserting ``appropriate Federal 
+                banking agency''; and
+
+
+                    (C) by striking ``, the Federal Savings and Loan 
+                Insurance Corporation,'';
+            (2) in section 1(b)(5), by striking ``term `insured 
+        depository institution' has the same meaning as in section 
+        3(c)'' and inserting ``terms `depository institution' and 
+        `savings association' have the same meanings as in section 3''; 
+        and
+            (3) in section 7(c)(2) (12 U.S.C. 1867(c)(2)), by inserting 
+        ``each'' after ``notify''.

@@ -1,907 +1,231 @@
-Public Law No: 111-203 (07/21/2010)
 
-[111th Congress Public Law 203]
-[From the U.S. Government Printing Office]
-
-
-
-[[Page 1375]]
-
-        DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT
-
-
-Public Law 111-203
-111th Congress
-
-                                 An Act
-
-
- 
-  To promote the financial stability of the United States by improving 
- accountability and transparency in the financial system, to end ``too 
- big to fail'', to protect the American taxpayer by ending bailouts, to 
-  protect consumers from abusive financial services practices, and for 
-         other purposes. &lt;&lt;NOTE: July 21, 2010 -  [H.R. 4173]&gt;&gt; 
-
-    Be it enacted by the Senate and House of Representatives of the 
-United States of America in Congress assembled, &lt;&lt;NOTE: Dodd-Frank Wall 
-Street Reform and Consumer Protection Act.&gt;&gt; 
-SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
-
-    (a) Short &lt;&lt;NOTE: 12 USC 5301 note.&gt;&gt; Title.--This Act may be cited 
-as the ``Dodd-Frank Wall Street Reform and Consumer Protection Act''.
-
-    (b) Table of Contents.--The table of contents for this Act is as 
-follows:
-
-Sec. 1. Short title; table of contents.
-Sec. 2. Definitions.
-Sec. 3. Severability.
-Sec. 4. Effective date.
-Sec. 5. Budgetary effects.
-Sec. 6. Antitrust savings clause.
-
-                      TITLE I--FINANCIAL STABILITY
-
-Sec. 101. Short title.
-Sec. 102. Definitions.
-
-            Subtitle A--Financial Stability Oversight Council
-
-Sec. 111. Financial Stability Oversight Council established.
-Sec. 112. Council authority.
-Sec. 113. Authority to require supervision and regulation of certain 
-           nonbank financial companies.
-Sec. 114. Registration of nonbank financial companies supervised by the 
-           Board of Governors.
-Sec. 115. Enhanced supervision and prudential standards for nonbank 
-           financial companies supervised by the Board of Governors and 
-           certain bank holding companies.
-Sec. 116. Reports.
-Sec. 117. Treatment of certain companies that cease to be bank holding 
-           companies.
-Sec. 118. Council funding.
-Sec. 119. Resolution of supervisory jurisdictional disputes among member 
-           agencies.
-Sec. 120. Additional standards applicable to activities or practices for 
-           financial stability purposes.
-Sec. 121. Mitigation of risks to financial stability.
-Sec. 122. GAO Audit of Council.
-Sec. 123. Study of the effects of size and complexity of financial 
-           institutions on capital market efficiency and economic 
-           growth.
-
-                Subtitle B--Office of Financial Research
-
-Sec. 151. Definitions.
-Sec. 152. Office of Financial Research established.
-Sec. 153. Purpose and duties of the Office.
-Sec. 154. Organizational structure; responsibilities of primary 
-           programmatic units.
-Sec. 155. Funding.
-Sec. 156. Transition oversight.
-
-
-Subtitle C--Additional Board of Governors Authority for Certain Nonbank 
-             Financial Companies and Bank Holding Companies
-
-Sec. 161. Reports by and examinations of nonbank financial companies by 
-           the Board of Governors.
-Sec. 162. Enforcement.
-Sec. 163. Acquisitions.
-Sec. 164. Prohibition against management interlocks between certain 
-           financial companies.
-Sec. 165. Enhanced supervision and prudential standards for nonbank 
-           financial companies supervised by the Board of Governors and 
-           certain bank holding companies.
-Sec. 166. Early remediation requirements.
-Sec. 167. Affiliations.
-Sec. 168. Regulations.
-Sec. 169. Avoiding duplication.
-Sec. 170. Safe harbor.
-Sec. 171. Leverage and risk-based capital requirements.
-Sec. 172. Examination and enforcement actions for insurance and orderly 
-           liquidation purposes.
-Sec. 173. Access to United States financial market by foreign 
-           institutions.
-Sec. 174. Studies and reports on holding company capital requirements.
-Sec. 175. International policy coordination.
-Sec. 176. Rule of construction.
-
-                 TITLE II--ORDERLY LIQUIDATION AUTHORITY
-
-Sec. 201. Definitions.
-Sec. 202. Judicial review.
-Sec. 203. Systemic risk determination.
-Sec. 204. Orderly liquidation of covered financial companies.
-Sec. 205. Orderly liquidation of covered brokers and dealers.
-Sec. 206. Mandatory terms and conditions for all orderly liquidation 
-           actions.
-Sec. 207. Directors not liable for acquiescing in appointment of 
-           receiver.
-Sec. 208. Dismissal and exclusion of other actions.
-Sec. 209. Rulemaking; non-conflicting law.
-Sec. 210. Powers and duties of the Corporation.
-Sec. 211. Miscellaneous provisions.
-Sec. 212. Prohibition of circumvention and prevention of conflicts of 
-           interest.
-Sec. 213. Ban on certain activities by senior executives and directors.
-Sec. 214. Prohibition on taxpayer funding.
-Sec. 215. Study on secured creditor haircuts.
-Sec. 216. Study on bankruptcy process for financial and nonbank 
-           financial institutions
-Sec. 217. Study on international coordination relating to bankruptcy 
-           process for nonbank financial institutions
-
- TITLE III--TRANSFER OF POWERS TO THE COMPTROLLER OF THE CURRENCY, THE 
-                 CORPORATION, AND THE BOARD OF GOVERNORS
-
-Sec. 300. Short title.
-Sec. 301. Purposes.
-Sec. 302. Definition.
-
-                Subtitle A--Transfer of Powers and Duties
-
-Sec. 311. Transfer date.
-Sec. 312. Powers and duties transferred.
-Sec. 313. Abolishment.
-Sec. 314. Amendments to the Revised Statutes.
-Sec. 315. Federal information policy.
-Sec. 316. Savings provisions.
-Sec. 317. References in Federal law to Federal banking agencies.
-Sec. 318. Funding.
-Sec. 319. Contracting and leasing authority.
-
-                   Subtitle B--Transitional Provisions
-
-Sec. 321. Interim use of funds, personnel, and property of the Office of 
-           Thrift Supervision.
-Sec. 322. Transfer of employees.
-Sec. 323. Property transferred.
-Sec. 324. Funds transferred.
-Sec. 325. Disposition of affairs.
-Sec. 326. Continuation of services.
-
-
-Sec. 327. Implementation plan and reports.
-
-            Subtitle C--Federal Deposit Insurance Corporation
-
-Sec. 331. Deposit insurance reforms.
-Sec. 332. Elimination of procyclical assessments.
-Sec. 333. Enhanced access to information for deposit insurance purposes.
-Sec. 334. Transition reserve ratio requirements to reflect new 
-           assessment base.
-Sec. 335. Permanent increase in deposit and share insurance.
-Sec. 336. Management of the Federal Deposit Insurance Corporation.
-
-                        Subtitle D--Other Matters
-
-Sec. 341. Branching.
-Sec. 342. Office of Minority and Women Inclusion.
-Sec. 343. Insurance of transaction accounts.
-
-             Subtitle E--Technical and Conforming Amendments
-
-Sec. 351. Effective date.
-Sec. 352. Balanced Budget and Emergency Deficit Control Act of 1985.
-Sec. 353. Bank Enterprise Act of 1991.
-Sec. 354. Bank Holding Company Act of 1956.
-Sec. 355. Bank Holding Company Act Amendments of 1970.
-Sec. 356. Bank Protection Act of 1968.
-Sec. 357. Bank Service Company Act.
-Sec. 358. Community Reinvestment Act of 1977.
-Sec. 359. Crime Control Act of 1990.
-Sec. 360. Depository Institution Management Interlocks Act.
-Sec. 361. Emergency Homeowners' Relief Act.
-Sec. 362. Federal Credit Union Act.
-Sec. 363. Federal Deposit Insurance Act.
-Sec. 364. Federal Home Loan Bank Act.
-Sec. 365. Federal Housing Enterprises Financial Safety and Soundness Act 
-           of 1992.
-Sec. 366. Federal Reserve Act.
-Sec. 367. Financial Institutions Reform, Recovery, and Enforcement Act 
-           of 1989.
-Sec. 368. Flood Disaster Protection Act of 1973.
-Sec. 369. Home Owners' Loan Act.
-Sec. 370. Housing Act of 1948.
-Sec. 371. Housing and Community Development Act of 1992.
-Sec. 372. Housing and Urban-Rural Recovery Act of 1983.
-Sec. 373. National Housing Act.
-Sec. 374. Neighborhood Reinvestment Corporation Act.
-Sec. 375. Public Law 93-100.
-Sec. 376. Securities Exchange Act of 1934.
-Sec. 377. Title 18, United States Code.
-Sec. 378. Title 31, United States Code.
-
-       TITLE IV--REGULATION OF ADVISERS TO HEDGE FUNDS AND OTHERS
-
-Sec. 401. Short title.
-Sec. 402. Definitions.
-Sec. 403. Elimination of private adviser exemption; limited exemption 
-           for foreign private advisers; limited intrastate exemption.
-Sec. 404. Collection of systemic risk data; reports; examinations; 
-           disclosures.
-Sec. 405. Disclosure provision amendment.
-Sec. 406. Clarification of rulemaking authority.
-Sec. 407. Exemption of venture capital fund advisers.
-Sec. 408. Exemption of and record keeping by private equity fund 
-           advisers.
-Sec. 409. Family offices.
-Sec. 410. State and Federal responsibilities; asset threshold for 
-           Federal registration of investment advisers.
-Sec. 411. Custody of client assets.
-Sec. 412. Adjusting the accredited investor standard.
-Sec. 413. GAO study and report on accredited investors.
-Sec. 414. GAO study on self-regulatory organization for private funds.
-Sec. 415. Commission study and report on short selling.
-Sec. 416. Transition period.
-
-                           TITLE V--INSURANCE
-
-                Subtitle A--Office of National Insurance
-
-Sec. 501. Short title.
-Sec. 502. Federal Insurance Office.
-
-                Subtitle B--State-Based Insurance Reform
-
-Sec. 511. Short title.
-
-
-Sec. 512. Effective date.
-
-                      PART I--Nonadmitted Insurance
-
-Sec. 521. Reporting, payment, and allocation of premium taxes.
-Sec. 522. Regulation of nonadmitted insurance by insured's home State.
-Sec. 523. Participation in national producer database.
-Sec. 524. Uniform standards for surplus lines eligibility.
-Sec. 525. Streamlined application for commercial purchasers.
-Sec. 526. GAO study of nonadmitted insurance market.
-Sec. 527. Definitions.
-
-                          PART II--Reinsurance
-
-Sec. 531. Regulation of credit for reinsurance and reinsurance 
-           agreements.
-Sec. 532. Regulation of reinsurer solvency.
-Sec. 533. Definitions.
-
-                     PART III--Rule of Construction
-
-Sec. 541. Rule of construction.
-Sec. 542. Severability.
-
-  TITLE VI--IMPROVEMENTS TO REGULATION OF BANK AND SAVINGS ASSOCIATION 
-              HOLDING COMPANIES AND DEPOSITORY INSTITUTIONS
-
-Sec. 601. Short title.
-Sec. 602. Definition.
-Sec. 603. Moratorium and study on treatment of credit card banks, 
-           industrial loan companies, and certain other companies under 
-           the Bank Holding Company Act of 1956.
-Sec. 604. Reports and examinations of holding companies; regulation of 
-           functionally regulated subsidiaries.
-Sec. 605. Assuring consistent oversight of permissible activities of 
-           depository institution subsidiaries of holding companies.
-Sec. 606. Requirements for financial holding companies to remain well 
-           capitalized and well managed.
-Sec. 607. Standards for interstate acquisitions.
-Sec. 608. Enhancing existing restrictions on bank transactions with 
-           affiliates.
-Sec. 609. Eliminating exceptions for transactions with financial 
-           subsidiaries.
-Sec. 610. Lending limits applicable to credit exposure on derivative 
-           transactions, repurchase agreements, reverse repurchase 
-           agreements, and securities lending and borrowing 
-           transactions.
-Sec. 611. Consistent treatment of derivative transactions in lending 
-           limits.
-Sec. 612. Restriction on conversions of troubled banks.
-Sec. 613. De novo branching into States.
-Sec. 614. Lending limits to insiders.
-Sec. 615. Limitations on purchases of assets from insiders.
-Sec. 616. Regulations regarding capital levels.
-Sec. 617. Elimination of elective investment bank holding company 
-           framework.
-Sec. 618. Securities holding companies.
-Sec. 619. Prohibitions on proprietary trading and certain relationships 
-           with hedge funds and private equity funds.
-Sec. 620. Study of bank investment activities.
-Sec. 621. Conflicts of interest.
-Sec. 622. Concentration limits on large financial firms.
-Sec. 623. Interstate merger transactions.
-Sec. 624. Qualified thrift lenders.
-Sec. 625. Treatment of dividends by certain mutual holding companies.
-Sec. 626. Intermediate holding companies.
-Sec. 627. Interest-bearing transaction accounts authorized.
-Sec. 628. Credit card bank small business lending.
-
-         TITLE VII--WALL STREET TRANSPARENCY AND ACCOUNTABILITY
-
-Sec. 701. Short title.
-
-        Subtitle A--Regulation of Over-the-Counter Swaps Markets
-
-                      PART I--Regulatory Authority
-
-Sec. 711. Definitions.
-Sec. 712. Review of regulatory authority.
-Sec. 713. Portfolio margining conforming changes.
-Sec. 714. Abusive swaps.
-Sec. 715. Authority to prohibit participation in swap activities.
-
-
-Sec. 716. Prohibition against Federal Government bailouts of swaps 
-           entities.
-Sec. 717. New product approval CFTC--SEC process.
-Sec. 718. Determining status of novel derivative products.
-Sec. 719. Studies.
-Sec. 720. Memorandum.
-
-                   PART II--Regulation of Swap Markets
-
-Sec. 721. Definitions.
-Sec. 722. Jurisdiction.
-Sec. 723. Clearing.
-Sec. 724. Swaps; segregation and bankruptcy treatment.
-Sec. 725. Derivatives clearing organizations.
-Sec. 726. Rulemaking on conflict of interest.
-Sec. 727. Public reporting of swap transaction data.
-Sec. 728. Swap data repositories.
-Sec. 729. Reporting and recordkeeping.
-Sec. 730. Large swap trader reporting.
-Sec. 731. Registration and regulation of swap dealers and major swap 
-           participants.
-Sec. 732. Conflicts of interest.
-Sec. 733. Swap execution facilities.
-Sec. 734. Derivatives transaction execution facilities and exempt boards 
-           of trade.
-Sec. 735. Designated contract markets.
-Sec. 736. Margin.
-Sec. 737. Position limits.
-Sec. 738. Foreign boards of trade.
-Sec. 739. Legal certainty for swaps.
-Sec. 740. Multilateral clearing organizations.
-Sec. 741. Enforcement.
-Sec. 742. Retail commodity transactions.
-Sec. 743. Other authority.
-Sec. 744. Restitution remedies.
-Sec. 745. Enhanced compliance by registered entities.
-Sec. 746. Insider trading.
-Sec. 747. Antidisruptive practices authority.
-Sec. 748. Commodity whistleblower incentives and protection.
-Sec. 749. Conforming amendments.
-Sec. 750. Study on oversight of carbon markets.
-Sec. 751. Energy and environmental markets advisory committee.
-Sec. 752. International harmonization.
-Sec. 753. Anti-manipulation authority.
-Sec. 754. Effective date.
-
-          Subtitle B--Regulation of Security-Based Swap Markets
-
-Sec. 761. Definitions under the Securities Exchange Act of 1934.
-Sec. 762. Repeal of prohibition on regulation of security-based swap 
-           agreements.
-Sec. 763. Amendments to the Securities Exchange Act of 1934.
-Sec. 764. Registration and regulation of security-based swap dealers and 
-           major security-based swap participants.
-Sec. 765. Rulemaking on conflict of interest.
-Sec. 766. Reporting and recordkeeping.
-Sec. 767. State gaming and bucket shop laws.
-Sec. 768. Amendments to the Securities Act of 1933; treatment of 
-           security-based swaps.
-Sec. 769. Definitions under the Investment Company Act of 1940.
-Sec. 770. Definitions under the Investment Advisers Act of 1940.
-Sec. 771. Other authority.
-Sec. 772. Jurisdiction.
-Sec. 773. Civil penalties.
-Sec. 774. Effective date.
-
-        TITLE VIII--PAYMENT, CLEARING, AND SETTLEMENT SUPERVISION
-
-Sec. 801. Short title.
-Sec. 802. Findings and purposes.
-Sec. 803. Definitions.
-Sec. 804. Designation of systemic importance.
-Sec. 805. Standards for systemically important financial market 
-           utilities and payment, clearing, or settlement activities.
-Sec. 806. Operations of designated financial market utilities.
-Sec. 807. Examination of and enforcement actions against designated 
-           financial market utilities.
-Sec. 808. Examination of and enforcement actions against financial 
-           institutions subject to standards for designated activities.
-
-
-Sec. 809. Requests for information, reports, or records.
-Sec. 810. Rulemaking.
-Sec. 811. Other authority.
-Sec. 812. Consultation.
-Sec. 813. Common framework for designated clearing entity risk 
-           management.
-Sec. 814. Effective date.
-
-  TITLE IX--INVESTOR PROTECTIONS AND IMPROVEMENTS TO THE REGULATION OF 
-                               SECURITIES
-
-Sec. 901. Short title.
-
-               Subtitle A--Increasing Investor Protection
-
-Sec. 911. Investor Advisory Committee established.
-Sec. 912. Clarification of authority of the Commission to engage in 
-           investor testing.
-Sec. 913. Study and rulemaking regarding obligations of brokers, 
-           dealers, and investment advisers.
-Sec. 914. Study on enhancing investment adviser examinations.
-Sec. 915. Office of the Investor Advocate.
-Sec. 916. Streamlining of filing procedures for self-regulatory 
-           organizations.
-Sec. 917. Study regarding financial literacy among investors.
-Sec. 918. Study regarding mutual fund advertising.
-Sec. 919. Clarification of Commission authority to require investor 
-           disclosures before purchase of investment products and 
-           services.
-Sec. 919A. Study on conflicts of interest.
-Sec. 919B. Study on improved investor access to information on 
-           investment advisers and broker-dealers.
-Sec. 919C. Study on financial planners and the use of financial 
-           designations.
-Sec. 919D. Ombudsman.
-
-       Subtitle B--Increasing Regulatory Enforcement and Remedies
-
-Sec. 921. Authority to restrict mandatory pre-dispute arbitration.
-Sec. 922. Whistleblower protection.
-Sec. 923. Conforming amendments for whistleblower protection.
-Sec. 924. Implementation and transition provisions for whistleblower 
-           protection.
-Sec. 925. Collateral bars.
-Sec. 926. Disqualifying felons and other ``bad actors'' from Regulation 
-           D offerings.
-Sec. 927. Equal treatment of self-regulatory organization rules.
-Sec. 928. Clarification that section 205 of the Investment Advisers Act 
-           of 1940 does not apply to State-registered advisers.
-Sec. 929. Unlawful margin lending.
-Sec. 929A. Protection for employees of subsidiaries and affiliates of 
-           publicly traded companies.
-Sec. 929B. Fair Fund amendments.
-Sec. 929C. Increasing the borrowing limit on Treasury loans.
-Sec. 929D. Lost and stolen securities.
-Sec. 929E. Nationwide service of subpoenas.
-Sec. 929F. Formerly associated persons.
-Sec. 929G. Streamlined hiring authority for market specialists.
-Sec. 929H. SIPC Reforms.
-Sec. 929I. Protecting confidentiality of materials submitted to the 
-           Commission.
-Sec. 929J. Expansion of audit information to be produced and exchanged.
-Sec. 929K. Sharing privileged information with other authorities.
-Sec. 929L. Enhanced application of antifraud provisions.
-Sec. 929M. Aiding and abetting authority under the Securities Act and 
-           the Investment Company Act.
-Sec. 929N. Authority to impose penalties for aiding and abetting 
-           violations of the Investment Advisers Act.
-Sec. 929O. Aiding and abetting standard of knowledge satisfied by 
-           recklessness.
-Sec. 929P. Strengthening enforcement by the Commission.
-Sec. 929Q. Revision to recordkeeping rule.
-Sec. 929R. Beneficial ownership and short-swing profit reporting.
-Sec. 929S. Fingerprinting.
-Sec. 929T. Equal treatment of self-regulatory organization rules.
-Sec. 929U. Deadline for completing examinations, inspections and 
-           enforcement actions.
-Sec. 929V. Security Investor Protection Act amendments.
-Sec. 929W. Notice to missing security holders.
-Sec. 929X. Short sale reforms.
-Sec. 929Y. Study on extraterritorial private rights of action.
-Sec. 929Z. GAO study on securities litigation.
-
-  Subtitle C--Improvements to the Regulation of Credit Rating Agencies
-
-Sec. 931. Findings.
-
-
-Sec. 932. Enhanced regulation, accountability, and transparency of 
-           nationally recognized statistical rating organizations.
-Sec. 933. State of mind in private actions.
-Sec. 934. Referring tips to law enforcement or regulatory authorities.
-Sec. 935. Consideration of information from sources other than the 
-           issuer in rating decisions.
-Sec. 936. Qualification standards for credit rating analysts.
-Sec. 937. Timing of regulations.
-Sec. 938. Universal ratings symbols.
-Sec. 939. Removal of statutory references to credit ratings.
-Sec. 939A. Review of reliance on ratings.
-Sec. 939B. Elimination of exemption from fair disclosure rule.
-Sec. 939C. Securities and Exchange Commission study on strengthening 
-           credit rating agency independence.
-Sec. 939D. Government Accountability Office study on alternative 
-           business models.
-Sec. 939E. Government Accountability Office study on the creation of an 
-           independent professional analyst organization.
-Sec. 939F. Study and rulemaking on assigned credit ratings.
-Sec. 939G. Effect of Rule 436(g).
-Sec. 939H. Sense of Congress.
-
-   Subtitle D--Improvements to the Asset-Backed Securitization Process
-
-Sec. 941. Regulation of credit risk retention.
-Sec. 942. Disclosures and reporting for asset-backed securities.
-Sec. 943. Representations and warranties in asset-backed offerings.
-Sec. 944. Exempted transactions under the Securities Act of 1933.
-Sec. 945. Due diligence analysis and disclosure in asset-backed 
-           securities issues.
-Sec. 946. Study on the macroeconomic effects of risk retention 
-           requirements.
-
-          Subtitle E--Accountability and Executive Compensation
-
-Sec. 951. Shareholder vote on executive compensation disclosures.
-Sec. 952. Compensation committee independence.
-Sec. 953. Executive compensation disclosures.
-Sec. 954. Recovery of erroneously awarded compensation.
-Sec. 955. Disclosure regarding employee and director hedging.
-Sec. 956. Enhanced compensation structure reporting.
-Sec. 957. Voting by brokers.
-
-    Subtitle F--Improvements to the Management of the Securities and 
-                           Exchange Commission
-
-Sec. 961. Report and certification of internal supervisory controls.
-Sec. 962. Triennial report on personnel management.
-Sec. 963. Annual financial controls audit.
-Sec. 964. Report on oversight of national securities associations.
-Sec. 965. Compliance examiners.
-Sec. 966. Suggestion program for employees of the Commission.
-Sec. 967. Commission organizational study and reform.
-Sec. 968. Study on SEC revolving door.
-
-             Subtitle G--Strengthening Corporate Governance
-
-Sec. 971. Proxy access.
-Sec. 972. Disclosures regarding chairman and CEO structures.
-
-                    Subtitle H--Municipal Securities
-
-Sec. 975. Regulation of municipal securities and changes to the board of 
-           the MSRB.
-Sec. 976. Government Accountability Office study of increased disclosure 
-           to investors.
-Sec. 977. Government Accountability Office study on the municipal 
-           securities markets.
-Sec. 978. Funding for Governmental Accounting Standards Board.
-Sec. 979. Commission Office of Municipal Securities.
-
-    Subtitle I--Public Company Accounting Oversight Board, Portfolio 
-                      Margining, and Other Matters
-
-Sec. 981. Authority to share certain information with foreign 
-           authorities.
-Sec. 982. Oversight of brokers and dealers.
-Sec. 983. Portfolio margining.
-Sec. 984. Loan or borrowing of securities.
-Sec. 985. Technical corrections to Federal securities laws.
-Sec. 986. Conforming amendments relating to repeal of the Public Utility 
-           Holding Company Act of 1935.
-
-
-Sec. 987. Amendment to definition of material loss and nonmaterial 
-           losses to the Deposit Insurance Fund for purposes of 
-           Inspector General reviews.
-Sec. 988. Amendment to definition of material loss and nonmaterial 
-           losses to the National Credit Union Share Insurance Fund for 
-           purposes of Inspector General reviews.
-Sec. 989. Government Accountability Office study on proprietary trading.
-Sec. 989A. Senior investor protections.
-Sec. 989B. Designated Federal entity inspectors general independence.
-Sec. 989C. Strengthening Inspector General accountability.
-Sec. 989D. Removal of Inspectors General of designated Federal entities.
-Sec. 989E. Additional oversight of financial regulatory system.
-Sec. 989F. GAO study of person to person lending.
-Sec. 989G. Exemption for nonaccelerated filers.
-Sec. 989H. Corrective responses by heads of certain establishments to 
-           deficiencies identified by Inspectors General.
-Sec. 989I. GAO study regarding exemption for smaller issuers.
-Sec. 989J. Further promoting the adoption of the NAIC Model Regulations 
-           that enhance protection of seniors and other consumers.
-
-      Subtitle J--Securities and Exchange Commission Match Funding
-
-Sec. 991. Securities and Exchange Commission match funding.
-
-            TITLE X--BUREAU OF CONSUMER FINANCIAL PROTECTION
-
-Sec. 1001. Short title.
-Sec. 1002. Definitions.
-
-           Subtitle A--Bureau of Consumer Financial Protection
-
-Sec. 1011. Establishment of the Bureau of Consumer Financial Protection.
-Sec. 1012. Executive and administrative powers.
-Sec. 1013. Administration.
-Sec. 1014. Consumer Advisory Board.
-Sec. 1015. Coordination.
-Sec. 1016. Appearances before and reports to Congress.
-Sec. 1017. Funding; penalties and fines.
-Sec. 1018. Effective date.
-
-                Subtitle B--General Powers of the Bureau
-
-Sec. 1021. Purpose, objectives, and functions.
-Sec. 1022. Rulemaking authority.
-Sec. 1023. Review of Bureau regulations.
-Sec. 1024. Supervision of nondepository covered persons.
-Sec. 1025. Supervision of very large banks, savings associations, and 
-           credit unions.
-Sec. 1026. Other banks, savings associations, and credit unions.
-Sec. 1027. Limitations on authorities of the Bureau; preservation of 
-           authorities.
-Sec. 1028. Authority to restrict mandatory pre-dispute arbitration.
-Sec. 1029. Exclusion for auto dealers.
-Sec. 1029A. Effective date.
-
-                 Subtitle C--Specific Bureau Authorities
-
-Sec. 1031. Prohibiting unfair, deceptive, or abusive acts or practices.
-Sec. 1032. Disclosures.
-Sec. 1033. Consumer rights to access information.
-Sec. 1034. Response to consumer complaints and inquiries.
-Sec. 1035. Private education loan ombudsman.
-Sec. 1036. Prohibited acts.
-Sec. 1037. Effective date.
-
-                  Subtitle D--Preservation of State Law
-
-Sec. 1041. Relation to State law.
-Sec. 1042. Preservation of enforcement powers of States.
-Sec. 1043. Preservation of existing contracts.
-Sec. 1044. State law preemption standards for national banks and 
-           subsidiaries clarified.
-Sec. 1045. Clarification of law applicable to nondepository institution 
-           subsidiaries.
-Sec. 1046. State law preemption standards for Federal savings 
-           associations and subsidiaries clarified.
-Sec. 1047. Visitorial standards for national banks and savings 
-           associations.
-Sec. 1048. Effective date.
-
-                     Subtitle E--Enforcement Powers
-
-Sec. 1051. Definitions.
-
-
-Sec. 1052. Investigations and administrative discovery.
-Sec. 1053. Hearings and adjudication proceedings.
-Sec. 1054. Litigation authority.
-Sec. 1055. Relief available.
-Sec. 1056. Referrals for criminal proceedings.
-Sec. 1057. Employee protection.
-Sec. 1058. Effective date.
-
-Subtitle F--Transfer of Functions and Personnel; Transitional Provisions
-
-Sec. 1061. Transfer of consumer financial protection functions.
-Sec. 1062. Designated transfer date.
-Sec. 1063. Savings provisions.
-Sec. 1064. Transfer of certain personnel.
-Sec. 1065. Incidental transfers.
-Sec. 1066. Interim authority of the Secretary.
-Sec. 1067. Transition oversight.
-
-                   Subtitle G--Regulatory Improvements
-
-Sec. 1071. Small business data collection.
-Sec. 1072. Assistance for economically vulnerable individuals and 
-           families.
-Sec. 1073. Remittance transfers.
-Sec. 1074. Department of the Treasury study on ending the 
-           conservatorship of Fannie Mae, Freddie Mac, and reforming the 
-           housing finance system.
-Sec. 1075. Reasonable fees and rules for payment card transactions.
-Sec. 1076. Reverse mortgage study and regulations.
-Sec. 1077. Report on private education loans and private educational 
-           lenders.
-Sec. 1078. Study and report on credit scores.
-Sec. 1079. Review, report, and program with respect to exchange 
-           facilitators.
-Sec. 1079A. Financial fraud provisions.
-
-                    Subtitle H--Conforming Amendments
-
-Sec. 1081. Amendments to the Inspector General Act.
-Sec. 1082. Amendments to the Privacy Act of 1974.
-Sec. 1083. Amendments to the Alternative Mortgage Transaction Parity Act 
-           of 1982.
-Sec. 1084. Amendments to the Electronic Fund Transfer Act.
-Sec. 1085. Amendments to the Equal Credit Opportunity Act.
-Sec. 1086. Amendments to the Expedited Funds Availability Act.
-Sec. 1087. Amendments to the Fair Credit Billing Act.
-Sec. 1088. Amendments to the Fair Credit Reporting Act and the Fair and 
-           Accurate Credit Transactions Act of 2003.
-Sec. 1089. Amendments to the Fair Debt Collection Practices Act.
-Sec. 1090. Amendments to the Federal Deposit Insurance Act.
-Sec. 1091. Amendment to Federal Financial Institutions Examination 
-           Council Act of 1978.
-Sec. 1092. Amendments to the Federal Trade Commission Act.
-Sec. 1093. Amendments to the Gramm-Leach-Bliley Act.
-Sec. 1094. Amendments to the Home Mortgage Disclosure Act of 1975.
-Sec. 1095. Amendments to the Homeowners Protection Act of 1998.
-Sec. 1096. Amendments to the Home Ownership and Equity Protection Act of 
-           1994.
-Sec. 1097. Amendments to the Omnibus Appropriations Act, 2009.
-Sec. 1098. Amendments to the Real Estate Settlement Procedures Act of 
-           1974.
-Sec. 1098A. Amendments to the Interstate Land Sales Full Disclosure Act.
-Sec. 1099. Amendments to the Right to Financial Privacy Act of 1978.
-Sec. 1100. Amendments to the Secure and Fair Enforcement for Mortgage 
-           Licensing Act of 2008.
-Sec. 1100A. Amendments to the Truth in Lending Act.
-Sec. 1100B. Amendments to the Truth in Savings Act.
-Sec. 1100C. Amendments to the Telemarketing and Consumer Fraud and Abuse 
-           Prevention Act.
-Sec. 1100D. Amendments to the Paperwork Reduction Act.
-Sec. 1100E. Adjustments for inflation in the Truth in Lending Act.
-Sec. 1100F. Use of consumer reports.
-Sec. 1100G. Small business fairness and regulatory transparency.
-Sec. 1100H. Effective date.
-
-               TITLE XI--FEDERAL RESERVE SYSTEM PROVISIONS
-
-Sec. 1101. Federal Reserve Act amendments on emergency lending 
-           authority.
-Sec. 1102. Reviews of special Federal reserve credit facilities.
-Sec. 1103. Public access to information.
-Sec. 1104. Liquidity event determination.
-
-
-Sec. 1105. Emergency financial stabilization.
-Sec. 1106. Additional related amendments.
-Sec. 1107. Federal Reserve Act amendments on Federal reserve bank 
-           governance.
-Sec. 1108. Federal Reserve Act amendments on supervision and regulation 
-           policy.
-Sec. 1109. GAO audit of the Federal Reserve facilities; publication of 
-           Board actions.
-
-    TITLE XII--IMPROVING ACCESS TO MAINSTREAM FINANCIAL INSTITUTIONS
-
-Sec. 1201. Short title.
-Sec. 1202. Purpose.
-Sec. 1203. Definitions.
-Sec. 1204. Expanded access to mainstream financial institutions.
-Sec. 1205. Low-cost alternatives to payday loans.
-Sec. 1206. Grants to establish loan-loss reserve funds.
-Sec. 1207. Procedural provisions.
-Sec. 1208. Authorization of appropriations.
-Sec. 1209. Regulations.
-Sec. 1210. Evaluation and reports to Congress.
-
-                       TITLE XIII--PAY IT BACK ACT
-
-Sec. 1301. Short title.
-Sec. 1302. Amendment to reduce TARP authorization.
-Sec. 1303. Report.
-Sec. 1304. Amendments to Housing and Economic Recovery Act of 2008.
-Sec. 1305. Federal Housing Finance Agency report.
-Sec. 1306. Repayment of unobligated ARRA funds.
-
-        TITLE XIV--MORTGAGE REFORM AND ANTI-PREDATORY LENDING ACT
-
-Sec. 1400. Short title; designation as enumerated consumer law.
-
-       Subtitle A--Residential Mortgage Loan Origination Standards
-
-Sec. 1401. Definitions.
-Sec. 1402. Residential mortgage loan origination.
-Sec. 1403. Prohibition on steering incentives.
-Sec. 1404. Liability.
-Sec. 1405. Regulations.
-Sec. 1406. Study of shared appreciation mortgages.
-
-               Subtitle B--Minimum Standards For Mortgages
-
-Sec. 1411. Ability to repay.
-Sec. 1412. Safe harbor and rebuttable presumption.
-Sec. 1413. Defense to foreclosure.
-Sec. 1414. Additional standards and requirements.
-Sec. 1415. Rule of construction.
-Sec. 1416. Amendments to civil liability provisions.
-Sec. 1417. Lender rights in the context of borrower deception.
-Sec. 1418. Six-month notice required before reset of hybrid adjustable 
-           rate mortgages.
-Sec. 1419. Required disclosures.
-Sec. 1420. Disclosures required in monthly statements for residential 
-           mortgage loans.
-Sec. 1421. Report by the GAO.
-Sec. 1422. State attorney general enforcement authority.
-
-                     Subtitle C--High-Cost Mortgages
-
-Sec. 1431. Definitions relating to high-cost mortgages.
-Sec. 1432. Amendments to existing requirements for certain mortgages.
-Sec. 1433. Additional requirements for certain mortgages.
-
-                Subtitle D--Office of Housing Counseling
-
-Sec. 1441. Short title.
-Sec. 1442. Establishment of Office of Housing Counseling.
-Sec. 1443. Counseling procedures.
-Sec. 1444. Grants for housing counseling assistance.
-Sec. 1445. Requirements to use HUD-certified counselors under HUD 
-           programs.
-Sec. 1446. Study of defaults and foreclosures.
-Sec. 1447. Default and foreclosure database.
-Sec. 1448. Definitions for counseling-related programs.
-Sec. 1449. Accountability and transparency for grant recipients.
-Sec. 1450. Updating and simplification of mortgage information booklet.
-
-
-Sec. 1451. Home inspection counseling.
-Sec. 1452. Warnings to homeowners of foreclosure rescue scams.
-
-                     Subtitle E--Mortgage Servicing
-
-Sec. 1461. Escrow and impound accounts relating to certain consumer 
-           credit transactions.
-Sec. 1462. Disclosure notice required for consumers who waive escrow 
-           services.
-Sec. 1463. Real Estate Settlement Procedures Act of 1974 amendments.
-Sec. 1464. Truth in Lending Act amendments.
-Sec. 1465. Escrows included in repayment analysis.
-
-                    Subtitle F--Appraisal Activities
-
-Sec. 1471. Property appraisal requirements.
-Sec. 1472. Appraisal independence requirements.
-Sec. 1473. Amendments relating to Appraisal Subcommittee of FFIEC, 
-           Appraiser Independence Monitoring, Approved Appraiser 
-           Education, Appraisal Management Companies, Appraiser 
-           Complaint Hotline, Automated Valuation Models, and Broker 
-           Price Opinions.
-Sec. 1474. Equal Credit Opportunity Act amendment.
-Sec. 1475. Real Estate Settlement Procedures Act of 1974 amendment 
-           relating to certain appraisal fees.
-Sec. 1476. GAO study on the effectiveness and impact of various 
-           appraisal methods, valuation models and distributions 
-           channels, and on the Home Valuation Code of conduct and the 
-           Appraisal Subcommittee.
-
-            Subtitle G--Mortgage Resolution and Modification
-
-Sec. 1481. Multifamily mortgage resolution program.
-Sec. 1482. Home Affordable Modification Program guidelines.
-Sec. 1483. Public availability of information of Making Home Affordable 
-           Program.
-Sec. 1484. Protecting tenants at foreclosure extension and 
-           clarification.
-
-                  Subtitle H--Miscellaneous Provisions
-
-Sec. 1491. Sense of Congress regarding the importance of government-
-           sponsored enterprises reform to enhance the protection, 
-           limitation, and regulation of the terms of residential 
-           mortgage credit.
-Sec. 1492. GAO study report on government efforts to combat mortgage 
-           foreclosure rescue scams and loan modification fraud.
-Sec. 1493. Reporting of mortgage data by State.
-Sec. 1494. Study of effect of drywall presence on foreclosures.
-Sec. 1495. Definition.
-Sec. 1496. Emergency mortgage relief.
-Sec. 1497. Additional assistance for Neighborhood Stabilization Program.
-Sec. 1498. Legal assistance for foreclosure-related issues.
-
-                   TITLE XV--MISCELLANEOUS PROVISIONS
-
-Sec. 1501. Restrictions on use of United States funds for foreign 
-           governments; protection of American taxpayers.
-Sec. 1502. Conflict minerals.
-Sec. 1503. Reporting requirements regarding coal or other mine safety.
-Sec. 1504. Disclosure of payments by resource extraction issuers.
-Sec. 1505. Study by the Comptroller General.
-Sec. 1506. Study on core deposits and brokered deposits.
-
-                    TITLE XVI--SECTION 1256 CONTRACTS
-
-Sec. 1601. Certain swaps, etc., not treated as section 1256 contracts.
-
+    As used in this Act, the following definitions shall apply, except 
+as the context otherwise requires or as otherwise specifically provided 
+in this Act:
+            (1) Affiliate.--The term ``affiliate'' has the same meaning 
+        as in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 
+        1813).
+            (2) Appropriate federal banking agency.--On and after the 
+        transfer date, the term ``appropriate Federal banking agency'' 
+        has the same meaning as in section 3(q) of the Federal Deposit 
+        Insurance Act (12 U.S.C. 1813(q)), as amended by title III.
+
+
+            (3) Board of governors.--The term ``Board of Governors'' 
+        means the Board of Governors of the Federal Reserve System.
+            (4) Bureau.--The term ``Bureau'' means the Bureau of 
+        Consumer Financial Protection established under title X.
+            (5) Commission.--The term ``Commission'' means the 
+        Securities and Exchange Commission, except in the context of the 
+        Commodity Futures Trading Commission.
+            (6) Commodity futures terms.--The terms ``futures commission 
+        merchant'', ``swap'', ``swap dealer'', ``swap execution 
+        facility'', ``derivatives clearing organization'', ``board of 
+        trade'', ``commodity trading advisor'', ``commodity pool'', and 
+        ``commodity pool operator'' have the same meanings as given the 
+        terms in section 1a of the Commodity Exchange Act (7 U.S.C. 1 et 
+        seq.).
+            (7) Corporation.--The term ``Corporation'' means the Federal 
+        Deposit Insurance Corporation.
+            (8) Council.--The term ``Council'' means the Financial 
+        Stability Oversight Council established under title I.
+            (9) Credit union.--The term ``credit union'' means a Federal 
+        credit union, State credit union, or State-chartered credit 
+        union, as those terms are defined in section 101 of the Federal 
+        Credit Union Act (12 U.S.C. 1752).
+            (10) Federal banking agency.--The term--
+                    (A) ``Federal banking agency'' means, individually, 
+                the Board of Governors, the Office of the Comptroller of 
+                the Currency, and the Corporation; and
+                    (B) ``Federal banking agencies'' means all of the 
+                agencies referred to in subparagraph (A), collectively.
+            (11) Functionally regulated subsidiary.--The term 
+        ``functionally regulated subsidiary'' has the same meaning as in 
+        section 5(c)(5) of the Bank Holding Company Act of 1956 (12 
+        U.S.C. 1844(c)(5)).
+            (12) Primary financial regulatory agency.--The term 
+        ``primary financial regulatory agency'' means--
+                    (A) the appropriate Federal banking agency, with 
+                respect to institutions described in section 3(q) of the 
+                Federal Deposit Insurance Act, except to the extent that 
+                an institution is or the activities of an institution 
+                are otherwise described in subparagraph (B), (C), (D), 
+                or (E);
+                    (B) the Securities and Exchange Commission, with 
+                respect to--
+                          (i) any broker or dealer that is registered 
+                      with the Commission under the Securities Exchange 
+                      Act of 1934, with respect to the activities of the 
+                      broker or dealer that require the broker or dealer 
+                      to be registered under that Act;
+                          (ii) any investment company that is registered 
+                      with the Commission under the Investment Company 
+                      Act of 1940, with respect to the activities of the 
+                      investment company that require the investment 
+                      company to be registered under that Act;
+                          (iii) any investment adviser that is 
+                      registered with the Commission under the 
+                      Investment Advisers Act of 1940, with respect to 
+                      the investment advisory activities of such company 
+                      and activities that are incidental to such 
+                      advisory activities;
+
+
+                          (iv) any clearing agency registered with the 
+                      Commission under the Securities Exchange Act of 
+                      1934, with respect to the activities of the 
+                      clearing agency that require the agency to be 
+                      registered under such Act;
+                          (v) any nationally recognized statistical 
+                      rating organization registered with the Commission 
+                      under the Securities Exchange Act of 1934;
+                          (vi) any transfer agent registered with the 
+                      Commission under the Securities Exchange Act of 
+                      1934;
+                          (vii) any exchange registered as a national 
+                      securities exchange with the Commission under the 
+                      Securities Exchange Act of 1934;
+                          (viii) any national securities association 
+                      registered with the Commission under the 
+                      Securities Exchange Act of 1934;
+                          (ix) any securities information processor 
+                      registered with the Commission under the 
+                      Securities Exchange Act of 1934;
+                          (x) the Municipal Securities Rulemaking Board 
+                      established under the Securities Exchange Act of 
+                      1934;
+                          (xi) the Public Company Accounting Oversight 
+                      Board established under the Sarbanes-Oxley Act of 
+                      2002 (15 U.S.C. 7211 et seq.);
+                          (xii) the Securities Investor Protection 
+                      Corporation established under the Securities 
+                      Investor Protection Act of 1970 (15 U.S.C. 78aaa 
+                      et seq.); and
+                          (xiii) any security-based swap execution 
+                      facility, security-based swap data repository, 
+                      security-based swap dealer or major security-based 
+                      swap participant registered with the Commission 
+                      under the Securities Exchange Act of 1934, with 
+                      respect to the security-based swap activities of 
+                      the person that require such person to be 
+                      registered under such Act;
+                    (C) the Commodity Futures Trading Commission, with 
+                respect to--
+                          (i) any futures commission merchant registered 
+                      with the Commodity Futures Trading Commission 
+                      under the Commodity Exchange Act (7 U.S.C. 1 et 
+                      seq.), with respect to the activities of the 
+                      futures commission merchant that require the 
+                      futures commission merchant to be registered under 
+                      that Act;
+                          (ii) any commodity pool operator registered 
+                      with the Commodity Futures Trading Commission 
+                      under the Commodity Exchange Act (7 U.S.C. 1 et 
+                      seq.), with respect to the activities of the 
+                      commodity pool operator that require the commodity 
+                      pool operator to be registered under that Act, or 
+                      a commodity pool, as defined in that Act;
+                          (iii) any commodity trading advisor or 
+                      introducing broker registered with the Commodity 
+                      Futures Trading Commission under the Commodity 
+                      Exchange Act (7 U.S.C. 1 et seq.), with respect to 
+                      the activities of the commodity trading advisor or 
+                      introducing broker that require the commodity 
+                      trading adviser or introducing broker to be 
+                      registered under that Act;
+
+
+                          (iv) any derivatives clearing organization 
+                      registered with the Commodity Futures Trading 
+                      Commission under the Commodity Exchange Act (7 
+                      U.S.C. 1 et seq.), with respect to the activities 
+                      of the derivatives clearing organization that 
+                      require the derivatives clearing organization to 
+                      be registered under that Act;
+                          (v) any board of trade designated as a 
+                      contract market by the Commodity Futures Trading 
+                      Commission under the Commodity Exchange Act (7 
+                      U.S.C. 1 et seq.);
+                          (vi) any futures association registered with 
+                      the Commodity Futures Trading Commission under the 
+                      Commodity Exchange Act (7 U.S.C. 1 et seq.);
+                          (vii) any retail foreign exchange dealer 
+                      registered with the Commodity Futures Trading 
+                      Commission under the Commodity Exchange Act (7 
+                      U.S.C. 1 et seq.), with respect to the activities 
+                      of the retail foreign exchange dealer that require 
+                      the retail foreign exchange dealer to be 
+                      registered under that Act;
+                          (viii) any swap execution facility, swap data 
+                      repository, swap dealer, or major swap participant 
+                      registered with the Commodity Futures Trading 
+                      Commission under the Commodity Exchange Act (7 
+                      U.S.C. 1 et seq.) with respect to the swap 
+                      activities of the person that require such person 
+                      to be registered under that Act; and
+                          (ix) any registered entity under the Commodity 
+                      Exchange Act (7 U.S.C. 1 et seq.), with respect to 
+                      the activities of the registered entity that 
+                      require the registered entity to be registered 
+                      under that Act;
+                    (D) the State insurance authority of the State in 
+                which an insurance company is domiciled, with respect to 
+                the insurance activities and activities that are 
+                incidental to such insurance activities of an insurance 
+                company that is subject to supervision by the State 
+                insurance authority under State insurance law; and
+                    (E) the Federal Housing Finance Agency, with respect 
+                to Federal Home Loan Banks or the Federal Home Loan Bank 
+                System, and with respect to the Federal National 
+                Mortgage Association or the Federal Home Loan Mortgage 
+                Corporation.
+            (13) Prudential standards.--The term ``prudential 
+        standards'' means enhanced supervision and regulatory standards 
+        developed by the Board of Governors under section 165.
+            (14) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Treasury.
+            (15) Securities terms.--The--
+                    (A) terms ``broker'', ``dealer'', ``issuer'', 
+                ``nationally recognized statistical rating 
+                organization'', ``security'', and ``securities laws'' 
+                have the same meanings as in section 3 of the Securities 
+                Exchange Act of 1934 (15 U.S.C. 78c);
+                    (B) term ``investment adviser'' has the same meaning 
+                as in section 202 of the Investment Advisers Act of 1940 
+                (15 U.S.C. 80b-2); and
+                    (C) term ``investment company'' has the same meaning 
+                as in section 3 of the Investment Company Act of 1940 
+                (15 U.S.C. 80a-3).
+
+
+            (16) State.--The term ``State'' means any State, 
+        commonwealth, territory, or possession of the United States, the 
+        District of Columbia, the Commonwealth of Puerto Rico, the 
+        Commonwealth of the Northern Mariana Islands, American Samoa, 
+        Guam, or the United States Virgin Islands.
+            (17) Transfer date.--The term ``transfer date'' means the 
+        date established under section 311.
+            (18) Other incorporated definitions.--
+                    (A) Federal deposit insurance act.--The terms 
+                ``bank'', ``bank holding company'', ``control'', 
+                ``deposit'', ``depository institution'', ``Federal 
+                depository institution'', ``Federal savings 
+                association'', ``foreign bank'', ``including'', 
+                ``insured branch'', ``insured depository institution'', 
+                ``national member bank'', ``national nonmember bank'', 
+                ``savings association'', ``State bank'', ``State 
+                depository institution'', ``State member bank'', ``State 
+                nonmember bank'', ``State savings association'', and 
+                ``subsidiary'' have the same meanings as in section 3 of 
+                the Federal Deposit Insurance Act (12 U.S.C. 1813).
+                    (B) Holding companies.--The term--
+                          (i) ``bank holding company'' has the same 
+                      meaning as in section 2 of the Bank Holding 
+                      Company Act of 1956 (12 U.S.C. 1841);
+                          (ii) ``financial holding company'' has the 
+                      same meaning as in section 2(p) of the Bank 
+                      Holding Company Act of 1956 (12 U.S.C. 1841(p)); 
+                      and
+                          (iii) ``savings and loan holding company'' has 
+                      the same meaning as in section 10 of the Home 
+                      Owners' Loan Act (12 U.S.C. 1467a(a)).

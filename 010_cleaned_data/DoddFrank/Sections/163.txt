@@ -1,35 +1,47 @@
 
-    (a) In General.--Except as provided in subsection (b), a nonbank 
-financial company supervised by the Board of Governors and any 
-subsidiaries of such company (other than any depository institution 
-subsidiary) shall be subject to the provisions of subsections (b) 
-through (n) of section 8 of the Federal Deposit Insurance Act (12 U.S.C. 
-1818), in the same manner and to the same extent as if the company were 
-a bank holding company, as provided
+    (a) Acquisitions of Banks; Treatment as a Bank Holding Company.--For 
+purposes of section 3 of the Bank Holding Company Act of 1956 (12 U.S.C. 
+1842), a nonbank financial company supervised by the Board of Governors 
+shall be deemed to be, and shall be treated as, a bank holding company.
+    (b) Acquisition of Nonbank Companies.--
+            (1) Prior notice for large acquisitions.--Notwithstanding 
+        section 4(k)(6)(B) of the Bank Holding Company Act of 1956 (12 
+        U.S.C. 1843(k)(6)(B)), a bank holding company with total 
+        consolidated assets equal to or greater than $50,000,000,000 or 
+        a nonbank financial company supervised by the Board of Governors 
+        shall not acquire direct or indirect ownership or control of any 
+        voting shares of any company (other than an insured depository 
+        institution) that is engaged in activities described in section 
+        4(k) of the Bank Holding Company Act of 1956 having total 
+        consolidated assets of $10,000,000,000 or more, without 
+        providing written notice to the Board of Governors in advance of 
+        the transaction.
+            (2) Exemptions.--The prior notice requirement in paragraph 
+        (1) shall not apply with regard to the acquisition of shares 
+        that would qualify for the exemptions in section 4(c) or section 
+        4(k)(4)(E) of the Bank Holding Company Act of 1956 (12 U.S.C. 
+        1843(c) and (k)(4)(E)).
+            (3) Notice procedures.--The &lt;&lt;NOTE: Applicability.&gt;&gt; notice 
+        procedures set forth in section 4(j)(1) of the Bank Holding 
+        Company Act of 1956 (12 U.S.C. 1843(j)(1)), without regard to 
+        section 4(j)(3) of that Act, shall apply to an acquisition of 
+        any company (other than an insured depository institution) by a 
+        bank holding company with total consolidated assets equal to or 
+        greater than
 
 
-in section 8(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 
-1818(b)(3)).
-    (b) Enforcement Authority for Functionally Regulated Subsidiaries.--
-            (1) Referral.--If the Board of Governors determines that a 
-        condition, practice, or activity of a depository institution 
-        subsidiary or functionally regulated subsidiary of a nonbank 
-        financial company supervised by the Board of Governors does not 
-        comply with the regulations or orders prescribed by the Board of 
-        Governors under this Act, or otherwise poses a threat to the 
-        financial stability of the United States, the Board of Governors 
-        may recommend, in writing, to the primary financial regulatory 
-        agency for the subsidiary that such agency initiate a 
-        supervisory action or enforcement proceeding. The recommendation 
-        shall be accompanied by a written explanation of the concerns 
-        giving rise to the recommendation.
-            (2) Back-up authority of the board of governors.--If, during 
-        the 60-day period beginning on the date on which the primary 
-        financial regulatory agency receives a recommendation under 
-        paragraph (1), the primary financial regulatory agency does not 
-        take supervisory or enforcement action against a subsidiary that 
-        is acceptable to the Board of Governors, the Board of Governors 
-        (upon a vote of its members) may take the recommended 
-        supervisory or enforcement action, as if the subsidiary were a 
-        bank holding company subject to supervision by the Board of 
-        Governors.
+        $50,000,000,000 or a nonbank financial company supervised by the 
+        Board of Governors, as described in paragraph (1), including any 
+        such company engaged in activities described in section 4(k) of 
+        that Act.
+            (4) Standards for review.--In addition to the standards 
+        provided in section 4(j)(2) of the Bank Holding Company Act of 
+        1956 (12 U.S.C. 1843(j)(2)), the Board of Governors shall 
+        consider the extent to which the proposed acquisition would 
+        result in greater or more concentrated risks to global or United 
+        States financial stability or the United States economy.
+            (5) Hart-Scott-Rodino filing requirement.--Solely for 
+        purposes of section 7A(c)(8) of the Clayton Act (15 U.S.C. 
+        18a(c)(8)), the transactions subject to the requirements of 
+        paragraph (1) shall be treated as if Board of Governors approval 
+        is not required.

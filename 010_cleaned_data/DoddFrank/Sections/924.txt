@@ -1,33 +1,29 @@
+                        PROVISIONS FOR WHISTLEBLOWER PROTECTION.
 
-    (a) In General.--
-            (1) Securities act of 1933.--Section 20(d)(3)(A) of the 
-        Securities Act of 1933 (15 U.S.C. 77t(d)(3)(A)) is amended by 
-        inserting ``and section 21F of the Securities Exchange Act of 
-        1934'' after ``the Sarbanes-Oxley Act of 2002''.
-            (2) Investment company act of 1940.--Section 42(e)(3)(A) of 
-        the Investment Company Act of 1940 (15 U.S.C. 80a-41(e)(3)(A)) 
-        is amended by inserting ``and section 21F of the Securities 
-        Exchange Act of 1934'' after ``the Sarbanes-Oxley Act of 2002''.
-            (3) Investment advisers act of 1940.--Section 209(e)(3)(A) 
-        of the Investment Advisers Act of 1940 (15 U.S.C. 80b-
-        9(e)(3)(A)) is amended by inserting ``and section 21F of the 
-        Securities Exchange Act of 1934'' after ``the Sarbanes-Oxley Act 
-        of 2002''.
+    (a) &lt;&lt;NOTE: Deadline.&gt;&gt;  Implementing Rules.--The Commission shall 
+issue final regulations implementing the provisions of section 21F of 
+the Securities Exchange Act of 1934, as added by this subtitle, not 
+later than 270 days after the date of enactment of this Act.
 
-    (b) Securities Exchange Act.--
-            (1) Section 21.--Section 21(d)(3)(C)(i) of the Securities 
-        Exchange Act of 1934 (15 U.S.C. 78u(d)(3)(C)(i)) is amended
-
-
-        by inserting ``and section 21F of this title'' after ``the 
-        Sarbanes-Oxley Act of 2002''.
-            (2) Section 21a.--Section 21A of the Securities Exchange Act 
-        of 1934 (15 U.S.C. 78u-1) is amended--
-                    (A) in subsection (d)(1) by--
-                          (i) striking ``(subject to subsection (e))''; 
-                      and
-                          (ii) inserting ``and section 21F of this 
-                      title'' after ``the Sarbanes-Oxley Act of 2002'';
-                    (B) by striking subsection (e); and
-                    (C) by redesignating subsections (f) and (g) as 
-                subsections (e) and (f), respectively.
+    (b) Original Information.--Information provided to the Commission in 
+writing by a whistleblower shall not lose the status of original 
+information (as defined in section 21F(a)(3) of the Securities Exchange 
+Act of 1934, as added by this subtitle) solely because the whistleblower 
+provided the information prior to the effective date of the regulations, 
+if the information is provided by the whistleblower after the date of 
+enactment of this subtitle.
+    (c) Awards.--A whistleblower may receive an award pursuant to 
+section 21F of the Securities Exchange Act of 1934, as added by this 
+subtitle, regardless of whether any violation of a provision of the 
+securities laws, or a rule or regulation thereunder, underlying the 
+judicial or administrative action upon which the award is based, 
+occurred prior to the date of enactment of this subtitle.
+    (d) &lt;&lt;NOTE: Establishment.&gt;&gt;  Administration and Enforcement.--The 
+Securities and Exchange Commission shall establish a separate office 
+within the Commission to administer and enforce the provisions of 
+section 21F of the Securities Exchange Act of 1934 (as add by section 
+922(a)). &lt;&lt;NOTE: Reports. Deadline.&gt;&gt;  Such office shall report annually 
+to the Committee on Banking, Housing, and Urban Affairs of the Senate 
+and the Committee on Financial Services of the House of Representatives 
+on its activities, whistleblower complaints, and the response of the 
+Commission to such complaints.

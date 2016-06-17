@@ -1,118 +1,177 @@
-                        ACTIONS AGAINST DESIGNATED FINANCIAL 
-                        MARKET UTILITIES.
+                        ACTIONS AGAINST FINANCIAL INSTITUTIONS 
+                        SUBJECT TO STANDARDS FOR DESIGNATED 
+                        ACTIVITIES.
 
-    (a) Examination.--Notwithstanding any other provision of law and 
-subject to subsection (d), the Supervisory Agency shall conduct 
-examinations of a designated financial market utility at least once 
-annually in order to determine the following:
-            (1) The nature of the operations of, and the risks borne by, 
-        the designated financial market utility.
-            (2) The financial and operational risks presented by the 
-        designated financial market utility to financial institutions, 
-        critical markets, or the broader financial system.
-            (3) The resources and capabilities of the designated 
-        financial market utility to monitor and control such risks.
-            (4) The safety and soundness of the designated financial 
-        market utility.
-            (5) The designated financial market utility's compliance 
-        with--
-                    (A) this title; and
-                    (B) the rules and orders prescribed under this 
-                title.
+    (a) Examination.--The appropriate financial regulator is authorized 
+to examine a financial institution subject to the standards prescribed 
+under section 805(a) for a designated activity in order to determine the 
+following:
+            (1) The nature and scope of the designated activities 
+        engaged in by the financial institution.
+            (2) The financial and operational risks the designated 
+        activities engaged in by the financial institution may pose to 
+        the safety and soundness of the financial institution.
+            (3) The financial and operational risks the designated 
+        activities engaged in by the financial institution may pose to 
+        other financial institutions, critical markets, or the broader 
+        financial system.
+            (4) The resources available to and the capabilities of the 
+        financial institution to monitor and control the risks described 
+        in paragraphs (2) and (3).
+            (5) The financial institution's compliance with this title 
+        and the rules and orders prescribed under section 805(a).
 
-    (b) Service Providers.--Whenever a service integral to the operation 
-of a designated financial market utility is performed for the designated 
-financial market utility by another entity, whether an affiliate or non-
-affiliate and whether on or off the premises of the designated financial 
-market utility, the Supervisory Agency may examine whether the provision 
-of that service is in compliance with applicable law, rules, orders, and 
-standards to the same extent as if the designated financial market 
-utility were performing the service on its own premises.
-    (c) Enforcement.--For purposes of enforcing the provisions of this 
-title, a designated financial market utility shall be subject to, and 
-the appropriate Supervisory Agency shall have authority under the 
+    (b) Enforcement.--For purposes of enforcing the provisions of this 
+title, and the rules and orders prescribed under this section, a 
+financial institution subject to the standards prescribed under section 
+805(a) for a designated activity shall be subject to, and the 
+appropriate financial regulator shall have authority under the 
 provisions of subsections (b) through (n) of section 8 of the Federal 
 Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the 
-same extent as if the designated financial market utility was an insured 
-depository institution and the Supervisory Agency was the appropriate 
+same extent as if the financial institution was an insured depository 
+institution and the appropriate financial regulator was the appropriate 
 Federal banking agency for such insured depository institution.
-    (d) Board of Governors Involvement in Examinations.--
-            (1) Board of governors consultation on examination 
-        planning.-- &lt;&lt;NOTE: Deadline.&gt;&gt; The Supervisory Agency shall 
-        consult annually with the Board of Governors regarding the scope 
-        and methodology of any examination conducted under subsections 
-        (a) and (b). The Supervisory Agency shall lead all examinations 
-        conducted under subsections (a) and (b)
-            (2) Board of governors participation in examination.--The 
-        Board of Governors may, in its discretion, participate in any 
-        examination led by a Supervisory Agency and conducted under 
-        subsections (a) and (b).
+    (c) &lt;&lt;NOTE: Consultation.&gt;&gt;  Technical Assistance.--The Board of 
+Governors shall consult with and provide such technical assistance as 
+may be required by the appropriate financial regulators to ensure that 
+the rules and orders prescribed under this title are interpreted and 
+applied in as consistent and uniform a manner as practicable.
 
-    (e) Board of Governors Enforcement Recommendations.--
-            (1) Recommendation.--The Board of Governors may, after 
-        consulting with the Council and the Supervisory Agency, at any 
-        time recommend to the Supervisory Agency that such
+    (d) Delegation.--
+            (1) Examination.--
+                    (A) Request to board of governors.--The appropriate 
+                financial regulator may request the Board of Governors 
+                to conduct or participate in an examination of a 
+                financial institution subject to the standards 
+                prescribed under section 805(a) for a designated 
+                activity in order to assess the compliance of such 
+                financial institution with--
+                          (i) this title; or
+                          (ii) the rules or orders prescribed under this 
+                      title.
+                    (B) Examination by board of governors.--Upon receipt 
+                of an appropriate written request, the Board of 
+                Governors will conduct the examination under such terms 
+                and conditions to which the Board of Governors and the 
+                appropriate financial regulator mutually agree.
+            (2) Enforcement.--
+                    (A) Request to board of governors.--The appropriate 
+                financial regulator may request the Board of Governors 
+                to enforce this title or the rules or orders prescribed
 
 
-        agency take enforcement action against a designated financial 
-        market utility in order to prevent or mitigate significant 
-        liquidity, credit, operational, or other risks to the financial 
-        markets or to the financial stability of the United States. Any 
-        such recommendation for enforcement action shall provide a 
-        detailed analysis supporting the recommendation of the Board of 
-        Governors.
-            (2) &lt;&lt;NOTE: Deadline.&gt;&gt;  Consideration.--The Supervisory 
-        Agency shall consider the recommendation of the Board of 
-        Governors and submit a response to the Board of Governors within 
-        60 days.
-            (3) Binding arbitration.--If the Supervisory Agency rejects, 
-        in whole or in part, the recommendation of the Board of 
-        Governors, the Board of Governors may refer the recommendation 
-        to the Council for a binding decision on whether an enforcement 
-        action is warranted.
-            (4) Enforcement action.--Upon an affirmative vote by a 
-        majority of the Council in favor of the Board of Governors' 
-        recommendation under paragraph (3), the Council may require the 
-        Supervisory Agency to--
-                    (A) exercise the enforcement authority referenced in 
-                subsection (c); and
-                    (B) take enforcement action against the designated 
-                financial market utility.
+                under this title against a financial institution that is 
+                subject to the standards prescribed under section 805(a) 
+                for a designated activity.
+                    (B) &lt;&lt;NOTE: Determination.&gt;&gt;  Enforcement by board 
+                of governors.--Upon receipt of an appropriate written 
+                request, the Board of Governors shall determine whether 
+                an enforcement action is warranted, and, if so, it shall 
+                enforce compliance with this title or the rules or 
+                orders prescribed under this title and, if so, the 
+                financial institution shall be subject to, and the Board 
+                of Governors shall have authority under the provisions 
+                of subsections (b) through (n) of section 8 of the 
+                Federal Deposit Insurance Act (12 U.S.C. 1818) in the 
+                same manner and to the same extent as if the financial 
+                institution was an insured depository institution and 
+                the Board of Governors was the appropriate Federal 
+                banking agency for such insured depository institution.
 
-    (f) Emergency Enforcement Actions by the Board of Governors.--
-            (1) Imminent risk of substantial harm.--The Board of 
-        Governors may, after consulting with the Supervisory Agency and 
-        upon an affirmative vote by a majority the Council, take 
-        enforcement action against a designated financial market utility 
-        if the Board of Governors has reasonable cause to conclude 
-        that--
-                    (A) either--
-                          (i) an action engaged in, or contemplated by, 
-                      a designated financial market utility (including 
-                      any change proposed by the designated financial 
-                      market utility to its rules, procedures, or 
-                      operations that would otherwise be subject to 
-                      section 806(e)) poses an imminent risk of 
-                      substantial harm to financial institutions, 
-                      critical markets, or the broader financial system 
-                      of the United States; or
-                          (ii) the condition of a designated financial 
-                      market utility poses an imminent risk of 
-                      substantial harm to financial institutions, 
-                      critical markets, or the broader financial system; 
-                      and
-                    (B) the imminent risk of substantial harm precludes 
-                the Board of Governors' use of the procedures in 
-                subsection (e).
-            (2) Enforcement authority.--For purposes of taking 
-        enforcement action under paragraph (1), a designated financial 
-        market utility shall be subject to, and the Board of Governors 
+    (e) Back-up Authority of the Board of Governors.--
+            (1) Examination and enforcement.--Notwithstanding any other 
+        provision of law, the Board of Governors may--
+                    (A) conduct an examination of the type described in 
+                subsection (a) of any financial institution that is 
+                subject to the standards prescribed under section 805(a) 
+                for a designated activity; and
+                    (B) enforce the provisions of this title or any 
+                rules or orders prescribed under this title against any 
+                financial institution that is subject to the standards 
+                prescribed under section 805(a) for a designated 
+                activity.
+            (2) Limitations.--
+                    (A) Examination.--The Board of Governors may 
+                exercise the authority described in paragraph (1)(A) 
+                only if the Board of Governors has--
+                          (i) reasonable cause to believe that a 
+                      financial institution is not in compliance with 
+                      this title or the rules or orders prescribed under 
+                      this title with respect to a designated activity;
+                          (ii) &lt;&lt;NOTE: Notification.&gt;&gt;  notified, in 
+                      writing, the appropriate financial regulator and 
+                      the Council of its belief under clause (i) with 
+                      supporting documentation included;
+                          (iii) requested the appropriate financial 
+                      regulator to conduct a prompt examination of the 
+                      financial institution;
+                          (iv) either--
+                                    (I) &lt;&lt;NOTE: Deadline.&gt;&gt;  not been 
+                                afforded a reasonable opportunity to 
+                                participate in an examination of the 
+                                financial institution by the appropriate 
+                                financial regulator within 30 days after 
+                                the date of the Board's notification 
+                                under clause (ii); or
+                                    (II) reasonable cause to believe 
+                                that the financial institution's 
+                                noncompliance with this title or the 
+                                rules or orders prescribed under this 
+                                title poses a substantial risk to other 
+                                financial institutions, critical 
+                                markets, or the broader financial 
+                                system, subject to the Board of 
+                                Governors affording the appropriate 
+                                financial regulator a reasonable 
+                                opportunity to participate in the 
+                                examination; and
+                          (v) obtained the approval of the Council upon 
+                      an affirmative vote by a majority of the Council.
+
+
+                    (B) Enforcement.--The Board of Governors may 
+                exercise the authority described in paragraph (1)(B) 
+                only if the Board of Governors has--
+                          (i) reasonable cause to believe that a 
+                      financial institution is not in compliance with 
+                      this title or the rules or orders prescribed under 
+                      this title with respect to a designated activity;
+                          (ii) &lt;&lt;NOTE: Notification.&gt;&gt;  notified, in 
+                      writing, the appropriate financial regulator and 
+                      the Council of its belief under clause (i) with 
+                      supporting documentation included and with a 
+                      recommendation that the appropriate financial 
+                      regulator take 1 or more specific enforcement 
+                      actions against the financial institution;
+                          (iii) either--
+                                    (I) &lt;&lt;NOTE: Deadline.&gt;&gt;  not been 
+                                notified, in writing, by the appropriate 
+                                financial regulator of the commencement 
+                                of an enforcement action recommended by 
+                                the Board of Governors against the 
+                                financial institution within 60 days 
+                                from the date of the notification under 
+                                clause (ii); or
+                                    (II) reasonable cause to believe 
+                                that the financial institution's 
+                                noncompliance with this title or the 
+                                rules or orders prescribed under this 
+                                title poses significant liquidity, 
+                                credit, operational, or other risks to 
+                                the financial markets or to the 
+                                financial stability of the United 
+                                States, subject to the Board of 
+                                Governors notifying the appropriate 
+                                financial regulator of the Board's 
+                                enforcement action; and
+                          (iv) obtained the approval of the Council upon 
+                      an affirmative vote by a majority of the Council.
+            (3) Enforcement provisions.--For purposes of taking 
+        enforcement action under paragraph (1), the financial 
+        institution shall be subject to, and the Board of Governors 
         shall have authority under the provisions of subsections (b) 
         through (n) of section 8 of the Federal Deposit Insurance Act 
         (12 U.S.C. 1818) in the same manner and to the same extent as if 
-        the designated financial market utility was an insured 
-        depository institution and the Board of Governors was the 
-        appropriate Federal banking agency for such insured depository 
-        institution.
-
-
+        the financial institution was an insured depository institution 
+        and the Board of Governors was the appropriate Federal banking 
+        agency for such insured depository institution.

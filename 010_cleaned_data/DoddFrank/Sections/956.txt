@@ -1,20 +1,85 @@
+                        REPORTING.
 
-    Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n), 
-as amended by this title, is amended by adding at the end the following:
-    ``(j) Disclosure of Hedging by Employees and Directors.--
-The &lt;&lt;NOTE: Regulations.&gt;&gt; Commission shall, by rule, require each 
-issuer to disclose in any proxy or consent solicitation material for an 
-annual meeting of the shareholders of the issuer whether any employee or 
-member
+    (a) Enhanced Disclosure and Reporting of Compensation 
+Arrangements.--
+            (1) In general.-- &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt; Not later 
+        than 9 months after the date of enactment of this title, the 
+        appropriate Federal regulators jointly shall prescribe 
+        regulations or guidelines to require each covered financial 
+        institution to disclose to the appropriate Federal regulator the 
+        structures of all incentive-based compensation arrangements 
+        offered by such covered financial institutions sufficient to 
+        determine whether the compensation structure--
+                    (A) provides an executive officer, employee, 
+                director, or principal shareholder of the covered 
+                financial institution with excessive compensation, fees, 
+                or benefits; or
+                    (B) could lead to material financial loss to the 
+                covered financial institution.
+            (2) Rules of construction.--Nothing in this section shall be 
+        construed as requiring the reporting of the actual compensation 
+        of particular individuals. Nothing in this section shall be 
+        construed to require a covered financial institution that does 
+        not have an incentive-based payment arrangement to make the 
+        disclosures required under this subsection.
+
+    (b) Prohibition on Certain Compensation 
+Arrangements. &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt; --Not later than 9 months 
+after the date of enactment of this title, the appropriate Federal 
+regulators shall jointly prescribe regulations or guidelines that 
+prohibit any types of incentive-based payment arrangement, or any 
+feature of any such arrangement, that the regulators determine 
+encourages inappropriate risks by covered financial institutions--
+            (1) by providing an executive officer, employee, director, 
+        or principal shareholder of the covered financial institution 
+        with excessive compensation, fees, or benefits; or
+            (2) that could lead to material financial loss to the 
+        covered financial institution.
+
+    (c) Standards.--The appropriate Federal regulators shall--
+            (1) ensure that any standards for compensation established 
+        under subsections (a) or (b) are comparable to the standards 
+        established under section of the Federal Deposit Insurance Act 
+        (12 U.S.C. 2 1831p-1) for insured depository institutions; and
+            (2) in establishing such standards under such subsections, 
+        take into consideration the compensation standards described in 
+        section 39(c) of the Federal Deposit Insurance Act (12 U.S.C. 
+        1831p- 9 1(c)).
+
+    (d) Enforcement.--The provisions of this section and the regulations 
+issued under this section shall be enforced under section
 
 
-of the board of directors of the issuer, or any designee of such 
-employee or member, is permitted to purchase financial instruments 
-(including prepaid variable forward contracts, equity swaps, collars, 
-and exchange funds) that are designed to hedge or offset any decrease in 
-the market value of equity securities--
-            ``(1) granted to the employee or member of the board of 
-        directors by the issuer as part of the compensation of the 
-        employee or member of the board of directors; or
-            ``(2) held, directly or indirectly, by the employee or 
-        member of the board of directors.''.
+505 of the Gramm-Leach-Bliley Act and, for purposes of such section, a 
+violation of this section or such regulations shall be treated as a 
+violation of subtitle A of title V of such Act.
+    (e) Definitions.--As used in this section--
+            (1) the term ``appropriate Federal regulator'' means the 
+        Board of Governors of the Federal Reserve System, the Office of 
+        the Comptroller of the Currency, the Board of Directors of the 
+        Federal Deposit Insurance Corporation, the Director of the 
+        Office of Thrift Supervision, the National Credit Union 
+        Administration Board, the Securities and Exchange Commission, 
+        the Federal Housing Finance Agency; and
+            (2) the term ``covered financial institution'' means--
+                    (A) a depository institution or depository 
+                institution holding company, as such terms are defined 
+                in section 3 of the Federal Deposit Insurance Act (12 
+                U.S.C. 1813);
+                    (B) a broker-dealer registered under section 15 of 
+                the Securities Exchange Act of 1934 (15 U.S.C. 78o);
+                    (C) a credit union, as described in section 
+                19(b)(1)(A)(iv) of the Federal Reserve Act;
+                    (D) an investment advisor, as such term is defined 
+                in section 202(a)(11) of the Investment Advisers Act of 
+                1940 (15 U.S.C. 80b-2(a)(11));
+                    (E) the Federal National Mortgage Association;
+                    (F) the Federal Home Loan Mortgage Corporation; and
+                    (G) any other financial institution that the 
+                appropriate Federal regulators, jointly, by rule, 
+                determine should be treated as a covered financial 
+                institution for purposes of this section.
+
+    (f) Exemption for Certain Financial Institutions.--The requirements 
+of this section shall not apply to covered financial institutions with 
+assets of less than $1,000,000,000.

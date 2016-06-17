@@ -1,41 +1,42 @@
 
-    (a) &lt;&lt;NOTE: Establishment.&gt;&gt;  Interagency Working Group.--There is 
-established to carry out this section an interagency working group 
-(referred to in this section as the ``interagency group'') composed of 
-the following members or designees:
-            (1) The Chairman of the Commodity Futures Trading Commission 
-        (referred to in this section as the ``Commission''), who shall 
-        serve as Chairman of the interagency group.
-            (2) The Secretary of Agriculture.
-            (3) The Secretary of the Treasury.
-            (4) The Chairman of the Securities and Exchange Commission.
-            (5) The Administrator of the Environmental Protection 
-        Agency.
-            (6) The Chairman of the Federal Energy Regulatory 
-        Commission.
-            (7) The Commissioner of the Federal Trade Commission.
-            (8) The Administrator of the Energy Information 
-        Administration.
-
-    (b) Administrative Support.--The Commission shall provide the 
-interagency group such administrative support services as are necessary 
-to enable the interagency group to carry out the functions of the 
-interagency group under this section.
-    (c) Consultation.--In carrying out this section, the interagency 
-group shall consult with representatives of exchanges, clearinghouses, 
-self-regulatory bodies, major carbon market participants, consumers, and 
-the general public, as the interagency group determines to be 
-appropriate.
-    (d) Study.--The interagency group shall conduct a study on the 
-oversight of existing and prospective carbon markets to ensure an 
-efficient, secure, and transparent carbon market, including oversight of 
-spot markets and derivative markets.
-    (e) Report.--Not later than 180 days after the date of enactment of 
-this Act, the interagency group shall submit to Congress a report on the 
-results of the study conducted under subsection
-
-
-(b), including recommendations for the oversight of existing and 
-prospective carbon markets to ensure an efficient, secure, and 
-transparent carbon market, including oversight of spot markets and 
-derivative markets.
+    Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a)) (as 
+amended by section 727) is amended by adding at the end the following:
+            ``(15) Energy and environmental markets advisory 
+        committee.--
+                    ``(A) Establishment.--
+                          ``(i) In general.--An Energy and Environmental 
+                      Markets Advisory Committee is hereby established.
+                          ``(ii) Membership.--The Committee shall have 9 
+                      members.
+                          ``(iii) Activities.--The Committee's 
+                      objectives and scope of activities shall be--
+                                    ``(I) to conduct public meetings;
+                                    ``(II) to submit reports and 
+                                recommendations to the Commission 
+                                (including dissenting or minority views, 
+                                if any); and
+                                    ``(III) otherwise to serve as a 
+                                vehicle for discussion and communication 
+                                on matters of concern to exchanges, 
+                                firms, end users, and regulators 
+                                regarding energy and environmental 
+                                markets and their regulation by the 
+                                Commission.
+                    ``(B) Requirements.--
+                          ``(i) In general.--The &lt;&lt;NOTE: Public 
+                      meetings.&gt;&gt;  Committee shall hold public meetings 
+                      at such intervals as are necessary to carry out 
+                      the functions of the Committee, but not less 
+                      frequently than 2 times per year.
+                          ``(ii) Members.--Members shall be appointed to 
+                      3-year terms, but may be removed for cause by vote 
+                      of the Commission.
+                    ``(C) Appointment.--The Commission shall appoint 
+                members with a wide diversity of opinion and who 
+                represent a broad spectrum of interests, including 
+                hedgers and consumers.
+                    ``(D) Reimbursement.--Members shall be entitled to 
+                per diem and travel expense reimbursement by the 
+                Commission.
+                    ``(E) FACA.--The Committee shall not be subject to 
+                the Federal Advisory Committee Act (5 U.S.C. App.).''.

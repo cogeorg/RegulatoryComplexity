@@ -1,12 +1,4 @@
-                          VIOLATIONS OF THE INVESTMENT ADVISERS 
-                          ACT.
+                          RECKLESSNESS.
 
-    Section 209 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-9) 
-is amended by inserting at the end the following new subsection:
-    ``(f) Aiding and Abetting.--For purposes of any action brought by 
-the Commission under subsection (e), any person that knowingly or 
-recklessly has aided, abetted, counseled, commanded, induced, or 
-procured a violation of any provision of this Act, or of any rule, 
-regulation, or order hereunder, shall be deemed to be in violation of 
-such provision, rule, regulation, or order to the same extent as the 
-person that committed such violation.''.
+    Section 20(e) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78t(e)) is amended by inserting ``or recklessly'' after ``knowingly''.

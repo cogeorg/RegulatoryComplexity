@@ -1,16 +1,42 @@
-                        SUBSIDIARIES.
+                        DERIVATIVE TRANSACTIONS, REPURCHASE 
+                        AGREEMENTS, REVERSE REPURCHASE AGREEMENTS, 
+                        AND SECURITIES LENDING AND BORROWING 
+                        TRANSACTIONS.
 
-    (a) Amendment.--Section 23A(e) of the Federal Reserve Act (12 U.S.C. 
-371c(e)) is amended--
-            (1) by striking paragraph (3); and
-            (2) by redesignating paragraph (4) as paragraph (3).
+    (a) National Banks.--Section 5200(b) of the Revised Statutes of the 
+United States (12 U.S.C. 84(b)) is amended--
+            (1) in paragraph (1), by striking ``shall include'' and all 
+        that follows through the end of the paragraph and inserting the 
+        following: ``shall include--
+                    ``(A) all direct or indirect advances of funds to a 
+                person made on the basis of any obligation of that 
+                person to repay the funds or repayable from specific 
+                property pledged by or on behalf of the person;
+                    ``(B) to the extent specified by the Comptroller of 
+                the Currency, any liability of a national banking 
+                association
 
-    (b) &lt;&lt;NOTE: 12 USC 371c note.&gt;&gt;  Prospective Application of 
-Amendment.--The amendments made by this section shall apply with respect 
-to any covered transaction between a bank and a subsidiary of the bank, 
-as those terms are defined in section 23A of the Federal Reserve Act (12 
-U.S.C. 371c), that is entered into on or after the date of enactment of 
-this Act.
 
-    (c) &lt;&lt;NOTE: 12 USC 371c note.&gt;&gt; Effective Date.--The amendments made 
+                to advance funds to or on behalf of a person pursuant to 
+                a contractual commitment; and
+                    ``(C) any credit exposure to a person arising from a 
+                derivative transaction, repurchase agreement, reverse 
+                repurchase agreement, securities lending transaction, or 
+                securities borrowing transaction between the national 
+                banking association and the person;'';
+            (2) in paragraph (2), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(3) the term `derivative transaction' includes any 
+        transaction that is a contract, agreement, swap, warrant, note, 
+        or option that is based, in whole or in part, on the value of, 
+        any interest in, or any quantitative measure or the occurrence 
+        of any event relating to, one or more commodities, securities, 
+        currencies, interest or other rates, indices, or other 
+        assets.''.
+
+    (b) Savings Associations.--Section 5(u)(3) of the Home Owners' Loan 
+Act (12 U.S.C. 1464(u)(3)) is amended by striking ``Director'' each 
+place that term appears and inserting ``Comptroller of the Currency''.
+    (c) &lt;&lt;NOTE: 12 USC 84 note.&gt;&gt; Effective Date.--The amendments made 
 by this section shall take effect 1 year after the transfer date.

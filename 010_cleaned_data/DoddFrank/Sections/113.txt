@@ -1,208 +1,299 @@
+                        AND REGULATION OF CERTAIN NONBANK 
+                        FINANCIAL COMPANIES.
 
-    (a) Purposes and Duties of the Council.--
-            (1) In general.--The purposes of the Council are--
-                    (A) to identify risks to the financial stability of 
-                the United States that could arise from the material 
-                financial distress or failure, or ongoing activities, of 
-                large, interconnected bank holding companies or nonbank 
-                financial companies, or that could arise outside the 
-                financial services marketplace;
-                    (B) to promote market discipline, by eliminating 
-                expectations on the part of shareholders, creditors, and
+    (a) U.S. Nonbank Financial Companies Supervised by the Board of 
+Governors.--
+            (1) Determination.--The Council, on a nondelegable basis and 
+        by a vote of not fewer than \2/3\ of the voting members then 
+        serving, including an affirmative vote by the Chairperson, may 
+        determine that a U.S. nonbank financial company shall be 
+        supervised by the Board of Governors and shall be subject to 
+        prudential standards, in accordance with this title, if the 
+        Council determines that material financial distress at the U.S. 
+        nonbank financial company, or the nature, scope, size, scale, 
+        concentration, interconnectedness, or mix of the activities of 
+        the U.S. nonbank financial company, could pose a threat to the 
+        financial stability of the United States.
+            (2) Considerations.--In making a determination under 
+        paragraph (1), the Council shall consider--
+                    (A) the extent of the leverage of the company;
+                    (B) the extent and nature of the off-balance-sheet 
+                exposures of the company;
+                    (C) the extent and nature of the transactions and 
+                relationships of the company with other significant 
+                nonbank financial companies and significant bank holding 
+                companies;
+                    (D) the importance of the company as a source of 
+                credit for households, businesses, and State and local 
+                governments and as a source of liquidity for the United 
+                States financial system;
+                    (E) the importance of the company as a source of 
+                credit for low-income, minority, or underserved 
+                communities, and the impact that the failure of such 
+                company would have on the availability of credit in such 
+                communities;
+                    (F) the extent to which assets are managed rather 
+                than owned by the company, and the extent to which 
+                ownership of assets under management is diffuse;
+                    (G) the nature, scope, size, scale, concentration, 
+                interconnectedness, and mix of the activities of the 
+                company;
+                    (H) the degree to which the company is already 
+                regulated by 1 or more primary financial regulatory 
+                agencies;
+                    (I) the amount and nature of the financial assets of 
+                the company;
+                    (J) the amount and types of the liabilities of the 
+                company, including the degree of reliance on short-term 
+                funding; and
+                    (K) any other risk-related factors that the Council 
+                deems appropriate.
 
-
-                counterparties of such companies that the Government 
-                will shield them from losses in the event of failure; 
-                and
-                    (C) to respond to emerging threats to the stability 
-                of the United States financial system.
-            (2) Duties.--The Council shall, in accordance with this 
-        title--
-                    (A) collect information from member agencies, other 
-                Federal and State financial regulatory agencies, the 
-                Federal Insurance Office and, if necessary to assess 
-                risks to the United States financial system, direct the 
-                Office of Financial Research to collect information from 
-                bank holding companies and nonbank financial companies;
-                    (B) provide direction to, and request data and 
-                analyses from, the Office of Financial Research to 
-                support the work of the Council;
-                    (C) monitor the financial services marketplace in 
-                order to identify potential threats to the financial 
-                stability of the United States;
-                    (D) to monitor domestic and international financial 
-                regulatory proposals and developments, including 
-                insurance and accounting issues, and to advise Congress 
-                and make recommendations in such areas that will enhance 
-                the integrity, efficiency, competitiveness, and 
-                stability of the U.S. financial markets;
-                    (E) facilitate information sharing and coordination 
-                among the member agencies and other Federal and State 
-                agencies regarding domestic financial services policy 
-                development, rulemaking, examinations, reporting 
-                requirements, and enforcement actions;
-                    (F) recommend to the member agencies general 
-                supervisory priorities and principles reflecting the 
-                outcome of discussions among the member agencies;
-                    (G) identify gaps in regulation that could pose 
-                risks to the financial stability of the United States;
-                    (H) require supervision by the Board of Governors 
-                for nonbank financial companies that may pose risks to 
-                the financial stability of the United States in the 
-                event of their material financial distress or failure, 
-                or because of their activities pursuant to section 113;
-                    (I) make &lt;&lt;NOTE: Recommenda- 
-                tions.&gt;&gt; recommendations to the Board of Governors 
-                concerning the establishment of heightened prudential 
-                standards for risk-based capital, leverage, liquidity, 
-                contingent capital, resolution plans and credit exposure 
-                reports, concentration limits, enhanced public 
-                disclosures, and overall risk management for nonbank 
-                financial companies and large, interconnected bank 
-                holding companies supervised by the Board of Governors;
-                    (J) identify systemically important financial market 
-                utilities and payment, clearing, and settlement 
-                activities (as that term is defined in title VIII);
-                    (K) &lt;&lt;NOTE: Recommenda- tions.&gt;&gt;  make 
-                recommendations to primary financial regulatory agencies 
-                to apply new or heightened standards and safeguards for 
-                financial activities or practices that could create or 
-                increase risks of significant liquidity, credit, or 
-                other problems spreading among bank holding companies, 
-                nonbank financial companies, and United States financial 
-                markets;
+    (b) Foreign Nonbank Financial Companies Supervised by the Board of 
+Governors.--
+            (1) Determination.--The Council, on a nondelegable basis and 
+        by a vote of not fewer than \2/3\ of the voting members then 
+        serving, including an affirmative vote by the Chairperson,
 
 
-                    (L) review and, as appropriate, may submit comments 
-                to the Commission and any standard-setting body with 
-                respect to an existing or proposed accounting principle, 
-                standard, or procedure;
-                    (M) provide a forum for--
-                          (i) discussion and analysis of emerging market 
-                      developments and financial regulatory issues; and
-                          (ii) resolution of jurisdictional disputes 
-                      among the members of the Council; and
-                    (N) &lt;&lt;NOTE: Deadline. Reports.&gt;&gt; annually report to 
-                and testify before Congress on--
-                          (i) the activities of the Council;
-                          (ii) significant financial market and 
-                      regulatory developments, including insurance and 
-                      accounting regulations and standards, along with 
-                      an assessment of those developments on the 
-                      stability of the financial system;
-                          (iii) potential emerging threats to the 
-                      financial stability of the United States;
-                          (iv) all determinations made under section 113 
-                      or title VIII, and the basis for such 
-                      determinations;
-                          (v) all recommendations made under section 119 
-                      and the result of such recommendations; and
-                          (vi) recommendations--
-                                    (I) to enhance the integrity, 
-                                efficiency, competitiveness, and 
-                                stability of United States financial 
-                                markets;
-                                    (II) to promote market discipline; 
-                                and
-                                    (III) to maintain investor 
-                                confidence.
+        may determine that a foreign nonbank financial company shall be 
+        supervised by the Board of Governors and shall be subject to 
+        prudential standards, in accordance with this title, if the 
+        Council determines that material financial distress at the 
+        foreign nonbank financial company, or the nature, scope, size, 
+        scale, concentration, interconnectedness, or mix of the 
+        activities of the foreign nonbank financial company, could pose 
+        a threat to the financial stability of the United States.
+            (2) Considerations.--In making a determination under 
+        paragraph (1), the Council shall consider--
+                    (A) the extent of the leverage of the company;
+                    (B) the extent and nature of the United States 
+                related off-balance-sheet exposures of the company;
+                    (C) the extent and nature of the transactions and 
+                relationships of the company with other significant 
+                nonbank financial companies and significant bank holding 
+                companies;
+                    (D) the importance of the company as a source of 
+                credit for United States households, businesses, and 
+                State and local governments and as a source of liquidity 
+                for the United States financial system;
+                    (E) the importance of the company as a source of 
+                credit for low-income, minority, or underserved 
+                communities in the United States, and the impact that 
+                the failure of such company would have on the 
+                availability of credit in such communities;
+                    (F) the extent to which assets are managed rather 
+                than owned by the company and the extent to which 
+                ownership of assets under management is diffuse;
+                    (G) the nature, scope, size, scale, concentration, 
+                interconnectedness, and mix of the activities of the 
+                company;
+                    (H) the extent to which the company is subject to 
+                prudential standards on a consolidated basis in its home 
+                country that are administered and enforced by a 
+                comparable foreign supervisory authority;
+                    (I) the amount and nature of the United States 
+                financial assets of the company;
+                    (J) the amount and nature of the liabilities of the 
+                company used to fund activities and operations in the 
+                United States, including the degree of reliance on 
+                short-term funding; and
+                    (K) any other risk-related factors that the Council 
+                deems appropriate.
 
-    (b) Statements by Voting Members of the Council.--At the time at 
-which each report is submitted under subsection (a), each voting member 
-of the Council shall--
-            (1) if such member believes that the Council, the 
-        Government, and the private sector are taking all reasonable 
-        steps to ensure financial stability and to mitigate systemic 
-        risk that would negatively affect the economy, submit a signed 
-        statement to Congress stating such belief; or
-            (2) if such member does not believe that all reasonable 
-        steps described under paragraph (1) are being taken, submit a 
-        signed statement to Congress stating what actions such member 
-        believes need to be taken in order to ensure that all reasonable 
-        steps described under paragraph (1) are taken.
-
-    (c) Testimony by the Chairperson.--The Chairperson shall appear 
-before the Committee on Financial Services of the House of 
-Representatives and the Committee on Banking, Housing, and Urban Affairs 
-of the Senate at an annual hearing, after the report is submitted under 
-subsection (a)--
-            (1) to discuss the efforts, activities, objectives, and 
-        plans of the Council; and
-            (2) to discuss and answer questions concerning such report.
-
-    (d) Authority To Obtain Information.--
-            (1) In general.--The Council may receive, and may request 
-        the submission of, any data or information from the Office of 
-        Financial Research, member agencies, and the Federal Insurance 
-        Office, as necessary--
-                    (A) to monitor the financial services marketplace to 
-                identify potential risks to the financial stability of 
-                the United States; or
+    (c) Antievasion.--
+            (1) Determinations.--In order to avoid evasion of this 
+        title, the Council, on its own initiative or at the request of 
+        the Board of Governors, may determine, on a nondelegable basis 
+        and by a vote of not fewer than \2/3\ of the voting members then 
+        serving, including an affirmative vote by the Chairperson, 
+        that--
+                    (A) material financial distress related to, or the 
+                nature, scope, size, scale, concentration, 
+                interconnectedness, or mix of, the financial activities 
+                conducted directly or indirectly by a company 
+                incorporated or organized under the laws of the United 
+                States or any State or the financial activities in the 
+                United States of a company incorporated or organized in 
+                a country other than the United States would
 
 
-                    (B) to otherwise carry out any of the provisions of 
-                this title.
-            (2) Submissions by the office and member agencies.--
-        Notwithstanding any other provision of law, the Office of 
-        Financial Research, any member agency, and the Federal Insurance 
-        Office, are authorized to submit information to the Council.
-            (3) Financial data collection.--
-                    (A) In general.--The Council, acting through the 
-                Office of Financial Research, may require the submission 
-                of periodic and other reports from any nonbank financial 
-                company or bank holding company for the purpose of 
-                assessing the extent to which a financial activity or 
-                financial market in which the nonbank financial company 
-                or bank holding company participates, or the nonbank 
-                financial company or bank holding company itself, poses 
-                a threat to the financial stability of the United 
-                States.
-                    (B) Mitigation of report burden.--Before requiring 
-                the submission of reports from any nonbank financial 
-                company or bank holding company that is regulated by a 
-                member agency or any primary financial regulatory 
-                agency, the Council, acting through the Office of 
-                Financial Research, shall coordinate with such agencies 
-                and shall, whenever possible, rely on information 
-                available from the Office of Financial Research or such 
-                agencies.
-                    (C) Mitigation in case of foreign financial 
-                companies.--Before &lt;&lt;NOTE: Consultation.&gt;&gt; requiring the 
-                submission of reports from a company that is a foreign 
-                nonbank financial company or foreign-based bank holding 
-                company, the Council shall, acting through the Office of 
-                Financial Research, to the extent appropriate, consult 
-                with the appropriate foreign regulator of such company 
-                and, whenever possible, rely on information already 
-                being collected by such foreign regulator, with English 
-                translation.
-            (4) Back-up examination by the board of governors.--If the 
-        Council is unable to determine whether the financial activities 
-        of a U.S. nonbank financial company pose a threat to the 
-        financial stability of the United States, based on information 
-        or reports obtained under paragraphs (1) and (3), discussions 
-        with management, and publicly available information, the Council 
-        may request the Board of Governors, and the Board of Governors 
-        is authorized, to conduct an examination of the U.S. nonbank 
-        financial company for the sole purpose of determining whether 
-        the nonbank financial company should be supervised by the Board 
-        of Governors for purposes of this title.
-            (5) Confidentiality.--
-                    (A) In general.--The Council, the Office of 
-                Financial Research, and the other member agencies shall 
-                maintain the confidentiality of any data, information, 
-                and reports submitted under this title.
-                    (B) Retention of privilege.--The submission of any 
-                nonpublicly available data or information under this 
-                subsection and subtitle B shall not constitute a waiver 
-                of, or otherwise affect, any privilege arising under 
-                Federal or State law (including the rules of any Federal 
-                or State court) to which the data or information is 
-                otherwise subject.
+                pose a threat to the financial stability of the United 
+                States, based on consideration of the factors in 
+                subsection (a)(2) or (b)(2), as applicable;
+                    (B) the company is organized or operates in such a 
+                manner as to evade the application of this title; and
+                    (C) such financial activities of the company shall 
+                be supervised by the Board of Governors and subject to 
+                prudential standards in accordance with this title, 
+                consistent with paragraph (3).
+            (2) Report.--Upon making a determination under paragraph 
+        (1), the Council shall submit a report to the appropriate 
+        committees of Congress detailing the reasons for making such 
+        determination.
+            (3) Consolidated supervision of only financial activities; 
+        establishment of an intermediate holding company.--
+                    (A) Establishment of an intermediate holding 
+                company.--Upon a determination under paragraph (1), the 
+                company that is the subject of the determination may 
+                establish an intermediate holding company in which the 
+                financial activities of such company and its 
+                subsidiaries shall be conducted (other than the 
+                activities described in section 167(b)(2)) in compliance 
+                with any regulations or guidance provided by the Board 
+                of Governors. Such intermediate holding company shall be 
+                subject to the supervision of the Board of Governors and 
+                to prudential standards under this title as if the 
+                intermediate holding company were a nonbank financial 
+                company supervised by the Board of Governors.
+                    (B) Action of the board of governors.--To facilitate 
+                the supervision of the financial activities subject to 
+                the determination in paragraph (1), the Board of 
+                Governors may require a company to establish an 
+                intermediate holding company, as provided for in section 
+                167, which would be subject to the supervision of the 
+                Board of Governors and to prudential standards under 
+                this title, as if the intermediate holding company were 
+                a nonbank financial company supervised by the Board of 
+                Governors.
+            (4) Notice and opportunity for hearing and final 
+        determination; judicial review.-- 
+        &lt;&lt;NOTE: Applicability.&gt;&gt; Subsections (d) through (h) shall apply 
+        to determinations made by the Council pursuant to paragraph (1) 
+        in the same manner as such subsections apply to nonbank 
+        financial companies.
+            (5) Covered financial activities.--For purposes of this 
+        subsection, the term ``financial activities''--
+                    (A) &lt;&lt;NOTE: Definition.&gt;&gt; means activities that are 
+                financial in nature (as defined in section 4(k) of the 
+                Bank Holding Company Act of 1956);
+                    (B) includes the ownership or control of one or more 
+                insured depository institutions; and
+                    (C) does not include internal financial activities 
+                conducted for the company or any affiliate thereof, 
+                including internal treasury, investment, and employee 
+                benefit functions.
+            (6) Only financial activities subject to prudential 
+        supervision.--Nonfinancial activities of the company shall not
 
 
-                    (C) Freedom of information act.--
-                Section &lt;&lt;NOTE: Applicability.&gt;&gt; 552 of title 5, United 
-                States Code, including the exceptions thereunder, shall 
-                apply to any data or information submitted under this 
-                subsection and subtitle B.
+        be subject to supervision by the Board of Governors and 
+        prudential standards of the Board. For purposes of this Act, the 
+        financial activities that are the subject of the determination 
+        in paragraph (1) shall be subject to the same requirements as a 
+        nonbank financial company supervised by the Board of Governors. 
+        Nothing in this paragraph shall prohibit or limit the authority 
+        of the Board of Governors to apply prudential standards under 
+        this title to the financial activities that are subject to the 
+        determination in paragraph (1).
+
+    (d) Reevaluation and Rescission.--The Council shall--
+            (1) &lt;&lt;NOTE: Deadline.&gt;&gt; not less frequently than annually, 
+        reevaluate each determination made under subsections (a) and (b) 
+        with respect to such nonbank financial company supervised by the 
+        Board of Governors; and
+            (2) rescind any such determination, if the Council, by a 
+        vote of not fewer than \2/3\ of the voting members then serving, 
+        including an affirmative vote by the Chairperson, determines 
+        that the nonbank financial company no longer meets the standards 
+        under subsection (a) or (b), as applicable.
+
+    (e) Notice &lt;&lt;NOTE: Deadlines.&gt;&gt; and Opportunity for Hearing and 
+Final Determination.--
+            (1) In general.--The Council shall provide to a nonbank 
+        financial company written notice of a proposed determination of 
+        the Council, including an explanation of the basis of the 
+        proposed determination of the Council, that a nonbank financial 
+        company shall be supervised by the Board of Governors and shall 
+        be subject to prudential standards in accordance with this 
+        title.
+            (2) Hearing.--Not later than 30 days after the date of 
+        receipt of any notice of a proposed determination under 
+        paragraph (1), the nonbank financial company may request, in 
+        writing, an opportunity for a written or oral hearing before the 
+        Council to contest the proposed determination. Upon receipt of a 
+        timely request, the Council shall fix a time (not later than 30 
+        days after the date of receipt of the request) and place at 
+        which such company may appear, personally or through counsel, to 
+        submit written materials (or, at the sole discretion of the 
+        Council, oral testimony and oral argument).
+            (3) Final determination.--Not later than 60 days after the 
+        date of a hearing under paragraph (2), the Council shall notify 
+        the nonbank financial company of the final determination of the 
+        Council, which shall contain a statement of the basis for the 
+        decision of the Council.
+            (4) No hearing requested.--If a nonbank financial company 
+        does not make a timely request for a hearing, the Council shall 
+        notify the nonbank financial company, in writing, of the final 
+        determination of the Council under subsection (a) or (b), as 
+        applicable, not later than 10 days after the date by which the 
+        company may request a hearing under paragraph (2).
+
+    (f) Emergency &lt;&lt;NOTE: Deadlines.&gt;&gt; Exception.--
+            (1) In general.--The &lt;&lt;NOTE: Waiver authority.&gt;&gt; Council may 
+        waive or modify the requirements of subsection (e) with respect 
+        to a nonbank financial company, if the Council determines, by a 
+        vote of not fewer than \2/3\ of the voting members then serving, 
+        including an affirmative vote by the Chairperson, that such 
+        waiver or modification is necessary or appropriate to prevent or 
+        mitigate
+
+
+        threats posed by the nonbank financial company to the financial 
+        stability of the United States.
+            (2) Notice.--The Council shall provide notice of a waiver or 
+        modification under this subsection to the nonbank financial 
+        company concerned as soon as practicable, but not later than 24 
+        hours after the waiver or modification is granted.
+            (3) International coordination.--
+        In &lt;&lt;NOTE: Consultation.&gt;&gt; making a determination under 
+        paragraph (1), the Council shall consult with the appropriate 
+        home country supervisor, if any, of the foreign nonbank 
+        financial company that is being considered for such a 
+        determination.
+            (4) Opportunity for hearing.--The Council shall allow a 
+        nonbank financial company to request, in writing, an opportunity 
+        for a written or oral hearing before the Council to contest a 
+        waiver or modification under this subsection, not later than 10 
+        days after the date of receipt of notice of the waiver or 
+        modification by the company. Upon receipt of a timely request, 
+        the Council shall fix a time (not later than 15 days after the 
+        date of receipt of the request) and place at which the nonbank 
+        financial company may appear, personally or through counsel, to 
+        submit written materials (or, at the sole discretion of the 
+        Council, oral testimony and oral argument).
+            (5) Notice of final determination.--Not later than 30 days 
+        after the date of any hearing under paragraph (4), the Council 
+        shall notify the subject nonbank financial company of the final 
+        determination of the Council under this subsection, which shall 
+        contain a statement of the basis for the decision of the 
+        Council.
+
+    (g) Consultation.--The Council shall consult with the primary 
+financial regulatory agency, if any, for each nonbank financial company 
+or subsidiary of a nonbank financial company that is being considered 
+for supervision by the Board of Governors under this section before the 
+Council makes any final determination with respect to such nonbank 
+financial company under subsection (a), (b), or (c).
+    (h) Judicial Review.--If &lt;&lt;NOTE: Deadline.&gt;&gt; the Council makes a 
+final determination under this section with respect to a nonbank 
+financial company, such nonbank financial company may, not later than 30 
+days after the date of receipt of the notice of final determination 
+under subsection (d)(2), (e)(3), or (f)(5), bring an action in the 
+United States district court for the judicial district in which the home 
+office of such nonbank financial company is located, or in the United 
+States District Court for the District of Columbia, for an order 
+requiring that the final determination be rescinded, and the court 
+shall, upon review, dismiss such action or direct the final 
+determination to be rescinded. Review of such an action shall be limited 
+to whether the final determination made under this section was arbitrary 
+and capricious.
+
+    (i) International Coordination.--
+In &lt;&lt;NOTE: Consultation.&gt;&gt; exercising its duties under this title with 
+respect to foreign nonbank financial companies, foreign-based bank 
+holding companies, and cross-border activities and markets, the Council 
+shall consult with appropriate foreign regulatory authorities, to the 
+extent appropriate.
+
+

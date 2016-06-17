@@ -1,18 +1,9 @@
 
-    Section 21B of the Securities Exchange Act of 1934 &lt;&lt;NOTE: 15 USC 
-78u-2.&gt;&gt;  (15 U.S.C. 78p-2) is amended by adding at the end the 
-following:
+    Unless otherwise provided, the provisions of this subtitle shall 
+take effect on the later of 360 days after the date of the enactment of 
+this subtitle or, to the extent a provision of this subtitle requires a 
+rulemaking, not less than 60 days after publication of the final rule or 
+regulation implementing such provision of this subtitle.
 
-    ``(f) Security-based Swaps.--
-            ``(1) Clearing agency.--Any clearing agency that knowingly 
-        or recklessly evades or participates in or facilitates an 
-        evasion of the requirements of section 3C shall be liable for a 
-        civil money penalty in twice the amount otherwise available for 
-        a violation of section 3C.
-            ``(2) Security-based swap dealer or major security-based 
-        swap participant.--Any security-based swap dealer or major 
-        security-based swap participant that knowingly or recklessly 
-        evades or participates in or facilitates an evasion of the 
-        requirements of section 3C shall be liable for a civil money 
-        penalty in twice the amount otherwise available for a violation 
-        of section 3C.''.
+   TITLE &lt;&lt;NOTE: Payment, Clearing, and Settlement Supervision Act of 
+2010.&gt;&gt;  VIII--PAYMENT, CLEARING, AND SETTLEMENT SUPERVISION

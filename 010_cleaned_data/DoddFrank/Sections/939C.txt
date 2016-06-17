@@ -1,10 +1,31 @@
-                          FROM FAIR DISCLOSURE RULE.
+                          STRENGTHENING CREDIT RATING AGENCY 
+                          INDEPENDENCE.
 
-    Not &lt;&lt;NOTE: Deadline.&gt;&gt; later than 90 days after the date of 
-enactment of this subtitle, the Securities Exchange Commission shall 
-revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation 
-the
+    (a) Study.--The Commission shall conduct a study of--
+            (1) the independence of nationally recognized statistical 
+        rating organizations; and
+            (2) how the independence of nationally recognized 
+        statistical rating organizations affects the ratings issued by 
+        the nationally recognized statistical rating organizations.
 
+    (b) Subjects for Evaluation.--In conducting the study under 
+subsection (a), the Commission shall evaluate--
+            (1) the management of conflicts of interest raised by a 
+        nationally recognized statistical rating organization providing 
+        other services, including risk management advisory services, 
+        ancillary assistance, or consulting services;
+            (2) the potential impact of rules prohibiting a nationally 
+        recognized statistical rating organization that provides a 
+        rating to an issuer from providing other services to the issuer; 
+        and
+            (3) any other issue relating to nationally recognized 
+        statistical rating organizations, as the Chairman of the 
+        Commission determines is appropriate.
 
-exemption for entities whose primary business is the issuance of credit 
-ratings (17 C.F.R. 243.100(b)(2)(iii)).
+    (c) Report.--Not later than 3 years after the date of enactment of 
+this Act, the Chairman of the Commission shall submit to the Committee 
+on Banking, Housing, and Urban Affairs of the Senate and the Committee 
+on Financial Services of the House of Representatives a report on the 
+results of the study conducted under subsection (a), including 
+recommendations, if any, for improving the integrity of ratings issued 
+by nationally recognized statistical rating organizations.

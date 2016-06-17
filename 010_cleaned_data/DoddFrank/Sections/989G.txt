@@ -1,48 +1,20 @@
 
-    (a) Study.--
-            (1) In general.--The Comptroller General of the United 
-        States shall conduct a study of person to person lending to 
-        determine the optimal Federal regulatory structure.
-            (2) Consultation.--In conducting the study required under 
-        paragraph (1), the Comptroller General shall consult with 
-        Federal banking agencies, the Commission, consumer groups, 
-        outside experts, and the person to person lending industry.
-            (3) Content of study.--The study required under paragraph 
-        (1) shall include an examination of--
-                    (A) the regulatory structure as it exists on the 
-                date of enactment of this Act, as determined by the 
-                Commission, with particular attention to--
-                          (i) the application of the Securities Act of 
-                      1933 to person to person lending platforms;
-                          (ii) the posting of consumer loan information 
-                      on the EDGAR database of the Commission; and
-                          (iii) the treatment of privately held person 
-                      to person lending platforms as public companies;
-                    (B) the State and other Federal regulators 
-                responsible for the oversight and regulation of person 
-                to person lending markets;
-                    (C) any Federal, State, or local government or 
-                private studies of person to person lending completed or 
-                in progress on the date of enactment of this Act;
-                    (D) consumer privacy and data protections, minimum 
-                credit standards, anti-money laundering and risk 
-                management in the regulatory structure as it exists on 
-                the date of enactment of this Act, and whether 
-                additional or alternative safeguards are needed; and
+    (a) Exemption.--Section 404 &lt;&lt;NOTE: 15 USC 7262.&gt;&gt; of the Sarbanes-
+Oxley Act of 2002 is amended by adding at the end the following:
 
-
-                    (E) the uses of person to person lending.
-
-    (b) Report.--
-            (1) In general.--Not later than 1 year after the date of 
-        enactment of this Act, the Comptroller General shall submit a 
-        report on the study required under subsection (a) to the 
-        Committee on Banking, Housing, and Urban Affairs of the Senate 
-        and the Committee on Financial Services of the House of 
-        Representatives.
-            (2) Content of report.--The report required under paragraph 
-        (1) shall include alternative regulatory options, including--
-                    (A) the involvement of other Federal agencies; and
-                    (B) alternative approaches by the Commission and 
-                recommendations on whether the alternative approaches 
-                are effective.
+    ``(c) Exemption for Smaller Issuers.--Subsection (b) shall not apply 
+with respect to any audit report prepared for an issuer that is neither 
+a `large accelerated filer' nor an `accelerated filer' as those terms 
+are defined in Rule 12b-2 of the Commission (17 C.F.R. 240.12b-2).''.
+    (b) Study.--The Securities and Exchange Commission shall conduct a 
+study to determine how the Commission could reduce the burden of 
+complying with section 404(b) of the Sarbanes-Oxley Act of 2002 for 
+companies whose market capitalization is between $75,000,000 and 
+$250,000,000 for the relevant reporting period while maintaining 
+investor protections for such companies. The study shall also consider 
+whether any such methods of reducing the compliance burden or a complete 
+exemption for such companies from compliance with such section would 
+encourage companies to list on exchanges in the United States in their 
+initial public offerings. &lt;&lt;NOTE: Deadline. Reports.&gt;&gt;  Not later than 9 
+months after the date of the enactment of this subtitle, the Commission 
+shall transmit a report of such study to Congress.

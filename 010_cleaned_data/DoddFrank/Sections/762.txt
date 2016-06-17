@@ -1,296 +1,144 @@
+                        SWAP AGREEMENTS.
 
-    (a) Definitions.--Section 3(a) of the Securities Exchange Act of 
-1934 (15 U.S.C. 78c(a)) is amended--
-
-
-            (1) in subparagraphs (A) and (B) of paragraph (5), by 
-        inserting ``(not including security-based swaps, other than 
-        security-based swaps with or for persons that are not eligible 
-        contract participants)'' after ``securities'' each place that 
-        term appears;
-            (2) in paragraph (10), by inserting ``security-based swap,'' 
-        after ``security future,'';
-            (3) in paragraph (13), by adding at the end the following: 
-        ``For security-based swaps, such terms include the execution, 
-        termination (prior to its scheduled maturity date), assignment, 
-        exchange, or similar transfer or conveyance of, or extinguishing 
-        of rights or obligations under, a security-based swap, as the 
-        context may require.'';
-            (4) in paragraph (14), by adding at the end the following: 
-        ``For security-based swaps, such terms include the execution, 
-        termination (prior to its scheduled maturity date), assignment, 
-        exchange, or similar transfer or conveyance of, or extinguishing 
-        of rights or obligations under, a security-based swap, as the 
-        context may require.'';
-            (5) in paragraph (39)--
-                    (A) in subparagraph (B)(i)--
-                          (i) in subclause (I), by striking ``or 
-                      government securities dealer'' and inserting 
-                      ``government securities dealer, security-based 
-                      swap dealer, or major security-based swap 
-                      participant''; and
-                          (ii) in subclause (II), by inserting 
-                      ``security-based swap dealer, major security-based 
-                      swap participant,'' after ``government securities 
-                      dealer,'';
-                    (B) in subparagraph (C), by striking ``or government 
-                securities dealer'' and inserting ``government 
-                securities dealer, security-based swap dealer, or major 
-                security-based swap participant''; and
-                    (C) in subparagraph (D), by inserting ``security-
-                based swap dealer, major security-based swap 
-                participant,'' after ``government securities dealer,''; 
-                and
-            (6) by adding at the end the following:
-            ``(65) Eligible contract participant.--The term `eligible 
-        contract participant' has the same meaning as in section 1a of 
-        the Commodity Exchange Act (7 U.S.C. 1a).
-            ``(66) Major swap participant.--The term `major swap 
-        participant' has the same meaning as in section 1a of the 
-        Commodity Exchange Act (7 U.S.C. 1a).
-            ``(67) Major security-based swap participant.--
-                    ``(A) In general.--The term `major security-based 
-                swap participant' means any person--
-                          ``(i) who is not a security-based swap dealer; 
-                      and
-                          ``(ii)(I) who maintains a substantial position 
-                      in security-based swaps for any of the major 
-                      security-based swap categories, as such categories 
-                      are determined by the Commission, excluding both 
-                      positions held for hedging or mitigating 
-                      commercial risk and positions maintained by any 
-                      employee benefit plan (or any contract held by 
-                      such a plan) as defined in paragraphs (3) and (32) 
-                      of section 3 of the Employee Retirement Income 
-                      Security Act of 1974 (29 U.S.C. 1002) for the 
-                      primary purpose of hedging or mitigating any risk 
-                      directly associated with the operation of the 
-                      plan;
+    (a) Repeal.--Sections 206B and 206C of the Gramm-Leach-Bliley Act 
+(Public Law 106-102; 15 U.S.C. 78c note) are repealed.
+    (b) Conforming Amendments to Gramm-Leach-Bliley.--Section 206A(a) of 
+the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended in the 
+material preceding paragraph (1), by striking ``Except as'' and all that 
+follows through ``that--'' and inserting the following: ``Except as 
+provided in subsection (b), as used in this section, the term `swap 
+agreement' means any agreement, contract, or transaction that--''.
+    (c) Conforming Amendments to the Securities Act of 1933.--
+            (1) Section 2A of the Securities Act of 1933 (15 U.S.C. 77b-
+        1) is amended--
+                    (A) by striking subsection (a) and reserving that 
+                subsection; and
+                    (B) by striking ``(as defined in section 206B of the 
+                Gramm-Leach-Bliley Act)'' each place that such term 
+                appears and inserting ``(as defined in section 3(a)(78) 
+                of the Securities Exchange Act of 1934)''.
+            (2) Section 17 of the Securities Act of 1933 (15 U.S.C. 77q) 
+        is amended--
+                    (A) in subsection (a)--
 
 
-                          ``(II) whose outstanding security-based swaps 
-                      create substantial counterparty exposure that 
-                      could have serious adverse effects on the 
-                      financial stability of the United States banking 
-                      system or financial markets; or
-                          ``(III) that is a financial entity that--
-                                    ``(aa) is highly leveraged relative 
-                                to the amount of capital such entity 
-                                holds and that is not subject to capital 
-                                requirements established by an 
-                                appropriate Federal banking agency; and
-                                    ``(bb) maintains a substantial 
-                                position in outstanding security-based 
-                                swaps in any major security-based swap 
-                                category, as such categories are 
-                                determined by the Commission.
-                    ``(B) Definition of substantial position.--For 
-                purposes of subparagraph (A), the Commission shall 
-                define, by rule or regulation, the term `substantial 
-                position' at the threshold that the Commission 
-                determines to be prudent for the effective monitoring, 
-                management, and oversight of entities that are 
-                systemically important or can significantly impact the 
-                financial system of the United States. In setting the 
-                definition under this subparagraph, the Commission shall 
-                consider the person's relative position in uncleared as 
-                opposed to cleared security-based swaps and may take 
-                into consideration the value and quality of collateral 
-                held against counterparty exposures.
-                    ``(C) Scope of designation.--For purposes of 
-                subparagraph (A), a person may be designated as a major 
-                security-based swap participant for 1 or more categories 
-                of security-based swaps without being classified as a 
-                major security-based swap participant for all classes of 
-                security-based swaps.
-            ``(68) Security-based swap.--
-                    ``(A) In general.--Except as provided in 
-                subparagraph (B), the term `security-based swap' means 
-                any agreement, contract, or transaction that--
-                          ``(i) is a swap, as that term is defined under 
-                      section 1a of the Commodity Exchange Act (without 
-                      regard to paragraph (47)(B)(x) of such section); 
-                      and
-                          ``(ii) is based on--
-                                    ``(I) an index that is a narrow-
-                                based security index, including any 
-                                interest therein or on the value 
-                                thereof;
-                                    ``(II) a single security or loan, 
-                                including any interest therein or on the 
-                                value thereof; or
-                                    ``(III) the occurrence, 
-                                nonoccurrence, or extent of the 
-                                occurrence of an event relating to a 
-                                single issuer of a security or the 
-                                issuers of securities in a narrow-based 
-                                security index, provided that such event 
-                                directly affects the financial 
-                                statements, financial condition, or 
-                                financial obligations of the issuer.
-                    ``(B) Rule of construction regarding master 
-                agreements.--The term `security-based swap' shall be 
-                construed to include a master agreement that provides 
-                for an agreement, contract, or transaction that is a 
-                security-based swap pursuant to subparagraph (A), 
-                together with
+                          (i) by inserting ``(including security-based 
+                      swaps)'' after ``securities''; and
+                          (ii) by striking ``(as defined in section 206B 
+                      of the Gramm-Leach-Bliley Act)'' and inserting 
+                      ``(as defined in section 3(a)(78) of the 
+                      Securities Exchange Act)''; and
+                    (B) in subsection (d), by striking ``206B of the 
+                Gramm-Leach-Bliley Act'' and inserting ``3(a)(78) of the 
+                Securities Exchange Act of 1934''.
+
+    (d) Conforming Amendments to the Securities Exchange Act of 1934.--
+The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended--
+            (1) in section 3A (15 U.S.C. 78c-1)--
+                    (A) by striking subsection (a) and reserving that 
+                subsection; and
+                    (B) by striking ``(as defined in section 206B of the 
+                Gramm-Leach-Bliley Act)'' each place that the term 
+                appears;
+            (2) in section 9 (15 U.S.C. 78i)--
+                    (A) in subsection (a), by striking paragraphs (2) 
+                through (5) and inserting the following:
+
+    ``(2) To effect, alone or with 1 or more other persons, a series of 
+transactions in any security registered on a national securities 
+exchange, any security not so registered, or in connection with any 
+security-based swap or security-based swap agreement with respect to 
+such security creating actual or apparent active trading in such 
+security, or raising or depressing the price of such security, for the 
+purpose of inducing the purchase or sale of such security by others.
+    ``(3) If a dealer, broker, security-based swap dealer, major 
+security-based swap participant, or other person selling or offering for 
+sale or purchasing or offering to purchase the security, a security-
+based swap, or a security-based swap agreement with respect to such 
+security, to induce the purchase or sale of any security registered on a 
+national securities exchange, any security not so registered, any 
+security-based swap, or any security-based swap agreement with respect 
+to such security by the circulation or dissemination in the ordinary 
+course of business of information to the effect that the price of any 
+such security will or is likely to rise or fall because of market 
+operations of any 1 or more persons conducted for the purpose of raising 
+or depressing the price of such security.
+    ``(4) If a dealer, broker, security-based swap dealer, major 
+security-based swap participant, or other person selling or offering for 
+sale or purchasing or offering to purchase the security, a security-
+based swap, or security-based swap agreement with respect to such 
+security, to make, regarding any security registered on a national 
+securities exchange, any security not so registered, any security-based 
+swap, or any security-based swap agreement with respect to such 
+security, for the purpose of inducing the purchase or sale of such 
+security, such security-based swap, or such security-based swap 
+agreement any statement which was at the time and in the light of the 
+circumstances under which it was made, false or misleading with respect 
+to any material fact, and which that person knew or had reasonable 
+ground to believe was so false or misleading.
 
 
-                all supplements to any such master agreement, without 
-                regard to whether the master agreement contains an 
-                agreement, contract, or transaction that is not a 
-                security-based swap pursuant to subparagraph (A), except 
-                that the master agreement shall be considered to be a 
-                security-based swap only with respect to each agreement, 
-                contract, or transaction under the master agreement that 
-                is a security-based swap pursuant to subparagraph (A).
-                    ``(C) Exclusions.--The term `security-based swap' 
-                does not include any agreement, contract, or transaction 
-                that meets the definition of a security-based swap only 
-                because such agreement, contract, or transaction 
-                references, is based upon, or settles through the 
-                transfer, delivery, or receipt of an exempted security 
-                under paragraph (12), as in effect on the date of 
-                enactment of the Futures Trading Act of 1982 (other than 
-                any municipal security as defined in paragraph (29) as 
-                in effect on the date of enactment of the Futures 
-                Trading Act of 1982), unless such agreement, contract, 
-                or transaction is of the character of, or is commonly 
-                known in the trade as, a put, call, or other option.
-                    ``(D) Mixed swap.--The term `security-based swap' 
-                includes any agreement, contract, or transaction that is 
-                as described in subparagraph (A) and also is based on 
-                the value of 1 or more interest or other rates, 
-                currencies, commodities, instruments of indebtedness, 
-                indices, quantitative measures, other financial or 
-                economic interest or property of any kind (other than a 
-                single security or a narrow-based security index), or 
-                the occurrence, non-occurrence, or the extent of the 
-                occurrence of an event or contingency associated with a 
-                potential financial, economic, or commercial consequence 
-                (other than an event described in subparagraph 
-                (A)(ii)(III)).
-                    ``(E) Rule of construction regarding use of the term 
-                index.--The term `index' means an index or group of 
-                securities, including any interest therein or based on 
-                the value thereof.
-            ``(69) Swap.--The term `swap' has the same meaning as in 
-        section 1a of the Commodity Exchange Act (7 U.S.C. 1a).
-            ``(70) Person associated with a security-based swap dealer 
-        or major security-based swap participant.--
-                    ``(A) In general.--The term `person associated with 
-                a security-based swap dealer or major security-based 
-                swap participant' or `associated person of a security-
-                based swap dealer or major security-based swap 
-                participant' means--
-                          ``(i) any partner, officer, director, or 
-                      branch manager of such security-based swap dealer 
-                      or major security-based swap participant (or any 
-                      person occupying a similar status or performing 
-                      similar functions);
-                          ``(ii) any person directly or indirectly 
-                      controlling, controlled by, or under common 
-                      control with such security-based swap dealer or 
-                      major security-based swap participant; or
-                          ``(iii) any employee of such security-based 
-                      swap dealer or major security-based swap 
-                      participant.
-                    ``(B) Exclusion.--Other than for purposes of section 
-                15F(l)(2), the term `person associated with a security-
-                based swap dealer or major security-based swap 
-                participant' or
+    ``(5) For a consideration, received directly or indirectly from a 
+broker, dealer, security-based swap dealer, major security-based swap 
+participant, or other person selling or offering for sale or purchasing 
+or offering to purchase the security, a security-based swap, or 
+security-based swap agreement with respect to such security, to induce 
+the purchase of any security registered on a national securities 
+exchange, any security not so registered, any security-based swap, or 
+any security-based swap agreement with respect to such security by the 
+circulation or dissemination of information to the effect that the price 
+of any such security will or is likely to rise or fall because of the 
+market operations of any 1 or more persons conducted for the purpose of 
+raising or depressing the price of such security.''; and
+                    (B) in subsection (i), by striking ``(as defined in 
+                section 206B of the Gramm-Leach-Bliley Act)'';
+            (3) in section 10 (15 U.S.C. 78j)--
+                    (A) in subsection (b), by striking ``(as defined in 
+                section 206B of the Gramm-Leach-Bliley Act),'' each 
+                place that term appears; and
+                    (B) in the matter following subsection (b), by 
+                striking ``(as defined in section 206B of the Gramm-
+                Leach-Bliley Act), in each place that such terms 
+                appear'';
+            (4) in section 15 (15 U.S.C. 78o)--
+                    (A) in subsection (c)(1)(A), by striking ``(as 
+                defined in section 206B of the Gramm-Leach-Bliley 
+                Act),'';
+                    (B) in subparagraphs (B) and (C) of subsection 
+                (c)(1), by striking ``(as defined in section 206B of the 
+                Gramm-Leach-Bliley Act)'' each place that term appears;
+                    (C) by redesignating subsection (i), as added by 
+                section 303(f) of the Commodity Futures Modernization 
+                Act of 2000 (Public Law 106-554; 114 Stat. 2763A-455)), 
+                as subsection (j); and
+                    (D) in subsection (j), as redesignated by 
+                subparagraph (C), by striking ``(as defined in section 
+                206B of the Gramm-Leach-Bliley Act)'';
+            (5) in section 16 (15 U.S.C. 78p)--
+                    (A) in subsection (a)(2)(C), by striking ``(as 
+                defined in section 206(b) of the Gramm-Leach-Bliley Act 
+                (15 U.S.C. 78c note))'';
+                    (B) in subsection (a)(3)(B), by inserting ``or 
+                security-based swaps'' after ``security-based swap 
+                agreement'';
+                    (C) in the first sentence of subsection (b), by 
+                striking ``(as defined in section 206B of the Gramm-
+                Leach-Bliley Act)'';
+                    (D) in the third sentence of subsection (b), by 
+                striking ``(as defined in section 206B of the Gramm-
+                Leach Bliley Act)'' and inserting ``or a security-based 
+                swap''; and
+                    (E) in subsection (g), by striking ``(as defined in 
+                section 206B of the Gramm-Leach-Bliley Act)'';
+            (6) in section 20 (15 U.S.C. 78t),
+                    (A) in subsection (d), by striking ``(as defined in 
+                section 206B of the Gramm-Leach-Bliley Act)''; and
+                    (B) in subsection (f), by striking ``(as defined in 
+                section 206B of the Gramm-Leach-Bliley Act)''; and
+            (7) in section 21A (15 U.S.C. 78u-1)--
+                    (A) in subsection (a)(1), by striking ``(as defined 
+                in section 206B of the Gramm-Leach-Bliley Act)''; and
 
 
-                `associated person of a security-based swap dealer or 
-                major security-based swap participant' does not include 
-                any person associated with a security-based swap dealer 
-                or major security-based swap participant whose functions 
-                are solely clerical or ministerial.
-            ``(71) Security-based swap dealer.--
-                    ``(A) In general.--The term `security-based swap 
-                dealer' means any person who--
-                          ``(i) holds themself out as a dealer in 
-                      security-based swaps;
-                          ``(ii) makes a market in security-based swaps;
-                          ``(iii) regularly enters into security-based 
-                      swaps with counterparties as an ordinary course of 
-                      business for its own account; or
-                          ``(iv) engages in any activity causing it to 
-                      be commonly known in the trade as a dealer or 
-                      market maker in security-based swaps.
-                    ``(B) Designation by type or class.--A person may be 
-                designated as a security-based swap dealer for a single 
-                type or single class or category of security-based swap 
-                or activities and considered not to be a security-based 
-                swap dealer for other types, classes, or categories of 
-                security-based swaps or activities.
-                    ``(C) Exception.--The term `security-based swap 
-                dealer' does not include a person that enters into 
-                security-based swaps for such person's own account, 
-                either individually or in a fiduciary capacity, but not 
-                as a part of regular business.
-                    ``(D) De minimis exception.--The Commission shall 
-                exempt from designation as a security-based swap dealer 
-                an entity that engages in a de minimis quantity of 
-                security-based swap dealing in connection with 
-                transactions with or on behalf of its customers. The 
-                Commission shall promulgate regulations to establish 
-                factors with respect to the making of any determination 
-                to exempt.
-            ``(72) Appropriate federal banking agency.--The term 
-        `appropriate Federal banking agency' has the same meaning as in 
-        section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 
-        1813(q)).
-            ``(73) Board.--The term `Board' means the Board of Governors 
-        of the Federal Reserve System.
-            ``(74) Prudential regulator.--The term `prudential 
-        regulator' has the same meaning as in section 1a of the 
-        Commodity Exchange Act (7 U.S.C. 1a).
-            ``(75) Security-based swap data repository.--The term 
-        `security-based swap data repository' means any person that 
-        collects and maintains information or records with respect to 
-        transactions or positions in, or the terms and conditions of, 
-        security-based swaps entered into by third parties for the 
-        purpose of providing a centralized recordkeeping facility for 
-        security-based swaps.
-            ``(76) Swap dealer.--The term `swap dealer' has the same 
-        meaning as in section 1a of the Commodity Exchange Act (7 U.S.C. 
-        1a).
-            ``(77) Security-based swap execution facility.--The term 
-        `security-based swap execution facility' means a trading system 
-        or platform in which multiple participants have the
-
-
-        ability to execute or trade security-based swaps by accepting 
-        bids and offers made by multiple participants in the facility or 
-        system, through any means of interstate commerce, including any 
-        trading facility, that--
-                    ``(A) facilitates the execution of security-based 
-                swaps between persons; and
-                    ``(B) is not a national securities exchange.
-            ``(78) Security-based swap agreement.--
-                    ``(A) In general.--For purposes of sections 9, 10, 
-                16, 20, and 21A of this Act, and section 17 of the 
-                Securities Act of 1933 (15 U.S.C. 77q), the term 
-                `security-based swap agreement' means a swap agreement 
-                as defined in section 206A of the Gramm-Leach-Bliley Act 
-                (15 U.S.C. 78c note) of which a material term is based 
-                on the price, yield, value, or volatility of any 
-                security or any group or index of securities, or any 
-                interest therein.
-                    ``(B) Exclusions.--The term `security-based swap 
-                agreement' does not include any security-based swap.''.
-
-    (b) &lt;&lt;NOTE: 15 USC 8341.&gt;&gt;  Authority To Further Define Terms.--The 
-Securities and Exchange Commission may, by rule, further define--
-            (1) the term ``commercial risk'';
-            (2) any other term included in an amendment to the 
-        Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) made by this 
-        subtitle; and
-            (3) the terms ``security-based swap'', ``security-based swap 
-        dealer'', ``major security-based swap participant'', and 
-        ``eligible contract participant'', with regard to security-based 
-        swaps (as such terms are defined in the amendments made by 
-        subsection (a)) for the purpose of including transactions and 
-        entities that have been structured to evade this subtitle or the 
-        amendments made by this subtitle.
+                    (B) in subsection (g), by striking ``(as defined in 
+                section 206B of the Gramm-Leach-Bliley Act)''.

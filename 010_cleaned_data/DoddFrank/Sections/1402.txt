@@ -1,106 +1,56 @@
 
-    Section 103 of the Truth in Lending Act (15 U.S.C. 1602) is amended 
-by adding at the end the following new subsection:
-    ``(cc) Definitions Relating to Mortgage Origination and Residential 
-Mortgage Loans.--
-            ``(1) Commission.--Unless otherwise specified, the term 
-        `Commission' means the Federal Trade Commission.
-            ``(2) Mortgage originator.--The term `mortgage originator'--
-                    ``(A) means any person who, for direct or indirect 
-                compensation or gain, or in the expectation of direct or 
-                indirect compensation or gain--
-                          ``(i) takes a residential mortgage loan 
-                      application;
-                          ``(ii) assists a consumer in obtaining or 
-                      applying to obtain a residential mortgage loan; or
-                          ``(iii) offers or negotiates terms of a 
-                      residential mortgage loan;
-                    ``(B) includes any person who represents to the 
-                public, through advertising or other means of 
-                communicating or providing information (including the 
-                use of business cards, stationery, brochures, signs, 
-                rate lists, or other promotional items), that such 
-                person can or will provide any of the services or 
-                perform any of the activities described in subparagraph 
-                (A);
-                    ``(C) does not include any person who is (i) not 
-                otherwise described in subparagraph (A) or (B) and who 
-                performs purely administrative or clerical tasks on 
-                behalf of a person who is described in any such 
-                subparagraph, or (ii) an employee of a retailer of 
-                manufactured homes who is not described in clause (i) or 
-                (iii) of subparagraph (A) and who does not advise a 
-                consumer on loan terms (including rates, fees, and other 
-                costs);
-                    ``(D) does not include a person or entity that only 
-                performs real estate brokerage activities and is 
-                licensed or registered in accordance with applicable 
-                State law, unless such person or entity is compensated 
-                by a lender, a mortgage broker, or other mortgage 
-                originator or by any agent of such lender, mortgage 
-                broker, or other mortgage originator;
-                    ``(E) does not include, with respect to a 
-                residential mortgage loan, a person, estate, or trust 
-                that provides mortgage financing for the sale of 3 
-                properties in any 12-month period to purchasers of such 
-                properties, each of which is owned by such person, 
-                estate, or trust and serves as security for the loan, 
-                provided that such loan--
-                          ``(i) is not made by a person, estate, or 
-                      trust that has constructed, or acted as a 
-                      contractor for the construction of, a residence on 
-                      the property in the ordinary course of business of 
-                      such person, estate, or trust;
-                          ``(ii) is fully amortizing;
+    (a) In General.--Chapter 2 of the Truth in Lending Act (15 U.S.C. 
+1631 et seq.) is amended--
+            (1) by redesignating the 2nd of the 2 sections designated as 
+        section 129 (15 U.S.C. 1639a) (relating to duty of servicers of 
+        residential mortgages) as section 129A; and
 
 
-                          ``(iii) is with respect to a sale for which 
-                      the seller determines in good faith and documents 
-                      that the buyer has a reasonable ability to repay 
-                      the loan;
-                          ``(iv) has a fixed rate or an adjustable rate 
-                      that is adjustable after 5 or more years, subject 
-                      to reasonable annual and lifetime limitations on 
-                      interest rate increases; and
-                          ``(v) meets any other criteria the Board may 
-                      prescribe;
-                    ``(F) does not include the creditor (except the 
-                creditor in a table-funded transaction) under paragraph 
-                (1), (2), or (4) of section 129B(c); and
-                    ``(G) does not include a servicer or servicer 
-                employees, agents and contractors, including but not 
-                limited to those who offer or negotiate terms of a 
-                residential mortgage loan for purposes of renegotiating, 
-                modifying, replacing and subordinating principal of 
-                existing mortgages where borrowers are behind in their 
-                payments, in default or have a reasonable likelihood of 
-                being in default or falling behind.
-            ``(3) Nationwide mortgage licensing system and registry.--
-        The term `Nationwide Mortgage Licensing System and Registry' has 
-        the same meaning as in the Secure and Fair Enforcement for 
-        Mortgage Licensing Act of 2008.
-            ``(4) Other definitions relating to mortgage originator.--
-        For purposes of this subsection, a person `assists a consumer in 
-        obtaining or applying to obtain a residential mortgage loan' by, 
-        among other things, advising on residential mortgage loan terms 
-        (including rates, fees, and other costs), preparing residential 
-        mortgage loan packages, or collecting information on behalf of 
-        the consumer with regard to a residential mortgage loan.
-            ``(5) Residential mortgage loan.--The term `residential 
-        mortgage loan' means any consumer credit transaction that is 
-        secured by a mortgage, deed of trust, or other equivalent 
-        consensual security interest on a dwelling or on residential 
-        real property that includes a dwelling, other than a consumer 
-        credit transaction under an open end credit plan or, for 
-        purposes of sections 129B and 129C and section 128(a) (16), 
-        (17), (18), and (19), and sections 128(f) and 130(k), and any 
-        regulations promulgated thereunder, an extension of credit 
-        relating to a plan described in section 101(53D) of title 11, 
-        United States Code.
-            ``(6) Secretary.--The term `Secretary', when used in 
-        connection with any transaction or person involved with a 
-        residential mortgage loan, means the Secretary of Housing and 
-        Urban Development.
-            ``(7) Servicer.--The term `servicer' has the same meaning as 
-        in section 6(i)(2) of the Real Estate Settlement Procedures Act 
-        of 1974 (12 U.S.C. 2605(i)(2)).''.
+            (2) by inserting after section 129A (as so redesignated) the 
+        following new section:
+``Sec. 129B. &lt;&lt;NOTE: 15 USC 1639b.&gt;&gt; Residential mortgage loan 
+                  origination
+
+    ``(a) Finding and Purpose.--
+            ``(1) Finding.--The Congress finds that economic 
+        stabilization would be enhanced by the protection, limitation, 
+        and regulation of the terms of residential mortgage credit and 
+        the practices related to such credit, while ensuring that 
+        responsible, affordable mortgage credit remains available to 
+        consumers.
+            ``(2) Purpose.--It is the purpose of this section and 
+        section 129C to assure that consumers are offered and receive 
+        residential mortgage loans on terms that reasonably reflect 
+        their ability to repay the loans and that are understandable and 
+        not unfair, deceptive or abusive.
+
+    ``(b) Duty of Care.--
+            ``(1) Standard.--Subject to regulations prescribed under 
+        this subsection, each mortgage originator shall, in addition to 
+        the duties imposed by otherwise applicable provisions of State 
+        or Federal law--
+                    ``(A) be qualified and, when required, registered 
+                and licensed as a mortgage originator in accordance with 
+                applicable State or Federal law, including the Secure 
+                and Fair Enforcement for Mortgage Licensing Act of 2008; 
+                and
+                    ``(B) include on all loan documents any unique 
+                identifier of the mortgage originator provided by the 
+                Nationwide Mortgage Licensing System and Registry.
+            ``(2) Compliance &lt;&lt;NOTE: Regulations.&gt;&gt;  procedures 
+        required.--The Board shall prescribe regulations requiring 
+        depository institutions to establish and maintain procedures 
+        reasonably designed to assure and monitor the compliance of such 
+        depository institutions, the subsidiaries of such institutions, 
+        and the employees of such institutions or subsidiaries with the 
+        requirements of this section and the registration procedures 
+        established under section 1507 of the Secure and Fair 
+        Enforcement for Mortgage Licensing Act of 2008.''.
+
+    (b) Clerical Amendment.--The table of sections for chapter 2 of the 
+Truth in Lending Act is amended by inserting after the item relating to 
+section 129 the following new items:
+
+``129A. Fiduciary duty of servicers of pooled residential mortgages.
+``129B. Residential mortgage loan origination.''.
+

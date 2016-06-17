@@ -1,11 +1,4 @@
 
-    Section 17(f)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 
-78q(f)(2)) is amended--
-            (1) in the first sentence, by striking ``and registered 
-        clearing agency,'' and inserting ``registered clearing agency, 
-        registered securities information processor, national securities 
-        exchange, and national securities association''; and
-            (2) in the second sentence, by striking ``or clearing 
-        agency,'' and inserting ``clearing agency, securities 
-        information processor, national securities exchange, or national 
-        securities association,''.
+    Section 29(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78cc(a)) is amended by striking ``an exchange required thereby'' and 
+inserting ``a self-regulatory organization,''.

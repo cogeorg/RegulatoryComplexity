@@ -1,72 +1,48 @@
-                          FINANCIAL REGULATORY SYSTEM.
 
-    (a) Council of Inspectors General on Financial Oversight.--
-            (1) Establishment and membership.--There is established a 
-        Council of Inspectors General on Financial Oversight (in this 
-        section referred to as the ``Council of Inspectors General'') 
-        chaired by the Inspector General of the Department of the 
-        Treasury and composed of the inspectors general of the 
-        following:
-                    (A) The Board of Governors of the Federal Reserve 
-                System.
-                    (B) The Commodity Futures Trading Commission.
-                    (C) The Department of Housing and Urban Development.
-                    (D) The Department of the Treasury.
-                    (E) The Federal Deposit Insurance Corporation.
-                    (F) The Federal Housing Finance Agency.
-                    (G) The National Credit Union Administration.
-                    (H) The Securities and Exchange Commission.
-                    (I) The Troubled Asset Relief Program (until the 
-                termination of the authority of the Special Inspector 
-                General for such program under section 121(k) of the 
-                Emergency Economic Stabilization Act of 2008 (12 U.S.C. 
-                5231(k))).
-            (2) Duties.--
-                    (A) Meetings.--The Council of Inspectors General 
-                shall meet not less than once each quarter, or more 
-                frequently if the chair considers it appropriate, to 
-                facilitate the sharing of information among inspectors 
-                general and to discuss the ongoing work of each 
-                inspector general who is a member of the Council of 
-                Inspectors General, with a focus on concerns that may 
-                apply to the broader financial sector and ways to 
-                improve financial oversight.
-                    (B) Annual report.--Each year the Council of 
-                Inspectors General shall submit to the Council and to 
-                Congress a report including--
-                          (i) for each inspector general who is a member 
-                      of the Council of Inspectors General, a section 
-                      within the exclusive editorial control of such 
-                      inspector general that highlights the concerns and 
-                      recommendations of such inspector general in such 
-                      inspector general's
+    (a) Study.--
+            (1) In general.--The Comptroller General of the United 
+        States shall conduct a study of person to person lending to 
+        determine the optimal Federal regulatory structure.
+            (2) Consultation.--In conducting the study required under 
+        paragraph (1), the Comptroller General shall consult with 
+        Federal banking agencies, the Commission, consumer groups, 
+        outside experts, and the person to person lending industry.
+            (3) Content of study.--The study required under paragraph 
+        (1) shall include an examination of--
+                    (A) the regulatory structure as it exists on the 
+                date of enactment of this Act, as determined by the 
+                Commission, with particular attention to--
+                          (i) the application of the Securities Act of 
+                      1933 to person to person lending platforms;
+                          (ii) the posting of consumer loan information 
+                      on the EDGAR database of the Commission; and
+                          (iii) the treatment of privately held person 
+                      to person lending platforms as public companies;
+                    (B) the State and other Federal regulators 
+                responsible for the oversight and regulation of person 
+                to person lending markets;
+                    (C) any Federal, State, or local government or 
+                private studies of person to person lending completed or 
+                in progress on the date of enactment of this Act;
+                    (D) consumer privacy and data protections, minimum 
+                credit standards, anti-money laundering and risk 
+                management in the regulatory structure as it exists on 
+                the date of enactment of this Act, and whether 
+                additional or alternative safeguards are needed; and
 
 
-                      ongoing and completed work, with a focus on issues 
-                      that may apply to the broader financial sector; 
-                      and
-                          (ii) a summary of the general observations of 
-                      the Council of Inspectors General based on the 
-                      views expressed by each inspector general as 
-                      required by clause (i), with a focus on measures 
-                      that should be taken to improve financial 
-                      oversight.
-            (3) Working groups to evaluate council.--
-                    (A) Convening a working group.--The Council of 
-                Inspectors General may, by majority vote, convene a 
-                Council of Inspectors General Working Group to evaluate 
-                the effectiveness and internal operations of the 
-                Council.
-                    (B) Personnel and resources.--The inspectors general 
-                who are members of the Council of Inspectors General may 
-                detail staff and resources to a Council of Inspectors 
-                General Working Group established under this paragraph 
-                to enable it to carry out its duties.
-                    (C) Reports.--A Council of Inspectors General 
-                Working Group established under this paragraph shall 
-                submit regular reports to the Council and to Congress on 
-                its evaluations pursuant to this paragraph.
+                    (E) the uses of person to person lending.
 
-    (b) Response to Report by Council.--The Council shall respond to the 
-concerns raised in the report of the Council of Inspectors General under 
-subsection (a)(2)(B) for such year.
+    (b) Report.--
+            (1) In general.--Not later than 1 year after the date of 
+        enactment of this Act, the Comptroller General shall submit a 
+        report on the study required under subsection (a) to the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        and the Committee on Financial Services of the House of 
+        Representatives.
+            (2) Content of report.--The report required under paragraph 
+        (1) shall include alternative regulatory options, including--
+                    (A) the involvement of other Federal agencies; and
+                    (B) alternative approaches by the Commission and 
+                recommendations on whether the alternative approaches 
+                are effective.

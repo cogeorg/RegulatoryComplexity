@@ -1,32 +1,44 @@
+                        COMPLEXITY OF FINANCIAL INSTITUTIONS ON 
+                        CAPITAL MARKET EFFICIENCY AND ECONOMIC 
+                        GROWTH.
 
-    (a) Authority To Audit.--The Comptroller General of the United 
-States may audit the activities of--
-            (1) the Council; and
-            (2) any person or entity acting on behalf of or under the 
-        authority of the Council, to the extent that such activities 
-        relate to work for the Council by such person or entity.
+    (a) Study Required.--
+            (1) In general.--The Chairperson of the Council shall carry 
+        out a study of the economic impact of possible financial 
+        services regulatory limitations intended to reduce systemic 
+        risk. Such study shall &lt;&lt;NOTE: Cost estimate.&gt;&gt; estimate the 
+        benefits and costs on the efficiency of capital markets, on the 
+        financial sector, and on national economic growth, of--
+                    (A) explicit or implicit limits on the maximum size 
+                of banks, bank holding companies, and other large 
+                financial institutions;
+                    (B) limits on the organizational complexity and 
+                diversification of large financial institutions;
+                    (C) requirements for operational separation between 
+                business units of large financial institutions in order 
+                to expedite resolution in case of failure;
+                    (D) limits on risk transfer between business units 
+                of large financial institutions;
+                    (E) requirements to carry contingent capital or 
+                similar mechanisms;
+                    (F) limits on commingling of commercial and 
+                financial activities by large financial institutions;
+                    (G) segregation requirements between traditional 
+                financial activities and trading or other high-risk 
+                operations in large financial institutions; and
+                    (H) other limitations on the activities or structure 
+                of large financial institutions that may be useful to 
+                limit systemic risk.
+            (2) Recommendations.--The study required by this section 
+        shall include recommendations for the optimal structure of any 
+        limits considered in subparagraphs (A) through (E), in order to 
+        maximize their effectiveness and minimize their economic impact.
 
-    (b) Access &lt;&lt;NOTE: Records.&gt;&gt; to Information.--
-            (1) In general.--Notwithstanding any other provision of law, 
-        the Comptroller General shall, upon request and at such 
-        reasonable time and in such reasonable form as the Comptroller 
-        General may request, have access to--
-                    (A) any records or other information under the 
-                control of or used by the Council;
-                    (B) any records or other information under the 
-                control of a person or entity acting on behalf of or 
-                under the authority of the Council, to the extent that 
-                such records or other information is relevant to an 
-                audit under subsection (a); and
-                    (C) the officers, directors, employees, financial 
-                advisors, staff, working groups, and agents and 
-                representatives of the Council (as related to the 
-                activities on behalf of the Council of such agent or 
-                representative), at such reasonable times as the 
-                Comptroller General may request.
-            (2) Copies.--The Comptroller General may make and retain 
-        copies of such books, accounts, and other records, access to 
-        which is granted under this section, as the Comptroller General 
-        considers appropriate.
+    (b) Report.--Not later than the end of the 180-day period beginning 
+on the date of enactment of this title, and not later than every 5 years 
+thereafter, the Chairperson shall issue a report to the Congress 
+containing any findings and determinations made in carrying out the 
+study required under subsection (a).
 
+                Subtitle B--Office of Financial Research
 

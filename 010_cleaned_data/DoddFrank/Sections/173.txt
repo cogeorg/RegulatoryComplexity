@@ -1,81 +1,56 @@
-                        ORDERLY LIQUIDATION PURPOSES.
+                        INSTITUTIONS.
 
-    (a) Examinations for Insurance and Resolution Purposes.--Section 
-10(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1820(b)(3)) is 
-amended--
-            (1) by striking ``In addition'' and inserting the following:
-                    ``(A) In general.--In addition''; and
-            (2) by striking ``whenever the board of directors 
-        determines'' and all that follows through the period and 
-        inserting the following: ``or nonbank financial company 
-        supervised by the Board of Governors or a bank holding company 
-        described in section
+    (a) Establishment of Foreign Bank Offices in the United States.--
+Section 7(d)(3) of the International Banking Act of 1978 (12 U.S.C. 
+3105(d)(3)) is amended--
+            (1) in subparagraph (C), by striking ``and'' at the end;
+            (2) in subparagraph (D), by striking the period at the end 
+        of and inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(E) for a foreign bank that presents a risk to the 
+                stability of United States financial system, whether the 
+                home country of the foreign bank has adopted, or is 
+                making demonstrable progress toward adopting, an 
+                appropriate system of financial regulation for the 
+                financial system of such home country to mitigate such 
+                risk.''.
 
+    (b) Termination of Foreign Bank Offices in the United States.--
+Section 7(e)(1) of the International Banking Act of 1978 (12 U.S.C. 
+3105(e)(1)) is amended--
+            (1) in subparagraph (A), by striking ``or'' at the end;
+            (2) in subparagraph (B), by striking the period at the end 
+        of and inserting ``; or''; and
+            (3) by inserting after subparagraph (B), the following new 
+        subparagraph:
+                    ``(C) for a foreign bank that presents a risk to the 
+                stability of the United States financial system, the 
+                home country of the foreign bank has not adopted, or 
+                made demonstrable progress toward adopting, an 
+                appropriate system of financial regulation to mitigate 
+                such risk.''.
 
-        165(a) of the Financial Stability Act of 2010, whenever the 
-        Board of Directors determines that a special examination of any 
-        such depository institution is necessary to determine the 
-        condition of such depository institution for insurance purposes, 
-        or of such nonbank financial company supervised by the Board of 
-        Governors or bank holding company described in section 165(a) of 
-        the Financial Stability Act of 2010, for the purpose of 
-        implementing its authority to provide for orderly liquidation of 
-        any such company under title II of that Act, provided that such 
-        authority may not be used with respect to any such company that 
-        is in a generally sound condition.
-                    ``(B) Limitation.--
-                Before &lt;&lt;NOTE: Review.&gt;&gt; conducting a special 
-                examination of a nonbank financial company supervised by 
-                the Board of Governors or a bank holding company 
-                described in section 165(a) of the Financial Stability 
-                Act of 2010, the Corporation shall review any available 
-                and acceptable resolution plan that the company has 
-                submitted in accordance with section 165(d) of that Act, 
-                consistent with the nonbinding effect of such plan, and 
-                available reports of examination, and shall coordinate 
-                to the maximum extent practicable with the Board of 
-                Governors, in order to minimize duplicative or 
-                conflicting examinations.''.
-
-    (b) Enforcement Authority.--Section 8(t) of the Federal Deposit 
-Insurance Act (12 U.S.C. 1818(t)) is amended--
-            (1) in paragraph (1), by inserting ``, any depository 
-        institution holding company,'' before ``or any institution-
-        affiliated party'';
-            (2) in paragraph (2)--
-                    (A) by striking ``or'' at the end of subparagraph 
-                (B);
-                    (B) at the end of subparagraph (C), by striking the 
-                period and inserting ``or''; and
-                    (C) by inserting at the end the following new 
-                subparagraph:
-                    ``(D) the conduct or threatened conduct (including 
-                any acts or omissions) of the depository institution 
-                holding company poses a risk to the Deposit Insurance 
-                Fund, provided that such authority may not be used with 
-                respect to a depository institution holding company that 
-                is in generally sound condition and whose conduct does 
-                not pose a foreseeable and material risk of loss to the 
-                Deposit Insurance Fund;''; and
-            (3) by adding at the end the following:
-            ``(6) Powers and duties with respect to depository 
-        institution holding companies.--For purposes of exercising the 
-        backup authority provided in this subsection--
-                    ``(A) the Corporation shall have the same powers 
-                with respect to a depository institution holding company 
-                and its affiliates as the appropriate Federal banking 
-                agency has with respect to the holding company and its 
-                affiliates; and
-                    ``(B) the holding company and its affiliates shall 
-                have the same duties and obligations with respect to the 
-                Corporation as the holding company and its affiliates 
-                have with respect to the appropriate Federal banking 
-                agency.''.
-
-    (c) Rule &lt;&lt;NOTE: 12 USC 5372.&gt;&gt; of Construction.--Nothing in this 
-Act shall be construed to limit or curtail the Corporation's current 
-authority to
+    (c) Registration or Succession to a United States Broker or Dealer 
+and Termination of Such Registration.--Section 15 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o) is amended by adding at the end the 
+following new subsections:
+    ``(k) Registration or Succession to a United States Broker or 
+Dealer.--In determining whether to permit a foreign person or an 
+affiliate of a foreign person to register as a United States broker or 
+dealer, or succeed to the registration of a United States broker or 
+dealer, the Commission may consider whether, for a foreign person, or an 
+affiliate of a foreign person that presents a risk to the stability of 
+the United States financial system, the home country of the foreign 
+person has adopted, or made demonstrable progress toward adopting, an 
+appropriate system of financial regulation to mitigate such risk.
+    ``(l) Termination of a United States Broker or Dealer.--For a 
+foreign person or an affiliate of a foreign person that presents such a 
+risk to the stability of the United States financial system, the 
+Commission may determine to terminate the registration of such foreign 
+person or an affiliate of such foreign person as a broker or dealer in 
+the United States, if the Commission determines that the home country of 
+the foreign person has not adopted, or made demonstrable progress toward 
+adopting, an appropriate system of financial regulation to mitigate such 
+risk.''.
 
 
-examine or bring enforcement actions with respect to any insured 
-depository institution or institution-affiliated party.

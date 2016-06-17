@@ -1,51 +1,52 @@
 
-    Section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1) 
-is amended by adding at the end the following new subsection:
-    ``(g) Due Diligence for the Delivery of Dividends, Interest, and 
-Other Valuable Property Rights.--
-            ``(1) Revision of rules required.--The Commission shall 
-        revise its regulations in section 240.17Ad-17 of title 17, Code 
-        of Federal Regulations, as in effect on December 8, 1997, to 
-        extend the application of such section to brokers and dealers 
-        and to provide for the following:
-                    ``(A) &lt;&lt;NOTE: Notification. Deadline.&gt;&gt;  A 
-                requirement that the paying agent provide a single 
-                written notification to each missing security holder 
-                that the missing security holder has been sent a check 
-                that has not yet been negotiated. The written 
-                notification may be sent along with a check or other 
-                mailing subsequently sent to the missing security holder 
-                but must be provided no later than 7 months after the 
-                sending of the not yet negotiated check.
-                    ``(B) An exclusion for paying agents from the 
-                notification requirements when the value of the not yet 
-                negotiated check is less than $25.
-                    ``(C) A provision clarifying that the requirements 
-                described in subparagraph (A) shall have no effect on 
-                State escheatment laws.
-                    ``(D) For purposes of such revised regulations--
-                          ``(i) a security holder shall be considered a 
-                      `missing security holder' if a check is sent to 
-                      the security holder and the check is not 
-                      negotiated before the earlier of the paying agent 
-                      sending the next regularly scheduled check or the 
-                      elapsing of 6 months after the sending of the not 
-                      yet negotiated check; and
-                          ``(ii) the term `paying agent' includes any 
-                      issuer, transfer agent, broker, dealer, investment 
-                      adviser, indenture trustee, custodian, or any 
-                      other person that
+    (a) Short Sale Disclosure.--Section 13(f) of the Securities Exchange 
+Act of 1934 (15 U.S.C. 78m(f)) is amended by redesignating paragraphs 
+(2), (3), (4), and (5) as paragraphs (3), (4), (5), and (6), 
+respectively, and inserting after paragraph (1) the following:
+            ``(2) &lt;&lt;NOTE: Regulations.&gt;&gt;  The Commission shall prescribe 
+        rules providing for the public disclosure of the name of the 
+        issuer and the title, class, CUSIP number, aggregate amount of 
+        the number of short sales of each security, and any additional 
+        information determined by the Commission following the end of 
+        the reporting period. &lt;&lt;NOTE: Deadline.&gt;&gt; At a minimum, such 
+        public disclosure shall occur every month.''.
+
+    (b) Short Selling Enforcement.--Section 9 of the Securities Exchange 
+Act of 1934 (15 U.S.C. 78i) is amended--
+            (1) by redesignating subsections (d), (e), (f), (g), (h), 
+        and (i) as subsections (e), (f), (g), (h), (i), and (j), 
+        respectively; and
+            (2) inserting after subsection (c), the following new 
+        subsection:
+
+    ``(d) Transactions Relating to Short Sales of Securities.--It shall 
+be unlawful for any person, directly or indirectly, by the use of the 
+mails or any means or instrumentality of interstate commerce, or of any 
+facility of any national securities exchange, or for any member of a 
+national securities exchange to effect, alone or with one or more other 
+persons, a manipulative short sale of any 
+security. &lt;&lt;NOTE: Regulations.&gt;&gt;  The Commission shall issue such other 
+rules as are necessary or appropriate to ensure that the appropriate 
+enforcement options and remedies are available for violations of this 
+subsection in the public interest or for the protection of investors.''.
+
+    (c) Investor Notification.--Section 15 of the Securities Exchange 
+Act of 1934 (15 U.S.C. 78o) is amended--
+            (1) by redesignating subsections (e), (f), (g), (h), and (i) 
+        as subsections (f), (g), (h), (i), and (j), respectively; and
+            (2) inserting after subsection (d) the following new 
+        subsection:
+
+    ``(e) Notices to Customers Regarding Securities Lending.--Every 
+registered broker or dealer shall provide notice to its customers that 
+they may elect not to allow their fully paid securities to be used in 
+connection with short sales. If a broker or dealer uses a customer's 
+securities in connection with short sales, the broker or dealer shall 
+provide notice to its customer that the broker or dealer may receive 
+compensation in connection with lending the customer's securities. The 
+Commission, by rule, as it deems necessary or appropriate in the public 
+interest and for the protection
 
 
-                      accepts payments from the issuer of a security and 
-                      distributes the payments to the holders of the 
-                      security.
-            ``(2) &lt;&lt;NOTE: Deadline.&gt;&gt;  Rulemaking.--The Commission shall 
-        adopt such rules, regulations, and orders necessary to implement 
-        this subsection no later than 1 year after the date of enactment 
-        of this subsection. In proposing such rules, the Commission 
-        shall seek to minimize disruptions to current systems used by or 
-        on behalf of paying agents to process payment to account holders 
-        and avoid requiring multiple paying agents to send written 
-        notification to a missing security holder regarding the same not 
-        yet negotiated check.''.
+of investors, may prescribe the form, content, time, and manner of 
+delivery of any notice required under this paragraph.''.

@@ -1,55 +1,73 @@
 
-    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
-amended by inserting after section 4C (15 U.S.C. 78d-3) the following:
-``SEC. 4D. &lt;&lt;NOTE: 15 USC 78d-4.&gt;&gt; ADDITIONAL DUTIES OF INSPECTOR 
-                      GENERAL.
+    (a) Study Required.--
+            (1) In general.-- &lt;&lt;NOTE: Deadline.&gt;&gt; Not later than the end 
+        of the 90-day period beginning on the date of the enactment of 
+        this subtitle, the Securities and Exchange Commission 
+        (hereinafter in this section referred to as the ``SEC'') shall 
+        hire an independent consultant of high caliber and with 
+        expertise in organizational restructuring and the operations of 
+        capital markets to examine the internal operations, structure, 
+        funding, and the need for comprehensive reform of the SEC, as 
+        well as the SEC's relationship with and the reliance on self-
+        regulatory organizations and other entities relevant to the 
+        regulation of securities and the protection of securities 
+        investors that are under the SEC's oversight.
+            (2) Specific areas for study.--The study required under 
+        paragraph (1) shall, at a minimum, include the study of--
+                    (A) the possible elimination of unnecessary or 
+                redundant units at the SEC;
+                    (B) improving communications between SEC offices and 
+                divisions;
+                    (C) the need to put in place a clear chain-of-
+                command structure, particularly for enforcement 
+                examinations and compliance inspections;
+                    (D) the effect of high-frequency trading and other 
+                technological advances on the market and what the SEC 
+                requires to monitor the effect of such trading and 
+                advances on the market;
+                    (E) the SEC's hiring authorities, workplace 
+                policies, and personal practices, including--
+                          (i) whether there is a need to further 
+                      streamline hiring authorities for those who are 
+                      not lawyers, accountants, compliance examiners, or 
+                      economists;
+                          (ii) whether there is a need for further pay 
+                      reforms;
+                          (iii) the diversity of skill sets of SEC 
+                      employees and whether the present skill set 
+                      diversity efficiently and effectively fosters the 
+                      SEC's mission of investor protection; and
+                          (iv) the application of civil service laws by 
+                      the SEC;
+                    (F) whether the SEC's oversight and reliance on 
+                self-regulatory organizations promotes efficient and 
+                effective governance for the securities markets; and
+                    (G) whether adjusting the SEC's reliance on self-
+                regulatory organizations is necessary to promote more 
+                efficient and effective governance for the securities 
+                markets.
 
-    ``(a) Suggestion Submissions by Commission Employees.--
-            ``(1) Hotline established.--The Inspector General of the 
-        Commission shall establish and maintain a telephone hotline or 
-        other electronic means for the receipt of--
-                    ``(A) suggestions by employees of the Commission for 
-                improvements in the work efficiency, effectiveness, and 
-                productivity, and the use of the resources, of the 
-                Commission; and
-                    ``(B) allegations by employees of the Commission of 
-                waste, abuse, misconduct, or mismanagement within the 
-                Commission.
-            ``(2) Confidentiality.--The Inspector General shall maintain 
-        as confidential--
-                    ``(A) the identity of any individual who provides 
-                information by the means established under paragraph 
-                (1), unless the individual requests otherwise, in 
-                writing; and
-                    ``(B) at the request of any such individual, any 
-                specific information provided by the individual.
-
-    ``(b) Consideration of Reports.--The Inspector General shall 
-consider any suggestions or allegations received by the means 
-established under subsection (a)(1), and shall recommend appropriate 
-action in relation to such suggestions or allegations.
-    ``(c) Recognition.--The Inspector General may recognize any employee 
-who makes a suggestion under subsection (a)(1) (or by other means) that 
-would or does--
-            ``(1) increase the work efficiency, effectiveness, or 
-        productivity of the Commission; or
-            ``(2) reduce waste, abuse, misconduct, or mismanagement 
-        within the Commission.
-
-    ``(d) Report.--The Inspector General of the Commission shall submit 
-to Congress an annual report containing a description of--
-            ``(1) the nature, number, and potential benefits of any 
-        suggestions received under subsection (a);
-            ``(2) the nature, number, and seriousness of any allegations 
-        received under subsection (a);
-            ``(3) any recommendations made or actions taken by the 
-        Inspector General in response to substantiated allegations 
-        received under subsection (a); and
-            ``(4) any action the Commission has taken in response to 
-        suggestions or allegations received under subsection (a).
-
-    ``(e) Funding.--The activities of the Inspector General under this 
-subsection shall be funded by the Securities and Exchange
+    (b) Consultant Report.--Not later than the end of the 150-day period 
+after being retained, the independent consultant hired pursuant to 
+subsection (a)(1) shall issue a report to the SEC and the Congress 
+containing--
+            (1) a detailed description of any findings and conclusions 
+        made while carrying out the study required under subsection 
+        (a)(1); and
+            (2) recommendations for legislative, regulatory, or 
+        administrative action that the consultant determines appropriate 
+        to
 
 
-Commission Investor Protection Fund established under section 21F.''.
+        enable the SEC and other entities on which the consultant 
+        reports to perform their statutorily or otherwise mandated 
+        missions.
+
+    (c) SEC Report.--Not later than the end of the 6-month period 
+beginning on the date the consultant issues the report under subsection 
+(b), and every 6-months thereafter during the 2-year period following 
+the date on which the consultant issues such report, the SEC shall issue 
+a report to the Committee on Financial Services of the House of 
+Representatives and the Committee on Banking, Housing, and Urban Affairs 
+of the Senate describing the SEC's implementation of the regulatory and 
+administrative recommendations contained in the consultant's report.

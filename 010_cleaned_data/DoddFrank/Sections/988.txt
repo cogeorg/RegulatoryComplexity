@@ -1,94 +1,115 @@
-                        LOSSES TO THE DEPOSIT INSURANCE FUND FOR 
-                        PURPOSES OF INSPECTOR GENERAL REVIEWS.
+                        LOSSES TO THE NATIONAL CREDIT UNION SHARE 
+                        INSURANCE FUND FOR PURPOSES OF INSPECTOR 
+                        GENERAL REVIEWS.
 
-    (a) In General.--Section 38(k) of the Federal Deposit Insurance 
-Act &lt;&lt;NOTE: 12 USC 1831o.&gt;&gt;  (U.S.C. 1831o(k)) is amended--
-            (1) in paragraph (2), by striking subparagraph (B) and 
-        inserting the following:
-                    ``(B) Material loss defined.--The term `material 
-                loss' means any estimated loss in excess of--
-                          ``(i) $200,000,000, if the loss occurs during 
-                      the period beginning on January 1, 2010, and 
-                      ending on December 31, 2011;
-                          ``(ii) $150,000,000, if the loss occurs during 
-                      the period beginning on January 1, 2012, and 
-                      ending on December 31, 2013; and
-                          ``(iii) $50,000,000, if the loss occurs on or 
-                      after January 1, 2014, provided that if the 
-                      inspector general of a Federal banking agency 
-                      certifies to the Committee on Banking, Housing, 
-                      and Urban Affairs of the Senate and the Committee 
-                      on Financial Services of the House
+    (a) In General.--Section 216(j) of the Federal Credit Union Act (12 
+U.S.C. 1790d(j)) is amended to read as follows:
+    ``(j) Reviews Required When Share Insurance Fund Experiences 
+Losses.--
+            ``(1) In general.--If the Fund incurs a material loss with 
+        respect to an insured credit union, the Inspector General of the 
+        Board shall--
+                    ``(A) &lt;&lt;NOTE: Reports.&gt;&gt; submit to the Board a 
+                written report reviewing the supervision of the credit 
+                union by the Administration (including the 
+                implementation of this section by the Administration), 
+                which shall include--
+                          ``(i) a description of the reasons why the 
+                      problems of the credit union resulted in a 
+                      material loss to the Fund; and
+                          ``(ii) recommendations for preventing any such 
+                      loss in the future; and
+                    ``(B) submit a copy of the report under subparagraph 
+                (A) to--
+                          ``(i) the Comptroller General of the United 
+                      States;
+                          ``(ii) the Corporation;
+                          ``(iii) in the case of a report relating to a 
+                      State credit union, the appropriate State 
+                      supervisor; and
+                          ``(iv) to any Member of Congress, upon 
+                      request.
+            ``(2) Material loss defined.--For purposes of determining 
+        whether the Fund has incurred a material loss with respect to an 
+        insured credit union, a loss is material if it exceeds the sum 
+        of--
+                    ``(A) $25,000,000; and
+                    ``(B) an amount equal to 10 percent of the total 
+                assets of the credit union on the date on which the 
+                Board initiated assistance under section 208 or was 
+                appointed liquidating agent.
+            ``(3) Public disclosure required.--
+                    ``(A) In general.--The Board shall disclose a report 
+                under this subsection, upon request under section 552 of 
+                title 5, United States Code, without excising--
+                          ``(i) any portion under section 552(b)(5) of 
+                      title 5, United States Code; or
+                          ``(ii) any information about the insured 
+                      credit union (other than trade secrets) under 
+                      section 552(b)(8) of title 5, United States Code.
+                    ``(B) Rule of construction.--Subparagraph (A) may 
+                not be construed as requiring the agency to disclose the 
+                name of any customer of the insured credit union (other 
+                than an institution-affiliated party), or information 
+                from which the identity of such customer could 
+                reasonably be ascertained.
 
 
-                      of Representatives that the number of projected 
-                      failures of depository institutions that would 
-                      require material loss reviews for the following 12 
-                      months will be greater than 30 and would hinder 
-                      the effectiveness of its oversight functions, then 
-                      the definition of `material loss' shall be 
-                      $75,000,000 for a duration of 1 year from the date 
-                      of the certification.'';
-            (2) in paragraph (4)(A) by striking ``the report'' and 
-        inserting ``any report on losses required under this 
-        subsection,'';
-            (3) by striking paragraph (6);
-            (4) by redesignating paragraph (5) as paragraph (6); and
-            (5) by inserting after paragraph (4) the following:
-            ``(5) Losses that are not material.--
+            ``(4) Losses that are not material.--
                     ``(A) Semiannual report.-- &lt;&lt;NOTE: Time 
-                period.&gt;&gt; For the 6-month period ending on March 31, 
+                periods.&gt;&gt; For the 6-month period ending on March 31, 
                 2010, and each 6-month period thereafter, the Inspector 
-                General of each Federal banking agency shall--
-                          ``(i) identify losses that the Inspector 
-                      General estimates have been incurred by the 
-                      Deposit Insurance Fund during that 6-month period, 
-                      with respect to the insured depository 
-                      institutions supervised by the Federal banking 
-                      agency;
-                          ``(ii) for each loss incurred by the Deposit 
-                      Insurance Fund that is not a material loss, 
+                General of the Board shall--
+                          ``(i) identify any losses that the Inspector 
+                      General estimates were incurred by the Fund during 
+                      such 6-month period, with respect to insured 
+                      credit unions;
+                          ``(ii) &lt;&lt;NOTE: Determination.&gt;&gt;  for each loss 
+                      to the Fund that is not a material loss, 
                       determine--
                                     ``(I) the grounds identified by the 
-                                Federal banking agency or State bank 
-                                supervisor for appointing the 
-                                Corporation as receiver under section 
-                                11(c)(5); and
+                                Board or the State official having 
+                                jurisdiction over a State credit union 
+                                for appointing the Board as the 
+                                liquidating agent for any Federal or 
+                                State credit union; and
                                     ``(II) whether any unusual 
                                 circumstances exist that might warrant 
                                 an in-depth review of the loss; and
                           ``(iii) prepare and submit a written report to 
-                      the appropriate Federal banking agency and to 
-                      Congress on the results of any determination by 
-                      the Inspector General, including--
+                      the Board and to Congress on the results of the 
+                      determinations of the Inspector General that 
+                      includes--
                                     ``(I) an identification of any loss 
-                                that warrants an in-depth review, 
-                                together with the reasons why such 
-                                review is warranted, or, if the 
-                                Inspector General determines that no 
-                                review is warranted, an explanation of 
-                                such determination; and
-                                    ``(II) for each loss identified 
-                                under subclause (I) that warrants an in-
-                                depth review, the date by which such 
-                                review, and a report on such review 
-                                prepared in a manner consistent with 
-                                reports under paragraph (1)(A), will be 
-                                completed and submitted to the Federal 
-                                banking agency and Congress.
+                                that warrants an in-depth review, and 
+                                the reasons such review is warranted, or 
+                                if the Inspector General determines that 
+                                no review is warranted, an explanation 
+                                of such determination; and
+                                    ``(II) for each loss identified in 
+                                subclause (I) that warrants an in-depth 
+                                review, the date by which such review, 
+                                and a report on the review prepared in a 
+                                manner consistent with reports under 
+                                paragraph (1)(A), will be completed.
                     ``(B) Deadline for semiannual report.--The Inspector 
-                General of each Federal banking agency shall--
+                General of the Board shall--
                           ``(i) submit each report required under 
-                      paragraph (A) expeditiously, and not later than 90 
-                      days after the end of the 6-month period covered 
-                      by the report; and
+                      subparagraph (A) expeditiously, and not later than 
+                      90 days after the end of the 6-month period 
+                      covered by the report; and
                           ``(ii) provide a copy of the report required 
-                      under paragraph (A) to any Member of Congress, 
-                      upon request.''.
-
-
-    (b) Technical and Conforming Amendment.--The heading for subsection 
-(k) of section 38 of the Federal Deposit Insurance Act (U.S.C. 1831o(k)) 
-is amended to read as follows:
-    ``(k) Reviews Required When Deposit Insurance Fund Incurs Losses.--
-''.
+                      under subparagraph (A) to any Member of Congress, 
+                      upon request.
+            ``(5) GAO review.--The Comptroller General of the United 
+        States shall, under such conditions as the Comptroller General 
+        determines to be appropriate--
+                    ``(A) review each report made under paragraph (1), 
+                including the extent to which the Inspector General of 
+                the Board complied with the requirements under section 
+                8L of the Inspector General Act of 1978 (5 U.S.C. App.) 
+                with respect to each such report; and
+                    ``(B) &lt;&lt;NOTE: Recommenda- tions.&gt;&gt;  recommend 
+                improvements to the supervision of insured credit unions 
+                (including improvements relating to the implementation 
+                of this section).''.

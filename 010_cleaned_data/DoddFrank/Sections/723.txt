@@ -1,185 +1,480 @@
 
-    (a) Exclusive Jurisdiction.--Section 2(a)(1) of the Commodity 
-Exchange Act (7 U.S.C. 2(a)(1)) is amended--
-            (1) in subparagraph (A), in the first sentence--
-                    (A) by inserting ``the Wall Street Transparency and 
-                Accountability Act of 2010 (including an amendment made 
-                by that Act) and'' after ``otherwise provided in'';
-                    (B) by striking ``(C) and (D)'' and inserting ``(C), 
-                (D), and (I)'';
-                    (C) by striking ``(c) through (i) of this section'' 
-                and inserting ``(c) and (f)'';
-                    (D) by striking ``contracts of sale'' and inserting 
-                ``swaps or contracts of sale''; and
-                    (E) by striking ``or derivatives transaction 
-                execution facility registered pursuant to section 5 or 
-                5a'' and inserting ``pursuant to section 5 or a swap 
-                execution facility pursuant to section 5h''; and
-            (2) by adding at the end the following:
-                    ``(G)(i) Nothing in this paragraph shall limit the 
-                jurisdiction conferred on the Securities and Exchange 
-                Commission by the Wall Street Transparency and 
-                Accountability Act of 2010 with regard to security-based 
-                swap agreements as defined pursuant to section 3(a)(78) 
-                of the Securities Exchange Act of 1934, and security-
-                based swaps.
-                    ``(ii) In addition to the authority of the 
-                Securities and Exchange Commission described in clause 
-                (i), nothing in this subparagraph shall limit or affect 
-                any statutory authority of the Commission with respect 
-                to an agreement, contract, or transaction described in 
-                clause (i).
-                    ``(H) Notwithstanding any other provision of law, 
-                the Wall Street Transparency and Accountability Act of 
-                2010 shall not apply to, and the Commodity Futures 
-                Trading Commission shall have no jurisdiction under such 
-                Act (or any amendments to the Commodity Exchange Act 
-                made by such Act) with respect to, any security other 
-                than a security-based swap.''.
+    (a) Clearing Requirement.--
+            (1) In general.--Section 2 of the Commodity Exchange Act (7 
+        U.S.C. 2) is amended--
+                    (A) by striking subsections (d), (e), (g), and (h); 
+                and
+                    (B) by redesignating subsection (i) as subsection 
+                (g).
+            (2) Swaps; limitation on participation.--Section 2 of the 
+        Commodity Exchange Act (7 U.S.C. 2) (as amended by paragraph 
+        (1)) is amended by inserting after subsection (c) the following:
+
+    ``(d) Swaps.--Nothing in this Act (other than subparagraphs (A), 
+(B), (C), (D), (G), and (H) of subsection (a)(1), subsections (f) and 
+(g), sections 1a, 2(a)(13), 2(c)(2)(A)(ii), 2(e), 2(h), 4(c), 4a, 4b, 
+and 4b-1, subsections (a), (b), and (g) of section 4c, sections 4d, 4e, 
+4f, 4g, 4h, 4i, 4j, 4k, 4l, 4m, 4n, 4o, 4p, 4r, 4s, 4t, 5, 5b, 5c, 5e, 
+and 5h, subsections (c) and (d) of section 6, sections 6c, 6d, 8, 8a, 
+and 9, subsections (e)(2), (f), and (h) of section 12, subsections (a) 
+and (b) of section 13, sections 17, 20, 21, and 22(a)(4), and any other 
+provision of this Act that is applicable to registered entities or 
+Commission registrants) governs or applies to a swap.
+    ``(e) Limitation on Participation.--It shall be unlawful for any 
+person, other than an eligible contract participant, to enter into a 
+swap unless the swap is entered into on, or subject to the rules of, a 
+board of trade designated as a contract market under section 5.''.
+            (3) Mandatory clearing of swaps.--Section 2 of the Commodity 
+        Exchange Act (7 U.S.C. 2) is amended by inserting after 
+        subsection (g) (as redesignated by paragraph (1)(B)) the 
+        following:
+
+    ``(h) Clearing Requirement.--
+            ``(1) In general.--
+                    ``(A) Standard for clearing.--It shall be unlawful 
+                for any person to engage in a swap unless that person 
+                submits such swap for clearing to a derivatives clearing
 
 
-    (b) Regulation of Swaps Under Federal and State Law.--Section 12 of 
-the Commodity Exchange Act (7 U.S.C. 16) is amended by adding at the end 
-the following:
-    ``(h) Regulation of Swaps as Insurance Under State Law.--A swap--
-            ``(1) shall not be considered to be insurance; and
-            ``(2) may not be regulated as an insurance contract under 
-        the law of any State.''.
-
-    (c) Agreements, Contracts, and Transactions Traded on an Organized 
-Exchange.--Section 2(c)(2)(A) of the Commodity Exchange Act (7 U.S.C. 
-2(c)(2)(A)) is amended--
-            (1) in clause (i), by striking ``or'' at the end;
-            (2) by redesignating clause (ii) as clause (iii); and
-            (3) by inserting after clause (i) the following:
-                          ``(ii) a swap; or''.
-
-    (d) Applicability.--Section 2 of the Commodity Exchange Act (7 
-U.S.C. 2) (as amended by section 723(a)(3)) is amended by adding at the 
-end the following:
-    ``(i) Applicability.--The provisions of this Act relating to swaps 
-that were enacted by the Wall Street Transparency and Accountability Act 
-of 2010 (including any rule prescribed or regulation promulgated under 
-that Act), shall not apply to activities outside the United States 
-unless those activities--
-            ``(1) have a direct and significant connection with 
-        activities in, or effect on, commerce of the United States; or
-            ``(2) contravene such rules or regulations as the Commission 
-        may prescribe or promulgate as are necessary or appropriate to 
-        prevent the evasion of any provision of this Act that was 
-        enacted by the Wall Street Transparency and Accountability Act 
-        of 2010.''.
-
-    (e) Federal Energy Regulatory Commission.--Section 2(a)(1) of the 
-Commodity Exchange Act (7 U.S.C. 2(a)(1)) is amended by adding at the 
-end the following:
-                    ``(I)(i) Nothing in this Act shall limit or affect 
-                any statutory authority of the Federal Energy Regulatory 
-                Commission or a State regulatory authority (as defined 
-                in section 3(21) of the Federal Power Act (16 U.S.C. 
-                796(21)) with respect to an agreement, contract, or 
-                transaction that is entered into pursuant to a tariff or 
-                rate schedule approved by the Federal Energy Regulatory 
-                Commission or a State regulatory authority and is--
-                          ``(I) not executed, traded, or cleared on a 
-                      registered entity or trading facility; or
-                          ``(II) executed, traded, or cleared on a 
-                      registered entity or trading facility owned or 
-                      operated by a regional transmission organization 
-                      or independent system operator.
-                    ``(ii) In addition to the authority of the Federal 
-                Energy Regulatory Commission or a State regulatory 
-                authority described in clause (i), nothing in this 
-                subparagraph shall limit or affect--
-                          ``(I) any statutory authority of the 
-                      Commission with respect to an agreement, contract, 
-                      or transaction described in clause (i); or
-                          ``(II) the jurisdiction of the Commission 
-                      under subparagraph (A) with respect to an 
-                      agreement, contract, or transaction that is 
-                      executed, traded, or cleared
-
-
-                      on a registered entity or trading facility that is 
-                      not owned or operated by a regional transmission 
-                      organization or independent system operator (as 
-                      defined by sections 3(27) and (28) of the Federal 
-                      Power Act (16 U.S.C. 796(27), 796(28)).''.
-
-    (f) Public Interest Waiver.--Section 4(c) of the Commodity Exchange 
-Act (7 U.S.C. 6(c)) (as amended by section 721(d)) is amended by adding 
-at the end the following:
-            ``(6) If the Commission determines that the exemption would 
-        be consistent with the public interest and the purposes of this 
-        Act, the Commission shall, in accordance with paragraphs (1) and 
-        (2), exempt from the requirements of this Act an agreement, 
-        contract, or transaction that is entered into--
-                    ``(A) pursuant to a tariff or rate schedule approved 
-                or permitted to take effect by the Federal Energy 
-                Regulatory Commission;
-                    ``(B) pursuant to a tariff or rate schedule 
-                establishing rates or charges for, or protocols 
-                governing, the sale of electric energy approved or 
-                permitted to take effect by the regulatory authority of 
-                the State or municipality having jurisdiction to 
-                regulate rates and charges for the sale of electric 
-                energy within the State or municipality; or
-                    ``(C) between entities described in section 201(f) 
-                of the Federal Power Act (16 U.S.C. 824(f)).''.
-
-    (g) &lt;&lt;NOTE: 15 USC 8322.&gt;&gt; Authority of FERC.--Nothing in the Wall 
-Street Transparency and Accountability Act of 2010 or the amendments to 
-the Commodity Exchange Act made by such Act shall limit or affect any 
-statutory enforcement authority of the Federal Energy Regulatory 
-Commission pursuant to section 222 of the Federal Power Act and section 
-4A of the Natural Gas Act that existed prior to the date of enactment of 
-the Wall Street Transparency and Accountability Act of 2010.
-
-    (h) Determination.--The Commodity Exchange Act is amended by 
-inserting after section 1a (7 U.S.C. 1a) the following:
-``SEC. 1b. &lt;&lt;NOTE: 7 USC 1b.&gt;&gt;  REQUIREMENTS OF SECRETARY OF THE 
-                      TREASURY REGARDING EXEMPTION OF FOREIGN 
-                      EXCHANGE SWAPS AND FOREIGN EXCHANGE FORWARDS 
-                      FROM DEFINITION OF THE TERM `SWAP'.
-
-    ``(a) Required Considerations.--In determining whether to exempt 
-foreign exchange swaps and foreign exchange forwards from the definition 
-of the term `swap', the Secretary of the Treasury (referred to in this 
-section as the `Secretary') shall consider--
-            ``(1) whether the required trading and clearing of foreign 
-        exchange swaps and foreign exchange forwards would create 
-        systemic risk, lower transparency, or threaten the financial 
-        stability of the United States;
-            ``(2) whether foreign exchange swaps and foreign exchange 
-        forwards are already subject to a regulatory scheme that is 
-        materially comparable to that established by this Act for other 
-        classes of swaps;
-            ``(3) the extent to which bank regulators of participants in 
-        the foreign exchange market provide adequate supervision, 
-        including capital and margin requirements;
-            ``(4) the extent of adequate payment and settlement systems; 
-        and
+                organization that is registered under this Act or a 
+                derivatives clearing organization that is exempt from 
+                registration under this Act if the swap is required to 
+                be cleared.
+                    ``(B) Open access.--The rules of a derivatives 
+                clearing organization described in subparagraph (A) 
+                shall--
+                          ``(i) prescribe that all swaps (but not 
+                      contracts of sale of a commodity for future 
+                      delivery or options on such contracts) submitted 
+                      to the derivatives clearing organization with the 
+                      same terms and conditions are economically 
+                      equivalent within the derivatives clearing 
+                      organization and may be offset with each other 
+                      within the derivatives clearing organization; and
+                          ``(ii) provide for non-discriminatory clearing 
+                      of a swap (but not a contract of sale of a 
+                      commodity for future delivery or option on such 
+                      contract) executed bilaterally or on or through 
+                      the rules of an unaffiliated designated contract 
+                      market or swap execution facility.
+            ``(2) Commission review.--
+                    ``(A) Commission-initiated review.--
+                          ``(i) The Commission on an ongoing basis shall 
+                      review each swap, or any group, category, type, or 
+                      class of swaps to make a determination as to 
+                      whether the swap or group, category, type, or 
+                      class of swaps should be required to be cleared.
+                          ``(ii) &lt;&lt;NOTE: Public comment. Time period.&gt;&gt;  
+                      The Commission shall provide at least a 30-day 
+                      public comment period regarding any determination 
+                      made under clause (i).
+                    ``(B) Swap submissions.--
+                          ``(i) &lt;&lt;NOTE: Notice.&gt;&gt;  A derivatives 
+                      clearing organization shall submit to the 
+                      Commission each swap, or any group, category, 
+                      type, or class of swaps that it plans to accept 
+                      for clearing, and provide notice to its members 
+                      (in a manner to be determined by the Commission) 
+                      of the submission.
+                          ``(ii) Any swap or group, category, type, or 
+                      class of swaps listed for clearing by a derivative 
+                      clearing organization as of the date of enactment 
+                      of this subsection shall be considered submitted 
+                      to the Commission.
+                          ``(iii) &lt;&lt;NOTE: Public information.&gt;&gt;  The 
+                      Commission shall--
+                                    ``(I) make available to the public 
+                                submissions received under clauses (i) 
+                                and (ii);
+                                    ``(II) review each submission made 
+                                under clauses (i) and (ii), and 
+                                determine whether the swap, or group, 
+                                category, type, or class of swaps 
+                                described in the submission is required 
+                                to be cleared; and
+                                    ``(III) &lt;&lt;NOTE: Public comment. Time 
+                                period.&gt;&gt;  provide at least a 30-day 
+                                public comment period regarding its 
+                                determination as to whether the clearing 
+                                requirement under paragraph (1)(A) shall 
+                                apply to the submission.
+                    ``(C) Deadline.--The Commission shall make its 
+                determination under subparagraph (B)(iii) not later than 
+                90 days after receiving a submission made under 
+                subparagraphs (B)(i) and (B)(ii), unless the submitting 
+                derivatives clearing organization agrees to an extension 
+                for the time limitation established under this 
+                subparagraph.
 
 
-            ``(5) the use of a potential exemption of foreign exchange 
-        swaps and foreign exchange forwards to evade otherwise 
-        applicable regulatory requirements.
+                    ``(D) Determination.--
+                          ``(i) In reviewing a submission made under 
+                      subparagraph (B), the Commission shall review 
+                      whether the submission is consistent with section 
+                      5b(c)(2).
+                          ``(ii) In reviewing a swap, group of swaps, or 
+                      class of swaps pursuant to subparagraph (A) or a 
+                      submission made under subparagraph (B), the 
+                      Commission shall take into account the following 
+                      factors:
+                                    ``(I) The existence of significant 
+                                outstanding notional exposures, trading 
+                                liquidity, and adequate pricing data.
+                                    ``(II) The availability of rule 
+                                framework, capacity, operational 
+                                expertise and resources, and credit 
+                                support infrastructure to clear the 
+                                contract on terms that are consistent 
+                                with the material terms and trading 
+                                conventions on which the contract is 
+                                then traded.
+                                    ``(III) The effect on the mitigation 
+                                of systemic risk, taking into account 
+                                the size of the market for such contract 
+                                and the resources of the derivatives 
+                                clearing organization available to clear 
+                                the contract.
+                                    ``(IV) The effect on competition, 
+                                including appropriate fees and charges 
+                                applied to clearing.
+                                    ``(V) The existence of reasonable 
+                                legal certainty in the event of the 
+                                insolvency of the relevant derivatives 
+                                clearing organization or 1 or more of 
+                                its clearing members with regard to the 
+                                treatment of customer and swap 
+                                counterparty positions, funds, and 
+                                property.
+                          ``(iii) In making a determination under 
+                      subparagraph (A) or (B)(iii) that the clearing 
+                      requirement shall apply, the Commission may 
+                      require such terms and conditions to the 
+                      requirement as the Commission determines to be 
+                      appropriate.
+                    ``(E) &lt;&lt;NOTE: Deadline.&gt;&gt;  Rules.--Not later than 1 
+                year after the date of the enactment of this subsection, 
+                the Commission shall adopt rules for a derivatives 
+                clearing organization's submission for review, pursuant 
+                to this paragraph, of a swap, or a group, category, 
+                type, or class of swaps, that it seeks to accept for 
+                clearing. Nothing in this subparagraph limits the 
+                Commission from making a determination under 
+                subparagraph (B)(iii) for swaps described in 
+                subparagraph (B)(ii).
+            ``(3) Stay of clearing requirement.--
+                    ``(A) In general.--After making a determination 
+                pursuant to paragraph (2)(B), the Commission, on 
+                application of a counterparty to a swap or on its own 
+                initiative, may stay the clearing requirement of 
+                paragraph (1) until the Commission completes a review of 
+                the terms of the swap (or the group, category, type, or 
+                class of swaps) and the clearing arrangement.
+                    ``(B) Deadline.--The Commission shall complete a 
+                review undertaken pursuant to subparagraph (A) not later 
+                than 90 days after issuance of the stay, unless the 
+                derivatives clearing organization that clears the swap, 
+                or group,
 
-    ``(b) Determination.--If the Secretary makes a determination to 
-exempt foreign exchange swaps and foreign exchange forwards from the 
-definition of the term `swap', the Secretary shall submit to the 
-appropriate committees of Congress a determination that contains--
-            ``(1) an explanation regarding why foreign exchange swaps 
-        and foreign exchange forwards are qualitatively different from 
-        other classes of swaps in a way that would make the foreign 
-        exchange swaps and foreign exchange forwards ill-suited for 
-        regulation as swaps; and
-            ``(2) an identification of the objective differences of 
-        foreign exchange swaps and foreign exchange forwards with 
-        respect to standard swaps that warrant an exempted status.
 
-    ``(c) Effect of Determination.--A determination by the Secretary 
-under subsection (b) shall not exempt any foreign exchange swaps and 
-foreign exchange forwards traded on a designated contract market or swap 
-execution facility from any applicable antifraud and antimanipulation 
-provision under this title.''.
+                category, type, or class of swaps agrees to an extension 
+                of the time limitation established under this 
+                subparagraph.
+                    ``(C) Determination.--Upon completion of the review 
+                undertaken pursuant to subparagraph (A), the Commission 
+                may--
+                          ``(i) determine, unconditionally or subject to 
+                      such terms and conditions as the Commission 
+                      determines to be appropriate, that the swap, or 
+                      group, category, type, or class of swaps must be 
+                      cleared pursuant to this subsection if it finds 
+                      that such clearing is consistent with paragraph 
+                      (2)(D); or
+                          ``(ii) determine that the clearing requirement 
+                      of paragraph (1) shall not apply to the swap, or 
+                      group, category, type, or class of swaps.
+                    ``(D) &lt;&lt;NOTE: Deadline.&gt;&gt;  Rules.--Not later than 1 
+                year after the date of the enactment of the Wall Street 
+                Transparency and Accountability Act of 2010, the 
+                Commission shall adopt rules for reviewing, pursuant to 
+                this paragraph, a derivatives clearing organization's 
+                clearing of a swap, or a group, category, type, or class 
+                of swaps, that it has accepted for clearing.
+            ``(4) Prevention of evasion.--
+                    ``(A) &lt;&lt;NOTE: Regulations.&gt;&gt;  In general.--The 
+                Commission shall prescribe rules under this subsection 
+                (and issue interpretations of rules prescribed under 
+                this subsection) as determined by the Commission to be 
+                necessary to prevent evasions of the mandatory clearing 
+                requirements under this Act.
+                    ``(B) Duty of commission to investigate and take 
+                certain actions.--To the extent the Commission finds 
+                that a particular swap, group, category, type, or class 
+                of swaps would otherwise be subject to mandatory 
+                clearing but no derivatives clearing organization has 
+                listed the swap, group, category, type, or class of 
+                swaps for clearing, the Commission shall--
+                          ``(i) investigate the relevant facts and 
+                      circumstances;
+                          ``(ii) &lt;&lt;NOTE: Deadline. Public 
+                      information. Reports.&gt;&gt;  within 30 days issue a 
+                      public report containing the results of the 
+                      investigation; and
+                          ``(iii) take such actions as the Commission 
+                      determines to be necessary and in the public 
+                      interest, which may include requiring the 
+                      retaining of adequate margin or capital by parties 
+                      to the swap, group, category, type, or class of 
+                      swaps.
+                    ``(C) Effect on authority.--Nothing in this 
+                paragraph--
+                          ``(i) authorizes the Commission to adopt rules 
+                      requiring a derivatives clearing organization to 
+                      list for clearing a swap, group, category, type, 
+                      or class of swaps if the clearing of the swap, 
+                      group, category, type, or class of swaps would 
+                      threaten the financial integrity of the 
+                      derivatives clearing organization; and
+                          ``(ii) affects the authority of the Commission 
+                      to enforce the open access provisions of paragraph 
+                      (1)(B) with respect to a swap, group, category, 
+                      type, or class of swaps that is listed for 
+                      clearing by a derivatives clearing organization.
+
+
+            ``(5) Reporting transition rules.--Rules adopted by the 
+        Commission under this section shall provide for the reporting of 
+        data, as follows:
+                    ``(A) Swaps entered into before the date of the 
+                enactment of this subsection shall be reported to a 
+                registered swap data repository or the Commission no 
+                later than 180 days after the effective date of this 
+                subsection.
+                    ``(B) Swaps entered into on or after such date of 
+                enactment shall be reported to a registered swap data 
+                repository or the Commission no later than the later 
+                of--
+                          ``(i) 90 days after such effective date; or
+                          ``(ii) such other time after entering into the 
+                      swap as the Commission may prescribe by rule or 
+                      regulation.
+            ``(6) Clearing transition rules.--
+                    ``(A) Swaps entered into before the date of the 
+                enactment of this subsection are exempt from the 
+                clearing requirements of this subsection if reported 
+                pursuant to paragraph (5)(A).
+                    ``(B) Swaps entered into before application of the 
+                clearing requirement pursuant to this subsection are 
+                exempt from the clearing requirements of this subsection 
+                if reported pursuant to paragraph (5)(B).
+            ``(7) Exceptions.--
+                    ``(A) In general.--The requirements of paragraph 
+                (1)(A) shall not apply to a swap if 1 of the 
+                counterparties to the swap--
+                          ``(i) is not a financial entity;
+                          ``(ii) is using swaps to hedge or mitigate 
+                      commercial risk; and
+                          ``(iii) &lt;&lt;NOTE: Notification.&gt;&gt;  notifies the 
+                      Commission, in a manner set forth by the 
+                      Commission, how it generally meets its financial 
+                      obligations associated with entering into non-
+                      cleared swaps.
+                    ``(B) Option to clear.--The application of the 
+                clearing exception in subparagraph (A) is solely at the 
+                discretion of the counterparty to the swap that meets 
+                the conditions of clauses (i) through (iii) of 
+                subparagraph (A).
+                    ``(C) Financial entity definition.--
+                          ``(i) In general.--For the purposes of this 
+                      paragraph, the term `financial entity' means--
+                                    ``(I) a swap dealer;
+                                    ``(II) a security-based swap dealer;
+                                    ``(III) a major swap participant;
+                                    ``(IV) a major security-based swap 
+                                participant;
+                                    ``(V) a commodity pool;
+                                    ``(VI) a private fund as defined in 
+                                section 202(a) of the Investment 
+                                Advisers Act of 1940 (15 U.S.C. 80-b-
+                                2(a));
+                                    ``(VII) an employee benefit plan as 
+                                defined in paragraphs (3) and (32) of 
+                                section 3 of the Employee Retirement 
+                                Income Security Act of 1974 (29 U.S.C. 
+                                1002);
+                                    ``(VIII) a person predominantly 
+                                engaged in activities that are in the 
+                                business of banking, or in activities 
+                                that are financial in nature, as defined 
+                                in section 4(k) of the Bank Holding 
+                                Company Act of 1956.
+
+
+                          ``(ii) Exclusion.--The Commission shall 
+                      consider whether to exempt small banks, savings 
+                      associations, farm credit system institutions, and 
+                      credit unions, including--
+                                    ``(I) depository institutions with 
+                                total assets of $10,000,000,000 or less;
+                                    ``(II) farm credit system 
+                                institutions with total assets of 
+                                $10,000,000,000 or less; or
+                                    ``(III) credit unions with total 
+                                assets of $10,000,000,000 or less.
+                          ``(iii) Limitation.--Such definition shall not 
+                      include an entity whose primary business is 
+                      providing financing, and uses derivatives for the 
+                      purpose of hedging underlying commercial risks 
+                      related to interest rate and foreign currency 
+                      exposures, 90 percent or more of which arise from 
+                      financing that facilitates the purchase or lease 
+                      of products, 90 percent or more of which are 
+                      manufactured by the parent company or another 
+                      subsidiary of the parent company.
+                    ``(D) Treatment of affiliates.--
+                          ``(i) In general.--An affiliate of a person 
+                      that qualifies for an exception under subparagraph 
+                      (A) (including affiliate entities predominantly 
+                      engaged in providing financing for the purchase of 
+                      the merchandise or manufactured goods of the 
+                      person) may qualify for the exception only if the 
+                      affiliate, acting on behalf of the person and as 
+                      an agent, uses the swap to hedge or mitigate the 
+                      commercial risk of the person or other affiliate 
+                      of the person that is not a financial entity.
+                          ``(ii) Prohibition relating to certain 
+                      affiliates.--The exception in clause (i) shall not 
+                      apply if the affiliate is--
+                                    ``(I) a swap dealer;
+                                    ``(II) a security-based swap dealer;
+                                    ``(III) a major swap participant;
+                                    ``(IV) a major security-based swap 
+                                participant;
+                                    ``(V) an issuer that would be an 
+                                investment company, as defined in 
+                                section 3 of the Investment Company Act 
+                                of 1940 (15 U.S.C. 80a-3), but for 
+                                paragraph (1) or (7) of subsection (c) 
+                                of that Act (15 U.S.C. 80a-3(c));
+                                    ``(VI) a commodity pool; or
+                                    ``(VII) a bank holding company with 
+                                over $50,000,000,000 in consolidated 
+                                assets.
+                          ``(iii) Transition rule for affiliates.--
+                      An &lt;&lt;NOTE: Exemption. Time period.&gt;&gt;  affiliate, 
+                      subsidiary, or a wholly owned entity of a person 
+                      that qualifies for an exception under subparagraph 
+                      (A) and is predominantly engaged in providing 
+                      financing for the purchase or lease of merchandise 
+                      or manufactured goods of the person shall be 
+                      exempt from the margin requirement described in 
+                      section 4s(e) and the clearing requirement 
+                      described in paragraph (1) with regard to swaps 
+                      entered into to mitigate the risk of the financing 
+                      activities for not less than a 2-year period 
+                      beginning on the date of enactment of this clause.
+                    ``(E) Election of counterparty.--
+
+
+                          ``(i) Swaps required to be cleared.--With 
+                      respect to any swap that is subject to the 
+                      mandatory clearing requirement under this 
+                      subsection and entered into by a swap dealer or a 
+                      major swap participant with a counterparty that is 
+                      not a swap dealer, major swap participant, 
+                      security-based swap dealer, or major security-
+                      based swap participant, the counterparty shall 
+                      have the sole right to select the derivatives 
+                      clearing organization at which the swap will be 
+                      cleared.
+                          ``(ii) Swaps not required to be cleared.--With 
+                      respect to any swap that is not subject to the 
+                      mandatory clearing requirement under this 
+                      subsection and entered into by a swap dealer or a 
+                      major swap participant with a counterparty that is 
+                      not a swap dealer, major swap participant, 
+                      security-based swap dealer, or major security-
+                      based swap participant, the counterparty--
+                                    ``(I) may elect to require clearing 
+                                of the swap; and
+                                    ``(II) shall have the sole right to 
+                                select the derivatives clearing 
+                                organization at which the swap will be 
+                                cleared.
+                    ``(F) Abuse of exception.--The Commission may 
+                prescribe such rules or issue interpretations of the 
+                rules as the Commission determines to be necessary to 
+                prevent abuse of the exceptions described in this 
+                paragraph. The Commission may also request information 
+                from those persons claiming the clearing exception as 
+                necessary to prevent abuse of the exceptions described 
+                in this paragraph.
+            ``(8) Trade execution.--
+                    ``(A) In general.--With respect to transactions 
+                involving swaps subject to the clearing requirement of 
+                paragraph (1), counterparties shall--
+                          ``(i) execute the transaction on a board of 
+                      trade designated as a contract market under 
+                      section 5; or
+                          ``(ii) execute the transaction on a swap 
+                      execution facility registered under 5h or a swap 
+                      execution facility that is exempt from 
+                      registration under section 5h(f) of this Act.
+                    ``(B) Exception.--The requirements of clauses (i) 
+                and (ii) of subparagraph (A) shall not apply if no board 
+                of trade or swap execution facility makes the swap 
+                available to trade or for swap transactions subject to 
+                the clearing exception under paragraph (7).''.
+
+    (b) Commodity Exchange Act.--Section 2 of the Commodity Exchange Act 
+(7 U.S.C. 2) is amended by adding at the end the following:
+    ``(j)  Committee Approval by Board.--Exemptions from the 
+requirements of subsection (h)(1) to clear a swap and subsection (h)(8) 
+to execute a swap through a board of trade or swap execution facility 
+shall be available to a counterparty that is an issuer of securities 
+that are registered under section 12 of the Securities Exchange Act of 
+1934 (15 U.S.C. 78l) or that is required to file reports pursuant to 
+section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o) 
+only if an appropriate committee of the issuer's board or governing body 
+has reviewed and approved its decision to enter into swaps that are 
+subject to such exemptions.''.
+
+
+    (c) &lt;&lt;NOTE: 7 USC 2 note.&gt;&gt;  Grandfather Provisions.--
+            (1) Legal certainty for certain transactions in exempt 
+        commodities.--Not &lt;&lt;NOTE: Deadline.&gt;&gt;  later than 60 days after 
+        the date of enactment of this Act, a person may submit to the 
+        Commodity Futures Trading Commission a petition to remain 
+        subject to section 2(h) of the Commodity Exchange Act (7 U.S.C. 
+        2(h)) (as in effect on the day before the date of enactment of 
+        this Act).
+            (2) Consideration; authority of commodity futures trading 
+        commission.--The Commodity Futures Trading Commission--
+                    (A) shall consider any petition submitted under 
+                subparagraph (A) in a prompt manner; and
+                    (B) may allow a person to continue operating subject 
+                to section 2(h) of the Commodity Exchange Act (7 U.S.C. 
+                2(h)) (as in effect on the day before the date of 
+                enactment of this Act) for not longer than a 1-year 
+                period.
+            (3) Agricultural swaps.--
+                    (A) In general.--Except as provided in subparagraph 
+                (B), no person shall offer to enter into, enter into, or 
+                confirm the execution of, any swap in an agricultural 
+                commodity (as defined by the Commodity Futures Trading 
+                Commission).
+                    (B) &lt;&lt;NOTE: Regulations.&gt;&gt;  Exception.--
+                Notwithstanding subparagraph (A), a person may offer to 
+                enter into, enter into, or confirm the execution of, any 
+                swap in an agricultural commodity pursuant to section 
+                4(c) of the Commodity Exchange Act (7 U.S.C. 6(c)) or 
+                any rule, regulation, or order issued thereunder 
+                (including any rule, regulation, or order in effect as 
+                of the date of enactment of this Act) by the Commodity 
+                Futures Trading Commission to allow swaps under such 
+                terms and conditions as the Commission shall prescribe.
+            (4) Required reporting.--If &lt;&lt;NOTE: Compliance. Records.&gt;&gt;  
+        the exception described in section 2(h)(8)(B) of the Commodity 
+        Exchange Act applies, the counterparties shall comply with any 
+        recordkeeping and transaction reporting requirements that may be 
+        prescribed by the Commission with respect to swaps subject to 
+        section 2(h)(8)(B) of the Commodity Exchange Act.

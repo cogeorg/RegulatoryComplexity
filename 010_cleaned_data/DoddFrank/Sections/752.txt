@@ -1,42 +1,27 @@
+                        INTERNATIONAL HARMONIZATION.
 
-    Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a)) (as 
-amended by section 727) is amended by adding at the end the following:
-            ``(15) Energy and environmental markets advisory 
-        committee.--
-                    ``(A) Establishment.--
-                          ``(i) In general.--An Energy and Environmental 
-                      Markets Advisory Committee is hereby established.
-                          ``(ii) Membership.--The Committee shall have 9 
-                      members.
-                          ``(iii) Activities.--The Committee's 
-                      objectives and scope of activities shall be--
-                                    ``(I) to conduct public meetings;
-                                    ``(II) to submit reports and 
-                                recommendations to the Commission 
-                                (including dissenting or minority views, 
-                                if any); and
-                                    ``(III) otherwise to serve as a 
-                                vehicle for discussion and communication 
-                                on matters of concern to exchanges, 
-                                firms, end users, and regulators 
-                                regarding energy and environmental 
-                                markets and their regulation by the 
-                                Commission.
-                    ``(B) Requirements.--
-                          ``(i) In general.--The &lt;&lt;NOTE: Public 
-                      meetings.&gt;&gt;  Committee shall hold public meetings 
-                      at such intervals as are necessary to carry out 
-                      the functions of the Committee, but not less 
-                      frequently than 2 times per year.
-                          ``(ii) Members.--Members shall be appointed to 
-                      3-year terms, but may be removed for cause by vote 
-                      of the Commission.
-                    ``(C) Appointment.--The Commission shall appoint 
-                members with a wide diversity of opinion and who 
-                represent a broad spectrum of interests, including 
-                hedgers and consumers.
-                    ``(D) Reimbursement.--Members shall be entitled to 
-                per diem and travel expense reimbursement by the 
-                Commission.
-                    ``(E) FACA.--The Committee shall not be subject to 
-                the Federal Advisory Committee Act (5 U.S.C. App.).''.
+    (a) &lt;&lt;NOTE: Securities.&gt;&gt;  In order to promote effective and 
+consistent global regulation of swaps and security-based swaps, the 
+Commodity Futures Trading Commission, the Securities and Exchange 
+Commission, and the prudential regulators (as that term is defined in 
+section 1a(39) of the Commodity Exchange Act), as appropriate, shall 
+consult and coordinate with foreign regulatory authorities on the 
+establishment of consistent international standards with respect to the 
+regulation (including fees) of swaps, security-based swaps, swap 
+entities, and security-based swap entities and may agree to such 
+information-sharing arrangements as may be deemed to be necessary or
+
+
+appropriate in the public interest or for the protection of investors, 
+swap counterparties, and security-based swap counterparties.
+
+    (b) &lt;&lt;NOTE: Contracts.&gt;&gt;  In order to promote effective and 
+consistent global regulation of contracts of sale of a commodity for 
+future delivery and options on such contracts, the Commodity Futures 
+Trading Commission shall consult and coordinate with foreign regulatory 
+authorities on the establishment of consistent international standards 
+with respect to the regulation of contracts of sale of a commodity for 
+future delivery and options on such contracts, and may agree to such 
+information-sharing arrangements as may be deemed necessary or 
+appropriate in the public interest for the protection of users of 
+contracts of sale of a commodity for future delivery.

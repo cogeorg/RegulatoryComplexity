@@ -1,65 +1,67 @@
-                          OR ABUSIVE ACTS OR PRACTICES.
 
-    (a) In General.--The Bureau may take any action authorized under 
-subtitle E to prevent a covered person or service provider from 
-committing or engaging in an unfair, deceptive, or abusive act or 
-practice under Federal law in connection with any transaction with a 
-consumer for a consumer financial product or service, or the offering of 
-a consumer financial product or service.
-    (b) Rulemaking.--The Bureau may prescribe rules applicable to a 
-covered person or service provider identifying as unlawful
+    (a) In General.--The Bureau may prescribe rules to ensure that the 
+features of any consumer financial product or service, both initially 
+and over the term of the product or service, are
 
 
-unfair, deceptive, or abusive acts or practices in connection with any 
-transaction with a consumer for a consumer financial product or service, 
-or the offering of a consumer financial product or service. Rules under 
-this section may include requirements for the purpose of preventing such 
-acts or practices.
-    (c) Unfairness.--
-            (1) In general.--The Bureau shall have no authority under 
-        this section to declare an act or practice in connection with a 
-        transaction with a consumer for a consumer financial product or 
-        service, or the offering of a consumer financial product or 
-        service, to be unlawful on the grounds that such act or practice 
-        is unfair, unless the Bureau has a reasonable basis to conclude 
-        that--
-                    (A) the act or practice causes or is likely to cause 
-                substantial injury to consumers which is not reasonably 
-                avoidable by consumers; and
-                    (B) such substantial injury is not outweighed by 
-                countervailing benefits to consumers or to competition.
-            (2) Consideration of public policies.--In determining 
-        whether an act or practice is unfair, the Bureau may consider 
-        established public policies as evidence to be considered with 
-        all other evidence. Such public policy considerations may not 
-        serve as a primary basis for such determination.
+fully, accurately, and effectively disclosed to consumers in a manner 
+that permits consumers to understand the costs, benefits, and risks 
+associated with the product or service, in light of the facts and 
+circumstances.
+    (b) Model Disclosures.--
+            (1) In general.--Any final rule prescribed by the Bureau 
+        under this section requiring disclosures may include a model 
+        form that may be used at the option of the covered person for 
+        provision of the required disclosures.
+            (2) Format.--A model form issued pursuant to paragraph (1) 
+        shall contain a clear and conspicuous disclosure that, at a 
+        minimum--
+                    (A) uses plain language comprehensible to consumers;
+                    (B) contains a clear format and design, such as an 
+                easily readable type font; and
+                    (C) succinctly explains the information that must be 
+                communicated to the consumer.
+            (3) Consumer testing.--Any model form issued pursuant to 
+        this subsection shall be validated through consumer testing.
 
-    (d) Abusive.--The Bureau shall have no authority under this section 
-to declare an act or practice abusive in connection with the provision 
-of a consumer financial product or service, unless the act or practice--
-            (1) materially interferes with the ability of a consumer to 
-        understand a term or condition of a consumer financial product 
-        or service; or
-            (2) takes unreasonable advantage of--
-                    (A) a lack of understanding on the part of the 
-                consumer of the material risks, costs, or conditions of 
-                the product or service;
-                    (B) the inability of the consumer to protect the 
-                interests of the consumer in selecting or using a 
-                consumer financial product or service; or
-                    (C) the reasonable reliance by the consumer on a 
-                covered person to act in the interests of the consumer.
+    (c) Basis for Rulemaking.--In prescribing rules under this section, 
+the Bureau shall consider available evidence about consumer awareness, 
+understanding of, and responses to disclosures or communications about 
+the risks, costs, and benefits of consumer financial products or 
+services.
+    (d) Safe Harbor.--Any covered person that uses a model form included 
+with a rule issued under this section shall be deemed to be in 
+compliance with the disclosure requirements of this section with respect 
+to such model form.
+    (e) Trial Disclosure Programs.--
+            (1) In general.--The Bureau may permit a covered person to 
+        conduct a trial program that is limited in time and scope, 
+        subject to specified standards and procedures, for the purpose 
+        of providing trial disclosures to consumers that are designed to 
+        improve upon any model form issued pursuant to subsection 
+        (b)(1), or any other model form issued to implement an 
+        enumerated statute, as applicable.
+            (2) Safe harbor.--The standards and procedures issued by the 
+        Bureau shall be designed to encourage covered persons to conduct 
+        trial disclosure programs. For the purposes of administering 
+        this subsection, the Bureau may establish a limited period 
+        during which a covered person conducting a trial disclosure 
+        program shall be deemed to be in compliance with, or may be 
+        exempted from, a requirement of a rule or an enumerated consumer 
+        law.
+            (3) Public disclosure.--The rules of the Bureau shall 
+        provide for public disclosure of trial disclosure programs, 
+        which public disclosure may be limited, to the extent necessary 
+        to encourage covered persons to conduct effective trials.
 
-    (e) Consultation.--In prescribing rules under this section, the 
-Bureau shall consult with the Federal banking agencies, or other Federal 
-agencies, as appropriate, concerning the consistency of the proposed 
-rule with prudential, market, or systemic objectives administered by 
-such agencies.
-    (f) Consideration of Seasonal Income.--The rules of the Bureau under 
-this section shall provide, with respect to an extension of credit 
-secured by residential real estate or a dwelling, if documented income 
-of the borrower, including income from a small business, is a repayment 
-source for an extension of credit secured by residential real estate or 
-a dwelling, the creditor may consider the seasonality and irregularity 
-of such income in the underwriting of and scheduling of payments for 
-such credit.
+    (f) Combined Mortgage Loan Disclosure.--Not 
+later &lt;&lt;NOTE: Deadline. Public comment.&gt;&gt;  than 1 year after the 
+designated transfer date, the Bureau shall propose for public comment 
+rules and model disclosures that combine the disclosures required under 
+the Truth in Lending Act and sections 4 and 5 of the Real Estate 
+Settlement Procedures Act of 1974, into a single, integrated disclosure 
+for mortgage loan transactions covered by those laws, unless the Bureau 
+determines that any proposal issued by the Board of Governors and the 
+Secretary of Housing and Urban Development carries out the same purpose.
+
+

@@ -1,20 +1,54 @@
 
-    Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 
-1834(a)) is amended--
-            (1) in the subsection heading, by striking ``by Federal 
-        Reserve Board'';
-            (2) in paragraph (1)--
-                    (A) by striking ``The Board of Governors of the 
-                Federal Reserve System,'' and inserting ``The 
-                Comptroller of the Currency''; and
-                    (B) by striking ``section 7(b)(2)(H)'' and inserting 
-                ``section 7(b)(2)(E)'';
-            (3) in paragraph (2)(A), by striking ``Board'' and inserting 
-        ``Comptroller''; and
-            (4) in paragraph (3)--
-                    (A) by redesignating subparagraphs (A) through (C) 
-                as subparagraphs (B) through (D), respectively; and
-                    (B) by inserting before subparagraph (B) the 
-                following:
-                    ``(A) Comptroller.--The &lt;&lt;NOTE: Definition.&gt;&gt; term 
-                `Comptroller' means the Comptroller of the Currency.''.
+    The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is 
+amended--
+            (1) in section 2(j)(3) (12 U.S.C. 1841(j)(3)), strike 
+        ``Director of the Office of Thrift Supervision'' and inserting 
+        ``appropriate Federal banking agency'';
+            (2) in section 4 (12 U.S.C. 1843)--
+                    (A) in subsection (i)--
+                          (i) in paragraph (4)--
+                                    (I) in subparagraph (A)--
+                                            (aa) in the subparagraph 
+                                        heading, by striking ``to 
+                                        director''; and
+                                            (bb) by striking ``Board'' 
+                                        and all that follows through the 
+                                        end of the subparagraph and 
+                                        inserting ``Board shall solicit 
+                                        comments and recommendations 
+                                        from--
+                          ``(i) the Comptroller of the Currency, with 
+                      respect to the acquisition of a Federal savings 
+                      association; and
+
+
+                          ``(ii) the Federal Deposit Insurance 
+                      Corporation, with respect to the acquisition of a 
+                      State savings association.''.
+                                    (II) in subparagraph (B), by 
+                                striking ``Director'' each place that 
+                                term appears and inserting ``Comptroller 
+                                of the Currency or the Federal Deposit 
+                                Insurance Corporation, as applicable,'';
+                          (ii) in paragraph (5)--
+                                    (I) in subparagraph (B), by striking 
+                                ``Director with'' and inserting 
+                                ``Comptroller of the Currency or the 
+                                Federal Deposit Insurance Corporation, 
+                                as applicable, with''; and
+                                    (II) by striking ``Director'' each 
+                                place that term appears and inserting 
+                                ``Comptroller of the Currency or the 
+                                Federal Deposit Insurance Corporation'';
+                          (iii) in paragraph (6), by striking 
+                      ``Director'' and inserting ``Comptroller of the 
+                      Currency or the Federal Deposit Insurance 
+                      Corporation, as applicable,''; and
+                          (iv) by striking paragraph (7); and
+            (3) in section 5(f) (12 U.S.C. 1844(f))--
+                    (A) by striking ``subpena'' each place that term 
+                appears and inserting ``subpoena'';
+                    (B) by striking ``subpenas'' each place that term 
+                appears and inserting ``subpoenas''; and
+                    (C) by striking ``subpenaed'' and inserting 
+                ``subpoenaed''.

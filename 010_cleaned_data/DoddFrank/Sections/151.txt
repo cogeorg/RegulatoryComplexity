@@ -1,44 +1,38 @@
-                        COMPLEXITY OF FINANCIAL INSTITUTIONS ON 
-                        CAPITAL MARKET EFFICIENCY AND ECONOMIC 
-                        GROWTH.
 
-    (a) Study Required.--
-            (1) In general.--The Chairperson of the Council shall carry 
-        out a study of the economic impact of possible financial 
-        services regulatory limitations intended to reduce systemic 
-        risk. Such study shall &lt;&lt;NOTE: Cost estimate.&gt;&gt; estimate the 
-        benefits and costs on the efficiency of capital markets, on the 
-        financial sector, and on national economic growth, of--
-                    (A) explicit or implicit limits on the maximum size 
-                of banks, bank holding companies, and other large 
-                financial institutions;
-                    (B) limits on the organizational complexity and 
-                diversification of large financial institutions;
-                    (C) requirements for operational separation between 
-                business units of large financial institutions in order 
-                to expedite resolution in case of failure;
-                    (D) limits on risk transfer between business units 
-                of large financial institutions;
-                    (E) requirements to carry contingent capital or 
-                similar mechanisms;
-                    (F) limits on commingling of commercial and 
-                financial activities by large financial institutions;
-                    (G) segregation requirements between traditional 
-                financial activities and trading or other high-risk 
-                operations in large financial institutions; and
-                    (H) other limitations on the activities or structure 
-                of large financial institutions that may be useful to 
-                limit systemic risk.
-            (2) Recommendations.--The study required by this section 
-        shall include recommendations for the optimal structure of any 
-        limits considered in subparagraphs (A) through (E), in order to 
-        maximize their effectiveness and minimize their economic impact.
+    For purposes of this subtitle--
+            (1) the terms ``Office'' and ``Director'' mean the Office of 
+        Financial Research established under this subtitle and the 
+        Director thereof, respectively;
+            (2) the term ``financial company'' has the same meaning as 
+        in title II, and includes an insured depository institution and 
+        an insurance company;
+            (3) the term ``Data Center'' means the data center 
+        established under section 154;
+            (4) the term ``Research and Analysis Center'' means the 
+        research and analysis center established under section 154;
 
-    (b) Report.--Not later than the end of the 180-day period beginning 
-on the date of enactment of this title, and not later than every 5 years 
-thereafter, the Chairperson shall issue a report to the Congress 
-containing any findings and determinations made in carrying out the 
-study required under subsection (a).
 
-                Subtitle B--Office of Financial Research
-
+            (5) the term ``financial transaction data'' means the 
+        structure and legal description of a financial contract, with 
+        sufficient detail to describe the rights and obligations between 
+        counterparties and make possible an independent valuation;
+            (6) the term ``position data''--
+                    (A) means data on financial assets or liabilities 
+                held on the balance sheet of a financial company, where 
+                positions are created or changed by the execution of a 
+                financial transaction; and
+                    (B) includes information that identifies 
+                counterparties, the valuation by the financial company 
+                of the position, and information that makes possible an 
+                independent valuation of the position;
+            (7) the term ``financial contract'' means a legally binding 
+        agreement between 2 or more counterparties, describing rights 
+        and obligations relating to the future delivery of items of 
+        intrinsic or extrinsic value among the counterparties; and
+            (8) the term ``financial instrument'' means a financial 
+        contract in which the terms and conditions are publicly 
+        available, and the roles of one or more of the counterparties 
+        are assignable without the consent of any of the other 
+        counterparties (including common stock of a publicly traded 
+        company, government bonds, or exchange traded futures and 
+        options contracts).

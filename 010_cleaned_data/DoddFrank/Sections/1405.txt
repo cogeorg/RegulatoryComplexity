@@ -1,21 +1,32 @@
 
-    Section 129B of the Truth in Lending Act is amended by inserting 
-after subsection (c) (as added by section 1403) the following new 
-subsection:
-    ``(d) Liability for Violations.--
-            ``(1) In general.-- &lt;&lt;NOTE: Applicability.&gt;&gt; For purposes of 
-        providing a cause of action for any failure by a mortgage 
-        originator, other than a creditor, to comply with any 
-        requirement imposed under this section and any regulation 
-        prescribed under this section, section 130 shall be applied with 
-        respect to any such failure by substituting `mortgage 
-        originator' for `creditor' each place such term appears in each 
-        such subsection.
-            ``(2) Maximum.--The maximum amount of any liability of a 
-        mortgage originator under paragraph (1) to a consumer for any 
-        violation of this section shall not exceed the greater of actual 
-        damages or an amount equal to 3 times the total amount of direct 
-        and indirect compensation or gain accruing to the mortgage 
-        originator in connection with the residential mortgage loan 
-        involved in the violation, plus the costs to the consumer of the 
-        action, including a reasonable attorney's fee.''.
+    (a) Discretionary Regulatory Authority.--Section 129B of the Truth 
+in Lending Act is amended by inserting after subsection (d) (as added by 
+section 1404) the following new subsection:
+    ``(e) Discretionary Regulatory Authority.--
+            ``(1) In general.--The Board shall, by regulations, prohibit 
+        or condition terms, acts or practices relating to residential 
+        mortgage loans that the Board finds to be abusive, unfair, 
+        deceptive, predatory, necessary or proper to ensure that 
+        responsible, affordable mortgage credit remains available to 
+        consumers in a manner consistent with the purposes of this 
+        section and section 129C, necessary or proper to effectuate the 
+        purposes of this section and section 129C, to prevent 
+        circumvention or evasion thereof, or to facilitate compliance 
+        with such sections, or are not in the interest of the borrower.
+            ``(2) Application.--The regulations prescribed under 
+        paragraph (1) shall be applicable to all residential mortgage 
+        loans and shall be applied in the same manner as regulations 
+        prescribed under section 105.
+
+
+    ``(f) Section 129B and any regulations promulgated thereunder do not 
+apply to an extension of credit relating to a plan described in section 
+101(53D) of title 11, United States Code.''.
+    (b) Disclosures.--Notwithstanding &lt;&lt;NOTE: 15 USC 1601 note.&gt;&gt;  any 
+other provision of this title, in order to improve consumer awareness 
+and understanding of transactions involving residential mortgage loans 
+through the use of disclosures, the Board may, by rule, exempt from or 
+modify disclosure requirements, in whole or in part, for any class of 
+residential mortgage loans if the Board determines that such exemption 
+or modification is in the interest of consumers and in the public 
+interest.

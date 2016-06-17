@@ -1,40 +1,45 @@
+                        EXEMPTION FOR FOREIGN PRIVATE ADVISERS; 
+                        LIMITED INTRASTATE EXEMPTION.
 
-    (a) Investment Advisers Act of 1940 Definitions.--Section 202(a) of 
-the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)) is amended by 
-adding at the end the following:
-            ``(29) The term `private fund' means an issuer that would be 
-        an investment company, as defined in section 3 of the Investment 
-        Company Act of 1940 (15 U.S.C. 80a-3), but for section 3(c)(1) 
-        or 3(c)(7) of that Act.
-            ``(30) The term `foreign private adviser' means any 
-        investment adviser who--
-                    ``(A) has no place of business in the United States;
-                    ``(B) has, in total, fewer than 15 clients and 
-                investors in the United States in private funds advised 
-                by the investment adviser;
-                    ``(C) has aggregate assets under management 
-                attributable to clients in the United States and 
-                investors in the United States in private funds advised 
-                by the investment adviser of less than $25,000,000, or 
-                such higher amount as the Commission may, by rule, deem 
-                appropriate in accordance with the purposes of this 
-                title; and
-                    ``(D) neither--
-                          ``(i) holds itself out generally to the public 
-                      in the United States as an investment adviser; nor
-                          ``(ii) acts as--
-                                    ``(I) an investment adviser to any 
-                                investment company registered under the 
-                                Investment Company Act of 1940; or
-                                    ``(II) a company that has elected to 
-                                be a business development company 
-                                pursuant to section 54 of the Investment 
-                                Company Act of 1940 (15 U.S.C. 80a-53), 
-                                and has not withdrawn its election.''.
+    Section 203(b) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-3(b)) is amended--
+            (1) in paragraph (1), by inserting ``, other than an 
+        investment adviser who acts as an investment adviser to any 
+        private fund,'' before ``all of whose'';
+            (2) by striking paragraph (3) and inserting the following:
+            ``(3) any investment adviser that is a foreign private 
+        adviser;''; and
+            (3) in paragraph (5), by striking ``or'' at the end;
+            (4) in paragraph (6)--
+                    (A) by striking ``any investment adviser'' and 
+                inserting ``(A) any investment adviser'';
+                    (B) by redesignating subparagraphs (A) and (B) as 
+                clauses (i) and (ii), respectively; and
+                    (C) in clause (ii) (as so redesignated), by striking 
+                the period at the end and inserting ``; or''; and
+                    (D) by adding at the end the following:
 
-    (b) Other &lt;&lt;NOTE: 15 USC 80b-2 note.&gt;&gt; Definitions.--As used in this 
-title, the terms ``investment adviser'' and ``private fund'' have the 
-same meanings as in section 202 of the Investment Advisers Act of 1940, 
-as amended by this title.
-
-
+    ``(B) any investment adviser that is registered with the Commodity 
+Futures Trading Commission as a commodity trading advisor and advises a 
+private fund, provided that, if after the date of enactment of the 
+Private Fund Investment Advisers Registration Act of 2010, the business 
+of the advisor should become predominately the provision of securities-
+related advice, then such adviser shall register with the Commission.''.
+            (5) by adding at the end the following:
+            ``(7) any investment adviser, other than any entity that has 
+        elected to be regulated or is regulated as a business 
+        development company pursuant to section 54 of the Investment 
+        Company Act of 1940 (15 U.S.C. 80a-54), who solely advises--
+                    ``(A) small business investment companies that are 
+                licensees under the Small Business Investment Act of 
+                1958;
+                    ``(B) entities that have received from the Small 
+                Business Administration notice to proceed to qualify for 
+                a license as a small business investment company under 
+                the Small Business Investment Act of 1958, which notice 
+                or license has not been revoked; or
+                    ``(C) applicants that are affiliated with 1 or more 
+                licensed small business investment companies described 
+                in subparagraph (A) and that have applied for another 
+                license under the Small Business Investment Act of 1958, 
+                which application remains pending.''.

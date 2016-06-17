@@ -1,42 +1,46 @@
+                            ABUSE PREVENTION ACT.
 
-    The Truth in Savings Act (12 U.S.C. 4301 et seq.) is amended--
+    (a) Amendments to Section 3.--Section 3 of the Telemarketing and 
+Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6102) is amended by 
+striking subsections (b) and (c) and inserting the following:
+    ``(b) Rulemaking Authority.--The Commission shall have authority to 
+prescribe rules under subsection (a), in accordance with section 553 of 
+title 5, United States &lt;&lt;NOTE: Consultation.&gt;&gt; Code. In prescribing a 
+rule under this section that relates to the provision of a consumer 
+financial product or service that is subject to the Consumer Financial 
+Protection Act of 2010, including any enumerated consumer law 
+thereunder, the Commission shall consult with the Bureau of Consumer 
+Financial Protection regarding the consistency of a proposed rule with 
+standards, purposes, or objectives administered by the Bureau of 
+Consumer Financial Protection.
+
+    ``(c) Violations.--Any violation of any rule prescribed under 
+subsection (a)--
+            ``(1) shall be treated as a violation of a rule under 
+        section 18 of the Federal Trade Commission Act regarding unfair 
+        or deceptive acts or practices; and
 
 
-            (1) by &lt;&lt;NOTE: 12 USC 4302 et seq.&gt;&gt; striking ``Board'' each 
-        place that term appears, other than in section 272(b) (12 U.S.C. 
-        4311), and inserting ``Bureau'';
-            (2) in section 270(a) (12 U.S.C. 4309)--
-                    (A) by striking ``Compliance'' and all that follows 
-                through the end of paragraph (1) and inserting: 
-                ``Subject to subtitle B of the Consumer Financial 
-                Protection Act of 2010, compliance with the requirements 
-                imposed under this subtitle shall be enforced under--
-            ``(1) section 8 of the Federal Deposit Insurance Act by the 
-        appropriate Federal banking agency (as defined in section 3(q) 
-        of that Act), with respect to--
-                    ``(A) insured depository institutions (as defined in 
-                section 3(c)(2) of that Act);
-                    ``(B) depository institutions described in clause 
-                (i), (ii), or (iii) of section 19(b)(1)(A) of the 
-                Federal Reserve Act which are not insured depository 
-                institutions (as defined in section 3(c)(2) of the 
-                Federal Deposit Insurance Act); and
-                    ``(C) depository institutions described in clause 
-                (v) or (vi) of section 19(b)(1)(A) of the Federal 
-                Reserve Act which are not insured depository 
-                institutions (as defined in section 3(c)(2) of the 
-                Federal Deposit Insurance Act);'';
-                    (B) in paragraph (2), by striking the period at the 
-                end and inserting ``; and''; and
-                    (C) by adding at the end the following:
-            ``(3) subtitle E of the Consumer Financial Protection Act of 
-        2010, by the Bureau, with respect to any person subject to this 
-        subtitle.'';
-            (3) in section 272(b) (12 U.S.C. 4311(b)), by striking 
-        ``regulation prescribed by the Board'' each place that term 
-        appears and inserting ``regulation prescribed by the Bureau''; 
-        and
-            (4) in section 274 (12 U.S.C. 4313), by striking paragraph 
-        (4) and inserting the following:
-            ``(4) Bureau.--The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means 
-        the Bureau of Consumer Financial Protection.''.
+            ``(2) that is committed by a person subject to the Consumer 
+        Financial Protection Act of 2010 shall be treated as a violation 
+        of a rule under section 1031 of that Act regarding unfair, 
+        deceptive, or abusive acts or practices.''.
+
+    (b) Amendments to Section 4.--Section 4(d) of the Telemarketing and 
+Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6103(d)) is amended 
+by inserting after ``Commission'' each place that term appears the 
+following: ``or the Bureau of Consumer Financial Protection''.
+    (c) Amendments to Section 5.--Section 5(c) of the Telemarketing and 
+Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6104(c)) is amended 
+by inserting after ``Commission'' each place that term appears the 
+following: ``or the Bureau of Consumer Financial Protection''.
+    (d) Amendment to Section 6.--Section 6 of the Telemarketing and 
+Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6105) is amended by 
+adding at the end the following:
+    ``(d) Enforcement by Bureau of Consumer Financial Protection.--
+Except as otherwise provided in sections 3(d), 3(e), 4, and 5, and 
+subject to subtitle B of the Consumer Financial Protection Act of 2010, 
+this Act shall be enforced by the Bureau of Consumer Financial 
+Protection under subtitle E of the Consumer Financial Protection Act of 
+2010, with respect to the offering or provision of a consumer financial 
+product or service subject to that Act.''.

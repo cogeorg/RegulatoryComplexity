@@ -1,30 +1,20 @@
 
-    (a) &lt;&lt;NOTE: Public comment.&gt;&gt;  In General.--The Securities and 
-Exchange Commission of the United States shall solicit public comment 
-and thereafter conduct a study to determine the extent to which private 
-rights of action under the antifraud provisions of the Securities and 
-Exchange Act of 1934 (15 U.S.C. 78u-4) should be extended to cover--
-            (1) conduct within the United States that constitutes a 
-        significant step in the furtherance of the violation, even if 
-        the securities transaction occurs outside the United States and 
-        involves only foreign investors; and
-            (2) conduct occurring outside the United States that has a 
-        foreseeable substantial effect within the United States.
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study on the impact of authorizing a private right of action 
+against any person who aids or abets another person in violation of the 
+securities laws. To the extent feasible, this study shall include--
+            (1) a review of the role of secondary actors in companies 
+        issuance of securities;
+            (2) the courts interpretation of the scope of liability for 
+        secondary actors under Federal securities laws after January 14, 
+        2008; and
+            (3) the types of lawsuits decided under the Private 
+        Securities Litigation Act of 1995.
 
-    (b) Contents.--The study shall consider and analyze, among other 
-things--
-            (1) the scope of such a private right of action, including 
-        whether it should extend to all private actors or whether it 
-        should be more limited to extend just to institutional investors 
-        or otherwise;
-            (2) what implications such a private right of action would 
-        have on international comity;
-            (3) the economic costs and benefits of extending a private 
-        right of action for transnational securities frauds; and
-            (4) whether a narrower extraterritorial standard should be 
-        adopted.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Comptroller General shall submit a report to Congress on 
+the findings of the study required under subsection (a).
 
-    (c) Report.--A report of the study shall be submitted and 
-recommendations made to the Committee on Banking, Housing, and Urban 
-Affairs of the Senate and the Committee on Financial Services of the 
-House not later than 18 months after the date of enactment of this Act.
+
+  Subtitle C--Improvements to the Regulation of Credit Rating Agencies
+

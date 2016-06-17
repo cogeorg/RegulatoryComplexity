@@ -1,12 +1,12 @@
-                        ISSUER IN RATING DECISIONS.
+                        CREDIT RATING ANALYSTS.
 
-    Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o-
-7), as amended by this subtitle, is amended by adding at the end the 
-following:
-    ``(v) Information From Sources Other Than the Issuer.--In producing 
-a credit rating, a nationally recognized statistical rating organization 
-shall consider information about an issuer that the nationally 
-recognized statistical rating organization has, or receives from a 
-source other than the issuer or underwriter, that the nationally 
-recognized statistical rating organization finds credible and 
-potentially significant to a rating decision.''.
+    Not &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt;  later than 1 year after the 
+date of enactment of this Act, the Commission shall issue rules that are 
+reasonably designed to ensure that any person employed by a nationally 
+recognized statistical rating organization to perform credit ratings--
+
+
+            (1) meets standards of training, experience, and competence 
+        necessary to produce accurate ratings for the categories of 
+        issuers whose securities the person rates; and
+            (2) is tested for knowledge of the credit rating process.

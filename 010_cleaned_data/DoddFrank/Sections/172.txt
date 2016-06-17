@@ -1,190 +1,81 @@
-                        REQUIREMENTS.
+                        ORDERLY LIQUIDATION PURPOSES.
 
-    (a) Definitions.--For purposes of this section, the following 
-definitions shall apply:
-            (1) Generally applicable leverage capital requirements.--The 
-        term ``generally applicable leverage capital requirements'' 
-        means--
-                    (A) the minimum ratios of tier 1 capital to average 
-                total assets, as established by the appropriate Federal 
-                banking agencies to apply to insured depository 
-                institutions under the prompt corrective action 
-                regulations implementing section 38 of the Federal 
-                Deposit Insurance Act, regardless of total consolidated 
-                asset size or foreign financial exposure; and
-                    (B) includes the regulatory capital components in 
-                the numerator of that capital requirement, average total 
-                assets in the denominator of that capital requirement, 
-                and the required ratio of the numerator to the 
-                denominator.
+    (a) Examinations for Insurance and Resolution Purposes.--Section 
+10(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1820(b)(3)) is 
+amended--
+            (1) by striking ``In addition'' and inserting the following:
+                    ``(A) In general.--In addition''; and
+            (2) by striking ``whenever the board of directors 
+        determines'' and all that follows through the period and 
+        inserting the following: ``or nonbank financial company 
+        supervised by the Board of Governors or a bank holding company 
+        described in section
 
 
-            (2) Generally applicable risk-based capital requirements.--
-        The term ``generally applicable risk-based capital 
-        requirements'' means--
-                    (A) the risk-based capital requirements, as 
-                established by the appropriate Federal banking agencies 
-                to apply to insured depository institutions under the 
-                prompt corrective action regulations implementing 
-                section 38 of the Federal Deposit Insurance Act, 
-                regardless of total consolidated asset size or foreign 
-                financial exposure; and
-                    (B) includes the regulatory capital components in 
-                the numerator of those capital requirements, the risk-
-                weighted assets in the denominator of those capital 
-                requirements, and the required ratio of the numerator to 
-                the denominator.
-            (3) Definition of depository institution holding company.--
-        The term ``depository institution holding company'' means a bank 
-        holding company or a savings and loan holding company (as those 
-        terms are defined in section 3 of the Federal Deposit Insurance 
-        Act) that is organized in the United States, including any bank 
-        or savings and loan holding company that is owned or controlled 
-        by a foreign organization, but does not include the foreign 
-        organization.
+        165(a) of the Financial Stability Act of 2010, whenever the 
+        Board of Directors determines that a special examination of any 
+        such depository institution is necessary to determine the 
+        condition of such depository institution for insurance purposes, 
+        or of such nonbank financial company supervised by the Board of 
+        Governors or bank holding company described in section 165(a) of 
+        the Financial Stability Act of 2010, for the purpose of 
+        implementing its authority to provide for orderly liquidation of 
+        any such company under title II of that Act, provided that such 
+        authority may not be used with respect to any such company that 
+        is in a generally sound condition.
+                    ``(B) Limitation.--
+                Before &lt;&lt;NOTE: Review.&gt;&gt; conducting a special 
+                examination of a nonbank financial company supervised by 
+                the Board of Governors or a bank holding company 
+                described in section 165(a) of the Financial Stability 
+                Act of 2010, the Corporation shall review any available 
+                and acceptable resolution plan that the company has 
+                submitted in accordance with section 165(d) of that Act, 
+                consistent with the nonbinding effect of such plan, and 
+                available reports of examination, and shall coordinate 
+                to the maximum extent practicable with the Board of 
+                Governors, in order to minimize duplicative or 
+                conflicting examinations.''.
 
-    (b) Minimum Capital Requirements.--
-            (1) Minimum leverage capital requirements.--The appropriate 
-        Federal banking agencies shall establish minimum leverage 
-        capital requirements on a consolidated basis for insured 
-        depository institutions, depository institution holding 
-        companies, and nonbank financial companies supervised by the 
-        Board of Governors. The minimum leverage capital requirements 
-        established under this paragraph shall not be less than the 
-        generally applicable leverage capital requirements, which shall 
-        serve as a floor for any capital requirements that the agency 
-        may require, nor quantitatively lower than the generally 
-        applicable leverage capital requirements that were in effect for 
-        insured depository institutions as of the date of enactment of 
-        this Act.
-            (2) Minimum risk-based capital requirements.--The 
-        appropriate Federal banking agencies shall establish minimum 
-        risk-based capital requirements on a consolidated basis for 
-        insured depository institutions, depository institution holding 
-        companies, and nonbank financial companies supervised by the 
-        Board of Governors. The minimum risk-based capital requirements 
-        established under this paragraph shall not be less than the 
-        generally applicable risk-based capital requirements, which 
-        shall serve as a floor for any capital requirements that the 
-        agency may require, nor quantitatively lower than the generally 
-        applicable risk-based capital requirements that were in effect 
-        for insured depository institutions as of the date of enactment 
-        of this Act.
-            (3) Investments in financial subsidiaries.--For purposes of 
-        this section, investments in financial subsidiaries that insured 
-        depository institutions are required to deduct from regulatory 
-        capital under section 5136A of the Revised Statutes of the 
-        United States or section 46(a)(2) of the Federal Deposit 
-        Insurance Act need not be deducted from regulatory capital by 
-        depository institution holding companies or nonbank financial 
-        companies supervised by the Board of Governors, unless such 
-        capital deduction is required by the Board of Governors
+    (b) Enforcement Authority.--Section 8(t) of the Federal Deposit 
+Insurance Act (12 U.S.C. 1818(t)) is amended--
+            (1) in paragraph (1), by inserting ``, any depository 
+        institution holding company,'' before ``or any institution-
+        affiliated party'';
+            (2) in paragraph (2)--
+                    (A) by striking ``or'' at the end of subparagraph 
+                (B);
+                    (B) at the end of subparagraph (C), by striking the 
+                period and inserting ``or''; and
+                    (C) by inserting at the end the following new 
+                subparagraph:
+                    ``(D) the conduct or threatened conduct (including 
+                any acts or omissions) of the depository institution 
+                holding company poses a risk to the Deposit Insurance 
+                Fund, provided that such authority may not be used with 
+                respect to a depository institution holding company that 
+                is in generally sound condition and whose conduct does 
+                not pose a foreseeable and material risk of loss to the 
+                Deposit Insurance Fund;''; and
+            (3) by adding at the end the following:
+            ``(6) Powers and duties with respect to depository 
+        institution holding companies.--For purposes of exercising the 
+        backup authority provided in this subsection--
+                    ``(A) the Corporation shall have the same powers 
+                with respect to a depository institution holding company 
+                and its affiliates as the appropriate Federal banking 
+                agency has with respect to the holding company and its 
+                affiliates; and
+                    ``(B) the holding company and its affiliates shall 
+                have the same duties and obligations with respect to the 
+                Corporation as the holding company and its affiliates 
+                have with respect to the appropriate Federal banking 
+                agency.''.
 
-
-        or the primary financial regulatory agency in the case of 
-        nonbank financial companies supervised by the Board of 
-        Governors.
-            (4) Effective dates and phase-in periods.--
-                    (A) Debt or equity instruments on or after may 19, 
-                2010.--For debt or equity instruments issued on or after 
-                May 19, 2010, by depository institution holding 
-                companies or by nonbank financial companies supervised 
-                by the Board of Governors, this section shall be deemed 
-                to have become effective as of May 19, 2010.
-                    (B) Debt or equity instruments issued before may 19, 
-                2010.--For debt or equity instruments issued before May 
-                19, 2010, by depository institution holding companies or 
-                by nonbank financial companies supervised by the Board 
-                of Governors, any regulatory capital deductions required 
-                under this section shall be phased in incrementally over 
-                a period of 3 years, with the phase-in period to begin 
-                on January 1, 2013, except as set forth in subparagraph 
-                (C).
-                    (C) Debt or equity instruments of smaller 
-                institutions.--For debt or equity instruments issued 
-                before May 19, 2010, by depository institution holding 
-                companies with total consolidated assets of less than 
-                $15,000,000,000 as of December 31, 2009, and by 
-                organizations that were mutual holding companies on May 
-                19, 2010, the capital deductions that would be required 
-                for other institutions under this section are not 
-                required as a result of this section.
-                    (D) Depository institution holding companies not 
-                previously supervised by the board of governors.--For 
-                any depository institution holding company that was not 
-                supervised by the Board of Governors as of May 19, 2010, 
-                the requirements of this section, except as set forth in 
-                subparagraphs (A) and (B), shall be effective 5 years 
-                after the date of enactment of this Act
-                    (E) Certain bank holding company subsidiaries of 
-                foreign banking organizations.--For bank holding company 
-                subsidiaries of foreign banking organizations that have 
-                relied on Supervision and Regulation Letter SR-01-1 
-                issued by the Board of Governors (as in effect on May 
-                19, 2010), the requirements of this section, except as 
-                set forth in subparagraph (A), shall be effective 5 
-                years after the date of enactment of this Act.
-            (5) Exceptions.--This section shall not apply to--
-                    (A) debt or equity instruments issued to the United 
-                States or any agency or instrumentality thereof pursuant 
-                to the Emergency Economic Stabilization Act of 2008, and 
-                prior to October 4, 2010;
-                    (B) any Federal home loan bank; or
-                    (C) any small bank holding company that is subject 
-                to the Small Bank Holding Company Policy Statement of 
-                the Board of Governors, as in effect on May 19, 2010.
-            (6) Study and report on small institution access to 
-        capital.--
-                    (A) Study required.--The Comptroller General of the 
-                United States, after consultation with the Federal 
-                banking
+    (c) Rule &lt;&lt;NOTE: 12 USC 5372.&gt;&gt; of Construction.--Nothing in this 
+Act shall be construed to limit or curtail the Corporation's current 
+authority to
 
 
-                agencies, shall conduct a study of access to capital by 
-                smaller insured depository institutions.
-                    (B) Scope.--For &lt;&lt;NOTE: Definition.&gt;&gt; purposes of 
-                this study required by subparagraph (A), the term 
-                ``smaller insured depository institution'' means an 
-                insured depository institution with total consolidated 
-                assets of $5,000,000,000 or less.
-                    (C) Report to congress.--Not later than 18 months 
-                after the date of enactment of this Act, the Comptroller 
-                General of the United States shall submit to the 
-                Committee on Banking, Housing, and Urban Affairs of the 
-                Senate and the Committee on Financial Services of the 
-                House of Representatives a report summarizing the 
-                results of the study conducted under subparagraph (A), 
-                together with any recommendations for legislative or 
-                regulatory action that would enhance the access to 
-                capital of smaller insured depository institutions, in a 
-                manner that is consistent with safe and sound banking 
-                operations.
-            (7) Capital requirements to address activities that pose 
-        risks to the financial system.--
-                    (A) In general.--Subject to the recommendations of 
-                the Council, in accordance with section 120, the Federal 
-                banking agencies shall develop capital requirements 
-                applicable to insured depository institutions, 
-                depository institution holding companies, and nonbank 
-                financial companies supervised by the Board of Governors 
-                that address the risks that the activities of such 
-                institutions pose, not only to the institution engaging 
-                in the activity, but to other public and private 
-                stakeholders in the event of adverse performance, 
-                disruption, or failure of the institution or the 
-                activity.
-                    (B) Content.--Such rules shall address, at a 
-                minimum, the risks arising from--
-                          (i) significant volumes of activity in 
-                      derivatives, securitized products purchased and 
-                      sold, financial guarantees purchased and sold, 
-                      securities borrowing and lending, and repurchase 
-                      agreements and reverse repurchase agreements;
-                          (ii) concentrations in assets for which the 
-                      values presented in financial reports are based on 
-                      models rather than historical cost or prices 
-                      deriving from deep and liquid 2-way markets; and
-                          (iii) concentrations in market share for any 
-                      activity that would substantially disrupt 
-                      financial markets if the institution is forced to 
-                      unexpectedly cease the activity.
+examine or bring enforcement actions with respect to any insured 
+depository institution or institution-affiliated party.

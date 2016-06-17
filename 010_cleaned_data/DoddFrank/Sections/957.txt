@@ -1,85 +1,43 @@
-                        REPORTING.
 
-    (a) Enhanced Disclosure and Reporting of Compensation 
-Arrangements.--
-            (1) In general.-- &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt; Not later 
-        than 9 months after the date of enactment of this title, the 
-        appropriate Federal regulators jointly shall prescribe 
-        regulations or guidelines to require each covered financial 
-        institution to disclose to the appropriate Federal regulator the 
-        structures of all incentive-based compensation arrangements 
-        offered by such covered financial institutions sufficient to 
-        determine whether the compensation structure--
-                    (A) provides an executive officer, employee, 
-                director, or principal shareholder of the covered 
-                financial institution with excessive compensation, fees, 
-                or benefits; or
-                    (B) could lead to material financial loss to the 
-                covered financial institution.
-            (2) Rules of construction.--Nothing in this section shall be 
-        construed as requiring the reporting of the actual compensation 
-        of particular individuals. Nothing in this section shall be 
-        construed to require a covered financial institution that does 
-        not have an incentive-based payment arrangement to make the 
-        disclosures required under this subsection.
-
-    (b) Prohibition on Certain Compensation 
-Arrangements. &lt;&lt;NOTE: Deadline. Regulations.&gt;&gt; --Not later than 9 months 
-after the date of enactment of this title, the appropriate Federal 
-regulators shall jointly prescribe regulations or guidelines that 
-prohibit any types of incentive-based payment arrangement, or any 
-feature of any such arrangement, that the regulators determine 
-encourages inappropriate risks by covered financial institutions--
-            (1) by providing an executive officer, employee, director, 
-        or principal shareholder of the covered financial institution 
-        with excessive compensation, fees, or benefits; or
-            (2) that could lead to material financial loss to the 
-        covered financial institution.
-
-    (c) Standards.--The appropriate Federal regulators shall--
-            (1) ensure that any standards for compensation established 
-        under subsections (a) or (b) are comparable to the standards 
-        established under section of the Federal Deposit Insurance Act 
-        (12 U.S.C. 2 1831p-1) for insured depository institutions; and
-            (2) in establishing such standards under such subsections, 
-        take into consideration the compensation standards described in 
-        section 39(c) of the Federal Deposit Insurance Act (12 U.S.C. 
-        1831p- 9 1(c)).
-
-    (d) Enforcement.--The provisions of this section and the regulations 
-issued under this section shall be enforced under section
+    Section 6(b) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78f(b)) is amended--
+            (1) in paragraph (9)--
+                    (A) in subparagraph (A), by redesignating clauses 
+                (i) through (v) as subclauses (I) through (V), 
+                respectively, and adjusting the margins accordingly;
+                    (B) by redesignating subparagraphs (A) through (D) 
+                as clauses (i) through (iv), respectively, and adjusting 
+                the margins accordingly;
+                    (C) by inserting ``(A)'' after ``(9)''; and
+                    (D) in the matter immediately following clause (iv), 
+                as so redesignated, by striking ``As used'' and 
+                inserting the following:
+            ``(B) As used''.
+            (2) by adding at the end the following:
+            ``(10)(A) The rules of the exchange prohibit any member that 
+        is not the beneficial owner of a security registered under 
+        section 12 from granting a proxy to vote the security in 
+        connection with a shareholder vote described in subparagraph 
+        (B), unless the beneficial owner of the security has instructed 
+        the member to vote the proxy in accordance with the voting 
+        instructions of the beneficial owner.
+            ``(B) A shareholder vote described in this subparagraph is a 
+        shareholder vote with respect to the election of a member
 
 
-505 of the Gramm-Leach-Bliley Act and, for purposes of such section, a 
-violation of this section or such regulations shall be treated as a 
-violation of subtitle A of title V of such Act.
-    (e) Definitions.--As used in this section--
-            (1) the term ``appropriate Federal regulator'' means the 
-        Board of Governors of the Federal Reserve System, the Office of 
-        the Comptroller of the Currency, the Board of Directors of the 
-        Federal Deposit Insurance Corporation, the Director of the 
-        Office of Thrift Supervision, the National Credit Union 
-        Administration Board, the Securities and Exchange Commission, 
-        the Federal Housing Finance Agency; and
-            (2) the term ``covered financial institution'' means--
-                    (A) a depository institution or depository 
-                institution holding company, as such terms are defined 
-                in section 3 of the Federal Deposit Insurance Act (12 
-                U.S.C. 1813);
-                    (B) a broker-dealer registered under section 15 of 
-                the Securities Exchange Act of 1934 (15 U.S.C. 78o);
-                    (C) a credit union, as described in section 
-                19(b)(1)(A)(iv) of the Federal Reserve Act;
-                    (D) an investment advisor, as such term is defined 
-                in section 202(a)(11) of the Investment Advisers Act of 
-                1940 (15 U.S.C. 80b-2(a)(11));
-                    (E) the Federal National Mortgage Association;
-                    (F) the Federal Home Loan Mortgage Corporation; and
-                    (G) any other financial institution that the 
-                appropriate Federal regulators, jointly, by rule, 
-                determine should be treated as a covered financial 
-                institution for purposes of this section.
+        of the board of directors of an issuer, executive compensation, 
+        or any other significant matter, as determined by the 
+        Commission, by rule, and does not include a vote with respect to 
+        the uncontested election of a member of the board of directors 
+        of any investment company registered under the Investment 
+        Company Act of 1940 (15 U.S.C. 80b-1 et seq.).
+            ``(C) Nothing in this paragraph shall be construed to 
+        prohibit a national securities exchange from prohibiting a 
+        member that is not the beneficial owner of a security registered 
+        under section 12 from granting a proxy to vote the security in 
+        connection with a shareholder vote not described in subparagraph 
+        (A).''.
 
-    (f) Exemption for Certain Financial Institutions.--The requirements 
-of this section shall not apply to covered financial institutions with 
-assets of less than $1,000,000,000.
+    Subtitle F--Improvements to the Management of the Securities and 
+                           Exchange Commission
+

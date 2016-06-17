@@ -1,36 +1,40 @@
+                        OTHER ``BAD ACTORS'' FROM REGULATION D 
+                        OFFERINGS.
 
-    (a) Securities Exchange Act of 1934.--
-            (1) Section 15.--Section 15(b)(6)(A) of the Securities 
-        Exchange Act of 1934 (15 U.S.C. 78o(b)(6)(A)) is amended by 
-        striking ``12 months, or bar such person from being associated 
-        with a broker or dealer,'' and inserting ``12 months, or bar any 
-        such person from being associated with a broker, dealer, 
-        investment adviser, municipal securities dealer, municipal 
-        advisor, transfer agent, or nationally recognized statistical 
-        rating organization,''.
-            (2) Section 15b.--Section 15B(c)(4) of the Securities 
-        Exchange Act of 1934 (15 U.S.C. 78o-4(c)(4)) is amended by 
-        striking ``twelve months or bar any such person from being 
-        associated with a municipal securities dealer,'' and inserting 
-        ``12 months or bar any such person from being associated with a 
-        broker, dealer, investment adviser, municipal securities
+    Not later &lt;&lt;NOTE: Deadline.&gt;&gt;  than 1 year after the date of 
+enactment of this Act, the Commission shall issue rules for the 
+disqualification of offerings and sales of securities made under section 
+230.506 of title 17, Code of Federal Regulations, that--
+            (1) are substantially similar to the provisions of section 
+        230.262 of title 17, Code of Federal Regulations, or any 
+        successor thereto; and
+            (2) disqualify any offering or sale of securities by a 
+        person that--
+                    (A) is subject to a final order of a State 
+                securities commission (or an agency or officer of a 
+                State performing like functions), a State authority that 
+                supervises or examines banks, savings associations, or 
+                credit unions, a State insurance commission (or an 
+                agency or officer of a State performing like functions), 
+                an appropriate Federal banking agency, or the National 
+                Credit Union Administration, that--
+                          (i) bars the person from--
+                                    (I) association with an entity 
+                                regulated by such commission, authority, 
+                                agency, or officer;
+                                    (II) engaging in the business of 
+                                securities, insurance, or banking; or
+                                    (III) engaging in savings 
+                                association or credit union activities; 
+                                or
+                          (ii) constitutes a final order based on a 
+                      violation of any law or regulation that prohibits 
+                      fraudulent, manipulative, or deceptive conduct 
+                      within the 10-year period ending on the date of 
+                      the filing of the offer or sale; or
+                    (B) has been convicted of any felony or misdemeanor 
+                in connection with the purchase or sale of any security 
+                or involving the making of any false filing with the 
+                Commission.
 
 
-        dealer, municipal advisor, transfer agent, or nationally 
-        recognized statistical rating organization,''.
-            (3) Section 17a.--Section 17A(c)(4)(C) of the Securities 
-        Exchange Act of 1934 (15 U.S.C. 78q-1(c)(4)(C)) is amended by 
-        striking ``twelve months or bar any such person from being 
-        associated with the transfer agent,'' and inserting ``12 months 
-        or bar any such person from being associated with any transfer 
-        agent, broker, dealer, investment adviser, municipal securities 
-        dealer, municipal advisor, or nationally recognized statistical 
-        rating organization,''.
-
-    (b) Investment Advisers Act of 1940.--Section 203(f) of the 
-Investment Advisers Act of 1940 (15 U.S.C. 80b-3(f)) is amended by 
-striking ``twelve months or bar any such person from being associated 
-with an investment adviser,'' and inserting ``12 months or bar any such 
-person from being associated with an investment adviser, broker, dealer, 
-municipal securities dealer, municipal advisor, transfer agent, or 
-nationally recognized statistical rating organization,''.

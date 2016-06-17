@@ -1,63 +1,87 @@
-                          APPROPRIATIONS ACT, 2009.
+                          OF 1974.
 
-    Section 626 of the Omnibus Appropriations Act, 2009 (15 U.S.C. 1638 
-note) is amended--
-            (1) by striking subsection (a) and inserting the following:
-
-    ``(a)(1) The &lt;&lt;NOTE: Regulations.&gt;&gt;  Bureau of Consumer Financial 
-Protection shall have authority to prescribe rules with respect to 
-mortgage loans in accordance with section 553 of title 5, United States 
-Code. Such rulemaking shall relate to unfair or deceptive acts or 
-practices regarding mortgage loans, which may include unfair or 
-deceptive acts or practices involving loan modification and foreclosure 
-rescue services. Any violation of a rule prescribed under this paragraph 
-shall be treated as a violation of a rule prohibiting unfair, deceptive, 
-or abusive acts or practices under the Consumer Financial Protection Act 
-of 2010 and a violation of a rule under section 18 of the Federal Trade 
-Commission Act (15 U.S.C. 57a) regarding unfair or deceptive acts or 
-practices.
-
-    ``(2) The Bureau of Consumer Financial Protection shall enforce the 
-rules issued under paragraph (1) in the same manner, by the same means, 
-and with the same jurisdiction, powers, and duties, as though all 
-applicable terms and provisions of the Consumer Financial Protection Act 
-of 2010 were incorporated into and made part of this subsection.
-    ``(3) Subject to subtitle B of the Consumer Financial Protection Act 
-of 2010, the Federal Trade Commission shall enforce the rules issued 
-under paragraph (1), in the same manner, by the same means, and with the 
-same jurisdiction, as though all applicable terms and provisions of the 
-Federal Trade Commission Act were incorporated into and made part of 
-this section.''; and
+    The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et 
+seq.) is amended--
+            (1) in section 3 (12 U.S.C. 2602)--
+                    (A) in paragraph (7), by striking ``and'' at the 
+                end;
+                    (B) in paragraph (8), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+            ``(9) &lt;&lt;NOTE: Definition.&gt;&gt; the term `Bureau' means the 
+        Bureau of Consumer Financial Protection.'';
+            (2) in section 4 (12 U.S.C. 2603)--
+                    (A) in &lt;&lt;NOTE: Publication.&gt;&gt; subsection (a), by 
+                striking the first sentence and inserting the following: 
+                ``The Bureau shall publish a single, integrated 
+                disclosure for mortgage loan transactions (including 
+                real estate settlement cost statements) which includes 
+                the disclosure requirements of this section and section 
+                5, in conjunction with the disclosure requirements of 
+                the Truth in Lending Act that, taken together, may apply 
+                to a transaction that is subject to both or either 
+                provisions of law. The purpose of such model disclosure 
+                shall be to facilitate compliance with the disclosure 
+                requirements of this title and the Truth in Lending Act, 
+                and
 
 
-            (2) in subsection (b)--
-                    (A) by striking paragraph (1) and inserting the 
+                to aid the borrower or lessee in understanding the 
+                transaction by utilizing readily understandable language 
+                to simplify the technical nature of the disclosures.'';
+                    (B) by striking ``Secretary'' each place that term 
+                appears and inserting ``Bureau''; and
+                    (C) by striking ``form'' each place that term 
+                appears and inserting ``forms'';
+            (3) in section 5 (12 U.S.C. 2604)--
+                    (A) by striking ``Secretary'' each place that term 
+                appears and inserting ``Bureau''; and
+                    (B) in subsection (a), by striking the first 
+                sentence and inserting the following: 
+                ``The &lt;&lt;NOTE: Booklets.&gt;&gt; Bureau shall prepare and 
+                distribute booklets jointly addressing compliance with 
+                the requirements of the Truth in Lending Act and the 
+                provisions of this title, in order to help persons 
+                borrowing money to finance the purchase of residential 
+                real estate better to understand the nature and costs of 
+                real estate settlement services.'';
+            (4) in section 6(j)(3) (12 U.S.C. 2605(j)(3))--
+                    (A) by striking ``Secretary'' and inserting 
+                ``Bureau''; and
+                    (B) by striking ``, by regulations that shall take 
+                effect not later than April 20, 1991,'';
+            (5) in section 7(b) (12 U.S.C. 2606(b)) by striking 
+        ``Secretary'' and inserting ``Bureau'';
+            (6) in section 8(c)(5) (12 U.S.C. 2607(c)(5)), by striking 
+        ``Secretary'' and inserting ``Bureau'';
+            (7) in section 8(d) (12 U.S.C. 2607(d))--
+                    (A) in the subsection heading, by inserting ``Bureau 
+                and'' before ``Secretary''; and
+                    (B) by striking paragraph (4), and inserting the 
                 following:
-            ``(1) Except as provided in paragraph (6), in any case in 
-        which the attorney general of a State has reason to believe that 
-        an interest of the residents of the State has been or is 
-        threatened or adversely affected by the engagement of any person 
-        subject to a rule prescribed under subsection (a) in practices 
-        that violate such rule, the State, as parens patriae, may bring 
-        a civil action on behalf of its residents in an appropriate 
-        district court of the United States or other court of competent 
-        jurisdiction--
-                    ``(A) to enjoin that practice;
-                    ``(B) to enforce compliance with the rule;
-                    ``(C) to obtain damages, restitution, or other 
-                compensation on behalf of the residents of the State; or
-                    ``(D) to obtain penalties and relief provided under 
-                the Consumer Financial Protection Act of 2010, the 
-                Federal Trade Commission Act, and such other relief as 
-                the court deems appropriate.'';
-                    (B) in paragraphs (2) and (3), by striking ``the 
-                primary Federal regulator'' each time the term appears 
-                and inserting ``the Bureau of Consumer Financial 
-                Protection or the Commission, as appropriate'';
-                    (C) in paragraph (3), by inserting ``and subject to 
-                subtitle B of the Consumer Financial Protection Act of 
-                2010,'' after ``paragraph (2),''; and
-                    (D) in paragraph (6), by striking ``the primary 
-                Federal regulator'' each place that term appears and 
-                inserting ``the Bureau of Consumer Financial Protection 
-                or the Commission''.
+            ``(4) The Bureau, the Secretary, or the attorney general or 
+        the insurance commissioner of any State may bring an action to 
+        enjoin violations of this section. Except, to the extent that a 
+        person is subject to the jurisdiction of the Bureau, the 
+        Secretary, or the attorney general or the insurance commissioner 
+        of any State, the Bureau shall have primary authority to enforce 
+        or administer this section, subject to subtitle B of the 
+        Consumer Financial Protection Act of 2010.'';
+            (8) in section 10(c) (12 U.S.C. 2609(c) and (d)), by 
+        striking ``Secretary'' and inserting ``Bureau'';
+            (9) in section 16 (12 U.S.C. 2614), by inserting ``the 
+        Bureau,'' before ``the Secretary'';
+            (10) in section 18 (12 U.S.C. 2616), by striking 
+        ``Secretary'' each place that term appears and inserting 
+        ``Bureau''; and
+            (11) in section 19 (12 U.S.C. 2617)--
+                    (A) in the section heading by striking ``secretary'' 
+                and inserting ``bureau'';
+                    (B) in subsection (a), by striking ``Secretary'' 
+                each place that term appears and inserting ``Bureau''; 
+                and
+                    (C) in subsections (b) and (c), by striking ``the 
+                Secretary'' each place that term appears and inserting 
+                ``the Bureau''.
+
+

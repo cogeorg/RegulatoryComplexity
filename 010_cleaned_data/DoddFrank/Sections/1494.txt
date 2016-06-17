@@ -1,20 +1,16 @@
 
-    (a) In General.--Section 104(a) of the Helping Families Save Their 
-Homes Act of 2009 (division A of Public Law 111-22) &lt;&lt;NOTE: 12 
-USC 1715z-25.&gt;&gt;  is amended--
+    (a) Study.--The Secretary of Housing and Urban Development, in 
+consultation with the Secretary of the Treasury, shall conduct a study 
+of the effect on residential mortgage loan foreclosures of--
+            (1) the presence in residential structures subject to such 
+        mortgage loans of drywall that was imported from China during 
+        the period beginning with 2004 and ending at the end of 2007; 
+        and
+            (2) the availability of property insurance for residential 
+        structures in which such drywall is present.
 
-
-            (1) in paragraph (2), by striking ``resulting'' and 
-        inserting ``in each State that result'';
-            (2) in paragraph (3), by inserting ``each State for'' after 
-        ``modifications in''; and
-            (3) in paragraph (4), by inserting ``in each State'' after 
-        ``total number of loans''.
-
-    (b) Conforming Amendment.--Section 104(b)(1)(A) of such Act is 
-amended by adding at the end the following 
-sentence: &lt;&lt;NOTE: Deadline.&gt;&gt;  ``Not later than 60 days after the date 
-of the enactment of the Dodd-Frank Wall Street Reform and Consumer 
-Protection Act, the Comptroller of the Currency and the Director of the 
-Office of Thrift Supervision shall update such requirements to reflect 
-amendments made to this section by such Act.''.
+    (b) Report.--Not later than the expiration of the 120-day period 
+beginning on the date of the enactment of this Act, the Secretary of 
+Housing and Urban Development shall submit to the Congress a report on 
+the study conducted under subsection (a) containing its findings, 
+conclusions, and recommendations.

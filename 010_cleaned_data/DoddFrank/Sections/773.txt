@@ -1,32 +1,18 @@
 
-    (a) In General.--Section 36 of the Securities Exchange Act of 1934 
-(15 U.S.C. 78mm) is amended by adding at the end the following:
-    ``(c) Derivatives.--Unless the Commission is expressly authorized by 
-any provision described in this subsection to grant exemptions, the 
-Commission shall not grant exemptions, with respect to amendments made 
-by subtitle B of the Wall Street Transparency and Accountability Act of 
-2010, with respect to paragraphs (65), (66), (68), (69), (70), (71), 
-(72), (73), (74), (75), (76), and (79) of section 3(a), and sections 
-10B(a), 10B(b), 10B(c), 13A, 15F, 17A(g), 17A(h), 17A(i), 17A(j), 
-17A(k), and 17A(l); provided that the Commission shall have exemptive 
-authority under this title with respect to security-based swaps as to 
-the same matters that the Commodity
+    Section 21B of the Securities Exchange Act of 1934 &lt;&lt;NOTE: 15 USC 
+78u-2.&gt;&gt;  (15 U.S.C. 78p-2) is amended by adding at the end the 
+following:
 
-
-Futures Trading Commission has under the Wall Street Transparency and 
-Accountability Act of 2010 with respect to swaps, including under 
-section 4(c) of the Commodity Exchange Act.''.
-    (b) Rule of Construction.--Section 30 of the Securities Exchange Act 
-of 1934 (15 U.S.C. 78dd) is amended by adding at the end the following:
-    ``(c) Rule of Construction.--No provision of this title that was 
-added by the Wall Street Transparency and Accountability Act of 2010, or 
-any rule or regulation thereunder, shall apply to any person insofar as 
-such person transacts a business in security-based swaps without the 
-jurisdiction of the United States, unless such person transacts such 
-business in contravention of such rules and regulations as the 
-Commission may prescribe as necessary or appropriate to prevent the 
-evasion of any provision of this title that was added by the Wall Street 
-Transparency and Accountability Act of 2010. This subsection shall not 
-be construed to limit the jurisdiction of the Commission under any 
-provision of this title, as in effect prior to the date of enactment of 
-the Wall Street Transparency and Accountability Act of 2010.''.
+    ``(f) Security-based Swaps.--
+            ``(1) Clearing agency.--Any clearing agency that knowingly 
+        or recklessly evades or participates in or facilitates an 
+        evasion of the requirements of section 3C shall be liable for a 
+        civil money penalty in twice the amount otherwise available for 
+        a violation of section 3C.
+            ``(2) Security-based swap dealer or major security-based 
+        swap participant.--Any security-based swap dealer or major 
+        security-based swap participant that knowingly or recklessly 
+        evades or participates in or facilitates an evasion of the 
+        requirements of section 3C shall be liable for a civil money 
+        penalty in twice the amount otherwise available for a violation 
+        of section 3C.''.

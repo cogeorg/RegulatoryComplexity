@@ -1,46 +1,134 @@
-                          CONSUMERS WHO WAIVE ESCROW SERVICES.
+                          AMENDMENTS.
 
-    Section 129D of the Truth in Lending Act (as added by section 1461) 
-is amended by adding at the end the following new subsection:
-    ``(j) Disclosure Notice Required for Consumers Who Waive Escrow 
-Services.--
-            ``(1) In general.--If--
-                    ``(A) an impound, trust, or other type of account 
-                for the payment of property taxes, insurance premiums, 
-                or other purposes relating to real property securing a 
-                consumer credit transaction is not established in 
-                connection with the transaction; or
-                    ``(B) a consumer chooses, and provides written 
-                notice to the creditor or servicer of such choice, at 
-                any time after such an account is established in 
-                connection with any such transaction and in accordance 
-                with any statute, regulation, or contractual agreement, 
-                to close such account,
-        the creditor or servicer shall provide a timely and clearly 
-        written disclosure to the consumer that advises the consumer of 
-        the responsibilities of the consumer and implications for the 
-        consumer in the absence of any such account.
-            ``(2) Disclosure requirements.--Any disclosure provided to a 
-        consumer under paragraph (1) shall include the following:
+    (a) Servicer Prohibitions.--Section 6 of the Real Estate Settlement 
+Procedures Act of 1974 (12 U.S.C. 2605) is amended by adding at the end 
+the following new subsections:
+    ``(k) Servicer Prohibitions.--
+            ``(1) In general.--A servicer of a federally related 
+        mortgage shall not--
+                    ``(A) obtain force-placed hazard insurance unless 
+                there is a reasonable basis to believe the borrower has 
+                failed to comply with the loan contract's requirements 
+                to maintain property insurance;
+                    ``(B) charge fees for responding to valid qualified 
+                written requests (as defined in regulations which the 
+                Bureau of Consumer Financial Protection shall prescribe) 
+                under this section;
+                    ``(C) fail to take timely action to respond to a 
+                borrower's requests to correct errors relating to 
+                allocation of payments, final balances for purposes of 
+                paying off the loan, or avoiding foreclosure, or other 
+                standard servicer's duties;
+                    ``(D) &lt;&lt;NOTE: Deadline.&gt;&gt; fail to respond within 10 
+                business days to a request from a borrower to provide 
+                the identity, address, and other relevant contact 
+                information about the owner or assignee of the loan; or
+                    ``(E) fail to comply with any other obligation found 
+                by the Bureau of Consumer Financial Protection, by 
+                regulation, to be appropriate to carry out the consumer 
+                protection purposes of this Act.
+            ``(2) Force-placed insurance defined.--For purposes of this 
+        subsection and subsections (l) and (m), the term `force-placed 
+        insurance' means hazard insurance coverage obtained by a 
+        servicer of a federally related mortgage when the borrower has 
+        failed to maintain or renew hazard insurance on such property as 
+        required of the borrower under the terms of the mortgage.
+
+    ``(l) Requirements for Force-placed Insurance.--A servicer of a 
+federally related mortgage shall not be construed as having
 
 
-                    ``(A) Information concerning any applicable fees or 
-                costs associated with either the non-establishment of 
-                any such account at the time of the transaction, or any 
-                subsequent closure of any such account.
-                    ``(B) A clear and prominent statement that the 
-                consumer is responsible for personally and directly 
-                paying the non-escrowed items, in addition to paying the 
-                mortgage loan payment, in the absence of any such 
-                account, and the fact that the costs for taxes, 
-                insurance, and related fees can be substantial.
-                    ``(C) A clear explanation of the consequences of any 
-                failure to pay non-escrowed items, including the 
-                possible requirement for the forced placement of 
-                insurance by the creditor or servicer and the 
-                potentially higher cost (including any potential 
-                commission payments to the servicer) or reduced coverage 
-                for the consumer in the event of any such creditor-
-                placed insurance.
-                    ``(D) Such other information as the Board determines 
-                necessary for the protection of the consumer.''.
+a reasonable basis for obtaining force-placed insurance unless the 
+requirements of this subsection have been met.
+            ``(1) Written notices to borrower.--A servicer may not 
+        impose any charge on any borrower for force-placed insurance 
+        with respect to any property securing a federally related 
+        mortgage unless--
+                    ``(A) the servicer has sent, by first-class mail, a 
+                written notice to the borrower containing--
+                          ``(i) a reminder of the borrower's obligation 
+                      to maintain hazard insurance on the property 
+                      securing the federally related mortgage;
+                          ``(ii) a statement that the servicer does not 
+                      have evidence of insurance coverage of such 
+                      property;
+                          ``(iii) a clear and conspicuous statement of 
+                      the procedures by which the borrower may 
+                      demonstrate that the borrower already has 
+                      insurance coverage; and
+                          ``(iv) a statement that the servicer may 
+                      obtain such coverage at the borrower's expense if 
+                      the borrower does not provide such demonstration 
+                      of the borrower's existing coverage in a timely 
+                      manner;
+                    ``(B) &lt;&lt;NOTE: Deadline.&gt;&gt; the servicer has sent, by 
+                first-class mail, a second written notice, at least 30 
+                days after the mailing of the notice under subparagraph 
+                (A) that contains all the information described in each 
+                clause of such subparagraph; and
+                    ``(C) &lt;&lt;NOTE: Time period.&gt;&gt; the servicer has not 
+                received from the borrower any demonstration of hazard 
+                insurance coverage for the property securing the 
+                mortgage by the end of the 15-day period beginning on 
+                the date the notice under subparagraph (B) was sent by 
+                the servicer.
+            ``(2) Sufficiency of demonstration.--A servicer of a 
+        federally related mortgage shall accept any reasonable form of 
+        written confirmation from a borrower of existing insurance 
+        coverage, which shall include the existing insurance policy 
+        number along with the identity of, and contact information for, 
+        the insurance company or agent, or as otherwise required by the 
+        Bureau of Consumer Financial Protection.
+            ``(3) Termination of force-placed insurance.-- 
+        &lt;&lt;NOTE: Deadline.&gt;&gt; Within 15 days of the receipt by a servicer 
+        of confirmation of a borrower's existing insurance coverage, the 
+        servicer shall--
+                    ``(A) terminate the force-placed insurance; and
+                    ``(B) refund to the consumer all force-placed 
+                insurance premiums paid by the borrower during any 
+                period during which the borrower's insurance coverage 
+                and the force-placed insurance coverage were each in 
+                effect, and any related fees charged to the consumer's 
+                account with respect to the force-placed insurance 
+                during such period.
+            ``(4) Clarification with respect to flood disaster 
+        protection act.--No provision of this section shall be construed 
+        as prohibiting a servicer from providing simultaneous or 
+        concurrent notice of a lack of flood insurance pursuant to 
+        section 102(e) of the Flood Disaster Protection Act of 1973.
+
+    ``(m) Limitations on Force-placed Insurance Charges.--All charges, 
+apart from charges subject to State regulation as the business of 
+insurance, related to force-placed insurance imposed on the borrower by 
+or through the servicer shall be bona fide and reasonable.''.
+
+
+    (b) Increase in Penalty Amounts.--Section 6(f) of the Real Estate 
+Settlement Procedures Act of 1974 (12 U.S.C. 2605(f)) is amended--
+            (1) in paragraphs (1)(B) and (2)(B), by striking ``$1,000'' 
+        each place such term appears and inserting ``$2,000''; and
+            (2) in paragraph (2)(B)(i), by striking ``$500,000'' and 
+        inserting ``$1,000,000''.
+
+    (c) Decrease in Response Times.--Section 6(e) of the Real Estate 
+Settlement Procedures Act of 1974 (12 U.S.C. 2605(e)) is amended--
+            (1) in paragraph (1)(A), by striking ``20 days'' and 
+        inserting ``5 days'';
+            (2) in paragraph (2), by striking ``60 days'' and inserting 
+        ``30 days''; and
+            (3) by adding at the end the following new paragraph:
+            ``(4) Limited extension of response time.-- 
+        &lt;&lt;NOTE: Deadline. Notification.&gt;&gt; The 30-day period described in 
+        paragraph (2) may be extended for not more than 15 days if, 
+        before the end of such 30-day period, the servicer notifies the 
+        borrower of the extension and the reasons for the delay in 
+        responding.''.
+
+    (d) Prompt Refund of Escrow Accounts Upon Payoff.--Section 6(g) of 
+the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g)) is 
+amended by adding at the end the following new 
+sentence: &lt;&lt;NOTE: Deadline.&gt;&gt; ``Any balance in any such account that is 
+within the servicer's control at the time the loan is paid off shall be 
+promptly returned to the borrower within 20 business days or credited to 
+a similar account for a new mortgage loan to the borrower with the same 
+lender.''.

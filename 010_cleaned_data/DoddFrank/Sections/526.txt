@@ -1,15 +1,35 @@
-                        COMMERCIAL PURCHASERS.
 
-    A surplus lines broker seeking to procure or place nonadmitted 
-insurance in a State for an exempt commercial purchaser shall not be 
-required to satisfy any State requirement to make a due diligence search 
-to determine whether the full amount or type of insurance sought by such 
-exempt commercial purchaser can be obtained from admitted insurers if--
-            (1) the broker procuring or placing the surplus lines 
-        insurance has disclosed to the exempt commercial purchaser that 
-        such insurance may or may not be available from the admitted 
-        market that may provide greater protection with more regulatory 
-        oversight; and
-            (2) &lt;&lt;NOTE: Written request.&gt;&gt; the exempt commercial 
-        purchaser has subsequently requested in writing the broker to 
-        procure or place such insurance from a nonadmitted insurer.
+    (a) In General.--The Comptroller General of the United States shall 
+conduct a study of the nonadmitted insurance market to determine the 
+effect of the enactment of this part on the size and market share of the 
+nonadmitted insurance market for providing coverage typically provided 
+by the admitted insurance market.
+    (b) Contents.--The study shall determine and analyze--
+            (1) the change in the size and market share of the 
+        nonadmitted insurance market and in the number of insurance 
+        companies and insurance holding companies providing such 
+        business in the 18-month period that begins upon the effective 
+        date of this subtitle;
+            (2) the extent to which insurance coverage typically 
+        provided by the admitted insurance market has shifted to the 
+        nonadmitted insurance market;
+            (3) the consequences of any change in the size and market 
+        share of the nonadmitted insurance market, including differences 
+        in the price and availability of coverage available in both the 
+        admitted and nonadmitted insurance markets;
+            (4) the extent to which insurance companies and insurance 
+        holding companies that provide both admitted and nonadmitted 
+        insurance have experienced shifts in the volume of business 
+        between admitted and nonadmitted insurance; and
+            (5) the extent to which there has been a change in the 
+        number of individuals who have nonadmitted insurance policies, 
+        the type of coverage provided under such policies, and whether 
+        such coverage is available in the admitted insurance market.
+
+    (c) Consultation With NAIC.--In conducting the study under this 
+section, the Comptroller General shall consult with the NAIC.
+    (d) Report.--The Comptroller General shall complete the study under 
+this section and submit a report to the Committee on Banking, Housing, 
+and Urban Affairs of the Senate and the Committee on Financial Services 
+of the House of Representatives regarding the findings of the study not 
+later than 30 months after the effective date of this subtitle.

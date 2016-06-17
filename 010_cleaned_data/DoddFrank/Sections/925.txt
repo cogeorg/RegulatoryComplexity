@@ -1,29 +1,36 @@
-                        PROVISIONS FOR WHISTLEBLOWER PROTECTION.
 
-    (a) &lt;&lt;NOTE: Deadline.&gt;&gt;  Implementing Rules.--The Commission shall 
-issue final regulations implementing the provisions of section 21F of 
-the Securities Exchange Act of 1934, as added by this subtitle, not 
-later than 270 days after the date of enactment of this Act.
+    (a) Securities Exchange Act of 1934.--
+            (1) Section 15.--Section 15(b)(6)(A) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78o(b)(6)(A)) is amended by 
+        striking ``12 months, or bar such person from being associated 
+        with a broker or dealer,'' and inserting ``12 months, or bar any 
+        such person from being associated with a broker, dealer, 
+        investment adviser, municipal securities dealer, municipal 
+        advisor, transfer agent, or nationally recognized statistical 
+        rating organization,''.
+            (2) Section 15b.--Section 15B(c)(4) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78o-4(c)(4)) is amended by 
+        striking ``twelve months or bar any such person from being 
+        associated with a municipal securities dealer,'' and inserting 
+        ``12 months or bar any such person from being associated with a 
+        broker, dealer, investment adviser, municipal securities
 
-    (b) Original Information.--Information provided to the Commission in 
-writing by a whistleblower shall not lose the status of original 
-information (as defined in section 21F(a)(3) of the Securities Exchange 
-Act of 1934, as added by this subtitle) solely because the whistleblower 
-provided the information prior to the effective date of the regulations, 
-if the information is provided by the whistleblower after the date of 
-enactment of this subtitle.
-    (c) Awards.--A whistleblower may receive an award pursuant to 
-section 21F of the Securities Exchange Act of 1934, as added by this 
-subtitle, regardless of whether any violation of a provision of the 
-securities laws, or a rule or regulation thereunder, underlying the 
-judicial or administrative action upon which the award is based, 
-occurred prior to the date of enactment of this subtitle.
-    (d) &lt;&lt;NOTE: Establishment.&gt;&gt;  Administration and Enforcement.--The 
-Securities and Exchange Commission shall establish a separate office 
-within the Commission to administer and enforce the provisions of 
-section 21F of the Securities Exchange Act of 1934 (as add by section 
-922(a)). &lt;&lt;NOTE: Reports. Deadline.&gt;&gt;  Such office shall report annually 
-to the Committee on Banking, Housing, and Urban Affairs of the Senate 
-and the Committee on Financial Services of the House of Representatives 
-on its activities, whistleblower complaints, and the response of the 
-Commission to such complaints.
+
+        dealer, municipal advisor, transfer agent, or nationally 
+        recognized statistical rating organization,''.
+            (3) Section 17a.--Section 17A(c)(4)(C) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78q-1(c)(4)(C)) is amended by 
+        striking ``twelve months or bar any such person from being 
+        associated with the transfer agent,'' and inserting ``12 months 
+        or bar any such person from being associated with any transfer 
+        agent, broker, dealer, investment adviser, municipal securities 
+        dealer, municipal advisor, or nationally recognized statistical 
+        rating organization,''.
+
+    (b) Investment Advisers Act of 1940.--Section 203(f) of the 
+Investment Advisers Act of 1940 (15 U.S.C. 80b-3(f)) is amended by 
+striking ``twelve months or bar any such person from being associated 
+with an investment adviser,'' and inserting ``12 months or bar any such 
+person from being associated with an investment adviser, broker, dealer, 
+municipal securities dealer, municipal advisor, transfer agent, or 
+nationally recognized statistical rating organization,''.

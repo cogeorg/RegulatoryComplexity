@@ -1,106 +1,140 @@
-                          MORTGAGE LICENSING ACT OF 2008.
 
-    The S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.) 
-is amended--
+    The Truth in Lending Act (15 U.S.C. 1601 et seq.) is amended--
+            (1) in section 103 (15 U.S.C. 1602)--
+                    (A) by redesignating subsections (b) through (bb) as 
+                subsections (c) through (cc), respectively; and
+                    (B) by inserting after subsection (a) the following:
 
-
-            (1) by striking ``a Federal banking agency'' each place that 
-        term appears, other than in paragraphs (7) and (11) of section 
-        1503 and section 1507(a)(1), and inserting ``the Bureau'';
-            (2) by &lt;&lt;NOTE: 12 USC 5102, 5106.&gt;&gt; striking ``Federal 
-        banking agencies'' each place that term appears and inserting 
-        ``Bureau''; and
-            (3) by &lt;&lt;NOTE: 12 USC 5102 et seq.&gt;&gt; striking ``Secretary'' 
-        each place that term appears and inserting ``Director'';
-            (4) in section 1503 (12 U.S.C. 5102)--
-                    (A) by redesignating paragraphs (2) through (12) as 
-                (3) through (13), respectively;
-                    (B) &lt;&lt;NOTE: Definitions.&gt;&gt; by striking paragraph (1) 
-                and inserting the following:
-            ``(1) Bureau.--The term `Bureau' means the Bureau of 
-        Consumer Financial Protection.
-            ``(2) Federal banking agency.--The term `Federal banking 
-        agency' means the Board of Governors of the Federal Reserve 
-        System, the Office of the Comptroller of the Currency, the 
-        National Credit Union Administration, and the Federal Deposit 
-        Insurance Corporation.''; and
-                    (C) by striking paragraph (10), as so designated by 
-                this section, and inserting the following:
-            ``(10) Director.--The &lt;&lt;NOTE: Definition.&gt;&gt; term `Director' 
-        means the Director of the Bureau of Consumer Financial 
-        Protection.''; and
-            (5) in section 1507 (12 U.S.C. 5106)--
-                    (A) in subsection (a)--
-                          (i) by striking paragraph (1) and inserting 
-                      the following:
-            ``(1) In &lt;&lt;NOTE: System.&gt;&gt; general.--The Bureau shall 
-        develop and maintain a system for registering employees of a 
-        depository institution, employees of a subsidiary that is owned 
-        and controlled by a depository institution and regulated by a 
-        Federal banking agency, or employees of an institution regulated 
-        by the Farm Credit Administration, as registered loan 
-        originators with the Nationwide Mortgage 
-        Licensing &lt;&lt;NOTE: Deadline.&gt;&gt;  System and Registry. The system 
-        shall be implemented before the end of the 1-year period 
-        beginning on the date of enactment of the Consumer Financial 
-        Protection Act of 2010.''; and
-                          (ii) in paragraph (2)--
-                                    (I) by striking ``appropriate 
-                                Federal banking agency and the Farm 
-                                Credit Administration'' and inserting 
-                                ``Bureau''; and
-                                    (II) by striking ``employees's 
-                                identity'' and inserting ``identity of 
-                                the employee''; and
-                    (B) in subsection (b), by striking ``through the 
-                Financial Institutions Examination Council, and the Farm 
-                Credit Administration'', and inserting ``and the Bureau 
-                of Consumer Financial Protection'';
-            (6) in section 1508 (12 U.S.C. 5107)--
-                    (A) by striking the section heading and inserting 
-                the following: ``sec. 1508. bureau of consumer financial 
-                protection backup authority to establish loan originator 
-                licensing system.''; and
-                    (B) by adding at the end the following:
-
-    ``(f) Regulation Authority.--
+    ``(b) Bureau.--The &lt;&lt;NOTE: Definition.&gt;&gt; term `Bureau' means the 
+Bureau of Consumer Financial Protection.'';
+            (2) by &lt;&lt;NOTE: 15 USC 1602 et seq.&gt;&gt; striking ``Board'' each 
+        place that term appears, other than in section 140(d) and 
+        sections 105(i) and 108(a), as amended by this section, and 
+        inserting ``Bureau'';
+            (3) by &lt;&lt;NOTE: 15 USC 1616, 1632, 1651.&gt;&gt; striking ``Federal 
+        Trade Commission'' each place that term appears, other than in 
+        section 108(c) and section 129(m), as amended by this Act, and 
+        other than in the context of a reference to the Federal Trade 
+        Commission Act, and inserting ``Bureau'';
+            (4) in section 105(a) (15 U.S.C. 1604(a)), in the second 
+        sentence--
 
 
-            ``(1) In general.--The Bureau is authorized to promulgate 
-        regulations setting minimum net worth or surety bond 
-        requirements for residential mortgage loan originators and 
-        minimum requirements for recovery funds paid into by loan 
-        originators.
-            ``(2) Considerations.--In issuing regulations under 
-        paragraph (1), the Bureau shall take into account the need to 
-        provide originators adequate incentives to originate affordable 
-        and sustainable mortgage loans, as well as the need to ensure a 
-        competitive origination market that maximizes consumer access to 
-        affordable and sustainable mortgage loans.'';
-            (7) by striking section 1510 (12 U.S.C. 5109) and inserting 
+                    (A) by striking ``Except in the case of a mortgage 
+                referred to in section 103(aa), these regulations may 
+                contain such'' and inserting ``Except with respect to 
+                the provisions of section 129 that apply to a mortgage 
+                referred to in section 103(aa), such regulations may 
+                contain such additional requirements,''; and
+                    (B) by inserting ``all or'' after ``exceptions 
+                for'';
+            (5) in section 105(b) (15 U.S.C. 1604(b)), by striking the 
+        first sentence and inserting the following: 
+        ``The &lt;&lt;NOTE: Publication.&gt;&gt; Bureau shall publish a single, 
+        integrated disclosure for mortgage loan transactions (including 
+        real estate settlement cost statements) which includes the 
+        disclosure requirements of this title in conjunction with the 
+        disclosure requirements of the Real Estate Settlement Procedures 
+        Act of 1974 that, taken together, may apply to a transaction 
+        that is subject to both or either provisions of law. The purpose 
+        of such model disclosure shall be to facilitate compliance with 
+        the disclosure requirements of this title and the Real Estate 
+        Settlement Procedures Act of 1974, and to aid the borrower or 
+        lessee in understanding the transaction by utilizing readily 
+        understandable language to simplify the technical nature of the 
+        disclosures.'';
+            (6) in section 105(f)(1) (15 U.S.C. 1604(f)(1)), by 
+        inserting ``all or'' after ``from all or part of this title'';
+            (7) in section 105 (15 U.S.C. 1604), by adding at the end 
         the following:
-``SEC. &lt;&lt;NOTE: 12 USC 5109.&gt;&gt; 1510. FEES.
+                          ``(i) Authority of the board to prescribe 
+                      rules.--Notwithstanding subsection (a), the Board 
+                      shall have authority to prescribe rules under this 
+                      title with respect to a person described in 
+                      section 1029(a) of the Consumer Financial 
+                      Protection Act of 2010. Regulations prescribed 
+                      under this subsection may contain such 
+                      classifications, differentiations, or other 
+                      provisions, as in the judgment of the Board are 
+                      necessary or proper to effectuate the purposes of 
+                      this title, to prevent circumvention or evasion 
+                      thereof, or to facilitate compliance therewith.'';
+            (8) in section 108 &lt;&lt;NOTE: 15 USC 1607.&gt;&gt; (15 U.S.C. 1604), 
+        by adding at the end the following:
+                    (A) by striking subsection (a) and inserting the 
+                following:
 
-    ``The Bureau, the Farm Credit Administration, and the Nationwide 
-Mortgage Licensing System and Registry may charge reasonable fees to 
-cover the costs of maintaining and providing access to information from 
-the Nationwide Mortgage Licensing System and Registry, to the extent 
-that such fees are not charged to consumers for access to such system 
-and registry.'';
-            (8) by striking section 1513 (12 U.S.C. 5112) and inserting 
-        the following:
-``SEC. 1513. &lt;&lt;NOTE: 12 USC 5112.&gt;&gt; LIABILITY PROVISIONS.
+    ``(a) Enforcing Agencies.--Subject to subtitle B of the Consumer 
+Financial Protection Act of 2010, compliance with the requirements 
+imposed under this title shall be enforced under--
+            ``(1) section 8 of the Federal Deposit Insurance Act, by the 
+        appropriate Federal banking agency, as defined in section 3(q) 
+        of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with 
+        respect to--
+                    ``(A) national banks, Federal savings associations, 
+                and Federal branches and Federal agencies of foreign 
+                banks;
+                    ``(B) member banks of the Federal Reserve System 
+                (other than national banks), branches and agencies of 
+                foreign banks (other than Federal branches, Federal 
+                agencies, and insured State branches of foreign banks), 
+                commercial lending companies owned or controlled by 
+                foreign banks, and organizations operating under section 
+                25 or 25A of the Federal Reserve Act; and
 
-    ``The Bureau, any State official or agency, or any organization 
-serving as the administrator of the Nationwide Mortgage Licensing System 
-and Registry or a system established by the Director under section 1509, 
-or any officer or employee of any such entity, shall not be subject to 
-any civil action or proceeding for monetary damages by reason of the 
-good faith action or omission of any officer or employee of any such 
-entity, while acting within the scope of office or employment, relating 
-to the collection, furnishing, or dissemination of information 
-concerning persons who are loan originators or are applying for 
-licensing or registration as loan originators.''; and
-            (9) in section 1514 (12 U.S.C. 5113) in the section heading, 
-        by striking ``under hud backup licensing system'' and inserting 
-        ``by the bureau''.
+
+                    ``(C) banks and State savings associations insured 
+                by the Federal Deposit Insurance Corporation (other than 
+                members of the Federal Reserve System), and insured 
+                State branches of foreign banks;
+            ``(2) the Federal Credit Union Act, by the Director of the 
+        National Credit Union Administration, with respect to any 
+        Federal credit union;
+            ``(3) the Federal Aviation Act of 1958, by the Secretary of 
+        Transportation, with respect to any air carrier or foreign air 
+        carrier subject to that Act;
+            ``(4) the Packers and Stockyards Act, 1921 (except as 
+        provided in section 406 of that Act), by the Secretary of 
+        Agriculture, with respect to any activities subject to that Act;
+            ``(5) the Farm Credit Act of 1971, by the Farm Credit 
+        Administration with respect to any Federal land bank, Federal 
+        land bank association, Federal intermediate credit bank, or 
+        production credit association; and
+            ``(6) subtitle E of the Consumer Financial Protection Act of 
+        2010, by the Bureau, with respect to any person subject to this 
+        title.''; and
+                    (B) by striking subsection (c) and inserting the 
+                following:
+
+    ``(c) Overall Enforcement Authority of the Federal Trade 
+Commission.--Except to the extent that enforcement of the requirements 
+imposed under this title is specifically committed to some other 
+Government agency under any of paragraphs (1) through (5) of subsection 
+(a), and subject to subtitle B of the Consumer Financial Protection Act 
+of 2010, the Federal Trade Commission shall be authorized to enforce 
+such requirements. For the purpose of the exercise by the Federal Trade 
+Commission of its functions and powers under the Federal Trade 
+Commission Act, a violation of any requirement imposed under this title 
+shall be deemed a violation of a requirement imposed under that Act. All 
+of the functions and powers of the Federal Trade Commission under the 
+Federal Trade Commission Act are available to the Federal Trade 
+Commission to enforce compliance by any person with the requirements 
+under this title, irrespective of whether that person is engaged in 
+commerce or meets any other jurisdictional tests under the Federal Trade 
+Commission Act.''; and
+            (9) in section 129 (15 U.S.C. 1639), by striking subsection 
+        (m) and inserting the following:
+
+    ``(m) Civil Penalties in Federal Trade Commission Enforcement 
+Actions.--For purposes of enforcement by the Federal Trade Commission, 
+any violation of a regulation issued by the Bureau pursuant to 
+subsection (l)(2) shall be treated as a violation of a rule promulgated 
+under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) 
+regarding unfair or deceptive acts or practices.''; and
+            (10) in chapter 5 (15 U.S.C. 1667 et seq.)--
+                    (A) &lt;&lt;NOTE: 15 USC 1667c, 1667e, 1667f.&gt;&gt; by 
+                striking ``the Board'' each place that term appears and 
+                inserting ``the Bureau''; and
+                    (B) by &lt;&lt;NOTE: 15 USC 1667a, 1667e, 
+                1667f.&gt;&gt; striking ``The Board'' each place that term 
+                appears and inserting ``The Bureau''.

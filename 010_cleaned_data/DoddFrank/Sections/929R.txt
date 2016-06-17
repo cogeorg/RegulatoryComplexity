@@ -1,58 +1,33 @@
 
-    (a) Investment Company Act of 1940 Amendments.--Section 31 of the 
-Investment Company Act of 1940 (15 U.S.C. 80a-30) is amended--
-            (1) in subsection (a)(1), by adding at the end the 
-        following: ``Each person having custody or use of the 
-        securities, deposits, or credits of a registered investment 
-        company shall maintain and preserve all records that relate to 
-        the custody or use by such person of the securities, deposits, 
-        or credits of the registered investment company for such period 
-        or periods as the Commission, by rule or regulation, may 
-        prescribe, as necessary or appropriate in the public interest or 
-        for the protection of investors.''; and
-            (2) in subsection (b), by adding at the end the following:
-            ``(4) Records of persons with custody or use.--
+    (a) Beneficial Ownership Reporting.--Section 13 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78m) is amended--
+            (1) in subsection (d)(1)--
+                    (A) by inserting after ``within ten days after such 
+                acquisition'' the following: ``or within such shorter 
+                time as the Commission may establish by rule''; and
+                    (B) by striking ``send to the issuer of the security 
+                at its principal executive office, by registered or 
+                certified mail, send to each exchange where the security 
+                is traded, and'';
+            (2) in subsection (d)(2)--
+                    (A) by striking ``in the statements to the issuer 
+                and the exchange, and''; and
 
 
-                    ``(A) In general.--Records of persons having custody 
-                or use of the securities, deposits, or credits of a 
-                registered investment company that relate to such 
-                custody or use, are subject at any time, or from time to 
-                time, to such reasonable periodic, special, or other 
-                examinations and other information and document requests 
-                by representatives of the Commission, as the Commission 
-                deems necessary or appropriate in the public interest or 
-                for the protection of investors.
-                    ``(B) Certain persons subject to other regulation.--
-                Any person that is subject to regulation and examination 
-                by a Federal financial institution regulatory agency (as 
-                such term is defined under section 212(c)(2) of title 
-                18, United States Code) may satisfy any examination 
-                request, information request, or document request 
-                described under subparagraph (A), by providing to the 
-                Commission a detailed listing, in writing, of the 
-                securities, deposits, or credits of the registered 
-                investment company within the custody or use of such 
-                person.''.
+                    (B) by striking ``shall be transmitted to the issuer 
+                and the exchange and'';
+            (3) in subsection (g)(1), by striking ``shall send to the 
+        issuer of the security and''; and
+            (4) in subsection (g)(2)--
+                    (A) by striking ``sent to the issuer and''; and
+                    (B) by striking ``shall be transmitted to the issuer 
+                and''.
 
-    (b) Investment Advisers Act of 1940 Amendment.--Section 204 of the 
-Investment Advisers Act of 1940 (15 U.S.C. 80b-4) is amended by adding 
-at the end the following new subsection:
-    ``(d) Records of Persons With Custody or Use.--
-            ``(1) In general.--Records of persons having custody or use 
-        of the securities, deposits, or credits of a client, that relate 
-        to such custody or use, are subject at any time, or from time to 
-        time, to such reasonable periodic, special, or other 
-        examinations and other information and document requests by 
-        representatives of the Commission, as the Commission deems 
-        necessary or appropriate in the public interest or for the 
-        protection of investors.
-            ``(2) Certain persons subject to other regulation.--Any 
-        person that is subject to regulation and examination by a 
-        Federal financial institution regulatory agency (as such term is 
-        defined under section 212(c)(2) of title 18, United States Code) 
-        may satisfy any examination request, information request, or 
-        document request described under paragraph (1), by providing the 
-        Commission with a detailed listing, in writing, of the 
-        securities, deposits, or credits of the client within the 
-        custody or use of such person.''.
+    (b) Short-swing Profit Reporting.--Section 16(a) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78p(a)) is amended--
+            (1) in paragraph (1), by striking ``(and, if such security 
+        is registered on a national securities exchange, also with the 
+        exchange)''; and
+            (2) in paragraph (2)(B), by inserting after ``officer'' the 
+        following: ``, or within such shorter time as the Commission may 
+        establish by rule''.

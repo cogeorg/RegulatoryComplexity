@@ -1,59 +1,15 @@
 
-    (a) Securities Exchange Act of 1934.--Section 15(c)(3) of the 
-Securities Exchange Act of 1934 (15 U.S.C. 78o(c)(3)) is amended by 
-adding at the end the following:
-                    ``(C) Notwithstanding any provision of sections 
-                2(a)(1)(C)(i) or 4d(a)(2) of the Commodity Exchange Act 
-                and the rules and regulations thereunder, and pursuant 
-                to an exemption granted by the Commission under section 
-                36 of this title or pursuant to a rule or regulation, 
-                cash and securities may be held by a broker or dealer 
-                registered pursuant to subsection (b)(1) and also 
-                registered as a futures commission merchant pursuant to 
-                section 4f(a)(1) of the Commodity Exchange Act, in a 
-                portfolio margining account carried as a futures account 
-                subject to section 4d of the Commodity Exchange Act and 
-                the rules and regulations thereunder, pursuant to a 
-                portfolio margining program approved by the Commodity 
-                Futures Trading Commission, and subject to subchapter IV 
-                of chapter 7 of title 11 of the United States Code and 
-                the rules and regulations 
-                thereunder. &lt;&lt;NOTE: Consultation.&gt;&gt;  The Commission 
-                shall consult with the Commodity Futures Trading 
-                Commission to adopt rules to ensure that such 
-                transactions and accounts are subject to comparable 
-                requirements to the extent practicable for similar 
-                products.''.
-
-    (b) Commodity Exchange Act.--Section 4d of the Commodity Exchange 
-Act (7 U.S.C. 6d) is amended by adding at the end the following:
-
-
-    ``(h) &lt;&lt;NOTE: Contracts.&gt;&gt;  Notwithstanding subsection (a)(2) or the 
-rules and regulations thereunder, and pursuant to an exemption granted 
-by the Commission under section 4(c) of this Act or pursuant to a rule 
-or regulation, a futures commission merchant that is registered pursuant 
-to section 4f(a)(1) of this Act and also registered as a broker or 
-dealer pursuant to section 15(b)(1) of the Securities Exchange Act of 
-1934 may, pursuant to a portfolio margining program approved by the 
-Securities and Exchange Commission pursuant to section 19(b) of the 
-Securities Exchange Act of 1934, hold in a portfolio margining account 
-carried as a securities account subject to section 15(c)(3) of the 
-Securities Exchange Act of 1934 and the rules and regulations 
-thereunder, a contract for the purchase or sale of a commodity for 
-future delivery or an option on such a contract, and any money, 
-securities or other property received from a customer to margin, 
-guarantee or secure such a contract, or accruing to a customer as the 
-result of such a contract. &lt;&lt;NOTE: Consultation.&gt;&gt; The Commission shall 
-consult with the Securities and Exchange Commission to adopt rules to 
-ensure that such transactions and accounts are subject to comparable 
-requirements to the extent practical for similar products.''.
-
-    (c) Duty of Commodity Futures Trading Commission.--Section 20 of the 
-Commodity Exchange Act (7 U.S.C. 24) is amended by adding at the end the 
-following:
-    ``(c) The Commission shall exercise its authority to ensure that 
-securities held in a portfolio margining account carried as a futures 
-account are customer property and the owners of those accounts are 
-customers for the purposes of subchapter IV of chapter 7 of title 11 of 
-the United States Code.''.
+    The Commodity Futures Trading Commission or the Securities and 
+Exchange Commission, or both, individually may, by rule or order--
+            (1) collect information as may be necessary concerning the 
+        markets for any types of--
+                    (A) swap (as defined in section 1a of the Commodity 
+                Exchange Act (7 U.S.C. 1a)); or
+                    (B) security-based swap (as defined in section 1a of 
+                the Commodity Exchange Act (7 U.S.C. 1a)); and
+            (2) &lt;&lt;NOTE: Reports.&gt;&gt;  issue a report with respect to any 
+        types of swaps or security-based swaps that the Commodity 
+        Futures Trading Commission or the Securities and Exchange 
+        Commission determines to be detrimental to--
+                    (A) the stability of a financial market; or
+                    (B) participants in a financial market.

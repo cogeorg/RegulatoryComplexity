@@ -1,177 +1,132 @@
-                        ACTIONS AGAINST FINANCIAL INSTITUTIONS 
-                        SUBJECT TO STANDARDS FOR DESIGNATED 
-                        ACTIVITIES.
+                        REPORTS, OR RECORDS.
 
-    (a) Examination.--The appropriate financial regulator is authorized 
-to examine a financial institution subject to the standards prescribed 
-under section 805(a) for a designated activity in order to determine the 
-following:
-            (1) The nature and scope of the designated activities 
-        engaged in by the financial institution.
-            (2) The financial and operational risks the designated 
-        activities engaged in by the financial institution may pose to 
-        the safety and soundness of the financial institution.
-            (3) The financial and operational risks the designated 
-        activities engaged in by the financial institution may pose to 
-        other financial institutions, critical markets, or the broader 
+    (a) Information To Assess Systemic Importance.--
+            (1) Financial market utilities.--The Council is authorized 
+        to require any financial market utility to submit such 
+        information as the Council may require for the sole purpose of 
+        assessing whether that financial market utility is systemically 
+        important, but only if the Council has reasonable cause to 
+        believe that the financial market utility meets the standards 
+        for systemic importance set forth in section 804.
+            (2) Financial institutions engaged in payment, clearing, or 
+        settlement activities.--The Council is authorized to require any 
+        financial institution to submit such information as the Council 
+        may require for the sole purpose of assessing whether any 
+        payment, clearing, or settlement activity engaged in or 
+        supported by a financial institution is systemically important, 
+        but only if the Council has reasonable cause to believe
+
+
+        that the activity meets the standards for systemic importance 
+        set forth in section 804.
+
+    (b) Reporting After Designation.--
+            (1) Designated financial market utilities.--The Board of 
+        Governors and the Council may each require a designated 
+        financial market utility to submit reports or data to the Board 
+        of Governors and the Council in such frequency and form as 
+        deemed necessary by the Board of Governors or the Council in 
+        order to assess the safety and soundness of the utility and the 
+        systemic risk that the utility's operations pose to the 
         financial system.
-            (4) The resources available to and the capabilities of the 
-        financial institution to monitor and control the risks described 
-        in paragraphs (2) and (3).
-            (5) The financial institution's compliance with this title 
-        and the rules and orders prescribed under section 805(a).
-
-    (b) Enforcement.--For purposes of enforcing the provisions of this 
-title, and the rules and orders prescribed under this section, a 
-financial institution subject to the standards prescribed under section 
-805(a) for a designated activity shall be subject to, and the 
-appropriate financial regulator shall have authority under the 
-provisions of subsections (b) through (n) of section 8 of the Federal 
-Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the 
-same extent as if the financial institution was an insured depository 
-institution and the appropriate financial regulator was the appropriate 
-Federal banking agency for such insured depository institution.
-    (c) &lt;&lt;NOTE: Consultation.&gt;&gt;  Technical Assistance.--The Board of 
-Governors shall consult with and provide such technical assistance as 
-may be required by the appropriate financial regulators to ensure that 
-the rules and orders prescribed under this title are interpreted and 
-applied in as consistent and uniform a manner as practicable.
-
-    (d) Delegation.--
-            (1) Examination.--
-                    (A) Request to board of governors.--The appropriate 
-                financial regulator may request the Board of Governors 
-                to conduct or participate in an examination of a 
-                financial institution subject to the standards 
-                prescribed under section 805(a) for a designated 
-                activity in order to assess the compliance of such 
-                financial institution with--
-                          (i) this title; or
-                          (ii) the rules or orders prescribed under this 
-                      title.
-                    (B) Examination by board of governors.--Upon receipt 
-                of an appropriate written request, the Board of 
-                Governors will conduct the examination under such terms 
-                and conditions to which the Board of Governors and the 
-                appropriate financial regulator mutually agree.
-            (2) Enforcement.--
-                    (A) Request to board of governors.--The appropriate 
-                financial regulator may request the Board of Governors 
-                to enforce this title or the rules or orders prescribed
-
-
-                under this title against a financial institution that is 
-                subject to the standards prescribed under section 805(a) 
-                for a designated activity.
-                    (B) &lt;&lt;NOTE: Determination.&gt;&gt;  Enforcement by board 
-                of governors.--Upon receipt of an appropriate written 
-                request, the Board of Governors shall determine whether 
-                an enforcement action is warranted, and, if so, it shall 
-                enforce compliance with this title or the rules or 
-                orders prescribed under this title and, if so, the 
-                financial institution shall be subject to, and the Board 
-                of Governors shall have authority under the provisions 
-                of subsections (b) through (n) of section 8 of the 
-                Federal Deposit Insurance Act (12 U.S.C. 1818) in the 
-                same manner and to the same extent as if the financial 
-                institution was an insured depository institution and 
-                the Board of Governors was the appropriate Federal 
-                banking agency for such insured depository institution.
-
-    (e) Back-up Authority of the Board of Governors.--
-            (1) Examination and enforcement.--Notwithstanding any other 
-        provision of law, the Board of Governors may--
-                    (A) conduct an examination of the type described in 
-                subsection (a) of any financial institution that is 
-                subject to the standards prescribed under section 805(a) 
-                for a designated activity; and
-                    (B) enforce the provisions of this title or any 
-                rules or orders prescribed under this title against any 
-                financial institution that is subject to the standards 
-                prescribed under section 805(a) for a designated 
+            (2) Financial institutions subject to standards for 
+        designated activities.--The Board of Governors and the Council 
+        may each require 1 or more financial institutions subject to the 
+        standards prescribed under section 805(a) for a designated 
+        activity to submit, in such frequency and form as deemed 
+        necessary by the Board of Governors or the Council, reports and 
+        data to the Board of Governors and the Council solely with 
+        respect to the conduct of the designated activity and solely to 
+        assess whether--
+                    (A) the rules, orders, or standards prescribed under 
+                section 805(a) with respect to the designated activity 
+                appropriately address the risks to the financial system 
+                presented by such activity; and
+                    (B) the financial institutions are in compliance 
+                with this title and the rules and orders prescribed 
+                under section 805(a) with respect to the designated 
                 activity.
-            (2) Limitations.--
-                    (A) Examination.--The Board of Governors may 
-                exercise the authority described in paragraph (1)(A) 
-                only if the Board of Governors has--
-                          (i) reasonable cause to believe that a 
-                      financial institution is not in compliance with 
-                      this title or the rules or orders prescribed under 
-                      this title with respect to a designated activity;
-                          (ii) &lt;&lt;NOTE: Notification.&gt;&gt;  notified, in 
-                      writing, the appropriate financial regulator and 
-                      the Council of its belief under clause (i) with 
-                      supporting documentation included;
-                          (iii) requested the appropriate financial 
-                      regulator to conduct a prompt examination of the 
-                      financial institution;
-                          (iv) either--
-                                    (I) &lt;&lt;NOTE: Deadline.&gt;&gt;  not been 
-                                afforded a reasonable opportunity to 
-                                participate in an examination of the 
-                                financial institution by the appropriate 
-                                financial regulator within 30 days after 
-                                the date of the Board's notification 
-                                under clause (ii); or
-                                    (II) reasonable cause to believe 
-                                that the financial institution's 
-                                noncompliance with this title or the 
-                                rules or orders prescribed under this 
-                                title poses a substantial risk to other 
-                                financial institutions, critical 
-                                markets, or the broader financial 
-                                system, subject to the Board of 
-                                Governors affording the appropriate 
-                                financial regulator a reasonable 
-                                opportunity to participate in the 
-                                examination; and
-                          (v) obtained the approval of the Council upon 
-                      an affirmative vote by a majority of the Council.
+            (3) Limitation.--The Board of Governors may, upon an 
+        affirmative vote by a majority of the Council, prescribe 
+        regulations under this section that impose a recordkeeping or 
+        reporting requirement on designated clearing entities or 
+        financial institutions engaged in designated activities that are 
+        subject to standards that have been prescribed under section 
+        805(a)(2).
+
+    (c) Coordination With Appropriate Federal Supervisory Agency.--
+            (1) Advance coordination.--Before requesting any material 
+        information from, or imposing reporting or recordkeeping 
+        requirements on, any financial market utility or any financial 
+        institution engaged in a payment, clearing, or settlement 
+        activity, the Board of Governors or the Council shall coordinate 
+        with the Supervisory Agency for a financial market utility or 
+        the appropriate financial regulator for a financial institution 
+        to determine if the information is available from or may be 
+        obtained by the agency in the form, format, or detail required 
+        by the Board of Governors or the Council.
+            (2) Supervisory reports.--Notwithstanding any other 
+        provision of law, the Supervisory Agency, the appropriate 
+        financial regulator, and the Board of Governors are authorized 
+        to disclose to each other and the Council copies of its 
+        examination reports or similar reports regarding any financial 
+        market utility or any financial institution engaged in payment, 
+        clearing, or settlement activities.
+
+    (d) Timing of Response From Appropriate Federal Supervisory 
+Agency.-- &lt;&lt;NOTE: Deadline. Notice.&gt;&gt; If the information, report, 
+records, or data requested by the Board of Governors or the Council 
+under subsection (c)(1) are not provided in full by the Supervisory 
+Agency
 
 
-                    (B) Enforcement.--The Board of Governors may 
-                exercise the authority described in paragraph (1)(B) 
-                only if the Board of Governors has--
-                          (i) reasonable cause to believe that a 
-                      financial institution is not in compliance with 
-                      this title or the rules or orders prescribed under 
-                      this title with respect to a designated activity;
-                          (ii) &lt;&lt;NOTE: Notification.&gt;&gt;  notified, in 
-                      writing, the appropriate financial regulator and 
-                      the Council of its belief under clause (i) with 
-                      supporting documentation included and with a 
-                      recommendation that the appropriate financial 
-                      regulator take 1 or more specific enforcement 
-                      actions against the financial institution;
-                          (iii) either--
-                                    (I) &lt;&lt;NOTE: Deadline.&gt;&gt;  not been 
-                                notified, in writing, by the appropriate 
-                                financial regulator of the commencement 
-                                of an enforcement action recommended by 
-                                the Board of Governors against the 
-                                financial institution within 60 days 
-                                from the date of the notification under 
-                                clause (ii); or
-                                    (II) reasonable cause to believe 
-                                that the financial institution's 
-                                noncompliance with this title or the 
-                                rules or orders prescribed under this 
-                                title poses significant liquidity, 
-                                credit, operational, or other risks to 
-                                the financial markets or to the 
-                                financial stability of the United 
-                                States, subject to the Board of 
-                                Governors notifying the appropriate 
-                                financial regulator of the Board's 
-                                enforcement action; and
-                          (iv) obtained the approval of the Council upon 
-                      an affirmative vote by a majority of the Council.
-            (3) Enforcement provisions.--For purposes of taking 
-        enforcement action under paragraph (1), the financial 
-        institution shall be subject to, and the Board of Governors 
-        shall have authority under the provisions of subsections (b) 
-        through (n) of section 8 of the Federal Deposit Insurance Act 
-        (12 U.S.C. 1818) in the same manner and to the same extent as if 
-        the financial institution was an insured depository institution 
-        and the Board of Governors was the appropriate Federal banking 
-        agency for such insured depository institution.
+or the appropriate financial regulator in less than 15 days after the 
+date on which the material is requested, the Board of Governors or the 
+Council may request the information or impose recordkeeping or reporting 
+requirements directly on such persons as provided in subsections (a) and 
+(b) with notice to the agency.
+
+    (e) Sharing of Information.--
+            (1) Material concerns.--Notwithstanding any other provision 
+        of law, the Board of Governors, the Council, the appropriate 
+        financial regulator, and any Supervisory Agency are authorized 
+        to--
+                    (A) &lt;&lt;NOTE: Notification.&gt;&gt;  promptly notify each 
+                other of material concerns about a designated financial 
+                market utility or any financial institution engaged in 
+                designated activities; and
+                    (B) share appropriate reports, information, or data 
+                relating to such concerns.
+            (2) Other information.--Notwithstanding any other provision 
+        of law, the Board of Governors, the Council, the appropriate 
+        financial regulator, or any Supervisory Agency may, under such 
+        terms and conditions as it deems appropriate, provide 
+        confidential supervisory information and other information 
+        obtained under this title to each other, and to the Secretary, 
+        Federal Reserve Banks, State financial institution supervisory 
+        agencies, foreign financial supervisors, foreign central banks, 
+        and foreign finance ministries, subject to reasonable assurances 
+        of confidentiality, provided, however, that no person or entity 
+        receiving information pursuant to this section may disseminate 
+        such information to entities or persons other than those listed 
+        in this paragraph without complying with applicable law, 
+        including section 8 of the Commodity Exchange Act (7 U.S.C. 12).
+
+    (f) Privilege Maintained.--The Board of Governors, the Council, the 
+appropriate financial regulator, and any Supervisory Agency providing 
+reports or data under this section shall not be deemed to have waived 
+any privilege applicable to those reports or data, or any portion 
+thereof, by providing the reports or data to the other party or by 
+permitting the reports or data, or any copies thereof, to be used by the 
+other party.
+    (g) Disclosure Exemption.--Information obtained by the Board of 
+Governors, the Supervisory Agencies, or the Council under this section 
+and any materials prepared by the Board of Governors, the Supervisory 
+Agencies, or the Council regarding their assessment of the systemic 
+importance of financial market utilities or any payment, clearing, or 
+settlement activities engaged in by financial institutions, and in 
+connection with their supervision of designated financial market 
+utilities and designated activities, shall be confidential supervisory 
+information exempt from disclosure under section 552 of title 5, United 
+States Code. For purposes of such section 552, this subsection shall be 
+considered a statute described in subsection (b)(3) of such section 552.

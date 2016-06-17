@@ -1,145 +1,56 @@
 
-    (a) In General.--Section 2B of the Federal Reserve Act (12 U.S.C. 
-225b) is amended by adding at the end the following:
-    ``(c) Public Access to Information.--The &lt;&lt;NOTE: Web posting. Time 
-period.&gt;&gt; Board shall place on its home Internet website, a link 
-entitled `Audit', which shall link to a webpage that shall serve as a 
-repository of information made available to the public for a reasonable 
-period of time, not less than 6 months following the date of release of 
-the relevant information, including--
-            ``(1) the reports prepared by the Comptroller General under 
-        section 714 of title 31, United States Code;
-            ``(2) the annual financial statements prepared by an 
-        independent auditor for the Board in accordance with section 
-        11B;
-            ``(3) the reports to the Committee on Banking, Housing, and 
-        Urban Affairs of the Senate required under section 13(3) 
-        (relating to emergency lending authority); and
-            ``(4) such other information as the Board reasonably 
-        believes is necessary or helpful to the public in understanding 
-        the accounting, financial reporting, and internal controls of 
-        the Board and the Federal reserve banks.''.
+    (a) Determination and Written Recommendation.--
+            (1) Determination request.--The Secretary may request the 
+        Corporation and the Board of Governors to determine whether a 
+        liquidity event exists that warrants use of the guarantee 
+        program authorized under section 1105.
+            (2) Requirements of determination.--Any determination 
+        pursuant to paragraph (1) shall--
+                    (A) be written; and
+                    (B) contain an evaluation of the evidence that--
+                          (i) a liquidity event exists;
+                          (ii) failure to take action would have serious 
+                      adverse effects on financial stability or economic 
+                      conditions in the United States; and
+                          (iii) actions authorized under section 1105 
+                      are needed to avoid or mitigate potential adverse 
+                      effects on the United States financial system or 
+                      economic conditions.
 
-    (b) Federal Reserve Transparency and Release of Information.--
-Section 11 of the Federal Reserve Act (12 U.S.C. 248) is amended by 
-adding at the end the following new subsection:
-    ``(s) Federal Reserve Transparency and Release of Information.--
-            ``(1) In general.--In order to ensure the disclosure in a 
-        timely manner consistent with the purposes of this Act of 
-        information concerning the borrowers and counterparties 
-        participating in emergency credit facilities, discount window 
-        lending programs, and open market operations authorized or 
-        conducted by the Board or a Federal reserve bank, the Board of 
-        Governors shall disclose, as provided in paragraph (2)--
-                    ``(A) the names and identifying details of each 
-                borrower, participant, or counterparty in any credit 
-                facility or covered transaction;
-                    ``(B) the amount borrowed by or transferred by or to 
-                a specific borrower, participant, or counterparty in any 
-                credit facility or covered transaction;
-                    ``(C) the interest rate or discount paid by each 
-                borrower, participant, or counterparty in any credit 
-                facility or covered transaction; and
-                    ``(D) information identifying the types and amounts 
-                of collateral pledged or assets transferred in 
-                connection with participation in any credit facility or 
-                covered transaction.
-            ``(2) Mandatory release date.--In the case of--
-                    ``(A) a credit facility, the Board shall disclose 
-                the information described in paragraph (1) on the date 
-                that is 1 year after the effective date of the 
-                termination by the Board of the authorization of the 
-                credit facility; and
-                    ``(B) a covered transaction, the Board shall 
-                disclose the information described in paragraph (1) on 
-                the last day of the eighth calendar quarter following 
-                the calendar quarter in which the covered transaction 
-                was conducted.
-            ``(3) Earlier release date authorized.--The Chairman of the 
-        Board may publicly release the information described in 
-        paragraph (1) before the relevant date specified in paragraph
+    (b) Procedures.--Notwithstanding any other provision of Federal or 
+State law, upon the determination of both the Corporation (upon a vote 
+of not fewer than \2/3\ of the members of the Corporation then serving) 
+and the Board of Governors (upon a vote of not fewer than \2/3\ of the 
+members of the Board of Governors then serving) under subsection (a) 
+that a liquidity event exists that warrants use of the guarantee program 
+authorized under section 1105, and with the written consent of the 
+Secretary--
+            (1) the Corporation shall take action in accordance with 
+        section 1105(a); and
+            (2) the Secretary (in consultation with the President) shall 
+        take action in accordance with section 1105(c).
+
+    (c) Documentation and Review.--
+            (1) Documentation.--The Secretary shall--
+                    (A) maintain the written documentation of each 
+                determination of the Corporation and the Board of 
+                Governors under this section; and
+                    (B) provide the documentation for review under 
+                paragraph (2).
 
 
-        (2), if the Chairman determines that such disclosure would be in 
-        the public interest and would not harm the effectiveness of the 
-        relevant credit facility or the purpose or conduct of covered 
-        transactions.
-            ``(4) Definitions.--For purposes of this subsection, the 
-        following definitions shall apply:
-                    ``(A) Credit facility.--The term `credit facility' 
-                has the same meaning as in section 714(f)(1)(A) of title 
-                31, United States Code.
-                    ``(B) Covered transaction.--The term `covered 
-                transaction' means--
-                          ``(i) any open market transaction with a 
-                      nongovernmental third party conducted under the 
-                      first undesignated paragraph of section 14 or 
-                      subparagraph (a), (b), or (c) of the 2nd 
-                      undesignated paragraph of such section, after the 
-                      date of enactment of the Dodd-Frank Wall Street 
-                      Reform and Consumer Protection Act; and
-                          ``(ii) any advance made under section 10B 
-                      after the date of enactment of that Act.
-            ``(5) Termination of credit facility by operation of law.--A 
-        credit facility shall be deemed to have terminated as of the end 
-        of the 24-month period beginning on the date on which the credit 
-        facility ceases to make extensions of credit and loans, unless 
-        the credit facility is otherwise terminated by the Board before 
-        such date.
-            ``(6) Consistent treatment 
-        of &lt;&lt;NOTE: Confidentiality.&gt;&gt; information.--Except as provided 
-        in this subsection or section 13(3)(D), or in section 
-        714(f)(3)(C) of title 31, United States Code, the information 
-        described in paragraph (1) and information concerning the 
-        transactions described in section 714(f) of such title, shall be 
-        confidential, including for purposes of section 552(b)(3) of 
-        title 5 of such Code, until the relevant mandatory release date 
-        described in paragraph (2), unless the Chairman of the Board 
-        determines that earlier disclosure of such information would be 
-        in the public interest and would not harm the effectiveness of 
-        the relevant credit facility or the purpose of conduct of the 
-        relevant transactions.
-            ``(7) Protection of personal privacy.--This subsection and 
-        section 13(3)(C), section 714(f)(3)(C) of title 31, United 
-        States Code, and subsection (a) or (c) of section 1109 of the 
-        Dodd-Frank Wall Street Reform and Consumer Protection Act shall 
-        not be construed as requiring any disclosure of nonpublic 
-        personal information (as defined for purposes of section 502 of 
-        the Gramm-Leach-Bliley Act (12 U.S.C. 6802)) concerning any 
-        individual who is referenced in collateral pledged or assets 
-        transferred in connection with a credit facility or covered 
-        transaction, unless the person is a borrower, participant, or 
-        counterparty under the credit facility or covered transaction.
-            ``(8) Study of foia exemption impact.--
-                    ``(A) Study.--The Inspector General of the Board of 
-                Governors of the Federal Reserve System shall--
-                          ``(i) conduct a study on the impact that the 
-                      exemption from section 552(b)(3) of title 5 (known 
-                      as the Freedom of Information Act) established 
-                      under paragraph (6) has had on the ability of the 
-                      public to access information about the 
-                      administration by the Board of Governors of 
-                      emergency credit facilities, discount
+            (2) GAO review.--The Comptroller General of the United 
+        States shall review and report to Congress on any determination 
+        of the Corporation and the Board of Governors under subsection 
+        (a), including--
+                    (A) the basis for the determination; and
+                    (B) the likely effect of the actions taken.
 
-
-                      window lending programs, and open market 
-                      operations; and
-                          ``(ii) make any recommendations on whether the 
-                      exemption described in clause (i) should remain in 
-                      effect.
-                    ``(B) Report.--Not &lt;&lt;NOTE: Publication. Web 
-                posting.&gt;&gt; later than 30 months after the date of 
-                enactment of this section, the Inspector General of the 
-                Board of Governors of the Federal Reserve System shall 
-                submit a report on the findings of the study required 
-                under subparagraph (A) to the Committee on Banking, 
-                Housing, and Urban Affairs of the Senate and the 
-                Committee on Financial Services of the House of 
-                Representatives, and publish the report on the website 
-                of the Board.
-            ``(9) Rule of construction.--Nothing in this section is 
-        meant to affect any pending litigation or lawsuit filed under 
-        section 552 of title 5, United States Code (popularly known as 
-        the Freedom of Information Act), on or before the date of 
-        enactment of the Dodd-Frank Wall Street Reform and Consumer 
-        Protection Act.''.
+    (d) Report to Congress.--On the earlier of the date of a submission 
+made to Congress under section 1105(c), or within 30 days of the date of 
+a determination under subsection (a), the Secretary shall provide 
+written notice of the determination of the Corporation and the Board of 
+Governors to the Committee on Banking, Housing, and Urban Affairs of the 
+Senate and the Committee on Financial Services of the House of 
+Representatives, including a description of the basis for the 
+determination.

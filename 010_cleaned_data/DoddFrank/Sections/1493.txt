@@ -1,34 +1,20 @@
-                          MORTGAGE FORECLOSURE RESCUE SCAMS AND 
-                          LOAN MODIFICATION FRAUD.
 
-    (a) Study.--The Comptroller General of the United States shall 
-conduct a study of the current inter-agency efforts of the Secretary of 
-the Treasury, the Secretary of Housing and Urban Development, the 
-Attorney General, and the Federal Trade Commission to crackdown on 
-mortgage foreclosure rescue scams and loan modification fraud in order 
-to advise the Congress to the risks and vulnerabilities of emerging 
-schemes in the loan modification arena.
-    (b) Report.--
-            (1) In general.--The Comptroller General shall submit a 
-        report to the Congress on the study conducted under subsection 
-        (a) containing such recommendations for legislative and 
-        administrative actions as the Comptroller General may determine 
-        to be appropriate in addition to the recommendations required 
-        under paragraph (2).
-            (2) Specific topics.--The report made under paragraph (1) 
-        shall include--
-                    (A) an evaluation of the effectiveness of the inter-
-                agency task force current efforts to combat mortgage 
-                foreclosure rescue scams and loan modification fraud 
-                scams;
-                    (B) specific recommendations on agency or 
-                legislative action that are essential to properly 
-                protect homeowners from mortgage foreclosure rescue 
-                scams and loan modification fraud scams; and
-                    (C) the adequacy of financial resources that the 
-                Federal Government is allocating to--
-                          (i) crackdown on loan modification and 
-                      foreclosure rescue scams; and
-                          (ii) the education of homeowners about 
-                      fraudulent scams relating to loan modification and 
-                      foreclosure rescues.
+    (a) In General.--Section 104(a) of the Helping Families Save Their 
+Homes Act of 2009 (division A of Public Law 111-22) &lt;&lt;NOTE: 12 
+USC 1715z-25.&gt;&gt;  is amended--
+
+
+            (1) in paragraph (2), by striking ``resulting'' and 
+        inserting ``in each State that result'';
+            (2) in paragraph (3), by inserting ``each State for'' after 
+        ``modifications in''; and
+            (3) in paragraph (4), by inserting ``in each State'' after 
+        ``total number of loans''.
+
+    (b) Conforming Amendment.--Section 104(b)(1)(A) of such Act is 
+amended by adding at the end the following 
+sentence: &lt;&lt;NOTE: Deadline.&gt;&gt;  ``Not later than 60 days after the date 
+of the enactment of the Dodd-Frank Wall Street Reform and Consumer 
+Protection Act, the Comptroller of the Currency and the Director of the 
+Office of Thrift Supervision shall update such requirements to reflect 
+amendments made to this section by such Act.''.

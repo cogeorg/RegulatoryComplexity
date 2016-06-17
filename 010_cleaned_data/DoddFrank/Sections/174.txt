@@ -1,56 +1,67 @@
-                        INSTITUTIONS.
+                        REQUIREMENTS.
 
-    (a) Establishment of Foreign Bank Offices in the United States.--
-Section 7(d)(3) of the International Banking Act of 1978 (12 U.S.C. 
-3105(d)(3)) is amended--
-            (1) in subparagraph (C), by striking ``and'' at the end;
-            (2) in subparagraph (D), by striking the period at the end 
-        of and inserting ``; and''; and
-            (3) by adding at the end the following new subparagraph:
-                    ``(E) for a foreign bank that presents a risk to the 
-                stability of United States financial system, whether the 
-                home country of the foreign bank has adopted, or is 
-                making demonstrable progress toward adopting, an 
-                appropriate system of financial regulation for the 
-                financial system of such home country to mitigate such 
-                risk.''.
+    (a) Study of Hybrid Capital Instruments.--The Comptroller General of 
+the United States, in consultation with the Board of Governors, the 
+Comptroller of the Currency, and the Corporation, shall conduct a study 
+of the use of hybrid capital instruments as a component of Tier 1 
+capital for banking institutions and bank holding companies. The study 
+shall consider--
+            (1) the current use of hybrid capital instruments, such as 
+        trust preferred shares, as a component of Tier 1 capital;
+            (2) the differences between the components of capital 
+        permitted for insured depository institutions and those 
+        permitted for companies that control insured depository 
+        institutions;
+            (3) the benefits and risks of allowing such instruments to 
+        be used to comply with Tier 1 capital requirements;
+            (4) the economic impact of prohibiting the use of such 
+        capital instruments for Tier 1;
+            (5) a review of the consequences of disqualifying trust 
+        preferred instruments, and whether it could lead to the failure 
+        or undercapitalization of existing banking organizations;
+            (6) the international competitive implications prohibiting 
+        hybrid capital instruments for Tier 1;
+            (7) the impact on the cost and availability of credit in the 
+        United States from such a prohibition;
+            (8) the availability of capital for financial institutions 
+        with less than $10,000,000,000 in total assets; and
+            (9) any other relevant factors relating to the safety and 
+        soundness of our financial system and potential economic impact 
+        of such a prohibition.
 
-    (b) Termination of Foreign Bank Offices in the United States.--
-Section 7(e)(1) of the International Banking Act of 1978 (12 U.S.C. 
-3105(e)(1)) is amended--
-            (1) in subparagraph (A), by striking ``or'' at the end;
-            (2) in subparagraph (B), by striking the period at the end 
-        of and inserting ``; or''; and
-            (3) by inserting after subparagraph (B), the following new 
-        subparagraph:
-                    ``(C) for a foreign bank that presents a risk to the 
-                stability of the United States financial system, the 
-                home country of the foreign bank has not adopted, or 
-                made demonstrable progress toward adopting, an 
-                appropriate system of financial regulation to mitigate 
-                such risk.''.
+    (b) Study of Foreign Bank Intermediate Holding Company Capital 
+Requirements.--The Comptroller General of the United States, in 
+consultation with the Secretary, the Board of Governors, the Comptroller 
+of the Currency, and the Corporation, shall conduct a study of capital 
+requirements applicable to United States intermediate holding companies 
+of foreign banks that are bank holding companies or savings and loan 
+holding companies. The study shall consider--
+            (1) current Board of Governors policy regarding the 
+        treatment of intermediate holding companies;
+            (2) the principle of national treatment and equality of 
+        competitive opportunity for foreign banks operating in the 
+        United States;
+            (3) the extent to which foreign banks are subject on a 
+        consolidated basis to home country capital standards comparable 
+        to United States capital standards;
+            (4) potential effects on United States banking organizations 
+        operating abroad of changes to United States policy regarding 
+        intermediate holding companies;
+            (5) the impact on the cost and availability of credit in the 
+        United States from a change in United States policy regarding 
+        intermediate holding companies; and
+            (6) any other relevant factors relating to the safety and 
+        soundness of our financial system and potential economic impact 
+        of such a prohibition.
 
-    (c) Registration or Succession to a United States Broker or Dealer 
-and Termination of Such Registration.--Section 15 of the Securities 
-Exchange Act of 1934 (15 U.S.C. 78o) is amended by adding at the end the 
-following new subsections:
-    ``(k) Registration or Succession to a United States Broker or 
-Dealer.--In determining whether to permit a foreign person or an 
-affiliate of a foreign person to register as a United States broker or 
-dealer, or succeed to the registration of a United States broker or 
-dealer, the Commission may consider whether, for a foreign person, or an 
-affiliate of a foreign person that presents a risk to the stability of 
-the United States financial system, the home country of the foreign 
-person has adopted, or made demonstrable progress toward adopting, an 
-appropriate system of financial regulation to mitigate such risk.
-    ``(l) Termination of a United States Broker or Dealer.--For a 
-foreign person or an affiliate of a foreign person that presents such a 
-risk to the stability of the United States financial system, the 
-Commission may determine to terminate the registration of such foreign 
-person or an affiliate of such foreign person as a broker or dealer in 
-the United States, if the Commission determines that the home country of 
-the foreign person has not adopted, or made demonstrable progress toward 
-adopting, an appropriate system of financial regulation to mitigate such 
-risk.''.
+    (c) Report.--Not later than 18 months after the date of enactment of 
+this Act, the Comptroller General of the United States shall submit 
+reports to the Committee on Banking, Housing, and
 
 
+Urban Affairs of the Senate and the Committee on Financial Services of 
+the House of Representatives summarizing the results of the studies 
+required under subsection (a). The reports shall include specific 
+recommendations for legislative or regulatory action regarding the 
+treatment of hybrid capital instruments, including trust preferred 
+shares, and shall explain the basis for such recommendations.

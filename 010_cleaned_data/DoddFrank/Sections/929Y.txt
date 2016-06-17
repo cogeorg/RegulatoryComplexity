@@ -1,52 +1,30 @@
 
-    (a) Short Sale Disclosure.--Section 13(f) of the Securities Exchange 
-Act of 1934 (15 U.S.C. 78m(f)) is amended by redesignating paragraphs 
-(2), (3), (4), and (5) as paragraphs (3), (4), (5), and (6), 
-respectively, and inserting after paragraph (1) the following:
-            ``(2) &lt;&lt;NOTE: Regulations.&gt;&gt;  The Commission shall prescribe 
-        rules providing for the public disclosure of the name of the 
-        issuer and the title, class, CUSIP number, aggregate amount of 
-        the number of short sales of each security, and any additional 
-        information determined by the Commission following the end of 
-        the reporting period. &lt;&lt;NOTE: Deadline.&gt;&gt; At a minimum, such 
-        public disclosure shall occur every month.''.
+    (a) &lt;&lt;NOTE: Public comment.&gt;&gt;  In General.--The Securities and 
+Exchange Commission of the United States shall solicit public comment 
+and thereafter conduct a study to determine the extent to which private 
+rights of action under the antifraud provisions of the Securities and 
+Exchange Act of 1934 (15 U.S.C. 78u-4) should be extended to cover--
+            (1) conduct within the United States that constitutes a 
+        significant step in the furtherance of the violation, even if 
+        the securities transaction occurs outside the United States and 
+        involves only foreign investors; and
+            (2) conduct occurring outside the United States that has a 
+        foreseeable substantial effect within the United States.
 
-    (b) Short Selling Enforcement.--Section 9 of the Securities Exchange 
-Act of 1934 (15 U.S.C. 78i) is amended--
-            (1) by redesignating subsections (d), (e), (f), (g), (h), 
-        and (i) as subsections (e), (f), (g), (h), (i), and (j), 
-        respectively; and
-            (2) inserting after subsection (c), the following new 
-        subsection:
+    (b) Contents.--The study shall consider and analyze, among other 
+things--
+            (1) the scope of such a private right of action, including 
+        whether it should extend to all private actors or whether it 
+        should be more limited to extend just to institutional investors 
+        or otherwise;
+            (2) what implications such a private right of action would 
+        have on international comity;
+            (3) the economic costs and benefits of extending a private 
+        right of action for transnational securities frauds; and
+            (4) whether a narrower extraterritorial standard should be 
+        adopted.
 
-    ``(d) Transactions Relating to Short Sales of Securities.--It shall 
-be unlawful for any person, directly or indirectly, by the use of the 
-mails or any means or instrumentality of interstate commerce, or of any 
-facility of any national securities exchange, or for any member of a 
-national securities exchange to effect, alone or with one or more other 
-persons, a manipulative short sale of any 
-security. &lt;&lt;NOTE: Regulations.&gt;&gt;  The Commission shall issue such other 
-rules as are necessary or appropriate to ensure that the appropriate 
-enforcement options and remedies are available for violations of this 
-subsection in the public interest or for the protection of investors.''.
-
-    (c) Investor Notification.--Section 15 of the Securities Exchange 
-Act of 1934 (15 U.S.C. 78o) is amended--
-            (1) by redesignating subsections (e), (f), (g), (h), and (i) 
-        as subsections (f), (g), (h), (i), and (j), respectively; and
-            (2) inserting after subsection (d) the following new 
-        subsection:
-
-    ``(e) Notices to Customers Regarding Securities Lending.--Every 
-registered broker or dealer shall provide notice to its customers that 
-they may elect not to allow their fully paid securities to be used in 
-connection with short sales. If a broker or dealer uses a customer's 
-securities in connection with short sales, the broker or dealer shall 
-provide notice to its customer that the broker or dealer may receive 
-compensation in connection with lending the customer's securities. The 
-Commission, by rule, as it deems necessary or appropriate in the public 
-interest and for the protection
-
-
-of investors, may prescribe the form, content, time, and manner of 
-delivery of any notice required under this paragraph.''.
+    (c) Report.--A report of the study shall be submitted and 
+recommendations made to the Committee on Banking, Housing, and Urban 
+Affairs of the Senate and the Committee on Financial Services of the 
+House not later than 18 months after the date of enactment of this Act.

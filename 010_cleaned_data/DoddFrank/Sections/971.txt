@@ -1,47 +1,30 @@
 
-    (a) Government Accountability Office Study.--The Comptroller General 
-of the United States shall conduct a study that will--
-            (1) review the number of employees who leave the Securities 
-        and Exchange Commission to work for financial institutions 
-        regulated by such Commission;
-            (2) determine how many employees who leave the Securities 
-        and Exchange Commission worked on cases that involved financial 
-        institutions regulated by such Commission;
-            (3) review the length of time employees work for the 
-        Securities and Exchange Commission before leaving to be employed 
-        by financial institutions regulated by such Commission;
-            (4) review existing internal controls and make 
-        recommendations on strengthening such controls to ensure that 
-        employees of the Securities and Exchange Commission who are 
-        later employed by financial institutions did not assist such 
-        institutions in violating any rules or regulations of the 
-        Commission during the course of their employment with such 
-        Commission;
-            (5) determine if greater post-employment restrictions are 
-        necessary to prevent employees of the Securities and Exchange 
-        Commission from being employed by financial institutions after 
-        employment with such Commission;
-            (6) determine if the volume of employees of the Securities 
-        and Exchange Commission who are later employed by financial 
-        institutions has led to inefficiencies in enforcement;
-            (7) determine if employees of the Securities and Exchange 
-        Commission who are later employed by financial institutions 
-        assisted such institutions in circumventing Federal rules and 
-        regulations while employed by such Commission;
-            (8) review any information that may address the volume of 
-        employees of the Securities and Exchange Commission who are 
-        later employed by financial institutions, and make 
-        recommendations to Congress; and
-            (9) review other additional issues as may be raised during 
-        the course of the study conducted under this subsection.
+    (a) Proxy Access.--Section 14(a) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78n(a)) is amended--
+            (1) by inserting ``(1)'' after ``(a)''; and
+            (2) by adding at the end the following:
 
-    (b) Report.--Not later than 1 year after the date of the enactment 
-of this subtitle, the Comptroller General of the United States shall 
-submit to the Committee on Financial Services of the House of 
-Representatives and the Committee on Banking, Housing, and Urban Affairs 
-of the Senate a report on the results of the study required by 
-subsection (a).
+    ``(2) The rules and regulations prescribed by the Commission under 
+paragraph (1) may include--
+            ``(A) a requirement that a solicitation of proxy, consent, 
+        or authorization by (or on behalf of) an issuer include a 
+        nominee submitted by a shareholder to serve on the board of 
+        directors of the issuer; and
+            ``(B) a requirement that an issuer follow a certain 
+        procedure in relation to a solicitation described in 
+        subparagraph (A).''.
 
+    (b) &lt;&lt;NOTE: 15 USC 78n note.&gt;&gt;  Regulations.--The Commission may 
+issue rules permitting the use by a shareholder of proxy solicitation 
+materials supplied by an issuer of securities for the purpose of 
+nominating individuals to membership on the board of directors of the 
+issuer, under such terms and conditions as the Commission determines are 
+in the interests of shareholders and for the protection of investors.
 
-             Subtitle G--Strengthening Corporate Governance
-
+    (c) &lt;&lt;NOTE: 15 USC 78n note.&gt;&gt;  Exemptions.--The Commission may, by 
+rule or order, exempt an issuer or class of issuers from the requirement 
+made by this section or an amendment made by this section. In 
+determining whether to make an exemption under this subsection, the 
+Commission shall take into account, among other considerations, whether 
+the requirement in the amendment made by subsection (a) 
+disproportionately burdens small issuers.

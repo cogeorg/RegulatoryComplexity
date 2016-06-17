@@ -1,141 +1,221 @@
+                        ORGANIZATIONS.
 
-    Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is 
-amended by adding at the end the following:
-    ``(g) Office of the Investor Advocate.--
-            ``(1) Office established.--There is established within the 
-        Commission the Office of the Investor Advocate (in this 
-        subsection referred to as the `Office').
-
-
-            ``(2) Investor advocate.--
-                    ``(A) In general.--The head of the Office shall be 
-                the Investor Advocate, who shall--
-                          ``(i) report directly to the Chairman; and
-                          ``(ii) be appointed by the Chairman, in 
-                      consultation with the Commission, from among 
-                      individuals having experience in advocating for 
-                      the interests of investors in securities and 
-                      investor protection issues, from the perspective 
-                      of investors.
-                    ``(B) Compensation.--The annual rate of pay for the 
-                Investor Advocate shall be equal to the highest rate of 
-                annual pay for other senior executives who report to the 
-                Chairman of the Commission.
-                    ``(C) &lt;&lt;NOTE: Time periods.&gt;&gt;  Limitation on 
-                service.--An individual who serves as the Investor 
-                Advocate may not be employed by the Commission--
-                          ``(i) during the 2-year period ending on the 
-                      date of appointment as Investor Advocate; or
-                          ``(ii) during the 5-year period beginning on 
-                      the date on which the person ceases to serve as 
-                      the Investor Advocate.
-            ``(3) Staff of office.--The Investor Advocate, after 
-        consultation with the Chairman of the Commission, may retain or 
-        employ independent counsel, research staff, and service staff, 
-        as the Investor Advocate deems necessary to carry out the 
-        functions, powers, and duties of the Office.
-            ``(4) Functions of the investor advocate.--The Investor 
-        Advocate shall--
-                    ``(A) assist retail investors in resolving 
-                significant problems such investors may have with the 
-                Commission or with self-regulatory organizations;
-                    ``(B) identify areas in which investors would 
-                benefit from changes in the regulations of the 
-                Commission or the rules of self-regulatory 
-                organizations;
-                    ``(C) identify problems that investors have with 
-                financial service providers and investment products;
-                    ``(D) analyze the potential impact on investors of--
-                          ``(i) proposed regulations of the Commission; 
-                      and
-                          ``(ii) proposed rules of self-regulatory 
-                      organizations registered under this title; and
-                    ``(E) to the extent practicable, propose to the 
-                Commission changes in the regulations or orders of the 
-                Commission and to Congress any legislative, 
-                administrative, or personnel changes that may be 
-                appropriate to mitigate problems identified under this 
-                paragraph and to promote the interests of investors.
-            ``(5) Access to documents.--The Commission shall ensure that 
-        the Investor Advocate has full access to the documents of the 
-        Commission and any self-regulatory organization, as necessary to 
-        carry out the functions of the Office.
-            ``(6) Annual reports.--
-                    ``(A) Report on objectives.--
-                          ``(i) In general.--Not later than June 30 of 
-                      each year after 2010, the Investor Advocate shall 
-                      submit to the Committee on Banking, Housing, and 
-                      Urban Affairs of the Senate and the Committee on 
-                      Financial Services of the House of Representatives 
-                      a report on
-
-
-                      the objectives of the Investor Advocate for the 
-                      following fiscal year.
-                          ``(ii) Contents.--Each report required under 
-                      clause (i) shall contain full and substantive 
-                      analysis and explanation.
-                    ``(B) Report on activities.--
-                          ``(i) In general.--Not later than December 31 
-                      of each year after 2010, the Investor Advocate 
-                      shall submit to the Committee on Banking, Housing, 
-                      and Urban Affairs of the Senate and the Committee 
-                      on Financial Services of the House of 
-                      Representatives a report on the activities of the 
-                      Investor Advocate during the immediately preceding 
-                      fiscal year.
-                          ``(ii) Contents.--Each report required under 
-                      clause (i) shall include--
-                                    ``(I) appropriate statistical 
-                                information and full and substantive 
-                                analysis;
-                                    ``(II) information on steps that the 
-                                Investor Advocate has taken during the 
-                                reporting period to improve investor 
-                                services and the responsiveness of the 
-                                Commission and self-regulatory 
-                                organizations to investor concerns;
-                                    ``(III) a summary of the most 
-                                serious problems encountered by 
-                                investors during the reporting period;
-                                    ``(IV) an inventory of the items 
-                                described in subclause (III) that 
-                                includes--
-                                            ``(aa) identification of any 
-                                        action taken by the Commission 
-                                        or the self-regulatory 
-                                        organization and the result of 
-                                        such action;
-                                            ``(bb) the length of time 
-                                        that each item has remained on 
-                                        such inventory; and
-                                            ``(cc) for items on which no 
-                                        action has been taken, the 
-                                        reasons for inaction, and an 
-                                        identification of any official 
-                                        who is responsible for such 
-                                        action;
-                                    ``(V) recommendations for such 
-                                administrative and legislative actions 
-                                as may be appropriate to resolve 
-                                problems encountered by investors; and
-                                    ``(VI) any other information, as 
-                                determined appropriate by the Investor 
-                                Advocate.
-                          ``(iii) Independence.--Each report required 
-                      under this paragraph shall be provided directly to 
-                      the Committees listed in clause (i) without any 
-                      prior review or comment from the Commission, any 
-                      commissioner, any other officer or employee of the 
-                      Commission, or the Office of Management and 
-                      Budget.
-                          ``(iv) Confidentiality.--No report required 
-                      under clause (i) may contain confidential 
-                      information.
-            ``(7) &lt;&lt;NOTE: Procedures. Deadline.&gt;&gt;  Regulations.--The 
-        Commission shall, by regulation, establish procedures requiring 
-        a formal response to all recommendations submitted to the 
-        Commission by the Investor Advocate, not later than 3 months 
-        after the date of such submission.''.
+    (a) Filing Procedures.--Section 19(b) of the Securities Exchange Act 
+of 1934 (15 U.S.C. 78s(b)) is amended by striking paragraph (2) 
+(including the undesignated matter immediately following subparagraph 
+(B)) and inserting the following:
+            ``(2) &lt;&lt;NOTE: Deadlines.&gt;&gt;  Approval process.--
+                    ``(A) Approval process established.--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), not later than 45 days after the date 
+                      of publication of a proposed rule change under 
+                      paragraph (1), the Commission shall--
+                                    ``(I) by order, approve or 
+                                disapprove the proposed rule change; or
+                                    ``(II) institute proceedings under 
+                                subparagraph (B) to determine whether 
+                                the proposed rule change should be 
+                                disapproved.
+                          ``(ii) Extension of time period.--The 
+                      Commission may extend the period established under 
+                      clause (i) by not more than an additional 45 days, 
+                      if--
+                                    ``(I) &lt;&lt;NOTE: Publication.&gt;&gt;  the 
+                                Commission determines that a longer 
+                                period is appropriate and publishes the 
+                                reasons for such determination; or
+                                    ``(II) the self-regulatory 
+                                organization that filed the proposed 
+                                rule change consents to the longer 
+                                period.
+                    ``(B) Proceedings.--
+                          ``(i) Notice and hearing.--If the Commission 
+                      does not approve or disapprove a proposed rule 
+                      change under subparagraph (A), the Commission 
+                      shall provide to the self-regulatory organization 
+                      that filed the proposed rule change--
+                                    ``(I) notice of the grounds for 
+                                disapproval under consideration; and
+                                    ``(II) opportunity for hearing, to 
+                                be concluded not later than 180 days 
+                                after the date of publication of notice 
+                                of the filing of the proposed rule 
+                                change.
+                          ``(ii) Order of approval or disapproval.--
+                                    ``(I) In general.--Except as 
+                                provided in subclause (II), not later 
+                                than 180 days after the date of 
+                                publication under paragraph (1), the 
+                                Commission shall issue an order 
+                                approving or disapproving the proposed 
+                                rule change.
+                                    ``(II) Extension of time period.--
+                                The Commission may extend the period for 
+                                issuance under clause (I) by not more 
+                                than 60 days, if--
+                                            
+                                        ``(aa) &lt;&lt;NOTE: Publication.&gt;&gt;  
+                                        the Commission determines that a 
+                                        longer period is appropriate and 
+                                        publishes the reasons for such 
+                                        determination; or
+                                            ``(bb) the self-regulatory 
+                                        organization that filed the 
+                                        proposed rule change consents to 
+                                        the longer period.
+                    ``(C) Standards for approval and disapproval.--
+                          ``(i) Approval.--The Commission shall approve 
+                      a proposed rule change of a self-regulatory 
+                      organization if it finds that such proposed rule 
+                      change is consistent
 
 
+                      with the requirements of this title and the rules 
+                      and regulations issued under this title that are 
+                      applicable to such organization.
+                          ``(ii) Disapproval.--The Commission shall 
+                      disapprove a proposed rule change of a self-
+                      regulatory organization if it does not make a 
+                      finding described in clause (i).
+                          ``(iii) &lt;&lt;NOTE: Publication.&gt;&gt;  Time for 
+                      approval.--The Commission may not approve a 
+                      proposed rule change earlier than 30 days after 
+                      the date of publication under paragraph (1), 
+                      unless the Commission finds good cause for so 
+                      doing and publishes the reason for the finding.
+                    ``(D) Result of failure to institute or conclude 
+                proceedings.--A proposed rule change shall be deemed to 
+                have been approved by the Commission, if--
+                          ``(i) the Commission does not approve or 
+                      disapprove the proposed rule change or begin 
+                      proceedings under subparagraph (B) within the 
+                      period described in subparagraph (A); or
+                          ``(ii) the Commission does not issue an order 
+                      approving or disapproving the proposed rule change 
+                      under subparagraph (B) within the period described 
+                      in subparagraph (B)(ii).
+                    ``(E) Publication date based on federal register 
+                publishing.-- &lt;&lt;NOTE: Notice. Deadline. Web 
+                posting.&gt;&gt; For purposes of this paragraph, if, after 
+                filing a proposed rule change with the Commission 
+                pursuant to paragraph (1), a self-regulatory 
+                organization publishes a notice of the filing of such 
+                proposed rule change, together with the substantive 
+                terms of such proposed rule change, on a publicly 
+                accessible website, the Commission shall thereafter send 
+                the notice to the Federal Register for publication 
+                thereof under paragraph (1) within 15 days of the date 
+                on which such website publication is made. If the 
+                Commission fails to send the notice for publication 
+                thereof within such 15 day period, then the date of 
+                publication shall be deemed to be the date on which such 
+                website publication was made.
+                    ``(F) Rulemaking.--
+                          ``(i) &lt;&lt;NOTE: Deadline. Procedures.&gt;&gt;  In 
+                      general.--Not later than 180 days after the date 
+                      of enactment of the Investor Protection and 
+                      Securities Reform Act of 2010, after consultation 
+                      with other regulatory agencies, the Commission 
+                      shall promulgate rules setting forth the 
+                      procedural requirements of the proceedings 
+                      required under this paragraph.
+                          ``(ii) Notice and comment not required.--The 
+                      rules promulgated by the Commission under clause 
+                      (i) are not required to include republication of 
+                      proposed rule changes or solicitation of public 
+                      comment.''.
+
+    (b) Clarification of Filing Date.--
+            (1) Rule of construction.--Section 19(b) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78s(b)) is amended by adding at 
+        the end the following:
+            ``(10) Rule of construction relating to filing date of 
+        proposed rule changes.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the date of filing of a proposed rule change shall be 
+                deemed
+
+
+                to be the date on which the Commission receives the 
+                proposed rule change.
+                    ``(B) &lt;&lt;NOTE: Deadlines. Notification.&gt;&gt;  
+                Exception.--A proposed rule change has not been received 
+                by the Commission for purposes of subparagraph (A) if, 
+                not later than 7 business days after the date of receipt 
+                by the Commission, the Commission notifies the self-
+                regulatory organization that such proposed rule change 
+                does not comply with the rules of the Commission 
+                relating to the required form of a proposed rule change, 
+                except that if the Commission determines that the 
+                proposed rule change is unusually lengthy and is complex 
+                or raises novel regulatory issues, the Commission shall 
+                inform the self-regulatory organization of such 
+                determination not later than 7 business days after the 
+                date of receipt by the Commission and, for the purposes 
+                of subparagraph (A), a proposed rule change has not been 
+                received by the Commission, if, not later than 21 days 
+                after the date of receipt by the Commission, the 
+                Commission notifies the self-regulatory organization 
+                that such proposed rule change does not comply with the 
+                rules of the Commission relating to the required form of 
+                a proposed rule change.''.
+            (2) Publication.--Section 19(b)(1) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78s(b)(1)) is amended by 
+        striking ``upon'' and inserting ``as soon as practicable after 
+        the date of''.
+
+    (c) Effective Date of Proposed Rules.--Section 19(b)(3) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78s(b)(3)) is amended--
+            (1) in subparagraph (A)--
+                    (A) by striking ``may take effect'' and inserting 
+                ``shall take effect''; and
+                    (B) by inserting ``on any person, whether or not the 
+                person is a member of the self-regulatory organization'' 
+                after ``charge imposed by the self-regulatory 
+                organization''; and
+            (2) in subparagraph (C)--
+                    (A) by amending the second sentence to read as 
+                follows: ``At any time &lt;&lt;NOTE: Time period.&gt;&gt;  within 
+                the 60-day period beginning on the date of filing of 
+                such a proposed rule change in accordance with the 
+                provisions of paragraph (1), the Commission summarily 
+                may temporarily suspend the change in the rules of the 
+                self-regulatory organization made thereby, if it appears 
+                to the Commission that such action is necessary or 
+                appropriate in the public interest, for the protection 
+                of investors, or otherwise in furtherance of the 
+                purposes of this title.'';
+                    (B) by inserting after the second sentence the 
+                following: ``If the Commission takes such action, the 
+                Commission shall institute proceedings under paragraph 
+                (2)(B) to determine whether the proposed rule should be 
+                approved or disapproved.''; and
+                    (C) in the third sentence, by striking ``the 
+                preceding sentence'' and inserting ``this 
+                subparagraph''.
+
+    (d) Conforming Change.--Section 19(b)(4)(D) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78s(b)(4)(D)) is amended to read as 
+follows:
+
+
+                    ``(D)(i) &lt;&lt;NOTE: Notification. Deadline.&gt;&gt;  The 
+                Commission shall order the temporary suspension of any 
+                change in the rules of a clearing agency made by a 
+                proposed rule change that has taken effect under 
+                paragraph (3), if the appropriate regulatory agency for 
+                the clearing agency notifies the Commission not later 
+                than 30 days after the date on which the proposed rule 
+                change was filed of--
+                          ``(I) the determination by the appropriate 
+                      regulatory agency that the rules of such clearing 
+                      agency, as so changed, may be inconsistent with 
+                      the safeguarding of securities or funds in the 
+                      custody or control of such clearing agency or for 
+                      which it is responsible; and
+                          ``(II) the reasons for the determination 
+                      described in subclause (I).
+                    ``(ii) If the Commission takes action under clause 
+                (i), the Commission shall institute proceedings under 
+                paragraph (2)(B) to determine if the proposed rule 
+                change should be approved or disapproved.''.
