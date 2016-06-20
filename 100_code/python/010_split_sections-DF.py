@@ -14,10 +14,9 @@ def replace_indents(text):
     return text
 
 # ------------------------------------------------------------------------- 
-def write_text_to_file(out_text, out_directory, line):
+def write_text_to_file(out_text, out_directory, current_section):
     # first, get the out_file_name
-    identifier = line.lstrip('SEC. ').split(' ')[0].rstrip('.')
-    out_file_name = out_directory + identifier + ".txt"
+    out_file_name = out_directory + current_section + ".txt"
 
     out_file = open(out_file_name, 'w')
     out_file.write(out_text)
@@ -47,11 +46,18 @@ if __name__ == '__main__':
     out_directory = sys.argv[2]
 
     out_text = ""
+    current_section = "2"
+
     for line in line_array:
+
         # for each new section, write out the previous out_text, reset it
         if 'SEC. ' in line and '``' not in line and out_text != "":
-            line = replace_indents(line)  # clean up the headers
-            write_text_to_file(out_text, out_directory, line)
+            # clean up the headers
+            line = replace_indents(line)  
+            # and write out the text
+            write_text_to_file(out_text, out_directory, current_section)
+            # then, reset out_text and current_section for new iteration
             out_text = ""
+            current_section = line.lstrip('SEC. ').split(' ')[0].rstrip('.')
         else:  # just append the line to the out_text that will be written at the next instance
             out_text += clean_text(line)

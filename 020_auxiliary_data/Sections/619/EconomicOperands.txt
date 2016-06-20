@@ -4,7 +4,6 @@
 5
 6
 9
-3 percent
 ability
 abuse
 accept
@@ -16,7 +15,6 @@ activity
 advantage
 advised
 advisory services
-affected
 affiliate
 agency
 agents
@@ -35,6 +33,7 @@ bona fide
 business
 capital
 capital charge
+capital requirements
 capital standards
 certification
 certified historic structure
@@ -51,12 +50,12 @@ commodity future
 Commodity Futures Trading Commission
 company
 comparability
-comparable
 completion
 conducted
 conflicts
 consistency
-consistent
+consult
+Consultation
 consumers
 contract
 contractual
@@ -73,6 +72,8 @@ covered transaction
 create
 customers
 date
+deadline
+demands of clients
 de minimis investment
 delivery
 demand
@@ -88,12 +89,15 @@ disadvantage
 disclose
 discount borrowing privileges
 dispose
+disposition
 diversification
 divest
 Divestiture
 domiciled
+due notice
 effect
 employee
+enactment
 engage
 engaging
 enter
@@ -160,8 +164,10 @@ internal controls
 invest
 investment
 investor
+in writing
 issuance
 issue
+issuing
 jurisdiction
 leverage
 liquidity facilities
@@ -196,6 +202,7 @@ opportunity
 option
 organized
 organizes
+Organizing
 outstanding
 ownership interest
 participations
@@ -230,6 +237,7 @@ quantitative limits
 real estate
 reasonable
 received
+Recommendations
 recordkeeping
 redemption
 Regulatory authority
@@ -260,9 +268,7 @@ serving
 share
 short-price movements
 size
-small
 sold
-sound
 soundness
 sponsor
 State
@@ -270,8 +276,12 @@ state regulatory authorities
 strategy
 subdivision
 subsidiary
+supervised
 tangible
 taxpayer
+term
+terminate
+Termination
 territories
 third parties
 Tier 1 capital
@@ -279,14 +289,159 @@ trading
 Trading account
 transaction
 transfer
+transition period
 trust
 trustees
 two-period
 underwriting
 United States
-unsafe
-unsound
 venture capital
 welfare
 withdraw
-years
+written guidance
+years 
+commercial firm
+gross revenues 
+annual
+affiliates 
+derived
+ownership 
+consolidated 
+INDUSTRIAL LOAN COMPANIES
+credit card bank
+industrial bank
+Corporation 
+November 23, 2009
+trust bank
+owned 
+commercial firm
+direct
+indirect
+danger
+default
+merger 
+cease
+regulatory
+Government Accountability Office 
+Comptroller General of the United States
+strengthen 
+stability 
+voting
+acquiring
+shareholder
+group
+acting in concert
+Comptroller General 
+regulator
+number
+geographic locations 
+extent
+companies
+commercial firms
+supervision
+regulatory framework
+category 
+cross-marketing
+consequences
+availability 
+allocation
+credit
+economy
+impact
+savings association
+committee on banking, housing, and urban affairs of the senate 
+committee on financial services of the house of representatives 
+functionally regulated
+subsidiaries
+bank holding companies
+board
+state regulatory agencies
+externally audited
+financial statements
+reported
+availability
+examinations 
+inform
+nature
+system 
+united states
+monitoring 
+regulators
+commencing
+duplication 
+reporting
+registration 
+futures commission merchant
+commodity trading adviser
+commodity pool
+commodity pool operator
+swap execution facility
+swap data repository
+swap dealer
+swaps
+swap participant
+end 
+merger
+consolidation
+nonbanks
+practices
+commence
+consolidated
+10,000,000,000
+convenience
+dollars
+savings and loan holding companies
+registered
+oversight
+board
+board of governors 
+federal reserve system
+functionally regulated subsidiary
+lead insured depository institution
+examine
+nondepository institution
+lead
+standards
+frequency
+state
+consultation
+state bank
+supervisor
+regulatory authority
+conducting
+alternating
+joint
+carries out
+examination authority
+backup
+conduct
+explanation
+concern
+60-day
+beginning
+end
+plan
+examine
+material threat
+pose
+duplucation
+achieve
+objective
+conflicting
+supervisory
+examination
+cost
+assessment
+fee
+charge
+responsibilities
+referrals
+inspections
+comptroller of the currency
+capitalized
+conduct
+criteria
+banks
+interstate
+continue
+investment adviser

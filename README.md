@@ -24,3 +24,6 @@ Features of the text such as bullets, definitions, references...
 Input: 010_cleaned_data/DODDFRANK.txt
 Run 100_code/python/002_regex_op
 
+# NEW ITERATION 2016-06-15
+python 100_code/python/010_split_sections-DF.py 010_cleaned_data/DODDFRANK.txt 010_cleaned_data/DoddFrank/Sections/
+
