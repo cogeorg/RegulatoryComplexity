@@ -1,0 +1,1 @@
+python "/Users/alilimon/Documents/Research/RegulatoryComplexity/100_code/python/xml_parser/xml_parser.py" -i  "/Users/alilimon/Documents/Research/RegulatoryComplexity/001_raw_data/htm/DODDFRANK.htm" -o  "/Users/alilimon/Documents/Research/RegulatoryComplexity/001_raw_data/htm/"
