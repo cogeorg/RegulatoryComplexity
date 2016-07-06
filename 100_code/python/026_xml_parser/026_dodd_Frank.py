@@ -1,7 +1,14 @@
 import string
+import re
+
+#Funtions:
+#   Main function: find_title, find_section, find_subtitle, find_part, find_bullet, find_subbullet, find_third_bullet
+#   Simple functions: check_sequence, check_paragraphs, check_sequence_numbers, check_sequence_upper, check_number,
+#                       check_upper, clean_note.
 
 
-#Basic functions to check:
+
+#Simple functions to check:
 
 def check_sequence(letter, names):
     """Check if the paragraph found is sequence of the last
@@ -110,7 +117,7 @@ def check_number(line):
         return False
 
 def check_clause(line):
-    if line[0]=="(" and (line[1]=="i" or line[1]=="v" or line[1]=="x"):
+    if line[0]=="(" and (line[1]=="i" or line[1]=="v" or line[1]=="x") :
         return True
     else:
         return False
@@ -295,12 +302,13 @@ def find_paragraph(line_list):
     names, list_aux, lines_section = [], [], []
     flag_new_sec = False
     for line in line_list:
-        if check_paragraph(line):
-            if check_sequence(line[:3],names):
+        if check_paragraph(line) and check_sequence(line[:3],names):
                 names.append(line)
                 flag_new_sec = True
                 if len(list_aux) >0:
                     lines_section.append(list_aux)
+                if len(names)>len(lines_section)+1:
+                    lines_section.append([])
         elif check_number(line):
             if flag_new_sec:
                 list_aux=[]
@@ -313,11 +321,106 @@ def find_paragraph(line_list):
                 names[-1] = names[-1] + " " + line
         else:
             list_aux.append(line)
-    if len(names)==len(lines_section)+1:
+    if len(list_aux) >0:
+        lines_section.append(list_aux)
+    if len(names)>len(lines_section):
+        lines_section.append([])
+    return names, lines_section
+
+def find_bullet(line_list):
+    names, list_aux, lines_section = [], [], []
+    flag_new_sec = False
+    for line in line_list:
+        if check_number(line):
+            if check_sequence_numbers(line[:4],names):
+                names.append(line)
+                flag_new_sec = True
+                if len(list_aux) >0:
+                    lines_section.append(list_aux)
+                if len(names)>len(lines_section)+1:
+                    lines_section.append([])
+        elif check_upper(line) or check_clause(line):
+            if flag_new_sec:
+                list_aux=[]
+                list_aux.append(line)
+                flag_new_sec=False
+            else:
+                list_aux.append(line)
+                flag_new_sec=False
+        elif flag_new_sec:
+                names[-1] = names[-1] + " " + line
+        else:
+            list_aux.append(line)
+    if len(list_aux) >0:
+        lines_section.append(list_aux)
+    if len(names)>len(lines_section):
+        lines_section.append([])
+    return names, lines_section
+
+def find_subbullet(line_list):
+    names, list_aux, lines_section = [], [], []
+    flag_new_sec = False
+    for line in line_list:
+        if check_upper(line) and check_sequence_upper(line[:3],names):
+                names.append(line)
+                flag_new_sec = True
+                if len(list_aux) >0:
+                    lines_section.append(list_aux)
+                if len(names)>len(lines_section)+1:
+                    lines_section.append([])
+        elif check_clause(line):
+            if flag_new_sec:
+                list_aux=[]
+                list_aux.append(line)
+                flag_new_sec=False
+            else:
+                list_aux.append(line)
+                flag_new_sec=False
+        elif flag_new_sec:
+                names[-1] = names[-1] + " " + line
+        else:
+            list_aux.append(line)
+    if len(list_aux) >0:
+        lines_section.append(list_aux)
+    if len(names)>len(lines_section):
+        lines_section.append([])
+    return names, lines_section
+
+def find_third_bullet(line_list):
+    names, list_aux, lines_section = [], [], []
+    flag_new_sec = False
+    for line in line_list:
+        if check_clause(line):
+            names.append(line)
+            flag_new_sec = True
+            if len(list_aux) >0:
+                lines_section.append(list_aux)
+            if len(names)>len(lines_section)+1:
+                    lines_section.append([])
+            if flag_new_sec:
+                list_aux=[]
+                list_aux.append(line)
+                flag_new_sec=False
+            else:
+                list_aux.append(line)
+                flag_new_sec=False
+        elif flag_new_sec:
+                names[-1] = names[-1] + " " + line
+        else:
+            list_aux.append(line)
+    if len(list_aux) >0:
+        lines_section.append(list_aux)
+    if len(names)>len(lines_section):
         lines_section.append([])
     return names, lines_section
 
 
+
+####Other functions
+def clean_note(note):
+    cleaned_note= re.sub(";NOTE", '', note)
+    cleaned_note= re.sub(":","", cleaned_note)
+    return cleaned_note.strip()
 
 
 
