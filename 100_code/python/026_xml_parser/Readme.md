@@ -18,11 +18,9 @@ NOTES:
 
   
 
-
-
-
 Shell (Runs the main python file)
- **RegulatoryComplexity/100_code/shells/003_parser_xml.sh**
+ **RegulatoryComplexity/100_code/shells/003_parser_xml.sh**  
+ note: *Change working directory (RegulatoryComplexity) at the top of the shell* 
 
 Input (Dodd-Frank regulatory document)
  **RegulatoryComplexity/001_raw_data/html/dodd_frank.html**
@@ -31,7 +29,7 @@ Output (Dodd-Frank xml document)
  **RegulatoryComplexity/010_cleaned_data/** -> dodd_frank.xml
 
 ### Files
-**RegulatoryComplexity/100_code/python/xml**
+**RegulatoryComplexity/100_code/python/xml**  
 1) tree.py  
 2) dodd_frank.py   
 3) xml_parser.py (main)
