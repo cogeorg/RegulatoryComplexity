@@ -1,159 +1,11 @@
-import string
+from item_functions import *
 import re
 
 
 # Functions:
-#   Main function: find_title, find_section, find_subtitle, find_part, find_bullet, find_subbullet, find_third_bullet
-#   Simple functions: check_sequence, check_paragraphs, check_sequence_numbers, check_sequence_upper, check_number,
-#                       check_upper, clean_note.
-
-
-def check_sequence(letter, names):
-    """Check if the paragraph found is sequence of the last
-    Args:
-        letter (string): paragraph found.
-        names (list of string): list of the paragraph names .
-
-    Returns:
-        Boolean: True/False
-        """
-    if names == []:
-        if letter[1] == 'a':
-            return True
-        else:
-            return False
-    else:
-        name = names[-1]
-        list_letter = list(string.ascii_lowercase)
-        i = 0
-        for element in list_letter:
-            if element == name[1]:
-                break
-            i += 1
-        return letter[1] == list_letter[i + 1]
-
-
-def check_sequence_upper(letter, names):
-    """Check if the bullet found is sequence of the last
-    Args:
-        letter (string): bullet found.
-        names (list of string): list of the paragraph names .
-
-    Returns:
-        Boolean: True/False
-        """
-    if names == []:
-        if letter[1] == 'A':
-            return True
-        else:
-            return False
-    else:
-        name = names[-1]
-        list_letter = list(string.ascii_lowercase)
-        i = 0
-        for element in list_letter:
-            if element.upper() == name[1]:
-                break
-            i += 1
-        return letter[1] == list_letter[i + 1].upper()
-
-
-def check_sequence_numbers(number, names):
-    """Check if the bullet found is sequence of the last
-
-    Args:
-        number (string): Section found.
-        names (list of string): list of the paragraph names .
-
-    Returns:
-        Boolean: True/False
-        """
-
-    if number[-1] == ")":
-        number = float(number[1:-1])
-    else:
-        number = float(number[1:-2])
-    if names == []:
-        if number == 1:
-            return True
-        else:
-            return False
-    else:
-        number_aux = names[-1]
-        if number_aux[3] == ")":
-            number_aux = float(number_aux[1:3]) + 1
-        else:
-            number_aux = float(number_aux[1]) + 1
-        return number == number_aux
-
-
-def check_paragraph(line):
-    """Check if the line is a paragraph
-
-    Args:
-        line (string): line of the text
-
-    Returns:
-        Boolean: True/False
-        """
-
-    if len(line) < 5:
-        return False
-    elif line[0] == "(" and line[1].isalpha() and not (line[1].isupper()) and line[2] == ")" and \
-            (line[4].isupper() or line[4] == "&"):
-        return True
-    else:
-        return False
-
-
-def check_number(line):
-    """Check if the line is a bullet
-
-    Args:
-        line (string): line of the text
-
-    Returns:
-        Boolean: True/False
-        """
-
-    if line[0] == "(" and line[1].isdigit() and line[2] == ")" and line[3] == " " or \
-            (line[0] == "(" and line[1].isdigit() and line[2].isdigit() and line[3] == ")" and line[4] == " "):
-        return True
-    else:
-        return False
-
-
-def check_clause(line):
-    roman_list = ["i", "v", "x"]
-    if line[0] == "(" and (line[1] in roman_list) and (line[2] in roman_list or line[2] == ")") and line[1].islower():
-        return True
-    else:
-        return False
-
-
-def check_upper(line):
-    if line[0] == "(" and line[1].isalpha() and line[1].isupper() and line[2] == ")":
-        return True
-    else:
-        return False
-
-
-def check_h_i(line_list):
-    if len(line_list) > 0:
-        line = line_list[-1]
-        if line[-1] == "-":
-            return False
-        else:
-            return True
-    else:
-        return True
-
-
-def check_proper_upper(line):
-    if line[:2] == "(A":
-        return True
-    else:
-        return False
+#           1) get_line_list
+#           2) find_item
+#           3) find_amended_item
 
 
 def get_line_list(file_name):
@@ -167,299 +19,124 @@ def get_line_list(file_name):
         lines_list: List of lines .
         """
     lines_list = []
-    list_delete = ['[[Page 124', '']
+    list_delete = ['[[Page 124']                              # Head of the source file pages
     flag = False
+    last_line = "last"                                        # Auxiliar variable to store the last line
     with open(file_name) as f:
         for line in f:
-            line_aux = line.decode('utf-8').strip()
-            if line[:9] == "TITLE I--":
-                flag = True  # Start to store since TITLE I, flag=True
-            if line_aux[:10] not in list_delete and flag:
-                lines_list.append(line_aux)
+            if re.match(r'^\s*$', line) is None:              # Filter empty lines (one or more spaces \s)
+                line_aux = line.decode('utf-8').strip()       # Strip line
+                if line[:9] == "TITLE I--":                   # Start to store from TITLE I, flag=True
+                    flag = True
+                if line_aux[:10] not in list_delete and flag:   # Filter line representing the head of the source file
+                    if check_same_sentence(last_line):          # Function to check if is a line continuation
+                        lines_list[-1] = lines_list[-1] + " " + line_aux  # if line continuation append to the last line
+                    else:
+                        lines_list.append(format_line(line_aux))   # if not a line cont. append to the list.
+                last_line = line_aux
     return lines_list
 
 
-def find_title(line_list):
-    """Finds the number of Titles from the list of lines. It creates two different
-    lists.
-        1) The first list is called names. Each element of the list is the name of the title
 
-        2) The second list is called lines_section. Each element of the list is a list which
-        represents the text of the child body (SEC/Subtitle/Part)
+def find_item(line_list, is_amended, item_type):
+    """Find_item is a "switch/case" function which finds the number of elements depending
+    the item_type.
 
+    It creates two different lists.
+        1) The first list is called names, which represents the names of the items.
+
+        2) The second list is called lines_section, which represents the body of the item.
+
+        For example: TITLE I FINANCIAL STABILITY (Name)
+                     SEC 1. Short Title          (Body)
+                     SEC 2. Definitions          (Body)
+                     ....
 
     The code checks for each line:
-        Case 1) line is the head of the title then append the line to the list of names (1)
-
-        Case 2) line is the head of the child (SEC/Subtitle/Part) then
-            append the line to the Text list (2).
-
-        Case 3) line is part of the title name then append the line to the name of
-         the title
-
-        Case 4) line is part of the SEC/Subtitle/Part body
-
-
-    Important variables:
-        flag_new_section (Boolean):
-            False then next SEC/Subtittle/Part is part of the new Title
-            True then next SEC/Subtittle/Part is  part of the old Title
-
-        note: It is also useful to identify lines which are part of the title name
+        Case 1) line is an item  (name)
+        Case 2) line is a child or descendant. (body)
+        Case 3) line is part of the item name. (name)
+        Case 4) line is part of the child/descendant. (body)
 
     Args:
-        lines_section (string): The cleaned list of lines from get_line_list.
+        lines_list (string list): The cleaned list of lines from get_line_list.
+        is_amended (boolean): True if you are looking for amended types/ False otherwise.
+        item_type (string): Name of the item type that you want to find.
 
     Returns:
-        names: List of the TITLE names.
-        lines_section: Nested lists of lines for each title
+        names: List of item's names.
+        lines_section: List of lists. Each nested list is linked to each item.
         """
-    names, list_aux, lines_section = [], [], []
-    flag_new_sec = True
-    for line in line_list:
-        if line[:5] == "TITLE":     # Case 1
-            names.append(line)      # list of titles.
-            flag_new_sec = True     # New title: True
-            if len(list_aux) > 0:   # Append the list of text related to the last title if it exists
-                lines_section.append(list_aux)
-        if line[:4] == "SEC." or line[:8] == "Subtitle" or line[:4] == "PART":  # Case 2)
-            if flag_new_sec:        # New title
-                list_aux = []       # New list of text
-                list_aux.append(line)   # Append "SEC/Subititle/Part" first line to the new list
-                flag_new_sec = False
-            else:                   # Actual title
-                list_aux.append(line)  # Append "SEC/Subititle/Part" first line to the actual list.
-                flag_new_sec = False
-        elif flag_new_sec:          # Case 3
-            names[-1] = names[-1] + " " + line
-        else:                       # Case 4
-            list_aux.append(line)
-    if len(list_aux) > 0:           # Append the list of text related to the last title
-        lines_section.append(list_aux) # Append to the list of list
-    return names, lines_section
 
-
-def find_subtitle(line_list):
     names, list_aux, lines_section = [], [], []
-    flag_new_sec, flag_subtitle = False, False
+    flag_new_item = False                            # Flag representing a new item.
+    flag_start_point = False                            # Flag representing the starting point. Algorithm starts to _
+    is_item_child = get_checker_functions(item_type)    # store lines when is found an item type. (Cond 1)
     for line in line_list:
-        if line[:9] == "Subtitle ":
-            names.append(line)
-            flag_new_sec = True
-            flag_subtitle = True
+        if len(is_item_child) == 3:                  # Necessary for the item "section".
+            if is_item_child[2](line):
+                break
+        if is_item_child[0](line, names, is_amended, list_aux):  # List of functions representing the necessary _
+            names.append(line)                                   # conditions to be an item. (Cond 1)
+            flag_new_item, flag_start_point = True, True         # New Item and start point.
             if len(list_aux) > 0:
-                lines_section.append(list_aux)
-        elif flag_subtitle:
-            if line[:4] == "SEC." or line[:5] == "PART ":
-                if flag_new_sec:
+                lines_section.append(list_aux)                   # Line belonging to the old item.
+                list_aux = []                                    # Restart line_aux for the new item
+            if len(names) > len(lines_section) + 1:              # In the case there is no body in the item _
+                lines_section.append([])                         # append an empty list.
+        elif flag_start_point:
+            if is_item_child[1](line):                           # List of function representing the necessary _
+                if flag_new_item:                                # conditions to be a child (Cond 2)
                     list_aux = []
-                    list_aux.append(line)
-                    flag_new_sec = False
+                    list_aux.append(line)                        # Append line to the list_aux, representing the body
+                    flag_new_item = False                        # Set flag new item as false
                 else:
-                    list_aux.append(line)
-                    flag_new_sec = False
-            elif flag_new_sec:
-                names[-1] = names[-1] + " " + line
+                    list_aux.append(line)                        # Old element then append line to the old list
+            elif flag_new_item:
+                names[-1] = names[-1] + " " + line               # Part of the item name (Cond 3)
             else:
-                list_aux.append(line)
-    if len(list_aux) > 0:
+                list_aux.append(line)                            # Part of the child/descendant (Cond 4)
+    if len(list_aux) > 0:                                        # Line belonging to the old item.
         lines_section.append(list_aux)
-    if len(names) > len(lines_section):
+    if len(names) > len(lines_section):                          # In the case there is no body in the item
         lines_section.append([])
     return names, lines_section
 
 
-def find_part(line_list):
-    names, list_aux, lines_section = [], [], []
-    flag_new_sec, flag_part = False, False
-    for line in line_list:
-        if line[:5] == "PART ":
-            names.append(line)
-            flag_new_sec = True
-            flag_part = True
-            if len(list_aux) > 0:
-                lines_section.append(list_aux)
-        elif flag_part:
-            if line[:4] == "SEC.":
-                if flag_new_sec:
-                    list_aux = []
-                    list_aux.append(line)
-                    flag_new_sec = False
-                else:
-                    list_aux.append(line)
-                    flag_new_sec = False
-            elif flag_new_sec:
-                names[-1] = names[-1] + " " + line
-            else:
-                list_aux.append(line)
-    if len(list_aux) > 0:
-        lines_section.append(list_aux)
-    if len(names) > len(lines_section):  # Text for the last title
-        lines_section.append([])
-    return names, lines_section
+def find_amended_item(text):
+    """Find_amended is a function which finds the amended elements.
+    Args:
+        text (string): Text of the node
 
+    Returns:
+        amended_text: amended text of the node.
+        """
 
-def find_sec(line_list):
-    names, list_aux, lines_section = [], [], []
-    flag_new_sec = False
-    for line in line_list:
-        if line[:9] == "Subtitle " or line[:5] == "PART ":
-            break
-        if line[:4] == "SEC.":
-            names.append(line)
-            flag_new_sec = True
-            if len(list_aux) > 0:
-                lines_section.append(list_aux)
-                list_aux = []
-            if len(names) > len(lines_section) + 1:
-                lines_section.append([])
-        elif check_paragraph(line) or check_number(line):
-            if flag_new_sec:
-                list_aux = []
-                list_aux.append(line)
-                flag_new_sec = False
-            else:
-                list_aux.append(line)
-                flag_new_sec = False
-        elif flag_new_sec:
-            names[-1] = names[-1] + " " + line
+    if len(re.findall(r"``SEC\.(.*?)''\.", text)) > 0:          # Find amended item of the form ``SEC. ... ''.
+        amended_text = re.findall(r"``SEC\.(.*?)''\.", text)
+        amended_text = "``SEC." + amended_text[0] + "''."
+    elif len(re.findall(r"``SEC\.(.*?)''\;\sand", text)) > 0:   # Find amended item of the form ``SEC. ... ''; and
+        amended_text = re.findall(r"``SEC\.(.*?)''\;\sand", text)
+        amended_text = "``SEC." + amended_text[0] + "''; and"
+    elif len(re.findall(r"``SEC\.(.*?)''\;", text)) > 0:        # Find amended item of the form ``SEC. ... '';
+        amended_text = re.findall(r"``SEC\.(.*?)''\;", text)
+        amended_text = "``SEC." + amended_text[0] + "'';"
+    elif len(re.findall(r"``\((.*?)''\.", text)) > 0:           # Find amended item of the form ``([A-Z0-9] ... ''.
+        amended_text = re.findall(r"``\((.*?)''\.", text)
+        if len(re.findall(r"``\((.*?)''\.", text)) > 1:
+            amended_text = "``(" + amended_text[0] + "''. " + "``(" + amended_text[1] + "''."   # Typo Dodd-Frank
         else:
-            list_aux.append(line)
-    if len(list_aux) > 0:
-        lines_section.append(list_aux)
-    if len(names) > len(lines_section):
-        lines_section.append([])
-    return names, lines_section
+            amended_text = "``(" + amended_text[0] + "''."
+    elif len(re.findall(r"``\((.*?)''\;\sand", text)) > 0:      # Find amended item of the form ``([A-Z0-9] ... ''; and
+        amended_text = re.findall(r"``\((.*?)''\;\sand", text)
+        amended_text = "``(" + amended_text[0] + "''; and"
+    elif len(re.findall(r"``\((.*?)''\;", text)) > 0:           # Find amended item of the form ``([A-Z0-9] ... '';
+        amended_text = re.findall(r"``\((.*?)''\;", text)
+        amended_text = "``(" + amended_text[0] + "'';"
+    else:
+        amended_text = ""
+    return amended_text
 
 
-def find_paragraph(line_list):
-    names, list_aux, lines_section = [], [], []
-    flag_new_sec = False
-    for line in line_list:
-        if check_paragraph(line) and check_sequence(line[:3], names) and check_h_i(list_aux):
-            names.append(line)
-            flag_new_sec = True
-            if len(list_aux) > 0:
-                lines_section.append(list_aux)
-                list_aux = []
-            if len(names) > len(lines_section) + 1:
-                lines_section.append([])
-        elif check_number(line):
-            if flag_new_sec:
-                list_aux = []
-                list_aux.append(line)
-                flag_new_sec = False
-            else:
-                list_aux.append(line)
-                flag_new_sec = False
-        elif flag_new_sec:
-            names[-1] = names[-1] + " " + line
-        else:
-            list_aux.append(line)
-    if len(list_aux) > 0:
-        lines_section.append(list_aux)
-    if len(names) > len(lines_section):
-        lines_section.append([])
-    return names, lines_section
-
-
-def find_bullet(line_list):
-    names, list_aux, lines_section = [], [], []
-    flag_new_sec = False
-    for line in line_list:
-        if check_number(line):
-            if check_sequence_numbers(line[:4], names):
-                names.append(line)
-                flag_new_sec = True
-                if len(list_aux) > 0:
-                    lines_section.append(list_aux)
-                    list_aux = []
-                if len(names) > len(lines_section) + 1:
-                    lines_section.append([])
-        elif check_upper(line) and check_proper_upper(line):
-            if flag_new_sec:
-                list_aux = []
-                list_aux.append(line)
-                flag_new_sec = False
-            else:
-                list_aux.append(line)
-                flag_new_sec = False
-        elif flag_new_sec:
-            names[-1] = names[-1] + " " + line
-        else:
-            list_aux.append(line)
-    if len(list_aux) > 0:
-        lines_section.append(list_aux)
-    if len(names) > len(lines_section):
-        lines_section.append([])
-    return names, lines_section
-
-
-def find_sub_bullet(line_list):
-    names, list_aux, lines_section = [], [], []
-    flag_new_sec = False
-    for line in line_list:
-        if check_upper(line) and check_sequence_upper(line[:3], names):
-            names.append(line)
-            flag_new_sec = True
-            if len(list_aux) > 0:
-                lines_section.append(list_aux)
-                list_aux = []
-            if len(names) > len(lines_section) + 1:
-                lines_section.append([])
-        elif check_clause(line):
-            if flag_new_sec:
-                list_aux = []
-                list_aux.append(line)
-                flag_new_sec = False
-            else:
-                list_aux.append(line)
-                flag_new_sec = False
-        elif flag_new_sec:
-            names[-1] = names[-1] + " " + line
-        else:
-            list_aux.append(line)
-    if len(list_aux) > 0:
-        lines_section.append(list_aux)
-    if len(names) > len(lines_section):
-        lines_section.append([])
-    return names, lines_section
-
-
-def find_third_bullet(line_list):
-    names, list_aux, lines_section = [], [], []
-    flag_new_sec = False
-    for line in line_list:
-        if check_clause(line):
-            names.append(line)
-            flag_new_sec = True
-            if len(list_aux) > 0:
-                lines_section.append(list_aux)
-                list_aux = []
-            if len(names) > len(lines_section) + 1:
-                lines_section.append([])
-            if flag_new_sec:
-                list_aux = []
-                list_aux.append(line)
-                flag_new_sec = False
-            else:
-                list_aux.append(line)
-                flag_new_sec = False
-        elif flag_new_sec:
-            names[-1] = names[-1] + " " + line
-        else:
-            list_aux.append(line)
-    if len(list_aux) > 0:
-        lines_section.append(list_aux)
-    if len(names) > len(lines_section):
-        lines_section.append([])
-    return names, lines_section
-
-
-# Other functions
-def clean_note(note):
-    cleaned_note = re.sub(";NOTE", '', note)
-    cleaned_note = re.sub(":", "", cleaned_note)
-    return cleaned_note.strip()
 
 

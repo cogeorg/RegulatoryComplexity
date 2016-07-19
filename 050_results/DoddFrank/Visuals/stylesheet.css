@@ -13,7 +13,7 @@ div.ex3 {
   padding-bottom: 0.2cm;
   text-indent: 50px;
 }
-div.ex4 {
+div.ex4 {  
   padding-bottom: 0.2cm;
   text-indent: 50px;
 }
@@ -35,6 +35,26 @@ div.ex7 {
 }
 
 div.ex8 {
+    padding-bottom: 0.2cm;
+    padding-left: 2cm;
+    text-indent: 50px;
+}
+
+
+div.ex9 {
+    padding-bottom: 0.2cm;
+    padding-left: 2cm;
+    text-indent: 50px;
+}
+
+
+div.ex10 {
+    padding-bottom: 0.2cm;
+    padding-left: 2cm;
+    text-indent: 50px;
+}
+
+div.ex11 {
     padding-bottom: 0.2cm;
     padding-left: 2cm;
     text-indent: 50px;
