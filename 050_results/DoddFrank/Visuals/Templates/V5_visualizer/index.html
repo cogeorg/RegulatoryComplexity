@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+
+<body>
+
+
+
+
+<article>
+
+</article>
+
+
+    <script type="text/javascript">
+    $.ajax({
+    type: "POST",
+    url: "run.py",
+     data: { param: 1}
+    }).done(function( o ) {
+      alert(1)
+    });
+
+
+    </script>
+
+
+</body>
+</html>

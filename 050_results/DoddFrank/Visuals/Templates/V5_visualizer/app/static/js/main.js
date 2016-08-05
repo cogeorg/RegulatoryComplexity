@@ -2,15 +2,27 @@
 /* The highlighter uses texthighlighter plugin https://github.com/mir3z/texthighlighter*/
 (function () {
 
+    var user_name="";
+
+    $('input[name="user_name"]').change(function(){
+        user_name = $('input[name="user_name"]').val();
+    });
+
+
+
      document.getElementById("mySidenav").style.width = "150px";
      var auxiliar = "";
 
+
+     $("#mySidenav").click(function(){
+            count =-1;
+     });
 
 
      $("#mySidenav a").click(function(){
             auxiliar = $(this).attr("id");
             load_html(auxiliar);
-            count =1;
+            count =-1;
      });
 
 
@@ -66,13 +78,14 @@
                         $(".custom-menu").hide(100);
                         count =1;
                     }else {
-                        if (count == 1) {
+                        var text = window.getSelection().toString()
+                        if (count == 1 && text!="") {
                             count += 1;
                         }
                         else  {
-                            hltr.setClick(false);
-                            hltr.setReady(true);
-                            count =1;
+                             hltr.setClick(false);
+                             hltr.setReady(true);
+                             count =1;
                         }
                     }
                 });
@@ -80,6 +93,7 @@
                 $('.custom-menu').click(function(event){
                      event.stopPropagation();
                 });
+
 
 
 
@@ -129,8 +143,14 @@
                              hltr.setReady(true);
                              break;
                          case "Update":
+                             if (user_name =="") {
+                                 alert("Invalid Username");
+                                 user_name = "no_name";
+                                 break;
+                             }
+                             var paramData = {wordList:list_high, user_name:  user_name};
                              $.getJSON('/_array2python', {
-                                wordlist: JSON.stringify(list_high)
+                                params: JSON.stringify(paramData)
                                  }, function(data){
                                         var words = data.words;
                                         var colors = data.colors;
