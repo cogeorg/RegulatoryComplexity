@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Dodd-Frank Visualization</title>
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/contextmenu.css')}}" />
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/TextHighlighter.js')}}"></script>
+
+</head>
+<body>
+
+<div id="divID">
+<ul id = "recipe" class='custom-menu'>
+  <li id="GrammaticalOperators" data-action = "GrammaticalOperators"><span>GrammaticalOperators </span></li>
+  <li id="LegalOperators" data-action = "LegalOperators"><span>LegalOperators</span></li>
+  <li id="LegalReferences" data-action = "LegalReferences"><span>LegalReferences</span></li>
+<li id="LogicalOperators" data-action = "LogicalOperators"><span>LogicalOperators</span></li>
+  <li id="RegulationOperators" data-action = "RegulationOperators"><span>RegulationOperators</span></li>
+  <li id="Attributes" data-action = "Attributes"><span>Attributes</span></li>
+<li id="EconomicOperand" data-action = "EconomicOperand"><span>EconomicOperand</span></li>
+  <li id="Other" data-action = "Other"><span>Other</span></li>
+  <li id="Update" data-action = "Update"><span>Update</span></li>
+  <li id="Remove" data-action = "Remove"><span>Remove</span></li>
+
+</ul>
+</div>
+
+
+
+<div id="mySidenav" class="sidenav" style="cursor:pointer">
+    <p id="Username" > {{ username }}</p>
+    <a id = "/title_1"> Title 1 </a>
+    <a id = "/title_2"> Title 2</a>
+    <a id = "/title_3"> Title 3</a>
+    <a id = "/title_4"> Title 4</a>
+    <a id = "/title_5"> Title 5</a>
+    <a id = "/title_6"> Title 6</a>
+    <a id = "/title_7"> Title 7</a>
+    <a id = "/title_8"> Title 8</a>
+    <a id = "/title_9"> Title 9</a>
+    <a id = "/title_10"> Title 10</a>
+    <a id = "/title_11"> Title 11</a>
+    <a id = "/title_12"> Title 12</a>
+    <a id = "/title_13"> Title 13</a>
+    <a id = "/title_14"> Title 14</a>
+    <a id = "/title_15"> Title 15</a>
+
+
+</div>
+
+
+<ul>
+    <li><a href = "/instructions"> Instructions</a></li>
+    <li><a href='/words'>Words Classified</a></li>
+    <li><a href='/logout'>Logout</a></li>
+</ul>
+
+
+
+
+<article>
+    <div id="dodd_frank">
+    <div id="result"></div>
+    </div>
+
+</article>
+
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js')}}"></script>
+
+
+</body>
+</html>

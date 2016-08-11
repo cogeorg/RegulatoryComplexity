@@ -1,0 +1,48 @@
+<html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+   ul#proList{list-style-position: inside}
+   li.item{list-style:none; padding:5px;}
+</style>
+</head>
+<body>
+    <div id="foo"></div>
+</body>
+<script>
+    (function(){
+        var types = {{ types|tojson}};
+        var word = {{ words|tojson}};
+
+        function makeUL(array, array2) {
+        // Create the list element:
+        var list = document.createElement('ul');
+
+        for(var i = 0; i < array.length; i++) {
+            // Create the list item:
+            var item = document.createElement('li');
+
+            // Set its contents:
+            text = array[i] + ", " + array2[i];
+            item.appendChild(document.createTextNode(text));
+
+            // Add it to the list:
+            list.appendChild(item);
+        }
+
+        // Finally, return the constructed list:
+        return list;
+        }
+
+
+        // Add the contents of options[0] to #foo:
+        document.getElementById('foo').appendChild(makeUL(word, types));
+
+    })();
+</script>
+</html>
+
+
+</html>
