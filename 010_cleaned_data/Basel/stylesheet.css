@@ -1,0 +1,148 @@
+span.GrammaticalOperators {
+    background-color:#554600;
+  }
+
+span.LegalOperators {
+    background-color:#806D15;
+}
+
+span.LegalReferences {
+    background-color:#D4C26A;
+}
+
+span.LogicalOperators {
+    background-color:#FFF0AA;
+}
+
+span.RegulationOperators {
+    background-color:#AA0739;
+}
+
+span.Attributes {
+    background-color:green;
+}
+
+span.EconomicOperand {
+    background-color:yellow;
+}
+
+span.Other {
+    background-color:red;
+}
+
+
+div.head {
+    padding-bottom: 0.5cm;
+    text-align: center;
+    font-weight: bold;
+}
+
+div.head_2 {
+    padding-bottom: 0.5cm;
+    font-weight: bold;
+}
+
+div.head_3 {
+    padding-bottom: 0.5cm;
+    font-weight: bold;
+}
+
+
+div.bullet:before {
+    content:"-";
+}
+
+div.bullet2:before {
+    content:"-";
+}
+
+
+
+
+div.bs1 {
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+div.bs2 {
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+div.paragraph {
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+div.subtitle {
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;   
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+
+
+div.part {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding-bottom: 0.2cm;
+  font-weight: bold;
+}
+
+
+div.head {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding-bottom: 0.5cm;
+    text-align: center;
+    font-weight: bold;
+}
+div.bs6 {
+  padding-bottom: 0.2cm;
+  padding-left: 1cm;
+  text-indent: 50px;
+}
+div.bs7 {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding-bottom: 0.2cm;
+  padding-left: 1.5cm;
+  text-indent: 50px;
+}
+
+div.bullet {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding-bottom: 0.2cm;
+  padding-left: 1.5cm;
+  text-indent: 50px;
+}
+
+div.foot {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;   
+  font-size:70%;
+  padding-bottom: 0.2cm;
+  padding-left: .5cm;
+}
+
+div.bullet2 {
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding-bottom: 0.2cm;
+  padding-left: 1.5cm;
+  text-indent: 75px;
+}
+
+
+div.basel{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align : justify;
+}
+
+div.verticalLine {
+    border-left: thick solid #ff0000;
+}
+
+div.frame {
+   padding-left: 2cm;
+}
+
+div.formula{
+    font-size: 0px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
