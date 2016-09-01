@@ -9,7 +9,6 @@ import os
 
 
 def main(argv):
-    argv.input
     # Get the text, line by line
     line_list = get_line_list(argv.input)
     # Set the root of the tree called Regulation
