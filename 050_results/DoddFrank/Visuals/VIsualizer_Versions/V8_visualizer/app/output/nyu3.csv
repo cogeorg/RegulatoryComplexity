@@ -1,0 +1,10 @@
+"(4) nonbank financial company definitions.-- (a) foreign nonbank financial company.-- the term ``foreign nonbank financial company'' means a company (other than a company that is, or is treated in the united states as, a bank holding company) that is--",RegulationOperators
+(4) nonbank financial company definitions.-- (a) foreign nonbank financial company.-- the term,GrammaticalOperators
+"swap data repository registered with the commission, or a board of trade designated",LogicalOperators
+farm credit system institution chartered and,RegulationOperators
+commodity futures trading commission,RegulationOperators
+u.s. nonbank financial company,Attributes
+based swap execution facility,EconomicOperand
+clearing agency (or parent,GrammaticalOperators
+foreign nonbank financial,GrammaticalOperators
+bank holding company,LegalOperators
