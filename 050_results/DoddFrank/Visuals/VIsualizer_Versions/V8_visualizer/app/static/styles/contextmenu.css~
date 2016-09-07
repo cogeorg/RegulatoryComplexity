@@ -98,6 +98,11 @@
  background-size: 10px 10px ;
 }
 
+#divID #Prueba {
+    background: url(img/Prueba.png) no-repeat 6px 50%;
+ background-size: 10px 10px ;
+}
+
 
 #divID #Update {
     background: url(img/Update.png) no-repeat 6px 50%;

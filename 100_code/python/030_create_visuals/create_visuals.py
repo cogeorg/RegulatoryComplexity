@@ -35,8 +35,8 @@ def main(argv):
     for data in data_title:
         for tag in tag_names:
             # divisions
-            data = re.sub('<' + tag_names[tag_names.index(tag)]
-                          ,' <div ' + tag_class[tag_names.index(tag)],data)
+            data = re.sub('<' + tag_names[tag_names.index(tag)] + ">"
+                            ,' <div ' + tag_class[tag_names.index(tag)] + "> ",data)
 
             #classes
             data = re.sub('</' + tag_names[tag_names.index(tag)]
@@ -49,7 +49,7 @@ def main(argv):
             mylist = re.findall(my_regex, data, flags=re.IGNORECASE)
             mylist = list(set(mylist))
             for word in mylist:
-                replacement = ' <span class="' + type[0] + '"> ' + word.replace(" ", "__") + ' </span> '
+                replacement = ' <span class="' + type + '"> ' + word.replace(" ", "__") + ' </span> '
                 data = data.replace(word, replacement)
 
         data = data.replace("__", " ")
@@ -63,8 +63,9 @@ def main(argv):
         """
 
         data = head + data + tail
-
+        
         filename = title_names[i].strip() + ".html"
+        filename = filename.replace("-- ", "--")
         f = open(argv.output + filename,'w')
         f.write(data)
         f.close()
@@ -77,7 +78,7 @@ def read_txt_files(file):
     for filename in glob.glob(file + '/*.txt'):
         key = filename.split("/")
         key = key[-1].replace(".txt","")
-        key = key.replace("LegalReferences_inside", "LegalReferences")
+        key = key.replace("_extra", "")
         f = open(filename, 'r')
         for element in f.readlines():
             aux_text = element.strip('\n')

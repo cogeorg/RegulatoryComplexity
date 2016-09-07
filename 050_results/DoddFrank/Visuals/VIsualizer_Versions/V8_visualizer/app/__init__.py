@@ -15,3 +15,4 @@ app.config['MAIL_USE_SSL'] = True
 
 
 from app import views
+from app import titles

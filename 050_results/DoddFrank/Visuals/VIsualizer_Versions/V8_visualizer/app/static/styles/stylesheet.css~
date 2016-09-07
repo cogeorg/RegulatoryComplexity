@@ -41,6 +41,10 @@ span.Other {
     background-color:red;
 }
 
+span.Prueba {
+    background-color:blue;
+}
+
 
 
 

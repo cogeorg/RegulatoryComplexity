@@ -22,7 +22,7 @@
         }});
 
 
-
+    /* Right Table double click feature*/
     $(document).on('dblclick', '#words li', function(){
         list_high.push($(this).text() + "_" + "white");
         flag = true;
@@ -32,82 +32,24 @@
         this.parentNode.removeChild(this);
         count=1;
     });
+    /* ******************** */
 
 
-        function removeUL(array){
-            for(var i = 0; i < array.length; i++) {
-                $('#words li').filter(function () {
-                    return $.text([this]) === array[i];
-                }).remove();
-            }
-        }
+    /* Load different titles*/
+    /* ******************** */
+    document.getElementById("mySidenav").style.width = "150px";
 
-        function makeUL(array, array2) {
-        // Create the list element:
-        var list = document.getElementById('words');
-            var first = document.createElement('li');
-            first.className= "li_words";
-            first.appendChild(document.createTextNode("Words Classified"));
-            list.appendChild(first);
-
-
-        for(var i = 0; i < array.length; i++) {
-            // Create the list item:
-            var item = document.createElement('li');
-            item.style.backgroundColor = array2[i];
-            // item.onclick = function() {this.parentNode.removeChild(this);}
-            // Set its contents:
-            text = array[i];
-            item.appendChild(document.createTextNode(text));
-
-            // Add it to the list:
-            list.appendChild(item);
-        }
-            return list;
-        }
-
-
-
-
-
-
-$(document).ready(function () {
-    $('.group').hide();
-    $('#div1').show();
-    $('#selectMe').change(function () {
-        $('.group').hide();
-        $('#'+$(this).val()).show();
-    })
-});
-
-
-
-
-
-    $(document).on({
-        ajaxStart: function() { $("body").addClass("loading");    },
-        ajaxStop: function() { $("body").removeClass("loading"); }
-    });
-
-
-     document.getElementById("mySidenav").style.width = "150px";
-     var auxiliar = "";
-
-
+    var auxiliar = "";
      $("#mySidenav").click(function(){
             count =-1;
      });
-
 
 
      $("#mySidenav a").click(function(){
             auxiliar = $(this).attr("id");
             load_html(auxiliar);
             count =-1;
-
-
      });
-
 
       function load_html(line){
       $(document).ready( function() {
@@ -136,10 +78,13 @@ $(document).ready(function () {
         });
         };
 
+        /* ******************** */
 
 
 
     /* Context menu for the document*/
+    /* ******************** */
+
     $(document).bind("contextmenu", function (event) {
 
                      // Avoid the real one
@@ -185,7 +130,13 @@ $(document).ready(function () {
                 });
 
 
+            /*
 
+            /* Put the proper classification names and colors
+             # case "Name":
+             # hltr.setColor(Color);
+             # Be sure to have the same number of cases and Names
+             */
 
                  $(".custom-menu li").click(function(){
 
@@ -239,7 +190,7 @@ $(document).ready(function () {
                              hltr.setColor("red");
                              hltr.setClick(true);
                              hltr.setReady(true);
-                             break;
+                         break;
                          case "Update":
                              var paramData = {wordList:list_high, user_name:  user_name};
                              $.getJSON('/_array2python', {
