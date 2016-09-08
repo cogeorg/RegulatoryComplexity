@@ -36,7 +36,6 @@
     <li id="Attributes" data-action = "Attributes"><span>Attributes</span></li>
     <li id="EconomicOperand" data-action = "EconomicOperand"><span>EconomicOperand</span></li>
     <li id="Other" data-action = "Other"><span>Other</span></li>
-    <li id="Prueba" data-action = "Prueba"><span>Prueba</span></li>
     <li id="Update" data-action = "Update"><span>Update</span></li>
     <li id="Remove" data-action = "Remove"><span>Remove</span></li>
 
