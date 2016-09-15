@@ -1,15 +1,13 @@
 import numpy
 
 
-word_class = {'GrammaticalOperators':'#554600',
-              'LegalOperators':'#806D15',
-              'LegalReferences':'#D4C26A',
-              'LogicalOperators':'#FFF0AA' ,
-              'RegulationOperators':'#AA0739',
-              'Attributes': 'green',
-              'Prueba':'blue',
-              'EconomicOperand' : 'yellow',
-              'Other': 'red',
+word_class = {'LogicalConnectors':'#8B69F9',
+              'RegulatoryOperators':'#C25FF8',
+              'EconomicOperands' : '#FFFF58',
+              'Attributes': '#FFE258',
+              'LegalReferences':'#AFAFAF',
+              'FunctionWords':'#696969' ,
+              'Other': '#A3A3A3',
               'white': 'white'}
 
 
