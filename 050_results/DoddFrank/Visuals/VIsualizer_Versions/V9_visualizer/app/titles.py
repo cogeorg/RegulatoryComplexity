@@ -40,7 +40,7 @@ def title_9_Y():
 
 @app.route('/title_10_Y')
 def title_10_Y():
-    return render_template('PreClass/TITLE X-- BUREAU OF CONSUMER FINANCIAL PROTECTION.html')
+    return render_template('PreClass/TITLE X--BUREAU OF CONSUMER FINANCIAL PROTECTION.html')
 
 @app.route('/title_11_Y')
 def title_11_Y():

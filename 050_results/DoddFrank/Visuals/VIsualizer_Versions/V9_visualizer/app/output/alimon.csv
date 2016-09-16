@@ -1,6 +1,11 @@
-incorporated or organized in a country other than the united states,LegalReferences
-nonbank financial company,RegulationOperators
-financial stability,Attributes
-agency.-- the,LegalReferences
-chairperson,LegalReferences
-sec,EconomicOperand
+claim,EconomicOperands
+covered financial,EconomicOperands
+in general,LegalReferences
+financial company,Attributes
+the corporation,FunctionWords
+in liquidating,LegalReferences
+the actual,RegulatoryOperators
+as receiver for,EconomicOperands
+orderly liquidation,Attributes
+bankruptcy code,LogicalConnectors
+incurred by,LogicalConnectors

@@ -63,7 +63,7 @@ def main(argv):
                                                                                              # regex
 
     # Find Subtitle references.
-    # For instance: subtitle subtitle A
+    # For instance: subtitle A
     regex = []
     regex.append(r'subtitle')
     ref_aux = []
@@ -73,7 +73,7 @@ def main(argv):
 
 
     # Find Section references.
-    # For instance: subsections (c) through (g)
+    # For instance: substitles (c) through (g)
     regex = []
     regex.append(r'subtitles')
     ref_aux = []
@@ -97,7 +97,7 @@ def main(argv):
     legal_references = get_list_legal(regex, ref_aux, ref_type, data_xml, legal_references)
 
     # Find Section references.
-    # For instance: subsections (c) through (g)
+    # For instance: subsection (c)
     regex = []
     regex.append(r'subsection')
     ref_aux = []

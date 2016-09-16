@@ -163,51 +163,45 @@
                      // This is the triggered action name
                      switch($(this).attr("data-action")) {
                          // A case for each action. Your actions here
-                         case "GrammaticalOperators":
+                             case "LogicalConnectors":
                              flag = true;
-                             hltr.setColor("#554600");
+                             hltr.setColor("#8B69F9");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "LegalOperators":
+                         case "RegulatoryOperators":
                              flag = true;
-                             hltr.setColor("#806D15");
+                             hltr.setColor("#C25FF8");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "LegalReferences":
+                         case "EconomicOperands":
                              flag = true;
-                             hltr.setColor("#D4C26A");
-                             hltr.setClick(true);
-                             hltr.setReady(true);
-                             break;
-                         case "LogicalOperators":
-                             flag = true;
-                             hltr.setColor("#FFF0AA");
-                             hltr.setClick(true);
-                             hltr.setReady(true);
-                             break;
-                         case "RegulationOperators":
-                             flag = true;
-                             hltr.setColor("#AA0739");
+                             hltr.setColor("#FFFF58");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
                          case "Attributes":
                              flag = true;
-                             hltr.setColor("green");
+                             hltr.setColor("#FFE258");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "EconomicOperand":
+                         case "LegalReferences":
                              flag = true;
-                             hltr.setColor("yellow");
+                             hltr.setColor("#AFAFAF");
+                             hltr.setClick(true);
+                             hltr.setReady(true);
+                             break;
+                         case "FunctionWords":
+                             flag = true;
+                             hltr.setColor("#696969");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
                          case "Other":
                              flag = true;
-                             hltr.setColor("red");
+                             hltr.setColor("#A3A3A3");
                              hltr.setClick(true);
                              hltr.setReady(true);
                          break;
