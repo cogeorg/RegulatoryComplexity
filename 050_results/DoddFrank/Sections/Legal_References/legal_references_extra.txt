@@ -1,0 +1,1868 @@
+PART I
+PART II
+PART III
+SEC. 1
+SEC. 10
+SEC. 1001
+SEC. 1002
+SEC. 101
+SEC. 1011
+SEC. 1012
+SEC. 1013
+SEC. 1014
+SEC. 1015
+SEC. 1016
+SEC. 1017
+SEC. 1018
+SEC. 102
+SEC. 1021
+SEC. 1022
+SEC. 1023
+SEC. 1024
+SEC. 1025
+SEC. 1026
+SEC. 1027
+SEC. 1028
+SEC. 1029
+SEC. 1031
+SEC. 1032
+SEC. 1033
+SEC. 1034
+SEC. 1035
+SEC. 1036
+SEC. 1037
+SEC. 1041
+SEC. 1042
+SEC. 1043
+SEC. 1044
+SEC. 1045
+SEC. 1046
+SEC. 1047
+SEC. 1048
+SEC. 1051
+SEC. 1052
+SEC. 1053
+SEC. 1054
+SEC. 1055
+SEC. 1056
+SEC. 1057
+SEC. 1058
+SEC. 1061
+SEC. 1062
+SEC. 1063
+SEC. 1064
+SEC. 1065
+SEC. 1066
+SEC. 1067
+SEC. 1071
+SEC. 1072
+SEC. 1073
+SEC. 1074
+SEC. 1075
+SEC. 1076
+SEC. 1077
+SEC. 1078
+SEC. 1079
+SEC. 1081
+SEC. 1082
+SEC. 1083
+SEC. 1084
+SEC. 1085
+SEC. 1086
+SEC. 1087
+SEC. 1088
+SEC. 1089
+SEC. 1090
+SEC. 1091
+SEC. 1092
+SEC. 1093
+SEC. 1094
+SEC. 1095
+SEC. 1096
+SEC. 1097
+SEC. 1098
+SEC. 1099
+SEC. 110
+SEC. 1100
+SEC. 1101
+SEC. 1102
+SEC. 1103
+SEC. 1104
+SEC. 1105
+SEC. 1106
+SEC. 1107
+SEC. 1108
+SEC. 1109
+SEC. 111
+SEC. 112
+SEC. 1124
+SEC. 1125
+SEC. 1126
+SEC. 113
+SEC. 114
+SEC. 115
+SEC. 116
+SEC. 117
+SEC. 118
+SEC. 119
+SEC. 120
+SEC. 1201
+SEC. 1202
+SEC. 1203
+SEC. 1204
+SEC. 1205
+SEC. 1206
+SEC. 1207
+SEC. 1208
+SEC. 1209
+SEC. 121
+SEC. 1210
+SEC. 122
+SEC. 123
+SEC. 13
+SEC. 1301
+SEC. 1302
+SEC. 1303
+SEC. 1304
+SEC. 1305
+SEC. 1306
+SEC. 14
+SEC. 1400
+SEC. 1401
+SEC. 1402
+SEC. 1403
+SEC. 1404
+SEC. 1405
+SEC. 1406
+SEC. 1411
+SEC. 1412
+SEC. 1413
+SEC. 1414
+SEC. 1415
+SEC. 1416
+SEC. 1417
+SEC. 1418
+SEC. 1419
+SEC. 1420
+SEC. 1421
+SEC. 1422
+SEC. 1431
+SEC. 1432
+SEC. 1433
+SEC. 1441
+SEC. 1442
+SEC. 1443
+SEC. 1444
+SEC. 1445
+SEC. 1446
+SEC. 1447
+SEC. 1448
+SEC. 1449
+SEC. 1450
+SEC. 1451
+SEC. 1452
+SEC. 1461
+SEC. 1462
+SEC. 1463
+SEC. 1464
+SEC. 1465
+SEC. 1471
+SEC. 1472
+SEC. 1473
+SEC. 1474
+SEC. 1475
+SEC. 1476
+SEC. 1481
+SEC. 1482
+SEC. 1483
+SEC. 1484
+SEC. 1491
+SEC. 1492
+SEC. 1493
+SEC. 1494
+SEC. 1495
+SEC. 1496
+SEC. 1497
+SEC. 1498
+SEC. 15
+SEC. 1501
+SEC. 1502
+SEC. 1503
+SEC. 1504
+SEC. 1505
+SEC. 1506
+SEC. 151
+SEC. 1510
+SEC. 1513
+SEC. 152
+SEC. 153
+SEC. 154
+SEC. 155
+SEC. 156
+SEC. 1601
+SEC. 161
+SEC. 1613
+SEC. 162
+SEC. 163
+SEC. 164
+SEC. 165
+SEC. 166
+SEC. 167
+SEC. 168
+SEC. 169
+SEC. 170
+SEC. 171
+SEC. 172
+SEC. 173
+SEC. 174
+SEC. 175
+SEC. 176
+SEC. 201
+SEC. 202
+SEC. 203
+SEC. 204
+SEC. 205
+SEC. 206
+SEC. 207
+SEC. 208
+SEC. 209
+SEC. 21
+SEC. 210
+SEC. 211
+SEC. 212
+SEC. 213
+SEC. 214
+SEC. 215
+SEC. 216
+SEC. 217
+SEC. 223
+SEC. 224
+SEC. 23
+SEC. 26
+SEC. 27
+SEC. 3
+SEC. 300
+SEC. 301
+SEC. 302
+SEC. 307
+SEC. 311
+SEC. 312
+SEC. 313
+SEC. 314
+SEC. 315
+SEC. 316
+SEC. 317
+SEC. 318
+SEC. 319
+SEC. 321
+SEC. 322
+SEC. 323
+SEC. 324
+SEC. 325
+SEC. 326
+SEC. 327
+SEC. 331
+SEC. 332
+SEC. 333
+SEC. 334
+SEC. 335
+SEC. 336
+SEC. 341
+SEC. 342
+SEC. 343
+SEC. 35
+SEC. 351
+SEC. 352
+SEC. 353
+SEC. 354
+SEC. 355
+SEC. 356
+SEC. 357
+SEC. 358
+SEC. 359
+SEC. 360
+SEC. 361
+SEC. 362
+SEC. 363
+SEC. 364
+SEC. 365
+SEC. 366
+SEC. 367
+SEC. 368
+SEC. 369
+SEC. 370
+SEC. 371
+SEC. 372
+SEC. 373
+SEC. 374
+SEC. 375
+SEC. 376
+SEC. 377
+SEC. 378
+SEC. 38
+SEC. 39
+SEC. 4
+SEC. 401
+SEC. 402
+SEC. 403
+SEC. 404
+SEC. 405
+SEC. 406
+SEC. 407
+SEC. 408
+SEC. 409
+SEC. 410
+SEC. 411
+SEC. 412
+SEC. 413
+SEC. 414
+SEC. 415
+SEC. 416
+SEC. 417
+SEC. 418
+SEC. 419
+SEC. 5
+SEC. 501
+SEC. 502
+SEC. 511
+SEC. 512
+SEC. 5136
+SEC. 521
+SEC. 522
+SEC. 523
+SEC. 524
+SEC. 525
+SEC. 526
+SEC. 527
+SEC. 531
+SEC. 532
+SEC. 533
+SEC. 541
+SEC. 542
+SEC. 6
+SEC. 601
+SEC. 602
+SEC. 603
+SEC. 604
+SEC. 605
+SEC. 606
+SEC. 607
+SEC. 608
+SEC. 609
+SEC. 610
+SEC. 611
+SEC. 612
+SEC. 613
+SEC. 614
+SEC. 615
+SEC. 616
+SEC. 617
+SEC. 618
+SEC. 619
+SEC. 620
+SEC. 621
+SEC. 622
+SEC. 623
+SEC. 624
+SEC. 625
+SEC. 626
+SEC. 627
+SEC. 628
+SEC. 68
+SEC. 701
+SEC. 703
+SEC. 704
+SEC. 711
+SEC. 712
+SEC. 713
+SEC. 714
+SEC. 715
+SEC. 716
+SEC. 717
+SEC. 718
+SEC. 719
+SEC. 720
+SEC. 721
+SEC. 722
+SEC. 723
+SEC. 724
+SEC. 725
+SEC. 726
+SEC. 727
+SEC. 728
+SEC. 729
+SEC. 730
+SEC. 731
+SEC. 732
+SEC. 733
+SEC. 734
+SEC. 735
+SEC. 736
+SEC. 737
+SEC. 738
+SEC. 739
+SEC. 740
+SEC. 741
+SEC. 742
+SEC. 743
+SEC. 744
+SEC. 745
+SEC. 746
+SEC. 747
+SEC. 748
+SEC. 749
+SEC. 750
+SEC. 751
+SEC. 752
+SEC. 753
+SEC. 754
+SEC. 761
+SEC. 762
+SEC. 763
+SEC. 764
+SEC. 765
+SEC. 766
+SEC. 767
+SEC. 768
+SEC. 769
+SEC. 770
+SEC. 771
+SEC. 772
+SEC. 773
+SEC. 774
+SEC. 801
+SEC. 802
+SEC. 803
+SEC. 804
+SEC. 805
+SEC. 806
+SEC. 807
+SEC. 808
+SEC. 809
+SEC. 810
+SEC. 811
+SEC. 812
+SEC. 813
+SEC. 814
+SEC. 901
+SEC. 911
+SEC. 912
+SEC. 913
+SEC. 914
+SEC. 915
+SEC. 916
+SEC. 917
+SEC. 918
+SEC. 919
+SEC. 920
+SEC. 921
+SEC. 922
+SEC. 923
+SEC. 924
+SEC. 925
+SEC. 926
+SEC. 927
+SEC. 928
+SEC. 929
+SEC. 931
+SEC. 932
+SEC. 933
+SEC. 934
+SEC. 935
+SEC. 936
+SEC. 937
+SEC. 938
+SEC. 939
+SEC. 941
+SEC. 942
+SEC. 943
+SEC. 944
+SEC. 945
+SEC. 946
+SEC. 951
+SEC. 952
+SEC. 953
+SEC. 954
+SEC. 955
+SEC. 956
+SEC. 957
+SEC. 961
+SEC. 962
+SEC. 963
+SEC. 964
+SEC. 965
+SEC. 966
+SEC. 967
+SEC. 968
+SEC. 971
+SEC. 972
+SEC. 975
+SEC. 976
+SEC. 977
+SEC. 978
+SEC. 979
+SEC. 981
+SEC. 982
+SEC. 983
+SEC. 984
+SEC. 985
+SEC. 986
+SEC. 987
+SEC. 988
+SEC. 989
+SEC. 991
+Subtitle A
+Subtitle B
+Subtitle C
+Subtitle D
+Subtitle E
+Subtitle F
+Subtitle G
+Subtitle H
+Subtitle I
+Subtitle J
+TITLE I
+TITLE II
+TITLE III
+TITLE IV
+TITLE IX
+TITLE V
+TITLE VI
+TITLE VII
+TITLE VIII
+TITLE X
+TITLE XI
+TITLE XII
+TITLE XIII
+TITLE XIV
+TITLE XV
+TITLE XVI
+clause (i)
+clause (ii)
+clause (iii)
+clause (iv)
+clause (v)
+clause (vi)
+clause (vii)
+clause (xi)
+clauses (i) and (ii)
+clauses (i) through (iii)
+clauses (i) through (iv)
+clauses (i) through (ix)
+clauses (i) through (v)
+clauses (i) through (vi)
+clauses (i) through (vii)
+clauses (i), (ii), and (iii)
+clauses (ii) and (iii)
+clauses (ii), (iii), and (iv)
+clauses (iii) and (iv)
+clauses (iii), (iv), and (v)
+paragraph (1)
+paragraph (1) or (2)
+paragraph (1) or (3)
+paragraph (1) or (7)
+paragraph (1)(A)
+paragraph (1)(B)
+paragraph (10)
+paragraph (10)(A)
+paragraph (10)(B)
+paragraph (11)
+paragraph (12)
+paragraph (12)(A)
+paragraph (12)(B)
+paragraph (13)
+paragraph (13)(A)
+paragraph (13)(B)
+paragraph (14)
+paragraph (15)
+paragraph (15)(A)
+paragraph (16)
+paragraph (17)
+paragraph (17)(A)
+paragraph (18)
+paragraph (18)(A)
+paragraph (18)(B)
+paragraph (2)
+paragraph (2)(A)
+paragraph (2)(B)
+paragraph (22)
+paragraph (23)
+paragraph (28)
+paragraph (29)
+paragraph (3)
+paragraph (3) or (5)
+paragraph (3)(A)
+paragraph (3)(B)
+paragraph (30)
+paragraph (31)
+paragraph (38)
+paragraph (39)
+paragraph (4)
+paragraph (4)(A)
+paragraph (4)(B)
+paragraph (40)
+paragraph (41)
+paragraph (46)
+paragraph (47)
+paragraph (47)(B)
+paragraph (5)
+paragraph (5) or (6)
+paragraph (5)(A)
+paragraph (5)(B)
+paragraph (51)
+paragraph (53)
+paragraph (53)(A)
+paragraph (6)
+paragraph (6)(B)
+paragraph (68)
+paragraph (7)
+paragraph (8)
+paragraph (8)(A)
+paragraph (9)
+paragraph (9) or (10)
+paragraph (9) or (13)
+paragraph (9)(A)
+paragraphs (1) and (2)
+paragraphs (1) and (3)
+paragraphs (1) and (4)
+paragraphs (1) through (3)
+paragraphs (1) through (4)
+paragraphs (1) through (5)
+paragraphs (1) through (6)
+paragraphs (1) through (7)
+paragraphs (1) through (8)
+paragraphs (13) and (14)
+paragraphs (2) and (3)
+paragraphs (2) through (12)
+paragraphs (2) through (4)
+paragraphs (2) through (5)
+paragraphs (2) through (7)
+paragraphs (2) through (8)
+paragraphs (3) and (32)
+paragraphs (3) and (4)
+paragraphs (3) through (11)
+paragraphs (3) through (5)
+paragraphs (3) through (6)
+paragraphs (3) through (9)
+paragraphs (4) and (5)
+paragraphs (4) through (12)
+paragraphs (4) through (9)
+paragraphs (5) and (6)
+paragraphs (5) through (7)
+paragraphs (7) and (11)
+paragraphs (9) and (10)
+section 1
+section 1 (12 U.S.C. 1461)
+section 1(b)
+section 1(b)(4)
+section 1(b)(4) (12 U.S.C. 1861(b)(4))
+section 1(b)(5)
+section 1(b)(7)
+section 10
+section 10 (12 U.S.C. 1467a)
+section 10 (12 U.S.C. 1820)
+section 10 (15 U.S.C. 78j)
+section 10(a)
+section 10(a)(1)
+section 10(a)(2)
+section 10(c)
+section 10(c)(9)
+section 10(c)(9)(A)
+section 1001
+section 1002
+section 1006
+section 101
+section 101(c)
+section 101(e)
+section 1011
+section 1013
+section 1013(a)
+section 1013(a)(2)
+section 1013(a)(2)(B)
+section 1013(b)
+section 1013(b)(3)
+section 1014
+section 102
+section 102(a)
+section 102(a)(4)
+section 102(d)
+section 102(e)
+section 1022
+section 1022(c)
+section 1023
+section 1024
+section 1024(c)
+section 1024(c)(1)
+section 1025
+section 1025(a)
+section 1025(a)(1)
+section 1025(c)
+section 1026
+section 1026(a)
+section 1027
+section 1027(a)
+section 1027(a)(2)
+section 1027(a)(2)(A)
+section 1029
+section 1029(a)
+section 103
+section 103 (12 U.S.C. 2702)
+section 103 (15 U.S.C. 1602)
+section 103(a)
+section 103(aa)
+section 103(aa)(4)
+section 1031
+section 1032
+section 104
+section 104 (12 U.S.C. 2703)
+section 104(a)
+section 104(b)
+section 104(d)
+section 104(e)
+section 1042
+section 1042(a)
+section 105
+section 105 (12 U.S.C. 2704)
+section 105 (15 U.S.C. 1604)
+section 105(a)
+section 105(a) (15 U.S.C. 1604(a))
+section 105(a)(20)
+section 105(b)
+section 105(b) (15 U.S.C. 1604(b))
+section 105(b)(3)
+section 105(c)
+section 105(c)(1)
+section 105(c)(4)
+section 105(f)
+section 105(f)(1)
+section 105(f)(1) (15 U.S.C. 1604(f)(1))
+section 105(i)
+section 106
+section 106(a)
+section 106(a)(4)
+section 106(e)
+section 106(g)
+section 106(g)(1)
+section 1061
+section 1061(b)
+section 1061(b)(5)
+section 1062
+section 1064
+section 1064(i)
+section 1064(i)(1)
+section 107
+section 107(a)
+section 107(b)
+section 1076
+section 108
+section 108 (12 U.S.C. 2707)
+section 108 (15 U.S.C. 1604)
+section 108(c)
+section 1083
+section 109
+section 109 (12 U.S.C. 2708)
+section 1099
+section 11
+section 11 (12 U.S.C. 1468)
+section 11 (12 U.S.C. 1821)
+section 11(a)
+section 11(a)(1)
+section 11(a)(2)
+section 11(a)(2) (12 U.S.C. 248(a)(2))
+section 11(a)(4)
+section 11(c)
+section 11(c)(5)
+section 11(e)
+section 11(k)
+section 11(l)
+section 11(r)
+section 11(r)(2)
+section 11(s)
+section 110
+section 110(b)
+section 110(b)(2)
+section 1101
+section 1103
+section 1103(a)
+section 1103(a) (12 U.S.C. 3332(a))
+section 1104
+section 1105
+section 1105(a)
+section 1105(c)
+section 1109
+section 1112
+section 1112(e)
+section 1112(e) (12 U.S.C. 3412(e))
+section 1113
+section 1113 (12 U.S.C. 3413)
+section 1117
+section 112
+section 112 (12 U.S.C. 2711)
+section 112(b)
+section 1121
+section 1122
+section 1124
+section 1125
+section 1125(c)
+section 113
+section 113(a)
+section 113(b)
+section 113(e)
+section 113(e)(3)
+section 1132
+section 115
+section 115(c)
+section 119
+section 12
+section 12 (12 U.S.C. 1468a)
+section 12(d)
+section 12(d)(1)
+section 12(f)
+section 12(i)
+section 12(i) (15 U.S.C. 78l(i))
+section 12(k)
+section 12(k) (15 U.S.C. 78l(k))
+section 120
+section 1204
+section 1204(c)
+section 1204(c)(3)
+section 1205
+section 1205(b)
+section 1206
+section 1206 (12 U.S.C. 1833b)
+section 121
+section 121(k)
+section 1216
+section 1216 (12 U.S.C. 1833e)
+section 1221
+section 1254
+section 1256
+section 127
+section 128
+section 128(a)
+section 129
+section 129 (15 U.S.C. 1639)
+section 129 (15 U.S.C. 1639a)
+section 129(m)
+section 1291
+section 13
+section 13 (12 U.S.C. 1468a)
+section 13(a)
+section 13(b)
+section 13(b)(1)
+section 13(b)(1) (15 U.S.C. 78m(b)(1))
+section 13(c)
+section 13(c)(4)
+section 13(f)
+section 13(k)
+section 13(k)(1)
+section 13(k)(1)(A)
+section 13(m)
+section 13(m)(2)
+section 13(n)
+section 13(p)
+section 13(p)(1)
+section 13(p)(1)(A)
+section 130
+section 1301
+section 1303
+section 1315
+section 1315(b)
+section 1315(b) (12 U.S.C. 4515(b))
+section 1317
+section 1317(c)
+section 1317(c) (12 U.S.C. 4517(c))
+section 1348
+section 1361
+section 1367
+section 14
+section 14 (15 U.S.C. 78n)
+section 140
+section 140(d)
+section 1401
+section 1402
+section 1402 (15 U.S.C. 1701)
+section 1402(a)
+section 1402(b)
+section 1403
+section 1404
+section 141
+section 141(f)
+section 1411
+section 1416
+section 1416(a)
+section 1416(a) (15 U.S.C. 1715(a))
+section 1444
+section 1461
+section 1461(a)
+section 1461(c)
+section 1464
+section 1464(b)
+section 1472
+section 1473
+section 1473(g)
+section 15
+section 15 (15 U.S.C. 78o)
+section 15(b)
+section 15(b)(1)
+section 15(b)(11)
+section 15(c)
+section 15(c)(1)
+section 15(c)(1)(A)
+section 15(c)(3)
+section 15(c)(5)
+section 15(d)
+section 150
+section 150(d)
+section 150(d)(2)
+section 1502
+section 1503
+section 1503 (12 U.S.C. 5102)
+section 1507
+section 1507 (12 U.S.C. 5106)
+section 1507(a)
+section 1507(a)(1)
+section 1508
+section 1508 (12 U.S.C. 5107)
+section 1509
+section 1510
+section 1510 (12 U.S.C. 5109)
+section 1513
+section 1513 (12 U.S.C. 5112)
+section 1513(e)
+section 1514
+section 1514 (12 U.S.C. 5113)
+section 1517
+section 152
+section 153
+section 154
+section 154(b)
+section 154(b)(1)
+section 154(b)(1)(B)
+section 158
+section 158(a)
+section 158(b)
+section 16
+section 16 (12 U.S.C. 2614)
+section 16 (15 U.S.C. 78p)
+section 165
+section 165(a)
+section 165(d)
+section 167
+section 167(b)
+section 167(b)(2)
+section 17
+section 17(a)
+section 17(b)
+section 17(b)(1)
+section 17(b)(1)(B)
+section 17(e)
+section 17(e)(1)
+section 17(e)(1)(A)
+section 17(f)
+section 17(f) (15 U.S.C. 80a-17(f))
+section 18
+section 18 (12 U.S.C. 1828)
+section 18 (12 U.S.C. 2616)
+section 18 (15 U.S.C. 77r)
+section 18(a)
+section 18(a)(1)
+section 18(a)(1)(B)
+section 18(a)(4)
+section 18(c)
+section 19
+section 19 (12 U.S.C. 2617)
+section 19(a)
+section 19(b)
+section 19(b) (12 U.S.C. 461(b))
+section 19(b)(1)
+section 19(b)(1)(A)
+section 19(b)(2)
+section 19(b)(7)
+section 19(d)
+section 19(d)(6)
+section 19(d)(6)(A)
+section 19(e)
+section 19(e) (12 U.S.C. 1829(e))
+section 2
+section 2 (12 U.S.C. 1462)
+section 2 (12 U.S.C. 1881)
+section 2 (15 U.S.C. 78b)
+section 2(a)
+section 2(a)(1)
+section 2(a)(1)(A)
+section 2(a)(11)
+section 2(a)(13)
+section 2(a)(19)
+section 2(a)(4)
+section 2(a)(44)
+section 2(a)(5)
+section 2(b)
+section 2(c)
+section 2(c)(2)
+section 2(c)(2)(B)
+section 2(f)
+section 2(h)
+section 2(h)(1)
+section 2(h)(3)
+section 2(h)(4)
+section 2(h)(5)
+section 2(h)(7)
+section 2(h)(8)
+section 2(h)(8)(B)
+section 2(j)
+section 2(j)(3)
+section 2(j)(3) (12 U.S.C. 1841(j)(3))
+section 2(o)
+section 2(o)(8)
+section 2(p)
+section 20
+section 20 (15 U.S.C. 78t)
+section 20 (7 U.S.C. 24)
+section 201
+section 201(a)
+section 201(a)(11)
+section 201(f)
+section 202
+section 202(a)
+section 202(a)(1)
+section 202(a)(1)(A)
+section 202(a)(11)
+section 202(c)
+section 202(c)(1)
+section 202(c)(1)(A)
+section 203
+section 203 (12 U.S.C. 1709)
+section 203 (15 U.S.C. 80b-3)
+section 203(a)
+section 203(b)
+section 203(c)
+section 203(c)(2)
+section 203(c)(2)(A)
+section 203(c)(3)
+section 203(d)
+section 203(m)
+section 204
+section 204(b)
+section 204(d)
+section 205
+section 205 (12 U.S.C. 1785)
+section 205(a)
+section 205(a)(1)
+section 205(b)
+section 205(e)
+section 205(f)
+section 206
+section 206(b)
+section 206(e)
+section 206(g)
+section 206(g)(7)
+section 206(g)(7) (12 U.S.C. 1786(g)(7))
+section 207
+section 207 (12 U.S.C. 3206)
+section 207(k)
+section 207(k)(1)
+section 208
+section 208(n)
+section 208(n)(5)
+section 209
+section 209 (12 U.S.C. 3207)
+section 21
+section 21(d)
+section 21(e)
+section 21(h)
+section 21(h)(2)
+section 21(h)(2) (15 U.S.C. 78u(h)(2))
+section 210
+section 210(a)
+section 210(a) (12 U.S.C. 3208(a))
+section 210(a)(1)
+section 210(a)(1)(A)
+section 210(a)(2)
+section 210(a)(5)
+section 210(b)
+section 210(b)(1)
+section 210(c)
+section 210(c)(10)
+section 210(c)(10)(B)
+section 210(c)(8)
+section 210(h)
+section 210(n)
+section 210(n)(14)
+section 210(n)(9)
+section 2105
+section 211
+section 211(d)
+section 2112
+section 212
+section 212(c)
+section 212(c)(2)
+section 213
+section 213(a)
+section 213(a) (15 U.S.C. 80b-13(a))
+section 214
+section 214(b)
+section 214(e)
+section 214(e)(1)
+section 215
+section 217
+section 22
+section 22(h)
+section 220
+section 220(d)
+section 220(d)(2)
+section 222
+section 225
+section 229
+section 23
+section 23(b)
+section 23(b)(1)
+section 23(b)(1) (15 U.S.C. 78w(b)(1))
+section 23(c)
+section 23(c)(4)
+section 23(c)(4) (42 U.S.C. 1437u(c)(4))
+section 230
+section 2301
+section 2301(a)
+section 2301(b)
+section 2301(c)
+section 2302
+section 2302(b)
+section 2302(b)(11)
+section 232
+section 232(a)
+section 232(a)(3)
+section 233
+section 233(b)
+section 233(b)(2)
+section 237
+section 237 (12 U.S.C. 1715z-2)
+section 24
+section 24(f)
+section 240
+section 25
+section 2539
+section 2539(c)
+section 2539(c)(2)
+section 255
+section 255 (12 U.S.C. 1715z- 20)
+section 2554
+section 2554(b)
+section 2554(b)(2)
+section 27
+section 270
+section 270(a)
+section 270(a) (12 U.S.C. 4309)
+section 272
+section 272(b)
+section 272(b) (12 U.S.C. 4311(b))
+section 272(b) (12 U.S.C. 4311)
+section 274
+section 274 (12 U.S.C. 4313)
+section 2791
+section 28
+section 28 (12 U.S.C. 1831e)
+section 28(d)
+section 28(e)
+section 3
+section 3 (12 U.S.C. 1462a)
+section 3 (12 U.S.C. 1813)
+section 3 (12 U.S.C. 1882)
+section 3 (12 U.S.C. 2602)
+section 3 (15 U.S.C. 78c)
+section 3(a)
+section 3(a)(10)
+section 3(a)(12)
+section 3(a)(13)
+section 3(a)(2)
+section 3(a)(34)
+section 3(a)(4)
+section 3(a)(4) (15 U.S.C. 77c(a)(4))
+section 3(a)(47)
+section 3(a)(5)
+section 3(a)(68)
+section 3(a)(68)(A)
+section 3(a)(77)
+section 3(a)(78)
+section 3(a)(8)
+section 3(b)
+section 3(b)(2)
+section 3(b)(3)
+section 3(c)
+section 3(c) (15 U.S.C. 80a-3(c))
+section 3(c)(1)
+section 3(c)(2)
+section 3(e)
+section 3(e)(2)
+section 3(f)
+section 3(q)
+section 3(q)(1)
+section 3(q)(2)
+section 3(s)
+section 301
+section 302
+section 302(a)
+section 302(a)(4)
+section 302(b)
+section 302(b)(6)
+section 303
+section 303 (12 U.S.C. 2802)
+section 303 (15 U.S.C. 77ccc)
+section 303(f)
+section 304
+section 304 (12 U.S.C. 2803)
+section 304(b)
+section 304(c)
+section 304(c)(4)
+section 305
+section 305 (12 U.S.C. 2804)
+section 305(a)
+section 305(a)(2)
+section 306
+section 306 (12 U.S.C. 2805(b))
+section 307
+section 307 (12 U.S.C. 2806)
+section 308
+section 308 (15 U.S.C. 77hhh)
+section 308(b)
+section 31
+section 310
+section 310 (15 U.S.C. 77jjj)
+section 3109
+section 3109(b)
+section 311
+section 311 (15 U.S.C. 77kkk)
+section 3114
+section 312
+section 312(b)
+section 312(b)(1)
+section 312(b)(1)(A)
+section 312(b)(2)
+section 312(b)(2)(B)
+section 313
+section 3132
+section 3132(a)
+section 3132(a)(7)
+section 314
+section 315
+section 317
+section 317(a)
+section 317(a)(1)
+section 32
+section 32(a)
+section 32(e)
+section 32(e)(4)
+section 321
+section 322
+section 323
+section 323(b)
+section 325
+section 326
+section 326 (15 U.S.C. 77zzz)
+section 327
+section 33
+section 33(d)
+section 33(d)(2)
+section 33(d)(2)(B)
+section 33(e)
+section 33(e) (12 U.S.C. 1831j(e))
+section 330
+section 3503
+section 3512
+section 3512(c)
+section 3518
+section 3518(c)
+section 3518(c)(1)
+section 3553
+section 3553(a)
+section 3553(a)(2)
+section 36
+section 36(a)
+section 36(a)(1)
+section 364
+section 364(a)
+section 3709
+section 38
+section 38 (12 U.S.C. 1831o)
+section 38(b)
+section 38(b) (15 U.S.C. 80a-37(b))
+section 39
+section 39(c)
+section 4
+section 4 (12 U.S.C. 1463)
+section 4 (12 U.S.C. 1843)
+section 4 (12 U.S.C. 2603)
+section 4(a)
+section 4(c)
+section 4(c)(1)
+section 4(i)
+section 4(j)
+section 4(j)(1)
+section 4(j)(2)
+section 4(j)(3)
+section 4(k)
+section 4(k)(4)
+section 4(k)(6)
+section 4(k)(6)(B)
+section 402
+section 402 (7 U.S.C. 27)
+section 402(b)
+section 403
+section 403(b)
+section 404
+section 404(b)
+section 406
+section 408
+section 408 (7 U.S.C. 27f)
+section 414
+section 42
+section 422
+section 422(b)
+section 422(b)(6)
+section 43
+section 43 (12 U.S.C. 1831t)
+section 4302
+section 4302(d)
+section 435
+section 435(m)
+section 457
+section 457(b)
+section 457(e)
+section 457(e)(1)
+section 457(e)(1)(A)
+section 46
+section 46(a)
+section 46(a)(2)
+section 47
+section 49
+section 491
+section 491(b)
+section 491(b)(1)
+section 5
+section 5 (12 U.S.C. 1464)
+section 5 (12 U.S.C. 1884)
+section 5 (12 U.S.C. 2604)
+section 5(a)
+section 5(b)
+section 5(b)(1)
+section 5(b)(1)(B)
+section 5(b)(2)
+section 5(c)
+section 5(c)(5)
+section 5(c)(5)(B)
+section 5(c)(5)(B) (12 U.S.C. 1844(c)(5)(B))
+section 5(d)
+section 5(f)
+section 5(f) (12 U.S.C. 1844(f))
+section 5(q)
+section 50
+section 50 (15 U.S.C. 80a-49)
+section 501
+section 501(a)
+section 501(b)
+section 501(b) (15 U.S.C. 6801(b))
+section 501(c)
+section 501(c)(3)
+section 502
+section 502(e)
+section 502(e)(5)
+section 502(e)(5) (15 U.S.C. 6802(e)(5))
+section 502(h)
+section 502(h)(4)
+section 502(h)(4)(B)
+section 504
+section 504(a)
+section 504(a) (15 U.S.C. 6804(a))
+section 505
+section 505(a)
+section 505(a) (15 U.S.C. 6805(a))
+section 505(a)(6)
+section 505(b)
+section 505(b)(1)
+section 505(b)(1) (15 U.S.C. 6805(b)(1))
+section 507
+section 507(b)
+section 507(b) (15 U.S.C. 6807)
+section 508
+section 5136
+section 5197
+section 5200
+section 5200(b)
+section 5200(b)(3)
+section 521
+section 521(b)
+section 5234
+section 5240
+section 5242
+section 5244
+section 529
+section 529(b)
+section 529(b)(1)
+section 5313
+section 5316
+section 54
+section 546
+section 547
+section 547(c)
+section 548
+section 548(c)
+section 552
+section 552(b)
+section 552(b)(3)
+section 552(b)(5)
+section 552(b)(8)
+section 553
+section 555
+section 5703
+section 5703(b)
+section 6
+section 6(a)
+section 6(b)
+section 6(i)
+section 6(i)(2)
+section 6(j)
+section 6(j)(3)
+section 6(j)(3) (12 U.S.C. 2605(j)(3))
+section 6004
+section 603
+section 603 (15 U.S.C. 1681a)
+section 603(k)
+section 603(k)(2)
+section 603(k)(2) (15 U.S.C. 1681a(k)(2))
+section 603(p)
+section 604
+section 604(g)
+section 604(g) (15 U.S.C. 1681b(g))
+section 605
+section 605(f)
+section 605(f)(1)
+section 605(h)
+section 605(h)(2)
+section 605(h)(2)(A)
+section 609
+section 609(d)
+section 609(d)(2)
+section 609(f)
+section 609(f)(1)
+section 609(f)(2)
+section 609(f)(2)(A)
+section 61
+section 61(a)
+section 61(a)(3)
+section 61(a)(3)(B)
+section 611
+section 611(e)
+section 611(e)(2)
+section 611(e)(2) (15 U.S.C. 1681i(e))
+section 615
+section 615(d)
+section 615(d)(2)
+section 615(d)(2)(B)
+section 615(e)
+section 615(e)(1)
+section 615(e)(1) (15 U.S.C. 1681m(e)(1))
+section 615(e)(1) (15 U.S.C. 1681m(e))
+section 615(h)
+section 615(h)(6)
+section 615(h)(6) (15 U.S.C. 1681m(h)(6))
+section 619
+section 621
+section 621 (15 U.S.C. 1681s)
+section 623
+section 623 (15 U.S.C. 1681s-2)
+section 623(a)
+section 623(a)(1)
+section 624
+section 626
+section 628
+section 628(a)
+section 628(a)(1)
+section 628(a)(1) (15 U.S.C. 1681w(a)(1))
+section 628(a)(3)
+section 628(a)(3) (15 U.S.C. 1681w(a)(3))
+section 657
+section 7
+section 7 (12 U.S.C. 1817)
+section 7(a)
+section 7(a)(2)
+section 7(a)(2)(B)
+section 7(b)
+section 7(b) (12 U.S.C. 2606(b))
+section 7(b)(1)
+section 7(b)(2)
+section 7(b)(3)
+section 7(c)
+section 7(c)(1)
+section 7(c)(2)
+section 7(c)(2) (12 U.S.C. 1867(c)(2))
+section 7(j)
+section 701
+section 702
+section 702 (15 U.S.C. 1691a)
+section 703
+section 703 (15 U.S.C. 1691b)
+section 703(f)
+section 704
+section 704 (15 U.S.C. 1691c)
+section 704(a)
+section 704(a)(4)
+section 704(a)(4) (15 U.S.C. 1691c(a)(4))
+section 706
+section 706(e)
+section 706(e) (15 U.S.C. 1691e(e))
+section 706(f)
+section 706(f) (15 U.S.C. 1691e(f))
+section 706(g)
+section 706(g) (15 U.S.C. 1691e(g))
+section 7064
+section 7103
+section 7103(a)
+section 7103(a)(8)
+section 7104
+section 714
+section 714(a)
+section 714(b)
+section 714(f)
+section 714(f)(1)
+section 714(f)(1)(A)
+section 714(f)(3)
+section 716
+section 716(c)
+section 717
+section 718
+section 721
+section 721(a)
+section 721(a)(1)
+section 721(b)
+section 721(c)
+section 721(d)
+section 7216
+section 723
+section 723(a)
+section 723(a)(1)
+section 723(a)(1)(B)
+section 723(a)(3)
+section 724
+section 727
+section 728
+section 729
+section 731
+section 732
+section 739
+section 741
+section 744
+section 744(q)
+section 745
+section 745(b)
+section 745(b)(3)
+section 746
+section 753
+section 761
+section 763
+section 763(i)
+section 7701
+section 7701(a)
+section 7701(a)(36)
+section 8
+section 8 (12 U.S.C. 1466a)
+section 8 (12 U.S.C. 1818)
+section 8(a)
+section 8(b)
+section 8(b)(3)
+section 8(c)
+section 8(c)(5)
+section 8(c)(5) (12 U.S.C. 2607(c)(5))
+section 8(d)
+section 8(d) (12 U.S.C. 2607(d))
+section 8(e)
+section 8(n)
+section 8(t)
+section 8(t) (12 U.S.C. 1818(t))
+section 8(v)
+section 8(y)
+section 8(y)(1)
+section 803
+section 803 (12 U.S.C. 2902)
+section 803 (12 U.S.C. 3802(1))
+section 803 (15 U.S.C. 1692a)
+section 804
+section 804 (12 U.S.C. 3803)
+section 804(c)
+section 805
+section 805(a)
+section 805(a)(2)
+section 806
+section 806 (12 U.S.C. 2905)
+section 806(e)
+section 807
+section 814
+section 814 (15 U.S.C. 1692l)
+section 8336
+section 8336(d)
+section 8336(d)(2)
+section 8706
+section 8706(b)
+section 8706(b)(1)
+section 8706(b)(1)(A)
+section 8714
+section 8901
+section 8905
+section 8905(b)
+section 8905(b)(1)
+section 8905(b)(1)(A)
+section 8909
+section 9
+section 9 (12 U.S.C. 1467)
+section 9 (15 U.S.C. 78i)
+section 9(a)
+section 9(a)(2)
+section 9(b)
+section 9(b)(4)
+section 9(b)(4)(B)
+section 9(e)
+section 9(e) (42 U.S.C. 1437g(e))
+section 902
+section 902(b)
+section 902(b) (15 U.S.C. 1693(b))
+section 903
+section 903 (15 U.S.C. 1693a)
+section 904
+section 904 (15 U.S.C. 1693b)
+section 904(a)
+section 904(a)(2)
+section 904(c)
+section 904(c) (15 U.S.C. 1693b(c))
+section 906
+section 906(a)
+section 908
+section 912
+section 914
+section 915
+section 915(a)
+section 915(a)(2)
+section 915(a)(2)(A)
+section 916
+section 916(d)
+section 916(d) (15 U.S.C. 1693m)
+section 918
+section 918 (15 U.S.C. 1693o)
+section 919
+section 920
+section 922
+section 922(a)
+section 936
+section 939
+section 941
+section 952
+section 981
+section 981(a)
+section 981(a)(1)
+section 982
+section 982(a)
+section 982(a)(3)
+section 994
+subclause (I)
+subclause (II)
+subclause (III)
+subclause (IV)
+subclauses (I) and (II)
+subclauses (I) and (III)
+subclauses (I) and (IV)
+subclauses (I) through (IV)
+subclauses (I) through (V)
+subclauses (I) through (VI)
+subclauses (I) through (VIII)
+subclauses (I) through (X)
+subclauses (I) through (XII)
+subclauses (III) and (IV)
+subclauses (VII) and (VIII)
+subparagraph (A)
+subparagraph (A) or (B)
+subparagraph (B)
+subparagraph (B) or (C)
+subparagraph (C)
+subparagraph (D)
+subparagraph (E)
+subparagraph (F)
+subparagraph (F) or (H)
+subparagraph (G)
+subparagraph (G) or (H)
+subparagraph (H)
+subparagraph (J)
+subparagraph (K)
+subparagraph (L)
+subparagraphs (A) and (B)
+subparagraphs (A) through (C)
+subparagraphs (A) through (D)
+subparagraphs (A) through (E)
+subparagraphs (A) through (G)
+subparagraphs (A) through (J)
+subparagraphs (A) through (K)
+subparagraphs (A), (B), (C), and (D)
+subparagraphs (A), (B), and (C)
+subparagraphs (A), (B), and (D)
+subparagraphs (B) and (C)
+subparagraphs (B) through (D)
+subparagraphs (B) through (E)
+subparagraphs (B), (C), and (D)
+subparagraphs (B), (C), and (F)
+subparagraphs (C) and (D)
+subparagraphs (C) and (G)
+subparagraphs (C) through (F)
+subparagraphs (C) through (G)
+subparagraphs (C), (D), (E), and (F)
+subparagraphs (C), (D), and (E)
+subparagraphs (D) and (E)
+subparagraphs (D) through (F)
+subparagraphs (D) through (G)
+subparagraphs (D) through (H)
+subparagraphs (D), (E), (F), and (H)
+subparagraphs (E) and (G)
+subparagraphs (E) through (G)
+subparagraphs (E) through (H)
+subparagraphs (G) and (H)
+subsection (a)
+subsection (a) or (b)
+subsection (a) or (c)
+subsection (a)(1)
+subsection (a)(11)
+subsection (a)(2)
+subsection (a)(3)
+subsection (a)(4)
+subsection (a)(55)
+subsection (a)(6)
+subsection (a)(7)
+subsection (a)(8)
+subsection (aa)
+subsection (b)
+subsection (b) or (c)
+subsection (b)(1)
+subsection (b)(2)
+subsection (b)(3)
+subsection (b)(4)
+subsection (b)(6)
+subsection (b)(9)
+subsection (c)
+subsection (c)(1)
+subsection (c)(2)
+subsection (c)(4)
+subsection (c)(7)
+subsection (c)(8)
+subsection (c)(9)
+subsection (cc)
+subsection (d)
+subsection (d) or (e)
+subsection (d)(1)
+subsection (d)(2)
+subsection (d)(3)
+subsection (d)(4)
+subsection (d)(5)
+subsection (e)
+subsection (e)(1)
+subsection (e)(2)
+subsection (e)(5)
+subsection (e)(7)
+subsection (f)
+subsection (f)(1)
+subsection (f)(2)
+subsection (g)
+subsection (g)(1)
+subsection (g)(2)
+subsection (g)(3)
+subsection (g)(4)
+subsection (g)(5)
+subsection (h)
+subsection (h)(1)
+subsection (h)(2)
+subsection (h)(4)
+subsection (h)(5)
+subsection (h)(6)
+subsection (h)(7)
+subsection (h)(8)
+subsection (i)
+subsection (i)(1)
+subsection (i)(2)
+subsection (j)
+subsection (j)(1)
+subsection (k)
+subsection (k)(4)
+subsection (k)(5)
+subsection (k)(6)
+subsection (l)
+subsection (l)(2)
+subsection (l)(5)
+subsection (m)
+subsection (n)
+subsection (n)(9)
+subsection (o)
+subsection (o)(1)
+subsection (p)
+subsection (q)
+subsection (r)
+subsection (r)(3)
+subsection (r)(4)
+subsection (s)
+subsection (t)
+subsection (u)
+subsection (v)
+subsection (w)
+subsection (w)(1)
+subsection (w)(3)
+subsection (z)
+subsections (a) and (b)
+subsections (a) and (c)
+subsections (a) and (e)
+subsections (a) or (b)
+subsections (a) through (e)
+subsections (a) through (h)
+subsections (a)(1), (a)(2), (a)(7), and (c)(1)
+subsections (b) and (c)
+subsections (b) and (d)
+subsections (b) or (d)
+subsections (b) through (bb)
+subsections (b) through (f)
+subsections (b) through (n)
+subsections (b), (c), (m), and (o)
+subsections (c) and (d)
+subsections (c) through (cc)
+subsections (c) through (g)
+subsections (d) and (e)
+subsections (d), (e), (g), and (h)
+subsections (e) and (f)
+subsections (f) and (g)
+subsections (i) and (j)
+subsections (j) and (k)
+subsections (l) and (m)
+subsections (m), (n), (o), and (p)
+subsections (n), (o), (p), and (q)
+subsections (w) and (x)
+subsections (x) and (y)
+subtitle A
+subtitle B
+subtitle E
+subtitle F
+subtitle G
+subtitle H
+subtitle I
+subtitle IV
+subtitle N
+subtitles A and C
+subtitles F and H
+this Act
+this paragraph
+this section
+this subsection
+this subtitle
+this title
+title 1
+title 11
+title 12
+title 13
+title 17
+title 18
+title 28
+title 31
+title 44
+title 49
+title 5
+title 9

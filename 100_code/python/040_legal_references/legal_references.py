@@ -9,7 +9,7 @@ def main(argv):
         data_xml = myfile.read()
 
     # Regex first part of the Legal reference
-    # For instance: The Farm Credit Act, The Federal Advisory Comitee, The Clayton
+    # For instance: The Farm Credit, The Federal Advisory Comitee, The Clayton
     regex = []
     regex.append(r'the\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
     regex.append(r'the\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
@@ -47,13 +47,13 @@ def main(argv):
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]\-[0-9]\)')
     ref_type.append(r'\s\([0-9{1}]\s[U\.S\.C]+\s[0-9{1}]\s' + re.escape(r'et seq.)'))
     ref_type.append(r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]\-[0-9]\)')
-    ref_type.append( r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]\([0-9]\)\))
+    ref_type.append( r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]\([0-9]\)\)')
     ref_type.append( r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+\)')
     ref_type.append( r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+\([a-z]\)\([0-9]\)\)')
     ref_type.append( r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9{4}]+\s' + re.escape(r'et seq.)'))
     ref_type.append( r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]\([a-z]\)\([0-9]\)\)')
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\)')
-    ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]')
+    ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]\)')
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\-\s*[0-9]+\([a-z]+\)\)')
     ref_type.append( r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\s' + re.escape(r'et seq.)'))
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\-\s*[0-9]+\)')
@@ -72,11 +72,12 @@ def main(argv):
                 # For instance: the Federal Home Loan Bank Act.
                 if flag and aux == ref_aux[0]:
                    mylist = re.findall(reg + aux, data_xml)
+                   #Make a list of unique elements 
                    mylist = list(set(mylist))
                    legal_references = legal_references + mylist
                    flag = False
                 # All the other references
-                # For instance:
+                # For instance: the Federal Home Loan Bank Act .
                 mylist = re.findall(reg + aux + type , data_xml)
                 mylist = list(set(mylist))
                 legal_references = legal_references + mylist

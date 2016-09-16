@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Dodd-Frank Visualization</title>
+
+
+    <!-- Internet javascript files -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/Ajax_gif.js')}}"></script>
+
+    <!-- Style files -->
+    <!-- Documents Dodd_Frank -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
+    <!--Drop Down -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/contextmenu.css')}}" />
+    <!--Aside -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/loading.css')}}" />
+
+    <!-- Own javascript files -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/TextHighlighter.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/right_table_fn.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/auxiliar_features.js')}}"></script>
+</head>
+<body>
+
+
+ <!-- Context button menu -->
+ <!-- Change context button menu -->
+ <!-- Change id, data Action and Text inside the tags -->
+<div id="divID">
+<ul id = "recipe" class='custom-menu'>
+    <li id="GrammaticalOperators" data-action = "GrammaticalOperators"><span>GrammaticalOperators </span></li>
+    <li id="LegalOperators" data-action = "LegalOperators"><span>LegalOperators</span></li>
+    <li id="LegalReferences" data-action = "LegalReferences"><span>LegalReferences</span></li>
+    <li id="LogicalOperators" data-action = "LogicalOperators"><span>LogicalOperators</span></li>
+    <li id="RegulationOperators" data-action = "RegulationOperators"><span>RegulationOperators</span></li>
+    <li id="Attributes" data-action = "Attributes"><span>Attributes</span></li>
+    <li id="EconomicOperand" data-action = "EconomicOperand"><span>EconomicOperand</span></li>
+    <li id="Other" data-action = "Other"><span>Other</span></li>
+    <li id="Update" data-action = "Update"><span>Update</span></li>
+    <li id="Remove" data-action = "Remove"><span>Remove</span></li>
+
+</ul>
+</div>
+
+
+
+ <!-- On/Off div -->
+ <!-- Show the div depending on the form class button -->
+<div id="mySidenav" class="sidenav" style="cursor:pointer">
+    <!-- curly braces with username is to get Flask variables -->
+    <p id="Username" > {{ username }}</p>
+
+    <!-- On/Off button -->
+    <!-- Auxiliar_features.js -->
+    <form class="demo">
+    <select id="selectMe" class="balck">
+    <option value="div1">On</option>
+    <option value="div2">Off</option>
+    </select>
+    </form>
+
+    <div  id="div1" class="group">
+        <!--/title_1_Y is a reference to titles.py  -->
+    <a id = "/title_1_Y"> Title 1 </a>
+    <a id = "/title_2_Y"> Title 2</a>
+    <a id = "/title_3_Y"> Title 3</a>
+    <a id = "/title_4_Y"> Title 4</a>
+    <a id = "/title_5_Y"> Title 5</a>
+    <a id = "/title_6_Y"> Title 6</a>
+    <a id = "/title_7_Y"> Title 7</a>
+    <a id = "/title_8_Y"> Title 8</a>
+    <a id = "/title_9_Y"> Title 9</a>
+    <a id = "/title_10_Y"> Title 10</a>
+    <a id = "/title_11_Y"> Title 11</a>
+    <a id = "/title_12_Y"> Title 12</a>
+    <a id = "/title_13_Y"> Title 13</a>
+    <a id = "/title_14_Y"> Title 14</a>
+    <a id = "/title_15_Y"> Title 15</a>
+        <a id = "/title_16_Y"> Title 16</a>
+     </div>
+
+
+    <div  id="div2" class="group">
+        <!--/title_1 is a reference to titles.py  -->
+    <a id = "/title_1"> Title 1 </a>
+    <a id = "/title_2"> Title 2</a>
+    <a id = "/title_3"> Title 3</a>
+    <a id = "/title_4"> Title 4</a>
+    <a id = "/title_5"> Title 5</a>
+    <a id = "/title_6"> Title 6</a>
+    <a id = "/title_7"> Title 7</a>
+    <a id = "/title_8"> Title 8</a>
+    <a id = "/title_9"> Title 9</a>
+    <a id = "/title_10"> Title 10</a>
+    <a id = "/title_11"> Title 11</a>
+    <a id = "/title_12"> Title 12</a>
+    <a id = "/title_13"> Title 13</a>
+    <a id = "/title_14"> Title 14</a>
+    <a id = "/title_15"> Title 15</a>
+        <a id = "/title_16"> Title 16</a>
+     </div>
+</div>
+
+
+
+ <!-- Right hand menu -->
+ <!-- Instructions, Words Classified and Logout -->
+<ul class="nav nav-tabs">
+    <form  action="/instructions">
+       <input type=text  style="display: none;">
+        <button>Instructions</button>
+    </form>
+
+    <form  action="/words">
+       <input type=text  style="display: none;">
+        <button>Words Classified</button>
+    </form>
+
+    <form  action="/logout" >
+       <input type=text style="display: none;">
+        <button>Log out</button>
+    </form>
+</ul>
+
+
+ <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
+<div class="wrapper">
+    <div class="words">
+        <ul id= "words" class="ul_words"> </ul>
+    </div>
+
+    <div class="content-wrapper">
+        <div id="dodd_frank">
+
+            <div class="modal"><!-- Git image loader--></div>
+        <div id="result"></div>
+        </div>
+    </div>
+</div>
+
+    <!--Main js file -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js')}}"></script>
+
+
+</body>
+</html>

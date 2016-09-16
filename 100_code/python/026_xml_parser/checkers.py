@@ -179,6 +179,7 @@ def check_h_i(line, line_list):
 
 
 def check_same_sentence(line):
+    #Explain more
     aux_list = line.split(" ")
     aux_list = filter(lambda x: not re.match(r'^\s*$', x), aux_list)
     false_list = ["paragraph", "clause", "paragraphs", "section", "sections", "Clause",

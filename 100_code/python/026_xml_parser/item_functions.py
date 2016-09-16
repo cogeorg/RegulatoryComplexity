@@ -143,6 +143,7 @@ def get_amended_item(line):
         return False
 
 
+#Description 
 def get_list_levels(item_type):
     if item_type == "title":
         return ["section", "subtitle"]
