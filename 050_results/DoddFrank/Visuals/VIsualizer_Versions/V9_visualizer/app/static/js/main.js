@@ -150,6 +150,20 @@
                 });
 
 
+                //Grab selected text
+                            function getSelectedText(){
+                            if(window.getSelection){
+                            return window.getSelection().toString();
+                            }
+                            else if(document.getSelection){
+                            return document.getSelection();
+                            }
+                            else if(document.selection){
+                            return document.selection.createRange().text;
+                            }
+                            }
+
+
             /*
 
             /* Put the proper classification names and colors
@@ -157,6 +171,7 @@
              # hltr.setColor(Color);
              # Be sure to have the same number of cases and Names
              */
+
 
                  $(".custom-menu li").click(function(){
 
@@ -175,18 +190,6 @@
                             }
                             });
 
-                            //Grab selected text
-                            function getSelectedText(){
-                            if(window.getSelection){
-                            return window.getSelection().toString();
-                            }
-                            else if(document.getSelection){
-                            return document.getSelection();
-                            }
-                            else if(document.selection){
-                            return document.selection.createRange().text;
-                            }
-                            }
 
                              /*hltr.setColor("#81fd81");*/
                              hltr.setClick(true);

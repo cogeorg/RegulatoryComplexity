@@ -162,12 +162,12 @@ def array2python():
 
     data = head + htmlString + tail
     username = user_name.strip()
-    f = open("app/templates/output/" + titleName + ".html", "w")
+    f = open("app/templates/output/" + username + "/" + titleName + ".html", "w")
     f.write(data)
     f.close()
 
 '''
-+ username + "/" 
+
 #array2python function to get the list of words classified from the visualizer
 # and export it to a csv file
 @app.route('/_array2python')
