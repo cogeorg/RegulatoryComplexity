@@ -6,49 +6,53 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
 
 
-   <style>
-       ul {
-        margin: 1em 0;
-        padding: 0 0 0 40px;
-        }
-
-        li {
-         margin: 1em 0;
-        }
-   </style>
+    <!--Aside Stylesheet-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
 
   </head>
 
 
-<div class="instructions">
-   <h1>Purpose</h1>
-  <ul>Classify the words depending on their function and gramatical behaviour.
-  <li>GrammaticalOperators</li>
-      <li> LegalOperators</li>
-  </ul>
-
-
-<h1>Features</h1>
+<h1>Purpose</h1>
+<p> Classify the logical parts of a sentence. </p>
 <ul>
-  <li>Highlighting of selected text: Select and pick the color for each word(s).</li>
-  <li>Update and find the list of words: Store the list of words highlighted during your session and find them in the document.
-</li>
-  <li>Remove words: Select and remove words already highlighted.</li>
-    <li>Change title: Select different titles.</li>
-    <li>Check the list  of words classified during your session.</li>
-</ul>
-
-<h1>How it works?</h1>
-<ul>
-  <li>Select the word. </li>
-  <li>Right click. </li>
-  <li>Choose the type of word or the task from the menu</li>
+    <li> <span style="background-color: #81fd81"> A-Antecedent: </span> antecedent parts describe cases in which the law can be applied. </li>
+    <li> <span style="background-color: #cc99ff">C-Consequent: </span> consequent parts describe the provision of the law. </li>
+    <li> <span style="background-color: #ffff99">T1-Topic: </span> topic part 1 is a subject related to the antecedent part. </li>
+    <li> <span style="background-color: #ffff00">T2-Topic: </span> topic part 2 is a subject related to the consequent part. </li>
+    <li> <span style="background-color: #ffcc00">T3-Topic: </span> topic part 3 is a subject related to both, the antecedent and the consequent part. </li>
+    <li> <span style="background-color: #d3d3d3">EL-LeftEquivalent: </span> left equivalent is the left part of a sentence with two equivalent statements. </li>
+    <li> <span style="background-color: #bababa">ER-RightEquivalent: </span> right equivalent is the right part of a sentence with two equivalent statements. </li>
 </ul>
 
 
+<h1>Examples</h1>
+<h3> Example 1 </h3>
+<p>
+A securities holding company that is required by a foreign regulator or provision of foreign law to be subject to comprehensive consolidated supervision may register with the Board of Governors under paragraph (2) to become a supervised securities holding company.
+</p>
 
 
 
+
+ <!-- Right hand menu -->
+ <!-- Instructions, Words Classified and Logout -->
+<div class="nav-tabs">
+<ul>
+    <form  action="/index">
+       <input type=text  style="display: none;">
+        <button>Back to classifying</button>
+    </form>
+
+    <form  action="/words">
+       <input type=text  style="display: none;">
+        <button>Parts Classified</button>
+    </form>
+
+    <form  action="/logout" >
+       <input type=text style="display: none;">
+        <button>Log out</button>
+    </form>
+</ul>
 </div>
 
 

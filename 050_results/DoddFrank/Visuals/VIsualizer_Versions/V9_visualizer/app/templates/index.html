@@ -35,13 +35,13 @@
  <!-- Change id, data Action and Text inside the tags -->
 <div id="divID">
 <ul id = "recipe" class='custom-menu'>
-    <li id="LogicalConnectors" data-action = "LogicalConnectors"><span>LogicalConnectors</span></li>
-    <li id="RegulatoryOperators" data-action = "RegulatoryOperators"><span>RegulatoryOperators</span></li>
-    <li id="EconomicOperands" data-action = "EconomicOperands"><span>EconomicOperands</span></li>
-    <li id="Attributes" data-action = "Attributes"><span>Attributes</span></li>
-    <li id="LegalReferences" data-action = "LegalReferences"><span>LegalReferences</span></li>
-    <li id="FunctionWords" data-action = "FunctionWords"><span>FunctionWords</span></li>
-    <li id="Other" data-action = "Other"><span>Other</span></li>
+    <li id="A-Antecedent" data-action = "A-Antecedent"><span>A-Antecedent</span></li>
+    <li id="C-Consequent" data-action = "C-Consequent"><span>C-Consequent</span></li>
+    <li id="T1-Topic" data-action = "T1-Topic"><span>T1-Topic</span></li>
+    <li id="T2-Topic" data-action = "T2-Topic"><span>T2-Topic</span></li>
+    <li id="T3-Topic" data-action = "T3-Topic"><span>T3-Topic</span></li>
+    <li id="EL-LeftEquivalent" data-action = "EL-LeftEquivalent"><span>EL-LeftEquivalent</span></li>
+    <li id="ER-RightEquivalent" data-action = "ER-RightEquivalent"><span>ER-RightEquivalent</span></li>
     <li id="Update" data-action = "Update"><span>Update</span></li>
     <li id="Remove" data-action = "Remove"><span>Remove</span></li>
 </ul>
@@ -82,7 +82,7 @@
     <a id = "/title_13_Y"> Title 13</a>
     <a id = "/title_14_Y"> Title 14</a>
     <a id = "/title_15_Y"> Title 15</a>
-        <a id = "/title_16_Y"> Title 16</a>
+    <a id = "/title_16_Y"> Title 16</a>
      </div>
 
 
@@ -103,7 +103,7 @@
     <a id = "/title_13"> Title 13</a>
     <a id = "/title_14"> Title 14</a>
     <a id = "/title_15"> Title 15</a>
-        <a id = "/title_16"> Title 16</a>
+    <a id = "/title_16"> Title 16</a>
      </div>
 </div>
 
@@ -111,7 +111,8 @@
 
  <!-- Right hand menu -->
  <!-- Instructions, Words Classified and Logout -->
-<ul class="nav nav-tabs">
+<div class="nav-tabs">
+<ul>
     <form  action="/instructions">
        <input type=text  style="display: none;">
         <button>Instructions</button>
@@ -119,7 +120,7 @@
 
     <form  action="/words">
        <input type=text  style="display: none;">
-        <button>Words Classified</button>
+        <button>Parts Classified</button>
     </form>
 
     <form  action="/logout" >
@@ -127,6 +128,7 @@
         <button>Log out</button>
     </form>
 </ul>
+</div>
 
 
  <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->

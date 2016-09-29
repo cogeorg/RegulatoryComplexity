@@ -9,37 +9,34 @@
 
 
 
-span.GrammaticalOperators {
-    background-color:#554600;
+span.A-Antecedent {
+    background-color:#81fd81;
    }
 
-span.LegalOperators {
-    background-color:#806D15;
+span.C-Consequent {
+    background-color:#cc99ff;
 }
 
-span.LegalReferences {
-    background-color:#D4C26A;
+span.T1-Topic {
+    background-color:#ffff99;
 }
 
-span.LogicalOperators {
-    background-color:#FFF0AA;
+span.T2-Topic {
+    background-color:#ffff00;
 }
 
-span.RegulationOperators {
-    background-color:#AA0739;
+span.T3-Topic {
+    background-color:#ffcc00;
 }
 
-span.Attributes {
-    background-color:green;
+span.EL-LeftEquivalent {
+    background-color:#d3d3d3;
 }
 
-span.EconomicOperands {
-    background-color:yellow;
+span.ER-RightEquivalent {
+    background-color:#bababa;
 }
 
-span.Other {
-    background-color:red;
-}
 
 
 

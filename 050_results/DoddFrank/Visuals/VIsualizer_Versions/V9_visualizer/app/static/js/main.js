@@ -70,7 +70,7 @@
         $.get(line, function(res) {
             // load html title
             $("#result").html(res);
-            var paramData = {wordList:list_high, user_name:  user_name};
+/*            var paramData = {wordList:list_high, user_name:  user_name};
                              $.getJSON('/_array2python', {
                                 params: JSON.stringify(paramData)
                                  }, function(data){
@@ -84,9 +84,9 @@
                                             i +=1;
                                             });
                                         $("#words").empty();
-                                        makeUL(words.slice(0,21), colors.slice(0,21));
+                                        makeUL(words.slice(0,10), colors.slice(0,10));
                                         list_high = [];
-                                     });
+                                     }); */
 
 
         });
@@ -163,56 +163,86 @@
                      // This is the triggered action name
                      switch($(this).attr("data-action")) {
                          // A case for each action. Your actions here
-                             case "LogicalConnectors":
+                             case "A-Antecedent":
                              flag = true;
-                             hltr.setColor("#8B69F9");
+
+                            $("div").click("mouseup",function() {
+                            selection = getSelectedText();
+                            if(selection.length >= 3) {
+                            var spn = ("<span class='A-Antecedent'>" + selection + "</span>");
+                            var html = $(this).html().replace(selection,spn);
+                            $(this).html(html);
+                            }
+                            });
+
+                            //Grab selected text
+                            function getSelectedText(){
+                            if(window.getSelection){
+                            return window.getSelection().toString();
+                            }
+                            else if(document.getSelection){
+                            return document.getSelection();
+                            }
+                            else if(document.selection){
+                            return document.selection.createRange().text;
+                            }
+                            }
+
+                             /*hltr.setColor("#81fd81");*/
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "RegulatoryOperators":
+                         case "C-Consequent":
                              flag = true;
-                             hltr.setColor("#C25FF8");
+                             hltr.setColor("#cc99ff");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "EconomicOperands":
+                         case "T1-Topic":
                              flag = true;
-                             hltr.setColor("#FFFF58");
+                             hltr.setColor("#ffff99");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "Attributes":
+                         case "T2-Topic":
                              flag = true;
-                             hltr.setColor("#FFE258");
+                             hltr.setColor("#ffff00");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "LegalReferences":
+                         case "T3-Topic":
                              flag = true;
-                             hltr.setColor("#AFAFAF");
+                             hltr.setColor("#ffcc00");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "FunctionWords":
+                         case "EL-LeftEquivalent":
                              flag = true;
-                             hltr.setColor("#696969");
+                             hltr.setColor("#d3d3d3");
                              hltr.setClick(true);
                              hltr.setReady(true);
                              break;
-                         case "Other":
+                         case "ER-RightEquivalent":
                              flag = true;
-                             hltr.setColor("#A3A3A3");
+                             hltr.setColor("#bababa");
                              hltr.setClick(true);
                              hltr.setReady(true);
                          break;
                          case "Update":
+                            var newFile = document.getElementById("result").innerHTML;
+                            var newFileString = newFile.toString();
+                            var titleName = $("#mySidenav a").attr("id");
+                            var paramData = {file: newFileString, user_name: user_name, title: titleName};
+                            $.getJSON('/_html2python', {
+                                params: JSON.stringify(paramData)
+                                 });
                              /* Input to python flask array2python function */
-                             var paramData = {wordList:list_high, user_name:  user_name};
+/*                             var paramData = {wordList:list_high, user_name:  user_name};
                              $.getJSON('/_array2python', {
                                 params: JSON.stringify(paramData)
                                  }, function(data){
                                  /* Output of flask function */
-                                        var words = data.new_words;
+/*                                        var words = data.new_words;
                                         var colors = data.new_colors;
                                         var remove = data.remove;
                                         var all_words = data.words;
@@ -220,25 +250,25 @@
                                         var i = 0;
                                         words.forEach(function(entry) {
                                             hltr.setColor(colors[i]);
-                                            hltr.find(words[i], false);
+                                            hltr.find(words[i], true);
                                             hltr.setReady(true);
                                             i +=1;
                                             });
                                         var i =0;
                                         remove.forEach(function(entry) {
                                             hltr.setColor("white");
-                                            hltr.find(entry, false);
+                                            hltr.find(entry, true);
                                             hltr.setReady(true);
                                             i +=1;
                                             });
                                  /* Update the word classified frame */
-                                        $("#words").empty();
+/*                                        $("#words").empty();
                                  /* Make table */
-                                        makeUL(all_words.slice(0, 21), all_colors.slice(0, 21));
+/*                                        makeUL(all_words.slice(0, 10), all_colors.slice(0, 10));
                                         // removeUL(remove);
                                         list_high = [];
                                      });
-                             break;
+                             break; */
                          case "Remove":
                              flag = true;
                              hltr.setColor("white");

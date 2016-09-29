@@ -1,0 +1,8 @@
+from flask import request, jsonify, redirect, url_for,flash,  render_template, request, session, abort
+from app import app
+
+
+@app.route('/title_1_Y')
+def title_1_Y():
+    return render_template('PreClass/TITLE I--FINANCIAL STABILITY.html')
+

@@ -59,40 +59,40 @@
        Static (	/home/alimon/mysite/static)  is a varibale defined in Web config */
 
 
-  #divID #LogicalConnectors {
-      background: url('img/LogicalConnectors.png') no-repeat 6px 50%;
+  #divID #A-Antecedent {
+      background: url('img/A-Antecedent.png') no-repeat 6px 50%;
       background-size: 10px 10px;
       font-family: Arial, Sans-Serif;
 
   }
 
-  #divID #RegulatoryOperators {
-      background: url('img/RegulatoryOperators.png') no-repeat 8px 50%;
+  #divID #C-Consequent {
+      background: url('img/C-Consequent.png') no-repeat 8px 50%;
       background-size: 10px 10px;
   }
 
-  #divID #EconomicOperands {
-    background: url('img/EconomicOperands.png')  no-repeat 6px 50%;
+  #divID #T1-Topic {
+    background: url('img/T1-Topic.png')  no-repeat 6px 50%;
     background-size: 10px 10px;
   }
 
-  #divID #Attributes {
-    background: url('img/Attributes.png') no-repeat 6px 50%;
+  #divID #T2-Topic {
+    background: url('img/T2-Topic.png') no-repeat 6px 50%;
     background-size: 10px 10px ;
   }
 
-  #divID #LegalReferences {
-    background: url('img/LegalReferences.png') no-repeat 6px 50%;
+  #divID #T3-Topic {
+    background: url('img/T3-Topic.png') no-repeat 6px 50%;
     background-size: 10px 10px ;
   }
 
-  #divID #FunctionWords {
-    background: url('img/FunctionWords.png') no-repeat 6px 50%;
+  #divID #EL-LeftEquivalent {
+    background: url('img/EL-LeftEquivalent.png') no-repeat 6px 50%;
     background-size: 10px 10px ;
   }
 
-  #divID #Other {
-    background: url('img/Other.png') no-repeat 6px 50%;
+  #divID #ER-RightEquivalent {
+    background: url('img/ER-RightEquivalent.png') no-repeat 6px 50%;
     background-size: 10px 10px ;
   }
 

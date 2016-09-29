@@ -55,50 +55,46 @@
     # img/name.png
     */
 
-  #divID #GrammaticalOperators {
       /* Pythonanywhere: url('/static/img/GrammaticalOperators.png')
-       Static (	/home/alimon/mysite/static)  is a varibale defined in Web config*/
-	  background: url('img/GrammaticalOperators.png') no-repeat 6px 50%;
+       Static (	/home/alimon/mysite/static)  is a varibale defined in Web config */
+
+
+  #divID #LogicalConnectors {
+      background: url('img/LogicalConnectors.png') no-repeat 6px 50%;
       background-size: 10px 10px;
       font-family: Arial, Sans-Serif;
 
-    }
-
-  #divID #LegalOperators {
-      background: url('img/LegalOperators.png') no-repeat 8px 50%;
-      background-size: 10px 10px;
-    }
-
-  #divID #LegalReferences {
-    background: url('img/LegalReferences.png')  no-repeat 6px 50%;
-      background-size: 10px 10px;
-    }
-
-  #divID #LogicalOperators {
-    background: url(img/LogicalOperators.png) no-repeat 6px 50%;
-  background-size: 10px 10px ;
   }
 
-  #divID #RegulationOperators {
-    background: url(img/RegulationOperators.png) no-repeat 6px 50%;
-    background-size: 10px 10px ;
+  #divID #RegulatoryOperators {
+      background: url('img/RegulatoryOperators.png') no-repeat 8px 50%;
+      background-size: 10px 10px;
+  }
+
+  #divID #EconomicOperands {
+    background: url('img/EconomicOperands.png')  no-repeat 6px 50%;
+    background-size: 10px 10px;
   }
 
   #divID #Attributes {
-    background: url(img/Attributes.png) no-repeat 6px 50%;
-  background-size: 10px 10px ;
+    background: url('img/Attributes.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
   }
 
-
-  #divID #EconomicOperand {
-    background: url(img/EconomicOperand.png) no-repeat 6px 50%;
-  background-size: 10px 10px;
+  #divID #LegalReferences {
+    background: url('img/LegalReferences.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
   }
 
-#divID #Other {
-    background: url(img/Other.png) no-repeat 6px 50%;
- background-size: 10px 10px ;
-}
+  #divID #FunctionWords {
+    background: url('img/FunctionWords.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
+  }
+
+  #divID #Other {
+    background: url('img/Other.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
+  }
 
 
 #divID #Update {

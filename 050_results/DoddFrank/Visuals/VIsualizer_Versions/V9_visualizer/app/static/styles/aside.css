@@ -55,14 +55,14 @@ body {
 }
 
 
-ul {
+.nav-tabs ul {
     list-style-type: none;
     right:0;
     top:0;
-    width: 135px;
+    width: 192px;
     position: fixed;
     background-color: #ffffff;
-}
+} 
 
 
 

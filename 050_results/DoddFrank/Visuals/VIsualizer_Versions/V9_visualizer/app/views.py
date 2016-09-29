@@ -11,6 +11,9 @@ import os
 import json
 import csv
 import pandas
+import shutil
+
+
 
 
 # Create the engine to use users.db
@@ -46,7 +49,7 @@ def do_admin_login():
         return  render_template("index.html", username = our_user.username ) # Everything correct! Go to index and send username
     else:
             error = "Incorrect Password"        #if password requested not the same
-    return render_template("login.html", error = error) # Go to login winth error message
+    return render_template("login.html", error = error) # Go to login with error message
 
 #register route, method post
 @app.route('/register', methods=['POST'])
@@ -62,7 +65,9 @@ def do_admin_signin():
     our_user = s.query(User).filter_by(username=USERNAME).first()    #Get the user with the email
     #Flask: change to /home/username/mysite/output/
     #username: RegulatoryComplexity
-    file = "app/output/" + USERNAME.strip() + ".csv" #Name of the file to be created
+    
+    #file = "app/output/" + USERNAME.strip() + ".csv" #Name of the file to be created
+
     if our_user:                                #if our_user different than null
         error = "Username already exists"       #Username already exists
         return render_template("login.html", error = error) #Go to login with error
@@ -76,8 +81,13 @@ def do_admin_signin():
         user = User(USERNAME,PASSWORD,EMAIl, AFILIATION, True)  # Add to the database
         s.add(user)                     
         s.commit()
-        with open(file, "w") as f:              #Create a csv file for the list of words
-            pass
+
+        # create folder with own html files
+        os.makedirs("app/templates/output/" + USERNAME.strip())
+        copytree('app/templates/Original', "app/templates/output/" + USERNAME.strip())
+
+#        with open(file, "w") as f:              #Create a csv file for the list of words
+#            pass
     return render_template("login.html", error = error)
 
 
@@ -112,7 +122,8 @@ def logout():
 @app.route("/index")                            # Access to index just if the user is logged
 @login_required
 def index():
-    return render_template('index.html')
+    user_name = current_user.username           # Get the current user
+    return render_template('index.html', username = user_name )
 
 
 
@@ -134,7 +145,29 @@ def words():
     return render_template('words.html', words = words ,types = types, colors = colors) #Send words and types to the html
 
 
+@app.route('/_html2python')
+def array2python():
+    params = json.loads(request.args.get('params'))     #Get the params from the main js
+    user_name = params['user_name']                     #Get user_name from parameters 
+    htmlString = params['file']
+    titleName = params['title']
+    
+    head= """<!DOCTYPE html> <html>
+        <head>
+        </head>"""
 
+    tail= """
+        </html>
+        """
+
+    data = head + htmlString + tail
+    username = user_name.strip()
+    f = open("app/templates/output/" + titleName + ".html", "w")
+    f.write(data)
+    f.close()
+
+'''
++ username + "/" 
 #array2python function to get the list of words classified from the visualizer
 # and export it to a csv file
 @app.route('/_array2python')
@@ -156,7 +189,7 @@ def array2python():
             word = element.split("_")[0]                #Split and get the first element(word)
             word = word.strip()                         
             word = word.replace('  ',' ')               #To get the original string
-            word = word.lower()                         #To lower in all the cases
+            #word = word.lower()                         #To lower in all the cases
             word = check_punctuation(word)
             dict_words[word] = element.split("_")[1]    #Second element is the color
             new_words.append(word)                      #The list of new words
@@ -171,9 +204,9 @@ def array2python():
         writer.writerows(zip(classified_words, color_to_operand(colors_words)))
     # Return Lists to html
     return jsonify(words = classified_words, colors = colors_words,
-                   remove=remove_words, new_words = new_words, new_colors = new_colors)
+                   remove = remove_words, new_words = new_words, new_colors = new_colors)
 
-
+'''
 
 #User_loader function to load user from the database
 @login_manager.user_loader
@@ -186,3 +219,6 @@ def user_loader(user_id):
     s = Session()
     our_user = s.query(User).filter_by(username=user_id).first()
     return our_user
+
+
+from titles import *

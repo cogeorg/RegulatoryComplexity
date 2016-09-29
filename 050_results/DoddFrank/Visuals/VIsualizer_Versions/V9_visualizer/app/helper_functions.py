@@ -1,13 +1,15 @@
 import numpy
+import os
+import shutil
 
 
-word_class = {'LogicalConnectors':'#8B69F9',
-              'RegulatoryOperators':'#C25FF8',
-              'EconomicOperands' : '#FFFF58',
-              'Attributes': '#FFE258',
-              'LegalReferences':'#AFAFAF',
-              'FunctionWords':'#696969' ,
-              'Other': '#A3A3A3',
+word_class = {'A-Antecedent':'#81fd81',
+              'C-Consequent':'#cc99ff',
+              'T1-Topic' : '#ffff99',
+              'T2-Topic': '#ffff00',
+              'T3-Topic':'#ffcc00',
+              'EL-LeftEquivalent':'#d3d3d3' ,
+              'ER-RightEquivalent': '#bababa',
               'white': 'white'}
 
 
@@ -60,4 +62,17 @@ def operand_to_color(types):
     for element in types:
         colors.append( word_class[element])
     return colors
+
+# copy html files in personal folder
+def copytree(src, dst, symlinks=False, ignore=None):
+    if not os.path.exists(dst):
+        os.makedirs(dst)
+    for item in os.listdir(src):
+        s = os.path.join(src, item)
+        d = os.path.join(dst, item)
+        if os.path.isdir(s):
+            copytree(s, d, symlinks, ignore)
+        else:
+            if not os.path.exists(d) or os.stat(s).st_mtime - os.stat(d).st_mtime > 1:
+                shutil.copy2(s, d)
 
