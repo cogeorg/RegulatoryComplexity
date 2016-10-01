@@ -62,3 +62,16 @@
   height:100vh;
   background-color:#ffffff;
 }
+
+.content-wrapper-instr {
+   margin-top: 0px;
+    margin-right: 270px;
+    margin-left: 20px;
+   padding: 0 30px;
+   overflow-y: scroll;
+   position: fixed;
+   left: 0;
+    top:0 ;
+  height:100vh;
+  background-color:#ffffff;
+}

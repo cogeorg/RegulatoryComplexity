@@ -8,10 +8,16 @@
 
     <!--Aside Stylesheet-->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/loading.css')}}" />
+    
 
   </head>
 
-
+<div class="wrapper">
+    <div class="content-wrapper-instr">
 <h1>Purpose</h1>
 <p> Classify the logical parts of a sentence. </p>
 <ul>
@@ -27,23 +33,22 @@
 
 <h1>Examples</h1>
 <h3> Example 1 </h3>
+<p>
+A securities holding company that is required by a foreign regulator or provision of foreign law to be subject to comprehensive consolidated supervision may register with the Board of Governors under paragraph (2) to become a supervised securities holding company.
+</p>
+    </div>
+</div>
 
 
 
  <!-- Right hand menu -->
- <!-- Instructions, Words Classified and Logout -->
+ <!-- Instructions and Logout -->
 <div class="nav-tabs">
 <ul>
     <form  action="/index">
        <input type=text  style="display: none;">
         <button>Back to classifying</button>
     </form>
-
-    <form  action="/words">
-       <input type=text  style="display: none;">
-        <button>Parts Classified</button>
-    </form>
-
     <form  action="/logout" >
        <input type=text style="display: none;">
         <button>Log out</button>

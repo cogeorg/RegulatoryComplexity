@@ -13,8 +13,6 @@
     <!-- Style files -->
     <!-- Documents Dodd_Frank -->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
-    <!--Drop Down -->
-    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/contextmenu.css')}}" />
     <!--Aside -->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
     <!--Wrapper -->
@@ -27,25 +25,23 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/right_table_fn.js')}}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/auxiliar_features.js')}}"></script>
 </head>
-<body>
+<body oncontextmenu="return false;">
 
 
- <!-- Context button menu -->
- <!-- Change context button menu -->
- <!-- Change id, data Action and Text inside the tags -->
-<div id="divID">
-<ul id = "recipe" class='custom-menu'>
-    <li id="A-Antecedent" data-action = "A-Antecedent"><span>A-Antecedent</span></li>
-    <li id="C-Consequent" data-action = "C-Consequent"><span>C-Consequent</span></li>
-    <li id="T1-Topic" data-action = "T1-Topic"><span>T1-Topic</span></li>
-    <li id="T2-Topic" data-action = "T2-Topic"><span>T2-Topic</span></li>
-    <li id="T3-Topic" data-action = "T3-Topic"><span>T3-Topic</span></li>
-    <li id="EL-LeftEquivalent" data-action = "EL-LeftEquivalent"><span>EL-LeftEquivalent</span></li>
-    <li id="ER-RightEquivalent" data-action = "ER-RightEquivalent"><span>ER-RightEquivalent</span></li>
-    <li id="Update" data-action = "Update"><span>Update</span></li>
-    <li id="Remove" data-action = "Remove"><span>Remove</span></li>
-</ul>
-</div>
+ <!-- Save function -->
+<script type="text/javascript">
+
+function save() {
+    var user_name = $( "p:first" ).text();
+    var newFile = document.getElementById("result").innerHTML;
+    var newFileString = newFile.toString();
+    var titleName = $("#mySidenav a").attr("id");
+    var paramData = {file: newFileString, user_name: user_name, title: titleName};
+    $.getJSON('/_html2python', {
+        params: JSON.stringify(paramData)
+    });
+}
+</script>
 
 
 
@@ -65,7 +61,7 @@
     </select>
     </form>
 
-    <div  id="div1" class="group">
+    <div  id="div1" class="group" >
         <!--/title_1_Y is a reference to titles.py  -->
     <a id = "/title_1"> Title 1 </a>
     <a id = "/title_2"> Title 2</a>
@@ -110,17 +106,12 @@
 
 
  <!-- Right hand menu -->
- <!-- Instructions, Words Classified and Logout -->
+ <!-- Instructions and Logout -->
 <div class="nav-tabs">
 <ul>
     <form  action="/instructions">
        <input type=text  style="display: none;">
         <button>Instructions</button>
-    </form>
-
-    <form  action="/words">
-       <input type=text  style="display: none;">
-        <button>Parts Classified</button>
     </form>
 
     <form  action="/logout" >
@@ -131,11 +122,66 @@
 </div>
 
 
+<!-- Buttons -->
+<script type="text/javascript">
+
+// Classification
+function surroundSelection(type) {
+    var selection = window.getSelection().getRangeAt(0);
+    var selectedText = selection.extractContents();
+    var span = document.createElement("span");
+    span.setAttribute("class",type)
+    span.appendChild(selectedText);
+    span.oncontextmenu = function (ev) {
+        this.parentNode.insertBefore(document.createTextNode(this.innerHTML), this);
+        this.parentNode.removeChild(this);
+    }
+    selection.insertNode(span);
+
+}
+    
+
+</script>
+
+<div class = "buttons">
+    <ul>
+        <form>
+            <input id= "A-Antecedent" type="button" onclick="surroundSelection('A-Antecedent')" value="A-Antecedent">
+        </form>
+        <form>
+            <input id= "C-Consequent" type="button" onclick="surroundSelection('C-Consequent')" value="C-Consequent">
+        </form>
+        <form>
+            <input id= "T1-Topic" type="button" onclick="surroundSelection('T1-Topic')" value="T1-Topic">
+        </form>
+        <form>
+            <input id= "T2-Topic" type="button" onclick="surroundSelection('T2-Topic')" value="T2-Topic">
+        </form>
+        <form>
+            <input id= "T3-Topic" type="button" onclick="surroundSelection('T3-Topic')" value="T3-Topic">
+        </form>
+        <form>
+            <input id= "EL-LeftEquivalent" type="button" onclick="surroundSelection('EL-LeftEquivalent')" value="EL-LeftEquivalent">
+        </form>
+        <form>
+            <input id= "ER-RightEquivalent" type="button" onclick="surroundSelection('ER-RightEquivalent')" value="ER-RightEquivalent">
+        </form>
+    </ul>
+</div>
+
+<div class = "save">
+    <ul>
+        <form>
+            <input id= "Save" type="button" onclick="save()" value="Save !">
+        </form>
+    </ul>
+</div>
+
  <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
 <div class="wrapper">
-    <div class="words">
+    <!--<div class="words">
         <ul id= "words" class="ul_words"> </ul>
-    </div>
+    </div>-->
 
     <div class="content-wrapper">
         <div id="dodd_frank">
@@ -147,7 +193,7 @@
 </div>
 
     <!--Main js file -->
-    <script type="text/javascript" src="{{ url_for('static', filename='js/main3.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main4.js')}}"></script>
 
 
 </body>

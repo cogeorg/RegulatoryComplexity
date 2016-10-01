@@ -1,6 +1,6 @@
 
 .wrapper {
-  width: 150px;
+  width: 100%;
   background-color: #fff;
 }
 
@@ -54,6 +54,19 @@
    margin-top: 0px;
     margin-right: 270px;
     margin-left: 130px;
+   padding: 0 30px;
+   overflow-y: scroll;
+   position: fixed;
+   left: 0;
+    top:0 ;
+  height:100vh;
+  background-color:#ffffff;
+}
+
+.content-wrapper-instr {
+   margin-top: 0px;
+    margin-right: 270px;
+    margin-left: 50px;
    padding: 0 30px;
    overflow-y: scroll;
    position: fixed;
