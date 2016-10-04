@@ -146,25 +146,31 @@ function surroundSelection(type) {
 <div class = "buttons">
     <ul>
         <form>
-            <input id= "A-Antecedent" type="button" onclick="surroundSelection('A-Antecedent')" value="A-Antecedent">
+            <input id= "A1" type="button" onclick="surroundSelection('A1')" value="Antecedent L1">
         </form>
         <form>
-            <input id= "C-Consequent" type="button" onclick="surroundSelection('C-Consequent')" value="C-Consequent">
+            <input id= "A2" type="button" onclick="surroundSelection('A2')" value="Antecedent L2">
         </form>
         <form>
-            <input id= "T1-Topic" type="button" onclick="surroundSelection('T1-Topic')" value="T1-Topic">
+            <input id= "C" type="button" onclick="surroundSelection('C')" value="Consequent">
         </form>
         <form>
-            <input id= "T2-Topic" type="button" onclick="surroundSelection('T2-Topic')" value="T2-Topic">
+            <input id= "T1" type="button" onclick="surroundSelection('T1')" value="Topic A">
         </form>
         <form>
-            <input id= "T3-Topic" type="button" onclick="surroundSelection('T3-Topic')" value="T3-Topic">
+            <input id= "T2" type="button" onclick="surroundSelection('T2')" value="Topic C">
         </form>
         <form>
-            <input id= "EL-LeftEquivalent" type="button" onclick="surroundSelection('EL-LeftEquivalent')" value="EL-LeftEquivalent">
+            <input id= "T3" type="button" onclick="surroundSelection('T3')" value="Topic A+C">
         </form>
         <form>
-            <input id= "ER-RightEquivalent" type="button" onclick="surroundSelection('ER-RightEquivalent')" value="ER-RightEquivalent">
+            <input id= "EL" type="button" onclick="surroundSelection('EL')" value="Left Equivalent">
+        </form>
+        <form>
+            <input id= "ER" type="button" onclick="surroundSelection('ER')" value="Right Equivalent">
+        </form>
+        <form>
+            <input id= "N" type="button" onclick="surroundSelection('N')" value="Enumeration">
         </form>
     </ul>
 </div>
@@ -185,15 +191,18 @@ function surroundSelection(type) {
 
     <div class="content-wrapper">
         <div id="dodd_frank">
-
             <div class="modal"><!-- Git image loader--></div>
-        <div id="result"></div>
+            <div id="result"> 
+                <h1>Welcome!</h1>
+                <h2>Please read the instructions carefully. <span style="color: white;"> text fill text fill text fill text fill text fill text fill </span> </h2>
+                <h2>Afterwards, you may go to the titles and classify!</h2>
+            </div>
         </div>
     </div>
 </div>
 
     <!--Main js file -->
-    <script type="text/javascript" src="{{ url_for('static', filename='js/main4.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js')}}"></script>
 
 
 </body>

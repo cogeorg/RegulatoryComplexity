@@ -22,10 +22,11 @@ def main(argv):
 
 
     tag_names = ['title','subtitle','part','section', 'paragraph',
-                 'bullet', 'two_bullet', 'three_bullet', 'four_bullet', 'five_bullet', 'six_bullet']
+                 'bullet', 'two_bullet', 'three_bullet', 'four_bullet', 
+                 'five_bullet', 'six_bullet']
     tag_class=['class="ex1"', 'class="ex2"', 'class="ex3"', 'class="ex4"',
-               'class="ex5"', 'class="ex6"', 'class="ex7"','class="ex8"',
-               'class="ex9"','class="ex10"','class="ex11"']
+               'class="ex5"', 'class="ex6"', 'class="ex7"', 'class="ex8"',
+               'class="ex9"', 'class="ex10"', 'class="ex11"']
 
     data_xml = format_text(data_xml)
     data_title = re.findall(r'<title>(.*?)</title>', data_xml)

@@ -60,10 +60,10 @@ body {
     right:0;
     top:0;
     width: 192px;
+    height: 62px;
     position: fixed;
     background-color: #ffffff;
 } 
-
 
 .nav-tabs ul form button {
           font-family: "Roboto", sans-serif;
@@ -72,7 +72,9 @@ body {
           background:  #000000;
           width: 100%;
           border: 0;
-          padding:  10px;
+          margin:0;
+          float: left;
+          padding: 10px;
           color: #FFFFFF;
           font-size: 10px;
           cursor: pointer;
@@ -102,32 +104,40 @@ body {
       cursor: pointer;
         }
 
-#A-Antecedent{
+#A1 {
     background-color: #81fd81;
 }
 
-#C-Consequent {
+#A2 {
+    background-color: #03ca03;
+}
+
+#C {
     background-color:#cc99ff;
 }
 
-#T1-Topic {
+#T1 {
     background-color:#ffff99;
 }
 
-#T2-Topic {
+#T2 {
     background-color:#ffff00;
 }
 
-#T3-Topic {
+#T3 {
     background-color:#ffcc00;
 }
 
-#EL-LeftEquivalent {
+#EL {
     background-color:#d3d3d3;
 }
 
-#ER-RightEquivalent {
-    background-color:#bababa;
+#ER {
+    background-color:#c9e3e3;
+}
+
+#N {
+    background-color:#ff69b4;
 }
 
 

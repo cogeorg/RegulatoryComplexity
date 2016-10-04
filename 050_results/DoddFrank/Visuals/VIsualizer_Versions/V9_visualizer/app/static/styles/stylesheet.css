@@ -9,32 +9,40 @@
 
 
 
-span.A-Antecedent {
+span.A1 {
     background-color:#81fd81;
    }
 
-span.C-Consequent {
+span.A2 {
+    background-color:#03ca03;
+   }
+
+span.C {
     background-color:#cc99ff;
 }
 
-span.T1-Topic {
+span.T1 {
     background-color:#ffff99;
 }
 
-span.T2-Topic {
+span.T2 {
     background-color:#ffff00;
 }
 
-span.T3-Topic {
+span.T3 {
     background-color:#ffcc00;
 }
 
-span.EL-LeftEquivalent {
+span.EL {
     background-color:#d3d3d3;
 }
 
-span.ER-RightEquivalent {
-    background-color:#bababa;
+span.ER {
+    background-color:#c9e3e3;
+}
+
+span.N {
+    background-color:#ff69b4;
 }
 
 
