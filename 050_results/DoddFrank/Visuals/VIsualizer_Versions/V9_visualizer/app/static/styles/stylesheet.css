@@ -10,10 +10,14 @@
 
 
 span.A1 {
-    background-color:#81fd81;
+    background-color:#a8fea8;
    }
 
 span.A2 {
+    background-color:#47fc47;
+   }
+
+span.A3 {
     background-color:#03ca03;
    }
 
@@ -41,8 +45,8 @@ span.ER {
     background-color:#c9e3e3;
 }
 
-span.N {
-    background-color:#ff69b4;
+span.H {
+    font-weight:bold;
 }
 
 

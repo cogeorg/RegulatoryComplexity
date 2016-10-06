@@ -3,9 +3,6 @@
 (function () {
     /* First p tag*/
     var user_name = $( "p:first" ).text();
-    /* Div (Document) to apply Text High*/
-    var sandbox = document.getElementById('dodd_frank');
-
 
     /* Load different titles*/
     /* ******************** */

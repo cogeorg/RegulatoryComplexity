@@ -169,9 +169,6 @@ function surroundSelection(type) {
         <form>
             <input id= "ER" type="button" onclick="surroundSelection('ER')" value="Right Equivalent">
         </form>
-        <form>
-            <input id= "N" type="button" onclick="surroundSelection('N')" value="Enumeration">
-        </form>
     </ul>
 </div>
 
@@ -194,7 +191,7 @@ function surroundSelection(type) {
             <div class="modal"><!-- Git image loader--></div>
             <div id="result"> 
                 <h1>Welcome!</h1>
-                <h2>Please read the instructions carefully. <span style="color: white;"> text fill text fill text fill text fill text fill text fill </span> </h2>
+                <h2>Please read the <a href = "/instructions">instructions</a> carefully. <span style="color: white;"> text fill text fill text fill text fill text fill text fill </span> </h2>
                 <h2>Afterwards, you may go to the titles and classify!</h2>
             </div>
         </div>
@@ -202,7 +199,7 @@ function surroundSelection(type) {
 </div>
 
     <!--Main js file -->
-    <script type="text/javascript" src="{{ url_for('static', filename='js/main4.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js')}}"></script>
 
 
 </body>

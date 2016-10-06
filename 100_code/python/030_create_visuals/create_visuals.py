@@ -21,12 +21,11 @@ def main(argv):
     data_xml = data_xml.strip("\n")
 
 
-    tag_names = ['title','subtitle','part','section', 'paragraph',
-                 'bullet', 'two_bullet', 'three_bullet', 'four_bullet', 
-                 'five_bullet', 'six_bullet']
+    tag_names = ['title','subtitle','part','section', 'paragraph']
     tag_class=['class="ex1"', 'class="ex2"', 'class="ex3"', 'class="ex4"',
-               'class="ex5"', 'class="ex6"', 'class="ex7"', 'class="ex8"',
-               'class="ex9"', 'class="ex10"', 'class="ex11"']
+               'class="ex5"']
+    tag_names_del = ['bullet', 'two_bullet', 'three_bullet', 'four_bullet', 
+                 'five_bullet', 'six_bullet']
 
     data_xml = format_text(data_xml)
     data_title = re.findall(r'<title>(.*?)</title>', data_xml)
@@ -42,6 +41,14 @@ def main(argv):
             #classes
             data = re.sub('</' + tag_names[tag_names.index(tag)]
                           ,' </div',data)
+
+        #delete bullets
+        for tag in tag_names_del:
+            # divisions
+            data = re.sub('<' + tag_names_del[tag_names_del.index(tag)] + ">", "", data)
+
+            #classes
+            data = re.sub('</' + tag_names_del[tag_names_del.index(tag)] + ">", "", data)
 
         # Attributes, EconomicOperands, GrammaticalOperators, LegalOperators, LegalReferences
         # LogicalOperators, Other, RegulationOperators

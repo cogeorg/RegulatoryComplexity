@@ -105,10 +105,14 @@ body {
         }
 
 #A1 {
-    background-color: #81fd81;
+    background-color: #a8fea8;
 }
 
 #A2 {
+    background-color: #47fc47;
+}
+
+#A3 {
     background-color: #03ca03;
 }
 
@@ -136,9 +140,6 @@ body {
     background-color:#c9e3e3;
 }
 
-#N {
-    background-color:#ff69b4;
-}
 
 
 .save ul {
