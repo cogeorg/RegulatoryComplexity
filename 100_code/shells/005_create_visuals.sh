@@ -1,6 +1,9 @@
 #!/bin/bash
 
 #cd /Users/alilimon/Documents/Research/ &&
-cd /Users/co/git/
+#cd /Users/co/git/
+cd /home/sabine/Dokumente/Git/ &&
 
-python ./RegulatoryComplexity/100_code/python/030_create_visuals/create_visuals.py -i  ./RegulatoryComplexity/010_cleaned_data/dodd_frank.xml -w ./RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list/ -o  ./RegulatoryComplexity/050_results/DoddFrank/Visuals/DF_Templates_protected/
+python ./RegulatoryComplexity/100_code/python/030_create_visuals/create_visuals.py -i  ./RegulatoryComplexity/010_cleaned_data/Dodd_Frank.xml -w ./RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list/ -o  ./RegulatoryComplexity/050_results/DoddFrank/Visuals/DF_Templates_Protected/
+
+cp -R ./RegulatoryComplexity/050_results/DoddFrank/Visuals/DF_Templates_Protected/. /RegulatoryComplexity/050_results/DoddFrank/Visuals/VIsualizer_Versions/V9_visualizer/app/templates/PreClass/

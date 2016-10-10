@@ -112,8 +112,7 @@ def logout():
 @app.route("/index")                            # Access to index just if the user is logged
 @login_required
 def index():
-    user_name = current_user.username           # Get the current user
-    return render_template('index.html', username = user_name )
+    return render_template('index.html')
 
 
 

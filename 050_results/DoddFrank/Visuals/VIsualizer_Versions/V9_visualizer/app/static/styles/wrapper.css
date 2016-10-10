@@ -29,13 +29,13 @@
     cursor: pointer;
 }
 
-.li_words {
+.li_words{
     margin-top: 5px;
     padding-left: 5px;
     font-size: 15px;
     display: inline;
     float: left;
-    padding-right: 9px;
+    padding-right: 5px;
     clear: both; color: 
 }
 
@@ -54,6 +54,19 @@
    margin-top: 0px;
     margin-right: 270px;
     margin-left: 130px;
+   padding: 0 30px;
+   overflow-y: scroll;
+   position: fixed;
+   left: 0;
+    top:0 ;
+  height:100vh;
+  background-color:#ffffff;
+}
+
+.content-wrapper-instr {
+   margin-top: 0px;
+    margin-right: 270px;
+    margin-left: 20px;
    padding: 0 30px;
    overflow-y: scroll;
    position: fixed;

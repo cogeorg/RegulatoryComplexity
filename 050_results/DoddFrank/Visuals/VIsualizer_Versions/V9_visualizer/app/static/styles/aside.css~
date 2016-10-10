@@ -75,9 +75,7 @@ body {
           background:  #000000;
           width: 100%;
           border: 0;
-          margin:0;
-          float: left;
-          padding: 10px;
+          padding:  10px;
           color: #FFFFFF;
           font-size: 10px;
           cursor: pointer;

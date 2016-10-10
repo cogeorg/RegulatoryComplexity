@@ -9,33 +9,36 @@
 
 
 
+span.GrammaticalOperators {
+    background-color:#554600;
+   }
 
-span.LogicalConnectors {
-    background-color:#8b69f9;
-}
-
-span.RegulatoryOperators {
-    background-color:#c25ff8;
-}
-
-span.EconomicOperands {
-    background-color:#ffff58;
-}
-
-span.Attributes {
-    background-color:#ffe258;
+span.LegalOperators {
+    background-color:#806D15;
 }
 
 span.LegalReferences {
-    background-color:#afafaf;
+    background-color:#D4C26A;
 }
 
-span.FunctionWords {
-    background-color:#696969;
+span.LogicalOperators {
+    background-color:#FFF0AA;
+}
+
+span.RegulationOperators {
+    background-color:#AA0739;
+}
+
+span.Attributes {
+    background-color:green;
+}
+
+span.EconomicOperands {
+    background-color:yellow;
 }
 
 span.Other {
-    background-color:#a3a3a3;
+    background-color:red;
 }
 
 
