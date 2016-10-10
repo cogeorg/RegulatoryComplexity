@@ -89,7 +89,7 @@ for f in glob.glob("*.html"):
                 # if first entry is non-empty
                 else:
                     # append first first entry
-                    output.append([split, [complSpanType, None, None]])
+                    output.append([split.strip(), [complSpanType, None, None]])
                     # than append current span
                     output.append(otherSpans[j])
                     # remove both from complex span
@@ -105,40 +105,3 @@ for f in glob.glob("*.html"):
         print thing
 
 
-
-'''
-
-
-    for i in range(len(spanList)):
-        if len(spanList[i][1]) == 2:
-            spanList[i][0] = spanList[i][0].replace(spanList[i+1][0], "")
-            spanList[i+1][1]= [None] + spanList[i][1]
-            spanList[i][1]= [None] + [spanList[i][1][0]] + [None]
-
-#        if len(spanList[i][1]) > 2:
-#            compl = len(spanList[i][1])
-#            inter = range(1, compl)
-#            print inter
-#
-#            for j in inter:
-#                spanList[i][0] = spanList[i][0].replace(spanList[i+j][0], "")
-
-    for item in spanList:
-        print item
-
-
-        text = []
-        if partType[0] == "H": 
-            continue
-        else:
-            words = part.split()
-            for word in words:
-                word = word.encode("utf-8")
-                if partType[0] == "A2":
-                    text.append([word, 'A1', 'A2', None])
-                elif partType[0] == "A3":
-                    text.append([word, 'A1', 'A2', 'A3'])
-                else: 
-                    text.append([word, partType[0], None, None])
-        print text
-'''   

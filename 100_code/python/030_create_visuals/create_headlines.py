@@ -48,8 +48,11 @@ def main(argv):
         for line in replacement:
             data = re.sub(line, "<span class=H>" + line +"</span>", data)
 
+        # include <br /> tags
+        data = re.sub(r"(\s)(\(.{1,3}\)\s<span class=H>)", r" <br />\2", data)
+
         #delete "--" in front of enumerations
-        data = re.sub("([a-z])(--)", r'\1', data)
+        data = re.sub("([a-z]|\)|'')(--)", r'\1', data)
 
         # delete "\" around numbers
         data = re.sub(r"\\", "", data)

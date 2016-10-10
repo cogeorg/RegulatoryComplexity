@@ -89,7 +89,7 @@ for f in glob.glob("*.html"):
                 # if first entry is non-empty
                 else:
                     # append first first entry
-                    output.append([split, [complSpanType, None, None]])
+                    output.append([split.strip(), [complSpanType, None, None]])
                     # than append current span
                     output.append(otherSpans[j])
                     # remove both from complex span
