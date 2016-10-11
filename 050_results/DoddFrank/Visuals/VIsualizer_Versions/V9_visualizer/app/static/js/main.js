@@ -35,10 +35,10 @@
         list_high.push($(this).text() + "_" + "white");
         // does not work with flask
         // Similar to the remove dropdown
-        //flag = true;
-        //hltr.setColor("white");
-        //hltr.find($(this).text(), false);
-        //hltr.setReady(true);
+        flag = true;
+        hltr.setColor("white");
+        hltr.find($(this).text(), false);
+        hltr.setReady(true);
         // to remove the li item from the frame
         this.parentNode.removeChild(this);
         count=1;
@@ -92,6 +92,25 @@
         });
         });
         };
+
+        // save words when clicking on "Instructions", "Words classified" or "Log out" button
+        $(document).on('click', '.nav-tabs ul form button', function(){
+            var paramData = {wordList:list_high, user_name:  user_name};
+            $.getJSON('/_array2python', {
+                params: JSON.stringify(paramData)
+                }, function(data){
+                    var words = data.words;
+                    var colors = data.colors;
+                    var i = 0;
+                    words.forEach(function(entry) {
+                        hltr.setColor(colors[i]);
+                        hltr.find(words[i], false);
+                        hltr.setReady(true);
+                        i +=1;
+                    });
+                    list_high = [];
+                });
+        });
 
         /* ******************** */
 

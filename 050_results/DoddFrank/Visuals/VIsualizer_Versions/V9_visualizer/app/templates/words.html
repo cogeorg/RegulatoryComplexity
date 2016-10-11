@@ -1,20 +1,48 @@
-<html>
-
 <!DOCTYPE html>
 <html>
   <head>
-   <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+    <!--Aside Stylesheet-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
 
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
 </head>
 
-  <body>
-      <!-- Different than word_class (right hand table) -->
+<body>
+<!-- Words classified -->
+<div class="wrapper">
+    <div class="content-wrapper-instr">
 
-    <div class="words_2">
-        <ul id= "words_2" class="ul_words_2"> </ul>
+<h1> Words Classified <span style="color: white;"> text fill text fill text fill text fill text fill text fill text fill</span></h1> 
+
+<div class="words_2">
+    <ul id= "words_2" class="ul_words_2"> </ul>
+</div>
     </div>
+</div>
+
+<!-- Right hand menu -->
+<!-- Instructions and Logout -->
+<div class="nav-tabs">
+    <ul>
+        <form  action="/index">
+            <input type=text  style="display: none;">
+            <button>Back to classifying</button>
+        </form>
+
+        <form  action="/instructions">
+            <input type=text  style="display: none;">
+            <button>Instructions</button>
+        </form>
+
+        <form  action="/logout" >
+            <input type=text style="display: none;">
+            <button>Log out</button>
+        </form>
+    </ul>
+</div>
 </body>
 <script>
     (function(){
@@ -48,7 +76,4 @@
         }
     })();
 </script>
-</html>
-
-
 </html>

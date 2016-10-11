@@ -134,14 +134,18 @@
  <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
 <div class="wrapper">
     <div class="words">
-        <ul id= "words" class="ul_words"> Words Classified </ul>
+        <ul id= "words" class="ul_words"></ul>
     </div>
 
     <div class="content-wrapper">
         <div id="dodd_frank">
 
             <div class="modal"><!-- Git image loader--></div>
-        <div id="result"></div>
+        <div id="result">
+            <h1>Welcome!</h1>
+            <h2>Please read the <a href = "/instructions">instructions</a> carefully. <span style="color: white;"> text fill text fill text fill text fill text fill text fill </span> </h2>
+            <h2>Afterwards, you may go to the titles and classify!</h2>
+        </div>
         </div>
     </div>
 </div>

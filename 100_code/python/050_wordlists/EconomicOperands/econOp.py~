@@ -1,0 +1,24 @@
+#import re
+import glob
+
+operands = []
+
+for filename in glob.glob('*.txt'):
+    fh = open(filename, "r")
+
+    for line in fh:
+        line = line.rstrip()
+        if line.startswith("and "):
+            line = line.lstrip("and ")
+        if line.startswith("as "):
+            line = line.lstrip("as ")
+        if line not in operands:
+            operands.append(line)
+
+operands.sort()
+    
+fh = open("EconomicOperands_extra.txt", "w")
+for word in operands:
+    fh.write(word + "\n")
+
+fh.close()

@@ -1,0 +1,270 @@
+0%
+10%
+50%
+100%
+etc.
+1
+2
+3
+4
+½
+¼
+a bit of
+a couple of
+a few
+a good deal of
+a good many
+a great deal of
+a great many
+a lack of
+a little
+a little bit of
+a majority of
+a minority of
+a number of
+a plethora of
+a quantity of
+all
+an amount of
+another
+any
+both
+certain
+each
+enough
+few
+fewer
+heaps of
+less
+little
+loads
+lots
+many
+masses of
+more
+most
+much
+neither
+no
+none
+numbers of
+one half
+one third
+one fourth
+one quarter
+one fifth
+one
+two
+three
+four
+part
+plenty of
+quantities of
+several
+some
+the lack of
+the majority of
+the minority of
+the number of
+the plethora of
+the remainder of
+the rest of
+the whole
+tons of
+various
+once
+than
+that
+thence
+tho'
+till
+until
+when
+whence
+whenever
+where
+wherever
+whether
+whilst
+aboard
+about
+above
+absent
+according to
+across
+against
+ahead
+ahead of
+all over
+along
+alongside
+amid
+amidst
+among
+amongst
+anti
+around
+as of
+as to
+aside
+astraddle
+astride
+at
+away from
+bar
+barring
+behind
+below
+beneath
+beside
+between
+beyond
+by
+by the time of
+circa
+close by
+close to
+down
+during
+except
+except for
+excepting
+excluding
+failing
+following
+for all
+from
+given
+in
+in between
+in front of
+in keeping with
+in place of
+inside
+instead of
+into
+minus
+near
+near to
+next to
+of
+off
+on
+on top of
+onto
+opposite
+other than
+out
+out of
+outside
+over
+past
+pending
+per
+pertaining to
+plus
+respecting
+round
+save
+saving
+similar to
+thanks to
+through
+throughout
+thru
+to
+toward
+towards
+under
+underneath
+unlike
+unto
+up
+up to
+upon
+versus
+via
+wanting
+with
+within
+without
+anybody
+anyone
+anything
+each other
+everybody
+everyone
+everything
+he
+her
+hers
+herself
+him
+himself
+his
+I
+it
+its
+itself
+me
+mine
+myself
+no_one
+nobody
+nothing
+one another
+other
+ours
+ourselves
+she
+somebody
+someone
+something
+such
+theirs
+them
+themselves
+these
+they
+this
+those
+us
+we
+what
+whatever
+which
+whichever
+who
+whoever
+whom
+whomever
+whose
+you
+yours
+yourself
+yourselves
+be able to
+can
+could
+dare
+had better
+have to
+may
+might
+must
+need to
+ought
+ought to
+shall
+should
+used to
+will
+would
+a
+an
+every
+my
+our
+the
+their
+your

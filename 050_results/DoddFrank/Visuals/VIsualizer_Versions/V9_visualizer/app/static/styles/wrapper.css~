@@ -1,29 +1,30 @@
 
 .wrapper {
-  width: 100%;
-  background-color: #fff;
+    width: 100%;
+    background-color: #fff;
 }
 
 
 .words {
-   position: fixed;
-  width: 230px;
-  height:800px;
-  right: 0;
-  overflow-y: scroll;
-  background-color: #ffffff;
-  top: 120px;
+    position: fixed;
+    width: 230px;
+    height:800px;
+    right: 0;
+    overflow-y: scroll;
+    background-color: #ffffff;
+    top: 120px;
     font-size:12px;
 }
 
 .ul_words {
     position: fixed;
-  width: 150px;
-  height:100vh;
-  right: 0;
-  overflow-y: scroll;
-  background-color: #ffffff;
-  top: 120px;
+    width: 185px;
+    height:100vh;
+    right: 0;
+    overflow-y: scroll;
+    background-color: #ffffff;
+    top: 120px;
+    padding-left: 5px;
     font-size:12px;
     border: 1px solid black;
     cursor: pointer;
@@ -35,7 +36,7 @@
     font-size: 15px;
     display: inline;
     float: left;
-    padding-right: 9px;
+    padding-right: 5px;
     clear: both; color: 
 }
 

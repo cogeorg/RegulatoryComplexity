@@ -13,7 +13,7 @@ function makeUL(array, array2) {
     var first = document.createElement('li');
     // Create header Words Classfied
     first.className= "li_words";
-    //first.appendChild(document.createTextNode("Words Classified"));
+    first.appendChild(document.createTextNode("Words Classified"));
     // Append to the UL
     list.appendChild(first);
 

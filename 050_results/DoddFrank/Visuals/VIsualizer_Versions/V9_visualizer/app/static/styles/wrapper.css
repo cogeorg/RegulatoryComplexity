@@ -1,29 +1,30 @@
 
 .wrapper {
-  width: 100%;
-  background-color: #fff;
+    width: 100%;
+    background-color: #fff;
 }
 
 
 .words {
-   position: fixed;
-  width: 230px;
-  height:800px;
-  right: 0;
-  overflow-y: scroll;
-  background-color: #ffffff;
-  top: 120px;
+    position: fixed;
+    width: 230px;
+    height:800px;
+    right: 0;
+    overflow-y: scroll;
+    background-color: #ffffff;
+    top: 120px;
     font-size:12px;
 }
 
 .ul_words {
     position: fixed;
-  width: 150px;
-  height:100vh;
-  right: 0;
-  overflow-y: scroll;
-  background-color: #ffffff;
-  top: 120px;
+    width: 185px;
+    height:100vh;
+    right: 0;
+    overflow-y: scroll;
+    background-color: #ffffff;
+    top: 120px;
+    padding-left: 5px;
     font-size:12px;
     border: 1px solid black;
     cursor: pointer;
@@ -51,27 +52,27 @@
 
 
 .content-wrapper {
-   margin-top: 0px;
+    margin-top: 0px;
     margin-right: 270px;
     margin-left: 130px;
-   padding: 0 30px;
-   overflow-y: scroll;
-   position: fixed;
-   left: 0;
+    padding: 0 30px;
+    overflow-y: scroll;
+    position: fixed;
+    left: 0;
     top:0 ;
-  height:100vh;
-  background-color:#ffffff;
+    height:100vh;
+    background-color:#ffffff;
 }
 
 .content-wrapper-instr {
-   margin-top: 0px;
+    margin-top: 0px;
     margin-right: 270px;
     margin-left: 20px;
-   padding: 0 30px;
-   overflow-y: scroll;
-   position: fixed;
-   left: 0;
+    padding: 0 30px;
+    overflow-y: scroll;
+    position: fixed;
+    left: 0;
     top:0 ;
-  height:100vh;
-  background-color:#ffffff;
+    height:100vh;
+    background-color:#ffffff;
 }

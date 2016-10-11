@@ -1,0 +1,39 @@
+import glob
+import os
+
+fh = open("LogicalConnectors.txt")
+
+logical = []
+
+for line in fh:
+    line = line.strip()
+    logical.append(line)
+
+
+os.chdir("./English_Function_Words_Set")
+
+function = []
+
+for file in glob.glob("*.txt"):
+    fh = open(file)
+    for line in fh:
+        line = line.strip()
+        if line.startswith("/"): continue
+        elif "," in line:
+            lineList = line.split(",")
+            for item in lineList:
+                item = item.strip()
+                if item in logical: continue
+                elif item in function: continue
+                else: function.append(item)
+        elif line in logical: continue
+        elif line in function: continue
+        else: function.append(line)
+
+os.chdir("..")
+
+f = open("FunctionWords.txt",'w')
+for item in function:
+    f.write(item+"\n")
+f.close()
+

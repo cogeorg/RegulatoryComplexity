@@ -25,31 +25,56 @@
 <p>Classify words depending on their function and grammatical behaviour in a sentence.</p>
 <p>The following types of words are possible:</p>
 <ul>
-    <li><span class=LogicalConnectors>Logical Connectors:</span> terms like <i>additionally, for instance,</i> and <i>despite</i></li>
-    <li><span class=RegulatoryOperators>Regulatory Operators:</span> </li>
-    <li><span class=EconomicOperands>Economic Operands:</span> terms like <i>bailout, systemic risk</i> and <i>key role</i></li>
-    <li><span class=Attributes>Attributes:</span> </li>
-    <li><span class=LegalReferences>Legal References:</span> terms like <i>Affordable Housing Act (42 U.S.C. 12773(b)(2)), Securities Exchange Act of 1934</i> and <i>the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.)</i></li>
-    <li><span class=FunctionWords>Function Words:</span></li>
-    <li><span class=Other>Other:</span></li>
+    <li><span class=LogicalConnectors>Logical Connectors:</span> <br />words or terms that are used to join or connect two ideas that have a particular relationship. These relationships can be: sequential(e.g., “until” and “before”), reason and purpose (e.g., “because” and “as long as”), adversative (e.g., “even though” and “however”), and condition (e.g., “if” and “unless”).</li>
 </ul>
-
-
-<h1>Features</h1>
 <ul>
-    <li>Highlighting of selected text: Select and pick the color for each word(s).</li>
-    <li>Update and find the list of words: Store the list of words highlighted during your session and find them in the document.</li>
-    <li>Remove words: Select and remove words already highlighted.</li>
-    <li>Change title: Select different titles.</li>
-    <li>Check the list  of words classified during your session.</li>
+    <li><span class=RegulatoryOperators>Regulatory Operators:</span> <br /> words whose meaning affects the choice set of an economic agent, by either expanding it (“a bank may do this or that”) or restricting it (“a fund is prohibited from…”). Typically, the operator is a verb, and the subject an economic agent (i.e., a special type of operand). However, the text can also use a different way of expressing the same idea, so that what matters is that the sentence can be expressed in this format. Consider for instance the following statements, all equivalent:
+    <ul>
+        <li>Regulation XYZ <b>prohibits</b> banks from engaging in proprietary trading.</li>
+        <li>Proprietary trading is <b>prohibited</b> for banks under regulation XYZ.</li>
+        <li>There is a <b>prohibition</b> of proprietary trading for banks.</li>
+    </ul>
+</ul>
+<ul>
+    </li>
+    <li><span class=EconomicOperands>Economic Operands:</span> <br /> words that correspond to an economic reality, such as an agent, a product, a regulatory agency, a time period, etc. (as opposed to words that refer to the document itself, e.g., “section”). They have to be “content” or “lexical” words, that is, they have a meaning by themselves. Examples: “bank”, “hedge fund”, “swap”, but also “month”, “United States”, “safety”, “2009”.</li>
+</ul>
+<ul>
+    <li><span class=Attributes>Attributes:</span> <br /> quantitative or qualitative qualifiers that apply to an economic operand, typically adjectives and adverbs. They can in general be applied to entirely different contexts, e.g., “small”, “safe”, “adversely”, etc.</li>
+</ul>
+<ul>
+    <li><span class=LegalReferences>Legal References:</span> <br /> words that do not refer to economic realities but to the regulatory text itself (“section”), to other texts (“U.S. Code”), or are part of the legal “grammar” (“Definition”). </li>
+</ul>
+<ul>
+    <li><span class=FunctionWords>Function Words:</span> <br /> words that are not otherwise classified, in particular are not classified as logical connectors.</li>
+</ul>
+<ul>
+    <li><span class=Other>Other:</span> <br /> words that are otherwise unclassified.</li>
 </ul>
 
-<h1>How it works?</h1>
+
+<h1>How it works</h1>
+<h3> Classification:</h3>
 <ul>
-    <li>Select the word. </li>
-    <li>Right click. </li>
-    <li>Choose the type of word or the task from the menu</li>
+<li>Select a part of a sentence.</li>
+<li>Right-click on the selection and choose the appropriate category.</li>
+<li>The word or term is colored accordingly.</li>
 </ul>
+<h3> Corrections:</h3>
+<ul>
+<li>If the classification has not been saved yet, select the word to delete, right-click and select <i>Remove</i>.</li>
+<li>If the classification has been saved, the above explained procedure still works, but you may also double-click on the word in the list on the right-hand side.</li>
+</ul>
+<h3> Save:</h3>
+<ul>
+<li>Right-click anywhere and select <i>Update</i>.</li>
+<li>This is done autmatically when you switch between titles or click on any of the buttons on the right-hand side.</li>
+</ul>
+<h3> Further instructions:</h3>
+<ul>
+<li></li>
+</ul>
+
 
 
     </div>
