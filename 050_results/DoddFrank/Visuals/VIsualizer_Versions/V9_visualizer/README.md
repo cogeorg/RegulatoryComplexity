@@ -12,10 +12,10 @@ Sign In & Log In
 In order to use the visualizer you need to sign in and log in. 
 
  
-Output file
+Output files
 ------- 
-Check your current list of words `app/output/output.csv`.  
-**Note: Words prevously classified are shown by default in the document view**
+Check your personal title files in `/app/templates/output`.  
+**Note: Words previously classified are shown in the document view by default**
 
 
 
