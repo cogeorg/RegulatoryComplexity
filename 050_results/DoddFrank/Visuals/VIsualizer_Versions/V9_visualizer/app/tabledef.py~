@@ -4,8 +4,7 @@ from sqlalchemy import Column, Date, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, backref
  
-#Change to 'sqlite:////home/username/mysite/static/users/users.db' for Flask
-engine = create_engine('sqlite:///app/static/users/users.db', echo=True)
+engine = create_engine('sqlite:///users.db', echo=True)
 Base = declarative_base()
  
 ########################################################################
