@@ -2,7 +2,8 @@ from flask import Flask
 from flask import request, jsonify, redirect, url_for,flash,  render_template, request, session, abort
 from helper_functions import *
 from app import app
-from sqlalchemy.orm import sessionmaker
+#from sqlalchemy.orm import sessionmaker
+from flask_sqlalchemy import SQLAlchemy
 from tabledef import *
 from flask_mail import Mail, Message
 from flask_login import LoginManager, UserMixin, login_user, current_user,login_required, logout_user
@@ -18,8 +19,31 @@ import shutil
 
 # Create the engine to use users.db
 #Change to 'sqlite:////home/username/mysite/static/users/users.db' for Flask
-engine = create_engine('sqlite:///app/static/users/users.db', echo=True)
+#engine = create_engine('sqlite:///app/static/users/users.db', echo=True)
 
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///app/static/users/users.db'
+db = SQLAlchemy(app)
+
+
+class User(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(80), unique=True)
+    password = db.Column(db.String(80))
+    email = db.Column(db.String(120), unique=True)
+    afiliation = db.Column(db.String(80))
+    authenticated = db.Column(db.Boolean)
+
+    def __init__(self, username, email):
+        self.username = username
+        self.email = email
+        self.password = password
+        self.afiliation = afiliation
+        self.authenticated = authenticated
+
+    def __repr__(self):
+        return '<User %r>' % self.username
+
+db.create_all()
 
 # Initialize the Mail object with the app
 mail=Mail(app)
@@ -162,12 +186,12 @@ def array2python():
 
     data = head + htmlString + tail
     username = user_name.strip()
-    f = open("app/templates/output/" + titleName + ".html", "w")
+    f = open("app/templates/output/" + username + "/" + titleName + ".html", "w")
     f.write(data)
     f.close()
 
 '''
-+ username + "/" 
+
 #array2python function to get the list of words classified from the visualizer
 # and export it to a csv file
 @app.route('/_array2python')

@@ -20,7 +20,6 @@ import shutil
 #Change to 'sqlite:////home/username/mysite/static/users/users.db' for Flask
 engine = create_engine('sqlite:///app/static/users/users.db', echo=True)
 
-
 # Initialize the Mail object with the app
 mail=Mail(app)
 
