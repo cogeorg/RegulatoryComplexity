@@ -2,7 +2,7 @@
 <Regulation>
    <title Notes_1="Financial Stability Act of 2010.">
       TITLE I-- FINANCIAL STABILITY
-      <section Notes_1="12 USC 5301 note.">SEC. 101. SHORT TITLE. This title may be cited as the ``Financial Stability Act of 2010''.</section>
+      <section Notes_1="12 USC 5301 note.">SEC. 101. SHORT TITLE.</section><paragraph> This title may be cited as the ``Financial Stability Act of 2010''.</paragraph>
       <section Notes_1="12 USC 5311.">
          SEC. 102. DEFINITIONS.
          <paragraph>
@@ -251,7 +251,7 @@
             <paragraph Notes_1="Deadline.">(h) Judicial Review.--If the Council makes a final determination under this section with respect to a nonbank financial company, such nonbank financial company may, not later than 30 days after the date of receipt of the notice of final determination under subsection (d)(2), (e)(3), or (f)(5), bring an action in the United States district court for the judicial district in which the home office of such nonbank financial company is located, or in the United States District Court for the District of Columbia, for an order requiring that the final determination be rescinded, and the court shall, upon review, dismiss such action or direct the final determination to be rescinded. Review of such an action shall be limited to whether the final determination made under this section was arbitrary and capricious.</paragraph>
             <paragraph Notes_1="Consultation.">(i) International Coordination.-- In exercising its duties under this title with respect to foreign nonbank financial companies, foreign-based bank holding companies, and cross-border activities and markets, the Council shall consult with appropriate foreign regulatory authorities, to the extent appropriate.</paragraph>
          </section>
-         <section Notes_1="12 USC 5324." Notes_2="Deadline.">SEC. 114. REGISTRATION OF NONBANK FINANCIAL COMPANIES SUPERVISED BY THE BOARD OF GOVERNORS. Not later than 180 days after the date of a final Council determination under section 113 that a nonbank financial company is to be supervised by the Board of Governors, such company shall register with the Board of Governors, on forms prescribed by the Board of Governors, which shall include such information as the Board of Governors, in consultation with the Council, may deem necessary or appropriate to carry out this title.</section>
+         <section Notes_1="12 USC 5324." Notes_2="Deadline.">SEC. 114. REGISTRATION OF NONBANK FINANCIAL COMPANIES SUPERVISED BY THE BOARD OF GOVERNORS.</section><paragraph> Not later than 180 days after the date of a final Council determination under section 113 that a nonbank financial company is to be supervised by the Board of Governors, such company shall register with the Board of Governors, on forms prescribed by the Board of Governors, which shall include such information as the Board of Governors, in consultation with the Council, may deem necessary or appropriate to carry out this title.</paragraph>
          <section Notes_1="12 USC 5325.">
             SEC. 115. ENHANCED SUPERVISION AND PRUDENTIAL STANDARDS FOR NONBANK FINANCIAL COMPANIES SUPERVISED BY THE BOARD OF GOVERNORS AND CERTAIN BANK HOLDING COMPANIES.
             <paragraph>
@@ -386,7 +386,7 @@
                <bullet>(3) Review.--If the Council denies an appeal under this subsection, the Council shall, not less frequently than annually, review and reevaluate the decision.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5328.">SEC. 118. COUNCIL FUNDING. Any expenses of the Council shall be treated as expenses of, and paid by, the Office of Financial Research.</section>
+         <section Notes_1="12 USC 5328.">SEC. 118. COUNCIL FUNDING.</section><paragraph> Any expenses of the Council shall be treated as expenses of, and paid by, the Office of Financial Research.</paragraph>
          <section Notes_1="12 USC 5329.">
             SEC. 119. RESOLUTION OF SUPERVISORY JURISDICTIONAL DISPUTES AMONG MEMBER AGENCIES.
             <paragraph>
@@ -792,7 +792,7 @@
                <bullet>(5) Hart-Scott-Rodino filing requirement.--Solely for purposes of section 7A(c)(8) of the Clayton Act (15 U.S.C. 18a(c)(8)), the transactions subject to the requirements of paragraph (1) shall be treated as if Board of Governors approval is not required.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5364.">SEC. 164. PROHIBITION AGAINST MANAGEMENT INTERLOCKS BETWEEN CERTAIN FINANCIAL COMPANIES. A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions Management Interlocks Act (12 U.S.C. 3201 et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 of that Act (12 U.S.C. 3207) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $50,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).</section>
+         <section Notes_1="12 USC 5364.">SEC. 164. PROHIBITION AGAINST MANAGEMENT INTERLOCKS BETWEEN CERTAIN FINANCIAL COMPANIES.</section><paragraph> A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions Management Interlocks Act (12 U.S.C. 3201 et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 of that Act (12 U.S.C. 3207) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $50,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).</paragraph>
          <section Notes_1="12 USC 5365.">
             SEC. 165. ENHANCED SUPERVISION AND PRUDENTIAL STANDARDS FOR NONBANK FINANCIAL COMPANIES SUPERVISED BY THE BOARD OF GOVERNORS AND CERTAIN BANK HOLDING COMPANIES.
             <paragraph>
@@ -1038,8 +1038,8 @@
                <bullet>(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5368." Notes_2="Deadline.">SEC. 168. REGULATIONS. The Board of Governors shall have authority to issue regulations to implement subtitles A and C and the amendments made thereunder. Except as otherwise specified in subtitle A or C, not later than 18 months after the effective date of this Act, the Board of Governors shall issue final regulations to implement subtitles A and C, and the amendments made thereunder.</section>
-         <section Notes_1="12 USC 5369.">SEC. 169. AVOIDING DUPLICATION. The Board of Governors shall take any action that the Board of Governors deems appropriate to avoid imposing requirements under this subtitle that are duplicative of requirements applicable to bank holding companies and nonbank financial companies under other provisions of law.</section>
+         <section Notes_1="12 USC 5368." Notes_2="Deadline.">SEC. 168. REGULATIONS.</section><paragraph> The Board of Governors shall have authority to issue regulations to implement subtitles A and C and the amendments made thereunder. Except as otherwise specified in subtitle A or C, not later than 18 months after the effective date of this Act, the Board of Governors shall issue final regulations to implement subtitles A and C, and the amendments made thereunder.</paragraph>
+         <section Notes_1="12 USC 5369.">SEC. 169. AVOIDING DUPLICATION.</section><paragraph> The Board of Governors shall take any action that the Board of Governors deems appropriate to avoid imposing requirements under this subtitle that are duplicative of requirements applicable to bank holding companies and nonbank financial companies under other provisions of law.</paragraph>
          <section Notes_1="12 USC 5370.">
             SEC. 170. SAFE HARBOR.
             <paragraph Notes_1="Criteria.">(a) Regulations.--The Board of Governors shall promulgate regulations on behalf of, and in consultation with, the Council setting forth the criteria for exempting certain types or classes of U.S. nonbank financial companies or foreign nonbank financial companies from supervision by the Board of Governors.</paragraph>
@@ -1198,7 +1198,7 @@
             <paragraph>(b) By the Council.--The Chairperson of the Council, in consultation with the other members of the Council, shall regularly consult with the financial regulatory entities and other appropriate organizations of foreign governments or international organizations on matters relating to systemic risk to the international financial system.</paragraph>
             <paragraph>(c) By the Board of Governors and the Secretary.--The Board of Governors and the Secretary shall consult with their foreign counterparts and through appropriate multilateral organizations to encourage comprehensive and robust prudential supervision and regulation for all highly leveraged and interconnected financial companies.</paragraph>
          </section>
-         <section Notes_1="12 USC 5374.">SEC. 176. RULE OF CONSTRUCTION. No regulation or standard imposed under this title may be construed in a manner that would lessen the stringency of the requirements of any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable. This title, and the rules and regulations or orders prescribed pursuant to this title, do not divest any such agency of any authority derived from any other applicable law.</section>
+         <section Notes_1="12 USC 5374.">SEC. 176. RULE OF CONSTRUCTION.</section><paragraph> No regulation or standard imposed under this title may be construed in a manner that would lessen the stringency of the requirements of any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable. This title, and the rules and regulations or orders prescribed pursuant to this title, do not divest any such agency of any authority derived from any other applicable law.</paragraph>
       </subtitle>
    </title>
    <title>
@@ -1574,14 +1574,14 @@
          <bullet>(5) ensure that the members of the board of directors (or body performing similar functions) responsible for the failed condition of the covered financial company are removed, if such members have not already been removed at the time the Corporation is appointed as receiver; and</bullet>
          <bullet>(6) not take an equity interest in or become a shareholder of any covered financial company or any covered subsidiary.</bullet>
       </section>
-      <section Notes_1="12 USC 5387.">SEC. 207. DIRECTORS NOT LIABLE FOR ACQUIESCING IN APPOINTMENT OF RECEIVER. The members of the board of directors (or body performing similar functions) of a covered financial company shall not be liable to the shareholders or creditors thereof for acquiescing in or consenting in good faith to the appointment of the Corporation as receiver for the covered financial company under section 203.</section>
+      <section Notes_1="12 USC 5387.">SEC. 207. DIRECTORS NOT LIABLE FOR ACQUIESCING IN APPOINTMENT OF RECEIVER.</section><paragraph> The members of the board of directors (or body performing similar functions) of a covered financial company shall not be liable to the shareholders or creditors thereof for acquiescing in or consenting in good faith to the appointment of the Corporation as receiver for the covered financial company under section 203.</paragraph>
       <section Notes_1="Effective dates. 12 USC 5388.">
          SEC. 208. DISMISSAL AND EXCLUSION OF OTHER ACTIONS.
          <paragraph>(a) In General.--Effective as of the date of the appointment of the Corporation as receiver for the covered financial company under section 202 or the appointment of SIPC as trustee for a covered broker or dealer under section 205, as applicable, any case or proceeding commenced with respect to the covered financial company under the Bankruptcy Code or the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.) shall be dismissed, upon notice to the bankruptcy court (with respect to a case commenced under the Bankruptcy Code), and upon notice to SIPC (with respect to a covered broker or dealer) and no such case or proceeding may be commenced with respect to a covered financial company at any time while the orderly liquidation is pending.</paragraph>
          <paragraph>(b) Revesting of Assets.--Effective as of the date of appointment of the Corporation as receiver, the assets of a covered financial company shall, to the extent they have vested in any entity other than the covered financial company as a result of any case or proceeding commenced with respect to the covered financial company under the Bankruptcy Code, the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), or any similar provision of State liquidation or insolvency law applicable to the covered financial company, revest in the covered financial company.</paragraph>
          <paragraph>(c) Limitation.--Notwithstanding subsections (a) and (b), any order entered or other relief granted by a bankruptcy court prior to the date of appointment of the Corporation as receiver shall continue with the same validity as if an orderly liquidation had not been commenced.</paragraph>
       </section>
-      <section Notes_1="12 USC 5389.">SEC. 209. RULEMAKING; NON-CONFLICTING LAW. The Corporation shall, in consultation with the Council, prescribe such rules or regulations as the Corporation considers necessary or appropriate to implement this title, including rules and regulations with respect to the rights, interests, and priorities of creditors, counterparties, security entitlement holders, or other persons with respect to any covered financial company or any assets or other property of or held by such covered financial company, and address the potential for conflicts of interest between or among individual receiverships established under this title or under the Federal Deposit Insurance Act. To the extent possible, the Corporation shall seek to harmonize applicable rules and regulations promulgated under this section with the insolvency laws that would otherwise apply to a covered financial company.</section>
+      <section Notes_1="12 USC 5389.">SEC. 209. RULEMAKING; NON-CONFLICTING LAW.</section><paragraph> The Corporation shall, in consultation with the Council, prescribe such rules or regulations as the Corporation considers necessary or appropriate to implement this title, including rules and regulations with respect to the rights, interests, and priorities of creditors, counterparties, security entitlement holders, or other persons with respect to any covered financial company or any assets or other property of or held by such covered financial company, and address the potential for conflicts of interest between or among individual receiverships established under this title or under the Federal Deposit Insurance Act. To the extent possible, the Corporation shall seek to harmonize applicable rules and regulations promulgated under this section with the insolvency laws that would otherwise apply to a covered financial company.</paragraph>
       <section Notes_1="12 USC 5390.">
          SEC. 210. POWERS AND DUTIES OF THE CORPORATION.
          <paragraph>
@@ -2806,7 +2806,7 @@
    </title>
    <title Notes_1="Enhancing Financial Institution Safety and Soundness Act of 2010.">
       TITLE III--TRANSFER OF POWERS TO THE COMPTROLLER OF THE CURRENCY, THE CORPORATION, AND THE BOARD OF GOVERNORS
-      <section Notes_1="12 USC 5301 note.">SEC. 300. SHORT TITLE. This title may be cited as the ``Enhancing Financial Institution Safety and Soundness Act of 2010''.</section>
+      <section Notes_1="12 USC 5301 note.">SEC. 300. SHORT TITLE.</section><paragraph> This title may be cited as the ``Enhancing Financial Institution Safety and Soundness Act of 2010''.</paragraph>
       <section Notes_1="12 USC 5401.">
          SEC. 301. PURPOSES. The purposes of this title are--
          <bullet>(1) to provide for the safe and sound operation of the banking system of the United States;</bullet>
@@ -2814,7 +2814,7 @@
          <bullet>(3) to ensure the fair and appropriate supervision of each depository institution, regardless of the size or type of charter of the depository institution; and</bullet>
          <bullet>(4) to streamline and rationalize the supervision of depository institutions and the holding companies of depository institutions.</bullet>
       </section>
-      <section Notes_1="12 USC 5402.">SEC. 302. DEFINITION. In this title, the term ``transferred employee'' means, as the context requires, an employee transferred to the Office of the Comptroller of the Currency or the Corporation under section 322.</section>
+      <section Notes_1="12 USC 5402.">SEC. 302. DEFINITION.</section><paragraph> In this title, the term ``transferred employee'' means, as the context requires, an employee transferred to the Office of the Comptroller of the Currency or the Corporation under section 322.</paragraph>
       <subtitle>
          Subtitle A--Transfer of Powers and Duties
          <section Notes_1="12 USC 5411.">
@@ -2900,7 +2900,7 @@
             </paragraph>
             <paragraph>(d) Consumer Protection.--Nothing in this section may be construed to limit or otherwise affect the transfer of powers under title X.</paragraph>
          </section>
-         <section Notes_1="12 USC 5413." Notes_2="Effective date.">SEC. 313. ABOLISHMENT. Effective 90 days after the transfer date, the Office of Thrift Supervision and the position of Director of the Office of Thrift Supervision are abolished.</section>
+         <section Notes_1="12 USC 5413." Notes_2="Effective date.">SEC. 313. ABOLISHMENT.</section><paragraph> Effective 90 days after the transfer date, the Office of Thrift Supervision and the position of Director of the Office of Thrift Supervision are abolished.</paragraph>
          <section>
             SEC. 314. AMENDMENTS TO THE REVISED STATUTES.
             <paragraph>
@@ -2965,7 +2965,7 @@
                <bullet>(2) Regulations not yet effective.--Any interim or final regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision, in performing functions transferred by this title, has published before the transfer date but which has not become effective before that date, shall become effective as a regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the interim or final regulation, unless modified, terminated, set aside, or superseded in accordance with applicable law by the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, by any court of competent jurisdiction, or by operation of law.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5415.">SEC. 317. REFERENCES IN FEDERAL LAW TO FEDERAL BANKING AGENCIES. On and after the transfer date, any reference in Federal law to the Director of the Office of Thrift Supervision or the Office of Thrift Supervision, in connection with any function of the Director of the Office of Thrift Supervision or the Office of Thrift Supervision transferred under section 312(b) or any other provision of this subtitle, shall be deemed to be a reference to the Comptroller of the Currency, the Office of the Comptroller of the Currency, the Chairperson of the Corporation, the Corporation, the Chairman of the Board of Governors, or the Board of Governors, as appropriate and consistent with the amendments made in subtitle E.</section>
+         <section Notes_1="12 USC 5415.">SEC. 317. REFERENCES IN FEDERAL LAW TO FEDERAL BANKING AGENCIES.</section><paragraph> On and after the transfer date, any reference in Federal law to the Director of the Office of Thrift Supervision or the Office of Thrift Supervision, in connection with any function of the Director of the Office of Thrift Supervision or the Office of Thrift Supervision transferred under section 312(b) or any other provision of this subtitle, shall be deemed to be a reference to the Comptroller of the Currency, the Office of the Comptroller of the Currency, the Chairperson of the Corporation, the Corporation, the Chairman of the Board of Governors, or the Board of Governors, as appropriate and consistent with the amendments made in subtitle E.</paragraph>
          <section>
             SEC. 318. FUNDING.
             <paragraph>
@@ -3453,7 +3453,7 @@
       </subtitle>
       <subtitle>
          Subtitle E--Technical and Conforming Amendments
-         <section Notes_1="12 USC 906 note.">SEC. 351. EFFECTIVE DATE. Except as provided in section 364(a), the amendments made by this subtitle shall take effect on the transfer date.</section>
+         <section Notes_1="12 USC 906 note.">SEC. 351. EFFECTIVE DATE.</section><paragraph> Except as provided in section 364(a), the amendments made by this subtitle shall take effect on the transfer date.</paragraph>
          <section>
             SEC. 352. BALANCED BUDGET AND EMERGENCY DEFICIT CONTROL ACT OF 1985. Section 256(h) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 906(h)) is amended--
             <bullet>(1) in paragraph (4), by striking subparagraphs (C) and (G); and</bullet>
@@ -4418,7 +4418,7 @@
    </title>
    <title Notes_1="Private Fund Investment Advisers Registration Act of 2010.">
       TITLE IV--REGULATION OF ADVISERS TO HEDGE FUNDS AND OTHERS
-      <section Notes_1="15 USC 80b-20 note.">SEC. 401. SHORT TITLE. This title may be cited as the ``Private Fund Investment Advisers Registration Act of 2010''.</section>
+      <section Notes_1="15 USC 80b-20 note.">SEC. 401. SHORT TITLE.</section><paragraph> This title may be cited as the ``Private Fund Investment Advisers Registration Act of 2010''.</paragraph>
       <section>
          SEC. 402. DEFINITIONS.
          <paragraph>
@@ -4662,8 +4662,8 @@
             <bullet>(2) on the results of the study required under subsection (a)(2), not later than 1 year after the date of enactment of this Act.</bullet>
          </paragraph>
       </section>
-      <section Notes_1="Order. Deadlines.">SEC. 418. QUALIFIED CLIENT STANDARD. Section 205(e) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-5(e)) is amended by adding at the end the following: ``With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after the date of enactment of the Private Fund Investment Advisers Registration Act of 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.''.</section>
-      <section Notes_1="15 USC 80b-2 note. Effective date.">SEC. 419. TRANSITION PERIOD. Except as otherwise provided in this title, this title and the amendments made by this title shall become effective 1 year after the date of enactment of this Act, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission.</section>
+      <section Notes_1="Order. Deadlines.">SEC. 418. QUALIFIED CLIENT STANDARD.</section><paragraph> Section 205(e) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-5(e)) is amended by adding at the end the following: ``With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after the date of enactment of the Private Fund Investment Advisers Registration Act of 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.''.</paragraph>
+      <section Notes_1="15 USC 80b-2 note. Effective date.">SEC. 419. TRANSITION PERIOD.</section><paragraph> Except as otherwise provided in this title, this title and the amendments made by this title shall become effective 1 year after the date of enactment of this Act, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission.</paragraph>
    </title>
    <title>
       TITLE V--INSURANCE
@@ -4884,7 +4884,7 @@
       <subtitle Notes_1="Nonadmitted and Reinsurance Reform Act of 2010. 15 USC 8201 note.">
          Subtitle B--State-Based Insurance Reform
          <section>SEC. 511. SHORT TITLE. This subtitle may be cited as the ``Nonadmitted and Reinsurance Reform Act of 2010''.</section>
-         <section Notes_1="15 USC 8201 note.">SEC. 512. EFFECTIVE DATE. Except as otherwise specifically provided in this subtitle, this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle.</section>
+         <section Notes_1="15 USC 8201 note.">SEC. 512. EFFECTIVE DATE.</section><paragraph> Except as otherwise specifically provided in this subtitle, this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle.</paragraph>
          <part>
             PART I--NONADMITTED INSURANCE
             <section Notes_1="15 USC 8201.">
@@ -4910,7 +4910,7 @@
                <paragraph>(c) Enforcement Provision.--With respect to section 521 and subsections (a) and (b) of this section, any law, regulation, provision, or action of any State that applies or purports to apply to nonadmitted insurance sold to, solicited by, or negotiated with an insured whose home State is another State shall be preempted with respect to such application.</paragraph>
                <paragraph>(d) Workers' Compensation Exception.--This section may not be construed to preempt any State law, rule, or regulation that restricts the placement of workers' compensation insurance or excess insurance for self-funded workers' compensation plans with a nonadmitted insurer.</paragraph>
             </section>
-            <section Notes_1="15 USC 8203." Notes_2="Time period.">SEC. 523. PARTICIPATION IN NATIONAL PRODUCER DATABASE. After the expiration of the 2-year period beginning on the date of the enactment of this subtitle, a State may not collect any fees relating to licensing of an individual or entity as a surplus lines broker in the State unless the State has in effect at such time laws or regulations that provide for participation by the State in the national insurance producer database of the NAIC, or any other equivalent uniform national database, for the licensure of surplus lines brokers and the renewal of such licenses.</section>
+            <section Notes_1="15 USC 8203." Notes_2="Time period.">SEC. 523. PARTICIPATION IN NATIONAL PRODUCER DATABASE.</section><paragraph> After the expiration of the 2-year period beginning on the date of the enactment of this subtitle, a State may not collect any fees relating to licensing of an individual or entity as a surplus lines broker in the State unless the State has in effect at such time laws or regulations that provide for participation by the State in the national insurance producer database of the NAIC, or any other equivalent uniform national database, for the licensure of surplus lines brokers and the renewal of such licenses.</paragraph>
             <section Notes_1="15 USC 8204.">
                SEC. 524. UNIFORM STANDARDS FOR SURPLUS LINES ELIGIBILITY. A State may not--
                <bullet>(1) impose eligibility requirements on, or otherwise establish eligibility criteria for, nonadmitted insurers domiciled in a United States jurisdiction, except in conformance with such requirements and criteria in sections 5A(2) and 5C(2)(a) of the Non-Admitted Insurance Model Act, unless the State has adopted nationwide uniform requirements, forms, and procedures developed in accordance with section 521(b) of this subtitle that include alternative nationwide uniform eligibility requirements; or</bullet>
@@ -5050,15 +5050,15 @@
          </part>
          <part>
             PART III--RULE OF CONSTRUCTION
-            <section Notes_1="15 USC 8231.">SEC. 541. RULE OF CONSTRUCTION. Nothing in this subtitle or the amendments made by this subtitle shall be construed to modify, impair, or supersede the application of the antitrust laws. Any implied or actual conflict between this subtitle and any amendments to this subtitle and the antitrust laws shall be resolved in favor of the operation of the antitrust laws.</section>
-            <section Notes_1="15 USC 8232.">SEC. 542. SEVERABILITY. If any section or subsection of this subtitle, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this subtitle, and the application of the provision to any other person or circumstance, shall not be affected.</section>
+            <section Notes_1="15 USC 8231.">SEC. 541. RULE OF CONSTRUCTION.</section><paragraph> Nothing in this subtitle or the amendments made by this subtitle shall be construed to modify, impair, or supersede the application of the antitrust laws. Any implied or actual conflict between this subtitle and any amendments to this subtitle and the antitrust laws shall be resolved in favor of the operation of the antitrust laws.</paragraph>
+            <section Notes_1="15 USC 8232.">SEC. 542. SEVERABILITY.</section><paragraph> If any section or subsection of this subtitle, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this subtitle, and the application of the provision to any other person or circumstance, shall not be affected.</paragraph>
          </part>
       </subtitle>
    </title>
    <title Notes_1="Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010. 12 USC 1811 note.">
       TITLE VI--IMPROVEMENTS TO REGULATION OF BANK AND SAVINGS ASSOCIATION HOLDING COMPANIES AND DEPOSITORY INSTITUTIONS
       <section>SEC. 601. SHORT TITLE. This title may be cited as the ``Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010''.</section>
-      <section Notes_1="12 USC 1815 note.">SEC. 602. DEFINITION. For purposes of this title, a company is a ``commercial firm'' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company.</section>
+      <section Notes_1="12 USC 1815 note.">SEC. 602. DEFINITION.</section><paragraph> For purposes of this title, a company is a ``commercial firm'' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company.</paragraph>
       <section>
          SEC. 603. MORATORIUM AND STUDY ON TREATMENT OF CREDIT CARD BANKS, INDUSTRIAL LOAN COMPANIES, AND CERTAIN OTHER COMPANIES UNDER THE BANK HOLDING COMPANY ACT OF 1956.
          <paragraph Notes_1="12 USC 1815 note.">
@@ -6218,12 +6218,12 @@
    </title>
    <title Notes_1="Wall Street Transparency and Accountability Act of 2010.">
       TITLE VII--WALL STREET TRANSPARENCY AND ACCOUNTABILITY
-      <section Notes_1="15 USC 8301 note.">SEC. 701. SHORT TITLE. This title may be cited as the ``Wall Street Transparency and Accountability Act of 2010''.</section>
+      <section Notes_1="15 USC 8301 note.">SEC. 701. SHORT TITLE.</section><paragraph> This title may be cited as the ``Wall Street Transparency and Accountability Act of 2010''.</paragraph>
       <subtitle>
          Subtitle A--Regulation of Over-the-Counter Swaps Markets
          <part>
             PART I--REGULATORY AUTHORITY
-            <section Notes_1="15 USC 8301.">SEC. 711. DEFINITIONS. In this subtitle, the terms ``prudential regulator'', ``swap'', ``swap dealer'', ``major swap participant'', ``swap data repository'', ``associated person of a swap dealer or major swap participant'', ``eligible contract participant'', ``swap execution facility'', ``security-based swap'', ``security-based swap dealer'', ``major security-based swap participant'', and ``associated person of a security-based swap dealer or major security-based swap participant'' have the meanings given the terms in section 1a of the Commodity Exchange Act (7 U.S.C. 1a), including any modification of the meanings under section 721(b) of this Act.</section>
+            <section Notes_1="15 USC 8301.">SEC. 711. DEFINITIONS.</section><paragraph> In this subtitle, the terms ``prudential regulator'', ``swap'', ``swap dealer'', ``major swap participant'', ``swap data repository'', ``associated person of a swap dealer or major swap participant'', ``eligible contract participant'', ``swap execution facility'', ``security-based swap'', ``security-based swap dealer'', ``major security-based swap participant'', and ``associated person of a security-based swap dealer or major security-based swap participant'' have the meanings given the terms in section 1a of the Commodity Exchange Act (7 U.S.C. 1a), including any modification of the meanings under section 721(b) of this Act.</paragraph>
             <section Notes_1="15 USC 8302.">
                SEC. 712. REVIEW OF REGULATORY AUTHORITY.
                <paragraph>
@@ -6360,7 +6360,7 @@
                   <two_bullet>(B) participants in a financial market.</two_bullet>
                </bullet>
             </section>
-            <section Notes_1="15 USC 8304.">SEC. 715. AUTHORITY TO PROHIBIT PARTICIPATION IN SWAP ACTIVITIES. Except as provided in section 4 of the Commodity Exchange Act (7 U.S.C. 6), if the Commodity Futures Trading Commission or the Securities and Exchange Commission determines that the regulation of swaps or security-based swaps markets in a foreign country undermines the stability of the United States financial system, either Commission, in consultation with the Secretary of the Treasury, may prohibit an entity domiciled in the foreign country from participating in the United States in any swap or security-based swap activities.</section>
+            <section Notes_1="15 USC 8304.">SEC. 715. AUTHORITY TO PROHIBIT PARTICIPATION IN SWAP ACTIVITIES.</section><paragraph> Except as provided in section 4 of the Commodity Exchange Act (7 U.S.C. 6), if the Commodity Futures Trading Commission or the Securities and Exchange Commission determines that the regulation of swaps or security-based swaps markets in a foreign country undermines the stability of the United States financial system, either Commission, in consultation with the Secretary of the Treasury, may prohibit an entity domiciled in the foreign country from participating in the United States in any swap or security-based swap activities.</paragraph>
             <section Notes_1="15 USC 8305.">
                SEC. 716. PROHIBITION AGAINST FEDERAL GOVERNMENT BAILOUTS OF SWAPS ENTITIES.
                <paragraph>(a) Prohibition on Federal Assistance.--Notwithstanding any other provision of law (including regulations), no Federal assistance may be provided to any swaps entity with respect to any swap, security-based swap, or other activity of the swaps entity.</paragraph>
@@ -8681,7 +8681,7 @@
                   <two_bullet>``(B) Position limits.--Any position limit established under the Wall Street Transparency and Accountability Act of 2010 shall not apply to a position acquired in good faith prior to the effective date of any rule, regulation, or order under the Act that establishes the position limit; provided, however, that such positions shall be attributed to the trader if the trader's position is increased after the effective date of such position limit rule, regulation, or order.''.</two_bullet>
                </bullet>
             </section>
-            <section Notes_1="Repeal.">SEC. 740. MULTILATERAL CLEARING ORGANIZATIONS. Sections 408 and 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4421, 4422) are repealed.</section>
+            <section Notes_1="Repeal.">SEC. 740. MULTILATERAL CLEARING ORGANIZATIONS.</section><paragraph> Sections 408 and 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4421, 4422) are repealed.</paragraph>
             <section>
                SEC. 741. ENFORCEMENT.
                <paragraph Notes_1="7 USC 6b-1." Notes_2="Time period.">
@@ -8850,7 +8850,7 @@
                   </bullet>
                </paragraph>
             </section>
-            <section Notes_1="7 USC 1a note.">SEC. 743. OTHER AUTHORITY. Unless otherwise provided by the amendments made by this subtitle, the amendments made by this subtitle do not divest any appropriate Federal banking agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, or other Federal or State agency of any authority derived from any other applicable law.</section>
+            <section Notes_1="7 USC 1a note.">SEC. 743. OTHER AUTHORITY.</section><paragraph> Unless otherwise provided by the amendments made by this subtitle, the amendments made by this subtitle do not divest any appropriate Federal banking agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, or other Federal or State agency of any authority derived from any other applicable law.</paragraph>
             <section>
                SEC. 744. RESTITUTION REMEDIES. Section 6c(d) of the Commodity Exchange Act (7 U.S.C. 13a-1(d)) is amended by adding at the end the following: 
                <bullet>
@@ -9369,7 +9369,7 @@
                   <bullet>(2) Paragraph (1) shall not preclude the Commission from undertaking prior to the effective date any rulemaking necessary to implement the amendments contained in this section.</bullet>
                </paragraph>
             </section>
-            <section Notes_1="7 USC 7a note.">SEC. 754. EFFECTIVE DATE. Unless otherwise provided in this title, the provisions of this subtitle shall take effect on the later of 360 days after the date of the enactment of this subtitle or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.</section>
+            <section Notes_1="7 USC 7a note.">SEC. 754. EFFECTIVE DATE.</section><paragraph> Unless otherwise provided in this title, the provisions of this subtitle shall take effect on the later of 360 days after the date of the enactment of this subtitle or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.</paragraph>
          </part>
       </subtitle>
       <subtitle>
@@ -10595,7 +10595,7 @@
             SEC. 770. DEFINITIONS UNDER THE INVESTMENT ADVISERS ACT OF 1940. Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2) is amended by adding at the end the following: 
             <bullet>``(29) The terms `commodity pool', `commodity pool operator', `commodity trading advisor', `major swap participant', `swap', `swap dealer', and `swap execution facility' have the same meanings as in section 1a of the Commodity Exchange Act (7 U.S.C. 1a).''.</bullet>
          </section>
-         <section Notes_1="15 USC 8344.">SEC. 771. OTHER AUTHORITY. Unless otherwise provided by its terms, this subtitle does not divest any appropriate Federal banking agency, the Securities and Exchange Commission, the Commodity Futures Trading Commission, or any other Federal or State agency, of any authority derived from any other provision of applicable law.</section>
+         <section Notes_1="15 USC 8344.">SEC. 771. OTHER AUTHORITY.</section><paragraph> Unless otherwise provided by its terms, this subtitle does not divest any appropriate Federal banking agency, the Securities and Exchange Commission, the Commodity Futures Trading Commission, or any other Federal or State agency, of any authority derived from any other provision of applicable law.</paragraph>
          <section>
             SEC. 772. JURISDICTION.
             <paragraph>
@@ -10615,12 +10615,12 @@
                <bullet>``(2) Security-based swap dealer or major security-based swap participant.--Any security-based swap dealer or major security-based swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 3C shall be liable for a civil money penalty in twice the amount otherwise available for a violation of section 3C.''.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="15 USC 77b note.">SEC. 774. EFFECTIVE DATE. Unless otherwise provided, the provisions of this subtitle shall take effect on the later of 360 days after the date of the enactment of this subtitle or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.</section>
+         <section Notes_1="15 USC 77b note.">SEC. 774. EFFECTIVE DATE.</section><paragraph> Unless otherwise provided, the provisions of this subtitle shall take effect on the later of 360 days after the date of the enactment of this subtitle or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.</paragraph>
       </subtitle>
    </title>
    <title Notes_1="Payment, Clearing, and Settlement Supervision Act of 2010.">
       TITLE VIII--PAYMENT, CLEARING, AND SETTLEMENT SUPERVISION
-      <section Notes_1="12 USC 5301 note.">SEC. 801. SHORT TITLE. This title may be cited as the ``Payment, Clearing, and Settlement Supervision Act of 2010''.</section>
+      <section Notes_1="12 USC 5301 note.">SEC. 801. SHORT TITLE.</section><paragraph> This title may be cited as the ``Payment, Clearing, and Settlement Supervision Act of 2010''.</paragraph>
       <section Notes_1="12 USC 5461.">
          SEC. 802. FINDINGS AND PURPOSES.
          <paragraph>
@@ -11016,8 +11016,8 @@
          <paragraph>(f) Privilege Maintained.--The Board of Governors, the Council, the appropriate financial regulator, and any Supervisory Agency providing reports or data under this section shall not be deemed to have waived any privilege applicable to those reports or data, or any portion thereof, by providing the reports or data to the other party or by permitting the reports or data, or any copies thereof, to be used by the other party.</paragraph>
          <paragraph>(g) Disclosure Exemption.--Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the Supervisory Agencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under section 552 of title 5, United States Code. For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.</paragraph>
       </section>
-      <section Notes_1="12 USC 5469.">SEC. 810. RULEMAKING. The Board of Governors, the Supervisory Agencies, and the Council are authorized to prescribe such rules and issue such orders as may be necessary to administer and carry out their respective authorities and duties granted under this title and prevent evasions thereof.</section>
-      <section Notes_1="12 USC 5470.">SEC. 811. OTHER AUTHORITY. Unless otherwise provided by its terms, this title does not divest any appropriate financial regulator, any Supervisory Agency, or any other Federal or State agency, of any authority derived from any other applicable law, except that any standards prescribed by the Board of Governors under section 805 shall supersede any less stringent requirements established under other authority to the extent of any conflict.</section>
+      <section Notes_1="12 USC 5469.">SEC. 810. RULEMAKING.</section><paragraph> The Board of Governors, the Supervisory Agencies, and the Council are authorized to prescribe such rules and issue such orders as may be necessary to administer and carry out their respective authorities and duties granted under this title and prevent evasions thereof.</paragraph>
+      <section Notes_1="12 USC 5470.">SEC. 811. OTHER AUTHORITY.</section><paragraph> Unless otherwise provided by its terms, this title does not divest any appropriate financial regulator, any Supervisory Agency, or any other Federal or State agency, of any authority derived from any other applicable law, except that any standards prescribed by the Board of Governors under section 805 shall supersede any less stringent requirements established under other authority to the extent of any conflict.</paragraph>
       <section Notes_1="12 USC 5471.">
          SEC. 812. CONSULTATION.
          <paragraph>
@@ -11040,11 +11040,11 @@
          <bullet>(3) promoting robust risk management oversight by regulators of designated clearing entities; and</bullet>
          <bullet>(4) improving regulators' ability to monitor the potential effects of designated clearing entity risk management on the stability of the financial system of the United States.</bullet>
       </section>
-      <section Notes_1="12 USC 5461 note.">SEC. 814. EFFECTIVE DATE. This title is effective as of the date of enactment of this Act.</section>
+      <section Notes_1="12 USC 5461 note.">SEC. 814. EFFECTIVE DATE.</section><paragraph> This title is effective as of the date of enactment of this Act.</paragraph>
    </title>
    <title Notes_1="Investor Protection and Securities Reform Act of 2010.">
       TITLE IX--INVESTOR PROTECTIONS AND IMPROVEMENTS TO THE REGULATION OF SECURITIES
-      <section Notes_1="15 USC 78a note.">SEC. 901. SHORT TITLE. This title may be cited as the ``Investor Protection and Securities Reform Act of 2010''.</section>
+      <section Notes_1="15 USC 78a note.">SEC. 901. SHORT TITLE.</section><paragraph> This title may be cited as the ``Investor Protection and Securities Reform Act of 2010''.</paragraph>
       <subtitle>
          Subtitle A--Increasing Investor Protection
          <section Notes_1="15 USC 78pp." Notes_2="Deadline.">
@@ -12807,7 +12807,7 @@
             <bullet>(1) meets standards of training, experience, and competence necessary to produce accurate ratings for the categories of issuers whose securities the person rates; and</bullet>
             <bullet>(2) is tested for knowledge of the credit rating process.</bullet>
          </section>
-         <section Notes_1="15 USC 78o-7 note.">SEC. 937. TIMING OF REGULATIONS. Unless otherwise specifically provided in this subtitle, the Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act.</section>
+         <section Notes_1="15 USC 78o-7 note.">SEC. 937. TIMING OF REGULATIONS.</section><paragraph> Unless otherwise specifically provided in this subtitle, the Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act.</paragraph>
          <section Notes_1="15 USC 78o-8.">
             SEC. 938. UNIVERSAL RATINGS SYMBOLS.
             <paragraph Notes_1="Procedures.">
@@ -12886,7 +12886,7 @@
             <paragraph Notes_1="Standards.">(b) Modifications Required.--Each such agency shall modify any such regulations identified by the review conducted under subsection (a) to remove any reference to or requirement of reliance on credit ratings and to substitute in such regulations such standard of credit-worthiness as each respective agency shall determine as appropriate for such regulations. In making such determination, such agencies shall seek to establish, to the extent feasible, uniform standards of credit-worthiness for use by each such agency, taking into account the entities regulated by each such agency and the purposes for which such entities would rely on such standards of credit-worthiness.</paragraph>
             <paragraph>(c) Report.--Upon conclusion of the review required under subsection (a), each Federal agency shall transmit a report to Congress containing a description of any modification of any regulation such agency made pursuant to subsection (b).</paragraph>
          </section>
-         <section Notes_1="15 USC 78m note." Notes_2="Deadline.">SEC. 939B. ELIMINATION OF EXEMPTION FROM FAIR DISCLOSURE RULE. Not later than 90 days after the date of enactment of this subtitle, the Securities Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii)).</section>
+         <section Notes_1="15 USC 78m note." Notes_2="Deadline.">SEC. 939B. ELIMINATION OF EXEMPTION FROM FAIR DISCLOSURE RULE.</section><paragraph> Not later than 90 days after the date of enactment of this subtitle, the Securities Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii)).</paragraph>
          <section>
             SEC. 939C. SECURITIES AND EXCHANGE COMMISSION STUDY ON STRENGTHENING CREDIT RATING AGENCY INDEPENDENCE.
             <paragraph>
@@ -14861,7 +14861,7 @@
    </title>
    <title Notes_1="Consumer Financial Protection Act of 2010.">
       TITLE X-- BUREAU OF CONSUMER FINANCIAL PROTECTION
-      <section Notes_1="12 USC 5301 note.">SEC. 1001. SHORT TITLE. This title may be cited as the ``Consumer Financial Protection Act of 2010''.</section>
+      <section Notes_1="12 USC 5301 note.">SEC. 1001. SHORT TITLE.</section><paragraph> This title may be cited as the ``Consumer Financial Protection Act of 2010''.</paragraph>
       <section Notes_1="12 USC 5481.">
          SEC. 1002. DEFINITIONS. Except as otherwise provided in this title, for purposes of this title, the following definitions shall apply:
          <bullet>(1) Affiliate.--The term ``affiliate'' means any person that controls, is controlled by, or is under common control with another person.</bullet>
@@ -15322,7 +15322,7 @@
                <bullet>(2) be allowed travel expenses, including transportation and subsistence, while away from their homes or regular places of business.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5495.">SEC. 1015. COORDINATION. The Bureau shall coordinate with the Commission, the Commodity Futures Trading Commission, the Federal Trade Commission, and other Federal agencies and State regulators, as appropriate, to promote consistent regulatory treatment of consumer financial and investment products and services.</section>
+         <section Notes_1="12 USC 5495.">SEC. 1015. COORDINATION.</section><paragraph> The Bureau shall coordinate with the Commission, the Commodity Futures Trading Commission, the Federal Trade Commission, and other Federal agencies and State regulators, as appropriate, to promote consistent regulatory treatment of consumer financial and investment products and services.</paragraph>
          <section Notes_1="12 USC 5496.">
             SEC. 1016. APPEARANCES BEFORE AND REPORTS TO CONGRESS.
             <paragraph>(a) Appearances Before Congress.--The Director of the Bureau shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services and the Committee on Energy and Commerce of the House of Representatives at semi-annual hearings regarding the reports required under subsection (b).</paragraph>
@@ -15412,7 +15412,7 @@
                <bullet>(4) Annual report.--The Director shall prepare and submit a report, on an annual basis, to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives regarding the financial operating plans and forecasts of the Director, the financial condition and results of operations of the Bureau, and the sources and application of funds of the Bureau, including any funds appropriated in accordance with this subsection.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5491 note.">SEC. 1018. EFFECTIVE DATE. This subtitle shall become effective on the date of enactment of this Act.</section>
+         <section Notes_1="12 USC 5491 note.">SEC. 1018. EFFECTIVE DATE.</section><paragraph> This subtitle shall become effective on the date of enactment of this Act.</paragraph>
       </subtitle>
       <subtitle>
          Subtitle B--General Powers of the Bureau
@@ -16005,7 +16005,7 @@
                </bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5511 note.">SEC. 1029A. EFFECTIVE DATE. This subtitle shall become effective on the designated transfer date, except that sections 1022, 1024, and 1025(e) shall become effective on the date of enactment of this Act.</section>
+         <section Notes_1="12 USC 5511 note.">SEC. 1029A. EFFECTIVE DATE.</section><paragraph> This subtitle shall become effective on the designated transfer date, except that sections 1022, 1024, and 1025(e) shall become effective on the date of enactment of this Act.</paragraph>
       </subtitle>
       <subtitle>
          Subtitle C--Specific Bureau Authorities
@@ -16142,7 +16142,7 @@
             </paragraph>
             <paragraph>(b) Exception.--No person shall be held to have violated subsection (a)(1) solely by virtue of providing or selling time or space to a covered person or service provider placing an advertisement.</paragraph>
          </section>
-         <section Notes_1="12 USC 5531 note.">SEC. 1037. EFFECTIVE DATE. This subtitle shall take effect on the designated transfer date.</section>
+         <section Notes_1="12 USC 5531 note.">SEC. 1037. EFFECTIVE DATE.</section><paragraph> This subtitle shall take effect on the designated transfer date.</paragraph>
       </subtitle>
       <subtitle>
          Subtitle D--Preservation of State Law
@@ -16217,7 +16217,7 @@
                <bullet>(3) State insurance regulators.--No provision of this title shall be construed as altering, limiting, or affecting the authority of a State insurance commission or State insurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5553.">SEC. 1043. PRESERVATION OF EXISTING CONTRACTS. This title, and regulations, orders, guidance, and interpretations prescribed, issued, or established by the Bureau, shall not be construed to alter or affect the applicability of any regulation, order, guidance, or interpretation prescribed, issued, and established by the Comptroller of the Currency or the Director of the Office of Thrift Supervision regarding the applicability of State law under Federal banking law to any contract entered into on or before the date of enactment of this Act, by national banks, Federal savings associations, or subsidiaries thereof that are regulated and supervised by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, respectively.</section>
+         <section Notes_1="12 USC 5553.">SEC. 1043. PRESERVATION OF EXISTING CONTRACTS.</section><paragraph> This title, and regulations, orders, guidance, and interpretations prescribed, issued, or established by the Bureau, shall not be construed to alter or affect the applicability of any regulation, order, guidance, or interpretation prescribed, issued, and established by the Comptroller of the Currency or the Director of the Office of Thrift Supervision regarding the applicability of State law under Federal banking law to any contract entered into on or before the date of enactment of this Act, by national banks, Federal savings associations, or subsidiaries thereof that are regulated and supervised by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, respectively.</paragraph>
          <section>
             SEC. 1044. STATE LAW PREEMPTION STANDARDS FOR NATIONAL BANKS AND SUBSIDIARIES CLARIFIED.
             <paragraph Notes_1="12 USC 25b." Notes_2="Notice. Public comment." Notes_3="Deadline." Notes_4="Federal Register, publication." Notes_5="Publication. Deadline. Records.">
@@ -16305,7 +16305,7 @@
                <paragraph>``(d) Enforcement Actions.--The ability of the Comptroller of the Currency to bring an enforcement action under this Act or section 5 of the Federal Trade Commission Act does not preclude any private party from enforcing rights granted under Federal or State law in the courts.''.</paragraph>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5551 note.">SEC. 1048. EFFECTIVE DATE. This subtitle shall become effective on the designated transfer date.</section>
+         <section Notes_1="12 USC 5551 note.">SEC. 1048. EFFECTIVE DATE.</section><paragraph> This subtitle shall become effective on the designated transfer date.</paragraph>
       </subtitle>
       <subtitle>
          Subtitle E--Enforcement Powers
@@ -16566,7 +16566,7 @@
                </bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5566.">SEC. 1056. REFERRALS FOR CRIMINAL PROCEEDINGS. If the Bureau obtains evidence that any person, domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, the Bureau shall transmit such evidence to the Attorney General of the United States, who may institute criminal proceedings under appropriate law. Nothing in this section affects any other authority of the Bureau to disclose information.</section>
+         <section Notes_1="12 USC 5566.">SEC. 1056. REFERRALS FOR CRIMINAL PROCEEDINGS.</section><paragraph> If the Bureau obtains evidence that any person, domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, the Bureau shall transmit such evidence to the Attorney General of the United States, who may institute criminal proceedings under appropriate law. Nothing in this section affects any other authority of the Bureau to disclose information.</paragraph>
          <section Notes_1="12 USC 5567.">
             SEC. 1057. EMPLOYEE PROTECTION.
             <paragraph>
@@ -16647,7 +16647,7 @@
                <bullet Notes_1="Regulation.">(3) Exception.--Notwithstanding paragraphs (1) and (2), an arbitration provision in a collective bargaining agreement shall be enforceable as to disputes arising under subsection (a)(4), unless the Bureau determines, by rule, that such provision is inconsistent with the purposes of this title.</bullet>
             </paragraph>
          </section>
-         <section Notes_1="12 USC 5561 note.">SEC. 1058. EFFECTIVE DATE. This subtitle shall become effective on the designated transfer date.</section>
+         <section Notes_1="12 USC 5561 note.">SEC. 1058. EFFECTIVE DATE.</section><paragraph> This subtitle shall become effective on the designated transfer date.</paragraph>
       </subtitle>
       <subtitle>
          Subtitle F--Transfer of Functions and Personnel; Transitional Provisions
@@ -17967,7 +17967,7 @@
                <paragraph>``(f) Adjustments to Dollar Amounts for Inflation.--The dollar amounts under this title shall be adjusted every 5 years after December 31, 2011, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $25.''.</paragraph>
             </paragraph>
          </section>
-         <section Notes_1="15 USC 1666, 1666c, 1666j.">SEC. 1087. AMENDMENTS TO THE FAIR CREDIT BILLING ACT. The Fair Credit Billing Act (15 U.S.C. 1666-1666j) is amended by striking ``Board'' each place that term appears, other than in section 105(i) (as added by this subtitle) and inserting ``Bureau''.</section>
+         <section Notes_1="15 USC 1666, 1666c, 1666j.">SEC. 1087. AMENDMENTS TO THE FAIR CREDIT BILLING ACT.</section><paragraph> The Fair Credit Billing Act (15 U.S.C. 1666-1666j) is amended by striking ``Board'' each place that term appears, other than in section 105(i) (as added by this subtitle) and inserting ``Bureau''.</paragraph>
          <section>
             SEC. 1088. AMENDMENTS TO THE FAIR CREDIT REPORTING ACT AND THE FAIR AND ACCURATE CREDIT TRANSACTIONS ACT OF 2003.
             <paragraph>
@@ -18749,7 +18749,7 @@
                </bullet>
             </paragraph>
          </section>
-         <section Notes_1="5 USC 552a note.">SEC. 1100H. EFFECTIVE DATE. Except as otherwise provided in this subtitle and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 and 1082, shall become effective on the designated transfer date.</section>
+         <section Notes_1="5 USC 552a note.">SEC. 1100H. EFFECTIVE DATE.</section><paragraph> Except as otherwise provided in this subtitle and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 and 1082, shall become effective on the designated transfer date.</paragraph>
       </subtitle>
    </title>
    <title>
@@ -19134,8 +19134,8 @@
    </title>
    <title Notes_1="Improving Access to Mainstream Financial Institutions Act of 2010.">
       TITLE XII--IMPROVING ACCESS TO MAINSTREAM FINANCIAL INSTITUTIONS
-      <section Notes_1="12 USC 5301 note.">SEC. 1201. SHORT TITLE. This title may be cited as the ``Improving Access to Mainstream Financial Institutions Act of 2010''.</section>
-      <section Notes_1="12 USC 5621.">SEC. 1202. PURPOSE. The purpose of this title is to encourage initiatives for financial products and services that are appropriate and accessible for millions of Americans who are not fully incorporated into the financial mainstream.</section>
+      <section Notes_1="12 USC 5301 note.">SEC. 1201. SHORT TITLE.</section><paragraph> This title may be cited as the ``Improving Access to Mainstream Financial Institutions Act of 2010''.</paragraph>
+      <section Notes_1="12 USC 5621.">SEC. 1202. PURPOSE.</section><paragraph> The purpose of this title is to encourage initiatives for financial products and services that are appropriate and accessible for millions of Americans who are not fully incorporated into the financial mainstream.</paragraph>
       <section Notes_1="12 USC 5622.">
          SEC. 1203. DEFINITIONS. In this title, the following definitions shall apply:
          <bullet>(1) Account.--The term ``account'' means an agreement between an individual and an eligible entity under which the individual obtains from or through the entity 1 or more banking products and services, and includes a deposit account, a savings account (including a money market savings account), an account for a closed-end loan, and other products or services, as the Secretary deems appropriate.</bullet>
@@ -19215,7 +19215,7 @@
             </paragraph>
          </section>
       </section>
-      <section Notes_1="Application. 12 USC 5625.">SEC. 1207. PROCEDURAL PROVISIONS. An eligible entity desiring to participate in a program or obtain a grant under this title shall submit an application to the Secretary, in such form and containing such information as the Secretary may require.</section>
+      <section Notes_1="Application. 12 USC 5625.">SEC. 1207. PROCEDURAL PROVISIONS.</section><paragraph> An eligible entity desiring to participate in a program or obtain a grant under this title shall submit an application to the Secretary, in such form and containing such information as the Secretary may require.</paragraph>
       <section Notes_1="12 USC 5626.">
          SEC. 1208. AUTHORIZATION OF APPROPRIATIONS.
          <paragraph>(a) Authorization to the Secretary.--There are authorized to be appropriated to the Secretary, such sums as are necessary to both administer and fund the programs and projects authorized by this title, to remain available until expended.</paragraph>
@@ -19226,11 +19226,11 @@
          <paragraph>(a) In General.--The Secretary is authorized to promulgate regulations to implement and administer the grant programs and undertakings authorized by this title.</paragraph>
          <paragraph>(b) Regulatory Authority.--Regulations prescribed under this section may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of grant programs, undertakings, or eligible entities, as, in the judgment of the Secretary, are necessary or proper to effectuate the purposes of this title, to prevent circumvention or evasion of this title, or to facilitate compliance with this title.</paragraph>
       </section>
-      <section Notes_1="12 USC 5628.">SEC. 1210. EVALUATION AND REPORTS TO CONGRESS. For each fiscal year in which a program or project is carried out under this title, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a description of the activities funded, amounts distributed, and measurable results, as appropriate and available.</section>
+      <section Notes_1="12 USC 5628.">SEC. 1210. EVALUATION AND REPORTS TO CONGRESS.</section><paragraph> For each fiscal year in which a program or project is carried out under this title, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a description of the activities funded, amounts distributed, and measurable results, as appropriate and available.</paragraph>
    </title>
    <title Notes_1="Pay It Back Act.">
       TITLE XIII--PAY IT BACK ACT
-      <section Notes_1="12 USC 5201 note.">SEC. 1301. SHORT TITLE. This title may be cited as the ``Pay It Back Act''.</section>
+      <section Notes_1="12 USC 5201 note.">SEC. 1301. SHORT TITLE.</section><paragraph> This title may be cited as the ``Pay It Back Act''.</paragraph>
       <section>
          SEC. 1302. AMENDMENT TO REDUCE TARP AUTHORIZATION. Section 115(a) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225(a)) is amended--
          <bullet>
@@ -19705,7 +19705,7 @@
                <paragraph>``(i) Timeshare Plans.--This section and any regulations promulgated under this section do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11, United States Code.''.</paragraph>
             </paragraph>
          </section>
-         <section Notes_1="15 USC 1639b note.">SEC. 1415. RULE OF CONSTRUCTION. Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act (as added by this title), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act or any other provision of Federal or State law.</section>
+         <section Notes_1="15 USC 1639b note.">SEC. 1415. RULE OF CONSTRUCTION.</section><paragraph> Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act (as added by this title), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act or any other provision of Federal or State law.</paragraph>
          <section>
             SEC. 1416. AMENDMENTS TO CIVIL LIABILITY PROVISIONS.
             <paragraph>
@@ -19989,7 +19989,7 @@
       </subtitle>
       <subtitle Notes_1="Expand and Preserve Home Ownership Through Counseling Act.">
          Subtitle D--Office of Housing Counseling
-         <section Notes_1="12 USC 1701 note.">SEC. 1441. SHORT TITLE. This subtitle may be cited as the ``Expand and Preserve Home Ownership Through Counseling Act''.</section>
+         <section Notes_1="12 USC 1701 note.">SEC. 1441. SHORT TITLE.</section><paragraph> This subtitle may be cited as the ``Expand and Preserve Home Ownership Through Counseling Act''.</paragraph>
          <section Notes_1="Appointment.">
             SEC. 1442. ESTABLISHMENT OF OFFICE OF HOUSING COUNSELING. Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following new subsection: 
             <paragraph>
@@ -20190,7 +20190,7 @@
                <bullet>``(4) Outreach.--The Secretary shall take such actions as the Secretary considers appropriate to ensure that individuals and organizations providing homeownership or rental housing counseling are aware of the certification requirements and standards of this subsection and of the training and certification programs under subsection (f).''.</bullet>
             </bullet>
          </section>
-         <section Notes_1="Deadlines. Reports.">SEC. 1446. STUDY OF DEFAULTS AND FORECLOSURES. The Secretary of Housing and Urban Development shall conduct an extensive study of the root causes of default and foreclosure of home loans, using as much empirical data as are available. The study shall also examine the role of escrow accounts in helping prime and nonprime borrowers to avoid defaults and foreclosures, and the role of computer registries of mortgages, including those used for trading mortgage loans. Not later than 12 months after the date of the enactment of this Act, the Secretary shall submit to the Congress a preliminary report regarding the study. Not later than 24 months after such date of enactment, the Secretary shall submit a final report regarding the results of the study, which shall include any recommended legislation relating to the study, and recommendations for best practices and for a process to identify populations that need counseling the most.</section>
+         <section Notes_1="Deadlines. Reports.">SEC. 1446. STUDY OF DEFAULTS AND FORECLOSURES.</section><paragraph> The Secretary of Housing and Urban Development shall conduct an extensive study of the root causes of default and foreclosure of home loans, using as much empirical data as are available. The study shall also examine the role of escrow accounts in helping prime and nonprime borrowers to avoid defaults and foreclosures, and the role of computer registries of mortgages, including those used for trading mortgage loans. Not later than 12 months after the date of the enactment of this Act, the Secretary shall submit to the Congress a preliminary report regarding the study. Not later than 24 months after such date of enactment, the Secretary shall submit a final report regarding the results of the study, which shall include any recommended legislation relating to the study, and recommendations for best practices and for a process to identify populations that need counseling the most.</paragraph>
          <section Notes_1="12 USC 1701p-2.">
             SEC. 1447. DEFAULT AND FORECLOSURE DATABASE.
             <paragraph Notes_1="Public information.">(a) Establishment.--The Secretary of Housing and Urban Development and the Director of the Bureau, in consultation with the Federal agencies responsible for regulation of banking and financial institutions involved in residential mortgage lending and servicing, shall establish and maintain a database of information on foreclosures and defaults on mortgage loans for one- to four-unit residential properties and shall make such information publicly available, subject to subsection (e).</paragraph>
@@ -20990,7 +20990,7 @@
             </paragraph>
             <paragraph>(b) Report.--Not later than the expiration of the 120-day period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall submit to the Congress a report on the study conducted under subsection (a) containing its findings, conclusions, and recommendations.</paragraph>
          </section>
-         <section Notes_1="15 USC 1601 note.">SEC. 1495. DEFINITION. For purposes of this title, the term ``designated transfer date'' means the date established under section 1062 of this Act.</section>
+         <section Notes_1="15 USC 1601 note.">SEC. 1495. DEFINITION.</section><paragraph> For purposes of this title, the term ``designated transfer date'' means the date established under section 1062 of this Act.</paragraph>
          <section>
             SEC. 1496. EMERGENCY MORTGAGE RELIEF.
             <paragraph Notes_1="Effective date. 12 USC 2706 note.">(a) Emergency Homeowners' Relief Fund.-- Effective October 1, 2010, and notwithstanding any other provision of law, there is hereby made available to the Secretary of Housing and Urban Development such sums as are necessary to provide $1,000,000,000 in assistance through the Emergency Homeowners' Relief Fund, which such Secretary shall establish pursuant to section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706), as such Act is amended by this section, for use for emergency mortgage assistance in accordance with title I of such Act.</paragraph>

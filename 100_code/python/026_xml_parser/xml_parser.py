@@ -25,6 +25,14 @@ def main(argv):
 
     # Export xml
     xmlstr = minidom.parseString(eT.tostring(root)).toprettyxml(indent="   ")
+
+    # Regex to catch sections with only 1 paragraph
+    simpleSec = re.findall("(<section\s.*</section>)", xmlstr)
+    for sec in simpleSec:
+        newSec = re.sub("</section>", "</paragraph>", sec)
+        newSec = re.sub("(>SEC.\s.+?\.\s.+?\.)", r"\1</section><paragraph>", newSec)
+        xmlstr = xmlstr.replace(sec, newSec)
+
     os.chdir(argv.output)
 
     with open("dodd_frank.xml", "w") as f:
