@@ -1,0 +1,101 @@
+/* CSS for the html body*/
+/* Div represents each level of the Regulation*/
+/* Span represents different types of operators*/
+
+/* Put the proper classification names and colors
+    # span.name
+    # colors
+    */
+
+
+
+
+span.LogicalConnectors {
+    background-color:#8b69f9;
+}
+
+span.RegulatoryOperators {
+    background-color:#c25ff8;
+}
+
+span.EconomicOperands {
+    background-color:#ffff58;
+}
+
+span.Attributes {
+    background-color:#ffe258;
+}
+
+span.LegalReferences {
+    background-color:#afafaf;
+}
+
+span.FunctionWords {
+    background-color:#696969;
+}
+
+span.Other {
+    background-color:#a3a3a3;
+}
+
+
+
+
+div.ex1 {
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+div.ex2 {
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+div.ex3 {
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+div.ex4 {
+  padding-bottom: 0.2cm;
+  text-indent: 50px;
+}
+
+div.ex5 {
+  padding-bottom: 0.5cm;
+  padding-left: 0.5cm;
+  text-indent: 50px;
+}
+div.ex6 {
+  padding-bottom: 0.2cm;
+  padding-left: 1cm;
+  text-indent: 50px;
+}
+div.ex7 {
+  padding-bottom: 0.2cm;
+  padding-left: 1.5cm;
+  text-indent: 50px;
+}
+
+div.ex8 {
+    padding-bottom: 0.2cm;
+    padding-left: 2cm;
+    text-indent: 50px;
+}
+
+
+div.ex9 {
+    padding-bottom: 0.2cm;
+    padding-left: 2cm;
+    text-indent: 50px;
+}
+
+
+div.ex10 {
+    padding-bottom: 0.2cm;
+    padding-left: 2cm;
+    text-indent: 50px;
+}
+
+div.ex11 {
+    padding-bottom: 0.2cm;
+    padding-left: 2cm;
+    text-indent: 50px;
+}

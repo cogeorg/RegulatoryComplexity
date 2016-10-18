@@ -1,0 +1,111 @@
+
+/* CSS3 for the context menu*/
+
+.custom-menu {
+    display: none;
+    z-index: 1000;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid #CCC;
+    white-space: nowrap;
+    font-family: sans-serif;
+    background: #FFF;
+    color: #333;
+    border-radius: 5px;
+    padding: 0;
+}
+
+/* Each of the items in the list */
+.custom-menu li {
+    padding: 8px 12px;
+    cursor: pointer;
+    list-style-type: none;
+    transition: all .3s ease;
+}
+
+.custom-menu li:hover {
+    background-color: #DEF;
+}
+
+
+
+ #divID #recipe {
+    list-style: none;
+
+  }
+
+  #divID #recipe li {
+
+    margin-bottom: 6px;
+    border-bottom: 1px solid #ccc;
+      font-family: Arial, Sans-Serif;
+      font-size: 10px;
+  }
+
+    #divID #recipe li span {
+
+      display:block;
+    margin-left:1em;
+  }
+
+
+
+/* Put the proper classification names
+    # name
+    # img/name.png
+    */
+
+      /* Pythonanywhere: url('/static/img/GrammaticalOperators.png')
+       Static (	/home/alimon/mysite/static)  is a varibale defined in Web config */
+
+
+  #divID #LogicalConnectors {
+      background: url('img/LogicalConnectors.png') no-repeat 6px 50%;
+      background-size: 10px 10px;
+      font-family: Arial, Sans-Serif;
+
+  }
+
+  #divID #RegulatoryOperators {
+      background: url('img/RegulatoryOperators.png') no-repeat 8px 50%;
+      background-size: 10px 10px;
+  }
+
+  #divID #EconomicOperands {
+    background: url('img/EconomicOperands.png')  no-repeat 6px 50%;
+    background-size: 10px 10px;
+  }
+
+  #divID #Attributes {
+    background: url('img/Attributes.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
+  }
+
+  #divID #LegalReferences {
+    background: url('img/LegalReferences.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
+  }
+
+  #divID #FunctionWords {
+    background: url('img/FunctionWords.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
+  }
+
+  #divID #Other {
+    background: url('img/Other.png') no-repeat 6px 50%;
+    background-size: 10px 10px ;
+  }
+
+
+#divID #Update {
+    background: url(img/Update.png) no-repeat 6px 50%;
+    background-size: 10px 10px ;
+}
+
+#divID #Remove {
+    background: url(img/Remove.png) no-repeat 6px 50%;
+    background-size: 10px 10px ;
+}
+
+
+
