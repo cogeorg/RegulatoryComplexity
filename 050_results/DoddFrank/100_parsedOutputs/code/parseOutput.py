@@ -6,7 +6,7 @@ import os
 
 for f in glob.glob("*.html"):
 
-    os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/parsedOutputs/code')
+    os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/100_parsedOutputs/code')
 
     # open files in designated folder
     with open (f, "r") as myfile:
@@ -144,7 +144,10 @@ for f in glob.glob("*.html"):
         w = re.sub(":", ".", w)
         w = re.sub("\(", "-LRB-", w)
         w = re.sub("\)", "-RRB-", w)
-        listOut.append([w, word[1][0], word[1][1], word[1][2]])
+        if w == "." or  w == ";":
+            listOut.append([w, None, None, None])
+        else:
+            listOut.append([w, word[1][0], word[1][1], word[1][2]])
 
     # convert tags to IOB structure
     firLayer = []
@@ -184,7 +187,7 @@ for f in glob.glob("*.html"):
         i += 1
 
 
-    os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/parsedOutputs/output')
+    os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/100_parsedOutputs/output')
 
     # save output
     f = open('title_1_par_1_parse.txt','w')

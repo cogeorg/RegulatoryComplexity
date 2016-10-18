@@ -15,7 +15,7 @@ following	VERB	VBG	amod	I-C	O	O
 definitions	NOUN	NNS	nsubj	I-C	O	O	
 shall	VERB	MD	aux	I-C	O	O	
 apply	VERB	VB	ROOT	I-C	O	O	
-.	.	.	punct	I-C	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nn	I-EL	O	O	
 bank	NOUN	NN	dep	I-EL	O	O	
@@ -42,7 +42,7 @@ of	ADP	IN	prep	I-ER	O	O
 U.S.C.	NOUN	NNP	nn	I-ER	O	O	
 1841	NUM	CD	dep	I-ER	O	O	
 -RRB-	.	-RRB-	punct	I-ER	O	O	
-.	.	.	punct	I-ER	O	O	
+.	.	.	punct	O	O	O	
 A	DET	DT	det	B-T3	O	O	
 foreign	ADJ	JJ	amod	I-T3	O	O	
 bank	NOUN	NN	nsubjpass	I-T3	O	O	
@@ -103,7 +103,7 @@ purposes	NOUN	NNS	pobj	I-T2	O	O
 of	ADP	IN	prep	I-T2	O	O	
 this	DET	DT	det	I-T2	O	O	
 title	NOUN	NN	pobj	I-T2	O	O	
-.	.	.	punct	I-T2	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nsubj	I-EL	O	O	
 Chairperson''	NOUN	NNP	appos	I-EL	O	O	
@@ -113,7 +113,7 @@ Chairperson	NOUN	NNP	dobj	I-ER	O	O
 of	ADP	IN	prep	I-ER	O	O	
 the	DET	DT	det	I-ER	O	O	
 Council	NOUN	NNP	pobj	I-ER	O	O	
-.	.	.	punct	I-ER	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nn	I-EL	O	O	
 member	NOUN	NN	nn	I-EL	O	O	
@@ -129,7 +129,7 @@ member	NOUN	NN	pobj	I-ER	I-A1	O
 of	ADP	IN	prep	I-ER	I-A1	O	
 the	DET	DT	det	I-ER	I-A1	O	
 Council	NOUN	NNP	pobj	I-ER	I-A1	O	
-.	.	.	punct	I-ER	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nn	I-EL	O	O	
 foreign	ADJ	JJ	amod	I-EL	O	O	
@@ -177,8 +177,8 @@ than	ADP	IN	prep	I-A1	O	O
 the	DET	DT	det	I-A1	O	O	
 United	NOUN	NNP	nn	I-A1	O	O	
 States	NOUN	NNP	pobj	I-A1	O	O	
-;	.	:	punct	I-A1	O	O	
-and	CONJ	CC	cc	I-A1	O	O	
+;	.	:	punct	O	O	O	
+and	CONJ	CC	cc	B-A1	O	O	
 -LRB-	.	-LRB-	punct	I-A1	O	O	
 ii	X	LS	dep	I-A1	O	O	
 -RRB-	.	-RRB-	punct	I-A1	O	O	
@@ -205,7 +205,7 @@ paragraph	NOUN	NN	pobj	I-A1	O	O
 -LRB-	.	-LRB-	punct	I-A1	O	O	
 6	NUM	CD	appos	I-A1	O	O	
 -RRB-	.	-RRB-	punct	I-A1	O	O	
-.	.	.	punct	I-A1	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nsubj	I-EL	O	O	
 U.S.	NOUN	NNP	nn	I-EL	O	O	
@@ -363,8 +363,8 @@ States	NOUN	NNP	pobj	I-A1	O	O
 or	CONJ	CC	cc	I-A1	O	O	
 any	DET	DT	det	I-A1	O	O	
 State	NOUN	NN	conj	I-A1	O	O	
-;	.	:	punct	I-A1	O	O	
-and	CONJ	CC	cc	I-A1	O	O	
+;	.	:	punct	O	O	O	
+and	CONJ	CC	cc	B-A1	O	O	
 -LRB-	.	-LRB-	punct	I-A1	O	O	
 ii	X	LS	conj	I-A1	O	O	
 -RRB-	.	-RRB-	punct	I-A1	O	O	
@@ -381,7 +381,7 @@ paragraph	NOUN	NN	pobj	I-A1	O	O
 -LRB-	.	-LRB-	punct	I-A1	O	O	
 6	NUM	CD	dep	I-A1	O	O	
 -RRB-	.	-RRB-	punct	I-A1	O	O	
-.	.	.	punct	I-A1	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nn	I-EL	O	O	
 nonbank	ADJ	JJ	amod	I-EL	O	O	
@@ -399,7 +399,7 @@ foreign	ADJ	JJ	amod	I-ER	O	O
 nonbank	ADJ	JJ	amod	I-ER	O	O	
 financial	ADJ	JJ	amod	I-ER	O	O	
 company	NOUN	NN	conj	I-ER	O	O	
-.	.	.	punct	I-ER	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nn	I-EL	O	O	
 nonbank	ADJ	JJ	amod	I-EL	O	O	
@@ -432,7 +432,7 @@ the	DET	DT	det	I-A1	O	O
 Board	NOUN	NNP	pobj	I-A1	O	O	
 of	ADP	IN	prep	I-A1	O	O	
 Governors	NOUN	NNPS	pobj	I-A1	O	O	
-.	.	.	punct	I-A1	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 term	NOUN	NN	nn	I-EL	O	O	
 Office	NOUN	NNP	nsubj	I-EL	O	O	
@@ -446,7 +446,7 @@ established	VERB	VBN	partmod	I-ER	O	O
 under	ADP	IN	prep	I-ER	O	O	
 section	NOUN	NN	pobj	I-ER	O	O	
 152	NUM	CD	num	I-ER	O	O	
-.	.	.	punct	I-ER	O	O	
+.	.	.	punct	O	O	O	
 A	DET	DT	det	B-EL	O	O	
 company	NOUN	NN	nsubjpass	I-EL	O	O	
 is	VERB	VBZ	auxpass	B-ER	O	O	
@@ -529,8 +529,8 @@ revenues	NOUN	NNS	pobj	I-A1	O	O
 of	ADP	IN	prep	I-A1	O	O	
 the	DET	DT	det	I-A1	O	O	
 company	NOUN	NN	pobj	I-A1	O	O	
-;	.	:	punct	I-A1	O	O	
-or	CONJ	CC	cc	I-A1	O	O	
+;	.	:	punct	O	O	O	
+or	CONJ	CC	cc	B-A1	O	O	
 -LRB-	.	-LRB-	punct	I-A1	O	O	
 B	NOUN	NN	conj	I-A1	O	O	
 -RRB-	.	-RRB-	punct	I-A1	O	O	
@@ -602,7 +602,7 @@ assets	NOUN	NNS	pobj	I-A1	O	O
 of	ADP	IN	prep	I-A1	O	O	
 the	DET	DT	det	I-A1	O	O	
 company	NOUN	NN	pobj	I-A1	O	O	
-.	.	.	punct	I-A1	O	O	
+.	.	.	punct	O	O	O	
 The	DET	DT	det	B-EL	O	O	
 terms	NOUN	NNS	nsubj	I-EL	O	O	
 significant	ADJ	JJ	ROOT	I-EL	O	O	
@@ -653,4 +653,4 @@ paragraph	NOUN	NN	pobj	I-ER	O	O
 -LRB-	.	-LRB-	punct	I-ER	O	O	
 B	NOUN	NN	dep	I-ER	O	O	
 -RRB-	.	-RRB-	punct	I-ER	O	O	
-.	.	.	punct	I-ER	O	O	
+.	.	.	punct	O	O	O	

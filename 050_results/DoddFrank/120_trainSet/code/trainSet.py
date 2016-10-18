@@ -32,7 +32,7 @@ if len(pos) == len(parse):
 else:
     print "Sets don't match."
 
-os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/trainSet/output')
+os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/120_trainSet/output')
 
 # save output
 n = 1

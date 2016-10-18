@@ -15,7 +15,7 @@ following	I-C	O	O
 definitions	I-C	O	O	
 shall	I-C	O	O	
 apply	I-C	O	O	
-.	I-C	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``bank	I-EL	O	O	
@@ -42,7 +42,7 @@ of	I-ER	O	O
 U.S.C.	I-ER	O	O	
 1841	I-ER	O	O	
 -RRB-	I-ER	O	O	
-.	I-ER	O	O	
+.	O	O	O	
 A	B-T3	O	O	
 foreign	I-T3	O	O	
 bank	I-T3	O	O	
@@ -103,7 +103,7 @@ purposes	I-T2	O	O
 of	I-T2	O	O	
 this	I-T2	O	O	
 title	I-T2	O	O	
-.	I-T2	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``Chairperson''	I-EL	O	O	
@@ -113,7 +113,7 @@ Chairperson	I-ER	O	O
 of	I-ER	O	O	
 the	I-ER	O	O	
 Council	I-ER	O	O	
-.	I-ER	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``member	I-EL	O	O	
@@ -129,7 +129,7 @@ member	I-ER	I-A1	O
 of	I-ER	I-A1	O	
 the	I-ER	I-A1	O	
 Council	I-ER	I-A1	O	
-.	I-ER	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``foreign	I-EL	O	O	
@@ -177,8 +177,8 @@ than	I-A1	O	O
 the	I-A1	O	O	
 United	I-A1	O	O	
 States	I-A1	O	O	
-;	I-A1	O	O	
-and	I-A1	O	O	
+;	O	O	O	
+and	B-A1	O	O	
 -LRB-	I-A1	O	O	
 ii	I-A1	O	O	
 -RRB-	I-A1	O	O	
@@ -205,7 +205,7 @@ paragraph	I-A1	O	O
 -LRB-	I-A1	O	O	
 6	I-A1	O	O	
 -RRB-	I-A1	O	O	
-.	I-A1	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``U.S.	I-EL	O	O	
@@ -363,8 +363,8 @@ States	I-A1	O	O
 or	I-A1	O	O	
 any	I-A1	O	O	
 State	I-A1	O	O	
-;	I-A1	O	O	
-and	I-A1	O	O	
+;	O	O	O	
+and	B-A1	O	O	
 -LRB-	I-A1	O	O	
 ii	I-A1	O	O	
 -RRB-	I-A1	O	O	
@@ -381,7 +381,7 @@ paragraph	I-A1	O	O
 -LRB-	I-A1	O	O	
 6	I-A1	O	O	
 -RRB-	I-A1	O	O	
-.	I-A1	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``nonbank	I-EL	O	O	
@@ -399,7 +399,7 @@ foreign	I-ER	O	O
 nonbank	I-ER	O	O	
 financial	I-ER	O	O	
 company	I-ER	O	O	
-.	I-ER	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``nonbank	I-EL	O	O	
@@ -432,7 +432,7 @@ the	I-A1	O	O
 Board	I-A1	O	O	
 of	I-A1	O	O	
 Governors	I-A1	O	O	
-.	I-A1	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 term	I-EL	O	O	
 ``Office	I-EL	O	O	
@@ -446,7 +446,7 @@ established	I-ER	O	O
 under	I-ER	O	O	
 section	I-ER	O	O	
 152	I-ER	O	O	
-.	I-ER	O	O	
+.	O	O	O	
 A	B-EL	O	O	
 company	I-EL	O	O	
 is	B-ER	O	O	
@@ -529,8 +529,8 @@ revenues	I-A1	O	O
 of	I-A1	O	O	
 the	I-A1	O	O	
 company	I-A1	O	O	
-;	I-A1	O	O	
-or	I-A1	O	O	
+;	O	O	O	
+or	B-A1	O	O	
 -LRB-	I-A1	O	O	
 B	I-A1	O	O	
 -RRB-	I-A1	O	O	
@@ -602,7 +602,7 @@ assets	I-A1	O	O
 of	I-A1	O	O	
 the	I-A1	O	O	
 company	I-A1	O	O	
-.	I-A1	O	O	
+.	O	O	O	
 The	B-EL	O	O	
 terms	I-EL	O	O	
 ``significant	I-EL	O	O	
@@ -653,4 +653,4 @@ paragraph	I-ER	O	O
 -LRB-	I-ER	O	O	
 B	I-ER	O	O	
 -RRB-	I-ER	O	O	
-.	I-ER	O	O	
+.	O	O	O	
