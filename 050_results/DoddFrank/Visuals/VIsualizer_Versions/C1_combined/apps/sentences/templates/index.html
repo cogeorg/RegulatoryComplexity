@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Dodd-Frank Visualization</title>
+
+
+    <!-- Internet javascript files -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/Ajax_gif.js')}}"></script>
+
+    <!-- Style files -->
+    <!-- Documents Dodd_Frank -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
+    <!--Aside -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/loading.css')}}" />
+
+    <!-- Own javascript files -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/TextHighlighter.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/right_table_fn.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/auxiliar_features.js')}}"></script>
+</head>
+<body oncontextmenu="return false;">
+
+
+ <!-- Save function -->
+<script type="text/javascript">
+
+function save() {
+    var user_name = $( "p:first" ).text();
+    var newFile = document.getElementById("result").innerHTML;
+    var newFileString = newFile.toString();
+    var titleName = $("#mySidenav a").attr("id");
+    var paramData = {file: newFileString, user_name: user_name, title: titleName};
+    $.getJSON('_html2python', {
+        params: JSON.stringify(paramData)
+    });
+}
+</script>
+
+
+
+
+ <!-- On/Off div -->
+ <!-- Show the div depending on the form class button -->
+<div id="mySidenav" class="sidenav" style="cursor:pointer">
+    <!-- curly braces with username is to get Flask variables -->
+    <p id="Username" > {{ username }}</p>
+
+    <!-- On/Off button -->
+    <!-- Auxiliar_features.js -->
+    <form class="demo">
+    <select id="selectMe" class="balck">
+    <option value="div1">On</option>
+    <option value="div2">Off</option>
+    </select>
+    </form>
+
+    <div  id="div1" class="group" >
+        <!--/title_1_Y is a reference to titles.py  -->
+    <a id = "title_1"> Title 1 </a>
+    <a id = "title_2"> Title 2</a>
+    <a id = "title_3"> Title 3</a>
+    <a id = "title_4"> Title 4</a>
+    <a id = "title_5"> Title 5</a>
+    <a id = "title_6"> Title 6</a>
+    <a id = "title_7"> Title 7</a>
+    <a id = "title_8"> Title 8</a>
+    <a id = "title_9"> Title 9</a>
+    <a id = "title_10"> Title 10</a>
+    <a id = "title_11"> Title 11</a>
+    <a id = "title_12"> Title 12</a>
+    <a id = "title_13"> Title 13</a>
+    <a id = "title_14"> Title 14</a>
+    <a id = "title_15"> Title 15</a>
+    <a id = "title_16"> Title 16</a>
+     </div>
+
+
+    <div  id="div2" class="group">
+        <!--/title_1 is a reference to titles.py  -->
+    <a id = "title_1_O"> Title 1 </a>
+    <a id = "title_2_O"> Title 2</a>
+    <a id = "title_3_O"> Title 3</a>
+    <a id = "title_4_O"> Title 4</a>
+    <a id = "title_5_O"> Title 5</a>
+    <a id = "title_6_O"> Title 6</a>
+    <a id = "title_7_O"> Title 7</a>
+    <a id = "title_8_O"> Title 8</a>
+    <a id = "title_9_O"> Title 9</a>
+    <a id = "title_10_O"> Title 10</a>
+    <a id = "title_11_O"> Title 11</a>
+    <a id = "title_12_O"> Title 12</a>
+    <a id = "title_13_O"> Title 13</a>
+    <a id = "title_14_O"> Title 14</a>
+    <a id = "title_15_O"> Title 15</a>
+    <a id = "title_16_O"> Title 16</a>
+     </div>
+</div>
+
+
+
+ <!-- Right hand menu -->
+ <!-- Instructions and Logout -->
+<div class="nav-tabs">
+<ul>
+    <form  action="instructions">
+       <input type=text  style="display: none;">
+        <button>Instructions</button>
+    </form>
+
+    <form  action="logout" >
+       <input type=text style="display: none;">
+        <button>Log out</button>
+    </form>
+</ul>
+</div>
+
+
+<!-- Buttons -->
+<script type="text/javascript">
+
+// Classification
+function surroundSelection(type) {
+    var selection = window.getSelection().getRangeAt(0);
+    var selectedText = selection.extractContents();
+    var span = document.createElement("span");
+    span.setAttribute("class",type)
+    span.appendChild(selectedText);
+    span.oncontextmenu = function (ev) {
+        this.parentNode.insertBefore(document.createTextNode(this.innerHTML), this);
+        this.parentNode.removeChild(this);
+    }
+    selection.insertNode(span);
+
+}
+    
+
+</script>
+
+<div class = "buttons">
+    <ul>
+        <form>
+            <input id= "A1" type="button" onclick="surroundSelection('A1')" value="Antecedent L1">
+        </form>
+        <form>
+            <input id= "A2" type="button" onclick="surroundSelection('A2')" value="Antecedent L2">
+        </form>
+        <form>
+            <input id= "A3" type="button" onclick="surroundSelection('A3')" value="Antecedent L3">
+        </form>
+        <form>
+            <input id= "C" type="button" onclick="surroundSelection('C')" value="Consequent">
+        </form>
+        <form>
+            <input id= "T1" type="button" onclick="surroundSelection('T1')" value="Topic A">
+        </form>
+        <form>
+            <input id= "T2" type="button" onclick="surroundSelection('T2')" value="Topic C">
+        </form>
+        <form>
+            <input id= "T3" type="button" onclick="surroundSelection('T3')" value="Topic A+C">
+        </form>
+        <form>
+            <input id= "EL" type="button" onclick="surroundSelection('EL')" value="Left Equivalent">
+        </form>
+        <form>
+            <input id= "ER" type="button" onclick="surroundSelection('ER')" value="Right Equivalent">
+        </form>
+    </ul>
+</div>
+
+<div class = "save">
+    <ul>
+        <form>
+            <input id= "Save" type="button" onclick="save()" value="Save !">
+        </form>
+    </ul>
+</div>
+
+ <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
+<div class="wrapper">
+    <!--<div class="words">
+        <ul id= "words" class="ul_words"> </ul>
+    </div>-->
+
+    <div class="content-wrapper">
+        <div id="dodd_frank">
+            <div class="modal"><!-- Git image loader--></div>
+            <div id="result"> 
+                <h1>Welcome!</h1>
+                <h2>Please read the <a href = "instructions">instructions</a> carefully. <span style="color: white;"> text fill text fill text fill text fill text fill text fill </span> </h2>
+                <h2>Afterwards, you may go to the titles and classify!</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!--Main js file -->
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js')}}"></script>
+
+
+</body>
+</html>

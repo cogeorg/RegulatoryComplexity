@@ -1,0 +1,85 @@
+<html>
+
+
+  <head>
+      <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/login.css')}}" />
+
+      <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+      <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+  </head>
+
+  <!-- Login Page -->
+  <!-- 3 forms contained in this file: 1) Login, 2) Register and 3) Password -->
+  <!-- Send the request to views/method -->
+
+<div class="login-page">
+  <div class="form">
+      <form id = "password" class="password-form"  action="recover" method="POST">
+      <input type="text" placeholder="email" name="email" value="{{request.form.email }}"/>
+       <button>Send user/password</button>
+          <p class="message">Back to Sign in <a href="#" class= "signin" >Sign In</a></p>
+      </form>
+
+
+    <form id = "register" class="register-form"  action="register" method="POST">
+      <input type="text" placeholder="username" name="username" value="{{request.form.username }}"/>
+      <input type="password" placeholder="password" name="password" value="{{request.form.password }}"/>
+        <input type="password" placeholder="confirm password" name="password2" value="{{request.form.password2}}"/>
+        <input type="text" placeholder="email" name="email" value="{{request.form.email }}"/>
+        <input type="text" placeholder="afiliation" name="afiliation" value="{{request.form.afiliation }}"/>
+      <button>Create</button>
+      <p class="message">Already registered? <a href="#" class= "signin" >Sign In</a></p>
+    </form>
+
+
+
+    <form id = "login" class="login-form"  action="login" method="POST">
+      <input type="text" placeholder="username" name="username" value="{{request.form.username }}"/>
+      <input type="password" placeholder="password" name="password" value="{{ request.form.password }}"/>
+       <button>Sign In</button>
+      <p class="message">Not registered? <a href="#" class= "create" >Create an account</a></p>
+      <p class="message">Forgot your passoword? <a href="#" class= "password">Recover</a></p>
+    </form>
+
+  </div>
+    {% if error %}
+        <p id = "error_message" class="error">{{ error }}</p>
+      {% endif %}
+
+</div>
+
+<script>
+    // Change form:
+    // To Register form
+
+    $('.message .create').click(function(){
+        var error = document.getElementById("error_message");
+        if (error != null){error.remove();}
+         $(".password-form").hide();
+         $(".login-form").hide();
+         $('.register-form ').animate({height: "toggle", opacity: "toggle"}, "slow");
+    });
+
+
+    // To Login form
+    $('.message .signin').click(function(){
+        var error = document.getElementById("error_message");
+        if (error != null){error.remove();}
+         $(".password-form").hide();
+         $(".register-form").hide();
+         $('.login-form').animate({height: "toggle", opacity: "toggle"}, "slow");
+    });
+
+    // To Password
+     $('.message .password').click(function(){
+        var error = document.getElementById("error_message");
+        if (error != null){error.remove();}
+         $(".login-form").hide();
+         $(".register-form").hide();
+         $(".password-form").animate({height: "toggle", opacity: "toggle"}, "slow");
+    });
+
+
+</script>
+
+</html>

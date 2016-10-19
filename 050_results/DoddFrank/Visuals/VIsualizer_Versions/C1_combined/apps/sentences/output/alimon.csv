@@ -1,0 +1,11 @@
+claim,EconomicOperands
+covered financial,EconomicOperands
+in general,LegalReferences
+financial company,Attributes
+the corporation,FunctionWords
+in liquidating,LegalReferences
+the actual,RegulatoryOperators
+as receiver for,EconomicOperands
+orderly liquidation,Attributes
+bankruptcy code,LogicalConnectors
+incurred by,LogicalConnectors

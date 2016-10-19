@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+    <!--Aside Stylesheet-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+</head>
+
+<body>
+<!-- Words classified -->
+<div class="wrapper">
+    <div class="content-wrapper-instr">
+
+<h1> Words Classified <span style="color: white;"> text fill text fill text fill text fill text fill text fill text fill</span></h1> 
+
+<div class="words_2">
+    <ul id= "words_2" class="ul_words_2"> </ul>
+</div>
+    </div>
+</div>
+
+<!-- Right hand menu -->
+<!-- Instructions and Logout -->
+<div class="nav-tabs">
+    <ul>
+        <form  action="index">
+            <input type=text  style="display: none;">
+            <button>Back to classifying</button>
+        </form>
+
+        <form  action="instructions">
+            <input type=text  style="display: none;">
+            <button>Instructions</button>
+        </form>
+
+        <form  action="logout" >
+            <input type=text style="display: none;">
+            <button>Log out</button>
+        </form>
+    </ul>
+</div>
+</body>
+<script>
+    (function(){
+        var types = {{ types|tojson|safe}};
+        var words = {{ words|tojson|safe}};
+        var colors = {{ colors|tojson|safe}};
+
+
+        makeUL(words,types, colors);
+
+
+        function makeUL(array, array2, array3) {
+
+            // Create the list element:
+            var list = document.getElementById('words_2');
+
+            for (var i = 0; i < array.length; i++) {
+                // Create the list item:
+                var item = document.createElement('li');
+                // Put the backgroud color
+		item.style.backgroundColor = array3[i];
+		item.className = "li_words_2";
+                // Set its contents text and type:
+                text = array[i] + ", " +  array2[i];
+                item.appendChild(document.createTextNode(text));
+
+                // Add it to the list Ul:
+                list.appendChild(item);
+            }
+            return list;
+        }
+    })();
+</script>
+</html>
