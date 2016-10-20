@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Words</title>
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
     <!--Wrapper -->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
     <!--Aside Stylesheet-->
@@ -11,6 +14,11 @@
 </head>
 
 <body>
+
+<div class = "container">
+    <div class = "row">
+        <div class = "col-xs-10">
+
 <!-- Words classified -->
 <div class="wrapper">
     <div class="content-wrapper-instr">
@@ -22,6 +30,10 @@
 </div>
     </div>
 </div>
+
+        </div>
+
+        <div class = "col-xs-2">
 
 <!-- Right hand menu -->
 <!-- Instructions and Logout -->
@@ -42,6 +54,10 @@
             <button>Log out</button>
         </form>
     </ul>
+</div>
+
+        </div>
+    </div>
 </div>
 </body>
 <script>
@@ -76,4 +92,9 @@
         }
     })();
 </script>
+
+<!-- BOOTSTRAP JAVASCRIPT FILES -->
+<!-- =========================================================================================== -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/js/bootstrap.min.js"></script>
 </html>

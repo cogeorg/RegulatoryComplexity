@@ -1,5 +1,5 @@
 from flask import request, jsonify, redirect, url_for,flash,  render_template, request, session, abort
-from flask_login import current_user
+from flask_login import current_user, login_required
 from views import app
 
 import os
@@ -10,81 +10,97 @@ cwd = os.getcwd()
 
 
 @app.route('/title_1')
+@login_required
 def title_1_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_1.html')
 
 @app.route('/title_2')
+@login_required
 def title_2_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_2.html')
 
 @app.route('/title_3')
+@login_required
 def title_3_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_3.html')
 
 @app.route('/title_4')
+@login_required
 def title_4_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_4.html')
 
 @app.route('/title_5')
+@login_required
 def title_5_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_5.html')
 
 @app.route('/title_6')
+@login_required
 def title_6_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_6.html')
 
 @app.route('/title_7')
+@login_required
 def title_7_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_7.html')
 
 @app.route('/title_8')
+@login_required
 def title_8_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_8.html')
 
 @app.route('/title_9')
+@login_required
 def title_9_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_9.html')
 
 @app.route('/title_10')
+@login_required
 def title_10_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_10.html')
 
 @app.route('/title_11')
+@login_required
 def title_11_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_11.html')
 
 @app.route('/title_12')
+@login_required
 def title_12_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_12.html')
 
 @app.route('/title_13')
+@login_required
 def title_13_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_13.html')
 
 @app.route('/title_14')
+@login_required
 def title_14_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_14.html')
 
 @app.route('/title_15')
+@login_required
 def title_15_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_15.html')
 
 @app.route('/title_16')
+@login_required
 def title_16_Y():
     username = current_user.username
     return render_template("output/" + username + '/title_16.html')

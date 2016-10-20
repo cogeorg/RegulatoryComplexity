@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Dodd-Frank Visualization</title>
+    <title>Classification</title>
 
 
     <!-- Internet javascript files -->
@@ -11,6 +11,8 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/Ajax_gif.js')}}"></script>
 
     <!-- Style files -->
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
     <!-- Documents Dodd_Frank -->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
     <!--Aside -->
@@ -44,7 +46,9 @@ function save() {
 </script>
 
 
-
+<div class = "container">
+    <div class = "row">
+        <div class = "col-xs-2">
 
  <!-- On/Off div -->
  <!-- Show the div depending on the form class button -->
@@ -103,7 +107,32 @@ function save() {
      </div>
 </div>
 
+        </div>
 
+        <div class = "col-xs-8">
+
+ <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
+<div class="wrapper">
+    <!--<div class="words">
+        <ul id= "words" class="ul_words"> </ul>
+    </div>-->
+
+    <div class="content-wrapper">
+        <div id="dodd_frank">
+            <div class="modal"><!-- Git image loader--></div>
+            <div id="result"> 
+                <h1>Welcome!</h1>
+                <h2>Please read the <a href = "instructions">instructions</a> carefully. <span style="color: white;"> text fill text fill text fill text fill text fill text fill </span> </h2>
+                <h2>Afterwards, you may go to the titles and classify!</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class = "col-xs-2">
+       
 
  <!-- Right hand menu -->
  <!-- Instructions and Logout -->
@@ -183,20 +212,6 @@ function surroundSelection(type) {
     </ul>
 </div>
 
- <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
-<div class="wrapper">
-    <!--<div class="words">
-        <ul id= "words" class="ul_words"> </ul>
-    </div>-->
-
-    <div class="content-wrapper">
-        <div id="dodd_frank">
-            <div class="modal"><!-- Git image loader--></div>
-            <div id="result"> 
-                <h1>Welcome!</h1>
-                <h2>Please read the <a href = "instructions">instructions</a> carefully. <span style="color: white;"> text fill text fill text fill text fill text fill text fill </span> </h2>
-                <h2>Afterwards, you may go to the titles and classify!</h2>
-            </div>
         </div>
     </div>
 </div>
@@ -204,6 +219,10 @@ function surroundSelection(type) {
     <!--Main js file -->
     <script type="text/javascript" src="{{ url_for('static', filename='js/main.js')}}"></script>
 
+    <!-- BOOTSTRAP JAVASCRIPT FILES -->
+    <!-- =========================================================================================== -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="static/js/bootstrap.min.js"></script>
 
 </body>
 </html>

@@ -13,6 +13,9 @@ import pandas
 import shutil
 
 app = Flask(__name__)
+app.config.update(
+    TEMPLATES_AUTO_RELOAD = True
+)
 app.secret_key = os.urandom(12)
 
 mail = Mail(app)
@@ -173,6 +176,7 @@ def html2python():
     f = open("apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
     f.write(data)
     f.close()
+    return render_template('index.html', username = user_name )
 
 '''
 

@@ -7,6 +7,8 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
 
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
     <!--Color coding-->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
     <!--Aside Stylesheet-->
@@ -16,6 +18,12 @@
     
 
   </head>
+
+<body>
+
+<div class = "container">
+    <div class = "row">
+        <div class = "col-xs-10">
 
 <div class="wrapper">
     <div class="content-wrapper-instr">
@@ -85,7 +93,9 @@
     </div>
 </div>
 
+        </div>
 
+        <div class = "col-xs-2">
 
  <!-- Right hand menu -->
  <!-- Instructions and Logout -->
@@ -103,5 +113,14 @@
 </ul>
 </div>
 
+        </div>
+    </div>
+</div>
 
+<!-- BOOTSTRAP JAVASCRIPT FILES -->
+<!-- =========================================================================================== -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/js/bootstrap.min.js"></script>
+
+</body>
 </html>

@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Dodd-Frank Visualization</title>
+    <title>Classification</title>
 
 
     <!-- Internet javascript files -->
@@ -11,6 +11,8 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/Ajax_gif.js')}}"></script>
 
     <!-- Style files -->
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
     <!-- Documents Dodd_Frank -->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
     <!--Drop Down -->
@@ -48,6 +50,9 @@
 </div>
 
 
+<div class = "container">
+    <div class = "row">
+        <div class = "col-xs-2">
 
 
  <!-- On/Off div -->
@@ -107,29 +112,9 @@
      </div>
 </div>
 
+        </div>
 
-
- <!-- Right hand menu -->
- <!-- Instructions, Words Classified and Logout -->
-<div class="nav-tabs">
-<ul>
-    <form  action="instructions">
-       <input type=text  style="display: none;">
-        <button>Instructions</button>
-    </form>
-
-    <form  action="words">
-       <input type=text  style="display: none;">
-        <button>Words Classified</button>
-    </form>
-
-    <form  action="logout" >
-       <input type=text style="display: none;">
-        <button>Log out</button>
-    </form>
-</ul>
-</div>
-
+        <div class = "col-xs-8">
 
  <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
 <div class="wrapper">
@@ -150,8 +135,42 @@
     </div>
 </div>
 
+        </div>
+
+        <div class = "col-xs-2">
+
+<!-- Right hand menu -->
+ <!-- Instructions, Words Classified and Logout -->
+<div class="nav-tabs">
+<ul>
+    <form  action="instructions">
+       <input type=text  style="display: none;">
+        <button>Instructions</button>
+    </form>
+
+    <form  action="words">
+       <input type=text  style="display: none;">
+        <button>Words Classified</button>
+    </form>
+
+    <form  action="logout" >
+       <input type=text style="display: none;">
+        <button>Log out</button>
+    </form>
+</ul>
+</div>
+
+        </div>
+    </div>
+</div>
+
     <!--Main js file -->
     <script type="text/javascript" src="{{ url_for('static', filename='js/main.js')}}"></script>
+
+    <!-- BOOTSTRAP JAVASCRIPT FILES -->
+    <!-- =========================================================================================== -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="static/js/bootstrap.min.js"></script>
 
 
 </body>

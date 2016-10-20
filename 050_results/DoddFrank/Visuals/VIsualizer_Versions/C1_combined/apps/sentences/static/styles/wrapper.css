@@ -1,3 +1,6 @@
+.container {
+    width: 100%
+}
 
 .wrapper {
   width: 100%;
@@ -52,7 +55,7 @@
 
 .content-wrapper {
    margin-top: 0px;
-    margin-right: 270px;
+    margin-right: 200px;
     margin-left: 130px;
    padding: 0 30px;
    overflow-y: scroll;
@@ -65,7 +68,7 @@
 
 .content-wrapper-instr {
    margin-top: 0px;
-    margin-right: 270px;
+    margin-right: 200px;
     margin-left: 20px;
    padding: 0 30px;
    overflow-y: scroll;
@@ -74,4 +77,8 @@
     top:0 ;
   height:100vh;
   background-color:#ffffff;
+}
+
+#result{
+    font-size: 14px;
 }
