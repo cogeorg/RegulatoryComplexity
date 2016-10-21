@@ -30,26 +30,36 @@
     </div>
     -->
 
-    <div class="container">
+    <div class = "container">
+
         <div class="row" id="logo">
             <img alt="logo" height="200px" src="/static/images/logo.png">
         </div>
 
         <div class="row" id = "intro">
             <p>
-                This project aims to measure the regulatory complexity of the Dodd–Frank Wall Street Reform and Consumer Protection Act (short Dodd–Frank Act). Therefore, we follow two approaches ...
+                In 2012, Andrew Haldane declared during his <a href = "http://www.bis.org/review/r120905a.pdf">The Dog and the Frisbee</a> speach at the Economic Policy Symposion - Jackson Hole that the type of complex regulation introduced over recent decades may not only be costly and cumbersome but also sub-optimal for crisis control. <!--The cost aspect was emphasized by the study <a href = "http://www.fedfin.com/images/stories/client_reports/Cost%20Implications%20of%20Post-Crisis%20Regulatory%20Reform.pdf">The Regulatory Price Tag: Cost Implications of Post-Crisis Regular Reform</a> conducted by Federal Financial Analytics, Inc., who measured an increase of over 100% in current costs of the regulatory framework over the years 2007 until 2013. Other drawbacks are the loss of the bigger picture, and fragile predictions due to overfitting. 
             </p>
-        </div>
 
+            <p>-->
+                So far, there has been one attempt to measure this complexity in legal texts. In their paper <a href = "http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1246&context=jbtl">Law is Code: A Software Engineering Approach to Analyzing the United States Code</a>, Li et al. measured complexity by the number of words and word changes, the number of cross-references, and the number of conditional statements and found an enormous increase in complexity over the last century. 
+            </p>
+
+            <p>
+                This project aims to measure the regulatory complexity of the Dodd–Frank Wall Street Reform and Consumer Protection Act (short Dodd–Frank Act). Therefore, we follow two approaches:
+            </p>
+
+        </div>
         <div class="row" id="approaches">
             <div class="col-xs-6">
                 <h2>The Halstead Approach</h2>
-                <p>This approach consideres text as an algorithm containing operators and operands ...</p>
+                <p>This approach consideres text as being an algorithm containing operators and operands on the basis of which one can compute complexity measures like Volume, Difficulty and Effort. In order to do so, individual words or terms of the Dodd-Frank Act need to be classified according to their grammatical and regulatory purpose. 
+                </p>
                 <a href="/words" class="btn btn-success"> Classify Words </a>
             </div>
             <div class="col-xs-6">
                 <h2>The Graph Approach</h2>
-                <p>This approach considers text as being the nodes of a graph ...</p>
+                <p>This approach considers sentence parts as being the nodes of a graph and thus, graph complexity measures can be employed to measure the law's complexity. The basis for this exercise are paragraphs of the Dodd-Frank Act, whose sentence parts have been classified according to their logical structure.</p>
                 <a href="/sentenceparts" class="btn btn-success"> Classify Sentence Parts </a>
             </div>
         </div>
@@ -94,11 +104,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
 
 
 
