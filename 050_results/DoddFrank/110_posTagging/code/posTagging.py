@@ -95,7 +95,7 @@ for par in doc:
         senParse.append(wordParse)
     parParse.append(senParse)
 
-os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/posTagging/output')
+os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/110_posTagging/output')
 
 # save output as txt-file
 f = open('title_1_pos.txt','w')
