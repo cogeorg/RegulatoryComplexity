@@ -28,8 +28,8 @@ app.config['MAIL_USE_SSL'] = True
 
 
 # Create the engine to use users.db
-#Change to 'sqlite:////home/username/mysite/static/users/users.db' for Flask
-engine = create_engine('sqlite:///apps/sentences/static/users/users.db', echo=True)
+#Local: 'sqlite:///apps/sentences/static/users/users.db'
+engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/static/users/users.db', echo=True)
 
 # Initialize the Mail object with the app
 mail=Mail(app)
@@ -73,10 +73,6 @@ def do_admin_signin():
     Session = sessionmaker(bind=engine)
     s = Session()
     our_user = s.query(User).filter_by(username=USERNAME).first()    #Get the user with the email
-    #Flask: change to /home/username/mysite/output/
-    #username: RegulatoryComplexity
-    
-    #file = "app/output/" + USERNAME.strip() + ".csv" #Name of the file to be created
 
     if our_user:                                #if our_user different than null
         error = "Username already exists"       #Username already exists
@@ -93,11 +89,10 @@ def do_admin_signin():
         s.commit()
 
         # create folder with own html files
-        os.makedirs("apps/sentences/templates/output/" + USERNAME.strip())
-        copytree('apps/sentences/templates/Original', "apps/sentences/templates/output/" + USERNAME.strip())
+        #Local: apps/sentences/templates/.../
+        os.makedirs("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
+        copytree('RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/Original', "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
 
-#        with open(file, "w") as f:              #Create a csv file for the list of words
-#            pass
     return render_template("login.html", error = error)
 
 
@@ -143,25 +138,13 @@ def instructions():
     user_name = current_user.username           # Get the current user
     return render_template('instructions.html', username = user_name )
 
-'''
-@app.route("/words")
-@login_required
-def words():
-    user_name = current_user.username           # Get the current user
-    #Flask: change to /home/usernma/mysite/output/
-    file = "app/output/" + user_name.strip() + ".csv"   # File name for the current user
-    data = pandas.read_csv(file, names=['word', 'type'])    # Open file  
-    words, types, remove= delete_white(data.word.tolist(), data.type.tolist())  #Delete white words
-    colors = operand_to_color(types)         #Get the color for each operand
-    return render_template('words.html', words = words ,types = types, colors = colors) #Send words and types to the html
-'''
 
-@app.route('/_html2python')
+@app.route('/_html2python', methods=['POST'])
+@login_required
 def html2python():
-    params = json.loads(request.args.get('params'))     #Get the params from the main js
-    user_name = params['user_name']                     #Get user_name from parameters 
-    htmlString = params['file']
-    titleName = params['title']
+    user_name = request.json['user_name']                     #Get user_name from parameters 
+    htmlString = request.json['file']
+    titleName = request.json['title']
     
     head= """<!DOCTYPE html> <html>
         <head>
@@ -173,52 +156,11 @@ def html2python():
 
     data = head + htmlString + tail
     username = user_name.strip()
-    f = open("apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
+    #Local: apps/sentences/templates/output/
+    f = open("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
     f.write(data)
     f.close()
     return render_template('index.html', username = user_name )
-
-'''
-
-#array2python function to get the list of words classified from the visualizer
-# and export it to a csv file
-@app.route('/_array2python')
-def array2python():
-    params = json.loads(request.args.get('params'))     #Get the params from the main js
-    user_name = params['user_name']                     #Get user_name from parameters 
-    wordlist = params['wordList']                       #Get wordList from parameters (new words and colors)
-    new_words, new_colors = [],[]                       #Initialize new_words and new_colors
-    # Flask: change to /home/alimon/mysite/output/
-    file = "app/output/" + user_name.strip()  + ".csv"  #File of the user
-    data = pandas.read_csv(file, names=['word', 'type'])    
-    classified_words = data.word.tolist()               #Convert the data.word to list
-    type_words =data.type.tolist()                      #Convert the data.type to list
-    colors_words = operand_to_color(type_words)         #Get the color for each operand
-    dict_words = dict(zip(classified_words, colors_words))  #Make a dictionary for words and colors from csv
-
-    #Format the wordlist     
-    for element in wordlist:    
-            word = element.split("_")[0]                #Split and get the first element(word)
-            word = word.strip()                         
-            word = word.replace('  ',' ')               #To get the original string
-            #word = word.lower()                         #To lower in all the cases
-            word = check_punctuation(word)
-            dict_words[word] = element.split("_")[1]    #Second element is the color
-            new_words.append(word)                      #The list of new words
-            new_colors.append(element.split("_")[1])    #The list of new colors
-    classified_words = dict_words.keys()                #Split dictionary in lists
-    colors_words = dict_words.values()
-    classified_words, colors_words, remove_words = delete_white(classified_words, colors_words)
-    # classified_words, colors_words = sort_list_len(classified_words, colors_words)
-    # Export to the csv file
-    with open(file, "wb") as f:
-        writer = csv.writer(f)
-        writer.writerows(zip(classified_words, color_to_operand(colors_words)))
-    # Return Lists to html
-    return jsonify(words = classified_words, colors = colors_words,
-                   remove = remove_words, new_words = new_words, new_colors = new_colors)
-
-'''
 
 #User_loader function to load user from the database
 @login_manager.user_loader

@@ -39,9 +39,19 @@ function save() {
     var newFileString = newFile.toString();
     var titleName = $("#mySidenav a").attr("id");
     var paramData = {file: newFileString, user_name: user_name, title: titleName};
-    $.getJSON('_html2python', {
-        params: JSON.stringify(paramData)
+    $.ajax({
+        type : "POST",
+        url : '/sentenceparts/_html2python',
+        data: JSON.stringify(paramData, null, '\t'),
+        contentType: 'application/json;charset=UTF-8',
+        success: function(result) {
+            console.log(result);
+        }
     });
+
+    /*$.getJSON('_html2python', {
+        params: JSON.stringify(paramData)
+    });*/
 }
 </script>
 
@@ -207,7 +217,7 @@ function surroundSelection(type) {
 <div class = "save">
     <ul>
         <form>
-            <input id= "Save" type="button" onclick="save()" value="Save !">
+            <input id= "Save" type="button" onclick="save()" action="" method="post" value="Save !">
         </form>
     </ul>
 </div>

@@ -71,45 +71,66 @@
             // load html title
             $("#result").html(res);
             var paramData = {wordList:list_high, user_name:  user_name};
-                             $.getJSON('_array2python', {
-                                params: JSON.stringify(paramData)
-                                 }, function(data){
-                                        var words = data.words;
-                                        var colors = data.colors;
-                                        var i = 0;
-                                        words.forEach(function(entry) {
-                                            hltr.setColor(colors[i]);
-                                            hltr.find(words[i], false);
-                                            hltr.setReady(true);
-                                            i +=1;
-                                            });
-                                        $("#words").empty();
-                                        makeUL(words.slice(0,21), colors.slice(0,21));
-                                        list_high = [];
-                                     });
+             $.ajax({
+                type : "POST",
+                url : '/words/_array2python',
+                data: JSON.stringify(paramData, null, '\t'),
+                contentType: 'application/json;charset=UTF-8',
+                success: function(data) {
+                        var words = data.words;
+                        var colors = data.colors;
+                        var i = 0;
+                        words.forEach(function(entry) {
+                            hltr.setColor(colors[i]);
+                            hltr.find(words[i], false);
+                            hltr.setReady(true);
+                            i +=1;
+                            });
+                        $("#words").empty();
+                        makeUL(words.slice(0,21), colors.slice(0,21));
+                        list_high = [];
+                        }
+                });
 
 
-        });
+            });
         });
         };
 
         // save words when clicking on "Instructions", "Words classified" or "Log out" button
         $(document).on('click', '.nav-tabs ul form button', function(){
             var paramData = {wordList:list_high, user_name:  user_name};
-            $.getJSON('_array2python', {
-                params: JSON.stringify(paramData)
-                }, function(data){
-                    var words = data.words;
-                    var colors = data.colors;
-                    var i = 0;
-                    words.forEach(function(entry) {
-                        hltr.setColor(colors[i]);
-                        hltr.find(words[i], false);
-                        hltr.setReady(true);
-                        i +=1;
-                    });
-                    list_high = [];
+        $.ajax({
+            type : "POST",
+            url : '/words/_array2python',
+            data: JSON.stringify(paramData, null, '\t'),
+            contentType: 'application/json;charset=UTF-8',
+            success: function(data) {
+                var words = data.words;
+                var colors = data.colors;
+                var i = 0;
+                words.forEach(function(entry) {
+                    hltr.setColor(colors[i]);
+                    hltr.find(words[i], false);
+                    hltr.setReady(true);
+                    i +=1;
                 });
+                list_high = [];
+            }
+        /*$.getJSON('words/_array2python', {
+            params: JSON.stringify(paramData)
+            }, function(data){
+                var words = data.words;
+                var colors = data.colors;
+                var i = 0;
+                words.forEach(function(entry) {
+                    hltr.setColor(colors[i]);
+                    hltr.find(words[i], false);
+                    hltr.setReady(true);
+                    i +=1;
+                });
+                list_high = []; */
+            });
         });
 
         /* ******************** */
@@ -227,9 +248,12 @@
                          case "Update":
                              /* Input to python flask array2python function */
                              var paramData = {wordList:list_high, user_name:  user_name};
-                             $.getJSON('_array2python', {
-                                params: JSON.stringify(paramData)
-                                 }, function(data){
+                                $.ajax({
+                                    type : "POST",
+                                    url : '/words/_array2python',
+                                    data: JSON.stringify(paramData, null, '\t'),
+                                    contentType: 'application/json;charset=UTF-8',
+                                    success: function(data) {
                                  /* Output of flask function */
                                         var words = data.new_words;
                                         var colors = data.new_colors;
@@ -256,6 +280,7 @@
                                         makeUL(all_words.slice(0, 21), all_colors.slice(0, 21));
                                         // removeUL(remove);
                                         list_high = [];
+                                        }
                                      });
                              break;
                          case "Remove":

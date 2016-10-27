@@ -13,7 +13,7 @@ from apps import sentences
 # add project directory to the sys.path
 project_home = os.getcwd()
 if project_home not in sys.path:
-    sys.path.append = project_home
+    sys.path.append(project_home)
 
 
 # initiate the combined application
