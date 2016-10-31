@@ -4,8 +4,12 @@ from sqlalchemy import Column, Date, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, backref
 
-#Local: 'sqlite:///apps/sentences/static/users/users.db'
+# Local: 
+#engine = create_engine('sqlite:///apps/sentences/static/users/users.db', echo=True)
+
+# Pythonanywhere:
 engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/static/users/users.db', echo=True)
+
 Base = declarative_base()
  
 ########################################################################

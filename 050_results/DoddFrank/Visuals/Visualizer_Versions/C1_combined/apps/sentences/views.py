@@ -28,7 +28,10 @@ app.config['MAIL_USE_SSL'] = True
 
 
 # Create the engine to use users.db
-#Local: 'sqlite:///apps/sentences/static/users/users.db'
+# Local: 
+#engine = create_engine('sqlite:///apps/sentences/static/users/users.db', echo=True)
+
+# Pythonanywhere
 engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/static/users/users.db', echo=True)
 
 # Initialize the Mail object with the app
@@ -89,7 +92,11 @@ def do_admin_signin():
         s.commit()
 
         # create folder with own html files
-        #Local: apps/sentences/templates/.../
+        #Local: 
+        #os.makedirs("apps/sentences/templates/output/" + USERNAME.strip())
+        #copytree('apps/sentences/templates/Original', "apps/sentences/templates/output/" + USERNAME.strip())
+
+        # Pythonanywhere:
         os.makedirs("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
         copytree('RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/Original', "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
 
@@ -145,6 +152,7 @@ def html2python():
     user_name = request.json['user_name']                     #Get user_name from parameters 
     htmlString = request.json['file']
     titleName = request.json['title']
+    print titleName
     
     head= """<!DOCTYPE html> <html>
         <head>
@@ -156,7 +164,10 @@ def html2python():
 
     data = head + htmlString + tail
     username = user_name.strip()
-    #Local: apps/sentences/templates/output/
+    # Local: apps/sentences/templates/output/
+    #f = open("apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
+
+    # Pythonanywhere:
     f = open("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
     f.write(data)
     f.close()

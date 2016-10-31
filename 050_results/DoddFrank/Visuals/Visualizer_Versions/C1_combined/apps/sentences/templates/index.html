@@ -37,7 +37,8 @@ function save() {
     var user_name = $( "p:first" ).text();
     var newFile = document.getElementById("result").innerHTML;
     var newFileString = newFile.toString();
-    var titleName = $("#mySidenav a").attr("id");
+
+    var titleName = $("#mySidenav a.selected").attr("id");
     var paramData = {file: newFileString, user_name: user_name, title: titleName};
     $.ajax({
         type : "POST",
@@ -45,7 +46,7 @@ function save() {
         data: JSON.stringify(paramData, null, '\t'),
         contentType: 'application/json;charset=UTF-8',
         success: function(result) {
-            console.log(result);
+            //console.log(result);
         }
     });
 
