@@ -33,7 +33,7 @@ def main(argv):
             data = myfile.read()
 
         # find headlines
-        replacement = re.findall("\)\s([A-Z].{1,100}?\.--)", data)
+        replacement = re.findall("\)\s([A-Z].{1,110}?\.--)", data)
         # only store unique headlines
         uniqueReplacement = []
         for line in replacement:

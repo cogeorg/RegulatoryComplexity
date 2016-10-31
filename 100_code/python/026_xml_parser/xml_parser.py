@@ -29,9 +29,17 @@ def main(argv):
     # Regex to catch sections with only 1 paragraph
     simpleSec = re.findall("(<section\s.*</section>)", xmlstr)
     for sec in simpleSec:
-        newSec = re.sub("</section>", "</paragraph>", sec)
-        newSec = re.sub("(>SEC.\s.+?\.\s.+?\.)", r"\1</section><paragraph>", newSec)
+        newSec = re.sub("</section>", "</paragraph></section>", sec)
+        newSec = re.sub("(>SEC.\s.+?\.\s.+?\.)", r"\1<paragraph>", newSec)
         xmlstr = xmlstr.replace(sec, newSec)
+
+    # Regex to catch paragraphs in complex strings that don't start with numbering
+    complSec = re.findall("SEC\..*--", xmlstr)
+    for sec in complSec:
+        newSec = re.sub("([A-Z]{4,}\.\s)([A-Z].+?)", r"\1<paragraph>\2", sec)
+        newSec = re.sub("(--)", r"\1</paragraph>", newSec)
+        xmlstr = xmlstr.replace(sec, newSec)
+
 
     os.chdir(argv.output)
 

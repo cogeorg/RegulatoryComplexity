@@ -50,6 +50,7 @@ def main(argv):
 
         # include <br /> tags
         data = re.sub(r"(\s)(\(.{1,3}\)\s<span class=H>)", r" <br />\2", data)
+        data = re.sub(r"(\s)(``\(.{1,3}\)\s<span class=H>)", r" <br />\2", data)
 
         #delete "--" in front of enumerations
         data = re.sub("([a-z]|\)|'')(--)", r'\1', data)
