@@ -66,12 +66,11 @@ div.ex3 {
   text-indent: 50px;
 }
 div.ex4 {
-  padding-bottom: 0.2cm;
-  text-indent: 50px;
+  padding-bottom: 0.5cm;
 }
 
 div.ex5 {
-  padding-bottom: 0.5cm;
+  padding-bottom: 0cm;
   padding-left: 0.5cm;
   text-indent: 50px;
 }

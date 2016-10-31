@@ -27,10 +27,10 @@ app.config['MAIL_USE_SSL'] = True
 
 # Create the engine to use users.db
 #Local:
-engine = create_engine('sqlite:///apps/words/static/users/users.db', echo=True)
+#engine = create_engine('sqlite:///apps/words/static/users/users.db', echo=True)
 
 # Pythonanywhere:
-#engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/static/users/users.db', echo=True)
+engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/static/users/users.db', echo=True)
 
 
 # Initialize the Mail object with the app
@@ -76,9 +76,9 @@ def do_admin_signin():
     s = Session()
     our_user = s.query(User).filter_by(username=USERNAME).first()    #Get the user with the email
     # Local: 
-    file = "apps/words/output/" + USERNAME.strip() + ".csv" #Name of the file to be created
+    #file = "apps/words/output/" + USERNAME.strip() + ".csv" #Name of the file to be created
     # Pythonanywhere:
-    #file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + USERNAME.strip() + ".csv" 
+    file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + USERNAME.strip() + ".csv" 
 
     if our_user:                                #if our_user different than null
         error = "Username already exists"       #Username already exists
@@ -145,9 +145,9 @@ def instructions():
 def words():
     user_name = current_user.username           # Get the current user
     # Local: 
-    file = "apps/words/output/" + user_name.strip() + ".csv"   # File name for the current user
+    #file = "apps/words/output/" + user_name.strip() + ".csv"   # File name for the current user
     # Pythonanywhere:
-    #file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + user_name.strip() + ".csv"
+    file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + user_name.strip() + ".csv"
    
     data = pandas.read_csv(file, names=['word', 'type'])    # Open file  
     words, types, remove= delete_white(data.word.tolist(), data.type.tolist())  #Delete white words
@@ -165,9 +165,9 @@ def array2python():
     wordlist = request.json['wordList']                       #Get wordList from parameters (new words and colors)
     new_words, new_colors = [],[]                       #Initialize new_words and new_colors
     #Local:
-    file = "apps/words/output/" + user_name.strip()  + ".csv"  #File of the user
+    #file = "apps/words/output/" + user_name.strip()  + ".csv"  #File of the user
     # Pythonanywhere:
-    #file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + user_name.strip()  + ".csv"
+    file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + user_name.strip()  + ".csv"
 
     data = pandas.read_csv(file, names=['word', 'type'])    
     classified_words = data.word.tolist()               #Convert the data.word to list
