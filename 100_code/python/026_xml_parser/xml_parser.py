@@ -27,19 +27,29 @@ def main(argv):
     xmlstr = minidom.parseString(eT.tostring(root)).toprettyxml(indent="   ")
 
     # Regex to catch sections with only 1 paragraph
-    simpleSec = re.findall("(<section\s.*</section>)", xmlstr)
-    for sec in simpleSec:
-        newSec = re.sub("</section>", "</paragraph></section>", sec)
-        newSec = re.sub("(>SEC.\s.+?\.\s.+?\.)", r"\1<paragraph>", newSec)
-        xmlstr = xmlstr.replace(sec, newSec)
+    #simpleSec = re.findall("(<section\s.*</section>)", xmlstr)
+    #for sec in simpleSec:
+    #    newSec = re.sub("</section>", "</paragraph></section>", sec)
+    #    newSec = re.sub("(>SEC.\s.+?\.\s.+?\.)", r"\1<paragraph>", newSec)
+    #    xmlstr = xmlstr.replace(sec, newSec)
+
+    xmlstr = xmlstr.replace("\n", " ")
+    xmlstr = xmlstr.replace("         ", " ")
+    xmlstr = xmlstr.replace("        ", " ")
+    xmlstr = xmlstr.replace("    ", " ")
 
     # Regex to catch paragraphs in complex strings that don't start with numbering
-    complSec = re.findall("SEC\..*--", xmlstr)
+    complSec = re.findall("(<sec.*?</section>)", xmlstr)
     for sec in complSec:
-        newSec = re.sub("([A-Z]{4,}\.\s)([A-Z].+?)", r"\1<paragraph>\2", sec)
-        newSec = re.sub("(--)", r"\1</paragraph>", newSec)
-        xmlstr = xmlstr.replace(sec, newSec)
-
+        if re.findall("(SEC.*?<p)", sec):
+            if re.findall("([A-Z]{2,}\.\s)([A-Z].+?)", sec):
+                newSec = re.sub("(SEC.*?)(<p)", r"\1</paragraph>\2", sec)
+                newSec = re.sub("([A-Z]{2,}\.\s)([A-Z].+?)", r"\1<paragraph><br/>\2", newSec)
+                xmlstr = xmlstr.replace(sec, newSec)
+        else:
+            newSec = re.sub("</section>", "</paragraph></section>", sec)
+            newSec = re.sub("([A-Z]{2,}\.\s)([A-Z].+?)", r"\1<paragraph><br/>\2", newSec)
+            xmlstr = xmlstr.replace(sec, newSec)
 
     os.chdir(argv.output)
 

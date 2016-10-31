@@ -18,7 +18,6 @@ def main(argv):
     #delete notes
     my_regex = r" Notes(.*?)>"
     data_xml = re.sub(my_regex, ">", data_xml)
-    data_xml = data_xml.strip("\n")
 
 
     tag_names = ['title','subtitle','part','section', 'paragraph']
@@ -39,7 +38,7 @@ def main(argv):
                             ,' <div ' + tag_class[tag_names.index(tag)] + "> ",data)
 
             #classes
-            data = re.sub('</' + tag_names_del[tag_names_del.index(tag)]
+            data = re.sub('</' + tag_names[tag_names.index(tag)]
                           ,' </div',data)
 
         #delete bullets
@@ -48,7 +47,7 @@ def main(argv):
             data = re.sub('<' + tag_names_del[tag_names_del.index(tag)] + ">", "", data)
 
             #classes
-            data = re.sub('</' + tag_names[tag_names.index(tag)] + ">", "", data)
+            data = re.sub('</' + tag_names_del[tag_names_del.index(tag)] + ">", "", data)
 
         # Attributes, EconomicOperands, GrammaticalOperators, LegalOperators, LegalReferences
         # LogicalOperators, Other, RegulationOperators
