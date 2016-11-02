@@ -4,15 +4,55 @@
     background-color: #fff;
 }
 
+.counter {
+    position: fixed;
+    width: 152px;
+    height:100px;
+    right: 0;
+    background-color: #ffffff;
+    top: 120px;
+    font-size:12px;
+}
+
+.ul_counter {
+    position: fixed;
+    width: 152px;
+    right: 0;
+    background-color: #ffffff;
+    top: 120px;
+    padding-left: 5px;
+    font-size:12px;
+    border: 1px solid black;
+}
+
+.li_head{
+    margin-top: 5px;
+    padding-left: 5px;
+    font-size: 15px;
+    display: inline;
+    float: left;
+    padding-right: 5px;
+    clear: both; color:
+}
+
+.li_counter{
+    margin-top: 5px;
+    padding-left: 5px;
+    font-size: 12px;
+    display: inline;
+    float: left;
+    padding-right: 5px;
+    clear: both; color:
+}
 
 .words {
     position: fixed;
     width: 152px;
-    height:800px;
+    height:600px;
     right: 0;
     overflow-y: scroll;
     background-color: #ffffff;
-    top: 120px;
+    top: 235px;
     font-size:12px;
 }
 
@@ -23,7 +63,7 @@
     right: 0;
     overflow-y: scroll;
     background-color: #ffffff;
-    top: 120px;
+    top: 235px;
     padding-left: 5px;
     font-size:12px;
     border: 1px solid black;
@@ -37,7 +77,7 @@
     display: inline;
     float: left;
     padding-right: 5px;
-    clear: both; color: 
+    clear: both; color:
 }
 
 .li_words_2 {
@@ -47,9 +87,8 @@
     display: inline;
     float: left;
     padding-right: 9px;
-    clear: both; color: 
+    clear: both; color:
 }
-
 
 .content-wrapper {
     margin-top: 0px;

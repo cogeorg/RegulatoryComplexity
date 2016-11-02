@@ -1,5 +1,6 @@
 /* Main javascript file*/
 /* The highlighter uses texthighlighter plugin https://github.com/mir3z/texthighlighter*/
+/* The counter uses Countable from https://github.com/RadLikeWhoa/Countable*/
 (function () {
     /* First p tag*/
     var user_name = $( "p:first" ).text();
@@ -29,6 +30,30 @@
              }
         }});
 
+    /* Word count function */
+    function wordCount() {
+        setTimeout(function(){
+          var count = document.getElementById('result').innerText.split(' ').length;
+          var spans = document.getElementsByTagName('span')
+          spanList = []
+          for(var i = 0; i < spans.length; i++) {
+            if (spans[i].style.backgroundColor !== 'white'){
+                var split = spans[i].innerText.split(' ')
+                for(var j = 0; j < split.length; j++) {
+                  if (split[j]) {
+                    spanList.push(split[j])
+                  }
+                }
+                var spanCount = spanList.length -17     // -17 because categories and counting values are in spans
+            }
+          }
+          var remaining = count - spanCount
+          document.getElementById("value1").innerHTML = count.toString();
+          document.getElementById("value2").innerHTML = spanCount.toString();
+          document.getElementById("value3").innerHTML = remaining.toString();
+        }, 1000);
+    }
+
 
     /* Right Table double click feature*/
     $(document).on('dblclick', '#words li', function(){
@@ -42,6 +67,7 @@
         // to remove the li item from the frame
         this.parentNode.removeChild(this);
         count=1;
+        wordCount()
     });
     /* ******************** */
 
@@ -53,6 +79,7 @@
     var auxiliar = "";
      $("#mySidenav").click(function(){
             count =-1;
+            wordCount()
      });
 
 
@@ -62,9 +89,10 @@
             $(this).addClass('selected');
             load_html(auxiliar);
             count =-1;
+            wordCount()
      });
 
-      function load_html(line){
+    function load_html(line){
 
       $(document).ready( function() {
         $.get(line, function(res) {
@@ -129,7 +157,8 @@
                     hltr.setReady(true);
                     i +=1;
                 });
-                list_high = []; */
+                list_high = [];
+            });*/
             });
         });
 
@@ -282,6 +311,9 @@
                                         list_high = [];
                                         }
                                      });
+                                     var titleName = $("#mySidenav a.selected").attr("id")
+                                     load_html(titleName)
+                                     wordCount()
                              break;
                          case "Remove":
                              flag = true;

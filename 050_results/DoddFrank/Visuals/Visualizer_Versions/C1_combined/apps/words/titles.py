@@ -56,7 +56,7 @@ def title_13_Y():
 
 @app.route('/title_14_Y')
 def title_14_Y():
-    return render_template('PreClass/TITLE XIV-- MORTGAGE REFORM AND ANTI-PREDATORY LENDING ACT.html')
+    return render_template('PreClass/TITLE XIV--MORTGAGE REFORM AND ANTI-PREDATORY LENDING ACT.html')
 
 @app.route('/title_15_Y')
 def title_15_Y():

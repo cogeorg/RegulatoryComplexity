@@ -75,10 +75,10 @@ def do_admin_signin():
     Session = sessionmaker(bind=engine)
     s = Session()
     our_user = s.query(User).filter_by(username=USERNAME).first()    #Get the user with the email
-    # Local: 
+    # Local:
     #file = "apps/words/output/" + USERNAME.strip() + ".csv" #Name of the file to be created
     # Pythonanywhere:
-    file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + USERNAME.strip() + ".csv" 
+    file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + USERNAME.strip() + ".csv"
 
     if our_user:                                #if our_user different than null
         error = "Username already exists"       #Username already exists
@@ -87,11 +87,11 @@ def do_admin_signin():
         error = "Please fill all the fields"    # error, please fill all the fields
         render_template("login.html", error = error)    #Go to login with error
     elif PASSWORD != CONFIRMPASS:               # if password different than confirm password
-        error = "Passwords do not match"        
+        error = "Passwords do not match"
         render_template("login.html", error = error)   #Go to login with error
     elif not our_user:                          # if not user, create user
         user = User(USERNAME,PASSWORD,EMAIl, AFILIATION, True)  # Add to the database
-        s.add(user)                     
+        s.add(user)
         s.commit()
         with open(file, "w") as f:              #Create a csv file for the list of words
             pass
@@ -108,7 +108,7 @@ def do_recover_password():
     our_user = s.query(User).filter_by(email=EMAIL).first() #Get the user with the email
     if our_user:
         # Message attributes
-        msg = Message(sender="RegulatoryComplexity@gmail.com") 
+        msg = Message(sender="RegulatoryComplexity@gmail.com")
         msg.add_recipient(EMAIL)
         msg.subject = "Password recovery"
         msg.body = "hello, %s" % our_user.username + " your password is %s" % our_user.password
@@ -144,12 +144,12 @@ def instructions():
 @login_required
 def words():
     user_name = current_user.username           # Get the current user
-    # Local: 
+    # Local:
     #file = "apps/words/output/" + user_name.strip() + ".csv"   # File name for the current user
     # Pythonanywhere:
     file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + user_name.strip() + ".csv"
-   
-    data = pandas.read_csv(file, names=['word', 'type'])    # Open file  
+
+    data = pandas.read_csv(file, names=['word', 'type'])    # Open file
     words, types, remove= delete_white(data.word.tolist(), data.type.tolist())  #Delete white words
     colors = operand_to_color(types)         #Get the color for each operand
     return render_template('words.html', words = words ,types = types, colors = colors) #Send words and types to the html
@@ -161,7 +161,7 @@ def words():
 @app.route('/_array2python', methods=['POST'])
 @login_required
 def array2python():
-    user_name = request.json['user_name']                #Get user_name from parameters 
+    user_name = request.json['user_name']                #Get user_name from parameters
     wordlist = request.json['wordList']                       #Get wordList from parameters (new words and colors)
     new_words, new_colors = [],[]                       #Initialize new_words and new_colors
     #Local:
@@ -169,16 +169,16 @@ def array2python():
     # Pythonanywhere:
     file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + user_name.strip()  + ".csv"
 
-    data = pandas.read_csv(file, names=['word', 'type'])    
+    data = pandas.read_csv(file, names=['word', 'type'])
     classified_words = data.word.tolist()               #Convert the data.word to list
     type_words =data.type.tolist()                      #Convert the data.type to list
     colors_words = operand_to_color(type_words)         #Get the color for each operand
     dict_words = dict(zip(classified_words, colors_words))  #Make a dictionary for words and colors from csv
 
-    #Format the wordlist     
-    for element in wordlist:    
+    #Format the wordlist
+    for element in wordlist:
             word = element.split("_")[0]                #Split and get the first element(word)
-            word = word.strip()                         
+            word = word.strip()
             word = word.replace('  ',' ')               #To get the original string
             word = word.lower()                         #To lower in all the cases
             word = check_punctuation(word)

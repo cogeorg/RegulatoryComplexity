@@ -63,7 +63,7 @@ def main(argv):
         """
 
         data = head + data + tail
-        
+
         filename = title_names[i].strip() + ".html"
         filename = filename.replace("-- ", "--")
         f = open(argv.output + filename,'w')
@@ -79,6 +79,7 @@ def read_txt_files(file):
         key = filename.split("/")
         key = key[-1].replace(".txt","")
         key = key.replace("_extra", "")
+        key = key.replace("_special", "")
         f = open(filename, 'r')
         for element in f.readlines():
             aux_text = element.strip('\n')
@@ -97,7 +98,7 @@ def format_text(data):
 
 
 
-        
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Dodd-Frank html visualization.')
@@ -106,4 +107,3 @@ if __name__ == "__main__":
     parser.add_argument('-o', '--output', help='Output Directory', required=True)
     args = parser.parse_args()
     main(args)
-

@@ -4,26 +4,26 @@ from sqlalchemy import Column, Date, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, backref
 
-# Local: 
+# Local:
 #engine = create_engine('sqlite:///apps/sentences/static/users/users.db', echo=True)
 
 # Pythonanywhere:
 engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/static/users/users.db', echo=True)
 
 Base = declarative_base()
- 
+
 ########################################################################
 class User(Base):
     """"""
     __tablename__ = "users"
- 
+
     id = Column(Integer, primary_key=True)
     username = Column(String)
     password = Column(String)
     email = Column(String)
     afiliation = Column(String)
     authenticated = Column(Boolean, default=False)
- 
+
     #----------------------------------------------------------------------
     def __init__(self, username, password, email,afiliation, authenticated):
         """"""
@@ -48,8 +48,8 @@ class User(Base):
     def is_anonymous(self):
         """False, as anonymous users aren't supported."""
         return False
-    
 
- 
+
+
 # create tables
 Base.metadata.create_all(engine)

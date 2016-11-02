@@ -28,7 +28,7 @@ app.config['MAIL_USE_SSL'] = True
 
 
 # Create the engine to use users.db
-# Local: 
+# Local:
 #engine = create_engine('sqlite:///apps/sentences/static/users/users.db', echo=True)
 
 # Pythonanywhere
@@ -84,15 +84,15 @@ def do_admin_signin():
         error = "Please fill all the fields"    # error, please fill all the fields
         render_template("login.html", error = error)    #Go to login with error
     elif PASSWORD != CONFIRMPASS:               # if password different than confirm password
-        error = "Passwords do not match"        
+        error = "Passwords do not match"
         render_template("login.html", error = error)   #Go to login with error
     elif not our_user:                          # if not user, create user
         user = User(USERNAME,PASSWORD,EMAIl, AFILIATION, True)  # Add to the database
-        s.add(user)                     
+        s.add(user)
         s.commit()
 
         # create folder with own html files
-        #Local: 
+        #Local:
         #os.makedirs("apps/sentences/templates/output/" + USERNAME.strip())
         #copytree('apps/sentences/templates/Original', "apps/sentences/templates/output/" + USERNAME.strip())
 
@@ -113,7 +113,7 @@ def do_recover_password():
     our_user = s.query(User).filter_by(email=EMAIL).first() #Get the user with the email
     if our_user:
         # Message attributes
-        msg = Message(sender="RegulatoryComplexity@gmail.com") 
+        msg = Message(sender="RegulatoryComplexity@gmail.com")
         msg.add_recipient(EMAIL)
         msg.subject = "Password recovery"
         msg.body = "hello, %s" % our_user.username + " your password is %s" % our_user.password
@@ -149,11 +149,11 @@ def instructions():
 @app.route('/_html2python', methods=['POST'])
 @login_required
 def html2python():
-    user_name = request.json['user_name']                     #Get user_name from parameters 
+    user_name = request.json['user_name']                     #Get user_name from parameters
     htmlString = request.json['file']
     titleName = request.json['title']
     print titleName
-    
+
     head= """<!DOCTYPE html> <html>
         <head>
         </head>"""
