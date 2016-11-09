@@ -1,6 +1,5 @@
 /* Main javascript file*/
 /* The highlighter uses texthighlighter plugin https://github.com/mir3z/texthighlighter*/
-/* The counter uses Countable from https://github.com/RadLikeWhoa/Countable*/
 (function () {
     /* First p tag*/
     var user_name = $( "p:first" ).text();
@@ -32,7 +31,6 @@
 
     /* Word count function */
     function wordCount() {
-        setTimeout(function(){
           var count = document.getElementById('result').innerText.split(' ').length;
           var spans = document.getElementsByTagName('span')
           spanList = []
@@ -51,7 +49,6 @@
           document.getElementById("value1").innerHTML = count.toString();
           document.getElementById("value2").innerHTML = spanCount.toString();
           document.getElementById("value3").innerHTML = remaining.toString();
-        }, 1000);
     }
 
 
@@ -89,7 +86,7 @@
             $(this).addClass('selected');
             load_html(auxiliar);
             count =-1;
-            wordCount()
+            /*wordCount()*/
      });
 
     function load_html(line){
@@ -110,13 +107,21 @@
                         var i = 0;
                         words.forEach(function(entry) {
                             hltr.setColor(colors[i]);
-                            hltr.find(words[i], false);
+                            hltr.find(" " + words[i] + " ", false);
+                            hltr.find(" " + words[i] + ",", false);
+                            hltr.find(" " + words[i] + ";", false);
+                            hltr.find(" " + words[i] + ".", false);
+                            hltr.find(" " + words[i] + ":", false);
+                            hltr.find(" " + words[i] + "-", false);
+                            hltr.find(" " + words[i] + ")", false);
+                            hltr.find("(" + words[i] + " ", false);
                             hltr.setReady(true);
                             i +=1;
                             });
                         $("#words").empty();
                         makeUL(words.slice(0,21), colors.slice(0,21));
                         list_high = [];
+                        wordCount()
                         }
                 });
 
@@ -139,7 +144,14 @@
                 var i = 0;
                 words.forEach(function(entry) {
                     hltr.setColor(colors[i]);
-                    hltr.find(words[i], false);
+                    hltr.find(" " + words[i] + " ", false);
+                    hltr.find(" " + words[i] + ",", false);
+                    hltr.find(" " + words[i] + ";", false);
+                    hltr.find(" " + words[i] + ".", false);
+                    hltr.find(" " + words[i] + ":", false);
+                    hltr.find(" " + words[i] + "-", false);
+                    hltr.find(" " + words[i] + ")", false);
+                    hltr.find("(" + words[i] + " ", false);
                     hltr.setReady(true);
                     i +=1;
                 });
@@ -292,14 +304,28 @@
                                         var i = 0;
                                         words.forEach(function(entry) {
                                             hltr.setColor(colors[i]);
-                                            hltr.find(words[i], false);
+                                            hltr.find(" " + words[i] + " ", false);
+                                            hltr.find(" " + words[i] + ",", false);
+                                            hltr.find(" " + words[i] + ";", false);
+                                            hltr.find(" " + words[i] + ".", false);
+                                            hltr.find(" " + words[i] + ":", false);
+                                            hltr.find(" " + words[i] + "-", false);
+                                            hltr.find(" " + words[i] + ")", false);
+                                            hltr.find("(" + words[i] + " ", false);
                                             hltr.setReady(true);
                                             i +=1;
                                             });
                                         var i =0;
                                         remove.forEach(function(entry) {
                                             hltr.setColor("white");
-                                            hltr.find(entry, false);
+                                            hltr.find(" " + entry + " ", false);
+                                            hltr.find(" " + entry + ",", false);
+                                            hltr.find(" " + entry + ";", false);
+                                            hltr.find(" " + entry + ".", false);
+                                            hltr.find(" " + entry + ":", false);
+                                            hltr.find(" " + entry + "-", false);
+                                            hltr.find(" " + entry + ")", false);
+                                            hltr.find("(" + entry + " ", false);
                                             hltr.setReady(true);
                                             i +=1;
                                             });
@@ -313,7 +339,7 @@
                                      });
                                      var titleName = $("#mySidenav a.selected").attr("id")
                                      load_html(titleName)
-                                     wordCount()
+                                     /*wordCount()*/
                              break;
                          case "Remove":
                              flag = true;
