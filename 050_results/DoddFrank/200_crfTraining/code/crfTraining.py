@@ -4,10 +4,11 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.preprocessing import LabelBinarizer
 import sklearn
 import pycrfsuite
+import math
 
 
 # read data
-f = open ("title_1_par_1_layer1.txt", "r")
+f = open ("title_4_layer1.txt", "r")
 
 # save words as tuples
 words = []
@@ -24,13 +25,22 @@ for word in words:
         sentence.append(word)
         sentences.append(sentence)
         sentence = []
-    else: 
+    else:
         sentence.append(word)
 
 # split in train, val and test sets
-train = sentences[0:8]
-val = sentences[8:10]
-test = sentences[10:]
+sentNo = len(sentences)
+trainNo = int(math.floor(0.7 * sentNo))
+print "Training size: ", trainNo
+restNo = sentNo - trainNo
+valNo = int(math.floor(0.6 * restNo))
+print "Validation size: ", valNo
+testNo = restNo - valNo
+print "Test size: ", testNo
+
+train = sentences[0:trainNo]
+val = sentences[trainNo:trainNo + valNo]
+test = sentences[trainNo + valNo:]
 
 # define features
 def word2features(sent, i):
@@ -95,7 +105,7 @@ def word2features(sent, i):
             '+2:posTag2=' + posTag2,
             '+2:depTag=' + depTag,
         ])
-        
+
     if i < len(sent)-1:
         word = sent[i+1][0]
         posTag1 = sent[i+1][1]
@@ -112,7 +122,7 @@ def word2features(sent, i):
         ])
     else:
         features.append('EOS')
-                
+
     return features
 
 
@@ -123,7 +133,7 @@ def sent2labels(sent):
     return [label for token, posTag1, posTag2, depTag, label in sent]
 
 def sent2tokens(sent):
-    return [token for token, posTag1, posTag2, depTag, label in sent]   
+    return [token for token, posTag1, posTag2, depTag, label in sent]
 
 
 # train, val and test sets in CRFsuite format
@@ -152,14 +162,30 @@ trainer.set_params({
     'feature.possible_transitions': True
 })
 
-trainer.train('title_1_par_1.crfsuite')
+trainer.train('title_4.crfsuite')
 
 # make predictions
 tagger = pycrfsuite.Tagger()
-tagger.open('title_1_par_1.crfsuite')
+tagger.open('title_4.crfsuite')
 
-example_sent = val[1]
-print(' '.join(sent2tokens(example_sent)))
 
-print("Predicted:", ' '.join(tagger.tag(sent2features(example_sent))))
-print("Correct:  ", ' '.join(sent2labels(example_sent)))
+for item in val:
+    example_sent = item
+    print(' '.join(sent2tokens(example_sent)))
+
+    print("Predicted:", ' '.join(tagger.tag(sent2features(example_sent))))
+    print("Correct:  ", ' '.join(sent2labels(example_sent)))
+
+
+
+# evaluate model
+ypred = [tagger.tag(xseq) for xseq in xval]
+error = 0
+n = 0
+for i in range(len(ypred)):
+    for j in range(len(ypred[i])):
+        if yval[i][j] != ypred[i][j]:
+            error += 1
+        n += 1
+accuracy = 1 - float(error)/n
+print "Accuracy: ", accuracy

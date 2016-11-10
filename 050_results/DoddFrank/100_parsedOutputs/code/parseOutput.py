@@ -101,10 +101,14 @@ for f in glob.glob("*.html"):
         for span in spans:
             part = span.get_text()
             part = part.encode("utf-8")
+            # delete quotes
             part = re.sub(r"`", "", part)
             part = re.sub(r"'", "", part)
+            # change number format
+            part = re.sub(r"(\$)([0-9]+),([0-9]+)", r"USD\2\3", part)
+            for i in range(3):
+                part = re.sub(r"(USD[0-9]+),([0-9]+)", r"\1\2", part)
             span = str(span)
-            span = re.sub(":", ".", span)
             partType = re.findall("class=\"(.+?)\"", span)
             spanList.append([part, partType])
 
@@ -205,8 +209,8 @@ for f in glob.glob("*.html"):
     '''
 
         # remove headlines and split in words
-        abbrev = [r"(U\.S\.C\.)", r"(U\.S\.)", r"(seq\.)", r"(App\.)", r"(\.'')"]
-        repl = ["U_S_C_", "U_S_", "seq_", "App_", "_''"]
+        abbrev = [r"(U\.S\.C\.)", r"(U\.S\.)", r"(seq\.)", r"(App\.)", r"C\.F\.R\.", r"\.''\.\(", r"(\.'')"]
+        repl = ["U_S_C_", "U_S_", "seq_", "App_", "C_F_R_", r"_''_\()", "_''"]
         words = []
         for item in output:
             if item[1][0] == 'H': continue
@@ -214,9 +218,13 @@ for f in glob.glob("*.html"):
                 line = item[0]
                 for a in abbrev:
                     line = re.sub(a, repl[abbrev.index(a)], line)
+                # replace numbers /w dots
+                line = re.sub(r"([0-9])\.([0-9])", r"\1_\2", line)
                 word = line.split()
                 for w in word:
                     words.append([w, item[1]])
+        #for w in words:
+        #    print w
 
         # split off special characters
         specialChar = [".", ",", "(", ")",":",";"]
@@ -236,11 +244,10 @@ for f in glob.glob("*.html"):
             listIn = listOut
             listOut = []
 
-        # resubstitute "_", replace ":", "(" and ")"
+        # resubstitute "_", "(" and ")"
         for word in listIn:
             w = word[0]
             w = re.sub("_", ".", w)
-            w = re.sub(":", ".", w)
             w = re.sub("\(", "-LRB-", w)
             w = re.sub("\)", "-RRB-", w)
             listOut.append([w, word[1][0], word[1][1], word[1][2]])
@@ -280,7 +287,8 @@ for f in glob.glob("*.html"):
         listIOB = []
         while i < l:
             if listOut[i][0] == ".":
-                listIOB.append([listOut[i][0], 'O', 'O', 'O'])
+                if listOut[i-1][0] != ".":
+                    listIOB.append([listOut[i][0], 'O', 'O', 'O'])
             else:
                 listIOB.append([listOut[i][0], layersIOB[0][i], layersIOB[1][i], layersIOB[2][i]])
             i += 1
