@@ -1,21 +1,22 @@
 import os
+import glob
 
 # load pos
-f = open("title_4_pos.txt", "r")
-
 pos = []
-for line in f:
-    word = line.split("\t")
-    pos.append(word[:-1])
-
+for item in glob.glob("*pos.txt"):
+    with open(item, "r") as f:
+        for line in f:
+            word = line.split("\t")
+            pos.append(word[:-1])
 
 # load parse
-h = open("title_4_parse.txt", "r")
-
 parse = []
-for line in h:
-    word = line.split("\t")
-    parse.append(word[:-1])
+for item in glob.glob("*parse.txt"):
+    with open(item, "r") as f:
+        for line in f:
+            word = line.split("\t")
+            parse.append(word[:-1])
+
 
 
 # train set for each layer
@@ -40,7 +41,7 @@ os.chdir('/home/sabine/Dokumente/Git/RegulatoryComplexity/050_results/DoddFrank/
 # save output
 n = 1
 for layer in trainLayers:
-    f = open('title_4_layer%s.txt' %n,'w')
+    f = open('test_layer%s.txt' %n,'w')
     for word in layer:
         for item in word:
             f.write("%s\t" %item)

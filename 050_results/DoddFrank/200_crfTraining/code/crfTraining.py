@@ -5,10 +5,12 @@ from sklearn.preprocessing import LabelBinarizer
 import sklearn
 import pycrfsuite
 import math
+import random
+from features import *
 
 
 # read data
-f = open ("title_4_layer1.txt", "r")
+f = open ("test_layer1.txt", "r")
 
 # save words as tuples
 words = []
@@ -38,137 +40,123 @@ print "Validation size: ", valNo
 testNo = restNo - valNo
 print "Test size: ", testNo
 
-train = sentences[0:trainNo]
-val = sentences[trainNo:trainNo + valNo]
-test = sentences[trainNo + valNo:]
+# shuffle sentences
+random.seed(2016)
+x = range(sentNo)
+random.shuffle(x)
+sentShuffle = []
+for i in range(len(x)):
+    sentShuffle.append(sentences[x[i]])
 
-# define features
-def word2features(sent, i):
-    word = sent[i][0]
-    posTag1 = sent[i][1]
-    posTag2 = sent[i][2]
-    depTag = sent[i][3]
-    features = [
-        'bias',
-        'word.lower=' + word.lower(),
-        'word[-3:]=' + word[-3:],
-        'word.isupper=%s' % word.isupper(),
-        'word.istitle=%s' % word.istitle(),
-        'word.isdigit=%s' % word.isdigit(),
-        'posTag1=' + posTag1,
-        'posTag2=' + posTag2,
-        'depTag' + depTag,
-    ]
-    if i > 0:
-        word = sent[i-1][0]
-        posTag1 = sent[i-1][1]
-        posTag2 = sent[i-1][2]
-        depTag = sent[i-1][3]
-        features.extend([
-            '-1:word.lower=' + word.lower(),
-            '-1:word.istitle=%s' % word.istitle(),
-            '-1:word.isupper=%s' % word.isupper(),
-            '-1:word.isdigit=%s' % word.isdigit(),
-            '-1:posTag1=' + posTag1,
-            '-1:posTag2=' + posTag2,
-            '-1:depTag=' + depTag,
-        ])
-    else:
-        features.append('BOS')
+# define train, validation and test set
+train = sentShuffle[0:trainNo]
+val = sentShuffle[trainNo:trainNo + valNo]
+test = sentShuffle[trainNo + valNo:]
 
-    if i > 1:
-        word = sent[i-2][0]
-        posTag1 = sent[i-2][1]
-        posTag2 = sent[i-2][2]
-        depTag = sent[i-2][3]
-        features.extend([
-            '-2:word.lower=' + word.lower(),
-            '-2:word.istitle=%s' % word.istitle(),
-            '-2:word.isupper=%s' % word.isupper(),
-            '-2:word.isdigit=%s' % word.isdigit(),
-            '-2:posTag1=' + posTag1,
-            '-2:posTag2=' + posTag2,
-            '-2:depTag=' + depTag,
-        ])
+# cross Validation
+cv = []
 
-    if i < len(sent)-2:
-        word = sent[i+2][0]
-        posTag1 = sent[i+2][1]
-        posTag2 = sent[i+2][2]
-        depTag = sent[i+2][3]
-        features.extend([
-            '+2:word.lower=' + word.lower(),
-            '+2:word.istitle=%s' % word.istitle(),
-            '+2:word.isupper=%s' % word.isupper(),
-            '+2:word.isdigit=%s' % word.isdigit(),
-            '+2:posTag1=' + posTag1,
-            '+2:posTag2=' + posTag2,
-            '+2:depTag=' + depTag,
-        ])
+# define feature radius
+radius = range(3, 5)
 
-    if i < len(sent)-1:
-        word = sent[i+1][0]
-        posTag1 = sent[i+1][1]
-        posTag2 = sent[i+1][2]
-        depTag = sent[i+1][3]
-        features.extend([
-            '+1:word.lower=' + word.lower(),
-            '+1:word.istitle=%s' % word.istitle(),
-            '+1:word.isupper=%s' % word.isupper(),
-            '+1:word.isdigit=%s' % word.isdigit(),
-            '+1:posTag1=' + posTag1,
-            '+1:posTag2=' + posTag2,
-            '+1:depTag=' + depTag,
-        ])
-    else:
-        features.append('EOS')
+# hpyerparameters
+c1 = [2**i for i in range(-10, -3)]
+c2 = [2**i for i in range(-5, -3)]
+maxIt = range(20, 55, 5)
 
-    return features
+for r in radius:
 
+    # train and val sets in CRFsuite format
+    xtrain = [sent2features(s, r) for s in train]
+    ytrain = [sent2labels(s) for s in train]
 
-def sent2features(sent):
-    return [word2features(sent, i) for i in range(len(sent))]
+    xval = [sent2features(s, r) for s in val]
+    yval = [sent2labels(s) for s in val]
 
-def sent2labels(sent):
-    return [label for token, posTag1, posTag2, depTag, label in sent]
+    # train model
+    trainer = pycrfsuite.Trainer(verbose=False)
 
-def sent2tokens(sent):
-    return [token for token, posTag1, posTag2, depTag, label in sent]
+    for xseq, yseq in zip(xtrain, ytrain):
+        trainer.append(xseq, yseq)
 
+    for i in c1:
+        for j in c2:
+            for k in maxIt:
 
-# train, val and test sets in CRFsuite format
-xtrain = [sent2features(s) for s in train]
-ytrain = [sent2labels(s) for s in train]
+                trainer.set_params({
+                    'c1': i,   # coefficient for L1 penalty
+                    'c2': j,  # coefficient for L2 penalty
+                    'max_iterations': k,
 
+                    # include transitions that are possible, but not observed
+                    'feature.possible_transitions': True
+                })
 
-xval = [sent2features(s) for s in val]
-yval = [sent2labels(s) for s in val]
+                trainer.train('test.crfsuite')
 
-xtest = [sent2features(s) for s in test]
+                # make predictions
+                tagger = pycrfsuite.Tagger()
+                tagger.open('test.crfsuite')
+
+                # evaluate model
+                ypred = [tagger.tag(xseq) for xseq in xval]
+                error = 0
+                n = 0
+                for l in range(len(ypred)):
+                    for m in range(len(ypred[l])):
+                        if yval[l][m] != ypred[l][m]:
+                            error += 1
+                        n += 1
+                accuracy = 1 - float(error)/n
+                #print "Accuracy: ", accuracy
+
+                cv.append([r, i, j, k, accuracy])
+                print r, i, j, k, accuracy
+
+cv.sort(key=lambda x: x[4])
+print cv[0], cv[len(cv)-1]
+
+# out of sample evaluation
+r = cv[len(cv)-1][0]
+c1 = cv[len(cv)-1][1]
+c2 = cv[len(cv)-1][2]
+maxIt = cv[len(cv)-1][3]
+
+# train and test sets in CRFsuite format
+xtrain = [sent2features(s, r) for s in train + val]
+ytrain = [sent2labels(s) for s in train + val]
+
+xtest = [sent2features(s, r) for s in test]
 ytest = [sent2labels(s) for s in test]
 
-# train model
-trainer = pycrfsuite.Trainer(verbose=False)
-
-for xseq, yseq in zip(xtrain, ytrain):
-    trainer.append(xseq, yseq)
-
 trainer.set_params({
-    'c1': 1.0,   # coefficient for L1 penalty
-    'c2': 1e-3,  # coefficient for L2 penalty
-    'max_iterations': 50,  # stop earlier
+    'c1': c1,   # coefficient for L1 penalty
+    'c2': c2,  # coefficient for L2 penalty
+    'max_iterations': maxIt,
 
     # include transitions that are possible, but not observed
     'feature.possible_transitions': True
 })
 
-trainer.train('title_4.crfsuite')
+trainer.train('test.crfsuite')
 
 # make predictions
 tagger = pycrfsuite.Tagger()
-tagger.open('title_4.crfsuite')
+tagger.open('test.crfsuite')
 
+# evaluate model
+ypred = [tagger.tag(xseq) for xseq in xtest]
+error = 0
+n = 0
+for i in range(len(ypred)):
+    for j in range(len(ypred[i])):
+        if ytest[i][j] != ypred[i][j]:
+            error += 1
+        n += 1
+accuracy = 1 - float(error)/n
+print "Accuracy: ", accuracy
 
+'''
 for item in val:
     example_sent = item
     print(' '.join(sent2tokens(example_sent)))
@@ -176,16 +164,4 @@ for item in val:
     print("Predicted:", ' '.join(tagger.tag(sent2features(example_sent))))
     print("Correct:  ", ' '.join(sent2labels(example_sent)))
 
-
-
-# evaluate model
-ypred = [tagger.tag(xseq) for xseq in xval]
-error = 0
-n = 0
-for i in range(len(ypred)):
-    for j in range(len(ypred[i])):
-        if yval[i][j] != ypred[i][j]:
-            error += 1
-        n += 1
-accuracy = 1 - float(error)/n
-print "Accuracy: ", accuracy
+'''
