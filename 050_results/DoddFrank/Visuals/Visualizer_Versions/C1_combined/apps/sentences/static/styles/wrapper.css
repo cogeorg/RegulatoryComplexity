@@ -39,7 +39,7 @@
     display: inline;
     float: left;
     padding-right: 9px;
-    clear: both; color: 
+    clear: both; color:
 }
 
 .li_words_2 {
@@ -49,21 +49,13 @@
     display: inline;
     float: left;
     padding-right: 9px;
-    clear: both; color: 
+    clear: both; color:
 }
 
 
 .content-wrapper {
-   margin-top: 0px;
-    margin-right: 200px;
-    margin-left: 130px;
-   padding: 0 30px;
    overflow-y: scroll;
-   position: fixed;
-   left: 0;
-    top:0 ;
-  height:100vh;
-  background-color:#ffffff;
+
 }
 
 .content-wrapper-instr {

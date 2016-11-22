@@ -59,7 +59,7 @@ function save() {
 
 <div class = "container">
     <div class = "row">
-        <div class = "col-xs-2">
+        <div class = "col-xs-1">
 
  <!-- On/Off div -->
  <!-- Show the div depending on the form class button -->
@@ -120,18 +120,15 @@ function save() {
 
         </div>
 
-        <div class = "col-xs-8">
+        <div class = "col-xs-5">
 
- <!--Dodd Frank regulatory document and Words Classified Frame (Right)-->
+ <!--Dodd Frank regulatory document-->
 <div class="wrapper">
-    <!--<div class="words">
-        <ul id= "words" class="ul_words"> </ul>
-    </div>-->
 
     <div class="content-wrapper">
         <div id="dodd_frank">
             <div class="modal"><!-- Git image loader--></div>
-            <div id="result"> 
+            <div id="result">
                 <h1>Welcome!</h1>
                 <h2>Please read the <a href = "instructions">instructions</a> carefully. <span style="color: white;"> text fill text fill text fill text fill text fi </span> </h2>
                 <h2>Afterwards, you may go to the titles and classify!</h2>
@@ -141,9 +138,17 @@ function save() {
 </div>
 
         </div>
+        <div class = "col-xs-5">
+ <!--Graph-->
+ <div class = "graph">
+     <div id = "graph">
 
-        <div class = "col-xs-2">
-       
+     </div>
+ </div>
+        </div>
+
+        <div class = "col-xs-1">
+
 
  <!-- Right hand menu -->
  <!-- Instructions and Logout -->
@@ -151,7 +156,7 @@ function save() {
 <ul>
     <form  action="instructions">
        <input type=text  style="display: none;">
-        <button>Instructions</button>
+       <button>Instructions</button>
     </form>
 
     <form  action="logout" >
@@ -173,13 +178,23 @@ function surroundSelection(type) {
     span.setAttribute("class",type)
     span.appendChild(selectedText);
     span.oncontextmenu = function (ev) {
-        this.parentNode.insertBefore(document.createTextNode(this.innerHTML), this);
+        this.parentNode.insertBefore(document.createTextNode(this.innerText), this);
         this.parentNode.removeChild(this);
+        graphs();
     }
     selection.insertNode(span);
+    graphs();
 
 }
-    
+
+function removeHighlight() {
+    var selection = window.getSelection().getRangeAt(0);
+    var selectedText = document.createTextNode( selection.toString() );
+    selection.deleteContents();
+    selection.insertNode(selectedText);
+    graphs();
+}
+
 
 </script>
 
@@ -219,6 +234,9 @@ function surroundSelection(type) {
     <ul>
         <form>
             <input id= "Save" type="button" onclick="save()" action="" method="post" value="Save !">
+        </form>
+        <form>
+            <input id= "Remove" type="button" onclick="removeHighlight()" action="" method="post" value="Remove">
         </form>
     </ul>
 </div>
