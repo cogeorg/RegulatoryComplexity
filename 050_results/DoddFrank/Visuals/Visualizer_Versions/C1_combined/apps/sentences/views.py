@@ -77,6 +77,11 @@ def do_admin_signin():
     s = Session()
     our_user = s.query(User).filter_by(username=USERNAME).first()    #Get the user with the email
 
+    # txt file for graph tables
+    file = "apps/sentences/output/" + USERNAME.strip() + ".txt" #Name of the file to be created
+    # Pythonanywhere:
+    #file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + USERNAME.strip() + ".txt"
+
     if our_user:                                #if our_user different than null
         error = "Username already exists"       #Username already exists
         return render_template("login.html", error = error) #Go to login with error
@@ -90,6 +95,8 @@ def do_admin_signin():
         user = User(USERNAME,PASSWORD,EMAIl, AFILIATION, True)  # Add to the database
         s.add(user)
         s.commit()
+        with open(file, "w") as f:              #Create a txt file for graphs
+            pass
 
         # create folder with own html files
         #Local:
@@ -172,6 +179,82 @@ def html2python():
     f.write(data)
     f.close()
     return render_template('index.html', username = user_name )
+
+
+#array2python function to get the list of checked checkboxes and export it to a csv file
+@app.route('/_array2python', methods=['POST'])
+@login_required
+def array2python():
+    userName = request.json['userName']
+    titleName = request.json['titleName']
+    inputIds = request.json['inputIds']
+    checks = request.json['checks']
+
+    # Local:
+    path = "apps/sentences/output/" + userName.strip()  + ".txt"
+    # Pythonanywhere:
+    #path = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + userName.strip()  + ".txt"
+    file = path  #File of the user
+    if len(checks) > 0:
+        oldFile = []
+        newFile = []
+        with open(file, "r") as f:
+            # if file is empty save all new checkboxes
+            if os.stat(path).st_size == 0:
+                for inputId in inputIds:
+                    newLine = titleName + ',' + inputId + ',' + str(checks[inputIds.index(inputId)]) + '\n'
+            # if file is not empty, first save all old settings
+            else:
+                for line in f:
+                    oldFile.append(line.split(','))
+                    print line.split(',')
+
+        for item in oldFile:
+            # if old setting dont concern current title, keep them
+            if item[0] != titleName:
+                newFile.append(item)
+            # if they concern current title, overwrite them with new settings
+            else:
+                for inputId in inputIds:
+                    if item[1] == inputId:
+                        newFile.append([titleName, inputId, checks[inputIds.index(inputId)]])
+
+        # append all new settings that did not exist before
+        for inputId in inputIds:
+            newItem = [titleName, inputId, checks[inputIds.index(inputId)]]
+            if newItem not in newFile:
+                newFile.append(newItem)
+
+        # write into user file
+        with open(file, "w") as f:
+            for item in newFile:
+                string = item[0] + ',' + item [1] + ',' + str(item[2]) + '\n'
+                f.write(string)
+
+    return jsonify(userName = userName)
+
+@app.route('/_array2javascript', methods=['POST'])
+@login_required
+def array2javascript():
+    userName = request.json['userName']
+    titleName = request.json['titleName']
+    # Local:
+    path = "apps/sentences/output/" + userName.strip()  + ".txt"
+    # Pythonanywhere:
+    #path = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + userName.strip()  + ".txt"
+    file = path  #File of the user
+    inputJson = []
+    checksJson = []
+    # load user file and pass data to javascript
+    with open(file, "r") as f:
+        for line in f:
+            data = line.split(',')
+            if data[0] == titleName:
+                inputJson.append(data[1])
+                checksJson.append(data[2])
+
+    return jsonify(userName = userName, titleName = titleName, inputIds = inputJson, checks = checksJson)
+
 
 #User_loader function to load user from the database
 @login_manager.user_loader

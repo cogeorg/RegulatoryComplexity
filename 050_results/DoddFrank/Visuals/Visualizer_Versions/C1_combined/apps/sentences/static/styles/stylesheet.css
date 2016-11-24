@@ -49,6 +49,45 @@ span.H {
     font-weight:bold;
 }
 
+td.A1 {
+    background-color:#a8fea8;
+   }
+
+td.A2 {
+    background-color:#47fc47;
+   }
+
+td.A3 {
+    background-color:#03ca03;
+   }
+
+td.C {
+    background-color:#cc99ff;
+}
+
+td.T1 {
+    background-color:#ffff99;
+}
+
+td.T2 {
+    background-color:#ffff00;
+}
+
+td.T3 {
+    background-color:#ffcc00;
+}
+
+td.EL {
+    background-color:#d3d3d3;
+}
+
+td.ER {
+    background-color:#c9e3e3;
+}
+
+td.H {
+    font-weight:bold;
+}
 
 
 

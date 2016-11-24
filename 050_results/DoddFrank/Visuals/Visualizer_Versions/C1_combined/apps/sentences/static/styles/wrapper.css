@@ -52,10 +52,14 @@
     clear: both; color:
 }
 
+#left{
+    height: 100vh;
+    overflow-y: scroll;
+}
 
-.content-wrapper {
-   overflow-y: scroll;
-
+#right{
+    height: 100vh;
+    overflow-y: scroll;
 }
 
 .content-wrapper-instr {
