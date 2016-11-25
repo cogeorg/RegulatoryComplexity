@@ -1,7 +1,7 @@
 <html>
 
 
-  <head>
+<head>
     <meta charset="UTF-8">
     <title>Instructions</title>
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
@@ -17,114 +17,133 @@
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
 
 
-  </head>
+</head>
 
 <body>
 
-<div class = "container">
-    <div class = "row">
-        <div class = "col-xs-10">
+    <div class = "container">
+        <div class = "row">
+            <div class = "col-xs-11">
 
-<div class="wrapper">
-    <div class="content-wrapper-instr">
+                <div class="wrapper">
+                    <div class="content-wrapper-instr">
 
-<h1>Purpose</h1>
-<p> Classify the logical parts of a sentence. </p>
-<ul>
-    <li> <span class=A1> Antecedent L1:</span> antecedent parts describe cases in which the law can be applied. L1 stands for first layer. </li>
-    <li> <span class=A2> Antecedent L2:</span> are antecendent parts that further describe an antecendent part. L2 stands for second layer. </li>
-    <li> <span class=A3> Antecedent L3:</span> are antecendent parts of layer 3. </li>
-    <li> <span class=C>Consequent:</span> consequent parts describe the provision of the law. </li>
-    <li> <span class=T1>Topic A:</span> topic type A is a subject related to the antecedent part. </li>
-    <li> <span class=T2>Topic C:</span> topic type C is a subject related to the consequent part. </li>
-    <li> <span class=T3>Topic A+C:</span> topic type A+C is a subject related to both, the antecedent and the consequent part. </li>
-    <li> <span class=EL>Left Equivalent:</span> left equivalent is the left part of a sentence with two equivalent statements. </li>
-    <li> <span class=ER>Right Equivalent:</span> right equivalent is the right part of a sentence with two equivalent statements. </li>
-    <li> <span class=H>Headlines:</span> are already preclassified and function as a guideline for the user. </li>
-</ul>
+                        <h1>Purpose</h1>
+                        <p> Classify the logical parts of a sentence. </p>
+                        <ul>
+                            <li> <span class=A1> Antecedent L1:</span> antecedent parts describe cases in which the law can be applied. L1 stands for first layer. </li>
+                            <li> <span class=A2> Antecedent L2:</span> are antecendent parts that further describe an antecendent part. L2 stands for second layer. </li>
+                            <li> <span class=A3> Antecedent L3:</span> are antecendent parts of layer 3. </li>
+                            <li> <span class=C>Consequent:</span> consequent parts describe the provision of the law. </li>
+                            <li> <span class=T1>Topic A:</span> topic type A is a subject related to the antecedent part. </li>
+                            <li> <span class=T2>Topic C:</span> topic type C is a subject related to the consequent part. </li>
+                            <li> <span class=T3>Topic A+C:</span> topic type A+C is a subject related to both, the antecedent and the consequent part. </li>
+                            <li> <span class=EL>Left Equivalent:</span> left equivalent is the left part of a sentence with two equivalent statements. </li>
+                            <li> <span class=ER>Right Equivalent:</span> right equivalent is the right part of a sentence with two equivalent statements. </li>
+                            <li> <span class=H>Headlines:</span> are already preclassified and function as a guideline for the user. </li>
+                        </ul>
 
 
-<h1>Examples</h1>
-<h3> Example 1 </h3>
-<p>
-<span class=EL>The term ``bank holding company''</span> <span class=ER>has the same meaning as in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).</span>
-</p>
-<h3> Example 2 </h3>
-<p>
-<span class=T3>A foreign bank or company</span> <span class=A1>that is treated as a bank holding company for purposes of the Bank Holding Company Act of 1956,</span> <span class=A1>pursuant to section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a)),</span> <span class=C>shall be treated as a bank holding company</span> <span class=A1>for purposes of this title.</span>
-</p>
-<h3> Example 3 </h3>
-<p>
-<span class=EL>The term ``foreign nonbank financial company''</span> <span class=ER>means a company</span> <span class=A1>(other than a company that is, <span class=A2>or is treated in the United States as,</span> a bank holding company)</span> <span class=A1>that is (i) incorporated or organized in a country other than the United States;</span> <span class=A1> and (ii) predominantly engaged in, <span class=A2>including through a branch in the United States,</span> financial activities,</span> <span class=A1>as defined in paragraph (6).</span>
-</p>
-<h3> Example 4 </h3>
-<p>
-<span class=T2>The Commission</span> <span class=C>may require any <span class=T1>investment adviser</span> <span class=A1>registered under this title</span></span> <span class=A1>``(A) to maintain such records of, and file with the Commission such reports regarding, <span class=T1>private funds</span> <span class=A2>advised by the investment adviser</span>, <span class=A2>as necessary and appropriate in the public interest and for the protection of investors</span>, <span class=A2>or for the assessment of systemic risk by the Financial Stability Oversight Council <span class=A3>(in this subsection referred to as the `Council')</span></span>;</span> <span class=A1>and ``(B) to provide or make available to the Council those reports or records or the information contained therein</span>.
-</p>
+                        <h1>Examples</h1>
+                        <div class = "col-xs-11"><h3> Example 1 </h3></div>
+                        <div class = "col-xs-5">
+                            <p>
+                                <span class=EL>The term ``bank holding company''</span> <span class=ER>has the same meaning as in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).</span>
+                            </p>
+                        </div>
+                        <div class = "col-xs-6">
+                            <div class="table" id="1"><div id="myDynamicTable1"><table border="1"><thead><tr><td>Part</td><td>ID</td><td>1</td><td>2</td></tr></thead><tbody><tr><td class="EL">The term ``bank holding company'' </td><td>1</td><td></td><td></td></tr><tr><td class="ER">has the same meaning as in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841). </td><td>2</td><td><input id="check-1-1-0" type="checkbox" checked="checked"></td><td></td></tr></tbody></table></div></div>
+                        </div>
+                        <div class = "col-xs-11"><h3> Example 2 </h3></div>
+                        <div class = "col-xs-5">
+                            <p>
+                                <span class=T3>A foreign bank or company</span> <span class=A1>that is treated as a bank holding company for purposes of the Bank Holding Company Act of 1956,</span> <span class=A1>pursuant to section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a)),</span> <span class=C>shall be treated as a bank holding company</span> <span class=A1>for purposes of this title.</span>
+                            </p>
+                        </div>
+                        <div class = "col-xs-6">
+                            <div class="table" id="1"><div id="myDynamicTable1"><table border="1"><thead><tr><td>Part</td><td>ID</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr></thead><tbody><tr><td class="T3">A foreign bank or company</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">that is treated as a bank holding company for purposes of the Bank Holding Company Act of 1956,</td><td>2</td><td><input id="check-1-1-0" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">pursuant to section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a)), </td><td>3</td><td><input id="check-1-2-0" type="checkbox" checked="checked"></td><td><input id="check-1-2-1" type="checkbox"></td><td></td><td></td><td></td></tr><tr><td class="C">shall be treated as a bank holding company</td><td>4</td><td><input id="check-1-3-0" type="checkbox" checked="checked"></td><td><input id="check-1-3-1" type="checkbox"></td><td><input id="check-1-3-2" type="checkbox"></td><td></td><td></td></tr><tr><td class="A1">for purposes of this title.</td><td>5</td><td><input id="check-1-4-0" type="checkbox"></td><td><input id="check-1-4-1" type="checkbox"></td><td><input id="check-1-4-2" type="checkbox"></td><td><input id="check-1-4-3" type="checkbox" checked="checked"></td><td></td></tr></tbody></table></div></div>
+                        </div>
+                        <div class = "col-xs-11"><h3> Example 3 </h3></div>
+                        <div class = "col-xs-5">
+                            <p>
+                                <span class=EL>The term ``foreign nonbank financial company''</span> <span class=ER>means a company</span> <span class=A1>(other than a company that is, <span class=A2>or is treated in the United States as,</span> a bank holding company)</span> <span class=A1>that is (i) incorporated or organized in a country other than the United States;</span> <span class=A1> and (ii) predominantly engaged in, <span class=A2>including through a branch in the United States,</span> financial activities,</span> <span class=A1>as defined in paragraph (6).</span>
+                            </p>
+                        </div>
+                        <div class = "col-xs-6">
+                            <div class="table" id="1"><div id="myDynamicTable1"><table border="1"><thead><tr><td>Part</td><td>ID</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr></thead><tbody><tr><td class="EL">The term ``foreign nonbank financial company''</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="ER">means a company</td><td>2</td><td><input id="check-1-1-0" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">(other than a company that is, or is treated in the United States as, a bank holding company)</td><td>3</td><td><input id="check-1-2-0" type="checkbox"></td><td><input id="check-1-2-1" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A2">or is treated in the United States as,</td><td>4</td><td><input id="check-1-3-0" type="checkbox"></td><td><input id="check-1-3-1" type="checkbox"></td><td><input id="check-1-3-2" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">that is (i) incorporated or organized in a country other than the United States;</td><td>5</td><td><input id="check-1-4-0" type="checkbox"></td><td><input id="check-1-4-1" type="checkbox" checked="checked"></td><td><input id="check-1-4-2" type="checkbox"></td><td><input id="check-1-4-3" type="checkbox"></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">and (ii) predominantly engaged in, including through a branch in the United States, financial activities,</td><td>6</td><td><input id="check-1-5-0" type="checkbox"></td><td><input id="check-1-5-1" type="checkbox" checked="checked"></td><td><input id="check-1-5-2" type="checkbox"></td><td><input id="check-1-5-3" type="checkbox"></td><td><input id="check-1-5-4" type="checkbox"></td><td></td><td></td><td></td></tr><tr><td class="A2">including through a branch in the United States,</td><td>7</td><td><input id="check-1-6-0" type="checkbox"></td><td><input id="check-1-6-1" type="checkbox"></td><td><input id="check-1-6-2" type="checkbox"></td><td><input id="check-1-6-3" type="checkbox"></td><td><input id="check-1-6-4" type="checkbox"></td><td><input id="check-1-6-5" type="checkbox" checked="checked"></td><td></td><td></td></tr><tr><td class="A1">as defined in paragraph (6). </td><td>8</td><td><input id="check-1-7-0" type="checkbox"></td><td><input id="check-1-7-1" type="checkbox"></td><td><input id="check-1-7-2" type="checkbox"></td><td><input id="check-1-7-3" type="checkbox"></td><td><input id="check-1-7-4" type="checkbox"></td><td><input id="check-1-7-5" type="checkbox" checked="checked"></td><td><input id="check-1-7-6" type="checkbox"></td><td></td></tr></tbody></table></div></div>
+                        </div>
 
-<h1>How it works</h1>
-<h3> Classification:</h3>
-<ul>
-<li>Select a part of a sentence.</li>
-<li>Click on the appropriate classification on the right-hand side.</li>
-<li>The part is colored accordingly.</li>
-</ul>
-<h3> Layers:</h3>
-<ul>
-<li>Always first classify the first layer before classifying the second layer.</li>
-<li>Highlight the part of L1 that is to be classified as L2.</li>
-<li>Click on the appropriate classification on the right-hand side.</li>
-</ul>
-<h3> Corrections:</h3>
-<ul>
-<li>To delete the classification, right-click on the corresponding part of the sentene in the text.</li>
-<li>Now, you may classify it again.</li>
-<li><b>Attention!</b> When deleting a layered part, right-click on the L2 part.</li>
-</ul>
-<h3> Save:</h3>
-<ul>
-<li>Click on the <span style="background-color: #ff0000">SAVE !</span> button on the bottom right.</li>
-<li><b>Careful!</b> Once you have saved your results, you cannot make corrections anymore.</li>
-<li> You have to manually save your results before switching titles or logging out. Otherwise your classifications will be deleted. Recommended is saving after a sentence has been classified successfully.</li>
-</ul>
-<h3> Further instructions:</h3>
-<ul>
-<li>Always include parenthesis into the part of sentence.</li>
-<li>Always include the punctuation characters at the end of a part of sentence.</li>
-<li>Always leave a whitespace between parts of sentence.</li>
-</ul>
+                        <div class = "col-xs-11"><h3> Example 4 </h3></div>
+                        <div class = "col-xs-5">
+                            <p>
+                                <span class="T2">The Commission</span> <span class="C">may require</span> <span class="T3">any investment adviser</span> <span class="A1">registered under this title</span> <span class="C">``(A) to maintain</span> <span class="A1">such records of,</span> <span class="C">and file with the Commission</span> <span class="A1">such reports regarding,</span> <span class="T1">private funds</span> <span class="A1">advised by the investment adviser,</span> <span class="A1">as necessary and appropriate in the public interest and for the protection of investors,</span> <span class="A1">or for the assessment of systemic risk by the <span class="T1">Financial Stability Oversight Council</span> <span class="A2">(in this subsection referred to as the `Council')</span>; </span><span class="C">and ``(B) to provide or make available to the Council</span> <span class="A1">those reports or records or the information contained therein. </span>
+                            </p>
+                        </div>
+                        <div class = "col-xs-6">
+                            <div class="table" id="5"><div id="myDynamicTable5"><table border="1"><thead><tr><td>Part</td><td>ID</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr></thead><tbody><tr><td class="T2">The Commission</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="C">may require</td><td>2</td><td><input id="check-5-1-0" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="T3">any investment adviser</td><td>3</td><td><input id="check-5-2-0" type="checkbox" checked="checked"></td><td><input id="check-5-2-1" type="checkbox"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">registered under this title</td><td>4</td><td><input id="check-5-3-0" type="checkbox"></td><td><input id="check-5-3-1" type="checkbox"></td><td><input id="check-5-3-2" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="C">``(A) to maintain</td><td>5</td><td><input id="check-5-4-0" type="checkbox"></td><td><input id="check-5-4-1" type="checkbox"></td><td><input id="check-5-4-2" type="checkbox" checked="checked"></td><td><input id="check-5-4-3" type="checkbox"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">such records of,</td><td>6</td><td><input id="check-5-5-0" type="checkbox"></td><td><input id="check-5-5-1" type="checkbox"></td><td><input id="check-5-5-2" type="checkbox"></td><td><input id="check-5-5-3" type="checkbox"></td><td><input id="check-5-5-4" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="C">and file with the Commission</td><td>7</td><td><input id="check-5-6-0" type="checkbox"></td><td><input id="check-5-6-1" type="checkbox"></td><td><input id="check-5-6-2" type="checkbox" checked="checked"></td><td><input id="check-5-6-3" type="checkbox"></td><td><input id="check-5-6-4" type="checkbox"></td><td><input id="check-5-6-5" type="checkbox"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">such reports regarding,</td><td>8</td><td><input id="check-5-7-0" type="checkbox"></td><td><input id="check-5-7-1" type="checkbox"></td><td><input id="check-5-7-2" type="checkbox"></td><td><input id="check-5-7-3" type="checkbox"></td><td><input id="check-5-7-4" type="checkbox"></td><td><input id="check-5-7-5" type="checkbox"></td><td><input id="check-5-7-6" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="T1">private funds</td><td>9</td><td><input id="check-5-8-0" type="checkbox"></td><td><input id="check-5-8-1" type="checkbox"></td><td><input id="check-5-8-2" type="checkbox"></td><td><input id="check-5-8-3" type="checkbox"></td><td><input id="check-5-8-4" type="checkbox"></td><td><input id="check-5-8-5" type="checkbox" checked="checked"></td><td><input id="check-5-8-6" type="checkbox"></td><td><input id="check-5-8-7" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">advised by the investment adviser,</td><td>10</td><td><input id="check-5-9-0" type="checkbox"></td><td><input id="check-5-9-1" type="checkbox"></td><td><input id="check-5-9-2" type="checkbox"></td><td><input id="check-5-9-3" type="checkbox"></td><td><input id="check-5-9-4" type="checkbox"></td><td><input id="check-5-9-5" type="checkbox"></td><td><input id="check-5-9-6" type="checkbox"></td><td><input id="check-5-9-7" type="checkbox"></td><td><input id="check-5-9-8" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">as necessary and appropriate in the public interest and for the protection of investors,</td><td>11</td><td><input id="check-5-10-0" type="checkbox"></td><td><input id="check-5-10-1" type="checkbox"></td><td><input id="check-5-10-2" type="checkbox"></td><td><input id="check-5-10-3" type="checkbox"></td><td><input id="check-5-10-4" type="checkbox"></td><td><input id="check-5-10-5" type="checkbox" checked="checked"></td><td><input id="check-5-10-6" type="checkbox"></td><td><input id="check-5-10-7" type="checkbox" checked="checked"></td><td><input id="check-5-10-8" type="checkbox"></td><td><input id="check-5-10-9" type="checkbox"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="A1">or for the assessment of systemic risk by the Financial Stability Oversight Council (in this subsection referred to as the `Council'); </td><td>12</td><td><input id="check-5-11-0" type="checkbox"></td><td><input id="check-5-11-1" type="checkbox"></td><td><input id="check-5-11-2" type="checkbox"></td><td><input id="check-5-11-3" type="checkbox"></td><td><input id="check-5-11-4" type="checkbox"></td><td><input id="check-5-11-5" type="checkbox" checked="checked"></td><td><input id="check-5-11-6" type="checkbox"></td><td><input id="check-5-11-7" type="checkbox" checked="checked"></td><td><input id="check-5-11-8" type="checkbox"></td><td><input id="check-5-11-9" type="checkbox"></td><td><input id="check-5-11-10" type="checkbox"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="T1">Financial Stability Oversight Council</td><td>13</td><td><input id="check-5-12-0" type="checkbox"></td><td><input id="check-5-12-1" type="checkbox"></td><td><input id="check-5-12-2" type="checkbox"></td><td><input id="check-5-12-3" type="checkbox"></td><td><input id="check-5-12-4" type="checkbox"></td><td><input id="check-5-12-5" type="checkbox"></td><td><input id="check-5-12-6" type="checkbox"></td><td><input id="check-5-12-7" type="checkbox"></td><td><input id="check-5-12-8" type="checkbox"></td><td><input id="check-5-12-9" type="checkbox"></td><td><input id="check-5-12-10" type="checkbox"></td><td><input id="check-5-12-11" type="checkbox" checked="checked"></td><td></td><td></td><td></td><td></td></tr><tr><td class="A2">(in this subsection referred to as the `Council')</td><td>14</td><td><input id="check-5-13-0" type="checkbox"></td><td><input id="check-5-13-1" type="checkbox"></td><td><input id="check-5-13-2" type="checkbox"></td><td><input id="check-5-13-3" type="checkbox"></td><td><input id="check-5-13-4" type="checkbox"></td><td><input id="check-5-13-5" type="checkbox"></td><td><input id="check-5-13-6" type="checkbox"></td><td><input id="check-5-13-7" type="checkbox"></td><td><input id="check-5-13-8" type="checkbox"></td><td><input id="check-5-13-9" type="checkbox"></td><td><input id="check-5-13-10" type="checkbox"></td><td><input id="check-5-13-11" type="checkbox"></td><td><input id="check-5-13-12" type="checkbox" checked="checked"></td><td></td><td></td><td></td></tr><tr><td class="C">and ``(B) to provide or make available to the Council</td><td>15</td><td><input id="check-5-14-0" type="checkbox"></td><td><input id="check-5-14-1" type="checkbox"></td><td><input id="check-5-14-2" type="checkbox" checked="checked"></td><td><input id="check-5-14-3" type="checkbox"></td><td><input id="check-5-14-4" type="checkbox"></td><td><input id="check-5-14-5" type="checkbox"></td><td><input id="check-5-14-6" type="checkbox"></td><td><input id="check-5-14-7" type="checkbox"></td><td><input id="check-5-14-8" type="checkbox"></td><td><input id="check-5-14-9" type="checkbox"></td><td><input id="check-5-14-10" type="checkbox"></td><td><input id="check-5-14-11" type="checkbox"></td><td><input id="check-5-14-12" type="checkbox"></td><td><input id="check-5-14-13" type="checkbox"></td><td></td><td></td></tr><tr><td class="A1">those reports or records or the information contained therein. </td><td>16</td><td><input id="check-5-15-0" type="checkbox"></td><td><input id="check-5-15-1" type="checkbox"></td><td><input id="check-5-15-2" type="checkbox"></td><td><input id="check-5-15-3" type="checkbox"></td><td><input id="check-5-15-4" type="checkbox"></td><td><input id="check-5-15-5" type="checkbox"></td><td><input id="check-5-15-6" type="checkbox"></td><td><input id="check-5-15-7" type="checkbox"></td><td><input id="check-5-15-8" type="checkbox" checked="checked"></td><td><input id="check-5-15-9" type="checkbox"></td><td><input id="check-5-15-10" type="checkbox" checked="checked"></td><td><input id="check-5-15-11" type="checkbox" checked="checked"></td><td><input id="check-5-15-12" type="checkbox"></td><td><input id="check-5-15-13" type="checkbox"></td><td><input id="check-5-15-14" type="checkbox" checked="checked"></td><td></td></tr></tbody></table></div></div>
+                        </div>
+                        <div class = "col-xs-11">
+                            <h1>How it works</h1>
+                            <h3> Classification:</h3>
+                            <ul>
+                                <li>Select a part of a sentence.</li>
+                                <li>Click on the appropriate classification on the right-hand side.</li>
+                                <li>The part is colored accordingly.</li>
+                            </ul>
+                            <h3> Layers:</h3>
+                            <ul>
+                                <li>Always first classify the first layer before classifying the second layer.</li>
+                                <li>Highlight the part of L1 that is to be classified as L2.</li>
+                                <li>Click on the appropriate classification on the right-hand side.</li>
+                            </ul>
+                            <h3> Corrections:</h3>
+                            <ul>
+                                <li>To delete the classification before you saved, right-click on the corresponding part of the sentene in the text.</li>
+                                <li>To delete the classification after saving, highlight the section and click on "Remove" on the bottom-right.</li>
+                                <li>Now, you may classify it again.</li>
+                            </ul>
+                            <h3> Save:</h3>
+                            <ul>
+                                <li>Click on the <span style="background-color: #ff0000">SAVE !</span> button on the bottom right.</li>
+                                <li><b>Attention!</b>You have to manually save your results before switching titles or logging out. Otherwise your classifications will be deleted. Recommended is saving after a sentence has been classified successfully.</li>
+                            </ul>
+                            <h3> Further instructions:</h3>
+                            <ul>
+                                <li>Always include parenthesis into the part of sentence.</li>
+                                <li>Always include the punctuation characters at the end of a part of sentence.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-    </div>
-</div>
 
+            <div class = "col-xs-1">
+
+                <!-- Right hand menu -->
+                <!-- Instructions and Logout -->
+                <div class="nav-tabs">
+                    <ul>
+                        <form  action="index">
+                            <input type=text  style="display: none;">
+                            <button>Back to classifying</button>
+                        </form>
+
+                        <form  action="logout" >
+                            <input type=text style="display: none;">
+                            <button>Log out</button>
+                        </form>
+                    </ul>
+                </div>
+
+            </div>
         </div>
-
-        <div class = "col-xs-2">
-
- <!-- Right hand menu -->
- <!-- Instructions and Logout -->
-<div class="nav-tabs">
-<ul>
-    <form  action="index">
-       <input type=text  style="display: none;">
-        <button>Back to classifying</button>
-    </form>
-
-    <form  action="logout" >
-       <input type=text style="display: none;">
-        <button>Log out</button>
-    </form>
-</ul>
-</div>
-
-        </div>
     </div>
-</div>
 
-<!-- BOOTSTRAP JAVASCRIPT FILES -->
-<!-- =========================================================================================== -->
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="static/js/bootstrap.min.js"></script>
+    <!-- BOOTSTRAP JAVASCRIPT FILES -->
+    <!-- =========================================================================================== -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="static/js/bootstrap.min.js"></script>
 
 </body>
 </html>

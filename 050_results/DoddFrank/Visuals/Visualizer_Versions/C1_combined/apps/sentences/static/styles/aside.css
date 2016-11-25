@@ -67,6 +67,12 @@ body {
     padding-left:0;
 }
 
+.nav-tabs ul form {
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
 .nav-tabs ul form button {
           font-family: "Roboto", sans-serif;
           text-transform: uppercase;

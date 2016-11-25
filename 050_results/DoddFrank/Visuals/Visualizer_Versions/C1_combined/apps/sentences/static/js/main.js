@@ -64,9 +64,11 @@ function surroundSelection(type) {
         this.parentNode.insertBefore(document.createTextNode(this.innerText), this);
         this.parentNode.removeChild(this);
         graphs();
+        loadCheckbox();
     }
     selection.insertNode(span);
     graphs();
+    loadCheckbox();
 
 }
 
@@ -77,6 +79,7 @@ function removeHighlight() {
     selection.insertNode(selectedText);
     graphs();
     saveCheckbox();
+    loadCheckbox();
 }
 
 /* Function to create the graphs (tables)*/
@@ -106,6 +109,8 @@ function graphs(){
     for(var i = 0; i < paragraphs.length; i++) {
         // extract HTML
         var parHtml = paragraphs[i].innerHTML
+        var el = document.createElement('html');
+        el.innerHTML = parHtml
         // extract spans
         var regex = /<sp.*?<\/span>/g
         if (regex.test(parHtml) == true){
@@ -117,14 +122,12 @@ function graphs(){
             var tableBody = document.createElement('TBODY');
             table.appendChild(tableBody);
             // find all spans
-            var allSpans = parHtml.match(regex)
+            var allSpans = el.getElementsByTagName('span');
             // find all clean spans
             spans = []
             for(var j = 0; j < allSpans.length; j++) {
-                var classReg = /"(.+?)"/g
-                var spanClass = classReg.exec(allSpans[j])[1]
-                var textReg = />(.*?)</g
-                var spanText = textReg.exec(allSpans[j])[1]
+                var spanClass = allSpans[j].className
+                var spanText = allSpans[j].innerText
                 // no headlines an no empty spans allowed
                 if (spanClass != 'H' && spanText != ""){
                     spans.push(allSpans[j])
@@ -134,10 +137,8 @@ function graphs(){
             var a = 0;
             // loop over all spans to build table
             for(var j = 0; j < spans.length; j++) {
-                var classReg = /"(.+?)"/g
-                var spanClass = classReg.exec(spans[j])[1]
-                var textReg = />(.*?)</g
-                var spanText = textReg.exec(spans[j])[1]
+                var spanClass = spans[j].className
+                var spanText = spans[j].innerText
                 // build table
                 var tr = document.createElement('TR');
                 tableBody.appendChild(tr);

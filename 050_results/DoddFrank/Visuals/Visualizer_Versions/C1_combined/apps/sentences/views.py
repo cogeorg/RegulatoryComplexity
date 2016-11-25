@@ -29,10 +29,10 @@ app.config['MAIL_USE_SSL'] = True
 
 # Create the engine to use users.db
 # Local:
-engine = create_engine('sqlite:///apps/sentences/static/users/users.db', echo=True)
+#engine = create_engine('sqlite:///apps/sentences/static/users/users.db', echo=True)
 
 # Pythonanywhere
-#engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/static/users/users.db', echo=True)
+engine = create_engine('sqlite:////home/RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/static/users/users.db', echo=True)
 
 # Initialize the Mail object with the app
 mail=Mail(app)
@@ -100,12 +100,12 @@ def do_admin_signin():
 
         # create folder with own html files
         #Local:
-        os.makedirs("apps/sentences/templates/output/" + USERNAME.strip())
-        copytree('apps/sentences/templates/Original', "apps/sentences/templates/output/" + USERNAME.strip())
+        #os.makedirs("apps/sentences/templates/output/" + USERNAME.strip())
+        #copytree('apps/sentences/templates/Original', "apps/sentences/templates/output/" + USERNAME.strip())
 
         # Pythonanywhere:
-        #os.makedirs("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
-        #copytree('RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/Original', "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
+        os.makedirs("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
+        copytree('RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/Original', "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + USERNAME.strip())
 
     return render_template("login.html", error = error)
 
@@ -159,7 +159,6 @@ def html2python():
     user_name = request.json['user_name']                     #Get user_name from parameters
     htmlString = request.json['file']
     titleName = request.json['title']
-    print titleName
 
     head= """<!DOCTYPE html> <html>
         <head>
@@ -172,10 +171,10 @@ def html2python():
     data = head + htmlString + tail
     username = user_name.strip()
     # Local: apps/sentences/templates/output/
-    f = open("apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
+    #f = open("apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
 
     # Pythonanywhere:
-    #f = open("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
+    f = open("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
     f.write(data)
     f.close()
     return render_template('index.html', username = user_name )
@@ -191,26 +190,27 @@ def array2python():
     checks = request.json['checks']
 
     # Local:
-    path = "apps/sentences/output/" + userName.strip()  + ".txt"
+    #path = "apps/sentences/output/" + userName.strip()  + ".txt"
     # Pythonanywhere:
-    #path = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + userName.strip()  + ".txt"
+    path = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + userName.strip()  + ".txt"
     file = path  #File of the user
     if len(checks) > 0:
         oldFile = []
         newFile = []
         with open(file, "r") as f:
-            # if file is empty save all new checkboxes
-            if os.stat(path).st_size == 0:
-                for inputId in inputIds:
-                    newLine = titleName + ',' + inputId + ',' + str(checks[inputIds.index(inputId)]) + '\n'
-            # if file is not empty, first save all old settings
-            else:
+            # if file is not empty, save all old settings
+            if os.stat(path).st_size != 0:
                 for line in f:
-                    oldFile.append(line.split(','))
-                    print line.split(',')
+                    split = line.split(',')
+                    if len(split) < 2:
+                        continue
+                    else:
+                        for s in range(len(split)):
+                            split[s] = split[s].strip()
+                        oldFile.append(split)
 
         for item in oldFile:
-            # if old setting dont concern current title, keep them
+            # if old settings dont concern current title, keep them
             if item[0] != titleName:
                 newFile.append(item)
             # if they concern current title, overwrite them with new settings
@@ -239,9 +239,9 @@ def array2javascript():
     userName = request.json['userName']
     titleName = request.json['titleName']
     # Local:
-    path = "apps/sentences/output/" + userName.strip()  + ".txt"
+    #path = "apps/sentences/output/" + userName.strip()  + ".txt"
     # Pythonanywhere:
-    #path = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + userName.strip()  + ".txt"
+    path = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + userName.strip()  + ".txt"
     file = path  #File of the user
     inputJson = []
     checksJson = []

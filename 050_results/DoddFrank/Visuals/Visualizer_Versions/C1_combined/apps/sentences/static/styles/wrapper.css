@@ -62,18 +62,14 @@
     overflow-y: scroll;
 }
 
+
 .content-wrapper-instr {
-   margin-top: 0px;
-    margin-right: 200px;
-    margin-left: 20px;
-   padding: 0 30px;
-   overflow-y: scroll;
-   position: fixed;
-   left: 0;
-    top:0 ;
-  height:100vh;
-  background-color:#ffffff;
+    width: 100%;
+    background-color: #fff;
+    overflow-y: scroll;
+    height:100vh;
 }
+
 
 #result{
     font-size: 14px;
