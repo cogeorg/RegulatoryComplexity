@@ -78,9 +78,10 @@ def do_admin_signin():
     our_user = s.query(User).filter_by(username=USERNAME).first()    #Get the user with the email
 
     # txt file for graph tables
-    file = "apps/sentences/output/" + USERNAME.strip() + ".txt" #Name of the file to be created
+    # Local:
+    #file = "apps/sentences/output/" + USERNAME.strip() + ".txt" #Name of the file to be created
     # Pythonanywhere:
-    #file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + USERNAME.strip() + ".txt"
+    file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/" + USERNAME.strip() + ".txt"
 
     if our_user:                                #if our_user different than null
         error = "Username already exists"       #Username already exists
