@@ -1,8 +1,10 @@
 users.db
 *.pyc
-050_results/DoddFrank/Visuals/VIsualizer_Versions/V8_visualizer/app/static/users/users.db
-050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/*
+050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/*
 050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/*
+050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/*
+
+# Ubuntu generated files
 *~
 
 # OS generated files #

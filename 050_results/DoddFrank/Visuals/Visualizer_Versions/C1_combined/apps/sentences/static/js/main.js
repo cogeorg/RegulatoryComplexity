@@ -77,17 +77,19 @@ function removeHighlight() {
     var selectedText = document.createTextNode( selection.toString() );
     selection.deleteContents();
     selection.insertNode(selectedText);
-    graphs();
-    saveCheckbox();
-    loadCheckbox();
+    graphs( function(){
+        loadCheckbox(function(){
+            saveCheckbox();
+        });
+    });
 }
 
 /* Function to create the graphs (tables)*/
 /* ******************************************* */
-function graphs(){
+function graphs(callback){
     var html = document.getElementById('result').innerHTML
     // extract title name
-    var title = /(TITLE\s.*?)<div/g.exec(html)[1]
+    var title = /(TITLE\s.*?\.)/g.exec(html)[1]
     $("#graph").html('<div class = "ex1">' + title + '</div>')
     // extract sections and corresponding paragraphs
     var pattern = /(SEC\.\s[0-9].+?\.\s[A-Z].*?\.) | (class="ex5")/g
@@ -192,6 +194,10 @@ function graphs(){
             this.removeAttribute("checked");
         }
     });
+
+    if (callback) {
+        callback();
+    }
 }
 
 /* Save checkboxes */
@@ -234,7 +240,7 @@ function saveCheckbox () {
 
 /* Load checkboxes */
 /* ******************************************* */
-function loadCheckbox (){
+function loadCheckbox (callback){
     var userName = $( "p:first" ).text();
     var titleName = $("#mySidenav a.selected").attr("id");
     var paramData = {userName:  userName, titleName: titleName}
@@ -249,8 +255,13 @@ function loadCheckbox (){
             for (var i=0; i < inputIds.length; i++) {
                 if (checks[i] == 1){
                     var checkbox = document.getElementById(inputIds[i])
-                    checkbox.setAttribute("checked", "checked")
+                    try {
+                        checkbox.setAttribute("checked", "checked");
+                    } catch (e) {};
                 }
+            }
+            if (callback) {
+                callback();
             }
         }
     });

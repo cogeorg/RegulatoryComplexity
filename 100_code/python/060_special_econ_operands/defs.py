@@ -36,7 +36,3 @@ with open("EconomicOperands_special.txt", 'w') as f:
 	for item in cleanDefs:
 		f.write(item)
 		f.write("\n")
-		f.write("`" + item)
-		f.write("\n")
-		f.write("``" + item)
-		f.write("\n")

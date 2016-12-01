@@ -100,7 +100,7 @@ def do_admin_signin():
             pass
 
         # create folder with own html files
-        #Local:
+        # Local:
         #os.makedirs("apps/sentences/templates/output/" + USERNAME.strip())
         #copytree('apps/sentences/templates/Original', "apps/sentences/templates/output/" + USERNAME.strip())
 
@@ -163,9 +163,11 @@ def html2python():
 
     head= """<!DOCTYPE html> <html>
         <head>
-        </head>"""
+        </head>
+        <body>"""
 
     tail= """
+        </body>
         </html>
         """
 
@@ -176,7 +178,7 @@ def html2python():
 
     # Pythonanywhere:
     f = open("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
-    f.write(data)
+    f.write(data.encode('utf-8'))
     f.close()
     return render_template('index.html', username = user_name )
 

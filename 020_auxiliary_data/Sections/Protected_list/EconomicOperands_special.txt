@@ -1,1098 +1,366 @@
 Bankruptcy Code
-`Bankruptcy Code
-``Bankruptcy Code
 Board
-`Board
-``Board
 Bureau
-`Bureau
-``Bureau
 Bureau investigation
-`Bureau investigation
-``Bureau investigation
 Bureau investigator
-`Bureau investigator
-``Bureau investigator
 Chairperson
-`Chairperson
-``Chairperson
 Commission
-`Commission
-``Commission
 Comptroller
-`Comptroller
-``Comptroller
 Council
-`Council
-``Council
 Data Center
-`Data Center
-``Data Center
 Director
-`Director
-``Director
 District of Columbia savings and loan association
-`District of Columbia savings and loan association
-``District of Columbia savings and loan association
 Federal Employee Retirement Program
-`Federal Employee Retirement Program
-``Federal Employee Retirement Program
 Federal Reserve System Retirement Plan
-`Federal Reserve System Retirement Plan
-``Federal Reserve System Retirement Plan
 Federal Reserve System Thrift Plan
-`Federal Reserve System Thrift Plan
-``Federal Reserve System Thrift Plan
 Federal Reserve System transferred employee
-`Federal Reserve System transferred employee
-``Federal Reserve System transferred employee
 Federal agency
-`Federal agency
-``Federal agency
 Federal assistance
-`Federal assistance
-``Federal assistance
 Federal banking agencies
-`Federal banking agencies
-``Federal banking agencies
 Federal banking agency
-`Federal banking agency
-``Federal banking agency
 Federal consumer financial law
-`Federal consumer financial law
-``Federal consumer financial law
 Federal credit union
-`Federal credit union
-``Federal credit union
 Federal financial regulatory agency
-`Federal financial regulatory agency
-``Federal financial regulatory agency
 Federal regulatory agency
-`Federal regulatory agency
-``Federal regulatory agency
 Federal supervisory agency
-`Federal supervisory agency
-``Federal supervisory agency
 Fund
-`Fund
-``Fund
 HUD- approved counseling agency
-`HUD- approved counseling agency
-``HUD- approved counseling agency
 NAIC
-`NAIC
-``NAIC
 NASAA
-`NASAA
-``NASAA
 Nationwide Mortgage Licensing System and Registry
-`Nationwide Mortgage Licensing System and Registry
-``Nationwide Mortgage Licensing System and Registry
 Non- Admitted Insurance Model Act
-`Non- Admitted Insurance Model Act
-``Non- Admitted Insurance Model Act
 Office
-`Office
-``Office
 Office of Financial Research
-`Office of Financial Research
-``Office of Financial Research
 Research and Analysis Center
-`Research and Analysis Center
-``Research and Analysis Center
 SIPC
-`SIPC
-``SIPC
 Secretary
-`Secretary
-``Secretary
 Securities Act of 1933
-`Securities Act of 1933
-``Securities Act of 1933
 Securities Exchange Act of 1934
-`Securities Exchange Act of 1934
-``Securities Exchange Act of 1934
 State
-`State
-``State
 State consumer financial law
-`State consumer financial law
-``State consumer financial law
 State housing finance agency
-`State housing finance agency
-``State housing finance agency
 State insurance measure
-`State insurance measure
-``State insurance measure
 State insurance regulator
-`State insurance regulator
-``State insurance regulator
 State of domicile
-`State of domicile
-``State of domicile
 State securities or law enforcement authority
-`State securities or law enforcement authority
-``State securities or law enforcement authority
 Supervisory Agency
-`Supervisory Agency
-``Supervisory Agency
 U.S. nonbank financial company
-`U.S. nonbank financial company
-``U.S. nonbank financial company
 United States insurer
-`United States insurer
-``United States insurer
 account
-`account
-``account
 accredited investor
-`accredited investor
-``accredited investor
 actual direct compensatory damages
-`actual direct compensatory damages
-``actual direct compensatory damages
 adjoining country
-`adjoining country
-``adjoining country
 administrative expenses of the receiver
-`administrative expenses of the receiver
-``administrative expenses of the receiver
 admitted insurer
-`admitted insurer
-``admitted insurer
 affected employee
-`affected employee
-``affected employee
 affiliate
-`affiliate
-``affiliate
 affiliated group
-`affiliated group
-``affiliated group
 agency
-`agency
-``agency
 agency administrator
-`agency administrator
-``agency administrator
 anti-deficiency law
-`anti-deficiency law
-``anti-deficiency law
 applicable individual
-`applicable individual
-``applicable individual
 appraisal management company
-`appraisal management company
-``appraisal management company
 appropriate Federal banking agency
-`appropriate Federal banking agency
-``appropriate Federal banking agency
 appropriate Federal regulator
-`appropriate Federal regulator
-``appropriate Federal regulator
 appropriate congressional committees
-`appropriate congressional committees
-``appropriate congressional committees
 appropriate financial regulator
-`appropriate financial regulator
-``appropriate financial regulator
 armed group
-`armed group
-``armed group
 assessment base
-`assessment base
-``assessment base
 asset-backed security
-`asset-backed security
-``asset-backed security
 associated person of a securities holding company
-`associated person of a securities holding company
-``associated person of a securities holding company
 associated person of a security-based swap dealer or major security-based swap participant
-`associated person of a security-based swap dealer or major security-based swap participant
-``associated person of a security-based swap dealer or major security-based swap participant
 associated person of a swap dealer or major swap participant
-`associated person of a swap dealer or major swap participant
-``associated person of a swap dealer or major swap participant
 audit
-`audit
-``audit
 audit report
-`audit report
-``audit report
 automated valuation model
-`automated valuation model
-``automated valuation model
 bank
-`bank
-``bank
 bank holding company
-`bank holding company
-``bank holding company
 bona fide discount points
-`bona fide discount points
-``bona fide discount points
 bridge financial company
-`bridge financial company
-``bridge financial company
 broker
-`broker
-``broker
 broker price opinion
-`broker price opinion
-``broker price opinion
 business day
-`business day
-``business day
 business of insurance
-`business of insurance
-``business of insurance
 case-by-case basis
-`case-by-case basis
-``case-by-case basis
 ceding insurer
-`ceding insurer
-``ceding insurer
 certified or licensed appraiser
-`certified or licensed appraiser
-``certified or licensed appraiser
 claim
-`claim
-``claim
 cleared swap
-`cleared swap
-``cleared swap
 clearing organization
-`clearing organization
-``clearing organization
 client
-`client
-``client
 coal or other mine
-`coal or other mine
-``coal or other mine
 commercial risk
-`commercial risk
-``commercial risk
 commodity broker
-`commodity broker
-``commodity broker
 commodity contract
-`commodity contract
-``commodity contract
 commodity pool
-`commodity pool
-``commodity pool
 commodity pool operator
-`commodity pool operator
-``commodity pool operator
 commodity trading advisor
-`commodity trading advisor
-``commodity trading advisor
 community development financial institution
-`community development financial institution
-``community development financial institution
 company
-`company
-``company
 compensation
-`compensation
-``compensation
 conflict mineral
-`conflict mineral
-``conflict mineral
 consumer
-`consumer
-``consumer
 consumer financial product or service
-`consumer financial product or service
-``consumer financial product or service
 consumer financial protection functions
-`consumer financial protection functions
-``consumer financial protection functions
 consumer protection regulation
-`consumer protection regulation
-``consumer protection regulation
 control
-`control
-``control
 controlled company
-`controlled company
-``controlled company
 covered agreement
-`covered agreement
-``covered agreement
 covered assistance
-`covered assistance
-``covered assistance
 covered broker or dealer
-`covered broker or dealer
-``covered broker or dealer
 covered employee
-`covered employee
-``covered employee
 covered entity
-`covered entity
-``covered entity
 covered financial company
-`covered financial company
-``covered financial company
 covered financial institution
-`covered financial institution
-``covered financial institution
 covered judicial or administrative action
-`covered judicial or administrative action
-``covered judicial or administrative action
 covered person
-`covered person
-``covered person
 covered subsidiary
-`covered subsidiary
-``covered subsidiary
 covered transaction
-`covered transaction
-``covered transaction
 credit
-`credit
-``credit
 credit card bank
-`credit card bank
-``credit card bank
 credit exposure
-`credit exposure
-``credit exposure
 credit facility
-`credit facility
-``credit facility
 custodian
-`custodian
-``custodian
 customer
-`customer
-``customer
 customer name securities
-`customer name securities
-``customer name securities
 customer name security
-`customer name security
-``customer name security
 customer property
-`customer property
-``customer property
 customer property and member property
-`customer property and member property
-``customer property and member property
 debit card
-`debit card
-``debit card
 default
-`default
-``default
 deposit-taking activity
-`deposit-taking activity
-``deposit-taking activity
 depository institution
-`depository institution
-``depository institution
 depository institution holding company
-`depository institution holding company
-``depository institution holding company
 derivative transaction
-`derivative transaction
-``derivative transaction
 designated activity
-`designated activity
-``designated activity
 designated automated teller machine network
-`designated automated teller machine network
-``designated automated teller machine network
 designated clearing entity
-`designated clearing entity
-``designated clearing entity
 designated financial market utility
-`designated financial market utility
-``designated financial market utility
 designated recipient
-`designated recipient
-``designated recipient
 designated transfer date
-`designated transfer date
-``designated transfer date
 discount
-`discount
-``discount
 documentary material
-`documentary material
-``documentary material
 domiciliary State
-`domiciliary State
-``domiciliary State
 electronic conduit services
-`electronic conduit services
-``electronic conduit services
 electronic debit transaction
-`electronic debit transaction
-``electronic debit transaction
 eligible contract participant
-`eligible contract participant
-``eligible contract participant
 eligible entity
-`eligible entity
-``eligible entity
 eligible financial company
-`eligible financial company
-``eligible financial company
 emergency
-`emergency
-``emergency
 enumerated consumer laws
-`enumerated consumer laws
-``enumerated consumer laws
 exchange facilitator
-`exchange facilitator
-``exchange facilitator
 exempt commercial purchaser
-`exempt commercial purchaser
-``exempt commercial purchaser
 existing retirement plan
-`existing retirement plan
-``existing retirement plan
 fair lending
-`fair lending
-``fair lending
 family office
-`family office
-``family office
 federally insured depository institution
-`federally insured depository institution
-``federally insured depository institution
 fee appraiser
-`fee appraiser
-``fee appraiser
 filing date
-`filing date
-``filing date
 financial activities
-`financial activities
-``financial activities
 financial company
-`financial company
-``financial company
 financial contract
-`financial contract
-``financial contract
 financial entity
-`financial entity
-``financial entity
 financial institution
-`financial institution
-``financial institution
 financial instrument
-`financial instrument
-``financial instrument
 financial market utility
-`financial market utility
-``financial market utility
 financial product
-`financial product
-``financial product
 financial transaction
-`financial transaction
-``financial transaction
 financial transaction data
-`financial transaction data
-``financial transaction data
 flood insurance
-`flood insurance
-``flood insurance
 floor broker
-`floor broker
-``floor broker
 floor trader
-`floor trader
-``floor trader
 force-placed insurance
-`force-placed insurance
-``force-placed insurance
 foreign auditor oversight authority
-`foreign auditor oversight authority
-``foreign auditor oversight authority
 foreign bank
-`foreign bank
-``foreign bank
 foreign exchange
-`foreign exchange
-``foreign exchange
 foreign exchange forward
-`foreign exchange forward
-``foreign exchange forward
 foreign exchange swap
-`foreign exchange swap
-``foreign exchange swap
 foreign government
-`foreign government
-``foreign government
 foreign law enforcement authority
-`foreign law enforcement authority
-``foreign law enforcement authority
 foreign nonbank financial company
-`foreign nonbank financial company
-``foreign nonbank financial company
 foreign private adviser
-`foreign private adviser
-``foreign private adviser
 forward contract
-`forward contract
-``forward contract
 functionally regulated subsidiary
-`functionally regulated subsidiary
-``functionally regulated subsidiary
 futures commission merchant
-`futures commission merchant
-``futures commission merchant
 generally applicable leverage capital requirements
-`generally applicable leverage capital requirements
-``generally applicable leverage capital requirements
 generally applicable risk-based capital requirements
-`generally applicable risk-based capital requirements
-``generally applicable risk-based capital requirements
 grandfathered unitary savings and loan holding company
-`grandfathered unitary savings and loan holding company
-``grandfathered unitary savings and loan holding company
 guaranteed investment contract
-`guaranteed investment contract
-``guaranteed investment contract
 hazard insurance
-`hazard insurance
-``hazard insurance
 hedge fund
-`hedge fund
-``hedge fund
 high-cost mortgage
-`high-cost mortgage
-``high-cost mortgage
 higher-risk mortgage
-`higher-risk mortgage
-``higher-risk mortgage
 home State
-`home State
-``home State
 homeownership counseling
-`homeownership counseling
-``homeownership counseling
 hybrid adjustable rate mortgage
-`hybrid adjustable rate mortgage
-``hybrid adjustable rate mortgage
 implementation expenses
-`implementation expenses
-``implementation expenses
 in danger of default
-`in danger of default
-``in danger of default
 includes
-`includes
-``includes
 including
-`including
-``including
 independence
-`independence
-``independence
 independently procured insurance
-`independently procured insurance
-``independently procured insurance
 industrial bank
-`industrial bank
-``industrial bank
 insolvent
-`insolvent
-``insolvent
 institution of higher education
-`institution of higher education
-``institution of higher education
 insufficiency
-`insufficiency
-``insufficiency
 insurance company
-`insurance company
-``insurance company
 insured bank
-`insured bank
-``insured bank
 insured credit union
-`insured credit union
-``insured credit union
 insured depository institution
-`insured depository institution
-``insured depository institution
 insurer
-`insurer
-``insurer
 interactive data format
-`interactive data format
-``interactive data format
 interactive data standard
-`interactive data standard
-``interactive data standard
 interchange transaction fee
-`interchange transaction fee
-``interchange transaction fee
 internal financial activities
-`internal financial activities
-``internal financial activities
 interstate merger transaction
-`interstate merger transaction
-``interstate merger transaction
 introducing broker
-`introducing broker
-``introducing broker
 investment adviser
-`investment adviser
-``investment adviser
 investment strategies
-`investment strategies
-``investment strategies
 issuer
-`issuer
-``issuer
 joint resolution
-`joint resolution
-``joint resolution
 lead insured depository institution
-`lead insured depository institution
-``lead insured depository institution
 liabilities
-`liabilities
-``liabilities
 liquidity event
-`liquidity event
-``liquidity event
 major security-based swap participant
-`major security-based swap participant
-``major security-based swap participant
 major swap participant
-`major swap participant
-``major swap participant
 manufactured home
-`manufactured home
-``manufactured home
 material loss
-`material loss
-``material loss
 member agency
-`member agency
-``member agency
 minority
-`minority
-``minority
 minority-owned business
-`minority-owned business
-``minority-owned business
 misleading designation
-`misleading designation
-``misleading designation
 misleading or fraudulent marketing
-`misleading or fraudulent marketing
-``misleading or fraudulent marketing
 modular home
-`modular home
-``modular home
 monetary sanctions
-`monetary sanctions
-``monetary sanctions
 mortgage originator
-`mortgage originator
-``mortgage originator
 motor vehicle
-`motor vehicle
-``motor vehicle
 motor vehicle dealer
-`motor vehicle dealer
-``motor vehicle dealer
 multifamily properties
-`multifamily properties
-``multifamily properties
 municipal advisor
-`municipal advisor
-``municipal advisor
 municipal entity
-`municipal entity
-``municipal entity
 municipal financial product
-`municipal financial product
-``municipal financial product
 national bank
-`national bank
-``national bank
 net equity
-`net equity
-``net equity
 network fee
-`network fee
-``network fee
 non-United States insurer
-`non-United States insurer
-``non-United States insurer
 nonadmitted insurance
-`nonadmitted insurance
-``nonadmitted insurance
 nonadmitted insurer
-`nonadmitted insurer
-``nonadmitted insurer
 nonbank financial company
-`nonbank financial company
-``nonbank financial company
 nonbank financial company supervised by the Board
-`nonbank financial company supervised by the Board
-``nonbank financial company supervised by the Board
 nonbank financial company supervised by the Board of Governors
-`nonbank financial company supervised by the Board of Governors
-``nonbank financial company supervised by the Board of Governors
 noninterest-bearing transaction account
-`noninterest-bearing transaction account
-``noninterest-bearing transaction account
 nonprofit organization
-`nonprofit organization
-``nonprofit organization
 obligated person
-`obligated person
-``obligated person
 off-balance-sheet activities
-`off-balance-sheet activities
-``off-balance-sheet activities
 operator
-`operator
-``operator
 original information
-`original information
-``original information
 originator
-`originator
-``originator
 paying agent
-`paying agent
-``paying agent
 payment
-`payment
-``payment
 payment card network
-`payment card network
-``payment card network
 payment instrument
-`payment instrument
-``payment instrument
 payment, clearing, or settlement activity
-`payment, clearing, or settlement activity
-``payment, clearing, or settlement activity
 person
-`person
-``person
 person associated with a municipal advisor
-`person associated with a municipal advisor
-``person associated with a municipal advisor
 person associated with a security- based swap dealer or major security-based swap participant
-`person associated with a security- based swap dealer or major security-based swap participant
-``person associated with a security- based swap dealer or major security-based swap participant
 person associated with a security-based swap dealer or major security-based swap participant
-`person associated with a security-based swap dealer or major security-based swap participant
-``person associated with a security-based swap dealer or major security-based swap participant
 person regulated by a State insurance regulator
-`person regulated by a State insurance regulator
-``person regulated by a State insurance regulator
 person regulated by the Commission
-`person regulated by the Commission
-``person regulated by the Commission
 person regulated by the Commodity Futures Trading Commission
-`person regulated by the Commodity Futures Trading Commission
-``person regulated by the Commodity Futures Trading Commission
 person regulated by the Farm Credit Administration
-`person regulated by the Farm Credit Administration
-``person regulated by the Farm Credit Administration
 person that performs income tax preparation activities for consumers
-`person that performs income tax preparation activities for consumers
-``person that performs income tax preparation activities for consumers
 points and fees
-`points and fees
-``points and fees
 position data
-`position data
-``position data
 private education loan
-`private education loan
-``private education loan
 private equity fund
-`private equity fund
-``private equity fund
 private fund
-`private fund
-``private fund
 privilege
-`privilege
-``privilege
 property
-`property
-``property
 proprietary trading
-`proprietary trading
-``proprietary trading
 prudential regulator
-`prudential regulator
-``prudential regulator
 purchase
-`purchase
-``purchase
 qualified mortgage
-`qualified mortgage
-``qualified mortgage
 qualified residential mortgage
-`qualified residential mortgage
-``qualified residential mortgage
 qualified risk manager
-`qualified risk manager
-``qualified risk manager
 real-time public reporting
-`real-time public reporting
-``real-time public reporting
 records
-`records
-``records
 records of a covered financial company
-`records of a covered financial company
-``records of a covered financial company
 reinsurance
-`reinsurance
-``reinsurance
 reinsurer
-`reinsurer
-``reinsurer
 related action
-`related action
-``related action
 remittance transfer
-`remittance transfer
-``remittance transfer
 remittance transfer provider
-`remittance transfer provider
-``remittance transfer provider
 repurchase agreement
-`repurchase agreement
-``repurchase agreement
 residential mortgage loan
-`residential mortgage loan
-``residential mortgage loan
 resource extraction issuer
-`resource extraction issuer
-``resource extraction issuer
 retail customer
-`retail customer
-``retail customer
 rules of the Board
-`rules of the Board
-``rules of the Board
 sale
-`sale
-``sale
 savings and loan holding company
-`savings and loan holding company
-``savings and loan holding company
 savings and loan institution
-`savings and loan institution
-``savings and loan institution
 savings association
-`savings association
-``savings association
 section 1256 contract
-`section 1256 contract
-``section 1256 contract
 securities contract
-`securities contract
-``securities contract
 securities fraud offense
-`securities fraud offense
-``securities fraud offense
 securities holding company
-`securities holding company
-``securities holding company
 securities laws
-`securities laws
-``securities laws
 securitizer
-`securitizer
-``securitizer
 security-based swap
-`security-based swap
-``security-based swap
 security-based swap agreement
-`security-based swap agreement
-``security-based swap agreement
 security-based swap data repository
-`security-based swap data repository
-``security-based swap data repository
 security-based swap dealer
-`security-based swap dealer
-``security-based swap dealer
 security-based swap execution facility
-`security-based swap execution facility
-``security-based swap execution facility
 self- regulatory organization
-`self- regulatory organization
-``self- regulatory organization
 sender
-`sender
-``sender
 senior
-`senior
-``senior
 service member
-`service member
-``service member
 service provider
-`service provider
-``service provider
 servicer
-`servicer
-``servicer
 short-term debt
-`short-term debt
-``short-term debt
 significant bank holding company
-`significant bank holding company
-``significant bank holding company
 significant nonbank financial company
-`significant nonbank financial company
-``significant nonbank financial company
 small business
-`small business
-``small business
 small business concern
-`small business concern
-``small business concern
 small business loan
-`small business loan
-``small business loan
 smaller insured depository institution
-`smaller insured depository institution
-``smaller insured depository institution
 solicitation of a municipal entity or obligated person
-`solicitation of a municipal entity or obligated person
-``solicitation of a municipal entity or obligated person
 solvent
-`solvent
-``solvent
 source of financial strength
-`source of financial strength
-``source of financial strength
 special entity
-`special entity
-``special entity
 specified plan or arrangement
-`specified plan or arrangement
-``specified plan or arrangement
 stable value contract
-`stable value contract
-``stable value contract
 standard maximum cash advance amount
-`standard maximum cash advance amount
-``standard maximum cash advance amount
 stockbroker
-`stockbroker
-``stockbroker
 stored value
-`stored value
-``stored value
 structured finance product
-`structured finance product
-``structured finance product
 subsidiary
-`subsidiary
-``subsidiary
 substantial position
-`substantial position
-``substantial position
 substantially equivalent to the level of protection achieved
-`substantially equivalent to the level of protection achieved
-``substantially equivalent to the level of protection achieved
 successful resolution
-`successful resolution
-``successful resolution
 supervised securities holding company
-`supervised securities holding company
-``supervised securities holding company
 surplus lines broker
-`surplus lines broker
-``surplus lines broker
 swap
-`swap
-``swap
 swap agreement
-`swap agreement
-``swap agreement
 swap data repository
-`swap data repository
-``swap data repository
 swap dealer
-`swap dealer
-``swap dealer
 swap execution facility
-`swap execution facility
-``swap execution facility
 swaps entity
-`swaps entity
-``swaps entity
 systemic importance
-`systemic importance
-``systemic importance
 systemically important
-`systemically important
-``systemically important
 trading account
-`trading account
-``trading account
 transfer
-`transfer
-``transfer
 transfer date
-`transfer date
-``transfer date
 transferor agencies
-`transferor agencies
-``transferor agencies
 transferor agency
-`transferor agency
-``transferor agency
 transferred employee
-`transferred employee
-``transferred employee
 transmitting or exchanging funds
-`transmitting or exchanging funds
-``transmitting or exchanging funds
 trust bank
-`trust bank
-``trust bank
 under the control of armed groups
-`under the control of armed groups
-``under the control of armed groups
 unit of general local government
-`unit of general local government
-``unit of general local government
 valuation
-`valuation
-``valuation
 value
-`value
-``value
 venture capital fund
-`venture capital fund
-``venture capital fund
 violation
-`violation
-``violation
 whistleblower
-`whistleblower
-``whistleblower
 women's business
-`women's business
-``women's business
 women-owned business
-`women-owned business
-``women-owned business
