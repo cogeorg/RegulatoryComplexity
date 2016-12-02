@@ -11,6 +11,7 @@ def main(argv):
     html = ""
     elTail = ""
     c = 1
+    flag = 0
     dfa = {}
     for action, elem in context:
         if action == "start":
@@ -54,9 +55,13 @@ def main(argv):
                     else:
                          if elem.text != None:
                              html += elem.text.strip() + ' '
+                         else:
+                             flag = 1
                 except:
                     if elem.text != None:
                         html += elem.text.strip() + ' '
+                    else:
+                        flag = 1
             elif elem.tag == "header":
                 if elem.text != None:
                     html += elem.text.strip() + '.-- '
@@ -103,6 +108,12 @@ def main(argv):
                 if elem.text == None:
                     html += '" ' + elTail
                     elTail = ""
+            elif elem.tag == "text":
+                if (flag == 1) & (elem.text != None):
+                    html += elem.text.strip() + ' '
+                    flag = 0
+                elif (flag == 1) & (elem.text == None):
+                    flag = 0
             else:
                 continue
 
@@ -150,7 +161,6 @@ def main(argv):
                             update.append('</div>')
                             update.append("<" + part)
                             amBullet = 0
-
 
         # words version:
         if argv.type == "words":
@@ -272,7 +282,6 @@ def read_txt_files(file):
             tuple = (key , aux_text, len(aux_text.split(" ")))
             list_tuples.append(tuple)
     return sorted(list_tuples, key=lambda x: x[2],reverse=True)
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Dodd-Frank html visualization.')
