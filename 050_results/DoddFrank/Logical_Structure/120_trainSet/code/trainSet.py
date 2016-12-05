@@ -52,7 +52,7 @@ def main(argv):
         n += 1
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Dodd-Frank html visualization.')
+    parser = argparse.ArgumentParser(description='Generates Data Set for CRF.')
     parser.add_argument('-p', '--pos', help='Input POS Directory', required=True)
     parser.add_argument('-q', '--parser', help='Input Parser Directory', required=True)
     parser.add_argument('-o', '--output', help='Output Directory', required=True)

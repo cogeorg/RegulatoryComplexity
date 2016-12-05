@@ -6,155 +6,191 @@ import sklearn
 import pycrfsuite
 import math
 import random
+import numpy
 from features import *
+from config import *
+import argparse
+
+# cross validation function
+def cv(layer, radius, c1, c2, maxIt, cvRounds, train, val, step):
+    try:
+        rounds = range(len(cvRounds))
+    except:
+        rounds = [0]
+    for d in rounds:
+        cv = []
+
+        for r in radius:
+
+            # train and val sets in CRFsuite format
+            xtrain = [sent2features(s, r, layer) for s in train]
+            ytrain = [sent2labels(s, layer) for s in train]
+
+            xval = [sent2features(s, r, layer) for s in val]
+            yval = [sent2labels(s, layer) for s in val]
+
+            # train model
+            trainer = pycrfsuite.Trainer(verbose=False)
+
+            for xseq, yseq in zip(xtrain, ytrain):
+                trainer.append(xseq, yseq)
+
+            for i in c1:
+                for j in c2:
+                    for k in maxIt:
+
+                        trainer.set_params({
+                            'c1': i,   # coefficient for L1 penalty
+                            'c2': j,  # coefficient for L2 penalty
+                            'max_iterations': k,
+
+                            # include transitions that are possible, but not observed
+                            'feature.possible_transitions': True
+                        })
+
+                        trainer.train('test.crfsuite')
+
+                        # make predictions
+                        tagger = pycrfsuite.Tagger()
+                        tagger.open('test.crfsuite')
+
+                        # evaluate model
+                        ypred = [tagger.tag(xseq) for xseq in xval]
+                        error = 0
+                        n = 0
+                        for l in range(len(ypred)):
+                            for m in range(len(ypred[l])):
+                                if yval[l][m] != ypred[l][m]:
+                                    error += 1
+                                n += 1
+                        accuracy = 1 - float(error)/n
+                        #print "Accuracy: ", accuracy
+
+                        cv.append([r, i, j, k, accuracy])
+                        #print r, i, j, k, accuracy
+
+        cv.sort(key=lambda x: x[4])
+        print cv[-1]
+
+        # refinement
+        r = range(min(cv[-1][0], cv[-2][0]), max(cv[-1][0], cv[-2][0])+1)
+        c1 = list(numpy.arange(min(cv[len(cv)-1][1], cv[len(cv)-2][1]), max(cv[len(cv)-1][1], cv[len(cv)-2][1]), 0.01**(d+2)))
+        c2 = list(numpy.arange(min(cv[len(cv)-1][2], cv[len(cv)-2][2]), max(cv[len(cv)-1][2], cv[len(cv)-2][2]), 0.01**(d+2)))
+        if step-2 > 0:
+            step = step-2
+            maxIt = range(min(cv[-1][3], cv[-2][3]), max(cv[-1][3], cv[-2][3])+1, step)
 
 
-# read data
-f = open ("test_layer1.txt", "r")
+    r = cv[-1][0]
+    c1 = cv[-1][1]
+    c2 = cv[-1][2]
+    maxIt = cv[-1][3]
+    return [r, c1, c2, maxIt]
 
-# save words as tuples
-words = []
-for line in f:
-    word = line.split("\t")
-    wordTup = (word[0], word[1], word[2], word[3], word[4])
-    words.append(wordTup)
+def main(argv):
 
-# save sentences as lists
-sentences = []
-sentence = []
-for word in words:
-    if word[0] == word[1] == word[2] == ".":
-        sentence.append(word)
-        sentences.append(sentence)
+    for layer in [1,2,3]:
+        print 'Layer', layer
+
+        f = open (argv.input + "data_layer_" + str(layer) + ".txt", "r")
+
+        # save words as tuples
+        words = []
+        for line in f:
+            line = line.strip()
+            word = line.split("\t")
+            wordTup = tuple(word)
+            words.append(wordTup)
+
+        # save sentences as lists
+        sentences = []
         sentence = []
-    else:
-        sentence.append(word)
+        for word in words:
+            if word[0] == word[1] == word[2] == ".":
+                sentence.append(word)
+                sentences.append(sentence)
+                sentence = []
+            else:
+                sentence.append(word)
 
-# split in train, val and test sets
-sentNo = len(sentences)
-trainNo = int(math.floor(0.7 * sentNo))
-print "Training size: ", trainNo
-restNo = sentNo - trainNo
-valNo = int(math.floor(0.6 * restNo))
-print "Validation size: ", valNo
-testNo = restNo - valNo
-print "Test size: ", testNo
+        # split in train, val and test sets
+        sentNo = len(sentences)
+        trainNo = int(math.floor(0.8 * sentNo))
+        #print "Training size: ", trainNo
+        restNo = sentNo - trainNo
+        valNo = int(math.floor(0.7 * restNo))
+        #print "Validation size: ", valNo
+        testNo = restNo - valNo
+        #print "Test size: ", testNo
 
-# shuffle sentences
-random.seed(2016)
-x = range(sentNo)
-random.shuffle(x)
-sentShuffle = []
-for i in range(len(x)):
-    sentShuffle.append(sentences[x[i]])
+        # shuffle sentences
+        random.seed(2016)
+        x = range(sentNo)
+        random.shuffle(x)
+        sentShuffle = []
+        for i in range(len(x)):
+            sentShuffle.append(sentences[x[i]])
 
-# define train, validation and test set
-train = sentShuffle[0:trainNo]
-val = sentShuffle[trainNo:trainNo + valNo]
-test = sentShuffle[trainNo + valNo:]
+        # define train, validation and test set
+        train = sentShuffle[0:trainNo]
+        val = sentShuffle[trainNo:trainNo + valNo]
+        test = sentShuffle[trainNo + valNo:]
 
-# cross Validation
-cv = []
+        # cross validation
+        output = cv(layer, radius, c1, c2, maxIt, cvRounds, train, val, step)
+        rOpt = output[0]
+        c1Opt = output[1]
+        c2Opt = output[2]
+        maxItOpt = output[3]
 
-# define feature radius
-radius = range(3, 5)
+        with open(argv.output + "settings.txt", "a") as g:
+            g.write(str(layer) + '\t' + str(rOpt) + '\t' + str(c1Opt) + '\t' + str(c2Opt) + '\t'+ str(maxItOpt))
 
-# hpyerparameters
-c1 = [2**i for i in range(-10, -3)]
-c2 = [2**i for i in range(-5, -3)]
-maxIt = range(20, 55, 5)
+        # out of sample evaluation
+        #r = cv[len(cv)-1][0]
+        #c1 = cv[len(cv)-1][1]
+        #c2 = cv[len(cv)-1][2]
+        #maxIt = cv[len(cv)-1][3]
 
-for r in radius:
+        # train and test sets in CRFsuite format
+        xtrain = [sent2features(s, rOpt, layer) for s in train + val]
+        ytrain = [sent2labels(s, layer) for s in train + val]
 
-    # train and val sets in CRFsuite format
-    xtrain = [sent2features(s, r) for s in train]
-    ytrain = [sent2labels(s) for s in train]
+        xtest = [sent2features(s, rOpt, layer) for s in test]
+        ytest = [sent2labels(s, layer) for s in test]
 
-    xval = [sent2features(s, r) for s in val]
-    yval = [sent2labels(s) for s in val]
+        # train model
+        trainer = pycrfsuite.Trainer(verbose=False)
 
-    # train model
-    trainer = pycrfsuite.Trainer(verbose=False)
+        for xseq, yseq in zip(xtrain, ytrain):
+            trainer.append(xseq, yseq)
 
-    for xseq, yseq in zip(xtrain, ytrain):
-        trainer.append(xseq, yseq)
+        trainer.set_params({
+            'c1': c1Opt,   # coefficient for L1 penalty
+            'c2': c2Opt,  # coefficient for L2 penalty
+            'max_iterations': maxItOpt,
 
-    for i in c1:
-        for j in c2:
-            for k in maxIt:
+            # include transitions that are possible, but not observed
+            'feature.possible_transitions': True
+        })
 
-                trainer.set_params({
-                    'c1': i,   # coefficient for L1 penalty
-                    'c2': j,  # coefficient for L2 penalty
-                    'max_iterations': k,
+        trainer.train('test.crfsuite')
 
-                    # include transitions that are possible, but not observed
-                    'feature.possible_transitions': True
-                })
+        # make predictions
+        tagger = pycrfsuite.Tagger()
+        tagger.open('test.crfsuite')
 
-                trainer.train('test.crfsuite')
-
-                # make predictions
-                tagger = pycrfsuite.Tagger()
-                tagger.open('test.crfsuite')
-
-                # evaluate model
-                ypred = [tagger.tag(xseq) for xseq in xval]
-                error = 0
-                n = 0
-                for l in range(len(ypred)):
-                    for m in range(len(ypred[l])):
-                        if yval[l][m] != ypred[l][m]:
-                            error += 1
-                        n += 1
-                accuracy = 1 - float(error)/n
-                #print "Accuracy: ", accuracy
-
-                cv.append([r, i, j, k, accuracy])
-                print r, i, j, k, accuracy
-
-cv.sort(key=lambda x: x[4])
-print cv[0], cv[len(cv)-1]
-
-# out of sample evaluation
-r = cv[len(cv)-1][0]
-c1 = cv[len(cv)-1][1]
-c2 = cv[len(cv)-1][2]
-maxIt = cv[len(cv)-1][3]
-
-# train and test sets in CRFsuite format
-xtrain = [sent2features(s, r) for s in train + val]
-ytrain = [sent2labels(s) for s in train + val]
-
-xtest = [sent2features(s, r) for s in test]
-ytest = [sent2labels(s) for s in test]
-
-trainer.set_params({
-    'c1': c1,   # coefficient for L1 penalty
-    'c2': c2,  # coefficient for L2 penalty
-    'max_iterations': maxIt,
-
-    # include transitions that are possible, but not observed
-    'feature.possible_transitions': True
-})
-
-trainer.train('test.crfsuite')
-
-# make predictions
-tagger = pycrfsuite.Tagger()
-tagger.open('test.crfsuite')
-
-# evaluate model
-ypred = [tagger.tag(xseq) for xseq in xtest]
-error = 0
-n = 0
-for i in range(len(ypred)):
-    for j in range(len(ypred[i])):
-        if ytest[i][j] != ypred[i][j]:
-            error += 1
-        n += 1
-accuracy = 1 - float(error)/n
-print "Accuracy: ", accuracy
+        # evaluate model
+        ypred = [tagger.tag(xseq) for xseq in xtest]
+        error = 0
+        n = 0
+        for i in range(len(ypred)):
+            for j in range(len(ypred[i])):
+                if ytest[i][j] != ypred[i][j]:
+                    error += 1
+                n += 1
+        accuracy = 1 - float(error)/n
+        print "Accuracy: ", accuracy
 
 '''
 for item in val:
@@ -165,3 +201,10 @@ for item in val:
     print("Correct:  ", ' '.join(sent2labels(example_sent)))
 
 '''
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='CRF Training.')
+    parser.add_argument('-i', '--input', help='Input Directory', required=True)
+    parser.add_argument('-o', '--output', help='Output Directory', required=True)
+    args = parser.parse_args()
+    main(args)
