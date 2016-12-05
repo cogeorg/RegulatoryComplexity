@@ -144,7 +144,7 @@ def main(argv):
         maxItOpt = output[3]
 
         with open(argv.output + "settings.txt", "a") as g:
-            g.write(str(layer) + '\t' + str(rOpt) + '\t' + str(c1Opt) + '\t' + str(c2Opt) + '\t'+ str(maxItOpt))
+            g.write(str(layer) + '\t' + str(rOpt) + '\t' + str(c1Opt) + '\t' + str(c2Opt) + '\t'+ str(maxItOpt) + '\n')
 
         # out of sample evaluation
         #r = cv[len(cv)-1][0]
