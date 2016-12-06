@@ -95,7 +95,7 @@ def main(argv):
             for par in paragraphs:
 
                 # Beautiful Soup to parse it and to find all spans
-                soup = BeautifulSoup(par)
+                soup = BeautifulSoup(par, "lxml")
                 spans = soup.find_all('span')
 
                 # define a list with text in first entry and tags as list in second entry
