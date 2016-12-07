@@ -63,12 +63,18 @@ function surroundSelection(type) {
     span.oncontextmenu = function (ev) {
         this.parentNode.insertBefore(document.createTextNode(this.innerText), this);
         this.parentNode.removeChild(this);
-        graphs();
-        loadCheckbox();
+        saveCheckbox( function(){
+            graphs( function(){
+                loadCheckbox();
+            });
+        });
     }
     selection.insertNode(span);
-    graphs();
-    loadCheckbox();
+    saveCheckbox( function(){
+        graphs( function(){
+            loadCheckbox();
+        });
+    });
 
 }
 
@@ -77,9 +83,9 @@ function removeHighlight() {
     var selectedText = document.createTextNode( selection.toString() );
     selection.deleteContents();
     selection.insertNode(selectedText);
-    graphs( function(){
-        loadCheckbox(function(){
-            saveCheckbox();
+    saveCheckbox( function(){
+        graphs( function(){
+            loadCheckbox();
         });
     });
 }
@@ -171,6 +177,22 @@ function graphs(callback){
                         tr.appendChild(td);
                     }
                 }
+                if (spanText.endsWith('.') || spanText.endsWith('. ') || spanText.endsWith(':') || spanText.endsWith(': ')) {
+                    // new line with header
+                    var tr = document.createElement('TR');
+                    tableBody.appendChild(tr);
+                    var td = document.createElement('TD');
+                    td.appendChild(document.createTextNode('Part'));
+                    tr.appendChild(td);
+                    var td = document.createElement('TD');
+                    td.appendChild(document.createTextNode('ID'));
+                    tr.appendChild(td);
+                    for (var k = 1; k < spans.length+1; k++){
+                        var td = document.createElement('TD');
+                        td.appendChild(document.createTextNode(k));
+                        tr.appendChild(td);
+                    }
+                }
             }
             // create table header
             var header = table.createTHead();
@@ -203,7 +225,7 @@ function graphs(callback){
 /* Save checkboxes */
 /* ******************************************* */
 
-function saveCheckbox () {
+function saveCheckbox (callback) {
     var userName = $( "p:first" ).text();
     var titleName = $("#mySidenav a.selected").attr("id");
     // find all inputs
@@ -233,7 +255,9 @@ function saveCheckbox () {
         data: JSON.stringify(paramData, null, '\t'),
         contentType: 'application/json;charset=UTF-8',
         success: function(data) {
-
+            if (callback) {
+                callback();
+            }
         }
     });
 }

@@ -162,7 +162,7 @@ body {
     list-style-type: none;
     width: inherit;
     right:0;
-    top:600px;
+    bottom:0px;
     position: fixed;
     background-color: #ffffff;
     padding-left:0;
