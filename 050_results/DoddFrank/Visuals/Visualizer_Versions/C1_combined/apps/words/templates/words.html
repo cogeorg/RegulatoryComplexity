@@ -105,7 +105,7 @@ function downloadWords(){
     var paramData = []
     $.ajax({
         type : "POST",
-        url : '/words/words',
+        url : '/words/_words2html',
         data: JSON.stringify(paramData, null, '\t'),
         contentType: 'application/json;charset=UTF-8',
         success: function(data) {

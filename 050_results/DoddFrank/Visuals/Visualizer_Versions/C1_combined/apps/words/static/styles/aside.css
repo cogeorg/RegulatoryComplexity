@@ -85,7 +85,7 @@ body {
 .buttons ul {
     list-style-type: none;
     right:0;
-    top:600px;
+    bottom:0px;
     width: 192px;
     height: 62px;
     position: fixed;

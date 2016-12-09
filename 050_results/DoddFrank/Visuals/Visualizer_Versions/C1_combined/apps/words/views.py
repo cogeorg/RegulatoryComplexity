@@ -140,7 +140,7 @@ def instructions():
     return render_template('instructions.html')
 
 
-@app.route("/words",  methods=['POST', 'GET'])
+@app.route("/words")
 @login_required
 def words():
     user_name = current_user.username           # Get the current user
@@ -153,33 +153,44 @@ def words():
     words, types, remove= delete_white(data.word.tolist(), data.type.tolist())  #Delete white words
     colors = operand_to_color(types)         #Get the color for each operand
 
-    if request.method == 'GET':
-        return render_template('words.html', words = words ,types = types, colors = colors) #Send words and types to the html
-    else:
-        # pre-classified data
-        # Local:
-        #path = '/home/sabine/Dokumente/Git/RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
-        # Pythonanywhere:
-        path = '/RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
-        preWords = []
-        preClass = []
-        for filename in os.listdir(path):
-            if filename.endswith('.txt'):
-                wordClass = filename.strip('.txt')
-                wordClass = wordClass.split('_')[0]
-                with open(path + '/' + filename, 'r') as f:
-                    for line in f:
-                        line = line.strip()
-                        line = line.strip(',')
-                        line = line.strip('.')
-                        line = line.strip('`')
-                        line = unicode(line, errors='replace')
-                        preWords.append(line)
-                        preClass.append(wordClass)
-
-        return jsonify(words = words ,types = types, preWords = preWords, preClass = preClass)
+    return render_template('words.html', words = words ,types = types, colors = colors) #Send words and types to the html
 
 
+@app.route("/_words2html",  methods=['POST'])
+@login_required
+def words2html():
+    user_name = current_user.username           # Get the current user
+    # own data
+    # Local:
+    #file = "apps/words/output/" + user_name.strip() + ".csv"   # File name for the current user
+    # Pythonanywhere:
+    file = "RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/" + user_name.strip() + ".csv"
+    data = pandas.read_csv(file, names=['word', 'type'])    # Open file
+    words, types, remove= delete_white(data.word.tolist(), data.type.tolist())  #Delete white words
+    colors = operand_to_color(types)         #Get the color for each operand
+
+    # pre-classified data
+    # Local:
+    #path = '/home/sabine/Dokumente/Git/RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
+    # Pythonanywhere:
+    path = '/RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
+    preWords = []
+    preClass = []
+    for filename in os.listdir(path):
+        if filename.endswith('.txt'):
+            wordClass = filename.strip('.txt')
+            wordClass = wordClass.split('_')[0]
+            with open(path + '/' + filename, 'r') as f:
+                for line in f:
+                    line = line.strip()
+                    line = line.strip(',')
+                    line = line.strip('.')
+                    line = line.strip('`')
+                    line = unicode(line, errors='replace')
+                    preWords.append(line)
+                    preClass.append(wordClass)
+
+    return jsonify(words = words ,types = types, preWords = preWords, preClass = preClass)
 
 
 
