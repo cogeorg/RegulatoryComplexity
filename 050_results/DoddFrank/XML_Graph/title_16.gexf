@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="&lt;Element subsection at 0x7f00d3f46c20&gt;" label="&lt;Element subsection at 0x7f00d3f46c20&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3ed7248&gt;" label="&lt;Element paragraph at 0x7f00d3ed7248&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3ed7050&gt;" label="&lt;Element paragraph at 0x7f00d3ed7050&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3f46098&gt;" label="&lt;Element subsection at 0x7f00d3f46098&gt;" />
+      <node id="&lt;Element title at 0x7f00d4697878&gt;" label="&lt;Element title at 0x7f00d4697878&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3ed7098&gt;" label="&lt;Element paragraph at 0x7f00d3ed7098&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3ed70e0&gt;" label="&lt;Element paragraph at 0x7f00d3ed70e0&gt;" />
+      <node id="&lt;Element section at 0x7f00d3f2aef0&gt;" label="&lt;Element section at 0x7f00d3f2aef0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3ed7290&gt;" label="&lt;Element paragraph at 0x7f00d3ed7290&gt;" />
+    </nodes>
+    <edges>
+      <edge id="0" source="&lt;Element subsection at 0x7f00d3f46c20&gt;" target="&lt;Element paragraph at 0x7f00d3ed7098&gt;" />
+      <edge id="1" source="&lt;Element subsection at 0x7f00d3f46c20&gt;" target="&lt;Element paragraph at 0x7f00d3ed7050&gt;" />
+      <edge id="2" source="&lt;Element subsection at 0x7f00d3f46c20&gt;" target="&lt;Element paragraph at 0x7f00d3ed70e0&gt;" />
+      <edge id="3" source="&lt;Element subsection at 0x7f00d3f46c20&gt;" target="&lt;Element section at 0x7f00d3f2aef0&gt;" />
+      <edge id="4" source="&lt;Element paragraph at 0x7f00d3ed7248&gt;" target="&lt;Element paragraph at 0x7f00d3ed70e0&gt;" />
+      <edge id="5" source="&lt;Element subsection at 0x7f00d3f46098&gt;" target="&lt;Element section at 0x7f00d3f2aef0&gt;" />
+      <edge id="6" source="&lt;Element title at 0x7f00d4697878&gt;" target="&lt;Element section at 0x7f00d3f2aef0&gt;" />
+      <edge id="7" source="&lt;Element paragraph at 0x7f00d3ed7098&gt;" target="&lt;Element paragraph at 0x7f00d3ed7290&gt;" />
+    </edges>
+  </graph>
+</gexf>

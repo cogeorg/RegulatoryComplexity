@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="&lt;Element section at 0x7f00d3fa4830&gt;" label="&lt;Element section at 0x7f00d3fa4830&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2050&gt;" label="&lt;Element subsection at 0x7f00d3fb2050&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d3fb2878&gt;" label="&lt;Element subparagraph at 0x7f00d3fb2878&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2098&gt;" label="&lt;Element subsection at 0x7f00d3fb2098&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb28c0&gt;" label="&lt;Element paragraph at 0x7f00d3fb28c0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb20e0&gt;" label="&lt;Element paragraph at 0x7f00d3fb20e0&gt;" />
+      <node id="&lt;Element section at 0x7f00d3fb2908&gt;" label="&lt;Element section at 0x7f00d3fb2908&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb2128&gt;" label="&lt;Element paragraph at 0x7f00d3fb2128&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2950&gt;" label="&lt;Element subsection at 0x7f00d3fb2950&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2170&gt;" label="&lt;Element subsection at 0x7f00d3fb2170&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb21b8&gt;" label="&lt;Element subsection at 0x7f00d3fb21b8&gt;" />
+      <node id="&lt;Element title at 0x7f00d7072a28&gt;" label="&lt;Element title at 0x7f00d7072a28&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d3fb2248&gt;" label="&lt;Element subparagraph at 0x7f00d3fb2248&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d3fb2290&gt;" label="&lt;Element subparagraph at 0x7f00d3fb2290&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb22d8&gt;" label="&lt;Element paragraph at 0x7f00d3fb22d8&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2320&gt;" label="&lt;Element subsection at 0x7f00d3fb2320&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2b48&gt;" label="&lt;Element subsection at 0x7f00d3fb2b48&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2368&gt;" label="&lt;Element subsection at 0x7f00d3fb2368&gt;" />
+      <node id="&lt;Element section at 0x7f00d3fa4b90&gt;" label="&lt;Element section at 0x7f00d3fa4b90&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb23b0&gt;" label="&lt;Element paragraph at 0x7f00d3fb23b0&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb23f8&gt;" label="&lt;Element subsection at 0x7f00d3fb23f8&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2440&gt;" label="&lt;Element subsection at 0x7f00d3fb2440&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb2488&gt;" label="&lt;Element paragraph at 0x7f00d3fb2488&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb24d0&gt;" label="&lt;Element paragraph at 0x7f00d3fb24d0&gt;" />
+      <node id="&lt;Element section at 0x7f00d3fa46c8&gt;" label="&lt;Element section at 0x7f00d3fa46c8&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d3fb2b90&gt;" label="&lt;Element subsection at 0x7f00d3fb2b90&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb25a8&gt;" label="&lt;Element paragraph at 0x7f00d3fb25a8&gt;" />
+      <node id="&lt;Element section at 0x7f00d3fa4dd0&gt;" label="&lt;Element section at 0x7f00d3fa4dd0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb2638&gt;" label="&lt;Element paragraph at 0x7f00d3fb2638&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb2518&gt;" label="&lt;Element paragraph at 0x7f00d3fb2518&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb2680&gt;" label="&lt;Element paragraph at 0x7f00d3fb2680&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d3fb26c8&gt;" label="&lt;Element subparagraph at 0x7f00d3fb26c8&gt;" />
+      <node id="&lt;Element section at 0x7f00d3fa4ef0&gt;" label="&lt;Element section at 0x7f00d3fa4ef0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb2710&gt;" label="&lt;Element paragraph at 0x7f00d3fb2710&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb2758&gt;" label="&lt;Element paragraph at 0x7f00d3fb2758&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d3fb27a0&gt;" label="&lt;Element subparagraph at 0x7f00d3fb27a0&gt;" />
+      <node id="&lt;Element section at 0x7f00d3fa4fc8&gt;" label="&lt;Element section at 0x7f00d3fa4fc8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d3fb27e8&gt;" label="&lt;Element paragraph at 0x7f00d3fb27e8&gt;" />
+    </nodes>
+    <edges>
+      <edge id="0" source="&lt;Element section at 0x7f00d3fa4830&gt;" target="&lt;Element subsection at 0x7f00d3fb2098&gt;" />
+      <edge id="1" source="&lt;Element section at 0x7f00d3fa4830&gt;" target="&lt;Element title at 0x7f00d7072a28&gt;" />
+      <edge id="2" source="&lt;Element section at 0x7f00d3fa4830&gt;" target="&lt;Element subsection at 0x7f00d3fb2320&gt;" />
+      <edge id="3" source="&lt;Element section at 0x7f00d3fa4830&gt;" target="&lt;Element subsection at 0x7f00d3fb2050&gt;" />
+      <edge id="4" source="&lt;Element section at 0x7f00d3fa4830&gt;" target="&lt;Element subsection at 0x7f00d3fb23f8&gt;" />
+      <edge id="5" source="&lt;Element subsection at 0x7f00d3fb2050&gt;" target="&lt;Element paragraph at 0x7f00d3fb2680&gt;" />
+      <edge id="6" source="&lt;Element subsection at 0x7f00d3fb2050&gt;" target="&lt;Element paragraph at 0x7f00d3fb27e8&gt;" />
+      <edge id="7" source="&lt;Element subparagraph at 0x7f00d3fb2878&gt;" target="&lt;Element paragraph at 0x7f00d3fb2680&gt;" />
+      <edge id="8" source="&lt;Element subsection at 0x7f00d3fb2098&gt;" target="&lt;Element paragraph at 0x7f00d3fb2710&gt;" />
+      <edge id="9" source="&lt;Element subsection at 0x7f00d3fb2098&gt;" target="&lt;Element paragraph at 0x7f00d3fb2638&gt;" />
+      <edge id="10" source="&lt;Element paragraph at 0x7f00d3fb28c0&gt;" target="&lt;Element subsection at 0x7f00d3fb2320&gt;" />
+      <edge id="11" source="&lt;Element paragraph at 0x7f00d3fb20e0&gt;" target="&lt;Element subparagraph at 0x7f00d3fb2248&gt;" />
+      <edge id="12" source="&lt;Element paragraph at 0x7f00d3fb20e0&gt;" target="&lt;Element section at 0x7f00d3fa46c8&gt;" />
+      <edge id="13" source="&lt;Element paragraph at 0x7f00d3fb20e0&gt;" target="&lt;Element subparagraph at 0x7f00d3fb2290&gt;" />
+      <edge id="14" source="&lt;Element section at 0x7f00d3fb2908&gt;" target="&lt;Element subsection at 0x7f00d3fb2368&gt;" />
+      <edge id="15" source="&lt;Element paragraph at 0x7f00d3fb2128&gt;" target="&lt;Element paragraph at 0x7f00d3fb23b0&gt;" />
+      <edge id="16" source="&lt;Element paragraph at 0x7f00d3fb2128&gt;" target="&lt;Element section at 0x7f00d3fa46c8&gt;" />
+      <edge id="17" source="&lt;Element paragraph at 0x7f00d3fb2128&gt;" target="&lt;Element paragraph at 0x7f00d3fb22d8&gt;" />
+      <edge id="18" source="&lt;Element subsection at 0x7f00d3fb2950&gt;" target="&lt;Element subsection at 0x7f00d3fb21b8&gt;" />
+      <edge id="19" source="&lt;Element subsection at 0x7f00d3fb2170&gt;" target="&lt;Element section at 0x7f00d3fa4dd0&gt;" />
+      <edge id="20" source="&lt;Element subsection at 0x7f00d3fb21b8&gt;" target="&lt;Element section at 0x7f00d3fa4b90&gt;" />
+      <edge id="21" source="&lt;Element title at 0x7f00d7072a28&gt;" target="&lt;Element section at 0x7f00d3fa46c8&gt;" />
+      <edge id="22" source="&lt;Element title at 0x7f00d7072a28&gt;" target="&lt;Element section at 0x7f00d3fa4ef0&gt;" />
+      <edge id="23" source="&lt;Element title at 0x7f00d7072a28&gt;" target="&lt;Element section at 0x7f00d3fa4b90&gt;" />
+      <edge id="24" source="&lt;Element title at 0x7f00d7072a28&gt;" target="&lt;Element section at 0x7f00d3fa4fc8&gt;" />
+      <edge id="25" source="&lt;Element title at 0x7f00d7072a28&gt;" target="&lt;Element section at 0x7f00d3fa4dd0&gt;" />
+      <edge id="26" source="&lt;Element subsection at 0x7f00d3fb2320&gt;" target="&lt;Element paragraph at 0x7f00d3fb2758&gt;" />
+      <edge id="27" source="&lt;Element subsection at 0x7f00d3fb2b48&gt;" target="&lt;Element paragraph at 0x7f00d3fb25a8&gt;" />
+      <edge id="28" source="&lt;Element subsection at 0x7f00d3fb2368&gt;" target="&lt;Element section at 0x7f00d3fa4b90&gt;" />
+      <edge id="29" source="&lt;Element section at 0x7f00d3fa4b90&gt;" target="&lt;Element subsection at 0x7f00d3fb2440&gt;" />
+      <edge id="30" source="&lt;Element subsection at 0x7f00d3fb23f8&gt;" target="&lt;Element paragraph at 0x7f00d3fb2518&gt;" />
+      <edge id="31" source="&lt;Element subsection at 0x7f00d3fb23f8&gt;" target="&lt;Element paragraph at 0x7f00d3fb24d0&gt;" />
+      <edge id="32" source="&lt;Element subsection at 0x7f00d3fb2440&gt;" target="&lt;Element paragraph at 0x7f00d3fb2488&gt;" />
+      <edge id="33" source="&lt;Element subsection at 0x7f00d3fb2440&gt;" target="&lt;Element paragraph at 0x7f00d3fb25a8&gt;" />
+      <edge id="34" source="&lt;Element subsection at 0x7f00d3fb2b90&gt;" target="&lt;Element paragraph at 0x7f00d3fb25a8&gt;" />
+      <edge id="35" source="&lt;Element paragraph at 0x7f00d3fb2638&gt;" target="&lt;Element subparagraph at 0x7f00d3fb27a0&gt;" />
+      <edge id="36" source="&lt;Element paragraph at 0x7f00d3fb2518&gt;" target="&lt;Element subparagraph at 0x7f00d3fb26c8&gt;" />
+    </edges>
+  </graph>
+</gexf>

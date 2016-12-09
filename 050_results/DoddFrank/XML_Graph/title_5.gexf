@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="&lt;Element subclause at 0x7f00d4468ab8&gt;" label="&lt;Element subclause at 0x7f00d4468ab8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468050&gt;" label="&lt;Element paragraph at 0x7f00d4468050&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468098&gt;" label="&lt;Element paragraph at 0x7f00d4468098&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d44680e0&gt;" label="&lt;Element subparagraph at 0x7f00d44680e0&gt;" />
+      <node id="&lt;Element section at 0x7f00d4468128&gt;" label="&lt;Element section at 0x7f00d4468128&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d44681b8&gt;" label="&lt;Element subsection at 0x7f00d44681b8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4478050&gt;" label="&lt;Element paragraph at 0x7f00d4478050&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d4468200&gt;" label="&lt;Element subparagraph at 0x7f00d4468200&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d4468248&gt;" label="&lt;Element subparagraph at 0x7f00d4468248&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d4468290&gt;" label="&lt;Element subparagraph at 0x7f00d4468290&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d44682d8&gt;" label="&lt;Element subparagraph at 0x7f00d44682d8&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d4468320&gt;" label="&lt;Element subparagraph at 0x7f00d4468320&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4468368&gt;" label="&lt;Element clause at 0x7f00d4468368&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4478098&gt;" label="&lt;Element paragraph at 0x7f00d4478098&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d44683b0&gt;" label="&lt;Element subparagraph at 0x7f00d44683b0&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d44683f8&gt;" label="&lt;Element subparagraph at 0x7f00d44683f8&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4468440&gt;" label="&lt;Element clause at 0x7f00d4468440&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d4468488&gt;" label="&lt;Element subparagraph at 0x7f00d4468488&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d44684d0&gt;" label="&lt;Element subsection at 0x7f00d44684d0&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d4468518&gt;" label="&lt;Element subparagraph at 0x7f00d4468518&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d4468560&gt;" label="&lt;Element subclause at 0x7f00d4468560&gt;" />
+      <node id="&lt;Element subtitle at 0x7f00d44c1b90&gt;" label="&lt;Element subtitle at 0x7f00d44c1b90&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d44685a8&gt;" label="&lt;Element subclause at 0x7f00d44685a8&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d44685f0&gt;" label="&lt;Element subclause at 0x7f00d44685f0&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d4468b90&gt;" label="&lt;Element subclause at 0x7f00d4468b90&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d4468638&gt;" label="&lt;Element subclause at 0x7f00d4468638&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d4468680&gt;" label="&lt;Element subclause at 0x7f00d4468680&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d44686c8&gt;" label="&lt;Element paragraph at 0x7f00d44686c8&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4468710&gt;" label="&lt;Element clause at 0x7f00d4468710&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4468758&gt;" label="&lt;Element clause at 0x7f00d4468758&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d44687a0&gt;" label="&lt;Element subparagraph at 0x7f00d44687a0&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d44687e8&gt;" label="&lt;Element subparagraph at 0x7f00d44687e8&gt;" />
+      <node id="&lt;Element section at 0x7f00d4450830&gt;" label="&lt;Element section at 0x7f00d4450830&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468878&gt;" label="&lt;Element paragraph at 0x7f00d4468878&gt;" />
+      <node id="&lt;Element clause at 0x7f00d44688c0&gt;" label="&lt;Element clause at 0x7f00d44688c0&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4468908&gt;" label="&lt;Element clause at 0x7f00d4468908&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4468950&gt;" label="&lt;Element clause at 0x7f00d4468950&gt;" />
+      <node id="&lt;Element section at 0x7f00d4450998&gt;" label="&lt;Element section at 0x7f00d4450998&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d44689e0&gt;" label="&lt;Element paragraph at 0x7f00d44689e0&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d4468a28&gt;" label="&lt;Element subsection at 0x7f00d4468a28&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d44781b8&gt;" label="&lt;Element subparagraph at 0x7f00d44781b8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468c68&gt;" label="&lt;Element paragraph at 0x7f00d4468c68&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d4468a70&gt;" label="&lt;Element subclause at 0x7f00d4468a70&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d4450ab8&gt;" label="&lt;Element subsection at 0x7f00d4450ab8&gt;" />
+      <node id="&lt;Element subclause at 0x7f00d4468b00&gt;" label="&lt;Element subclause at 0x7f00d4468b00&gt;" />
+      <node id="&lt;Element clause at 0x7f00d44783b0&gt;" label="&lt;Element clause at 0x7f00d44783b0&gt;" />
+      <node id="&lt;Element item at 0x7f00d4468b48&gt;" label="&lt;Element item at 0x7f00d4468b48&gt;" />
+      <node id="&lt;Element section at 0x7f00d4450b90&gt;" label="&lt;Element section at 0x7f00d4450b90&gt;" />
+      <node id="&lt;Element item at 0x7f00d4468bd8&gt;" label="&lt;Element item at 0x7f00d4468bd8&gt;" />
+      <node id="&lt;Element subtitle at 0x7f00d44c1758&gt;" label="&lt;Element subtitle at 0x7f00d44c1758&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d4478200&gt;" label="&lt;Element subparagraph at 0x7f00d4478200&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468c20&gt;" label="&lt;Element paragraph at 0x7f00d4468c20&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468cb0&gt;" label="&lt;Element paragraph at 0x7f00d4468cb0&gt;" />
+      <node id="&lt;Element section at 0x7f00d4450c68&gt;" label="&lt;Element section at 0x7f00d4450c68&gt;" />
+      <node id="&lt;Element part at 0x7f00d4450cb0&gt;" label="&lt;Element part at 0x7f00d4450cb0&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d4450cf8&gt;" label="&lt;Element subsection at 0x7f00d4450cf8&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d4450d40&gt;" label="&lt;Element subsection at 0x7f00d4450d40&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468fc8&gt;" label="&lt;Element paragraph at 0x7f00d4468fc8&gt;" />
+      <node id="&lt;Element subitem at 0x7f00d4468d88&gt;" label="&lt;Element subitem at 0x7f00d4468d88&gt;" />
+      <node id="&lt;Element subitem at 0x7f00d4468cf8&gt;" label="&lt;Element subitem at 0x7f00d4468cf8&gt;" />
+      <node id="&lt;Element subitem at 0x7f00d4468dd0&gt;" label="&lt;Element subitem at 0x7f00d4468dd0&gt;" />
+      <node id="&lt;Element subitem at 0x7f00d4468e18&gt;" label="&lt;Element subitem at 0x7f00d4468e18&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4450ea8&gt;" label="&lt;Element paragraph at 0x7f00d4450ea8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4450ef0&gt;" label="&lt;Element paragraph at 0x7f00d4450ef0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4450f38&gt;" label="&lt;Element paragraph at 0x7f00d4450f38&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4450f80&gt;" label="&lt;Element paragraph at 0x7f00d4450f80&gt;" />
+      <node id="&lt;Element subitem at 0x7f00d4468d40&gt;" label="&lt;Element subitem at 0x7f00d4468d40&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4450fc8&gt;" label="&lt;Element paragraph at 0x7f00d4450fc8&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d050&gt;" label="&lt;Element section at 0x7f00d445d050&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d098&gt;" label="&lt;Element section at 0x7f00d445d098&gt;" />
+      <node id="&lt;Element part at 0x7f00d4450d88&gt;" label="&lt;Element part at 0x7f00d4450d88&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d128&gt;" label="&lt;Element section at 0x7f00d445d128&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d4468830&gt;" label="&lt;Element subsection at 0x7f00d4468830&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d170&gt;" label="&lt;Element section at 0x7f00d445d170&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d1b8&gt;" label="&lt;Element paragraph at 0x7f00d445d1b8&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d200&gt;" label="&lt;Element section at 0x7f00d445d200&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d248&gt;" label="&lt;Element section at 0x7f00d445d248&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d290&gt;" label="&lt;Element paragraph at 0x7f00d445d290&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d2d8&gt;" label="&lt;Element section at 0x7f00d445d2d8&gt;" />
+      <node id="&lt;Element part at 0x7f00d4450dd0&gt;" label="&lt;Element part at 0x7f00d4450dd0&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d320&gt;" label="&lt;Element section at 0x7f00d445d320&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d368&gt;" label="&lt;Element section at 0x7f00d445d368&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d3b0&gt;" label="&lt;Element section at 0x7f00d445d3b0&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d3f8&gt;" label="&lt;Element section at 0x7f00d445d3f8&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d440&gt;" label="&lt;Element subsection at 0x7f00d445d440&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4478368&gt;" label="&lt;Element clause at 0x7f00d4478368&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d488&gt;" label="&lt;Element subsection at 0x7f00d445d488&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d4d0&gt;" label="&lt;Element subsection at 0x7f00d445d4d0&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d518&gt;" label="&lt;Element subsection at 0x7f00d445d518&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d560&gt;" label="&lt;Element subsection at 0x7f00d445d560&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d5a8&gt;" label="&lt;Element subsection at 0x7f00d445d5a8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d5f0&gt;" label="&lt;Element paragraph at 0x7f00d445d5f0&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d638&gt;" label="&lt;Element subsection at 0x7f00d445d638&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d680&gt;" label="&lt;Element paragraph at 0x7f00d445d680&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d6c8&gt;" label="&lt;Element paragraph at 0x7f00d445d6c8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d710&gt;" label="&lt;Element paragraph at 0x7f00d445d710&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d758&gt;" label="&lt;Element paragraph at 0x7f00d445d758&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d7a0&gt;" label="&lt;Element subsection at 0x7f00d445d7a0&gt;" />
+      <node id="&lt;Element clause at 0x7f00d44783f8&gt;" label="&lt;Element clause at 0x7f00d44783f8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468ea8&gt;" label="&lt;Element paragraph at 0x7f00d4468ea8&gt;" />
+      <node id="&lt;Element section at 0x7f00d445d7e8&gt;" label="&lt;Element section at 0x7f00d445d7e8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d830&gt;" label="&lt;Element paragraph at 0x7f00d445d830&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d445d878&gt;" label="&lt;Element subparagraph at 0x7f00d445d878&gt;" />
+      <node id="&lt;Element subparagraph at 0x7f00d445d8c0&gt;" label="&lt;Element subparagraph at 0x7f00d445d8c0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d908&gt;" label="&lt;Element paragraph at 0x7f00d445d908&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d950&gt;" label="&lt;Element subsection at 0x7f00d445d950&gt;" />
+      <node id="&lt;Element clause at 0x7f00d4468998&gt;" label="&lt;Element clause at 0x7f00d4468998&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445d998&gt;" label="&lt;Element paragraph at 0x7f00d445d998&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445d9e0&gt;" label="&lt;Element subsection at 0x7f00d445d9e0&gt;" />
+      <node id="&lt;Element subsection at 0x7f00d445da28&gt;" label="&lt;Element subsection at 0x7f00d445da28&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445da70&gt;" label="&lt;Element paragraph at 0x7f00d445da70&gt;" />
+      <node id="&lt;Element section at 0x7f00d445dab8&gt;" label="&lt;Element section at 0x7f00d445dab8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445db00&gt;" label="&lt;Element paragraph at 0x7f00d445db00&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468f38&gt;" label="&lt;Element paragraph at 0x7f00d4468f38&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445db48&gt;" label="&lt;Element paragraph at 0x7f00d445db48&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445db90&gt;" label="&lt;Element paragraph at 0x7f00d445db90&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dbd8&gt;" label="&lt;Element paragraph at 0x7f00d445dbd8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dc20&gt;" label="&lt;Element paragraph at 0x7f00d445dc20&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dc68&gt;" label="&lt;Element paragraph at 0x7f00d445dc68&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dcb0&gt;" label="&lt;Element paragraph at 0x7f00d445dcb0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dcf8&gt;" label="&lt;Element paragraph at 0x7f00d445dcf8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d4468f80&gt;" label="&lt;Element paragraph at 0x7f00d4468f80&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dd40&gt;" label="&lt;Element paragraph at 0x7f00d445dd40&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dd88&gt;" label="&lt;Element paragraph at 0x7f00d445dd88&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445ddd0&gt;" label="&lt;Element paragraph at 0x7f00d445ddd0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445de18&gt;" label="&lt;Element paragraph at 0x7f00d445de18&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445de60&gt;" label="&lt;Element paragraph at 0x7f00d445de60&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dfc8&gt;" label="&lt;Element paragraph at 0x7f00d445dfc8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445dea8&gt;" label="&lt;Element paragraph at 0x7f00d445dea8&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445def0&gt;" label="&lt;Element paragraph at 0x7f00d445def0&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445df38&gt;" label="&lt;Element paragraph at 0x7f00d445df38&gt;" />
+      <node id="&lt;Element paragraph at 0x7f00d445df80&gt;" label="&lt;Element paragraph at 0x7f00d445df80&gt;" />
+      <node id="&lt;Element title at 0x7f00d4699fc8&gt;" label="&lt;Element title at 0x7f00d4699fc8&gt;" />
+    </nodes>
+    <edges>
+      <edge id="0" source="&lt;Element subclause at 0x7f00d4468ab8&gt;" target="&lt;Element item at 0x7f00d4468b48&gt;" />
+      <edge id="1" source="&lt;Element subclause at 0x7f00d4468ab8&gt;" target="&lt;Element clause at 0x7f00d44688c0&gt;" />
+      <edge id="2" source="&lt;Element subclause at 0x7f00d4468ab8&gt;" target="&lt;Element item at 0x7f00d4468bd8&gt;" />
+      <edge id="3" source="&lt;Element paragraph at 0x7f00d4468050&gt;" target="&lt;Element section at 0x7f00d445d368&gt;" />
+      <edge id="4" source="&lt;Element paragraph at 0x7f00d4468098&gt;" target="&lt;Element section at 0x7f00d445d368&gt;" />
+      <edge id="5" source="&lt;Element subparagraph at 0x7f00d44680e0&gt;" target="&lt;Element clause at 0x7f00d4468710&gt;" />
+      <edge id="6" source="&lt;Element subparagraph at 0x7f00d44680e0&gt;" target="&lt;Element clause at 0x7f00d4468758&gt;" />
+      <edge id="7" source="&lt;Element subparagraph at 0x7f00d44680e0&gt;" target="&lt;Element paragraph at 0x7f00d445dcf8&gt;" />
+      <edge id="8" source="&lt;Element section at 0x7f00d4468128&gt;" target="&lt;Element part at 0x7f00d4450dd0&gt;" />
+      <edge id="9" source="&lt;Element subsection at 0x7f00d44681b8&gt;" target="&lt;Element section at 0x7f00d445d7e8&gt;" />
+      <edge id="10" source="&lt;Element paragraph at 0x7f00d4478050&gt;" target="&lt;Element subparagraph at 0x7f00d4478200&gt;" />
+      <edge id="11" source="&lt;Element paragraph at 0x7f00d4478050&gt;" target="&lt;Element subparagraph at 0x7f00d44781b8&gt;" />
+      <edge id="12" source="&lt;Element paragraph at 0x7f00d4478050&gt;" target="&lt;Element section at 0x7f00d445d3f8&gt;" />
+      <edge id="13" source="&lt;Element subparagraph at 0x7f00d4468200&gt;" target="&lt;Element paragraph at 0x7f00d445dd40&gt;" />
+      <edge id="14" source="&lt;Element subparagraph at 0x7f00d4468248&gt;" target="&lt;Element paragraph at 0x7f00d445dd40&gt;" />
+      <edge id="15" source="&lt;Element subparagraph at 0x7f00d4468290&gt;" target="&lt;Element paragraph at 0x7f00d445dd88&gt;" />
+      <edge id="16" source="&lt;Element subparagraph at 0x7f00d4468290&gt;" target="&lt;Element clause at 0x7f00d4468440&gt;" />
+      <edge id="17" source="&lt;Element subparagraph at 0x7f00d4468290&gt;" target="&lt;Element clause at 0x7f00d4468368&gt;" />
+      <edge id="18" source="&lt;Element subparagraph at 0x7f00d44682d8&gt;" target="&lt;Element paragraph at 0x7f00d445dd88&gt;" />
+      <edge id="19" source="&lt;Element subparagraph at 0x7f00d4468320&gt;" target="&lt;Element paragraph at 0x7f00d445dd88&gt;" />
+      <edge id="20" source="&lt;Element clause at 0x7f00d4468368&gt;" target="&lt;Element subclause at 0x7f00d4468638&gt;" />
+      <edge id="21" source="&lt;Element clause at 0x7f00d4468368&gt;" target="&lt;Element subclause at 0x7f00d4468680&gt;" />
+      <edge id="22" source="&lt;Element clause at 0x7f00d4468368&gt;" target="&lt;Element subclause at 0x7f00d4468560&gt;" />
+      <edge id="23" source="&lt;Element clause at 0x7f00d4468368&gt;" target="&lt;Element subclause at 0x7f00d44685a8&gt;" />
+      <edge id="24" source="&lt;Element clause at 0x7f00d4468368&gt;" target="&lt;Element subclause at 0x7f00d44685f0&gt;" />
+      <edge id="25" source="&lt;Element paragraph at 0x7f00d4478098&gt;" target="&lt;Element section at 0x7f00d445d3f8&gt;" />
+      <edge id="26" source="&lt;Element subparagraph at 0x7f00d44683b0&gt;" target="&lt;Element paragraph at 0x7f00d445dcf8&gt;" />
+      <edge id="27" source="&lt;Element subparagraph at 0x7f00d44683f8&gt;" target="&lt;Element paragraph at 0x7f00d445def0&gt;" />
+      <edge id="28" source="&lt;Element subparagraph at 0x7f00d4468488&gt;" target="&lt;Element paragraph at 0x7f00d445df80&gt;" />
+      <edge id="29" source="&lt;Element subparagraph at 0x7f00d4468488&gt;" target="&lt;Element clause at 0x7f00d4468908&gt;" />
+      <edge id="30" source="&lt;Element subparagraph at 0x7f00d4468488&gt;" target="&lt;Element clause at 0x7f00d44688c0&gt;" />
+      <edge id="31" source="&lt;Element subparagraph at 0x7f00d4468488&gt;" target="&lt;Element clause at 0x7f00d4468950&gt;" />
+      <edge id="32" source="&lt;Element subparagraph at 0x7f00d4468488&gt;" target="&lt;Element clause at 0x7f00d4468998&gt;" />
+      <edge id="33" source="&lt;Element subsection at 0x7f00d44684d0&gt;" target="&lt;Element paragraph at 0x7f00d4468c68&gt;" />
+      <edge id="34" source="&lt;Element subsection at 0x7f00d44684d0&gt;" target="&lt;Element paragraph at 0x7f00d4468c20&gt;" />
+      <edge id="35" source="&lt;Element subsection at 0x7f00d44684d0&gt;" target="&lt;Element paragraph at 0x7f00d4468cb0&gt;" />
+      <edge id="36" source="&lt;Element subsection at 0x7f00d44684d0&gt;" target="&lt;Element paragraph at 0x7f00d44689e0&gt;" />
+      <edge id="37" source="&lt;Element subsection at 0x7f00d44684d0&gt;" target="&lt;Element section at 0x7f00d445d7e8&gt;" />
+      <edge id="38" source="&lt;Element subparagraph at 0x7f00d4468518&gt;" target="&lt;Element paragraph at 0x7f00d445def0&gt;" />
+      <edge id="39" source="&lt;Element subtitle at 0x7f00d44c1b90&gt;" target="&lt;Element section at 0x7f00d4450c68&gt;" />
+      <edge id="40" source="&lt;Element subtitle at 0x7f00d44c1b90&gt;" target="&lt;Element part at 0x7f00d4450cb0&gt;" />
+      <edge id="41" source="&lt;Element subtitle at 0x7f00d44c1b90&gt;" target="&lt;Element part at 0x7f00d4450d88&gt;" />
+      <edge id="42" source="&lt;Element subtitle at 0x7f00d44c1b90&gt;" target="&lt;Element section at 0x7f00d4450b90&gt;" />
+      <edge id="43" source="&lt;Element subtitle at 0x7f00d44c1b90&gt;" target="&lt;Element title at 0x7f00d4699fc8&gt;" />
+      <edge id="44" source="&lt;Element subtitle at 0x7f00d44c1b90&gt;" target="&lt;Element part at 0x7f00d4450dd0&gt;" />
+      <edge id="45" source="&lt;Element subclause at 0x7f00d4468b90&gt;" target="&lt;Element clause at 0x7f00d4468908&gt;" />
+      <edge id="46" source="&lt;Element paragraph at 0x7f00d44686c8&gt;" target="&lt;Element section at 0x7f00d445d3f8&gt;" />
+      <edge id="47" source="&lt;Element subparagraph at 0x7f00d44687a0&gt;" target="&lt;Element paragraph at 0x7f00d445df80&gt;" />
+      <edge id="48" source="&lt;Element subparagraph at 0x7f00d44687e8&gt;" target="&lt;Element paragraph at 0x7f00d445df80&gt;" />
+      <edge id="49" source="&lt;Element section at 0x7f00d4450830&gt;" target="&lt;Element subsection at 0x7f00d4450ab8&gt;" />
+      <edge id="50" source="&lt;Element section at 0x7f00d4450830&gt;" target="&lt;Element subsection at 0x7f00d4450d40&gt;" />
+      <edge id="51" source="&lt;Element section at 0x7f00d4450830&gt;" target="&lt;Element subtitle at 0x7f00d44c1758&gt;" />
+      <edge id="52" source="&lt;Element section at 0x7f00d4450830&gt;" target="&lt;Element subsection at 0x7f00d4450cf8&gt;" />
+      <edge id="53" source="&lt;Element paragraph at 0x7f00d4468878&gt;" target="&lt;Element section at 0x7f00d445d3f8&gt;" />
+      <edge id="54" source="&lt;Element clause at 0x7f00d44688c0&gt;" target="&lt;Element subclause at 0x7f00d4468a70&gt;" />
+      <edge id="55" source="&lt;Element clause at 0x7f00d4468908&gt;" target="&lt;Element subclause at 0x7f00d4468b00&gt;" />
+      <edge id="56" source="&lt;Element section at 0x7f00d4450998&gt;" target="&lt;Element subtitle at 0x7f00d44c1758&gt;" />
+      <edge id="57" source="&lt;Element subsection at 0x7f00d4468a28&gt;" target="&lt;Element section at 0x7f00d445d3b0&gt;" />
+      <edge id="58" source="&lt;Element subparagraph at 0x7f00d44781b8&gt;" target="&lt;Element clause at 0x7f00d44783b0&gt;" />
+      <edge id="59" source="&lt;Element subparagraph at 0x7f00d44781b8&gt;" target="&lt;Element clause at 0x7f00d4478368&gt;" />
+      <edge id="60" source="&lt;Element subparagraph at 0x7f00d44781b8&gt;" target="&lt;Element clause at 0x7f00d44783f8&gt;" />
+      <edge id="61" source="&lt;Element subsection at 0x7f00d4450ab8&gt;" target="&lt;Element paragraph at 0x7f00d4450f38&gt;" />
+      <edge id="62" source="&lt;Element subsection at 0x7f00d4450ab8&gt;" target="&lt;Element paragraph at 0x7f00d4450ea8&gt;" />
+      <edge id="63" source="&lt;Element subsection at 0x7f00d4450ab8&gt;" target="&lt;Element paragraph at 0x7f00d4450ef0&gt;" />
+      <edge id="64" source="&lt;Element item at 0x7f00d4468bd8&gt;" target="&lt;Element subitem at 0x7f00d4468e18&gt;" />
+      <edge id="65" source="&lt;Element item at 0x7f00d4468bd8&gt;" target="&lt;Element subitem at 0x7f00d4468cf8&gt;" />
+      <edge id="66" source="&lt;Element item at 0x7f00d4468bd8&gt;" target="&lt;Element subitem at 0x7f00d4468d40&gt;" />
+      <edge id="67" source="&lt;Element item at 0x7f00d4468bd8&gt;" target="&lt;Element subitem at 0x7f00d4468d88&gt;" />
+      <edge id="68" source="&lt;Element item at 0x7f00d4468bd8&gt;" target="&lt;Element subitem at 0x7f00d4468dd0&gt;" />
+      <edge id="69" source="&lt;Element subtitle at 0x7f00d44c1758&gt;" target="&lt;Element title at 0x7f00d4699fc8&gt;" />
+      <edge id="70" source="&lt;Element part at 0x7f00d4450cb0&gt;" target="&lt;Element section at 0x7f00d445d200&gt;" />
+      <edge id="71" source="&lt;Element part at 0x7f00d4450cb0&gt;" target="&lt;Element section at 0x7f00d445d248&gt;" />
+      <edge id="72" source="&lt;Element part at 0x7f00d4450cb0&gt;" target="&lt;Element section at 0x7f00d445d050&gt;" />
+      <edge id="73" source="&lt;Element part at 0x7f00d4450cb0&gt;" target="&lt;Element section at 0x7f00d445d098&gt;" />
+      <edge id="74" source="&lt;Element part at 0x7f00d4450cb0&gt;" target="&lt;Element section at 0x7f00d445d2d8&gt;" />
+      <edge id="75" source="&lt;Element part at 0x7f00d4450cb0&gt;" target="&lt;Element section at 0x7f00d445d320&gt;" />
+      <edge id="76" source="&lt;Element part at 0x7f00d4450cb0&gt;" target="&lt;Element section at 0x7f00d445d368&gt;" />
+      <edge id="77" source="&lt;Element subsection at 0x7f00d4450cf8&gt;" target="&lt;Element paragraph at 0x7f00d4450f80&gt;" />
+      <edge id="78" source="&lt;Element subsection at 0x7f00d4450cf8&gt;" target="&lt;Element paragraph at 0x7f00d445d1b8&gt;" />
+      <edge id="79" source="&lt;Element subsection at 0x7f00d4450cf8&gt;" target="&lt;Element paragraph at 0x7f00d4450fc8&gt;" />
+      <edge id="80" source="&lt;Element paragraph at 0x7f00d4468fc8&gt;" target="&lt;Element section at 0x7f00d445d3f8&gt;" />
+      <edge id="81" source="&lt;Element paragraph at 0x7f00d4450f38&gt;" target="&lt;Element section at 0x7f00d445d128&gt;" />
+      <edge id="82" source="&lt;Element paragraph at 0x7f00d4450f38&gt;" target="&lt;Element section at 0x7f00d445d170&gt;" />
+      <edge id="83" source="&lt;Element section at 0x7f00d445d098&gt;" target="&lt;Element paragraph at 0x7f00d445d830&gt;" />
+      <edge id="84" source="&lt;Element section at 0x7f00d445d098&gt;" target="&lt;Element paragraph at 0x7f00d445d758&gt;" />
+      <edge id="85" source="&lt;Element part at 0x7f00d4450d88&gt;" target="&lt;Element section at 0x7f00d445d3b0&gt;" />
+      <edge id="86" source="&lt;Element part at 0x7f00d4450d88&gt;" target="&lt;Element section at 0x7f00d445d7e8&gt;" />
+      <edge id="87" source="&lt;Element part at 0x7f00d4450d88&gt;" target="&lt;Element section at 0x7f00d445d3f8&gt;" />
+      <edge id="88" source="&lt;Element subsection at 0x7f00d4468830&gt;" target="&lt;Element paragraph at 0x7f00d4468ea8&gt;" />
+      <edge id="89" source="&lt;Element subsection at 0x7f00d4468830&gt;" target="&lt;Element section at 0x7f00d445d3b0&gt;" />
+      <edge id="90" source="&lt;Element subsection at 0x7f00d4468830&gt;" target="&lt;Element paragraph at 0x7f00d4468f38&gt;" />
+      <edge id="91" source="&lt;Element paragraph at 0x7f00d445d1b8&gt;" target="&lt;Element paragraph at 0x7f00d445d290&gt;" />
+      <edge id="92" source="&lt;Element section at 0x7f00d445d200&gt;" target="&lt;Element subsection at 0x7f00d445d7a0&gt;" />
+      <edge id="93" source="&lt;Element section at 0x7f00d445d200&gt;" target="&lt;Element subsection at 0x7f00d445d5a8&gt;" />
+      <edge id="94" source="&lt;Element section at 0x7f00d445d200&gt;" target="&lt;Element subsection at 0x7f00d445d560&gt;" />
+      <edge id="95" source="&lt;Element section at 0x7f00d445d200&gt;" target="&lt;Element subsection at 0x7f00d445d638&gt;" />
+      <edge id="96" source="&lt;Element section at 0x7f00d445d248&gt;" target="&lt;Element paragraph at 0x7f00d445d908&gt;" />
+      <edge id="97" source="&lt;Element section at 0x7f00d445d248&gt;" target="&lt;Element paragraph at 0x7f00d445d998&gt;" />
+      <edge id="98" source="&lt;Element section at 0x7f00d445d2d8&gt;" target="&lt;Element subsection at 0x7f00d445d488&gt;" />
+      <edge id="99" source="&lt;Element section at 0x7f00d445d2d8&gt;" target="&lt;Element subsection at 0x7f00d445d518&gt;" />
+      <edge id="100" source="&lt;Element section at 0x7f00d445d2d8&gt;" target="&lt;Element subsection at 0x7f00d445d4d0&gt;" />
+      <edge id="101" source="&lt;Element part at 0x7f00d4450dd0&gt;" target="&lt;Element section at 0x7f00d445dab8&gt;" />
+      <edge id="102" source="&lt;Element section at 0x7f00d445d320&gt;" target="&lt;Element subsection at 0x7f00d445da28&gt;" />
+      <edge id="103" source="&lt;Element section at 0x7f00d445d320&gt;" target="&lt;Element subsection at 0x7f00d445d440&gt;" />
+      <edge id="104" source="&lt;Element section at 0x7f00d445d320&gt;" target="&lt;Element subsection at 0x7f00d445d950&gt;" />
+      <edge id="105" source="&lt;Element section at 0x7f00d445d320&gt;" target="&lt;Element subsection at 0x7f00d445d9e0&gt;" />
+      <edge id="106" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445de18&gt;" />
+      <edge id="107" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445de60&gt;" />
+      <edge id="108" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445da70&gt;" />
+      <edge id="109" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445dea8&gt;" />
+      <edge id="110" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445dcf8&gt;" />
+      <edge id="111" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445db00&gt;" />
+      <edge id="112" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445df80&gt;" />
+      <edge id="113" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445df38&gt;" />
+      <edge id="114" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445dd40&gt;" />
+      <edge id="115" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445dd88&gt;" />
+      <edge id="116" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445db48&gt;" />
+      <edge id="117" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445def0&gt;" />
+      <edge id="118" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445dfc8&gt;" />
+      <edge id="119" source="&lt;Element section at 0x7f00d445d368&gt;" target="&lt;Element paragraph at 0x7f00d445ddd0&gt;" />
+      <edge id="120" source="&lt;Element section at 0x7f00d445d3f8&gt;" target="&lt;Element paragraph at 0x7f00d4468f80&gt;" />
+      <edge id="121" source="&lt;Element subsection at 0x7f00d445d4d0&gt;" target="&lt;Element paragraph at 0x7f00d445d680&gt;" />
+      <edge id="122" source="&lt;Element subsection at 0x7f00d445d4d0&gt;" target="&lt;Element paragraph at 0x7f00d445d710&gt;" />
+      <edge id="123" source="&lt;Element subsection at 0x7f00d445d4d0&gt;" target="&lt;Element paragraph at 0x7f00d445d6c8&gt;" />
+      <edge id="124" source="&lt;Element subsection at 0x7f00d445d4d0&gt;" target="&lt;Element paragraph at 0x7f00d445d5f0&gt;" />
+      <edge id="125" source="&lt;Element paragraph at 0x7f00d445d680&gt;" target="&lt;Element subparagraph at 0x7f00d445d8c0&gt;" />
+      <edge id="126" source="&lt;Element paragraph at 0x7f00d445d680&gt;" target="&lt;Element subparagraph at 0x7f00d445d878&gt;" />
+      <edge id="127" source="&lt;Element subsection at 0x7f00d445d9e0&gt;" target="&lt;Element paragraph at 0x7f00d445dc20&gt;" />
+      <edge id="128" source="&lt;Element subsection at 0x7f00d445d9e0&gt;" target="&lt;Element paragraph at 0x7f00d445dc68&gt;" />
+      <edge id="129" source="&lt;Element subsection at 0x7f00d445d9e0&gt;" target="&lt;Element paragraph at 0x7f00d445dcb0&gt;" />
+      <edge id="130" source="&lt;Element subsection at 0x7f00d445d9e0&gt;" target="&lt;Element paragraph at 0x7f00d445db90&gt;" />
+      <edge id="131" source="&lt;Element subsection at 0x7f00d445d9e0&gt;" target="&lt;Element paragraph at 0x7f00d445dbd8&gt;" />
+    </edges>
+  </graph>
+</gexf>
