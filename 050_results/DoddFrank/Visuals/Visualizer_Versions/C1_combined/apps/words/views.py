@@ -173,7 +173,7 @@ def words2html():
     # Local:
     #path = '/home/sabine/Dokumente/Git/RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
     # Pythonanywhere:
-    path = '/RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
+    path = 'RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
     preWords = []
     preClass = []
     for filename in os.listdir(path):
