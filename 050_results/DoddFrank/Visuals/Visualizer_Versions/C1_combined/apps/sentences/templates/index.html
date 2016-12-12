@@ -28,7 +28,7 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/auxiliar_features.js')}}"></script>
 </head>
 <body oncontextmenu="return false;">
-    
+
     <div class = "container">
         <div class = "row">
             <div class = "col-xs-1">
@@ -142,18 +142,6 @@
                 <div class = "buttons">
                     <ul>
                         <form>
-                            <input id= "A1" type="button" onclick="surroundSelection('A1')" value="Antecedent L1">
-                        </form>
-                        <form>
-                            <input id= "A2" type="button" onclick="surroundSelection('A2')" value="Antecedent L2">
-                        </form>
-                        <form>
-                            <input id= "A3" type="button" onclick="surroundSelection('A3')" value="Antecedent L3">
-                        </form>
-                        <form>
-                            <input id= "C" type="button" onclick="surroundSelection('C')" value="Consequent">
-                        </form>
-                        <form>
                             <input id= "T1" type="button" onclick="surroundSelection('T1')" value="Topic A">
                         </form>
                         <form>
@@ -163,10 +151,28 @@
                             <input id= "T3" type="button" onclick="surroundSelection('T3')" value="Topic A+C">
                         </form>
                         <form>
+                            <input id= "A1" type="button" onclick="surroundSelection('A1')" value="Antecedent T+E">
+                        </form>
+                        <form>
+                            <input id= "A3" type="button" onclick="surroundSelection('A3')" value="Antecedent A">
+                        </form>
+                        <form>
+                            <input id= "A4" type="button" onclick="surroundSelection('A4')" value="Antecedent A+O">
+                        </form>
+                        <form>
+                            <input id= "A2" type="button" onclick="surroundSelection('A2')" value="Antecedent C">
+                        </form> 
+                        <form>
+                            <input id= "C" type="button" onclick="surroundSelection('C')" value="Consequent">
+                        </form>
+                        <form>
                             <input id= "EL" type="button" onclick="surroundSelection('EL')" value="Left Equivalent">
                         </form>
                         <form>
                             <input id= "ER" type="button" onclick="surroundSelection('ER')" value="Right Equivalent">
+                        </form>
+                        <form>
+                            <input id= "E" type="button" onclick="surroundSelection('E')" value="Equal">
                         </form>
                     </ul>
                 </div>

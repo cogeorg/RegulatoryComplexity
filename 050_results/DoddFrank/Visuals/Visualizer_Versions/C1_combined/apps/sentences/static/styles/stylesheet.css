@@ -10,16 +10,20 @@
 
 
 span.A1 {
-    background-color:#a8fea8;
+    background-color:#47fc47;
    }
 
 span.A2 {
-    background-color:#47fc47;
+    background-color:#6bd8a2;
    }
 
 span.A3 {
     background-color:#03ca03;
    }
+
+span.A4 {
+   background-color:#a8fea8;
+  }
 
 span.C {
     background-color:#cc99ff;
@@ -45,21 +49,29 @@ span.ER {
     background-color:#c9e3e3;
 }
 
+span.E {
+    background-color:#a2a2a2;
+}
+
 span.H {
     font-weight:bold;
 }
 
 td.A1 {
-    background-color:#a8fea8;
-   }
+    background-color:#47fc47;
+}
 
 td.A2 {
-    background-color:#47fc47;
-   }
+    background-color:#6bd8a2;
+}
 
 td.A3 {
     background-color:#03ca03;
-   }
+}
+
+td.A4 {
+   background-color:#a8fea8;
+}
 
 td.C {
     background-color:#cc99ff;
@@ -84,6 +96,11 @@ td.EL {
 td.ER {
     background-color:#c9e3e3;
 }
+
+td.E {
+    background-color:#a2a2a2;
+}
+
 
 td.H {
     font-weight:bold;
