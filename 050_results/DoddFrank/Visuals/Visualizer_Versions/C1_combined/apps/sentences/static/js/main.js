@@ -28,10 +28,13 @@
     function load_html(line){
         $(document).ready( function() {
             $.get(line, function(res) {
-            // load html title
-            $("#result").html(res);
-            graphs()
-            loadCheckbox()
+                // load html title
+                $("#result").html(res);
+                graphs( function(){
+                    loadCheckbox( function(){
+                        localSave();
+                    });
+                });
             });
         });
     }
@@ -71,16 +74,16 @@ function surroundSelection(type) {
     span.oncontextmenu = function (ev) {
         this.parentNode.insertBefore(document.createTextNode(this.innerText), this);
         this.parentNode.removeChild(this);
-        saveCheckbox( function(){
+        localSave( function(){
             graphs( function(){
-                loadCheckbox();
+                localLoad();
             });
         });
     }
     selection.insertNode(span);
-    saveCheckbox( function(){
+    localSave( function(){
         graphs( function(){
-            loadCheckbox();
+            localLoad();
         });
     });
 
@@ -91,9 +94,9 @@ function removeHighlight() {
     var selectedText = document.createTextNode( selection.toString() );
     selection.deleteContents();
     selection.insertNode(selectedText);
-    saveCheckbox( function(){
+    localSave( function(){
         graphs( function(){
-            loadCheckbox();
+            localLoad();
         });
     });
 }
@@ -297,4 +300,36 @@ function loadCheckbox (callback){
             }
         }
     });
+}
+
+function localSave(callback){
+    inputs = document.getElementsByTagName('input');
+    for(var i = 0; i < inputs.length; i++) {
+        var inputId = inputs[i].getAttribute('id')
+        if (inputId != null && inputId.startsWith('check')){
+            var checkbox = document.getElementById(inputId);
+            sessionStorage.setItem(inputId, checkbox.checked);
+        }
+    }
+    if (callback) {
+        callback();
+    }
+}
+
+function localLoad(callback){
+    inputs = document.getElementsByTagName('input');
+    for(var i = 0; i < inputs.length; i++) {
+        var inputId = inputs[i].getAttribute('id')
+        if (inputId != null && inputId.startsWith('check')){
+            var checked = JSON.parse(sessionStorage.getItem(inputId));
+            var box = document.getElementById(inputId)
+            box.checked = checked;
+            if (box.checked) {
+                box.setAttribute("checked", "checked");
+            }
+        }
+    }
+    if (callback) {
+        callback();
+    }
 }
