@@ -205,17 +205,17 @@ def main(argv):
                         if item == '<div class = "amended">':
                             amended = 1
                         else:
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                     else:
                         if (item.startswith('</div>')) and (len(item) > 6):
                             item = item.replace('</div>', '"')
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                             amended += -1
                         elif item == '</div>':
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                         else:
                             item = re.sub(r'(<div class = "ex.+?">)', r'\1"', item)
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
 
 
         # sentence-parts version:
@@ -228,22 +228,22 @@ def main(argv):
                     if amended == 0:
                         if item.startswith('<div class = "ex5">'):
                             item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'\1<span class = "H">\2</span>', item)
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                         elif (item.startswith('<div class = "ex6">')) or (item.startswith('<div class = "ex7">')) or (item.startswith('<div class = "ex8">')) or (item.startswith('<div class = "ex9">')) or (item.startswith('<div class = "ex10">')) or (item.startswith('<div class = "ex11">')):
                             item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'<br />\1<span class = "H">\2</span>', item)
                             item = re.sub(r'<div class = "ex.+?">', '', item)
                             bullets += 1
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                         elif item =='</div>':
                             if bullets > 0:
                                 bullets += -1
                             else:
-                                g.write(item.encode('utf-8') + "\n")
+                                g.write(item + "\n")
                         elif item =='<div class = "amended">':
                             amended += 1
                         else:
                             item = re.sub('--', '', item)
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                     else:
                         if item.startswith(r'<div class'):
                             item = re.sub(r'<div class = "ex.+?">', '', item)
@@ -252,19 +252,19 @@ def main(argv):
                             if (item.startswith('SEC')):
                                 item = '<br />' + '"' + item
                                 item = re.sub('--', '', item)
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                         elif item =='</div>':
                             if bullets > 0:
                                 bullets += -1
                             else:
-                                g.write(item.encode('utf-8') + "\n")
+                                g.write(item + "\n")
                         elif (item.startswith('</div>')) and (len(item) > 6):
                             item = item.replace('</div>', '"')
-                            g.write(item.encode('utf-8') + "\n")
+                            g.write(item + "\n")
                             amended += -1
                         else:
                             item = re.sub('--', '', item)
-                            g.write('"' + item.encode('utf-8') + "\n")
+                            g.write('"' + item + "\n")
 
 
 def read_txt_files(file):

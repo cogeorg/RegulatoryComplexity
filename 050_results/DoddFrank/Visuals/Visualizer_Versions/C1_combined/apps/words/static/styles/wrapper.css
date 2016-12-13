@@ -10,7 +10,7 @@
     height:100px;
     right: 0;
     background-color: #ffffff;
-    top: 120px;
+    top: 145px;
     font-size:12px;
 }
 
@@ -19,7 +19,7 @@
     width: 152px;
     right: 0;
     background-color: #ffffff;
-    top: 120px;
+    top: 145px;
     padding-left: 5px;
     font-size:12px;
     border: 1px solid black;
@@ -52,7 +52,7 @@
     right: 0;
     overflow-y: scroll;
     background-color: #ffffff;
-    top: 235px;
+    top: 255px;
     font-size:12px;
 }
 
@@ -63,7 +63,7 @@
     right: 0;
     overflow-y: scroll;
     background-color: #ffffff;
-    top: 235px;
+    top: 255px;
     padding-left: 5px;
     font-size:12px;
     border: 1px solid black;

@@ -11,7 +11,6 @@ import json
 import csv
 import pandas
 
-
 app = Flask(__name__)
 app.secret_key = os.urandom(12)
 
@@ -186,7 +185,7 @@ def words2html():
                     line = line.strip(',')
                     line = line.strip('.')
                     line = line.strip('`')
-                    line = unicode(line, errors='replace')
+                    #line = unicode(line, errors='replace')
                     preWords.append(line)
                     preClass.append(wordClass)
 

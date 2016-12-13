@@ -85,9 +85,9 @@ body {
 .buttons ul {
     list-style-type: none;
     right:0;
-    bottom:0px;
+    top: 100px;
     width: 192px;
-    height: 62px;
+    height: 40px;
     position: fixed;
     background-color: #ffffff;
 }

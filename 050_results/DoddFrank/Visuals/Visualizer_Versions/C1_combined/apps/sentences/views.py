@@ -178,7 +178,7 @@ def html2python():
 
     # Pythonanywhere:
     f = open("RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/" + username + "/" + titleName + ".html", "w")
-    f.write(data.encode('utf-8'))
+    f.write(data)
     f.close()
     return render_template('index.html', username = user_name )
 

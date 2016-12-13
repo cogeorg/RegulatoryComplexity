@@ -5,5 +5,8 @@ response = requests.get('https://www.congress.gov/111/bills/hr4173/BILLS-111hr41
 
 xml = response.content
 
+udata=xml.decode("utf-8")
+asciidata=udata.encode("ascii","ignore")
+
 with open('DFA.xml','w') as f:
-    f.write(xml)
+    f.write(asciidata)
