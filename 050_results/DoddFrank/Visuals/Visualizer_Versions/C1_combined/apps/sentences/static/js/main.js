@@ -9,12 +9,20 @@
             count =-1;
      });
 
-     $("#mySidenav a").click(function(){
-            auxiliar = $(this).attr("id");
-            $("#mySidenav a").removeClass('selected');
+     /*$("#mySidenav option").click(function(){
+            auxiliar = $(this).attr("value");
+            $("#mySidenav option").removeClass('selected');
             $(this).addClass('selected');
             load_html(auxiliar);
             count =-1;
+     });*/
+
+     $('select.group').change(function(e){
+         // this function runs when a user selects an option from a <select> element
+         selected = $("select.balck option:selected").attr('value');
+         auxiliar = $("#" + selected + " option:selected").attr('value');
+         load_html(auxiliar);
+         count =-1;
      });
 
     function load_html(line){
@@ -37,7 +45,7 @@ function save() {
     var newFile = document.getElementById("result").innerHTML;
     var newFileString = newFile.toString();
 
-    var titleName = $("#mySidenav a.selected").attr("id");
+    var titleName = $("select.group option:selected").attr('value');
     var paramData = {file: newFileString, user_name: user_name, title: titleName};
     $.ajax({
         type : "POST",
@@ -227,7 +235,7 @@ function graphs(callback){
 
 function saveCheckbox (callback) {
     var userName = $( "p:first" ).text();
-    var titleName = $("#mySidenav a.selected").attr("id");
+    var titleName = $("select.group option:selected").attr('value');
     // find all inputs
     inputs = document.getElementsByTagName('input');
     inputIds = [];
@@ -266,7 +274,7 @@ function saveCheckbox (callback) {
 /* ******************************************* */
 function loadCheckbox (callback){
     var userName = $( "p:first" ).text();
-    var titleName = $("#mySidenav a.selected").attr("id");
+    var titleName = $("select.group option:selected").attr('value');
     var paramData = {userName:  userName, titleName: titleName}
     $.ajax({
         type : "POST",

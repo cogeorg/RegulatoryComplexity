@@ -63,14 +63,6 @@
 }
 
 
-.content-wrapper-instr {
-    width: 100%;
-    background-color: #fff;
-    overflow-y: scroll;
-    height:100vh;
-}
-
-
 #result{
     font-size: 14px;
 }

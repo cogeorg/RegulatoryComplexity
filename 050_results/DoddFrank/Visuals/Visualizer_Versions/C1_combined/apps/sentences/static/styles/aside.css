@@ -10,7 +10,7 @@ body {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: #000;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 10px;
@@ -27,7 +27,7 @@ body {
 }
 
 .sidenav p {
-    padding: 8px 8px 8px 32px;
+    padding: 8px 8px 8px 20px;
     text-decoration: none;
     font-size: 10px;
     color: #ffffff;
@@ -54,26 +54,23 @@ body {
 .nav-tabs {
     width: inherit;
     position: fixed;
-}
-
-.nav-tabs ul {
     list-style-type: none;
-    width: inherit;
-    right:0;
-    top:0;
-    height: 62px;
+    left:0;
+    bottom:0;
+    height: 60px;
     position: fixed;
     background-color: #ffffff;
     padding-left:0;
 }
 
-.nav-tabs ul form {
+.nav-tabs form {
     display: block;
     margin-top: 0em;
-    margin-bottom: 0em;
+    height: 30px;
+    /*margin-bottom: 0em;*/
 }
 
-.nav-tabs ul form button {
+.nav-tabs form button {
           font-family: "Roboto", sans-serif;
           text-transform: uppercase;
           outline: 0;
@@ -89,23 +86,17 @@ body {
         }
 
 .buttons {
-    width: inherit;
     position: fixed;
-}
-
-.buttons ul {
     list-style-type: none;
     width: inherit;
-    right:0;
-    top:170px;
+    left:0;
+    top:140px;
     position: fixed;
     background-color: #ffffff;
     padding-left:0;
 }
 
-
-
-.buttons ul form input {
+.buttons form input {
       font-family: "Roboto", sans-serif;
       text-transform: uppercase;
       outline: 0;
@@ -162,21 +153,17 @@ body {
 }
 
 .save {
-    width: inherit;
     position: fixed;
-}
-
-.save ul {
     list-style-type: none;
     width: inherit;
-    right:0;
-    bottom:0px;
+    left:0;
+    top:490px;
     position: fixed;
     background-color: #ffffff;
     padding-left:0;
 }
 
-.save ul form input {
+.save form input {
       font-family: "Roboto", sans-serif;
       text-transform: uppercase;
       outline: 0;
@@ -195,7 +182,4 @@ body {
 
 #Remove {
     background-color: #ffffff;
-    border: 1px;
-    border-color: #000000;
-    border-style: solid;
 }
