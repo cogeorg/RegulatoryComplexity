@@ -119,7 +119,7 @@ function graphs(callback){
         }
         // generate placeholder for paragraphs
         else {
-            $("#graph").append('<div class = "table" id="'+ id + '"></div>')
+            $("#graph").append('<div class = "table-listing" id="'+ id + '"></div>')
             id += 1
         }
     }
@@ -134,10 +134,14 @@ function graphs(callback){
         var regex = /<sp.*?<\/span>/g
         if (regex.test(parHtml) == true){
             // build table
-            $("#" + String(i)).append('<div id="myDynamicTable' + String(i) + '"></div>');
+            $("#" + String(i)).append('<div class="table-scrollable" id="myDynamicTable' + String(i) + '"></div>');
             var myTableDiv = document.getElementById("myDynamicTable" + String(i));
             var table = document.createElement('TABLE');
             table.border='1';
+            table.setAttribute('class', "table");
+            table.setAttribute('data-count-fixed-columns', "2");
+            table.setAttribute('cellpadding', "0");
+            table.setAttribute('cellspacing', "0");
             var tableBody = document.createElement('TBODY');
             table.appendChild(tableBody);
             // find all spans
@@ -209,15 +213,19 @@ function graphs(callback){
             var header = table.createTHead();
             var row = header.insertRow(0);
             var cell1 = row.insertCell(0);
-            cell1.innerHTML = "Part";
+            cell1.outerHTML = "<th>Part</th>"
             var cell2 = row.insertCell(1);
-            cell2.innerHTML = "ID";
+            cell2.outerHTML = "<th>ID</th>"
             for (l = 0; l < a; l++){
                 var cell = row.insertCell(2+l)
-                cell.innerHTML = l+1
+                var z = l+1
+                cell.outerHTML = "<th>" + z + "</th>"
             }
             myTableDiv.appendChild(table);
         }
+        $(function(){
+            app_handle_listing_horisontal_scroll($('#'+i))
+        })
     }
     // set checkboxes to "checked"
     $("input").on("change", function(){
@@ -232,6 +240,87 @@ function graphs(callback){
         callback();
     }
 }
+
+/* Function for table layout*/
+/* ******************************************* */
+function app_handle_listing_horisontal_scroll(listing_obj)
+{
+  //get table object
+  table_obj = $('.table',listing_obj);
+
+  //get count fixed collumns params
+  count_fixed_collumns = table_obj.attr('data-count-fixed-columns')
+
+  if(count_fixed_collumns>0)
+  {
+    //get wrapper object
+    wrapper_obj = $('.table-scrollable',listing_obj);
+
+    wrapper_left_margin = 0;
+
+    table_collumns_width = new Array();
+    table_collumns_margin = new Array();
+
+    //calculate wrapper margin and fixed column width
+    $('th',table_obj).each(function(index){
+       if(index<count_fixed_collumns)
+       {
+         wrapper_left_margin += $(this).outerWidth();
+         table_collumns_width[index] = $(this).outerWidth();
+       }
+    })
+
+    //calcualte margin for each column
+    $.each( table_collumns_width, function( key, value ) {
+      if(key==0)
+      {
+        table_collumns_margin[key] = wrapper_left_margin;
+      }
+      else
+      {
+        next_margin = 0;
+        $.each( table_collumns_width, function( key_next, value_next ) {
+          if(key_next<key)
+          {
+            next_margin += value_next;
+          }
+        });
+
+        table_collumns_margin[key] = wrapper_left_margin-next_margin;
+      }
+    });
+
+    //set wrapper margin
+    if(wrapper_left_margin>0)
+    {
+      wrapper_obj.css('cssText','margin-left:'+wrapper_left_margin+'px !important; width: auto')
+    }
+
+    //set position for fixed columns
+    $('tr',table_obj).each(function(){
+
+      //get current row height
+      current_row_height = $(this).height();
+
+      $('th,td',$(this)).each(function(index){
+
+         //set row height for all cells
+         $(this).css('height',current_row_height)
+
+         //set position
+         if(index<count_fixed_collumns)
+         {
+           $(this).css('position','absolute')
+                  .css('margin-left','-'+table_collumns_margin[index]+'px')
+                  .css('width',table_collumns_width[index])
+
+           $(this).addClass('table-fixed-cell')
+         }
+      })
+    })
+  }
+}
+
 
 /* Save checkboxes */
 /* ******************************************* */

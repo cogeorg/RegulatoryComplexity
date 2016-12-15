@@ -185,7 +185,6 @@ def words2html():
                     line = line.strip(',')
                     line = line.strip('.')
                     line = line.strip('`')
-                    #line = unicode(line, errors='replace')
                     preWords.append(line)
                     preClass.append(wordClass)
 

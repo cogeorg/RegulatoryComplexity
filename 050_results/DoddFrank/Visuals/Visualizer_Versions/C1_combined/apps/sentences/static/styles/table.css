@@ -1,0 +1,20 @@
+.table-listing{
+  width: inherit;
+}
+.table-scrollable {
+    width: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+/*.table th{
+  white-space:nowrap;
+}*/
+.table td{
+  vertical-align:top;
+  border-bottom: 1px solid #ddd;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 2px;
+}
