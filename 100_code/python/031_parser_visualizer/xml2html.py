@@ -11,9 +11,12 @@ def main(argv):
     html = ""
     elTail = ""
     c = 1
-    flag = 0
+    textFlag = 0
+    headerFlag = 0
+    termFlag = 0
     dfa = {}
     for action, elem in context:
+        #print action, "|", elem.tag, "|", elem.text, "|", elem.tail
         if action == "start":
             if elem.tag == "title":
                 html = ""
@@ -56,20 +59,24 @@ def main(argv):
                          if elem.text != None:
                              html += elem.text.strip() + ' '
                          else:
-                             flag = 1
+                             textFlag = 1
                 except:
                     if elem.text != None:
                         html += elem.text.strip() + ' '
                     else:
-                        flag = 1
+                        textFlag = 1
             elif elem.tag == "header":
                 if elem.text != None:
                     html += elem.text.strip() + '.-- '
+                else:
+                    headerFlag = 1
             elif elem.tag == "term":
                 if elem.text != None:
                     html += '"' + elem.text.strip() + '" '
-                if elem.tail != None:
-                    html += elem.tail.strip() + ' '
+                    if elem.tail != None:
+                        html += elem.tail.strip() + ' '
+                else:
+                    termFlag = 1
             elif elem.tag == "quote":
                 if elem.text != None:
                     html += '"' + elem.text.strip() + '" '
@@ -109,11 +116,27 @@ def main(argv):
                     html += '" ' + elTail
                     elTail = ""
             elif elem.tag == "text":
-                if (flag == 1) & (elem.text != None):
+                if (textFlag == 1) & (elem.text != None):
                     html += elem.text.strip() + ' '
-                    flag = 0
-                elif (flag == 1) & (elem.text == None):
-                    flag = 0
+                    textFlag = 0
+                elif (textFlag == 1) & (elem.text == None):
+                    textFlag = 0
+            elif elem.tag == "term":
+                if (termFlag == 1) & (elem.text != None):
+                    html += '"' + elem.text.strip() + '" '
+                    if elem.tail != None:
+                        html += elem.tail.strip() + ' '
+                    termFlag = 0
+                elif (termFlag == 1) & (elem.text == None):
+                    termFlag = 0
+            elif elem.tag == "header":
+                if (headerFlag == 1) & (elem.text != None):
+                    html += '"' + elem.text.strip() + '" '
+                    if elem.tail != None:
+                        html += elem.tail.strip() + ' '
+                    headerFlag = 0
+                elif (headerFlag == 1) & (elem.text == None):
+                    headerFlag = 0
             else:
                 continue
 

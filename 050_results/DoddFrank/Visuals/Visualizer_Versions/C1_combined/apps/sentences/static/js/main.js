@@ -223,9 +223,9 @@ function graphs(callback){
             }
             myTableDiv.appendChild(table);
         }
-        $(function(){
+        /*$(function(){
             app_handle_listing_horisontal_scroll($('#'+i))
-        })
+        })*/
     }
     // set checkboxes to "checked"
     $("input").on("change", function(){
