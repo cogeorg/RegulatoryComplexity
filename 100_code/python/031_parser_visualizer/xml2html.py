@@ -85,6 +85,11 @@ def main(argv):
                     html += elem.text.strip() + ' '
                 if elem.tail != None:
                     html += elem.tail.strip() + ' '
+            elif (elem.tag == "short-title"):
+                if elem.text != None:
+                    html += elem.text.strip()
+                if elem.tail != None:
+                    html += elem.tail.strip() + ' '
             else:
                 continue
 
