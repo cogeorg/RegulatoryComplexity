@@ -4,7 +4,11 @@ may	VERB	MD	aux
 be	VERB	VB	auxpass	
 cited	VERB	VBN	ROOT	
 as	ADP	IN	prep	
-the	DET	DT	pobj	
+the	DET	DT	det	
+Pay	NOUN	NN	nn	
+It	PRON	PRP	nn	
+Back	ADV	RB	nn	
+Act	NOUN	NNP	pobj	
 .	.	.	punct	
 Section	NOUN	NN	nsubj	
 115	NUM	CD	num	

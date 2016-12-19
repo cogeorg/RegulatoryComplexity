@@ -30,7 +30,7 @@
             $.get(line, function(res) {
                 // load html title
                 $("#result").html(res);
-                graphs( function(){
+                graphs(null, function(){
                     loadCheckbox( function(){
                         localSave();
                     });
@@ -68,6 +68,7 @@ function save() {
 function surroundSelection(type) {
     var selection = window.getSelection().getRangeAt(0);
     var selectedText = selection.extractContents();
+    var parent = selection.commonAncestorContainer.parentNode;
     var span = document.createElement("span");
     span.setAttribute("class",type)
     span.appendChild(selectedText);
@@ -75,14 +76,14 @@ function surroundSelection(type) {
         this.parentNode.insertBefore(document.createTextNode(this.innerText), this);
         this.parentNode.removeChild(this);
         localSave( function(){
-            graphs( function(){
+            graphs(parent, function(){
                 localLoad();
             });
         });
     }
     selection.insertNode(span);
     localSave( function(){
-        graphs( function(){
+        graphs(parent, function(){
             localLoad();
         });
     });
@@ -103,47 +104,33 @@ function removeHighlight() {
 
 /* Function to create the graphs (tables)*/
 /* ******************************************* */
-function graphs(callback){
-    var html = document.getElementById('result').innerHTML
-    // extract title name
-    var title = /(TITLE\s.*?\.)/g.exec(html)[1]
-    $("#graph").html('<div class = "ex1">' + title + '</div>')
-    // extract sections and corresponding paragraphs
-    var pattern = /(SEC\.\s[0-9].+?\.\s[A-Z].*?\.) | (class="ex5")/g
-    pattern.lastIndex = 0;
-    id = 0
-    while (section = pattern.exec(html)){
-        // paste section name
-        if (String(section[1]).startsWith('SEC.') == true){
-            $("#graph").append('<div class = "ex4">' + section[1] + '</div>')
-        }
-        // generate placeholder for paragraphs
-        else {
-            $("#graph").append('<div class = "table-listing" id="'+ id + '"></div>')
-            id += 1
-        }
-    }
-    // extract paragraphs and build table
-    var paragraphs = document.getElementsByClassName('ex5')
-    for(var i = 0; i < paragraphs.length; i++) {
-        // extract HTML
-        var parHtml = paragraphs[i].innerHTML
+function graphs(paragraph, callback){
+    // builds table only of specified paragraph, i.e. the paragraph the user is working on
+    if (paragraph != null){
+        var parHtml = paragraph.innerHTML
         var el = document.createElement('html');
         el.innerHTML = parHtml
+        var number = paragraph.getAttribute('id')
+        var i = number.match(/\d/g);
         // extract spans
         var regex = /<sp.*?<\/span>/g
         if (regex.test(parHtml) == true){
             // build table
-            $("#" + String(i)).append('<div class="table-scrollable" id="myDynamicTable' + String(i) + '"></div>');
             var myTableDiv = document.getElementById("myDynamicTable" + String(i));
-            var table = document.createElement('TABLE');
-            table.border='1';
-            table.setAttribute('class', "table");
-            table.setAttribute('data-count-fixed-columns', "2");
-            table.setAttribute('cellpadding', "0");
-            table.setAttribute('cellspacing', "0");
-            var tableBody = document.createElement('TBODY');
-            table.appendChild(tableBody);
+            myTableDiv.innerHTML = '';
+
+            // +++ Set up 2 Tables +++
+            var table1 = document.createElement('TABLE');
+            table1.border='1';
+            table1.setAttribute('class', "table1");
+            var table1Body = document.createElement('TBODY');
+            table1.appendChild(table1Body);
+            var table2 = document.createElement('TABLE');
+            table2.border='1';
+            var table2Body = document.createElement('TBODY');
+            table2.appendChild(table2Body);
+
+            // +++ First Table with Span and ID +++
             // find all spans
             var allSpans = el.getElementsByTagName('span');
             // find all clean spans
@@ -164,7 +151,7 @@ function graphs(callback){
                 var spanText = spans[j].innerText
                 // build table
                 var tr = document.createElement('TR');
-                tableBody.appendChild(tr);
+                table1Body.appendChild(tr);
                 // first row with parts of sentences
                 var k = 0
                 var td = document.createElement('TD');
@@ -177,7 +164,23 @@ function graphs(callback){
                 td.appendChild(document.createTextNode(a+1));
                 tr.appendChild(td);
                 var a = a + 1
+
+                // new line with header
+                if (spanText.endsWith('.') || spanText.endsWith('. ') || spanText.endsWith(':') || spanText.endsWith(': ')) {
+                    var tr = document.createElement('TR');
+                    table1Body.appendChild(tr);
+                    var td = document.createElement('TD');
+                    td.appendChild(document.createTextNode('Part'));
+                    tr.appendChild(td);
+                    var td = document.createElement('TD');
+                    td.appendChild(document.createTextNode('ID'));
+                    tr.appendChild(td);
+                }
+
+                // +++ Second Table with Checkboxes +++
                 // remaining rows with checkboxes
+                var tr = document.createElement('TR');
+                table2Body.appendChild(tr);
                 for (var k = 2; k < spans.length+2; k++){
                     var td = document.createElement('TD');
                     if (k < a+1) {
@@ -192,16 +195,10 @@ function graphs(callback){
                         tr.appendChild(td);
                     }
                 }
+                // new line with header
                 if (spanText.endsWith('.') || spanText.endsWith('. ') || spanText.endsWith(':') || spanText.endsWith(': ')) {
-                    // new line with header
                     var tr = document.createElement('TR');
-                    tableBody.appendChild(tr);
-                    var td = document.createElement('TD');
-                    td.appendChild(document.createTextNode('Part'));
-                    tr.appendChild(td);
-                    var td = document.createElement('TD');
-                    td.appendChild(document.createTextNode('ID'));
-                    tr.appendChild(td);
+                    table2Body.appendChild(tr);
                     for (var k = 1; k < spans.length+1; k++){
                         var td = document.createElement('TD');
                         td.appendChild(document.createTextNode(k));
@@ -209,35 +206,214 @@ function graphs(callback){
                     }
                 }
             }
+
             // create table header
-            var header = table.createTHead();
-            var row = header.insertRow(0);
+            var header1 = table1.createTHead();
+            var row = header1.insertRow(0);
             var cell1 = row.insertCell(0);
             cell1.outerHTML = "<th>Part</th>"
             var cell2 = row.insertCell(1);
             cell2.outerHTML = "<th>ID</th>"
+            var header2 = table2.createTHead();
+            var row = header2.insertRow(0);
             for (l = 0; l < a; l++){
-                var cell = row.insertCell(2+l)
+                var cell = row.insertCell(l)
                 var z = l+1
                 cell.outerHTML = "<th>" + z + "</th>"
             }
-            myTableDiv.appendChild(table);
+            myTableDiv.appendChild(table1);
+            var div = document.createElement("div");
+            div.setAttribute('class', 'table2')
+            div.appendChild(table2);
+            $("#myDynamicTable" + String(i)).append(div)
         }
-        /*$(function(){
-            app_handle_listing_horisontal_scroll($('#'+i))
-        })*/
-    }
-    // set checkboxes to "checked"
-    $("input").on("change", function(){
-        if (this.checked) {
-            this.setAttribute("checked", "checked");
-        } else {
-            this.removeAttribute("checked");
-        }
-    });
+        // set checkboxes to "checked"
+        $("input").on("change", function(){
+            if (this.checked) {
+                this.setAttribute("checked", "checked");
+            } else {
+                this.removeAttribute("checked");
+            }
+        });
 
-    if (callback) {
-        callback();
+        // row hight
+        $('.table1 tr').each(function(i,el) {
+        var hgt = $(this).height();
+        $('.table1 tr').eq(i).height(hgt+2);
+        $('.table2 tr').eq(i).height(hgt+2);
+        });
+
+
+        if (callback) {
+            callback();
+        }
+    } else { //builds all tables
+        var html = document.getElementById('result').innerHTML
+        // extract title name
+        var title = /(TITLE\s.*?\.)/g.exec(html)[1]
+        $("#graph").html('<div class = "ex1">' + title + '</div>')
+        // extract sections and corresponding paragraphs
+        var pattern = /(SEC\.\s[0-9].+?\.\s[A-Z].*?\.) | (class="ex5")/g
+        pattern.lastIndex = 0;
+        id = 0
+        while (section = pattern.exec(html)){
+            // paste section name
+            if (String(section[1]).startsWith('SEC.') == true){
+                $("#graph").append('<div class = "ex4">' + section[1] + '</div>')
+            }
+            // generate placeholder for paragraphs
+            else {
+                $("#graph").append('<div class = "table-listing" id="'+ id + '"></div>')
+                id += 1
+            }
+        }
+        // extract paragraphs and build table
+        var paragraphs = document.getElementsByClassName('ex5')
+        for(var i = 0; i < paragraphs.length; i++) {
+            // extract HTML
+            paragraphs[i].setAttribute('id', 'par' + i)
+            var parHtml = paragraphs[i].innerHTML
+            var el = document.createElement('html');
+            el.innerHTML = parHtml
+            // extract spans
+            var regex = /<sp.*?<\/span>/g
+            if (regex.test(parHtml) == true){
+                // build table
+                $("#" + String(i)).append('<div id="myDynamicTable' + String(i) + '"></div>');
+                var myTableDiv = document.getElementById("myDynamicTable" + String(i));
+
+                // +++ Set up 2 Tables +++
+                var table1 = document.createElement('TABLE');
+                table1.border='1';
+                table1.setAttribute('class', "table1");
+                var table1Body = document.createElement('TBODY');
+                table1.appendChild(table1Body);
+                var table2 = document.createElement('TABLE');
+                table2.border='1';
+                var table2Body = document.createElement('TBODY');
+                table2.appendChild(table2Body);
+
+                // +++ First Table with Span and ID +++
+                // find all spans
+                var allSpans = el.getElementsByTagName('span');
+                // find all clean spans
+                spans = []
+                for(var j = 0; j < allSpans.length; j++) {
+                    var spanClass = allSpans[j].className
+                    var spanText = allSpans[j].innerText
+                    // no headlines an no empty spans allowed
+                    if (spanClass != 'H' && spanText != ""){
+                        spans.push(allSpans[j])
+                    }
+                }
+                // counter for ID
+                var a = 0;
+                // loop over all spans to build table
+                for(var j = 0; j < spans.length; j++) {
+                    var spanClass = spans[j].className
+                    var spanText = spans[j].innerText
+                    // build table
+                    var tr = document.createElement('TR');
+                    table1Body.appendChild(tr);
+                    // first row with parts of sentences
+                    var k = 0
+                    var td = document.createElement('TD');
+                    td.appendChild(document.createTextNode(spanText));
+                    td.setAttribute('class', spanClass)
+                    tr.appendChild(td);
+                    // second row with ID
+                    var k = 1
+                    var td = document.createElement('TD');
+                    td.appendChild(document.createTextNode(a+1));
+                    tr.appendChild(td);
+                    var a = a + 1
+
+                    // new line with header
+                    if (spanText.endsWith('.') || spanText.endsWith('. ') || spanText.endsWith(':') || spanText.endsWith(': ')) {
+                        var tr = document.createElement('TR');
+                        table1Body.appendChild(tr);
+                        var td = document.createElement('TD');
+                        td.appendChild(document.createTextNode('Part'));
+                        tr.appendChild(td);
+                        var td = document.createElement('TD');
+                        td.appendChild(document.createTextNode('ID'));
+                        tr.appendChild(td);
+                    }
+
+                    // +++ Second Table with Checkboxes +++
+                    // remaining rows with checkboxes
+                    var tr = document.createElement('TR');
+                    table2Body.appendChild(tr);
+                    for (var k = 2; k < spans.length+2; k++){
+                        var td = document.createElement('TD');
+                        if (k < a+1) {
+                            var checkbox = document.createElement('input');
+                            checkbox.setAttribute('id', 'check-' + i + '-' + String(j) + '-' + String(k-2))
+                            checkbox.type = "checkbox";
+                            td.appendChild(checkbox);
+                            tr.appendChild(td);
+                        }
+                        else{
+                            td.appendChild(document.createTextNode(''));
+                            tr.appendChild(td);
+                        }
+                    }
+                    // new line with header
+                    if (spanText.endsWith('.') || spanText.endsWith('. ') || spanText.endsWith(':') || spanText.endsWith(': ')) {
+                        var tr = document.createElement('TR');
+                        table2Body.appendChild(tr);
+                        for (var k = 1; k < spans.length+1; k++){
+                            var td = document.createElement('TD');
+                            td.appendChild(document.createTextNode(k));
+                            tr.appendChild(td);
+                        }
+                    }
+                }
+
+                // create table header
+                var header1 = table1.createTHead();
+                var row = header1.insertRow(0);
+                var cell1 = row.insertCell(0);
+                cell1.outerHTML = "<th>Part</th>"
+                var cell2 = row.insertCell(1);
+                cell2.outerHTML = "<th>ID</th>"
+                var header2 = table2.createTHead();
+                var row = header2.insertRow(0);
+                for (l = 0; l < a; l++){
+                    var cell = row.insertCell(l)
+                    var z = l+1
+                    cell.outerHTML = "<th>" + z + "</th>"
+                }
+                myTableDiv.appendChild(table1);
+                var div = document.createElement("div");
+                div.setAttribute('class', 'table2')
+                div.appendChild(table2);
+                $("#myDynamicTable" + String(i)).append(div)
+            }
+            /*$(function(){
+                app_handle_listing_horisontal_scroll($('#'+i))
+            })*/
+        }
+        // set checkboxes to "checked"
+        $("input").on("change", function(){
+            if (this.checked) {
+                this.setAttribute("checked", "checked");
+            } else {
+                this.removeAttribute("checked");
+            }
+        });
+
+        // row hight
+        $('.table1 tr').each(function(i,el) {
+        var hgt = $(this).height();
+        $('.table1 tr').eq(i).height(hgt+2);
+        $('.table2 tr').eq(i).height(hgt+2);
+        });
+
+
+        if (callback) {
+            callback();
+        }
     }
 }
 
