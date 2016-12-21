@@ -1,12 +1,14 @@
 import re
 import argparse
-
+import lxml.etree as etree
 
 
 def main(argv):
-    argv.input
     with open (argv.input, "r") as myfile:
         data_xml = myfile.read()
+    data_xml = data_xml.replace("\t", "")
+    data_xml = data_xml.replace("\n", " ")
+    data_xml = re.sub( '\s+', ' ', data_xml ).strip()
 
     # Regex first part of the Legal reference
     # For instance: The Farm Credit, The Federal Advisory Comitee, The Clayton
@@ -72,7 +74,7 @@ def main(argv):
                 # For instance: the Federal Home Loan Bank Act.
                 if flag and aux == ref_aux[0]:
                    mylist = re.findall(reg + aux, data_xml)
-                   #Make a list of unique elements 
+                   #Make a list of unique elements
                    mylist = list(set(mylist))
                    legal_references = legal_references + mylist
                    flag = False
@@ -82,9 +84,20 @@ def main(argv):
                 mylist = list(set(mylist))
                 legal_references = legal_references + mylist
 
+    # short titles from parse
+    parse = etree.parse(argv.input)
+    for action, elem in etree.iterwalk(parse):
+        if elem.tag == 'short-title':
+            ref = elem.text.strip()
+            ref = ref.replace("\t", "")
+            ref = ref.replace("\n", " ")
+            ref = re.sub( '\s+', ' ', ref ).strip()
+            if ref not in legal_references:
+                legal_references.append(ref)
+
     #Sort and export
     legal_references = sorted(legal_references)
-    file = open(argv.output + "legal_references.txt", 'w')
+    file = open(argv.output + "LegalReferences.txt", 'w')
     for item in legal_references:
         file.write("%s\n"%item)
 

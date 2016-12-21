@@ -48,6 +48,9 @@ def main(argv):
     argv.input
     with open (argv.input, "r") as myfile:
         data_xml = myfile.read()
+    data_xml = data_xml.replace("\t", "")
+    data_xml = data_xml.replace("\n", " ")
+    data_xml = re.sub( '\s+', ' ', data_xml ).strip()
 
     legal_references = []
 
@@ -256,7 +259,7 @@ def main(argv):
 
      #Sort and export
     legal_references = sorted(legal_references)
-    file = open(argv.output + "legal_references_extra.txt", 'w')
+    file = open(argv.output + "LegalReferences_extra.txt", 'w')
     for item in legal_references:
         file.write("%s\n"%item)
 
