@@ -1,366 +1,403 @@
-Bankruptcy Code
-Board
-Bureau
-Bureau investigation
-Bureau investigator
-Chairperson
-Commission
-Comptroller
-Council
-Data Center
-Director
-District of Columbia savings and loan association
-Federal Employee Retirement Program
-Federal Reserve System Retirement Plan
-Federal Reserve System Thrift Plan
-Federal Reserve System transferred employee
-Federal agency
-Federal assistance
-Federal banking agencies
-Federal banking agency
-Federal consumer financial law
-Federal credit union
-Federal financial regulatory agency
-Federal regulatory agency
-Federal supervisory agency
-Fund
-HUD- approved counseling agency
-NAIC
-NASAA
-Nationwide Mortgage Licensing System and Registry
-Non- Admitted Insurance Model Act
-Office
-Office of Financial Research
-Research and Analysis Center
-SIPC
-Secretary
-Securities Act of 1933
-Securities Exchange Act of 1934
-State
-State consumer financial law
-State housing finance agency
-State insurance measure
-State insurance regulator
-State of domicile
-State securities or law enforcement authority
-Supervisory Agency
-U.S. nonbank financial company
-United States insurer
-account
-accredited investor
-actual direct compensatory damages
-adjoining country
-administrative expenses of the receiver
-admitted insurer
-affected employee
-affiliate
-affiliated group
-agency
-agency administrator
-anti-deficiency law
-applicable individual
-appraisal management company
-appropriate Federal banking agency
-appropriate Federal regulator
-appropriate congressional committees
-appropriate financial regulator
-armed group
-assessment base
-asset-backed security
-associated person of a securities holding company
+consumer reporting agency that compiles and maintains files on consumers on a nationwide basis
+person associated with a security-based swap dealer or major security-based swap participant
 associated person of a security-based swap dealer or major security-based swap participant
+person that performs income tax preparation activities for consumers
+nonbank financial company supervised by the Board of Governors
+person regulated by the Commodity Futures Trading Commission
 associated person of a swap dealer or major swap participant
-audit
-audit report
-automated valuation model
-bank
-bank holding company
-bona fide discount points
-bridge financial company
-broker
-broker price opinion
-business day
-business of insurance
-case-by-case basis
-ceding insurer
-certified or licensed appraiser
-claim
-cleared swap
-clearing organization
-client
-coal or other mine
-commercial risk
-commodity broker
-commodity contract
-commodity pool
-commodity pool operator
-commodity trading advisor
-community development financial institution
-company
-compensation
-conflict mineral
-consumer
-consumer financial product or service
-consumer financial protection functions
-consumer protection regulation
-control
-controlled company
-covered agreement
-covered assistance
-covered broker or dealer
-covered employee
-covered entity
-covered financial company
-covered financial institution
-covered judicial or administrative action
-covered person
-covered subsidiary
-covered transaction
-credit
-credit card bank
-credit exposure
-credit facility
-custodian
-customer
-customer name securities
-customer name security
-customer property
-customer property and member property
-debit card
-default
-deposit-taking activity
-depository institution
-depository institution holding company
-derivative transaction
-designated activity
-designated automated teller machine network
-designated clearing entity
-designated financial market utility
-designated recipient
-designated transfer date
-discount
-documentary material
-domiciliary State
-electronic conduit services
-electronic debit transaction
-eligible contract participant
-eligible entity
-eligible financial company
-emergency
-enumerated consumer laws
-exchange facilitator
-exempt commercial purchaser
-existing retirement plan
-fair lending
-family office
-federally insured depository institution
-fee appraiser
-filing date
-financial activities
-financial company
-financial contract
-financial entity
-financial institution
-financial instrument
-financial market utility
-financial product
-financial transaction
-financial transaction data
-flood insurance
-floor broker
-floor trader
-force-placed insurance
-foreign auditor oversight authority
-foreign bank
-foreign exchange
-foreign exchange forward
-foreign exchange swap
-foreign government
-foreign law enforcement authority
-foreign nonbank financial company
-foreign private adviser
-forward contract
-functionally regulated subsidiary
-futures commission merchant
-generally applicable leverage capital requirements
-generally applicable risk-based capital requirements
+substantially equivalent to the level of protection achieved
+commercial development of oil, natural gas, or minerals
 grandfathered unitary savings and loan holding company
-guaranteed investment contract
-hazard insurance
-hedge fund
-high-cost mortgage
-higher-risk mortgage
-home State
-homeownership counseling
-hybrid adjustable rate mortgage
-implementation expenses
-in danger of default
-includes
-including
-independence
+solicitation of a municipal entity or obligated person
+nationally recognized statistical rating organization
+generally applicable risk-based capital requirements
+generally applicable leverage capital requirements
+person regulated by the Farm Credit Administration
+nonbank financial company supervised by the Board
+associated person of a securities holding company
+Nationwide Mortgage Licensing System and Registry
+person regulated by a State insurance regulator
+State securities or law enforcement authority
+designated automated teller machine network
+Federal Reserve System transferred employee
+community development financial institution
+person associated with a municipal advisor
+covered judicial or administrative action
+payment, clearing, or settlement activity
+federally insured depository institution
+consumer financial protection functions
+noninterest-bearing transaction account
+administrative expenses of the receiver
+smaller insured depository institution
+depository institution holding company
+Federal Reserve System Retirement Plan
+security-based swap execution facility
+records of a covered financial company
+supervised securities holding company
+significant nonbank financial company
+consumer financial product or service
+major security-based swap participant
+customer property and member property
+appropriate congressional committees
+standard maximum cash advance amount
+lead insured depository institution
+foreign auditor oversight authority
+primary financial regulatory agency
+Federal Employee Retirement Program
+security-based swap data repository
+Federal financial regulatory agency
+designated financial market utility
+misleading or fraudulent marketing
+Federal Reserve System Thrift Plan
+person regulated by the Commission
+appropriate Federal banking agency
+actual direct compensatory damages
+under the control of armed groups
+foreign nonbank financial company
+foreign law enforcement authority
+derivatives clearing organization
+functionally regulated subsidiary
+savings and loan holding company
+unit of general local government
+significant bank holding company
+transmitting or exchanging funds
+Non-Admitted Insurance Model Act
 independently procured insurance
-industrial bank
-insolvent
+certified or licensed appraiser
+hybrid adjustable rate mortgage
+Securities Exchange Act of 1934
 institution of higher education
-insufficiency
-insurance company
-insured bank
-insured credit union
+appropriate financial regulator
+HUD-approved counseling agency
+U.S. nonbank financial company
+guaranteed investment contract
+qualified residential mortgage
 insured depository institution
-insurer
-interactive data format
-interactive data standard
-interchange transaction fee
+Federal depository institution
+consumer protection regulation
+Federal consumer financial law
 internal financial activities
 interstate merger transaction
-introducing broker
-investment adviser
-investment strategies
-issuer
-joint resolution
-lead insured depository institution
-liabilities
-liquidity event
-major security-based swap participant
-major swap participant
-manufactured home
-material loss
-member agency
-minority
-minority-owned business
-misleading designation
-misleading or fraudulent marketing
-modular home
-monetary sanctions
-mortgage originator
-motor vehicle
-motor vehicle dealer
-multifamily properties
-municipal advisor
-municipal entity
-municipal financial product
-national bank
-net equity
-network fee
-non-United States insurer
-nonadmitted insurance
-nonadmitted insurer
-nonbank financial company
-nonbank financial company supervised by the Board
-nonbank financial company supervised by the Board of Governors
-noninterest-bearing transaction account
-nonprofit organization
-obligated person
-off-balance-sheet activities
-operator
-original information
-originator
-paying agent
-payment
-payment card network
-payment instrument
-payment, clearing, or settlement activity
-person
-person associated with a municipal advisor
-person associated with a security- based swap dealer or major security-based swap participant
-person associated with a security-based swap dealer or major security-based swap participant
-person regulated by a State insurance regulator
-person regulated by the Commission
-person regulated by the Commodity Futures Trading Commission
-person regulated by the Farm Credit Administration
-person that performs income tax preparation activities for consumers
-points and fees
-position data
-private education loan
-private equity fund
-private fund
-privilege
-property
-proprietary trading
-prudential regulator
-purchase
-qualified mortgage
-qualified residential mortgage
-qualified risk manager
-real-time public reporting
-records
-records of a covered financial company
-reinsurance
-reinsurer
-related action
-remittance transfer
-remittance transfer provider
-repurchase agreement
-residential mortgage loan
-resource extraction issuer
-retail customer
-rules of the Board
-sale
-savings and loan holding company
-savings and loan institution
-savings association
-section 1256 contract
-securities contract
-securities fraud offense
-securities holding company
-securities laws
-securitizer
-security-based swap
-security-based swap agreement
-security-based swap data repository
-security-based swap dealer
-security-based swap execution facility
-self- regulatory organization
-sender
-senior
-service member
-service provider
-servicer
-short-term debt
-significant bank holding company
-significant nonbank financial company
-small business
-small business concern
-small business loan
-smaller insured depository institution
-solicitation of a municipal entity or obligated person
-solvent
-source of financial strength
-special entity
+covered financial institution
+appropriate Federal regulator
 specified plan or arrangement
-stable value contract
-standard maximum cash advance amount
-stockbroker
-stored value
+security-based swap agreement
+eligible contract participant
+source of financial strength
+appraisal management company
+State housing finance agency
+off-balance-sheet activities
+Research and Analysis Center
+Office of Financial Research
+self-regulatory organization
+State depository institution
+savings and loan institution
+electronic debit transaction
+remittance transfer provider
+State consumer financial law
+financial product or service
+qualified financial contract
+municipal financial product
+Federal savings association
+interchange transaction fee
+electronic conduit services
+futures commission merchant
+exempt commercial purchaser
+resource extraction issuer
+securities holding company
+financial transaction data
 structured finance product
-subsidiary
-substantial position
-substantially equivalent to the level of protection achieved
-successful resolution
-supervised securities holding company
-surplus lines broker
-swap
-swap agreement
-swap data repository
-swap dealer
+real-time public reporting
+security-based swap dealer
+eligible financial company
+designated clearing entity
+interactive data standard
+automated valuation model
+rental housing counseling
+bona fide discount points
+residential mortgage loan
+State savings association
+small dollar loan program
+commodity trading advisor
+Federal regulatory agency
+State insurance regulator
+non-United States insurer
+nonbank financial company
+covered financial company
+homeownership counseling
+average prime offer rate
+Federal banking agencies
+securities fraud offense
+enumerated consumer laws
+designated transfer date
+foreign exchange forward
+existing retirement plan
+customer name securities
+covered broker or dealer
+bridge financial company
+financial market utility
+interactive data format
+national nonmember bank
+deposit-taking activity
 swap execution facility
-swaps entity
-systemic importance
+commodity pool operator
+minority-owned business
+State insurance measure
+implementation expenses
+foreign private adviser
+derivative transaction
+multifamily properties
+force-placed insurance
+nonprofit organization
+Securities Act of 1933
+misleading designation
+professional standards
+depository institution
+private education loan
+Federal banking agency
+small business concern
+major swap participant
+qualified risk manager
+customer name security
 systemically important
-trading account
-transfer
-transfer date
-transferor agencies
-transferor agency
-transferred employee
-transmitting or exchanging funds
-trust bank
-under the control of armed groups
-unit of general local government
-valuation
-value
-venture capital fund
-violation
-whistleblower
-women's business
+applicable individual
+investment strategies
+asset-backed security
+business of insurance
+section 1256 contract
+successful resolution
+foreign exchange swap
+stable value contract
+nonadmitted insurance
+United States insurer
+clearing organization
+financial transaction
+financial institution
+broker price opinion
+higher-risk mortgage
+financial instrument
+financial activities
+State nonmember bank
+national member bank
+bank holding company
+prudential standards
+Federal credit union
+exchange facilitator
+payment card network
+designated recipient
+documentary material
+Bureau investigation
+motor vehicle dealer
+insured credit union
+original information
+swap data repository
+prudential regulator
+substantial position
 women-owned business
+agency administrator
+transferred employee
+surplus lines broker
+in danger of default
+repurchase agreement
+venture capital fund
+private equity fund
+anti-deficiency law
+mortgage originator
+proprietary trading
+savings association
+covered transaction
+transferor agencies
+remittance transfer
+small business loan
+Bureau investigator
+security-based swap
+nonadmitted insurer
+securities contract
+accredited investor
+systemic importance
+designated activity
+foreign government
+coal or other mine
+covered assistance
+high-cost mortgage
+qualified mortgage
+fully indexed rate
+financial contract
+rules of the Board
+controlled company
+investment company
+Board of Governors
+case-by-case basis
+payment instrument
+monetary sanctions
+introducing broker
+Federal assistance
+commodity contract
+covered subsidiary
+investment adviser
+Supervisory Agency
+adjoining country
+financial product
+municipal advisor
+State member bank
+transferor agency
+manufactured home
+affected employee
+domiciliary State
+State of domicile
+covered agreement
+customer property
+insurance company
+financial company
+conflict mineral
+credit card bank
+hazard insurance
+obligated person
+municipal entity
+joint resolution
+covered employee
+service provider
+foreign exchange
+financial entity
+women's business
+affiliated group
+admitted insurer
+commodity broker
+forward contract
+trading account
+industrial bank
+flood insurance
+points and fees
+short-term debt
+credit exposure
+retail customer
+securities laws
+liquidity event
+credit facility
+eligible entity
+commercial risk
+assessment base
+walkaway clause
+Bankruptcy Code
+banking entity
+covered entity
+insured branch
+board of trade
+antitrust laws
+Federal agency
+small business
+service member
+related person
+covered person
+related action
+special entity
+commodity pool
+ceding insurer
+swap agreement
+illiquid fund
+fee appraiser
+position data
+member agency
+material loss
+national bank
+motor vehicle
+whistleblower
+transfer date
+insufficiency
+family office
+insured bank
+audit report
+independence
+paying agent
+foreign bank
+credit union
+modular home
+stored value
+fair lending
+floor trader
+floor broker
+cleared swap
+swaps entity
+compensation
+business day
+private fund
+armed group
+liabilities
+stress test
+Data Center
+Chairperson
+securitizer
+Corporation
+network fee
+credit card
+swap dealer
+Comptroller
+reinsurance
+premium tax
+stockbroker
+filing date
+hedge fund
+trust bank
+originator
+State bank
+Commission
+subsidiary
+debit card
+home State
+net equity
+valuation
+emergency
+privilege
+including
+violation
+custodian
+Secretary
+reinsurer
+affiliate
+insolvent
+operator
+servicer
+security
+includes
+discount
+Director
+consumer
+purchase
+minority
+property
+customer
+transfer
+payment
+deposit
+control
+Council
+solvent
+account
+insurer
+records
+default
+insider
+company
+senior
+dealer
+broker
+issuer
+sender
+credit
+Bureau
+agency
+Office
+person
+NASAA
+index
+Board
+State
+value
+Court
+claim
+bank
+sale
+swap
+NAIC
+SIPC
+Fund

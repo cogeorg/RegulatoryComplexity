@@ -2,6 +2,10 @@ from flask import request, jsonify, redirect, url_for,flash,  render_template, r
 from views import app
 
 
+@app.route('/title_0_Y')
+def title_0_Y():
+    return render_template('PreClass/title_0.html')
+
 @app.route('/title_1_Y')
 def title_1_Y():
     return render_template('PreClass/title_1.html')
@@ -68,7 +72,9 @@ def title_16_Y():
 
 
 
-
+@app.route('/title_0')
+def title_0():
+    return render_template('Original/title_0.html')
 
 @app.route('/title_1')
 def title_1():

@@ -10,14 +10,32 @@ def main(argv):
     # make a stream out of it
     html = ""
     elTail = ""
-    c = 1
+    c = 0
     dfa = {}
     for action, elem in etree.iterwalk(parse, events=('start', 'end')):
         #print action, "|", elem.tag, "|", elem.text, "|", elem.tail
         if action == "start":
             if elem.tag == "title":
-                html = ""
-                html += '<div class = "ex1">' + 'TITLE '
+                if c == 0:
+                    html = ' '.join(html.split())
+                    head = """<!DOCTYPE html><html><head></head><body><div class = "ex1">TITLE 0."""
+                    tail = """</div></body></html>"""
+                    title = head + html + tail
+                    name = "title_" + str(c) + ".html"
+                    dfa[name] = title
+                    c += 1
+                    html = ""
+                    html += '<div class = "ex1">' + 'TITLE '
+                else:
+                    html = ' '.join(html.split())
+                    head = """<!DOCTYPE html><html><head></head><body>"""
+                    tail = """</body></html>"""
+                    title = head + html + tail
+                    name = "title_" + str(c) + ".html"
+                    dfa[name] = title
+                    c += 1
+                    html = ""
+                    html += '<div class = "ex1">' + 'TITLE '
             elif elem.tag == "subtitle":
                 html += '<div class = "ex2">' + 'SUBTITLE '
             elif elem.tag == "part":
@@ -66,7 +84,7 @@ def main(argv):
                     html += '"' + elem.text.strip() + '" '
                     if elem.tail != None:
                         html += elem.tail.strip() + ' '
-            elif elem.tag == "quote":
+            elif (elem.tag == "quote") and (elem.getparent().tag != "toc-entry") and (elem.getparent().tag != "official-title"):
                 if elem.text != None:
                     html += '"' + elem.text.strip() + '" '
                     if elem.tail != None:
@@ -94,16 +112,7 @@ def main(argv):
                 continue
 
         if action == "end":
-            if elem.tag == "title":
-                html += '</div>'
-                html = ' '.join(html.split())
-                head = """<!DOCTYPE html><html><head></head><body>"""
-                tail = """</body></html>"""
-                title = head + html + tail
-                name = "title_" + str(c) + ".html"
-                dfa[name] = title
-                c += 1
-            elif (elem.tag == "subtitle") or (elem.tag == "part") or (elem.tag == "section") or (elem.tag == "subsection") or (elem.tag == "paragraph") or (elem.tag == "subparagraph") or (elem.tag == "clause") or (elem.tag == "subclause") or (elem.tag == "item") or (elem.tag == "subitem"):
+            if (elem.tag == "title") or (elem.tag == "subtitle") or (elem.tag == "part") or (elem.tag == "section") or (elem.tag == "subsection") or (elem.tag == "paragraph") or (elem.tag == "subparagraph") or (elem.tag == "clause") or (elem.tag == "subclause") or (elem.tag == "item") or (elem.tag == "subitem"):
                 html += '</div>'
             elif elem.tag == "quote":
                 if elem.text == None:
@@ -142,7 +151,7 @@ def main(argv):
                     if (bullet == 0) and (amBullet == 0):
                         update.append("<" + part)
                     elif (bullet == 1) and (amBullet == 0):
-                        if (part.startswith('div class = "ex2"')) or (part.startswith('div class = "ex3"')) or (part.startswith('div class = "ex4"')):
+                        if (part.startswith('div class = "ex2"')) or (part.startswith('div class = "ex3"')) or (part.startswith('div class = "ex4"')) or (part.startswith('/body')):
                             if amended == 0:
                                 update.append('</div>')
                                 update.append("<" + part)

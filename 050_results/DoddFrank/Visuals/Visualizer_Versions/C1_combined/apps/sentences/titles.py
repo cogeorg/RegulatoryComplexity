@@ -7,7 +7,11 @@ import os
 cwd = os.getcwd()
 
 
-
+@app.route('/title_0')
+@login_required
+def title_0_Y():
+    username = current_user.username
+    return render_template("output/" + username + '/title_0.html')
 
 @app.route('/title_1')
 @login_required
@@ -107,7 +111,9 @@ def title_16_Y():
 
 
 
-
+@app.route('/title_0_O')
+def title_0():
+    return render_template('Original/title_0.html')
 
 @app.route('/title_1_O')
 def title_1():

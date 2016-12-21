@@ -116,6 +116,7 @@
                             hltr.find(" " + words[i] + ")", false);
                             hltr.find("(" + words[i] + " ", false);
                             hltr.find(" " + words[i] + "\n", false);
+                            hltr.find("\n" + words[i] + " ", false);
                             hltr.setReady(true);
                             i +=1;
                             });
@@ -154,6 +155,7 @@
                     hltr.find(" " + words[i] + ")", false);
                     hltr.find("(" + words[i] + " ", false);
                     hltr.find(" " + words[i] + "\n", false);
+                    hltr.find("\n" + words[i] + " ", false);
                     hltr.setReady(true);
                     i +=1;
                 });
@@ -315,6 +317,7 @@
                                             hltr.find(" " + words[i] + ")", false);
                                             hltr.find("(" + words[i] + " ", false);
                                             hltr.find(" " + words[i] + "\n", false);
+                                            hltr.find("\n" + words[i] + " ", false);
                                             hltr.setReady(true);
                                             i +=1;
                                             });
@@ -330,6 +333,7 @@
                                             hltr.find(" " + entry + ")", false);
                                             hltr.find("(" + entry + " ", false);
                                             hltr.find(" " + words[i] + "\n", false);
+                                            hltr.find("\n" + words[i] + " ", false);
                                             hltr.setReady(true);
                                             i +=1;
                                             });
