@@ -28,7 +28,7 @@ app.config['MAIL_USE_SSL'] = True
 # Local:
 #path = 'apps/words/'
 # Pythonanywhere
-path = 'RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/'
+path = 'RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/'
 
 # pre-classified data
 # Local:
@@ -40,7 +40,7 @@ pathProt = 'RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
 # Local:
 #engine = create_engine('sqlite:///' + path + 'static/users/users.db', echo=True)
 # Pythonanywhere
-engine = create_engine('sqlite:////home/' + path + 'static/users/users.db', echo=True)
+engine = create_engine('sqlite:////home/RegulatoryComplexity/' + path + 'static/users/users.db', echo=True)
 
 
 # Initialize the Mail object with the app

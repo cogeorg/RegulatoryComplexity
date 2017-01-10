@@ -28,14 +28,14 @@ app.config['MAIL_USE_SSL'] = True
 # Local:
 #path = 'apps/coherence/'
 # Pythonanywhere
-path = 'RegulatoryComplexity/RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/coherence/'
+path = 'RegulatoryComplexity/050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/coherence/'
 
 
 # Create the engine to use users.db
 # Local:
 #engine = create_engine('sqlite:///' + path + 'static/users/users.db', echo=True)
 # Pythonanywhere
-engine = create_engine('sqlite:////home/' + path + 'static/users/users.db', echo=True)
+engine = create_engine('sqlite:////home/RegulatoryComplexity/' + path + 'static/users/users.db', echo=True)
 
 
 # Initialize the Mail object with the app
@@ -95,7 +95,7 @@ def do_admin_signin():
         user = User(USERNAME,PASSWORD,EMAIl, AFILIATION, True)  # Add to the database
         s.add(user)
         s.commit()
-        with open(file, "w+") as f:              #Create a csv file for the list of words
+        with open(file, "w") as f:              #Create a csv file for the list of words
             pass
     return render_template("login.html", error = error)
 
