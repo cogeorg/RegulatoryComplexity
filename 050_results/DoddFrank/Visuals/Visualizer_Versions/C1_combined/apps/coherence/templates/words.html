@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Words</title>
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+    <!--Aside Stylesheet-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+</head>
+
+<body>
+
+    <div class = "container">
+        <div class = "row">
+            <div class = "col-xs-10">
+
+                <!-- Words classified -->
+                <div class="wrapper">
+                    <div class="content-wrapper-instr">
+
+                        <h1> Words Classified <span style="color: white;"> text fill text fill text fill text fill text fill text fill text fill</span></h1>
+
+                        <div class="words_2">
+                            <ul id= "words_2" class="ul_words_2"> </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class = "col-xs-2">
+
+                <!-- Right hand menu -->
+                <!-- Instructions and Logout -->
+                <div class="nav-tabs">
+                    <ul>
+                        <form  action="index">
+                            <input type=text  style="display: none;">
+                            <button>Back to classifying</button>
+                        </form>
+
+                        <form  action="instructions">
+                            <input type=text  style="display: none;">
+                            <button>Instructions</button>
+                        </form>
+
+                        <form  action="logout" >
+                            <input type=text style="display: none;">
+                            <button>Log out</button>
+                        </form>
+                    </ul>
+                </div>
+
+                <div class = "buttons">
+                    <ul>
+                        <form>
+                            <input id= "download" type="button" onclick="downloadWords()" value="Download all Words">
+                        </form>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+(function(){
+    var types = {{ types|tojson|safe}};
+    var words = {{ words|tojson|safe}};
+    var colors = {{ colors|tojson|safe}};
+
+
+    makeUL(words,types, colors);
+
+    // make word list of words classified by user
+    function makeUL(array, array2, array3) {
+
+        // Create the list element:
+        var list = document.getElementById('words_2');
+
+        for (var i = 0; i < array.length; i++) {
+            // Create the list item:
+            var item = document.createElement('li');
+            // Put the backgroud color
+            item.style.backgroundColor = array3[i];
+            item.className = "li_words_2";
+            // Set its contents text and type:
+            text = array[i] + ", " +  array2[i];
+            item.appendChild(document.createTextNode(text));
+
+            // Add it to the list Ul:
+            list.appendChild(item);
+        }
+        return list;
+    }
+
+})();
+
+function downloadWords(){
+    var paramData = []
+    $.ajax({
+        type : "POST",
+        url : '/words/_words2html',
+        data: JSON.stringify(paramData, null, '\t'),
+        contentType: 'application/json;charset=UTF-8',
+        success: function(data) {
+            var types = data.types;
+            var words = data.words;
+            var preWords = data.preWords;
+            var preClass = data.preClass;
+
+            var txt = 'Word\tClass\n';
+            // own words
+            for (var i = 0; i < words.length; i++) {
+                txt += words[i] + '\t' + types[i] + '\n'
+            }
+            for (var i = 0; i < preWords.length; i++) {
+                txt += preWords[i] + '\t' + preClass[i] + '\n'
+            }
+            var hiddenElement = document.createElement('a');
+            hiddenElement.href = 'data:text/csv;charset=utf-8,' + encodeURI(txt);
+            hiddenElement.target = '_blank';
+            hiddenElement.download = 'words.txt';
+            hiddenElement.click();
+        }
+    });
+}
+</script>
+
+<!-- BOOTSTRAP JAVASCRIPT FILES -->
+<!-- =========================================================================================== -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/js/bootstrap.min.js"></script>
+</html>

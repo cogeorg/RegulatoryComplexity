@@ -1,0 +1,163 @@
+<html>
+
+<head>
+    <title>Classify Sentence Parts</title>
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <!-- additional styles -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/login.css')}}" />
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- Navigation -->
+        <nav role="navigation" class="navbar navbar-inverse navbar-static-top">
+
+            <div class="container">
+
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <!-- Collection of nav links and other content for toggling -->
+                <div id="navbarCollapse" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="/"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+                        <li><a href="/words/">Classifiy Words</a></li>
+                        <li class = "active"><a href="/coherence/">Classifiy Terms</a></li>
+                        <li><a href="/about"><span class="glyphicon glyphicon-user"></span> About us</a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+
+        <!-- Login Page -->
+        <!-- 3 forms contained in this file: 1) Login, 2) Register and 3) Password -->
+        <!-- Send the request to views/method -->
+
+        <div class="login-page">
+            <div class="form">
+                <form id = "password" class="password-form"  action="recover" method="POST">
+                    <input type="text" placeholder="email" name="email" value="{{request.form.email }}"/>
+                    <button class="btn btn-success">Send user/password</button>
+                    <p class="message">Back to Sign in <a href="#" class= "signin" >Sign In</a></p>
+                </form>
+
+
+                <form id = "register" class="register-form"  action="register" method="POST">
+                    <input type="text" placeholder="username" name="username" value="{{request.form.username }}"/>
+                    <input type="password" placeholder="password" name="password" value="{{request.form.password }}"/>
+                    <input type="password" placeholder="confirm password" name="password2" value="{{request.form.password2}}"/>
+                    <input type="text" placeholder="email" name="email" value="{{request.form.email }}"/>
+                    <input type="text" placeholder="afiliation" name="afiliation" value="{{request.form.afiliation }}"/>
+                    <button class="btn btn-success">Create</button>
+                    <p class="message">Already registered? <a href="#" class= "signin" >Sign In</a></p>
+                </form>
+
+
+
+                <form id = "login" class="login-form"  action="login" method="POST">
+                    <input type="text" placeholder="username" name="username" value="{{request.form.username }}"/>
+                    <input type="password" placeholder="password" name="password" value="{{ request.form.password }}"/>
+                    <button class="btn btn-success">Sign In</button>
+                    <p class="message">Not registered? <a href="#" class= "create" >Create an account</a></p>
+                    <p class="message">Forgot your passoword? <a href="#" class= "password">Recover</a></p>
+                </form>
+
+            </div>
+            {% if error %}
+            <p id = "error_message" class="error">{{ error }}</p>
+            {% endif %}
+
+        </div>
+
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-4">
+                        <ul>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/words/">Classify Words</a></li>
+                            <li><a href="/coherence/">Classify Terms</a></li>
+                            <li><a href="/about">About us</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-4">
+                    <!--
+                    <ul>
+                    <address class="vcard">
+                    <div class="adr">
+                    <div class="org">University of Cape Town</div>
+                    <div class="street-address">Private Bag X1</div>
+                    <div class="locality">Rondebosch 7701</div>
+                    <div class="country-name">South Africa</div>
+                    </div>
+                    </address>
+                    <li>
+                    <a href="mailto:contact@central-places.net"><span class="glyphicon glyphicon-envelope"></span> contact@central-places.net</a>
+                    </li>
+                    </ul>
+                    -->
+                    </div>
+                    <div class="col-xs-4">
+                        <p>Last update: 2017-01-09</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<script>
+// Change form:
+// To Register form
+
+$('.message .create').click(function(){
+var error = document.getElementById("error_message");
+if (error != null){error.remove();}
+$(".password-form").hide();
+$(".login-form").hide();
+$('.register-form ').animate({height: "toggle", opacity: "toggle"}, "slow");
+});
+
+
+// To Login form
+$('.message .signin').click(function(){
+var error = document.getElementById("error_message");
+if (error != null){error.remove();}
+$(".password-form").hide();
+$(".register-form").hide();
+$('.login-form').animate({height: "toggle", opacity: "toggle"}, "slow");
+});
+
+// To Password
+$('.message .password').click(function(){
+var error = document.getElementById("error_message");
+if (error != null){error.remove();}
+$(".login-form").hide();
+$(".register-form").hide();
+$(".password-form").animate({height: "toggle", opacity: "toggle"}, "slow");
+});
+
+
+</script>
+
+<!-- BOOTSTRAP JAVASCRIPT FILES -->
+<!-- =========================================================================================== -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/js/bootstrap.min.js"></script>
+</body>
+
+</html>

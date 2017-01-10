@@ -7,7 +7,8 @@ import sys
 from werkzeug.wsgi import DispatcherMiddleware
 from apps import welcome
 from apps import words
-from apps import sentences
+#from apps import sentences
+from apps import coherence
 
 
 # add project directory to the sys.path
@@ -24,10 +25,10 @@ application.config.update(
 
 application.wsgi_app = DispatcherMiddleware(welcome, {
     '/words':           words,
-    '/sentenceparts':   sentences
+#    '/sentenceparts':   sentences,
+    '/coherence':       coherence
 })
 
 # run the application
 if __name__ == "__main__":
     application.run(debug = True)
-

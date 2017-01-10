@@ -1,0 +1,68 @@
+.container {
+    width: 100%
+}
+
+.wrapper {
+  width: 100%;
+  background-color: #fff;
+}
+
+
+.words {
+   position: fixed;
+  width: 230px;
+  height:800px;
+  right: 0;
+  overflow-y: scroll;
+  background-color: #ffffff;
+  top: 120px;
+    font-size:12px;
+}
+
+.ul_words {
+    position: fixed;
+  width: 150px;
+  height:100vh;
+  right: 0;
+  overflow-y: scroll;
+  background-color: #ffffff;
+  top: 120px;
+    font-size:12px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.li_words {
+    margin-top: 5px;
+    padding-left: 5px;
+    font-size: 15px;
+    display: inline;
+    float: left;
+    padding-right: 9px;
+    clear: both; color:
+}
+
+.li_words_2 {
+    margin-top: 5px;
+    padding-left: 5px;
+    font-size: 15px;
+    display: inline;
+    float: left;
+    padding-right: 9px;
+    clear: both; color:
+}
+
+#left{
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+#right{
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+
+#result{
+    font-size: 14px;
+}

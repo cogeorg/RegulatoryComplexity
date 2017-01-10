@@ -38,11 +38,11 @@
 
         <div class="row" id = "intro">
             <p>
-                In 2012, Andrew Haldane declared during his <a href = "http://www.bis.org/review/r120905a.pdf">The Dog and the Frisbee</a> speach at the Economic Policy Symposion - Jackson Hole that the type of complex regulation introduced over recent decades may not only be costly and cumbersome but also sub-optimal for crisis control. <!--The cost aspect was emphasized by the study <a href = "http://www.fedfin.com/images/stories/client_reports/Cost%20Implications%20of%20Post-Crisis%20Regulatory%20Reform.pdf">The Regulatory Price Tag: Cost Implications of Post-Crisis Regular Reform</a> conducted by Federal Financial Analytics, Inc., who measured an increase of over 100% in current costs of the regulatory framework over the years 2007 until 2013. Other drawbacks are the loss of the bigger picture, and fragile predictions due to overfitting. 
+                In 2012, Andrew Haldane declared during his <a href = "http://www.bis.org/review/r120905a.pdf">The Dog and the Frisbee</a> speach at the Economic Policy Symposion - Jackson Hole that the type of complex regulation introduced over recent decades may not only be costly and cumbersome but also sub-optimal for crisis control. <!--The cost aspect was emphasized by the study <a href = "http://www.fedfin.com/images/stories/client_reports/Cost%20Implications%20of%20Post-Crisis%20Regulatory%20Reform.pdf">The Regulatory Price Tag: Cost Implications of Post-Crisis Regular Reform</a> conducted by Federal Financial Analytics, Inc., who measured an increase of over 100% in current costs of the regulatory framework over the years 2007 until 2013. Other drawbacks are the loss of the bigger picture, and fragile predictions due to overfitting.
             </p>
 
             <p>-->
-                So far, there has been one attempt to measure this complexity in legal texts. In their paper <a href = "http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1246&context=jbtl">Law is Code: A Software Engineering Approach to Analyzing the United States Code</a>, Li et al. measured complexity by the number of words and word changes, the number of cross-references, and the number of conditional statements and found an enormous increase in complexity over the last century. 
+                So far, there has been one attempt to measure this complexity in legal texts. In their paper <a href = "http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1246&context=jbtl">Law is Code: A Software Engineering Approach to Analyzing the United States Code</a>, Li et al. measured complexity by the number of words and word changes, the number of cross-references, and the number of conditional statements and found an enormous increase in complexity over the last century.
             </p>
 
             <p>
@@ -53,14 +53,27 @@
         <div class="row" id="approaches">
             <div class="col-xs-6">
                 <h2>The Halstead Approach</h2>
-                <p>This approach consideres text as being an algorithm containing operators and operands on the basis of which one can compute complexity measures like Volume, Difficulty and Effort. In order to do so, individual words or terms of the Dodd-Frank Act need to be classified according to their grammatical and regulatory purpose. 
+                <p>This approach consideres text as being an algorithm containing operators and operands on the basis of which one can compute complexity measures like Volume, Difficulty and Effort. In order to do so, individual words or terms of the Dodd-Frank Act need to be classified according to their grammatical and regulatory purpose.
                 </p>
-                <a href="/words/" class="btn btn-success"> Classify Words </a>
             </div>
-            <div class="col-xs-6">
+            <!-- <div class="col-xs-6">
                 <h2>The Graph Approach</h2>
                 <p>This approach considers sentence parts as being the nodes of a graph and thus, graph complexity measures can be employed to measure the law's complexity. The basis for this exercise are paragraphs of the Dodd-Frank Act, whose sentence parts have been classified according to their logical structure.</p>
                 <a href="/sentenceparts/" class="btn btn-success"> Classify Sentence Parts </a>
+            </div -->
+
+            <div class="col-xs-6">
+                <h2>Regulatory Coherence</h2>
+                <p> This approach aims at measurung the coherence of the Dodd-Frank Act. Based on dependency parses and / or word vectors, we will create a network of the sentences of the Dodd-Frank Act. Therefore, we have to distinguish between regulating entities, regulated entities, definitions and references.
+                </p>
+            </div>
+        </div>
+        <div class="row" id="buttons">
+            <div class="col-xs-6">
+                <a href="/words/" class="btn btn-success"> Classify Words </a>
+            </div>
+            <div class="col-xs-6">
+                <a href="/coherence/" class="btn btn-success"> Classify Terms </a>
             </div>
         </div>
 
@@ -76,8 +89,8 @@
                     <div class="col-xs-4">
                         <ul>
                             <li><a href="/">Home</a></li>
-                            <li><a href="/login">Classify Words</a></li>
-                            <li><a href="/login">Classify Sentence Parts</a></li>
+                            <li><a href="/words/">Classify Words</a></li>
+                            <li><a href="/coherence/">Classify Terms</a></li>
                             <li><a href="/about">About</a></li>
                         </ul>
                     </div>
@@ -99,7 +112,7 @@
     -->
                 </div>
                 <div class="col-xs-4">
-                  <p>Last update: 2016-10-18</p>
+                  <p>Last update: 2017-01-09</p>
                 </div>
             </div>
         </div>

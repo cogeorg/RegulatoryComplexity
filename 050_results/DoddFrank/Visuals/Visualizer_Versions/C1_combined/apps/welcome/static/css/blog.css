@@ -41,11 +41,11 @@ h2 {
     text-shadow: none;
 }
 
-.btn-success:hover, 
-.btn-success:focus, 
-.btn-success:active, 
-.btn-success.active, 
-.open > .dropdown-toggle.btn-success .btn-success:active, 
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open > .dropdown-toggle.btn-success .btn-success:active,
 .btn-success.active {
     color: #fff;
     background-color: #ff44aa !important;
@@ -81,7 +81,7 @@ h2 {
 /* NAVBAR */
 .navbar-inverse {
     background-color: #006699;
-    border-color: #006699;    
+    border-color: #006699;
 }
 .navbar-inverse .navbar-brand {
     color: #ffffff;
@@ -161,4 +161,3 @@ h2 {
         background-color: #003366;
     }
 }
-

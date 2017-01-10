@@ -1,0 +1,130 @@
+<html>
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Instructions</title>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <!--Color coding-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
+    <!--Aside Stylesheet-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+
+
+</head>
+
+<body>
+
+<div class = "container">
+    <div class = "row">
+        <div class = "col-xs-10">
+
+<div class="wrapper">
+    <div class="content-wrapper-instr">
+
+
+<h1>Purpose</h1>
+<p>Classify words depending on their function and grammatical behaviour in a sentence.</p>
+<p>The following types of words are possible:</p>
+<ul>
+    <li><span class=LogicalConnectors>Logical Connectors:</span> <br />words or terms that are used to join or connect two ideas that have a particular relationship. These relationships can be: sequential(e.g., “until” and “before”), reason and purpose (e.g., “because” and “as long as”), adversative (e.g., “even though” and “however”), and condition (e.g., “if” and “unless”).</li>
+<!-- Definition from https://staff.washington.edu/marynell/ -->
+</ul>
+<ul>
+    <li><span class=RegulatoryOperators>Regulatory Operators:</span> <br /> words whose meaning affects the choice set of an economic agent, by either expanding it (“a bank may do this or that”) or restricting it (“a fund is prohibited from…”). Typically, the operator is a verb, and the subject an economic agent (i.e., a special type of operand). However, the text can also use a different way of expressing the same idea, so that what matters is that the sentence can be expressed in this format. Consider for instance the following statements, all equivalent:
+    <ul>
+        <li>Regulation XYZ <b>prohibits</b> banks from engaging in proprietary trading.</li>
+        <li>Proprietary trading is <b>prohibited</b> for banks under regulation XYZ.</li>
+        <li>There is a <b>prohibition</b> of proprietary trading for banks.</li>
+    </ul>
+</ul>
+<ul>
+    </li>
+    <li><span class=EconomicOperands>Economic Operands:</span> <br /> words that correspond to an economic reality, such as an agent, a product, a regulatory agency, a time period, etc. (as opposed to words that refer to the document itself, e.g., “section”). They have to be “content” or “lexical” words, that is, they have a meaning by themselves. Examples: “bank”, “hedge fund”, “swap”, but also “month”, “United States”, “safety”, “2009”.</li>
+</ul>
+<ul>
+    <li><span class=Attributes>Attributes:</span> <br /> quantitative or qualitative qualifiers that apply to an economic operand, typically adjectives and adverbs. They can in general be applied to entirely different contexts, e.g., “small”, “safe”, “adversely”, etc.</li>
+</ul>
+<ul>
+    <li><span class=LegalReferences>Legal References:</span> <br /> words that do not refer to economic realities but to the regulatory text itself (“section”), to other texts (“U.S. Code”), or are part of the legal “grammar” (“Definition”). </li>
+</ul>
+<ul>
+    <li><span class=FunctionWords>Function Words:</span> <br /> words that are not otherwise classified, in particular are not classified as logical connectors.</li>
+</ul>
+<ul>
+    <li><span class=Other>Other:</span> <br /> words that are otherwise unclassified.</li>
+</ul>
+
+
+<h1>How it works</h1>
+<h3> Classification:</h3>
+<ul>
+<li>Select a part of a sentence.</li>
+<li>Right-click on the selection and choose the appropriate category.</li>
+<li>The word or term is colored accordingly.</li>
+</ul>
+<h3> Corrections:</h3>
+<ul>
+<li>If the classification has not been saved yet, select the word to delete, right-click and select <i>Remove</i>.</li>
+<li>If the classification has been saved, the above explained procedure still works, but you may also double-click on the word in the list on the right-hand side.</li>
+</ul>
+<h3> Save:</h3>
+<ul>
+<li>Right-click anywhere and select <i>Update</i>.</li>
+<li>This is done autmatically when you switch between titles or click on any of the buttons on the right-hand side.</li>
+</ul>
+<h3> Further instructions:</h3>
+<ul>
+<li></li>
+</ul>
+
+
+
+    </div>
+</div>
+
+        </div>
+
+        <div class = "col-xs-2">
+
+
+<!-- Right hand menu -->
+<!-- Instructions and Logout -->
+<div class="nav-tabs">
+    <ul>
+        <form  action="index">
+            <input type=text  style="display: none;">
+            <button>Back to classifying</button>
+        </form>
+
+        <form  action="words">
+            <input type=text  style="display: none;">
+            <button>Words Classified</button>
+        </form>
+
+        <form  action="logout" >
+            <input type=text style="display: none;">
+            <button>Log out</button>
+        </form>
+    </ul>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<!-- BOOTSTRAP JAVASCRIPT FILES -->
+<!-- =========================================================================================== -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/js/bootstrap.min.js"></script>
+
+</body>
+
+
+</html>
