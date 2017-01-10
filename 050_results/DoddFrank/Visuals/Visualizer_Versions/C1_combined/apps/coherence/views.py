@@ -95,7 +95,7 @@ def do_admin_signin():
         user = User(USERNAME,PASSWORD,EMAIl, AFILIATION, True)  # Add to the database
         s.add(user)
         s.commit()
-        with open(file, "w") as f:              #Create a csv file for the list of words
+        with open(file, "w+") as f:              #Create a csv file for the list of words
             pass
     return render_template("login.html", error = error)
 
