@@ -221,6 +221,60 @@ def main(argv):
                             item = re.sub(r'(<div class = "ex.+?">)', r'\1"', item)
                             g.write(item + "\n")
 
+        elif argv.type == "coherence":
+            # include preclassification
+            htmlString = ""
+            for item in update:
+                htmlString += item
+            if argv.words:
+                operands_operators = read_txt_files_coherence(argv.words)
+                for type, operand, length in operands_operators:
+                    my_regex =  r"\s[\-\,\(\"]*" + re.escape(operand) + r"[s\-\.\,\`\'\;\:\)\"]*[\s]"
+                    mylist = re.findall(my_regex, htmlString, flags=re.IGNORECASE)
+                    mylist = list(set(mylist))
+                    for word in mylist:
+                        replacement = ' <span class="' + type + '">' + word.replace(" ", "__") + '</span> '
+                        htmlString = htmlString.replace(word, replacement)
+                htmlString = htmlString.replace("__", " ")
+
+            parts = []
+            split1 = htmlString.split('<div')
+            for s in split1:
+                if s == split1[0]:
+                    parts.append(s)
+                else:
+                    parts.append('<div' + s)
+            update = []
+            for p in parts:
+                split2 = p.split('</div')
+                for t in split2:
+                    if t == split2[0]:
+                        update.append(t)
+                    else:
+                        update.append('</div' + t)
+
+
+            # save file
+            with open(argv.output + name, "w") as g:
+                amended = 0
+                for item in update:
+                    item = re.sub('--', '', item)
+                    if amended == 0:
+                        if item == '<div class = "amended">':
+                            amended = 1
+                        else:
+                            g.write(item + "\n")
+                    else:
+                        if (item.startswith('</div>')) and (len(item) > 6):
+                            item = item.replace('</div>', '"')
+                            g.write(item + "\n")
+                            amended += -1
+                        elif item == '</div>':
+                            g.write(item + "\n")
+                        else:
+                            item = re.sub(r'(<div class = "ex.+?">)', r'\1"', item)
+                            g.write(item + "\n")
+
 
         # sentence-parts version:
         else:
@@ -278,6 +332,20 @@ def read_txt_files(file):
         key = key[-1].replace(".txt","")
         key = key.replace("_extra", "")
         key = key.replace("_special", "")
+        f = open(filename, 'r')
+        for element in f.readlines():
+            aux_text = element.strip('\n')
+            aux_text = aux_text.strip('\r')
+            aux_text = aux_text.strip()
+            tuple = (key , aux_text, len(aux_text.split(" ")))
+            list_tuples.append(tuple)
+    return sorted(list_tuples, key=lambda x: x[2],reverse=True)
+
+def read_txt_files_coherence(file):
+    list_tuples = []
+    for f in []:
+        filename = file + f
+        key = f[0]
         f = open(filename, 'r')
         for element in f.readlines():
             aux_text = element.strip('\n')
