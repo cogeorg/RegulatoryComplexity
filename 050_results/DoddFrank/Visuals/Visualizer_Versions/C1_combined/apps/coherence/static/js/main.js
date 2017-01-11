@@ -132,7 +132,6 @@
         /* ******************** */
 
         $(".buttons form input").click(function(){
-            console.log($(this).attr("id"))
             // This is the triggered action name
             switch($(this).attr("id")) {
                 // A case for each action. Your actions here
@@ -244,10 +243,17 @@
         /* Remove on rightclick */
         /* ******************** */
         $("#result").on('contextmenu', 'span', function(){
-            term = $(this).text()
+            term = $(this).text().replace(/,|;|\.|:|-|\(|\)|"|\\n/gi, '')
+            console.log(term)
             if (term !=""){
                 if (flag){
-                    list_high.push(term + "_" + "white");
+
+                    if (term in list_high){
+                        var index = list_high.indexOf(term);
+                        list_high.splice(index, 1);
+                    }else{
+                        list_high.push(term + "_" + "white");
+                    }
                     flag = false;
                 }else{
                     flag = true;

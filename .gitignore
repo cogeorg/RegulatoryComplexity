@@ -1,5 +1,6 @@
 users.db
 *.pyc
+*.csv
 050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/output/*
 050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/sentences/templates/output/*
 050_results/DoddFrank/Visuals/Visualizer_Versions/C1_combined/apps/words/output/*
