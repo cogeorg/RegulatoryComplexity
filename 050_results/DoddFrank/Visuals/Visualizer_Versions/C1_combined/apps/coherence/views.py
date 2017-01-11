@@ -139,20 +139,8 @@ def index():
 @app.route("/instructions")
 @login_required
 def instructions():
-    return render_template('instructions.html')
-
-
-@app.route("/words")
-@login_required
-def words():
     user_name = current_user.username           # Get the current user
-    # own data
-    file = path + "output/" + user_name.strip() + ".csv"   # File name for the current user
-    data = pandas.read_csv(file, names=['word', 'type'])    # Open file
-    words, types, remove= delete_white(data.word.tolist(), data.type.tolist())  #Delete white words
-    colors = operand_to_color(types)         #Get the color for each operand
-
-    return render_template('words.html', words = words ,types = types, colors = colors) #Send words and types to the html
+    return render_template('instructions.html')
 
 
 #array2python function to get the list of words classified from the visualizer

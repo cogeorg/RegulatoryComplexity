@@ -30,22 +30,6 @@
         }});
 
 
-        /* Right Table double click feature*/
-        $(document).on('dblclick', '#words li', function(){
-            list_high.push($(this).text() + "_" + "white");
-            // does not work with flask
-            // Similar to the remove dropdown
-            flag = true;
-            hltr.setColor("white");
-            hltr.find($(this).text(), false);
-            hltr.setReady(true);
-            // to remove the li item from the frame
-            this.parentNode.removeChild(this);
-            count=1;
-        });
-        /* ******************** */
-
-
         /* Load different titles*/
         /* ******************** */
 
@@ -133,138 +117,137 @@
                     });
                     list_high = [];
                 }
-                /*$.getJSON('words/_array2python', {
-                params: JSON.stringify(paramData)
-            }, function(data){
-            var words = data.words;
-            var colors = data.colors;
-            var i = 0;
-            words.forEach(function(entry) {
-            hltr.setColor(colors[i]);
-            hltr.find(words[i], false);
-            hltr.setReady(true);
-            i +=1;
+            });
         });
-        list_high = [];
-    });*/
-});
-});
 
-/* ******************** */
+        /* ******************** */
 
 
 
-/* Coloring */
-/* ******************** */
+        /* Coloring */
+        /* ******************** */
 
-$(".buttons form input").click(function(){
-    console.log($(this).attr("id"))
-    // This is the triggered action name
-    switch($(this).attr("id")) {
-        // A case for each action. Your actions here
-        case "R":
-        flag = true;
-        hltr.setColor("#6495ed");
-        hltr.setClick(true);
-        hltr.setReady(true);
-        break;
-        case "B":
-        flag = true;
-        hltr.setColor("#00ff00");
-        hltr.setClick(true);
-        hltr.setReady(true);
-        break;
-        case "D":
-        flag = true;
-        hltr.setColor("#ffff00");
-        hltr.setClick(true);
-        hltr.setReady(true);
-        break;
-        case "L":
-        flag = true;
-        hltr.setColor("#a2a2a2");
-        hltr.setClick(true);
-        hltr.setReady(true);
-        break;
-    }
-    count =1;
-});
-
-
-/* Update & Remove */
-/* ******************** */
-$(".save form input").click(function(){
-    console.log($(this).attr("id"))
-    // This is the triggered action name
-    switch($(this).attr("id")) {
-        case "Update":
-        /* Input to python flask array2python function */
-        var paramData = {wordList:list_high, user_name:  user_name};
-        $.ajax({
-            type : "POST",
-            url : '/coherence/_array2python',
-            data: JSON.stringify(paramData, null, '\t'),
-            contentType: 'application/json;charset=UTF-8',
-            success: function(data) {
-                /* Output of flask function */
-                var words = data.new_words;
-                var colors = data.new_colors;
-                var remove = data.remove;
-                var all_words = data.words;
-                var all_colors = data.colors;
-                var i = 0;
-                words.forEach(function(entry) {
-                    hltr.setColor(colors[i]);
-                    hltr.find(" " + words[i] + " ", false);
-                    hltr.find(" " + words[i] + ",", false);
-                    hltr.find(" " + words[i] + ";", false);
-                    hltr.find(" " + words[i] + ".", false);
-                    hltr.find(" " + words[i] + ":", false);
-                    hltr.find(" " + words[i] + "-", false);
-                    hltr.find(" " + words[i] + ")", false);
-                    hltr.find("(" + words[i] + " ", false);
-                    hltr.find(" " + words[i] + "\n", false);
-                    hltr.find("\n" + words[i] + " ", false);
-                    hltr.setReady(true);
-                    i +=1;
-                });
-                var i =0;
-                remove.forEach(function(entry) {
-                    hltr.setColor("white");
-                    hltr.find(" " + entry + " ", false);
-                    hltr.find(" " + entry + ",", false);
-                    hltr.find(" " + entry + ";", false);
-                    hltr.find(" " + entry + ".", false);
-                    hltr.find(" " + entry + ":", false);
-                    hltr.find(" " + entry + "-", false);
-                    hltr.find(" " + entry + ")", false);
-                    hltr.find("(" + entry + " ", false);
-                    hltr.find(" " + words[i] + "\n", false);
-                    hltr.find("\n" + words[i] + " ", false);
-                    hltr.setReady(true);
-                    i +=1;
-                });
-                /* Update the word classified frame */
-                $("#words").empty();
-                /* Make table */
-                // removeUL(remove);
-                list_high = [];
+        $(".buttons form input").click(function(){
+            console.log($(this).attr("id"))
+            // This is the triggered action name
+            switch($(this).attr("id")) {
+                // A case for each action. Your actions here
+                case "R":
+                flag = true;
+                hltr.setColor("#6495ed");
+                hltr.setClick(true);
+                hltr.setReady(true);
+                break;
+                case "B":
+                flag = true;
+                hltr.setColor("#00ff00");
+                hltr.setClick(true);
+                hltr.setReady(true);
+                break;
+                case "D":
+                flag = true;
+                hltr.setColor("#ffff00");
+                hltr.setClick(true);
+                hltr.setReady(true);
+                break;
+                case "L":
+                flag = true;
+                hltr.setColor("#a2a2a2");
+                hltr.setClick(true);
+                hltr.setReady(true);
+                break;
             }
+            count =1;
         });
-        var titleName = $("#mySidenav a.selected").attr("id")
-        load_html(titleName)
-        break;
-        case "Remove":
-        flag = true;
-        hltr.setColor("white");
-        hltr.setClick(true);
-        hltr.setReady(true);
-        break;
-    }
-    count =1;
-});
 
 
+        /* Update & Remove */
+        /* ******************** */
+        $(".save form input").click(function(){
+            // This is the triggered action name
+            switch($(this).attr("id")) {
+                case "Update":
+                /* Input to python flask array2python function */
+                var paramData = {wordList:list_high, user_name:  user_name};
+                $.ajax({
+                    type : "POST",
+                    url : '/coherence/_array2python',
+                    data: JSON.stringify(paramData, null, '\t'),
+                    contentType: 'application/json;charset=UTF-8',
+                    success: function(data) {
+                        /* Output of flask function */
+                        var words = data.new_words;
+                        var colors = data.new_colors;
+                        var remove = data.remove;
+                        var all_words = data.words;
+                        var all_colors = data.colors;
+                        var i = 0;
+                        words.forEach(function(entry) {
+                            hltr.setColor(colors[i]);
+                            hltr.find(" " + words[i] + " ", false);
+                            hltr.find(" " + words[i] + ",", false);
+                            hltr.find(" " + words[i] + ";", false);
+                            hltr.find(" " + words[i] + ".", false);
+                            hltr.find(" " + words[i] + ":", false);
+                            hltr.find(" " + words[i] + "-", false);
+                            hltr.find(" " + words[i] + ")", false);
+                            hltr.find("(" + words[i] + " ", false);
+                            hltr.find(" " + words[i] + "\n", false);
+                            hltr.find("\n" + words[i] + " ", false);
+                            hltr.setReady(true);
+                            i +=1;
+                        });
+                        var i =0;
+                        remove.forEach(function(entry) {
+                            hltr.setColor("white");
+                            hltr.find(" " + entry + " ", false);
+                            hltr.find(" " + entry + ",", false);
+                            hltr.find(" " + entry + ";", false);
+                            hltr.find(" " + entry + ".", false);
+                            hltr.find(" " + entry + ":", false);
+                            hltr.find(" " + entry + "-", false);
+                            hltr.find(" " + entry + ")", false);
+                            hltr.find("(" + entry + " ", false);
+                            hltr.find(" " + words[i] + "\n", false);
+                            hltr.find("\n" + words[i] + " ", false);
+                            hltr.setReady(true);
+                            i +=1;
+                        });
+                        /* Update the word classified frame */
+                        $("#words").empty();
+                        /* Make table */
+                        // removeUL(remove);
+                        list_high = [];
+                    }
+                });
+                var titleName = $("#mySidenav a.selected").attr("id")
+                load_html(titleName)
+                break;
+                case "Remove":
+                flag = true;
+                hltr.setColor("white");
+                hltr.setClick(true);
+                hltr.setReady(true);
+                break;
+            }
+            count =1;
+        });
+
+        /* Remove on rightclick */
+        /* ******************** */
+        $("#result").on('contextmenu', 'span', function(){
+            term = $(this).text()
+            if (term !=""){
+                if (flag){
+                    list_high.push(term + "_" + "white");
+                    flag = false;
+                }else{
+                    flag = true;
+                }
+
+            }
+            $(this).css("background-color","white");
+        })
 
 
-})();
+    })();
