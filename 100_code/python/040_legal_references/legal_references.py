@@ -19,10 +19,18 @@ def main(argv):
     regex.append(r'the\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
     regex.append(r'the\s[A-Z]{1}[a-z]+')
     regex.append(r'the\s[A-Z]{1}[a-z]+\-[A-Z]{1}[a-z]+')
+    regex.append(r'The\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
+    regex.append(r'The\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
+    regex.append(r'The\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
+    regex.append(r'The\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
+    regex.append(r'The\s[A-Z]{1}[a-z]+')
+    regex.append(r'The\s[A-Z]{1}[a-z]+\-[A-Z]{1}[a-z]+')
     regex.append(r'[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+')
     regex.append(r'the\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[and]+\s[A-Z]{1}[a-z]+')
     regex.append( r'the\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[and]+\s[A-Z]{1}[a-z]+')
     regex.append(r'[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[and]+\s[A-Z]{1}[a-z]+')
+    regex.append(r'The\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[and]+\s[A-Z]{1}[a-z]+')
+    regex.append( r'The\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[A-Z]{1}[a-z]+\s[and]+\s[A-Z]{1}[a-z]+')
 
 
     # Regex second part of the Legal Reference
@@ -56,6 +64,7 @@ def main(argv):
     ref_type.append( r'\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]\([a-z]\)\([0-9]\)\)')
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\)')
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]\)')
+    ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+\([a-z]\)\)')
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\-\s*[0-9]+\([a-z]+\)\)')
     ref_type.append( r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\s' + re.escape(r'et seq.)'))
     ref_type.append(r'\s[0-9{4}]+\s\([0-9{2}]+\s[U\.S\.C]+\s[0-9]+[a-z]+\-\s*[0-9]+\)')
@@ -101,6 +110,19 @@ def main(argv):
     for item in legal_references:
         file.write("%s\n"%item)
 
+    # for coherence part
+    secRef = r'section\s.{1,20}'
+    titleRef = r'title\s.{1,20}'
+    legalRef = legal_references
+    for ref in legal_references:
+        secList = re.findall(secRef + re.escape(ref) , data_xml)
+        titleList = re.findall(titleRef + re.escape(ref) , data_xml)
+        #print titleList
+        legalRef = legalRef + secList + titleList
+    legalRef.sort(key = lambda s: len(s))
+    file = open(argv.output + "coherence/LegalReferences.txt", 'w')
+    for item in legalRef:
+        file.write("%s\n"%item)
 
 
 if __name__ == "__main__":

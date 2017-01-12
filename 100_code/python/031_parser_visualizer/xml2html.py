@@ -343,7 +343,7 @@ def read_txt_files(file):
 
 def read_txt_files_coherence(file):
     list_tuples = []
-    for f in []:
+    for f in ["Regulators.txt", "LegalReferences.txt"]:
         filename = file + f
         key = f[0]
         f = open(filename, 'r')
