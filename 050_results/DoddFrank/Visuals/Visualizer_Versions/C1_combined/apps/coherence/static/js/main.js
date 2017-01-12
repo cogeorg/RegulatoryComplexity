@@ -21,6 +21,7 @@
             if (string !=""){
                 if (flag){
                     list_high.push(string + "_" + hltr.getColor());
+                    console.log(string + "_" + hltr.getColor())
                     flag = false;
                 }else{
                     flag = true;
@@ -243,22 +244,15 @@
         /* Remove on rightclick */
         /* ******************** */
         $("#result").on('contextmenu', 'span', function(){
-            term = $(this).text().replace(/,|;|\.|:|-|\(|\)|"|\\n/gi, '')
-            console.log(term)
+            term = $(this).text().replace(/,|;|\.|:|\(|\)|"|\\n/gi, '').toLowerCase()
             if (term !=""){
-                if (flag){
-
-                    if (term in list_high){
-                        var index = list_high.indexOf(term);
-                        list_high.splice(index, 1);
-                    }else{
-                        list_high.push(term + "_" + "white");
-                    }
-                    flag = false;
+                if (term in list_high){
+                    var index = list_high.indexOf(term);
+                    list_high.splice(index, 1);
                 }else{
-                    flag = true;
+                    list_high.push(term + "_" + "white");
+                    console.log(term + "_" + "white")
                 }
-
             }
             $(this).css("background-color","white");
         })
