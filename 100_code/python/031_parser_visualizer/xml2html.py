@@ -343,9 +343,9 @@ def read_txt_files(file):
 
 def read_txt_files_coherence(file):
     list_tuples = []
-    for f in ["Regulators.txt", "LegalReferences.txt"]:
-        filename = file + f
-        key = f[0]
+    for filename in glob.glob(file + '/*.txt'):
+        key = filename.split("/")
+        key = key[-1][0]
         f = open(filename, 'r')
         for element in f.readlines():
             aux_text = element.strip('\n')
