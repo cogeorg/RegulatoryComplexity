@@ -259,6 +259,10 @@ the Bank Service Company Act 12
 the Child Nutrition Act of 1966
 the Futures Trading Act of 1982
 the Trust Indenture Act of 1939
+Section 5 of the Securities Act
+Section 7 of the Securities Act
+Section 4 of the Securities Act
+Section 7 of the Securities Act
 Economic Opportunity Act of 2000
 Financial Protection Act of 2010
 Owners Loan Act (12 U.S.C. 1464)
@@ -279,6 +283,13 @@ the National Flood Insurance Act
 the Terrorism Risk Insurance Act
 section 17 of the Securities Act
 section 24 of the Securities Act
+Section 2A of the Securities Act
+Section 17 of the Securities Act
+Section 19 of the Securities Act
+Section 15 of the Securities Act
+Section 8A of the Securities Act
+Section 22 of the Securities Act
+Section 19 of the Securities Act
 Advisers Registration Act of 2010
 Community Development Act of 1974
 Community Development Act of 1992
@@ -297,7 +308,10 @@ the Inspector General Act of 1978
 the Small Business Investment Act
 section 24 of Federal Reserve Act
 section 4A of the Natural Gas Act
+Section 502(c) of the Housing Act
 section 4A of the Natural Gas Act
+Title I of the Sarbanes-Oxley Act
+Section 27B of the Securities Act
 Community Reinvestment Act of 1977
 Economic Stabilization Act of 2008
 Financial Institutions Act of 1994
@@ -318,6 +332,8 @@ section 6(b) of the Securities Act
 section 6(b) of the Securities Act
 section 6(b) of the Securities Act
 section 6(b) of the Securities Act
+Section 2(a) of the Securities Act
+Section 6(b) of the Securities Act
 Administrative Services Act of 1949
 Commodity Exchange Act (7 U.S.C. 2)
 Commodity Exchange Act (7 U.S.C. 6)
@@ -352,6 +368,7 @@ title or the Commodity Exchange Act
 title I of the National Housing Act
 title I of the National Housing Act
 section 19(b) of the Securities Act
+Section 22(a) of the Securities Act
 section 3 of the Small Business Act
 section 3 of the Small Business Act
 section 3 of the Small Business Act
@@ -368,6 +385,7 @@ the Bank Holding Company Act of 1956
 the Bank Holding Company Act of 1965
 the Expedited Funds Availability Act
 title and the Commodity Exchange Act
+Title I of the Emergency Housing Act
 section 106 of the Energy Policy Act
 section 222 of the Federal Power Act
 section 22(h) of Federal Reserve Act
@@ -376,7 +394,9 @@ section 4 of the Federal Reserve Act
 title IV of the Higher Education Act
 title II of the National Housing Act
 title II of the National Housing Act
+Section 3(a) Securities Exchange Act
 title and the Commodity Exchange Act
+Title I of the Emergency Housing Act
 section 106 of the Energy Policy Act
 section 222 of the Federal Power Act
 section 4 of the Federal Reserve Act
@@ -392,6 +412,7 @@ the Consumer Financial Protection Act
 the Homeowners Protection Act of 1998
 the International Banking Act of 1978
 the Private Securities Litigation Act
+Section 11 of the Child Nutrition Act
 section 25 of the Federal Reserve Act
 section 13 of the Federal Reserve Act
 section 19 of the Federal Reserve Act
@@ -401,7 +422,14 @@ section 24 of the Federal Reserve Act
 section 13 of the Federal Reserve Act
 section 13 of the Federal Reserve Act
 section 10 of the Federal Reserve Act
+Section 11 of the Federal Reserve Act
+Section 2B of the Federal Reserve Act
+Section 11 of the Federal Reserve Act
+Section 10 of the Federal Reserve Act
+Section 11 of the Federal Reserve Act
 section 5 of the Home Owners Loan Act
+Section 6 of the Home Owners Loan Act
+Section 11 of the Child Nutrition Act
 section 25 of the Federal Reserve Act
 section 13 of the Federal Reserve Act
 section 19 of the Federal Reserve Act
@@ -411,9 +439,21 @@ section 24 of the Federal Reserve Act
 section 13 of the Federal Reserve Act
 section 13 of the Federal Reserve Act
 section 10 of the Federal Reserve Act
+Section 11 of the Federal Reserve Act
+Section 2B of the Federal Reserve Act
+Section 11 of the Federal Reserve Act
+Section 10 of the Federal Reserve Act
+Section 11 of the Federal Reserve Act
 section 5 of the Home Owners Loan Act
+Section 6 of the Home Owners Loan Act
 section 308 of the Sarbanes-Oxley Act
 section 308 of the Sarbanes-Oxley Act
+Section 308 of the Sarbanes-Oxley Act
+Section 106 of the Sarbanes-Oxley Act
+Section 101 of the Sarbanes-Oxley Act
+Section 102 of the Sarbanes-Oxley Act
+Section 109 of the Sarbanes-Oxley Act
+Section 404 of the Sarbanes-Oxley Act
 section 2(a)(1) of the Securities Act
 section 2(a)(1) of the Securities Act
 section 3(a)(8) of the Securities Act
@@ -451,7 +491,9 @@ section 25A of the Federal Reserve Act
 section 25A of the Federal Reserve Act
 section 10B of the Federal Reserve Act
 section 10B of the Federal Reserve Act
+Section 23A of the Federal Reserve Act
 section 11 of the Home Owners Loan Act
+Title I of the Securities Exchange Act
 section 325 of the Trust Indenture Act
 section 3(21) of the Federal Power Act
 section 23A of the Federal Reserve Act
@@ -466,9 +508,13 @@ section 25A of the Federal Reserve Act
 section 25A of the Federal Reserve Act
 section 10B of the Federal Reserve Act
 section 10B of the Federal Reserve Act
+Section 23A of the Federal Reserve Act
 section 11 of the Home Owners Loan Act
+Section 2(a) of the Sarbanes-Oxley Act
+Section 2(a) of the Sarbanes-Oxley Act
 section 2(a)(11) of the Securities Act
 section 2(a)(11) of the Securities Act
+Title I of the Securities Exchange Act
 section 325 of the Trust Indenture Act
 Commodity Exchange Act (7 U.S.C. 6m(3))
 Credit Opportunity Act (15 U.S.C. 1691)
@@ -496,9 +542,20 @@ the Federal Reserve Act (12 U.S.C. 611)
 section 4 of the Commodity Exchange Act
 section 6 of the Commodity Exchange Act
 section 8 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 5 of the Commodity Exchange Act
+Section 5 of the Commodity Exchange Act
+Section 4 of the Commodity Exchange Act
+Section 9 of the Commodity Exchange Act
 section 201(f) of the Federal Power Act
 section 8L of the Inspector General Act
 section 8G of the Inspector General Act
+Section 8G of the Inspector General Act
 section 3 of the Investment Company Act
 section 3 of the Investment Company Act
 section 3 of the Investment Company Act
@@ -509,9 +566,20 @@ section 5 of the Investment Company Act
 section 255 of the National Housing Act
 section 4 of the Commodity Exchange Act
 section 8 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 2 of the Commodity Exchange Act
+Section 5 of the Commodity Exchange Act
+Section 5 of the Commodity Exchange Act
+Section 4 of the Commodity Exchange Act
+Section 9 of the Commodity Exchange Act
 section 201(f) of the Federal Power Act
 section 8L of the Inspector General Act
 section 8G of the Inspector General Act
+Section 8G of the Inspector General Act
 section 3 of the Investment Company Act
 section 3 of the Investment Company Act
 section 3 of the Investment Company Act
@@ -520,6 +588,10 @@ section 3 of the Investment Company Act
 section 2 of the Investment Company Act
 section 5 of the Investment Company Act
 section 255 of the National Housing Act
+Section 5 of the Securities Act of 1933
+Section 7 of the Securities Act of 1933
+Section 4 of the Securities Act of 1933
+Section 7 of the Securities Act of 1933
 Bank Products Act of 2000 (7 U.S.C. 27a)
 Bank Products Act of 2000 (7 U.S.C. 27a)
 Commodity Exchange Act (7 U.S.C. 12a(7))
@@ -556,6 +628,23 @@ section 1a of the Commodity Exchange Act
 section 5b of the Commodity Exchange Act
 section 1a of the Commodity Exchange Act
 section 5g of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 20 of the Commodity Exchange Act
+Section 1a of the Commodity Exchange Act
+Section 12 of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 4s of the Commodity Exchange Act
+Section 5b of the Commodity Exchange Act
+Section 5b of the Commodity Exchange Act
+Section 5b of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 4b of the Commodity Exchange Act
+Section 5c of the Commodity Exchange Act
+Section 5c of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 5c of the Commodity Exchange Act
+Section 5e of the Commodity Exchange Act
+Section 22 of the Commodity Exchange Act
 section 107 of the Emergency Housing Act
 section 11(1) of the Federal Reserve Act
 section 11(l) of the Federal Reserve Act
@@ -567,10 +656,16 @@ section 11(s) of the Federal Reserve Act
 section 11(k) of the Federal Reserve Act
 section 13(3) of the Federal Reserve Act
 section 13(3) of the Federal Reserve Act
+Section 22(d) of the Federal Reserve Act
+Section 19(i) of the Federal Reserve Act
 section 54 of the Investment Company Act
 section 54 of the Investment Company Act
 section 54 of the Investment Company Act
 section 49 of the Investment Company Act
+Section 44 of the Investment Company Act
+Section 31 of the Investment Company Act
+Section 48 of the Investment Company Act
+Section 31 of the Investment Company Act
 section 5(d) of the Home Owners Loan Act
 section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
@@ -579,6 +674,12 @@ section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
+Section 6 of the Securities Exchange Act
+Section 9 of the Securities Exchange Act
+Section 4 of the Securities Exchange Act
+Section 9 of the Securities Exchange Act
+Section 4 of the Securities Exchange Act
+Section 4 of the Securities Exchange Act
 section 1a of the Commodity Exchange Act
 section 1a of the Commodity Exchange Act
 section 17 of the Commodity Exchange Act
@@ -600,6 +701,23 @@ section 1a of the Commodity Exchange Act
 section 5b of the Commodity Exchange Act
 section 1a of the Commodity Exchange Act
 section 5g of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 20 of the Commodity Exchange Act
+Section 1a of the Commodity Exchange Act
+Section 12 of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 4s of the Commodity Exchange Act
+Section 5b of the Commodity Exchange Act
+Section 5b of the Commodity Exchange Act
+Section 5b of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 4b of the Commodity Exchange Act
+Section 5c of the Commodity Exchange Act
+Section 5c of the Commodity Exchange Act
+Section 4d of the Commodity Exchange Act
+Section 5c of the Commodity Exchange Act
+Section 5e of the Commodity Exchange Act
+Section 22 of the Commodity Exchange Act
 section 107 of the Emergency Housing Act
 section 11(1) of the Federal Reserve Act
 section 11(l) of the Federal Reserve Act
@@ -611,17 +729,33 @@ section 11(s) of the Federal Reserve Act
 section 11(k) of the Federal Reserve Act
 section 13(3) of the Federal Reserve Act
 section 13(3) of the Federal Reserve Act
+Section 22(d) of the Federal Reserve Act
+Section 19(i) of the Federal Reserve Act
 section 5(d) of the Home Owners Loan Act
 section 54 of the Investment Company Act
 section 54 of the Investment Company Act
 section 54 of the Investment Company Act
 section 49 of the Investment Company Act
+Section 44 of the Investment Company Act
+Section 31 of the Investment Company Act
+Section 48 of the Investment Company Act
+Section 31 of the Investment Company Act
 section 308(b) of the Sarbanes-Oxley Act
 section 308(b) of the Sarbanes-Oxley Act
 section 404(b) of the Sarbanes-Oxley Act
 section 404(b) of the Sarbanes-Oxley Act
+Section 103(a) of the Sarbanes-Oxley Act
+Section 104(a) of the Sarbanes-Oxley Act
+Section 106(a) of the Sarbanes-Oxley Act
 section 17 of the Securities Act of 1933
 section 24 of the Securities Act of 1933
+Section 2A of the Securities Act of 1933
+Section 17 of the Securities Act of 1933
+Section 19 of the Securities Act of 1933
+Section 15 of the Securities Act of 1933
+Section 8A of the Securities Act of 1933
+Section 22 of the Securities Act of 1933
+Section 19 of the Securities Act of 1933
 section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
@@ -629,6 +763,12 @@ section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
 section 3 of the Securities Exchange Act
+Section 6 of the Securities Exchange Act
+Section 9 of the Securities Exchange Act
+Section 4 of the Securities Exchange Act
+Section 9 of the Securities Exchange Act
+Section 4 of the Securities Exchange Act
+Section 4 of the Securities Exchange Act
 Commodity Exchange Act (7 U.S.C. 2(a)(1))
 Commodity Exchange Act (7 U.S.C. 2(c)(2))
 Commodity Exchange Act (7 U.S.C. 6(c)(1))
@@ -644,7 +784,10 @@ the Home Owners Loan Act (12 U.S.C. 1468)
 the International Lending Supervision Act
 the Real Estate Settlement Procedures Act
 the Small Business Investment Act of 1958
+Section 232(a) of the Bank Enterprise Act
 section 11A(b) of the Federal Reserve Act
+Section 23B(e) of the Federal Reserve Act
+Section 23A(e) of the Federal Reserve Act
 section 2 of the Bank Holding Company Act
 section 2 of the Bank Holding Company Act
 section 3 of the Bank Holding Company Act
@@ -658,11 +801,40 @@ section 2 of the Bank Holding Company Act
 section 2 of the Bank Holding Company Act
 section 4 of the Bank Holding Company Act
 section 2 of the Bank Holding Company Act
+Section 4 of the Bank Holding Company Act
 section 5(a) of the Inspector General Act
 section 5(a) of the Inspector General Act
+Section 5(a) of the Inspector General Act
 section 25 of the Securities Exchange Act
 section 12 of the Securities Exchange Act
 section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 17 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 36 of the Securities Exchange Act
+Section 30 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 27 of the Securities Exchange Act
+Section 24 of the Securities Exchange Act
+Section 24 of the Securities Exchange Act
+Section 27 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 14 of the Securities Exchange Act
+Section 14 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 10 of the Securities Exchange Act
+Section 31 of the Securities Exchange Act
+Section 35 of the Securities Exchange Act
+Section 31 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 232(a) of the Bank Enterprise Act
 section 2 of the Bank Holding Company Act
 section 2 of the Bank Holding Company Act
 section 3 of the Bank Holding Company Act
@@ -676,12 +848,47 @@ section 2 of the Bank Holding Company Act
 section 2 of the Bank Holding Company Act
 section 4 of the Bank Holding Company Act
 section 2 of the Bank Holding Company Act
+Section 4 of the Bank Holding Company Act
 section 11A(b) of the Federal Reserve Act
+Section 23B(e) of the Federal Reserve Act
+Section 23A(e) of the Federal Reserve Act
+Section 502(c) of the Housing Act of 1948
 section 5(a) of the Inspector General Act
 section 5(a) of the Inspector General Act
+Section 5(a) of the Inspector General Act
+Section 2(a)(9) of the Sarbanes-Oxley Act
+Title I of the Sarbanes-Oxley Act of 2002
+Section 20(d)(3)(A) of the Securities Act
+Section 27B of the Securities Act of 1933
 section 25 of the Securities Exchange Act
 section 12 of the Securities Exchange Act
 section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 17 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 36 of the Securities Exchange Act
+Section 30 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 27 of the Securities Exchange Act
+Section 24 of the Securities Exchange Act
+Section 24 of the Securities Exchange Act
+Section 27 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 14 of the Securities Exchange Act
+Section 14 of the Securities Exchange Act
+Section 15 of the Securities Exchange Act
+Section 10 of the Securities Exchange Act
+Section 31 of the Securities Exchange Act
+Section 35 of the Securities Exchange Act
+Section 31 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
+Section 13 of the Securities Exchange Act
 Commodity Exchange Act (7 U.S.C. 21(r)(1))
 Commodity Exchange Act (7 U.S.C. 25(a)(1))
 Commodity Exchange Act (7 U.S.C. 6c(a)(1))
@@ -709,10 +916,23 @@ section 2(h) of the Commodity Exchange Act
 section 4(c) of the Commodity Exchange Act
 section 4(c) of the Commodity Exchange Act
 section 2(h) of the Commodity Exchange Act
+Section 4(c) of the Commodity Exchange Act
+Section 8(e) of the Commodity Exchange Act
+Section 2(a) of the Commodity Exchange Act
+Section 4(b) of the Commodity Exchange Act
+Section 6(c) of the Commodity Exchange Act
+Section 6(d) of the Commodity Exchange Act
+Section 9(a) of the Commodity Exchange Act
+Section 6(e) of the Commodity Exchange Act
+Section 2(c) of the Commodity Exchange Act
+Section 6(b) of the Commodity Exchange Act
+Section 2(a) of the Commodity Exchange Act
+Section 6(d) of the Commodity Exchange Act
 title or section 24 of Federal Reserve Act
 section 102 of the Financial Stability Act
 section 141(f) of the Higher Education Act
 section 435(m) of the Higher Education Act
+Section 8G(e) of the Inspector General Act
 section 8 of the International Banking Act
 section 8 of the International Banking Act
 section 205 of the Investment Advisers Act
@@ -724,7 +944,21 @@ section 211 of the Investment Advisers Act
 section 205 of the Investment Advisers Act
 section 202 of the Investment Advisers Act
 section 217 of the Investment Advisers Act
+Section 204 of the Investment Advisers Act
+Section 211 of the Investment Advisers Act
+Section 203 of the Investment Advisers Act
+Section 203 of the Investment Advisers Act
+Section 211 of the Investment Advisers Act
+Section 211 of the Investment Advisers Act
+Section 205 of the Investment Advisers Act
+Section 214 of the Investment Advisers Act
+Section 210 of the Investment Advisers Act
+Section 209 of the Investment Advisers Act
+Section 214 of the Investment Advisers Act
+Section 204 of the Investment Advisers Act
+Section 2(a) of the Investment Company Act
 section 206B of the Gramm-Leach Bliley Act
+Section 202(f) of the National Housing Act
 section 15G of the Securities Exchange Act
 section 15A of the Securities Exchange Act
 section 17A of the Securities Exchange Act
@@ -737,14 +971,35 @@ section 21F of the Securities Exchange Act
 section 21F of the Securities Exchange Act
 section 15A of the Securities Exchange Act
 section 15B of the Securities Exchange Act
+Section 17A of the Securities Exchange Act
+Section 21B of the Securities Exchange Act
+Section 21A of the Securities Exchange Act
+Section 17A of the Securities Exchange Act
+Section 15E of the Securities Exchange Act
+Section 15E of the Securities Exchange Act
+Section 15E of the Securities Exchange Act
+Section 15B of the Securities Exchange Act
 section 2(h) of the Commodity Exchange Act
 section 2(h) of the Commodity Exchange Act
 section 4(c) of the Commodity Exchange Act
 section 4(c) of the Commodity Exchange Act
 section 2(h) of the Commodity Exchange Act
+Section 4(c) of the Commodity Exchange Act
+Section 8(e) of the Commodity Exchange Act
+Section 2(a) of the Commodity Exchange Act
+Section 4(b) of the Commodity Exchange Act
+Section 6(c) of the Commodity Exchange Act
+Section 6(d) of the Commodity Exchange Act
+Section 9(a) of the Commodity Exchange Act
+Section 6(e) of the Commodity Exchange Act
+Section 2(c) of the Commodity Exchange Act
+Section 6(b) of the Commodity Exchange Act
+Section 2(a) of the Commodity Exchange Act
+Section 6(d) of the Commodity Exchange Act
 section 102 of the Financial Stability Act
 section 141(f) of the Higher Education Act
 section 435(m) of the Higher Education Act
+Section 8G(e) of the Inspector General Act
 section 8 of the International Banking Act
 section 8 of the International Banking Act
 section 205 of the Investment Advisers Act
@@ -756,6 +1011,20 @@ section 211 of the Investment Advisers Act
 section 205 of the Investment Advisers Act
 section 202 of the Investment Advisers Act
 section 217 of the Investment Advisers Act
+Section 204 of the Investment Advisers Act
+Section 211 of the Investment Advisers Act
+Section 203 of the Investment Advisers Act
+Section 203 of the Investment Advisers Act
+Section 211 of the Investment Advisers Act
+Section 211 of the Investment Advisers Act
+Section 205 of the Investment Advisers Act
+Section 214 of the Investment Advisers Act
+Section 210 of the Investment Advisers Act
+Section 209 of the Investment Advisers Act
+Section 214 of the Investment Advisers Act
+Section 204 of the Investment Advisers Act
+Section 2(a) of the Investment Company Act
+Section 202(f) of the National Housing Act
 section 6(b) of the Securities Act of 1933
 section 6(b) of the Securities Act of 1933
 section 6(b) of the Securities Act of 1933
@@ -763,6 +1032,8 @@ section 6(b) of the Securities Act of 1933
 section 6(b) of the Securities Act of 1933
 section 6(b) of the Securities Act of 1933
 section 6(b) of the Securities Act of 1933
+Section 2(a) of the Securities Act of 1933
+Section 6(b) of the Securities Act of 1933
 section 15G of the Securities Exchange Act
 section 15A of the Securities Exchange Act
 section 17A of the Securities Exchange Act
@@ -775,6 +1046,14 @@ section 21F of the Securities Exchange Act
 section 21F of the Securities Exchange Act
 section 15A of the Securities Exchange Act
 section 15B of the Securities Exchange Act
+Section 17A of the Securities Exchange Act
+Section 21B of the Securities Exchange Act
+Section 21A of the Securities Exchange Act
+Section 17A of the Securities Exchange Act
+Section 15E of the Securities Exchange Act
+Section 15E of the Securities Exchange Act
+Section 15E of the Securities Exchange Act
+Section 15B of the Securities Exchange Act
 Commodity Exchange Act (7 U.S.C. 1 et seq.)
 Commodity Exchange Act (7 U.S.C. 1 et seq.)
 Credit Billing Act (15 U.S.C. 1666 et seq.)
@@ -787,6 +1066,19 @@ the Commodity Exchange Act (7 U.S.C. 6m(3))
 the Employee Retirement Income Security Act
 section 4f(a) of the Commodity Exchange Act
 section 4f(b) of the Commodity Exchange Act
+Section 5b(c) of the Commodity Exchange Act
+Section 8a(7) of the Commodity Exchange Act
+Section 4a(a) of the Commodity Exchange Act
+Section 4a(b) of the Commodity Exchange Act
+Section 4a(c) of the Commodity Exchange Act
+Section 22(a) of the Commodity Exchange Act
+Section 22(a) of the Commodity Exchange Act
+Section 6c(a) of the Commodity Exchange Act
+Section 6c(d) of the Commodity Exchange Act
+Section 5c(a) of the Commodity Exchange Act
+Section 4c(a) of the Commodity Exchange Act
+Section 4c(a) of the Commodity Exchange Act
+Section 4m(3) of the Commodity Exchange Act
 section 101 of the Federal Credit Union Act
 section 101 of the Federal Credit Union Act
 section 102 of the Federal Credit Union Act
@@ -797,8 +1089,11 @@ section 101 of the Federal Credit Union Act
 section 19(b)(7) of the Federal Reserve Act
 section 13(3)(A) of the Federal Reserve Act
 section 11(r)(2) of the Federal Reserve Act
+Section 10 of the Homeowners Protection Act
 section 24(f) of the Investment Company Act
 section 24(f) of the Investment Company Act
+Section 36(a) of the Investment Company Act
+Section 2(5) of the Paperwork Reduction Act
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
@@ -814,8 +1109,26 @@ section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
+Section 3(a) of the Securities Exchange Act
+Section 9(b) of the Securities Exchange Act
+Section 4(g) of the Securities Exchange Act
+Section 3(a) of the Securities Exchange Act
+Section 6(b) of the Securities Exchange Act
 section 4f(a) of the Commodity Exchange Act
 section 4f(b) of the Commodity Exchange Act
+Section 5b(c) of the Commodity Exchange Act
+Section 8a(7) of the Commodity Exchange Act
+Section 4a(a) of the Commodity Exchange Act
+Section 4a(b) of the Commodity Exchange Act
+Section 4a(c) of the Commodity Exchange Act
+Section 22(a) of the Commodity Exchange Act
+Section 22(a) of the Commodity Exchange Act
+Section 6c(a) of the Commodity Exchange Act
+Section 6c(d) of the Commodity Exchange Act
+Section 5c(a) of the Commodity Exchange Act
+Section 4c(a) of the Commodity Exchange Act
+Section 4c(a) of the Commodity Exchange Act
+Section 4m(3) of the Commodity Exchange Act
 section 101 of the Federal Credit Union Act
 section 101 of the Federal Credit Union Act
 section 102 of the Federal Credit Union Act
@@ -826,9 +1139,16 @@ section 101 of the Federal Credit Union Act
 section 19(b)(7) of the Federal Reserve Act
 section 13(3)(A) of the Federal Reserve Act
 section 11(r)(2) of the Federal Reserve Act
+Section 10 of the Homeowners Protection Act
 section 24(f) of the Investment Company Act
 section 24(f) of the Investment Company Act
+Section 36(a) of the Investment Company Act
+Section 2(5) of the Paperwork Reduction Act
+Section 105(c)(6) of the Sarbanes-Oxley Act
+Section 107(d)(3) of the Sarbanes-Oxley Act
+Section 105(b)(5) of the Sarbanes-Oxley Act
 section 19(b) of the Securities Act of 1933
+Section 22(a) of the Securities Act of 1933
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
@@ -844,6 +1164,11 @@ section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act
+Section 3(a) of the Securities Exchange Act
+Section 9(b) of the Securities Exchange Act
+Section 4(g) of the Securities Exchange Act
+Section 3(a) of the Securities Exchange Act
+Section 6(b) of the Securities Exchange Act
 Child Nutrition Act of 1966 (42 U.S.C. 1780)
 Child Nutrition Act of 1966 (42 U.S.C. 1780)
 Deposit Insurance Act (12 U.S.C. 1813(b)(2))
@@ -880,7 +1205,9 @@ section 1a(10) of the Commodity Exchange Act
 section 1a(18) of the Commodity Exchange Act
 section 1a(18) of the Commodity Exchange Act
 section 624 of the Fair Credit Reporting Act
+Section 615 of the Fair Credit Reporting Act
 section of the Federal Deposit Insurance Act
+Title I of the Emergency Housing Act of 1975
 section 106 of the Energy Policy Act of 1992
 section 25 or 25A of the Federal Reserve Act
 section 25 or 25A of the Federal Reserve Act
@@ -907,6 +1234,8 @@ section 2(p) of the Bank Holding Company Act
 section 4(k) of the Bank Holding Company Act
 section 4(k) of the Bank Holding Company Act
 section 4(k) of the Bank Holding Company Act
+Section 3(c) of the Bank Holding Company Act
+Section 5(b) of the Bank Holding Company Act
 section 15(b) of the Securities Exchange Act
 section 15(b) of the Securities Exchange Act
 section 15(b) of the Securities Exchange Act
@@ -922,6 +1251,21 @@ section 13(p) of the Securities Exchange Act
 section 13(p) of the Securities Exchange Act
 section 13(p) of the Securities Exchange Act
 section 13(p) of the Securities Exchange Act
+Section 19(b) of the Securities Exchange Act
+Section 28(a) of the Securities Exchange Act
+Section 19(b) of the Securities Exchange Act
+Section 19(b) of the Securities Exchange Act
+Section 29(a) of the Securities Exchange Act
+Section 20(e) of the Securities Exchange Act
+Section 20(a) of the Securities Exchange Act
+Section 16(a) of the Securities Exchange Act
+Section 29(a) of the Securities Exchange Act
+Section 13(f) of the Securities Exchange Act
+Section 15(d) of the Securities Exchange Act
+Section 14(a) of the Securities Exchange Act
+Section 13(e) of the Securities Exchange Act
+Section 14(g) of the Securities Exchange Act
+Section 3(a) Securities Exchange Act of 1934
 section 7(c) of the Bank Service Company Act
 section 7(c) of the Bank Service Company Act
 section 7(c) of the Bank Service Company Act
@@ -943,6 +1287,8 @@ section 2(p) of the Bank Holding Company Act
 section 4(k) of the Bank Holding Company Act
 section 4(k) of the Bank Holding Company Act
 section 4(k) of the Bank Holding Company Act
+Section 3(c) of the Bank Holding Company Act
+Section 5(b) of the Bank Holding Company Act
 section 7(c) of the Bank Service Company Act
 section 7(c) of the Bank Service Company Act
 section 7(c) of the Bank Service Company Act
@@ -952,8 +1298,10 @@ section 1a(39) of the Commodity Exchange Act
 section 1a(10) of the Commodity Exchange Act
 section 1a(18) of the Commodity Exchange Act
 section 1a(18) of the Commodity Exchange Act
+Title I of the Emergency Housing Act of 1975
 section 106 of the Energy Policy Act of 1992
 section 624 of the Fair Credit Reporting Act
+Section 615 of the Fair Credit Reporting Act
 section of the Federal Deposit Insurance Act
 section 25 or 25A of the Federal Reserve Act
 section 25 or 25A of the Federal Reserve Act
@@ -979,6 +1327,20 @@ section 13(p) of the Securities Exchange Act
 section 13(p) of the Securities Exchange Act
 section 13(p) of the Securities Exchange Act
 section 13(p) of the Securities Exchange Act
+Section 19(b) of the Securities Exchange Act
+Section 28(a) of the Securities Exchange Act
+Section 19(b) of the Securities Exchange Act
+Section 19(b) of the Securities Exchange Act
+Section 29(a) of the Securities Exchange Act
+Section 20(e) of the Securities Exchange Act
+Section 20(a) of the Securities Exchange Act
+Section 16(a) of the Securities Exchange Act
+Section 29(a) of the Securities Exchange Act
+Section 13(f) of the Securities Exchange Act
+Section 15(d) of the Securities Exchange Act
+Section 14(a) of the Securities Exchange Act
+Section 13(e) of the Securities Exchange Act
+Section 14(g) of the Securities Exchange Act
 Credit Reporting Act (15 U.S.C. 1681 et seq.)
 Deficit Control Act of 1985 (2 U.S.C. 906(h))
 Deficit Control Act of 1985 (2 U.S.C. 906(h))
@@ -1001,11 +1363,16 @@ the Private Securities Litigation Act of 1995
 the Securities Act of 1933 (15 U.S.C. 77b(a))
 the Securities Act of 1933 (15 U.S.C. 77f(b))
 the Securities Act of 1933 (15 U.S.C. 77v(a))
+Section 11 of the Child Nutrition Act of 1966
 section 4(c)(1) of the Commodity Exchange Act
 section 4(c)(1) of the Commodity Exchange Act
 section 4(c)(1) of the Commodity Exchange Act
 section 2(h)(1) of the Commodity Exchange Act
 section 2(h)(1) of the Commodity Exchange Act
+Section 4(c)(1) of the Commodity Exchange Act
+Section 2(a)(1) of the Commodity Exchange Act
+Section 2(a)(1) of the Commodity Exchange Act
+Section 2(c)(2) of the Commodity Exchange Act
 section 165(a) of the Financial Stability Act
 section 165(a) of the Financial Stability Act
 section 165(a) of the Financial Stability Act
@@ -1019,20 +1386,42 @@ section 1(b) of the International Banking Act
 section 203(m) of the Investment Advisers Act
 section 202(a) of the Investment Advisers Act
 section 202(a) of the Investment Advisers Act
+Section 202(a) of the Investment Advisers Act
+Section 203(b) of the Investment Advisers Act
+Section 210(c) of the Investment Advisers Act
+Section 205(e) of the Investment Advisers Act
+Section 202(a) of the Investment Advisers Act
+Section 203(f) of the Investment Advisers Act
+Section 205(a) of the Investment Advisers Act
+Section 9(d)(1) of the Investment Company Act
 section 626 of the Omnibus Appropriations Act
+Section 626 of the Omnibus Appropriations Act
 section 15E(w) of the Securities Exchange Act
 section 15G(a) of the Securities Exchange Act
 section 15B(d) of the Securities Exchange Act
+Section 15C(c) of the Securities Exchange Act
+Section 21B(a) of the Securities Exchange Act
+Section 15E(m) of the Securities Exchange Act
+Section 15B(a) of the Securities Exchange Act
+Section 15B(b) of the Securities Exchange Act
+Section 15B(c) of the Securities Exchange Act
+Section 15A(b) of the Securities Exchange Act
 section 5 of the Federal Trade Commission Act
 section 5 of the Federal Trade Commission Act
 section 5 of the Federal Trade Commission Act
+Section 11 of the Child Nutrition Act of 1966
 section 4(c)(1) of the Commodity Exchange Act
 section 4(c)(1) of the Commodity Exchange Act
 section 4(c)(1) of the Commodity Exchange Act
 section 2(h)(1) of the Commodity Exchange Act
 section 2(h)(1) of the Commodity Exchange Act
+Section 4(c)(1) of the Commodity Exchange Act
+Section 2(a)(1) of the Commodity Exchange Act
+Section 2(a)(1) of the Commodity Exchange Act
+Section 2(c)(2) of the Commodity Exchange Act
 section 21A of the Federal Home Loan Bank Act
 section 21A of the Federal Home Loan Bank Act
+Section 21A of the Federal Home Loan Bank Act
 section 5 of the Federal Trade Commission Act
 section 5 of the Federal Trade Commission Act
 section 5 of the Federal Trade Commission Act
@@ -1048,10 +1437,25 @@ section 1(b) of the International Banking Act
 section 203(m) of the Investment Advisers Act
 section 202(a) of the Investment Advisers Act
 section 202(a) of the Investment Advisers Act
+Section 202(a) of the Investment Advisers Act
+Section 203(b) of the Investment Advisers Act
+Section 210(c) of the Investment Advisers Act
+Section 205(e) of the Investment Advisers Act
+Section 202(a) of the Investment Advisers Act
+Section 203(f) of the Investment Advisers Act
+Section 205(a) of the Investment Advisers Act
+Section 9(d)(1) of the Investment Company Act
 section 626 of the Omnibus Appropriations Act
+Section 626 of the Omnibus Appropriations Act
 section 2791 of the Public Health Service Act
 section 308 of the Sarbanes-Oxley Act of 2002
 section 308 of the Sarbanes-Oxley Act of 2002
+Section 308 of the Sarbanes-Oxley Act of 2002
+Section 106 of the Sarbanes-Oxley Act of 2002
+Section 101 of the Sarbanes-Oxley Act of 2002
+Section 102 of the Sarbanes-Oxley Act of 2002
+Section 109 of the Sarbanes-Oxley Act of 2002
+Section 404 of the Sarbanes-Oxley Act of 2002
 section 2(a)(1) of the Securities Act of 1933
 section 2(a)(1) of the Securities Act of 1933
 section 3(a)(8) of the Securities Act of 1933
@@ -1059,6 +1463,13 @@ section 3(a)(8) of the Securities Act of 1933
 section 15E(w) of the Securities Exchange Act
 section 15G(a) of the Securities Exchange Act
 section 15B(d) of the Securities Exchange Act
+Section 15C(c) of the Securities Exchange Act
+Section 21B(a) of the Securities Exchange Act
+Section 15E(m) of the Securities Exchange Act
+Section 15B(a) of the Securities Exchange Act
+Section 15B(b) of the Securities Exchange Act
+Section 15B(c) of the Securities Exchange Act
+Section 15A(b) of the Securities Exchange Act
 Association Charter Act (12 U.S.C. 1719(g)(2))
 Deposit Insurance Act (12 U.S.C. 1811 et seq.)
 Economic Recovery Act of 2008 (42 U.S.C. 5301)
@@ -1076,6 +1487,11 @@ the Federally Recognized Indian Tribe List Act
 the Public Utility Holding Company Act of 1935
 the Securities Investor Protection Act of 1970
 section 4f(a)(1) of the Commodity Exchange Act
+Section 5c(c)(1) of the Commodity Exchange Act
+Section 5b(f)(1) of the Commodity Exchange Act
+Section 4c(a)(1) of the Commodity Exchange Act
+Section 17(r)(1) of the Commodity Exchange Act
+Section 22(a)(1) of the Commodity Exchange Act
 section 3 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
 section 8 of the Federal Deposit Insurance Act
@@ -1116,18 +1532,27 @@ section 8 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
+Section 3 of the Federal Deposit Insurance Act
+Section 2 of the Federal Deposit Insurance Act
 section 19(b)(1)(A) of the Federal Reserve Act
 section 19(b)(1)(A) of the Federal Reserve Act
 section 19(b)(1)(A) of the Federal Reserve Act
 section 19(b)(1)(A) of the Federal Reserve Act
 section 3(a)(4) of the Securities Exchange Act
 section 3(a)(5) of the Securities Exchange Act
+Title I of the Securities Exchange Act of 1934
 section 18 of the Federal Trade Commission Act
 section 18 of the Federal Trade Commission Act
 section 18 of the Federal Trade Commission Act
 section 18 of the Federal Trade Commission Act
 section 325 of the Trust Indenture Act of 1939
 section 4f(a)(1) of the Commodity Exchange Act
+Section 5c(c)(1) of the Commodity Exchange Act
+Section 5b(f)(1) of the Commodity Exchange Act
+Section 4c(a)(1) of the Commodity Exchange Act
+Section 17(r)(1) of the Commodity Exchange Act
+Section 22(a)(1) of the Commodity Exchange Act
+Section 216(j) of the Federal Credit Union Act
 section 3 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
 section 8 of the Federal Deposit Insurance Act
@@ -1168,6 +1593,8 @@ section 8 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
 section 3 of the Federal Deposit Insurance Act
+Section 3 of the Federal Deposit Insurance Act
+Section 2 of the Federal Deposit Insurance Act
 section 19(b)(1)(A) of the Federal Reserve Act
 section 19(b)(1)(A) of the Federal Reserve Act
 section 19(b)(1)(A) of the Federal Reserve Act
@@ -1179,10 +1606,16 @@ section 18 of the Federal Trade Commission Act
 section 18 of the Federal Trade Commission Act
 section 18 of the Federal Trade Commission Act
 section 5(b)(1)(B) of the Home Owners Loan Act
+Section 105(b)(5)(A) of the Sarbanes-Oxley Act
+Section 105(c)(7)(B) of the Sarbanes-Oxley Act
+Section 105(b)(4)(B) of the Sarbanes-Oxley Act
+Section 2(a) of the Sarbanes-Oxley Act of 2002
+Section 2(a) of the Sarbanes-Oxley Act of 2002
 section 2(a)(11) of the Securities Act of 1933
 section 2(a)(11) of the Securities Act of 1933
 section 3(a)(4) of the Securities Exchange Act
 section 3(a)(5) of the Securities Exchange Act
+Title I of the Securities Exchange Act of 1934
 section 325 of the Trust Indenture Act of 1939
 Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
 Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
@@ -1264,6 +1697,8 @@ section 38 of the Federal Deposit Insurance Act
 section 43 of the Federal Deposit Insurance Act
 section 38 of the Federal Deposit Insurance Act
 section 21 of the Federal Deposit Insurance Act
+Section 18 of the Federal Deposit Insurance Act
+Section 18 of the Federal Deposit Insurance Act
 section 5(c)(5) of the Bank Holding Company Act
 section 4(j)(1) of the Bank Holding Company Act
 section 4(j)(2) of the Bank Holding Company Act
@@ -1275,8 +1710,12 @@ section 2(c)(2) of the Bank Holding Company Act
 section 2(c)(2) of the Bank Holding Company Act
 section 2(c)(2) of the Bank Holding Company Act
 section 2(c)(2) of the Bank Holding Company Act
+Section 5(c)(2) of the Bank Holding Company Act
+Section 4(l)(1) of the Bank Holding Company Act
+Section 2(o)(4) of the Bank Holding Company Act
 section 8L of the Inspector General Act of 1978
 section 8G of the Inspector General Act of 1978
+Section 8G of the Inspector General Act of 1978
 section 3 of the Investment Company Act of 1940
 section 3 of the Investment Company Act of 1940
 section 3 of the Investment Company Act of 1940
@@ -1310,6 +1749,19 @@ section 3(a)(77) of the Securities Exchange Act
 section 3(a)(77) of the Securities Exchange Act
 section 3(a)(77) of the Securities Exchange Act
 section 3(a)(12) of the Securities Exchange Act
+Section 15(c)(3) of the Securities Exchange Act
+Section 13(f)(1) of the Securities Exchange Act
+Section 15(b)(4) of the Securities Exchange Act
+Section 19(b)(1) of the Securities Exchange Act
+Section 19(b)(3) of the Securities Exchange Act
+Section 17(f)(1) of the Securities Exchange Act
+Section 21(a)(1) of the Securities Exchange Act
+Section 21(a)(1) of the Securities Exchange Act
+Section 19(h)(4) of the Securities Exchange Act
+Section 21(a)(1) of the Securities Exchange Act
+Section 17(f)(2) of the Securities Exchange Act
+Section 3(a)(62) of the Securities Exchange Act
+Section 17(a)(1) of the Securities Exchange Act
 section 7(c) of the Bank Service Company Act 12
 section 5(c)(5) of the Bank Holding Company Act
 section 4(j)(1) of the Bank Holding Company Act
@@ -1322,10 +1774,16 @@ section 2(c)(2) of the Bank Holding Company Act
 section 2(c)(2) of the Bank Holding Company Act
 section 2(c)(2) of the Bank Holding Company Act
 section 2(c)(2) of the Bank Holding Company Act
+Section 5(c)(2) of the Bank Holding Company Act
+Section 4(l)(1) of the Bank Holding Company Act
+Section 2(o)(4) of the Bank Holding Company Act
 section 7(c) of the Bank Service Company Act 12
 section 1a(47)(D) of the Commodity Exchange Act
 title VII of the Consumer Credit Protection Act
 section 919 of the Electronic Fund Transfer Act
+Section 920 of the Electronic Fund Transfer Act
+Section 920 of the Electronic Fund Transfer Act
+Section 920 of the Electronic Fund Transfer Act
 section 701 of the Equal Credit Opportunity Act
 section 603(p) of the Fair Credit Reporting Act
 section 603(p) of the Fair Credit Reporting Act
@@ -1337,10 +1795,13 @@ section 38 of the Federal Deposit Insurance Act
 section 43 of the Federal Deposit Insurance Act
 section 38 of the Federal Deposit Insurance Act
 section 21 of the Federal Deposit Insurance Act
+Section 18 of the Federal Deposit Insurance Act
+Section 18 of the Federal Deposit Insurance Act
 section 18(c) of the Federal Home Loan Bank Act
 title and section 24 of the Federal Reserve Act
 section 8L of the Inspector General Act of 1978
 section 8G of the Inspector General Act of 1978
+Section 8G of the Inspector General Act of 1978
 section 3 of the Investment Company Act of 1940
 section 3 of the Investment Company Act of 1940
 section 3 of the Investment Company Act of 1940
@@ -1374,6 +1835,19 @@ section 3(a)(77) of the Securities Exchange Act
 section 3(a)(77) of the Securities Exchange Act
 section 3(a)(77) of the Securities Exchange Act
 section 3(a)(12) of the Securities Exchange Act
+Section 15(c)(3) of the Securities Exchange Act
+Section 13(f)(1) of the Securities Exchange Act
+Section 15(b)(4) of the Securities Exchange Act
+Section 19(b)(1) of the Securities Exchange Act
+Section 19(b)(3) of the Securities Exchange Act
+Section 17(f)(1) of the Securities Exchange Act
+Section 21(a)(1) of the Securities Exchange Act
+Section 21(a)(1) of the Securities Exchange Act
+Section 19(h)(4) of the Securities Exchange Act
+Section 21(a)(1) of the Securities Exchange Act
+Section 17(f)(2) of the Securities Exchange Act
+Section 3(a)(62) of the Securities Exchange Act
+Section 17(a)(1) of the Securities Exchange Act
 Education Improvement Act (20 U.S.C. 9702(c)(1))
 Examination Council Act of 1978 (12 U.S.C. 3310)
 Examination Council Act of 1978 (12 U.S.C. 3310)
@@ -1394,6 +1868,10 @@ section 102 of the Small Business Investment Act
 section 2(a)(1)(A) of the Commodity Exchange Act
 section 2(h)(8)(B) of the Commodity Exchange Act
 section 2(h)(8)(B) of the Commodity Exchange Act
+Section 2(a)(1)(C) of the Commodity Exchange Act
+Section 2(c)(2)(A) of the Commodity Exchange Act
+Section 2(c)(2)(B) of the Commodity Exchange Act
+Section 2(c)(2)(C) of the Commodity Exchange Act
 section 804(c) of the Community Reinvestment Act
 section 107 of the Emergency Housing Act of 1975
 title B of the Consumer Financial Protection Act
@@ -1435,23 +1913,45 @@ title E of the Consumer Financial Protection Act
 section 7(c)(1) of the International Banking Act
 section 1(b)(7) of the International Banking Act
 section 1(b)(7) of the International Banking Act
+Section 7(d)(3) of the International Banking Act
+Section 7(e)(1) of the International Banking Act
+Section 203(i)(1) of the Investment Advisers Act
+Section 6(a)(5)(A)(iv)(I) Investment Company Act
 section 54 of the Investment Company Act of 1940
 section 54 of the Investment Company Act of 1940
 section 54 of the Investment Company Act of 1940
 section 49 of the Investment Company Act of 1940
+Section 44 of the Investment Company Act of 1940
+Section 31 of the Investment Company Act of 1940
+Section 48 of the Investment Company Act of 1940
+Section 31 of the Investment Company Act of 1940
 section 203(c)(2)(A) of the National Housing Act
 section 21F(a)(3) of the Securities Exchange Act
 section 15G(c)(2) of the Securities Exchange Act
+Section 15B(c)(4) of the Securities Exchange Act
+Section 15B(c)(8) of the Securities Exchange Act
+Section 21D(b)(2) of the Securities Exchange Act
+Section 15B(d)(2) of the Securities Exchange Act
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
+Section 6 of the Securities Exchange Act of 1934
+Section 9 of the Securities Exchange Act of 1934
+Section 4 of the Securities Exchange Act of 1934
+Section 9 of the Securities Exchange Act of 1934
+Section 4 of the Securities Exchange Act of 1934
+Section 4 of the Securities Exchange Act of 1934
 section 5(a) of the Federal Trade Commission Act
 section 2(a)(1)(A) of the Commodity Exchange Act
 section 2(h)(8)(B) of the Commodity Exchange Act
 section 2(h)(8)(B) of the Commodity Exchange Act
+Section 2(a)(1)(C) of the Commodity Exchange Act
+Section 2(c)(2)(A) of the Commodity Exchange Act
+Section 2(c)(2)(B) of the Commodity Exchange Act
+Section 2(c)(2)(C) of the Commodity Exchange Act
 section 804(c) of the Community Reinvestment Act
 title B of the Consumer Financial Protection Act
 title B of the Consumer Financial Protection Act
@@ -1495,23 +1995,43 @@ section 5(a) of the Federal Trade Commission Act
 section 7(c)(1) of the International Banking Act
 section 1(b)(7) of the International Banking Act
 section 1(b)(7) of the International Banking Act
+Section 7(d)(3) of the International Banking Act
+Section 7(e)(1) of the International Banking Act
+Section 203(i)(1) of the Investment Advisers Act
 section 54 of the Investment Company Act of 1940
 section 54 of the Investment Company Act of 1940
 section 54 of the Investment Company Act of 1940
 section 49 of the Investment Company Act of 1940
+Section 44 of the Investment Company Act of 1940
+Section 31 of the Investment Company Act of 1940
+Section 48 of the Investment Company Act of 1940
+Section 31 of the Investment Company Act of 1940
 section 203(c)(2)(A) of the National Housing Act
 section 308(b) of the Sarbanes-Oxley Act of 2002
 section 308(b) of the Sarbanes-Oxley Act of 2002
 section 404(b) of the Sarbanes-Oxley Act of 2002
 section 404(b) of the Sarbanes-Oxley Act of 2002
+Section 103(a) of the Sarbanes-Oxley Act of 2002
+Section 104(a) of the Sarbanes-Oxley Act of 2002
+Section 106(a) of the Sarbanes-Oxley Act of 2002
 section 21F(a)(3) of the Securities Exchange Act
 section 15G(c)(2) of the Securities Exchange Act
+Section 15B(c)(4) of the Securities Exchange Act
+Section 15B(c)(8) of the Securities Exchange Act
+Section 21D(b)(2) of the Securities Exchange Act
+Section 15B(d)(2) of the Securities Exchange Act
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
 section 3 of the Securities Exchange Act of 1934
+Section 6 of the Securities Exchange Act of 1934
+Section 9 of the Securities Exchange Act of 1934
+Section 4 of the Securities Exchange Act of 1934
+Section 9 of the Securities Exchange Act of 1934
+Section 4 of the Securities Exchange Act of 1934
+Section 4 of the Securities Exchange Act of 1934
 section 102 of the Small Business Investment Act
 Collection Practices Act (15 U.S.C. 1692 et seq.)
 Investment Company Act of 1940 (15 U.S.C. 80a-30)
@@ -1532,6 +2052,8 @@ the National Housing Act (12 U.S.C. 1702 et seq.)
 the National Housing Act (12 U.S.C. 1707 et seq.)
 the Real Estate Settlement Procedures Act of 1974
 the Trust Indenture Act of 1939 (15 U.S.C. 77yyy)
+Section 232(a) of the Bank Enterprise Act of 1991
+Section 12(e)(2)(B) of the Commodity Exchange Act
 section 3(q) of the Federal Deposit Insurance Act
 section 3(q) of the Federal Deposit Insurance Act
 section 8(n) of the Federal Deposit Insurance Act
@@ -1557,6 +2079,8 @@ section 3(q) of the Federal Deposit Insurance Act
 section 3(f) of the Federal Deposit Insurance Act
 section 3(s) of the Federal Deposit Insurance Act
 section 3(q) of the Federal Deposit Insurance Act
+Section 8(t) of the Federal Deposit Insurance Act
+Section 7(e) of the Federal Deposit Insurance Act
 section 24 of Federal Reserve Act (12 U.S.C. 371)
 section 2 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1956
@@ -1570,13 +2094,48 @@ section 2 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1956
 section 4 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1956
+Section 4 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1965
 section 5(a) of the Inspector General Act of 1978
 section 5(a) of the Inspector General Act of 1978
+Section 5(a) of the Inspector General Act of 1978
 section 202(a)(11) of the Investment Advisers Act
+Section 202(a)(11) of the Investment Advisers Act
+Section 202(a)(21) of the Investment Advisers Act
+Section 42(e)(3)(A) of the Investment Company Act
+Section 6(g)(1)(A) of the Securities Exchange Act
+Section 7(c)(1)(A) of the Securities Exchange Act
 section 25 of the Securities Exchange Act of 1934
 section 12 of the Securities Exchange Act of 1934
 section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 17 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 36 of the Securities Exchange Act of 1934
+Section 30 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 27 of the Securities Exchange Act of 1934
+Section 24 of the Securities Exchange Act of 1934
+Section 24 of the Securities Exchange Act of 1934
+Section 27 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 14 of the Securities Exchange Act of 1934
+Section 14 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 10 of the Securities Exchange Act of 1934
+Section 31 of the Securities Exchange Act of 1934
+Section 35 of the Securities Exchange Act of 1934
+Section 31 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 232(a) of the Bank Enterprise Act of 1991
+Section 106(b)(1) of the Bank Holding Company Act
 section 2 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1956
 section 3 of the Bank Holding Company Act of 1956
@@ -1589,8 +2148,12 @@ section 2 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1956
 section 4 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1956
+Section 4 of the Bank Holding Company Act of 1956
 section 2 of the Bank Holding Company Act of 1965
+Section 12(e)(2)(B) of the Commodity Exchange Act
 section 207(k)(1) of the Federal Credit Union Act
+Section 207(k)(5) of the Federal Credit Union Act
+Section 207(k)(1) of the Federal Credit Union Act
 section 3(q) of the Federal Deposit Insurance Act
 section 3(q) of the Federal Deposit Insurance Act
 section 8(n) of the Federal Deposit Insurance Act
@@ -1616,12 +2179,50 @@ section 3(q) of the Federal Deposit Insurance Act
 section 3(f) of the Federal Deposit Insurance Act
 section 3(s) of the Federal Deposit Insurance Act
 section 3(q) of the Federal Deposit Insurance Act
+Section 8(t) of the Federal Deposit Insurance Act
+Section 7(e) of the Federal Deposit Insurance Act
+Section 22(h)(9)(D)(i) of the Federal Reserve Act
+Section 18(f) of the Federal Trade Commission Act
 section 5(a) of the Inspector General Act of 1978
 section 5(a) of the Inspector General Act of 1978
+Section 5(a) of the Inspector General Act of 1978
 section 202(a)(11) of the Investment Advisers Act
+Section 202(a)(11) of the Investment Advisers Act
+Section 202(a)(21) of the Investment Advisers Act
+Section 42(e)(3)(A) of the Investment Company Act
+Section 2(a)(9) of the Sarbanes-Oxley Act of 2002
+Section 20(d)(3)(A) of the Securities Act of 1933
+Section 6(g)(1)(A) of the Securities Exchange Act
+Section 7(c)(1)(A) of the Securities Exchange Act
 section 25 of the Securities Exchange Act of 1934
 section 12 of the Securities Exchange Act of 1934
 section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 17 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 36 of the Securities Exchange Act of 1934
+Section 30 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 27 of the Securities Exchange Act of 1934
+Section 24 of the Securities Exchange Act of 1934
+Section 24 of the Securities Exchange Act of 1934
+Section 27 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 14 of the Securities Exchange Act of 1934
+Section 14 of the Securities Exchange Act of 1934
+Section 15 of the Securities Exchange Act of 1934
+Section 10 of the Securities Exchange Act of 1934
+Section 31 of the Securities Exchange Act of 1934
+Section 35 of the Securities Exchange Act of 1934
+Section 31 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
+Section 13 of the Securities Exchange Act of 1934
 Community Development Act of 1974 (42 U.S.C. 5302)
 Community Development Act of 1974 (42 U.S.C. 5302)
 Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
@@ -1691,9 +2292,11 @@ the Securities Act of 1933 (15 U.S.C. 77a et seq.)
 the Securities Act of 1933 (15 U.S.C. 77a et seq.)
 section 1a(47)(A)(v) of the Commodity Exchange Act
 section 1a(47)(A)(v) of the Commodity Exchange Act
+Section 701(b) of the Equal Credit Opportunity Act
 section 102 of the Financial Stability Act of 2010
 section 141(f) of the Higher Education Act of 1965
 section 435(m) of the Higher Education Act of 1965
+Section 8G(e) of the Inspector General Act of 1978
 section 8 of the International Banking Act of 1978
 section 205 of the Investment Advisers Act of 1940
 section 202 of the Investment Advisers Act of 1940
@@ -1704,10 +2307,26 @@ section 211 of the Investment Advisers Act of 1940
 section 205 of the Investment Advisers Act of 1940
 section 202 of the Investment Advisers Act of 1940
 section 217 of the Investment Advisers Act of 1940
+Section 204 of the Investment Advisers Act of 1940
+Section 211 of the Investment Advisers Act of 1940
+Section 203 of the Investment Advisers Act of 1940
+Section 203 of the Investment Advisers Act of 1940
+Section 211 of the Investment Advisers Act of 1940
+Section 211 of the Investment Advisers Act of 1940
+Section 205 of the Investment Advisers Act of 1940
+Section 214 of the Investment Advisers Act of 1940
+Section 210 of the Investment Advisers Act of 1940
+Section 209 of the Investment Advisers Act of 1940
+Section 214 of the Investment Advisers Act of 1940
+Section 204 of the Investment Advisers Act of 1940
+Section 2(a) of the Investment Company Act of 1940
 section 3(a)(68)(D) of the Securities Exchange Act
 section 3(a)(68)(A) of the Securities Exchange Act
 section 21(e) or 27 of the Securities Exchange Act
 section 13(p)(1)(A) of the Securities Exchange Act
+Section 19(b)(4)(D) of the Securities Exchange Act
+Section 15(b)(6)(A) of the Securities Exchange Act
+Section 17(e)(1)(A) of the Securities Exchange Act
 section 15G of the Securities Exchange Act of 1934
 section 15A of the Securities Exchange Act of 1934
 section 17A of the Securities Exchange Act of 1934
@@ -1720,6 +2339,14 @@ section 21F of the Securities Exchange Act of 1934
 section 21F of the Securities Exchange Act of 1934
 section 15A of the Securities Exchange Act of 1934
 section 15B of the Securities Exchange Act of 1934
+Section 17A of the Securities Exchange Act of 1934
+Section 21B of the Securities Exchange Act of 1934
+Section 21A of the Securities Exchange Act of 1934
+Section 17A of the Securities Exchange Act of 1934
+Section 15E of the Securities Exchange Act of 1934
+Section 15E of the Securities Exchange Act of 1934
+Section 15E of the Securities Exchange Act of 1934
+Section 15B of the Securities Exchange Act of 1934
 section 4(k)(6)(B) of the Bank Holding Company Act
 section 4(k)(4)(E) of the Bank Holding Company Act
 section 2(c)(2)(F) of the Bank Holding Company Act
@@ -1732,15 +2359,25 @@ section 2(c)(2)(F) of the Bank Holding Company Act
 section 2(c)(2)(H) of the Bank Holding Company Act
 section 2(c)(2)(B) of the Bank Holding Company Act
 section 2(c)(2)(D) of the Bank Holding Company Act
+Section 4(j)(2)(A) of the Bank Holding Company Act
+Section 4(k)(6)(B) of the Bank Holding Company Act
+Section 3(d)(1)(A) of the Bank Holding Company Act
 section 1a(47)(A)(v) of the Commodity Exchange Act
 section 1a(47)(A)(v) of the Commodity Exchange Act
+Section 701(b) of the Equal Credit Opportunity Act
 section 11(e) of the Federal Deposit Insurance Act
 section 13(c) of the Federal Deposit Insurance Act
 section 39(c) of the Federal Deposit Insurance Act
+Section 10(e) of the Federal Deposit Insurance Act
+Section 18(c) of the Federal Deposit Insurance Act
+Section 18(g) of the Federal Deposit Insurance Act
+Section 38(k) of the Federal Deposit Insurance Act
+Section 11(l)(2) of the Federal Home Loan Bank Act
 section 19(b)(1)(A)(iv) of the Federal Reserve Act
 section 102 of the Financial Stability Act of 2010
 section 141(f) of the Higher Education Act of 1965
 section 435(m) of the Higher Education Act of 1965
+Section 8G(e) of the Inspector General Act of 1978
 section 8 of the International Banking Act of 1978
 section 205 of the Investment Advisers Act of 1940
 section 202 of the Investment Advisers Act of 1940
@@ -1751,10 +2388,27 @@ section 211 of the Investment Advisers Act of 1940
 section 205 of the Investment Advisers Act of 1940
 section 202 of the Investment Advisers Act of 1940
 section 217 of the Investment Advisers Act of 1940
+Section 204 of the Investment Advisers Act of 1940
+Section 211 of the Investment Advisers Act of 1940
+Section 203 of the Investment Advisers Act of 1940
+Section 203 of the Investment Advisers Act of 1940
+Section 211 of the Investment Advisers Act of 1940
+Section 211 of the Investment Advisers Act of 1940
+Section 205 of the Investment Advisers Act of 1940
+Section 214 of the Investment Advisers Act of 1940
+Section 210 of the Investment Advisers Act of 1940
+Section 209 of the Investment Advisers Act of 1940
+Section 214 of the Investment Advisers Act of 1940
+Section 204 of the Investment Advisers Act of 1940
+Section 2(a) of the Investment Company Act of 1940
+Section 105(b)(5)(B)(ii) of the Sarbanes-Oxley Act
 section 3(a)(68)(D) of the Securities Exchange Act
 section 3(a)(68)(A) of the Securities Exchange Act
 section 21(e) or 27 of the Securities Exchange Act
 section 13(p)(1)(A) of the Securities Exchange Act
+Section 19(b)(4)(D) of the Securities Exchange Act
+Section 15(b)(6)(A) of the Securities Exchange Act
+Section 17(e)(1)(A) of the Securities Exchange Act
 section 15G of the Securities Exchange Act of 1934
 section 15A of the Securities Exchange Act of 1934
 section 17A of the Securities Exchange Act of 1934
@@ -1767,6 +2421,14 @@ section 21F of the Securities Exchange Act of 1934
 section 21F of the Securities Exchange Act of 1934
 section 15A of the Securities Exchange Act of 1934
 section 15B of the Securities Exchange Act of 1934
+Section 17A of the Securities Exchange Act of 1934
+Section 21B of the Securities Exchange Act of 1934
+Section 21A of the Securities Exchange Act of 1934
+Section 17A of the Securities Exchange Act of 1934
+Section 15E of the Securities Exchange Act of 1934
+Section 15E of the Securities Exchange Act of 1934
+Section 15E of the Securities Exchange Act of 1934
+Section 15B of the Securities Exchange Act of 1934
 Economic Stabilization Act of 2008 (12 U.S.C. 5216)
 Economic Stabilization Act of 2008 (12 U.S.C. 5216)
 Holding Company Act of 1935 (15 U.S.C. 79a et seq.)
@@ -1804,11 +2466,16 @@ the Securities Exchange Act of 1934 (15 U.S.C. 78y)
 the Wall Street Transparency and Accountability Act
 section 102(d) of the Flood Disaster Protection Act
 section 102(e) of the Flood Disaster Protection Act
+Section 10 of the Homeowners Protection Act of 1998
+Section 209(e)(3)(A) of the Investment Advisers Act
 section 24(f) of the Investment Company Act of 1940
 section 24(f) of the Investment Company Act of 1940
+Section 36(a) of the Investment Company Act of 1940
 section 4 of the Securities Investor Protection Act
+Section 9 of the Securities Investor Protection Act
 section 21F(h)(2)(A) of the Securities Exchange Act
 section 15E(h)(2)(B) of the Securities Exchange Act
+Section 17A(c)(4)(C) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
@@ -1824,20 +2491,37 @@ section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
+Section 3(a) of the Securities Exchange Act of 1934
+Section 9(b) of the Securities Exchange Act of 1934
+Section 4(g) of the Securities Exchange Act of 1934
+Section 3(a) of the Securities Exchange Act of 1934
+Section 6(b) of the Securities Exchange Act of 1934
 title and the Real Estate Settlement Procedures Act
 section 3 of the Small Business Act (15 U.S.C. 632)
 section 3 of the Small Business Act (15 U.S.C. 632)
 section 3 of the Small Business Act (15 U.S.C. 632)
+Section 604 of the Expedited Funds Availability Act
+Section 605 of the Expedited Funds Availability Act
+Section 609 of the Expedited Funds Availability Act
+Section 603 of the Expedited Funds Availability Act
+Section 607 of the Expedited Funds Availability Act
 section 3 of the Federal Mine Safety and Health Act
 section 3 of the Federal Mine Safety and Health Act
 section 102(d) of the Flood Disaster Protection Act
 section 102(e) of the Flood Disaster Protection Act
+Section 10 of the Homeowners Protection Act of 1998
+Section 209(e)(3)(A) of the Investment Advisers Act
 section 24(f) of the Investment Company Act of 1940
 section 24(f) of the Investment Company Act of 1940
+Section 36(a) of the Investment Company Act of 1940
 section 2(a)(4) of the Liability Risk Retention Act
 title and the Real Estate Settlement Procedures Act
+Section 105(c)(6) of the Sarbanes-Oxley Act of 2002
+Section 107(d)(3) of the Sarbanes-Oxley Act of 2002
+Section 105(b)(5) of the Sarbanes-Oxley Act of 2002
 section 21F(h)(2)(A) of the Securities Exchange Act
 section 15E(h)(2)(B) of the Securities Exchange Act
+Section 17A(c)(4)(C) of the Securities Exchange Act
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
@@ -1853,7 +2537,13 @@ section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
 section 3(a) of the Securities Exchange Act of 1934
+Section 3(a) of the Securities Exchange Act of 1934
+Section 9(b) of the Securities Exchange Act of 1934
+Section 4(g) of the Securities Exchange Act of 1934
+Section 3(a) of the Securities Exchange Act of 1934
+Section 6(b) of the Securities Exchange Act of 1934
 section 4 of the Securities Investor Protection Act
+Section 9 of the Securities Investor Protection Act
 section 3 of the Small Business Act (15 U.S.C. 632)
 section 3 of the Small Business Act (15 U.S.C. 632)
 section 3 of the Small Business Act (15 U.S.C. 632)
@@ -1873,7 +2563,16 @@ the Securities Exchange Act of 1934 (15 U.S.C. 78dd)
 the Securities Exchange Act of 1934 (15 U.S.C. 78ee)
 the Securities Exchange Act of 1934 (15 U.S.C. 78kk)
 the Securities Exchange Act of 1934 (15 U.S.C. 78mm)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
 section 4 of the Commodity Exchange Act (7 U.S.C. 6)
+Section 4 of the Commodity Exchange Act (7 U.S.C. 6)
+Section 5 of the Commodity Exchange Act (7 U.S.C. 7)
+Section 5 of the Commodity Exchange Act (7 U.S.C. 7)
 section 4 of the Federal Reserve Act (12 U.S.C. 341)
 section 2(p) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
@@ -1892,6 +2591,8 @@ section 2(p) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
+Section 3(c) of the Bank Holding Company Act of 1956
+Section 5(b) of the Bank Holding Company Act of 1956
 section 15(b) of the Securities Exchange Act of 1934
 section 15(b) of the Securities Exchange Act of 1934
 section 15(b) of the Securities Exchange Act of 1934
@@ -1907,6 +2608,20 @@ section 13(p) of the Securities Exchange Act of 1934
 section 13(p) of the Securities Exchange Act of 1934
 section 13(p) of the Securities Exchange Act of 1934
 section 13(p) of the Securities Exchange Act of 1934
+Section 19(b) of the Securities Exchange Act of 1934
+Section 28(a) of the Securities Exchange Act of 1934
+Section 19(b) of the Securities Exchange Act of 1934
+Section 19(b) of the Securities Exchange Act of 1934
+Section 29(a) of the Securities Exchange Act of 1934
+Section 20(e) of the Securities Exchange Act of 1934
+Section 20(a) of the Securities Exchange Act of 1934
+Section 16(a) of the Securities Exchange Act of 1934
+Section 29(a) of the Securities Exchange Act of 1934
+Section 13(f) of the Securities Exchange Act of 1934
+Section 15(d) of the Securities Exchange Act of 1934
+Section 14(a) of the Securities Exchange Act of 1934
+Section 13(e) of the Securities Exchange Act of 1934
+Section 14(g) of the Securities Exchange Act of 1934
 section or the Real Estate Settlement Procedures Act
 section 2(p) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
@@ -1925,7 +2640,18 @@ section 2(p) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
 section 4(k) of the Bank Holding Company Act of 1956
+Section 3(c) of the Bank Holding Company Act of 1956
+Section 5(b) of the Bank Holding Company Act of 1956
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
+Section 2 of the Commodity Exchange Act (7 U.S.C. 2)
 section 4 of the Commodity Exchange Act (7 U.S.C. 6)
+Section 4 of the Commodity Exchange Act (7 U.S.C. 6)
+Section 5 of the Commodity Exchange Act (7 U.S.C. 7)
+Section 5 of the Commodity Exchange Act (7 U.S.C. 7)
 section 8(b)(3) of the Federal Deposit Insurance Act
 section 3(q)(1) of the Federal Deposit Insurance Act
 section 7(b)(2) of the Federal Deposit Insurance Act
@@ -1946,10 +2672,14 @@ section 3(c)(2) of the Federal Deposit Insurance Act
 section 3(c)(2) of the Federal Deposit Insurance Act
 section 3(c)(2) of the Federal Deposit Insurance Act
 section 3(c)(2) of the Federal Deposit Insurance Act
+Section 7(b)(2) of the Federal Deposit Insurance Act
+Section 3(y)(3) of the Federal Deposit Insurance Act
 section 4 of the Federal Reserve Act (12 U.S.C. 341)
+Section 3(a)(5) of the Flood Disaster Protection Act
 section 202(a)(11)(G) of the Investment Advisers Act
 section 202(a)(11)(C) of the Investment Advisers Act
 section or the Real Estate Settlement Procedures Act
+Section 6(g)(5)(B)(i) of the Securities Exchange Act
 section 15(b) of the Securities Exchange Act of 1934
 section 15(b) of the Securities Exchange Act of 1934
 section 15(b) of the Securities Exchange Act of 1934
@@ -1965,7 +2695,23 @@ section 13(p) of the Securities Exchange Act of 1934
 section 13(p) of the Securities Exchange Act of 1934
 section 13(p) of the Securities Exchange Act of 1934
 section 13(p) of the Securities Exchange Act of 1934
+Section 19(b) of the Securities Exchange Act of 1934
+Section 28(a) of the Securities Exchange Act of 1934
+Section 19(b) of the Securities Exchange Act of 1934
+Section 19(b) of the Securities Exchange Act of 1934
+Section 29(a) of the Securities Exchange Act of 1934
+Section 20(e) of the Securities Exchange Act of 1934
+Section 20(a) of the Securities Exchange Act of 1934
+Section 16(a) of the Securities Exchange Act of 1934
+Section 29(a) of the Securities Exchange Act of 1934
+Section 13(f) of the Securities Exchange Act of 1934
+Section 15(d) of the Securities Exchange Act of 1934
+Section 14(a) of the Securities Exchange Act of 1934
+Section 13(e) of the Securities Exchange Act of 1934
+Section 14(g) of the Securities Exchange Act of 1934
 section 16 of the Securities Investor Protection Act
+Section 14 of the Securities Investor Protection Act
+Section 16 of the Securities Investor Protection Act
 Consumer Leasing Act of 1976 (15 U.S.C. 1667 et seq.)
 Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(E))
 Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(F))
@@ -2017,7 +2763,11 @@ the Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
 the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 section 8 of the Commodity Exchange Act (7 U.S.C. 12)
+Section 9 of the Commodity Exchange Act (7 U.S.C. 13)
 section 10 of the Federal Reserve Act (12 U.S.C. 242)
+Section 11 of the Federal Reserve Act (12 U.S.C. 248)
+Section 11 of the Federal Reserve Act (12 U.S.C. 248)
+Section 11 of the Federal Reserve Act (12 U.S.C. 248)
 section 13 of the Federal Reserve Act (12 U.S.C. 342)
 section 13 of the Federal Reserve Act (12 U.S.C. 343)
 section 13 of the Federal Reserve Act (12 U.S.C. 343)
@@ -2037,10 +2787,27 @@ section 1(b) of the International Banking Act of 1978
 section 203(m) of the Investment Advisers Act of 1940
 section 202(a) of the Investment Advisers Act of 1940
 section 202(a) of the Investment Advisers Act of 1940
+Section 202(a) of the Investment Advisers Act of 1940
+Section 203(b) of the Investment Advisers Act of 1940
+Section 210(c) of the Investment Advisers Act of 1940
+Section 205(e) of the Investment Advisers Act of 1940
+Section 202(a) of the Investment Advisers Act of 1940
+Section 203(f) of the Investment Advisers Act of 1940
+Section 205(a) of the Investment Advisers Act of 1940
+Section 9(d)(1) of the Investment Company Act of 1940
 section 15E(w) of the Securities Exchange Act of 1934
 section 15G(a) of the Securities Exchange Act of 1934
 section 15B(d) of the Securities Exchange Act of 1934
+Section 15C(c) of the Securities Exchange Act of 1934
+Section 21B(a) of the Securities Exchange Act of 1934
+Section 15E(m) of the Securities Exchange Act of 1934
+Section 15B(a) of the Securities Exchange Act of 1934
+Section 15B(b) of the Securities Exchange Act of 1934
+Section 15B(c) of the Securities Exchange Act of 1934
+Section 15A(b) of the Securities Exchange Act of 1934
+Section 2(c)(2)(F)(v) of the Bank Holding Company Act
 section 8 of the Commodity Exchange Act (7 U.S.C. 12)
+Section 9 of the Commodity Exchange Act (7 U.S.C. 13)
 section 1013 of the Consumer Financial Protection Act
 section 1062 of the Consumer Financial Protection Act
 section 1062 of the Consumer Financial Protection Act
@@ -2048,8 +2815,14 @@ section 46(a)(2) of the Federal Deposit Insurance Act
 section 15(c)(5) of the Federal Deposit Insurance Act
 section 11(a)(1) of the Federal Deposit Insurance Act
 section 11(a)(4) of the Federal Deposit Insurance Act
+Section 10(b)(3) of the Federal Deposit Insurance Act
+Section 11(a)(1) of the Federal Deposit Insurance Act
+Section 18(c)(5) of the Federal Deposit Insurance Act
 section 104 of the Federal Mine Safety and Health Act
 section 10 of the Federal Reserve Act (12 U.S.C. 242)
+Section 11 of the Federal Reserve Act (12 U.S.C. 248)
+Section 11 of the Federal Reserve Act (12 U.S.C. 248)
+Section 11 of the Federal Reserve Act (12 U.S.C. 248)
 section 13 of the Federal Reserve Act (12 U.S.C. 342)
 section 13 of the Federal Reserve Act (12 U.S.C. 343)
 section 13 of the Federal Reserve Act (12 U.S.C. 343)
@@ -2066,13 +2839,30 @@ section 8(a) of the International Banking Act of 1978
 section 1(b) of the International Banking Act of 1978
 section 1(b) of the International Banking Act of 1978
 section 1(b) of the International Banking Act of 1978
+Section 203A(a) of the of the Investment Advisers Act
 section 203(m) of the Investment Advisers Act of 1940
 section 202(a) of the Investment Advisers Act of 1940
 section 202(a) of the Investment Advisers Act of 1940
+Section 202(a) of the Investment Advisers Act of 1940
+Section 203(b) of the Investment Advisers Act of 1940
+Section 210(c) of the Investment Advisers Act of 1940
+Section 205(e) of the Investment Advisers Act of 1940
+Section 202(a) of the Investment Advisers Act of 1940
+Section 203(f) of the Investment Advisers Act of 1940
+Section 205(a) of the Investment Advisers Act of 1940
+Section 9(d)(1) of the Investment Company Act of 1940
 section 13(a) or 15(d) of the Securities Exchange Act
+Section 21(d)(3)(C)(i) of the Securities Exchange Act
 section 15E(w) of the Securities Exchange Act of 1934
 section 15G(a) of the Securities Exchange Act of 1934
 section 15B(d) of the Securities Exchange Act of 1934
+Section 15C(c) of the Securities Exchange Act of 1934
+Section 21B(a) of the Securities Exchange Act of 1934
+Section 15E(m) of the Securities Exchange Act of 1934
+Section 15B(a) of the Securities Exchange Act of 1934
+Section 15B(b) of the Securities Exchange Act of 1934
+Section 15B(c) of the Securities Exchange Act of 1934
+Section 15A(b) of the Securities Exchange Act of 1934
 title and with the Securities Investor Protection Act
 section 141 of the Trade Act of 1974 (19 U.S.C. 2171)
 section 141 of the Trade Act of 1974 (19 U.S.C. 2171)
@@ -2115,13 +2905,17 @@ the Securities Exchange Act of 1934 (15 U.S.C. 78p(a))
 the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
 the Securities Exchange Act of 1934 (15 U.S.C. 78t(a))
 the Securities Exchange Act of 1934 (15 U.S.C. 78t(e))
+Section 12 of the Commodity Exchange Act (7 U.S.C. 16)
 section 17 of the Commodity Exchange Act (7 U.S.C. 21)
+Section 20 of the Commodity Exchange Act (7 U.S.C. 24)
 section 25A of the Federal Reserve Act (12 U.S.C. 611)
 section 5 of the Home Owners Loan Act (12 U.S.C. 1464)
 section 3(a)(4) of the Securities Exchange Act of 1934
 section 3(a)(5) of the Securities Exchange Act of 1934
 section (c) of section 6 of the Commodity Exchange Act
+Section 12 of the Commodity Exchange Act (7 U.S.C. 16)
 section 17 of the Commodity Exchange Act (7 U.S.C. 21)
+Section 20 of the Commodity Exchange Act (7 U.S.C. 24)
 title I of the Employee Retirement Income Security Act
 section 21A(r)(4)(A) of the Federal Home Loan Bank Act
 section 21A(r)(4)(B) of the Federal Home Loan Bank Act
@@ -2129,10 +2923,17 @@ section 25A of the Federal Reserve Act (12 U.S.C. 611)
 title or section 5 of the Federal Trade Commission Act
 section 5 of the Home Owners Loan Act (12 U.S.C. 1464)
 section 5 of the Real Estate Settlement Procedures Act
+Section 5 of the Real Estate Settlement Procedures Act
+Section 6 of the Real Estate Settlement Procedures Act
+Section 4 of the Real Estate Settlement Procedures Act
+Section 105(b)(5)(A) of the Sarbanes-Oxley Act of 2002
+Section 105(c)(7)(B) of the Sarbanes-Oxley Act of 2002
+Section 105(b)(4)(B) of the Sarbanes-Oxley Act of 2002
 section 3(a)(4) of the Securities Exchange Act of 1934
 section 3(a)(5) of the Securities Exchange Act of 1934
 section 8(c) of the Securities Investor Protection Act
 section 205 and the Securities Investor Protection Act
+Section 4(h) of the Securities Investor Protection Act
 title and under the Securities Investor Protection Act
 Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
 Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
@@ -2147,6 +2948,7 @@ the Alternative Mortgage Transaction Parity Act of 1982
 the Federal Trade Commission Act (15 U.S.C. 41 et seq.)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211 et seq.)
+Section 6(c) of the Commodity Exchange Act (7 U.S.C. 9)
 section 5(c)(5) of the Bank Holding Company Act of 1956
 section 4(j)(1) of the Bank Holding Company Act of 1956
 section 4(j)(2) of the Bank Holding Company Act of 1956
@@ -2156,6 +2958,9 @@ section 2(c)(2) of the Bank Holding Company Act of 1956
 section 2(c)(2) of the Bank Holding Company Act of 1956
 section 2(c)(2) of the Bank Holding Company Act of 1956
 section 2(c)(2) of the Bank Holding Company Act of 1956
+Section 5(c)(2) of the Bank Holding Company Act of 1956
+Section 4(l)(1) of the Bank Holding Company Act of 1956
+Section 2(o)(4) of the Bank Holding Company Act of 1956
 section 11 of the Home Owners Loan Act (12 U.S.C. 1468)
 section 21 or 27 of the Securities Exchange Act of 1934
 section 21 or 27 of the Securities Exchange Act of 1934
@@ -2182,6 +2987,19 @@ section 3(a)(77) of the Securities Exchange Act of 1934
 section 3(a)(77) of the Securities Exchange Act of 1934
 section 3(a)(77) of the Securities Exchange Act of 1934
 section 3(a)(12) of the Securities Exchange Act of 1934
+Section 15(c)(3) of the Securities Exchange Act of 1934
+Section 13(f)(1) of the Securities Exchange Act of 1934
+Section 15(b)(4) of the Securities Exchange Act of 1934
+Section 19(b)(1) of the Securities Exchange Act of 1934
+Section 19(b)(3) of the Securities Exchange Act of 1934
+Section 17(f)(1) of the Securities Exchange Act of 1934
+Section 21(a)(1) of the Securities Exchange Act of 1934
+Section 21(a)(1) of the Securities Exchange Act of 1934
+Section 19(h)(4) of the Securities Exchange Act of 1934
+Section 21(a)(1) of the Securities Exchange Act of 1934
+Section 17(f)(2) of the Securities Exchange Act of 1934
+Section 3(a)(62) of the Securities Exchange Act of 1934
+Section 17(a)(1) of the Securities Exchange Act of 1934
 section 5(c)(5) of the Bank Holding Company Act of 1956
 section 4(j)(1) of the Bank Holding Company Act of 1956
 section 4(j)(2) of the Bank Holding Company Act of 1956
@@ -2191,10 +3009,26 @@ section 2(c)(2) of the Bank Holding Company Act of 1956
 section 2(c)(2) of the Bank Holding Company Act of 1956
 section 2(c)(2) of the Bank Holding Company Act of 1956
 section 2(c)(2) of the Bank Holding Company Act of 1956
+Section 5(c)(2) of the Bank Holding Company Act of 1956
+Section 4(l)(1) of the Bank Holding Company Act of 1956
+Section 2(o)(4) of the Bank Holding Company Act of 1956
+Section 6(c) of the Commodity Exchange Act (7 U.S.C. 9)
+Section 106 of the Emergency Economic Stabilization Act
 section 202(c)(1)(A)(i) of the Federal Credit Union Act
 section 7(b)(2)(C) of the Federal Deposit Insurance Act
+Section 7(a)(2)(B) of the Federal Deposit Insurance Act
+Section 7(b)(1)(E) of the Federal Deposit Insurance Act
+Section 7(b)(3)(B) of the Federal Deposit Insurance Act
 section 11 of the Home Owners Loan Act (12 U.S.C. 1468)
 section 18(c) of the Public Utility Holding Company Act
+Section 4 of the Securities Act of 1933 (15 U.S.C. 77d)
+Section 4 of the Securities Act of 1933 (15 U.S.C. 77d)
+Section 5 of the Securities Act of 1933 (15 U.S.C. 77e)
+Section 5 of the Securities Act of 1933 (15 U.S.C. 77e)
+Section 7 of the Securities Act of 1933 (15 U.S.C. 77g)
+Section 7 of the Securities Act of 1933 (15 U.S.C. 77g)
+Section 7 of the Securities Act of 1933 (15 U.S.C. 77g)
+Section 7 of the Securities Act of 1933 (15 U.S.C. 77g)
 section 21 or 27 of the Securities Exchange Act of 1934
 section 21 or 27 of the Securities Exchange Act of 1934
 section 3(a)(47) of the Securities Exchange Act of 1934
@@ -2220,6 +3054,20 @@ section 3(a)(77) of the Securities Exchange Act of 1934
 section 3(a)(77) of the Securities Exchange Act of 1934
 section 3(a)(77) of the Securities Exchange Act of 1934
 section 3(a)(12) of the Securities Exchange Act of 1934
+Section 15(c)(3) of the Securities Exchange Act of 1934
+Section 13(f)(1) of the Securities Exchange Act of 1934
+Section 15(b)(4) of the Securities Exchange Act of 1934
+Section 19(b)(1) of the Securities Exchange Act of 1934
+Section 19(b)(3) of the Securities Exchange Act of 1934
+Section 17(f)(1) of the Securities Exchange Act of 1934
+Section 21(a)(1) of the Securities Exchange Act of 1934
+Section 21(a)(1) of the Securities Exchange Act of 1934
+Section 19(h)(4) of the Securities Exchange Act of 1934
+Section 21(a)(1) of the Securities Exchange Act of 1934
+Section 17(f)(2) of the Securities Exchange Act of 1934
+Section 3(a)(62) of the Securities Exchange Act of 1934
+Section 17(a)(1) of the Securities Exchange Act of 1934
+Section 14(c) of the Securities Investor Protection Act
 Enhancing Financial Institution Safety and Soundness Act
 International Banking Act of 1978 (12 U.S.C. 3101(b)(7))
 International Banking Act of 1978 (12 U.S.C. 3105(d)(3))
@@ -2260,6 +3108,7 @@ section 5b of the Commodity Exchange Act (7 U.S.C. 7a-1)
 section 804(c) of the Community Reinvestment Act of 1977
 section 13(3) of the Federal Reserve Act (12 U.S.C. 343)
 section 13(3) of the Federal Reserve Act (12 U.S.C. 343)
+Section 22(d) of the Federal Reserve Act (12 U.S.C. 375)
 title B of the Consumer Financial Protection Act of 2010
 title B of the Consumer Financial Protection Act of 2010
 title B of the Consumer Financial Protection Act of 2010
@@ -2299,8 +3148,16 @@ title E of the Consumer Financial Protection Act of 2010
 section 7(c)(1) of the International Banking Act of 1978
 section 1(b)(7) of the International Banking Act of 1978
 section 1(b)(7) of the International Banking Act of 1978
+Section 7(d)(3) of the International Banking Act of 1978
+Section 7(e)(1) of the International Banking Act of 1978
+Section 203(i)(1) of the Investment Advisers Act of 1940
+Section 6(a)(5)(A)(iv)(I) Investment Company Act of 1940
 section 21F(a)(3) of the Securities Exchange Act of 1934
 section 15G(c)(2) of the Securities Exchange Act of 1934
+Section 15B(c)(4) of the Securities Exchange Act of 1934
+Section 15B(c)(8) of the Securities Exchange Act of 1934
+Section 21D(b)(2) of the Securities Exchange Act of 1934
+Section 15B(d)(2) of the Securities Exchange Act of 1934
 section 5b of the Commodity Exchange Act (7 U.S.C. 7a-1)
 section 804(c) of the Community Reinvestment Act of 1977
 section 1029(a) of the Consumer Financial Protection Act
@@ -2353,18 +3210,37 @@ section 3 of the Employee Retirement Income Security Act
 section 3 of the Employee Retirement Income Security Act
 section 3 of the Employee Retirement Income Security Act
 section 3 of the Employee Retirement Income Security Act
+Section 11(a)(1)(E) of the Federal Deposit Insurance Act
+Section 44(b)(4)(B) of the Federal Deposit Insurance Act
+Section 13(c)(4)(G) of the Federal Deposit Insurance Act
 section 107(a) of the Federal Mine Safety and Health Act
 section 13(3) of the Federal Reserve Act (12 U.S.C. 343)
 section 13(3) of the Federal Reserve Act (12 U.S.C. 343)
+Section 22(d) of the Federal Reserve Act (12 U.S.C. 375)
 section 7(c)(1) of the International Banking Act of 1978
 section 1(b)(7) of the International Banking Act of 1978
 section 1(b)(7) of the International Banking Act of 1978
+Section 7(d)(3) of the International Banking Act of 1978
+Section 7(e)(1) of the International Banking Act of 1978
+Section 203(i)(1) of the Investment Advisers Act of 1940
+Section 15 of the Securities Act of 1933 (15 U.S.C. 77o)
+Section 15 of the Securities Act of 1933 (15 U.S.C. 77o)
 section 17 of the Securities Act of 1933 (15 U.S.C. 77q)
+Section 17 of the Securities Act of 1933 (15 U.S.C. 77q)
 section 17 of the Securities Act of 1933 (15 U.S.C. 77q)
+Section 17 of the Securities Act of 1933 (15 U.S.C. 77q)
+Section 19 of the Securities Act of 1933 (15 U.S.C. 77s)
+Section 19 of the Securities Act of 1933 (15 U.S.C. 77s)
+Section 19 of the Securities Act of 1933 (15 U.S.C. 77s)
+Section 19 of the Securities Act of 1933 (15 U.S.C. 77s)
 section 24 of the Securities Act of 1933 (15 U.S.C. 77x)
 section 24 of the Securities Act of 1933 (15 U.S.C. 77x)
 section 21F(a)(3) of the Securities Exchange Act of 1934
 section 15G(c)(2) of the Securities Exchange Act of 1934
+Section 15B(c)(4) of the Securities Exchange Act of 1934
+Section 15B(c)(8) of the Securities Exchange Act of 1934
+Section 21D(b)(2) of the Securities Exchange Act of 1934
+Section 15B(d)(2) of the Securities Exchange Act of 1934
 section 102 of the Small Business Investment Act of 1958
 Dodd-Frank Wall Street Reform and Consumer Protection Act
 Expand and Preserve Home Ownership Through Counseling Act
@@ -2386,11 +3262,27 @@ the Small Business Investment Act of 1958 (15 U.S.C. 662)
 the Small Business Investment Act of 1958 (15 U.S.C. 662)
 section 23B of the Federal Reserve Act (12 U.S.C. 371c-1)
 section 202(a)(11) of the Investment Advisers Act of 1940
+Section 202(a)(11) of the Investment Advisers Act of 1940
+Section 202(a)(21) of the Investment Advisers Act of 1940
+Section 42(e)(3)(A) of the Investment Company Act of 1940
+Section 6(g)(1)(A) of the Securities Exchange Act of 1934
+Section 7(c)(1)(A) of the Securities Exchange Act of 1934
 section 7A(c)(8) of the Clayton Act (15 U.S.C. 18a(c)(8))
 section 7A(c)(8) of the Clayton Act (15 U.S.C. 18a(c)(8))
 section 303(f) of the Commodity Futures Modernization Act
+Section 603(d)(1) of the Expedited Funds Availability Act
 section 23B of the Federal Reserve Act (12 U.S.C. 371c-1)
 section 202(a)(11) of the Investment Advisers Act of 1940
+Section 202(a)(11) of the Investment Advisers Act of 1940
+Section 202(a)(21) of the Investment Advisers Act of 1940
+Section 42(e)(3)(A) of the Investment Company Act of 1940
+Section 6(f) of the Real Estate Settlement Procedures Act
+Section 6(e) of the Real Estate Settlement Procedures Act
+Section 6(g) of the Real Estate Settlement Procedures Act
+Section 6(g)(1)(A) of the Securities Exchange Act of 1934
+Section 7(c)(1)(A) of the Securities Exchange Act of 1934
+Section 5(a)(3) of the Securities Investor Protection Act
+Section 9(a)(1) of the Securities Investor Protection Act
 Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.)
 The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.)
 The Securities Exchange Act of 1934 (15 U.S.C. 78 et seq.)
@@ -2403,6 +3295,9 @@ section 3(a)(68)(D) of the Securities Exchange Act of 1934
 section 3(a)(68)(A) of the Securities Exchange Act of 1934
 section 21(e) or 27 of the Securities Exchange Act of 1934
 section 13(p)(1)(A) of the Securities Exchange Act of 1934
+Section 19(b)(4)(D) of the Securities Exchange Act of 1934
+Section 15(b)(6)(A) of the Securities Exchange Act of 1934
+Section 17(e)(1)(A) of the Securities Exchange Act of 1934
 section 4(k)(6)(B) of the Bank Holding Company Act of 1956
 section 4(k)(4)(E) of the Bank Holding Company Act of 1956
 section 2(c)(2)(F) of the Bank Holding Company Act of 1956
@@ -2415,11 +3310,19 @@ section 2(c)(2)(F) of the Bank Holding Company Act of 1956
 section 2(c)(2)(H) of the Bank Holding Company Act of 1956
 section 2(c)(2)(B) of the Bank Holding Company Act of 1956
 section 2(c)(2)(D) of the Bank Holding Company Act of 1956
+Section 4(j)(2)(A) of the Bank Holding Company Act of 1956
+Section 4(k)(6)(B) of the Bank Holding Company Act of 1956
+Section 3(d)(1)(A) of the Bank Holding Company Act of 1956
 section 121(k) of the Emergency Economic Stabilization Act
+Section 115(a) of the Emergency Economic Stabilization Act
+Section 105(b)(5)(B)(ii) of the Sarbanes-Oxley Act of 2002
 section 3(a)(68)(D) of the Securities Exchange Act of 1934
 section 3(a)(68)(A) of the Securities Exchange Act of 1934
 section 21(e) or 27 of the Securities Exchange Act of 1934
 section 13(p)(1)(A) of the Securities Exchange Act of 1934
+Section 19(b)(4)(D) of the Securities Exchange Act of 1934
+Section 15(b)(6)(A) of the Securities Exchange Act of 1934
+Section 17(e)(1)(A) of the Securities Exchange Act of 1934
 Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)
 Community Reinvestment Act of 1977 (12 U.S.C. 2901 et seq.)
 Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.)
@@ -2439,30 +3342,40 @@ the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
 the Wall Street Transparency and Accountability Act of 2010
 section 102(d) of the Flood Disaster Protection Act of 1973
 section 102(e) of the Flood Disaster Protection Act of 1973
+Section 209(e)(3)(A) of the Investment Advisers Act of 1940
 section 4 of the Securities Investor Protection Act of 1970
+Section 9 of the Securities Investor Protection Act of 1970
 section 21F(h)(2)(A) of the Securities Exchange Act of 1934
 section 15E(h)(2)(B) of the Securities Exchange Act of 1934
+Section 17A(c)(4)(C) of the Securities Exchange Act of 1934
 title and the Real Estate Settlement Procedures Act of 1974
 title B of the Consumer Protection Financial Protection Act
 section 3(3) of the Employee Retirement Income Security Act
 section 7(b)(3)(E)(ii) of the Federal Deposit Insurance Act
 section 13(c)(4)(G)(i) of the Federal Deposit Insurance Act
 section 13(c)(4)(G)(i) of the Federal Deposit Insurance Act
+Section 18(d)(4)(A)(i) of the Federal Deposit Insurance Act
 section 3 of the Federal Mine Safety and Health Act of 1977
 section 3 of the Federal Mine Safety and Health Act of 1977
 section 102(d) of the Flood Disaster Protection Act of 1973
 section 102(e) of the Flood Disaster Protection Act of 1973
+Section 104(a) of the Helping Families Save Their Homes Act
+Section 209(e)(3)(A) of the Investment Advisers Act of 1940
 section 2(a)(4) of the Liability Risk Retention Act of 1986
 title and the Real Estate Settlement Procedures Act of 1974
+Section 22 of the Securities Act of 1933 (15 U.S.C. 77v(a))
 section 21F(h)(2)(A) of the Securities Exchange Act of 1934
 section 15E(h)(2)(B) of the Securities Exchange Act of 1934
+Section 17A(c)(4)(C) of the Securities Exchange Act of 1934
 section 4 of the Securities Investor Protection Act of 1970
+Section 9 of the Securities Investor Protection Act of 1970
 Corporation Improvement Act of 1991 (12 U.S.C. 4401 et seq.)
 Resident Homeownership Act of 1990 (12 U.S.C. 4110(d)(2)(G))
 the Enhancing Financial Institution Safety and Soundness Act
 the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))
 the International Banking Act of 1978 (12 U.S.C. 3105(d)(3))
 the International Banking Act of 1978 (12 U.S.C. 3105(e)(1))
+Section 4m(3) of the Commodity Exchange Act (7 U.S.C. 6m(3))
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
@@ -2471,41 +3384,56 @@ section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
 title I of the National Housing Act (12 U.S.C. 1702 et seq.)
 title I of the National Housing Act (12 U.S.C. 1702 et seq.)
 section or the Real Estate Settlement Procedures Act of 1974
+Section 4m(3) of the Commodity Exchange Act (7 U.S.C. 6m(3))
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
 section 101 of the Federal Credit Union Act (12 U.S.C. 1752)
+Section 3(a)(5) of the Flood Disaster Protection Act of 1973
 section 202(a)(11)(G) of the Investment Advisers Act of 1940
 section 202(a)(11)(C) of the Investment Advisers Act of 1940
 title I of the National Housing Act (12 U.S.C. 1702 et seq.)
 title I of the National Housing Act (12 U.S.C. 1702 et seq.)
 section 6(i)(2) of the Real Estate Settlement Procedures Act
 section or the Real Estate Settlement Procedures Act of 1974
+Section 6(g)(5)(B)(i) of the Securities Exchange Act of 1934
 section 205 and under the Securities Investor Protection Act
+Section 4(d)(1)(C) of the Securities Investor Protection Act
 section 16 of the Securities Investor Protection Act of 1970
+Section 14 of the Securities Investor Protection Act of 1970
+Section 16 of the Securities Investor Protection Act of 1970
 The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.)
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.)
 the Private Fund Investment Advisers Registration Act of 2010
 section 1a of the Commodity Exchange Act (7 U.S.C. 1 et seq.)
 section 1a of the Commodity Exchange Act (7 U.S.C. 1 et seq.)
+Section 8a(7) of the Commodity Exchange Act (7 U.S.C. 12a(7))
+Section 10 of the Federal Reserve Act (12 U.S.C. 241 et seq.)
 section 25 of the Federal Reserve Act (12 U.S.C. 601 et seq.)
+Section 2(c)(2)(F)(v) of the Bank Holding Company Act of 1956
 section 1a of the Commodity Exchange Act (7 U.S.C. 1 et seq.)
 section 1a of the Commodity Exchange Act (7 U.S.C. 1 et seq.)
+Section 8a(7) of the Commodity Exchange Act (7 U.S.C. 12a(7))
 section 1013 of the Consumer Financial Protection Act of 2010
 section 1062 of the Consumer Financial Protection Act of 2010
 section 1062 of the Consumer Financial Protection Act of 2010
 section 7 or 13(c)(4)(G) of the Federal Deposit Insurance Act
 section 104 of the Federal Mine Safety and Health Act of 1977
+Section 10 of the Federal Reserve Act (12 U.S.C. 241 et seq.)
 section 25 of the Federal Reserve Act (12 U.S.C. 601 et seq.)
+Section 203A(a) of the of the Investment Advisers Act of 1940
 section 10(a)(2) of the Real Estate Settlement Procedures Act
+Section 2(a) of the Securities Act of 1933 (15 U.S.C. 77b(a))
 section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b))
 section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b))
 section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b))
 section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b))
 section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b))
 section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b))
+Section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b))
 section 13(a) or 15(d) of the Securities Exchange Act of 1934
+Section 21(d)(3)(C)(i) of the Securities Exchange Act of 1934
 title and with the Securities Investor Protection Act of 1970
 Housing Enterprises Financial Safety and Soundness Act of 1992
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(E))
@@ -2522,18 +3450,37 @@ the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802)
 the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814)
 the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814)
 the Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701)
+Section 11 of the Child Nutrition Act of 1966 (42 U.S.C. 1780)
+Section 11 of the Child Nutrition Act of 1966 (42 U.S.C. 1780)
 section 25A of the Federal Reserve Act (12 U.S.C. 611 et seq.)
+Section 11 of the Child Nutrition Act of 1966 (42 U.S.C. 1780)
+Section 11 of the Child Nutrition Act of 1966 (42 U.S.C. 1780)
 title I of the Employee Retirement Income Security Act of 1974
 title or section 24 of the Federal Reserve Act (12 U.S.C. 371)
 title or section 24 of the Federal Reserve Act (12 U.S.C. 371)
 section 25A of the Federal Reserve Act (12 U.S.C. 611 et seq.)
+Section 502(c) of the Housing Act of 1948 (12 U.S.C. 1701c(c))
+Section 908(a)(1) of the International Lending Supervision Act
 section 5 of the Real Estate Settlement Procedures Act of 1974
+Section 5 of the Real Estate Settlement Procedures Act of 1974
+Section 6 of the Real Estate Settlement Procedures Act of 1974
+Section 4 of the Real Estate Settlement Procedures Act of 1974
+Section 101 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211)
+Section 101 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211)
+Section 102 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7212)
+Section 102 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7212)
+Section 106 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216)
+Section 106 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216)
+Section 109 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7219)
+Section 109 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7219)
 section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246)
 section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246)
 section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246)
 section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246)
+Section 22(a) of the Securities Act of 1933 (15 U.S.C. 77v(a))
 section 8(c) of the Securities Investor Protection Act of 1970
 section 205 and the Securities Investor Protection Act of 1970
+Section 4(h) of the Securities Investor Protection Act of 1970
 title and under the Securities Investor Protection Act of 1970
 title A of the Wall Street Transparency and Accountability Act
 title A of the Wall Street Transparency and Accountability Act
@@ -2544,6 +3491,7 @@ The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.)
 the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.)
 the Home Owners Protection Act of 1998 (12 U.S.C. 4901 et seq.)
 the Liability Risk Retention Act of 1986 (15 U.S.C. 3901(a)(4))
+Section 2 of the Federal Deposit Insurance Act (12 U.S.C. 1812)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
@@ -2555,6 +3503,7 @@ section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
+Section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 5 of the Federal Deposit Insurance Act (12 U.S.C. 1815)
 section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
 section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
@@ -2565,6 +3514,8 @@ section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
 section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
 section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
 section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
+Section 106 of the Emergency Economic Stabilization Act of 2008
+Section 2 of the Federal Deposit Insurance Act (12 U.S.C. 1812)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
@@ -2576,6 +3527,7 @@ section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
+Section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)
 section 5 of the Federal Deposit Insurance Act (12 U.S.C. 1815)
 section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
 section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
@@ -2589,17 +3541,24 @@ section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818)
 title and section 24 of the Federal Reserve Act (12 U.S.C. 371)
 section 18(c) of the Public Utility Holding Company Act of 1935
 section 205(f) and under the Securities Investor Protection Act
+Section 14(c) of the Securities Investor Protection Act of 1970
 Enhancing Financial Institution Safety and Soundness Act of 2010
 the Flood Disaster Protection Act of 1973 (42 U.S.C. 4003(a)(5))
 the Securities Investor Protection Act of 1970 (15 U.S.C. 78ddd)
 the Securities Investor Protection Act of 1970 (15 U.S.C. 78jjj)
 the Securities Investor Protection Act of 1970 (15 U.S.C. 78lll)
+Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1))
+Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1))
+Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2))
 section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
 section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
 section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
+Section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
 section 701 of the Equal Credit Opportunity Act (15 U.S.C. 1691)
 section 13 of the Federal Deposit Insurance Act (12 U.S.C. 1823)
 section 13 of the Federal Deposit Insurance Act (12 U.S.C. 1823)
+Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828)
+Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
@@ -2608,10 +3567,26 @@ section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f)
+Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
 section 325 of the Trust Indenture Act of 1939 (15 U.S.C. 77yyy)
+Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1))
+Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1))
+Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2))
 section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
 section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
 section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
+Section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1))
 section 1029(a) of the Consumer Financial Protection Act of 2010
 section 1029(a) of the Consumer Financial Protection Act of 2010
 section 1029(a) of the Consumer Financial Protection Act of 2010
@@ -2629,6 +3604,8 @@ section 3 of the Employee Retirement Income Security Act of 1974
 section 701 of the Equal Credit Opportunity Act (15 U.S.C. 1691)
 section 13 of the Federal Deposit Insurance Act (12 U.S.C. 1823)
 section 13 of the Federal Deposit Insurance Act (12 U.S.C. 1823)
+Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828)
+Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828)
 section 305(a)(2) the Federal Home Loan Mortgage Corporation Act
 section 305(a)(2) the Federal Home Loan Mortgage Corporation Act
 section 305(a)(2) the Federal Home Loan Mortgage Corporation Act
@@ -2645,6 +3622,18 @@ section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d)
+Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f)
+Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
+Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i)
 section 325 of the Trust Indenture Act of 1939 (15 U.S.C. 77yyy)
 The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.)
 the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5216)
@@ -2657,10 +3646,44 @@ section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706)
 section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706)
 section 11(r)(2) of the Federal Reserve Act (12 U.S.C. 248(r)(2))
 section 19(b)(7) of the Federal Reserve Act (12 U.S.C. 461(b)(7))
+Section 10 of the Securities Exchange Act of 1934 (15 U.S.C. 78j)
+Section 10 of the Securities Exchange Act of 1934 (15 U.S.C. 78j)
 section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l)
 section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
 section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
 section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 17 of the Securities Exchange Act of 1934 (15 U.S.C. 78q)
+Section 17 of the Securities Exchange Act of 1934 (15 U.S.C. 78q)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
 section 25 of the Securities Exchange Act of 1934 (15 U.S.C. 78y)
 section 25 of the Securities Exchange Act of 1934 (15 U.S.C. 78y)
 section 303(f) of the Commodity Futures Modernization Act of 2000
@@ -2668,17 +3691,61 @@ section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706)
 section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706)
 section 11(r)(2) of the Federal Reserve Act (12 U.S.C. 248(r)(2))
 section 19(b)(7) of the Federal Reserve Act (12 U.S.C. 461(b)(7))
+Section 6(f) of the Real Estate Settlement Procedures Act of 1974
+Section 6(e) of the Real Estate Settlement Procedures Act of 1974
+Section 6(g) of the Real Estate Settlement Procedures Act of 1974
+Section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(a))
+Section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(a))
+Section 10 of the Securities Exchange Act of 1934 (15 U.S.C. 78j)
+Section 10 of the Securities Exchange Act of 1934 (15 U.S.C. 78j)
 section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l)
 section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n)
 section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
 section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 17 of the Securities Exchange Act of 1934 (15 U.S.C. 78q)
+Section 17 of the Securities Exchange Act of 1934 (15 U.S.C. 78q)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
+Section 24 of the Securities Exchange Act of 1934 (15 U.S.C. 78x)
 section 25 of the Securities Exchange Act of 1934 (15 U.S.C. 78y)
 section 25 of the Securities Exchange Act of 1934 (15 U.S.C. 78y)
+Section 5(a)(3) of the Securities Investor Protection Act of 1970
+Section 9(a)(1) of the Securities Investor Protection Act of 1970
 the Federal Financial Institutions Examination Council Act of 1978
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605)
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605)
+Section 17(r)(1) of the Commodity Exchange Act (7 U.S.C. 21(r)(1))
+Section 22(a)(1) of the Commodity Exchange Act (7 U.S.C. 25(a)(1))
+Section 4c(a)(1) of the Commodity Exchange Act (7 U.S.C. 6c(a)(1))
 section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
 section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
 section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
@@ -2695,10 +3762,19 @@ section 3 of the Bank Holding Company Act of 1956 (12 U.S.C. 1842)
 section 3 of the Bank Holding Company Act of 1956 (12 U.S.C. 1842)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
+Section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
+Section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 2 of the Bank Holding Company Act of 1965 (12 U.S.C. 1841)
 section 2 of the Bank Holding Company Act of 1965 (12 U.S.C. 1841)
+Section 27 of the Securities Exchange Act of 1934 (15 U.S.C. 78aa)
+Section 27 of the Securities Exchange Act of 1934 (15 U.S.C. 78aa)
+Section 30 of the Securities Exchange Act of 1934 (15 U.S.C. 78dd)
+Section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee)
+Section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee)
+Section 35 of the Securities Exchange Act of 1934 (15 U.S.C. 78kk)
+Section 36 of the Securities Exchange Act of 1934 (15 U.S.C. 78mm)
 section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
 section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
 section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
@@ -2715,19 +3791,42 @@ section 3 of the Bank Holding Company Act of 1956 (12 U.S.C. 1842)
 section 3 of the Bank Holding Company Act of 1956 (12 U.S.C. 1842)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
+Section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
+Section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
 section 2 of the Bank Holding Company Act of 1965 (12 U.S.C. 1841)
 section 2 of the Bank Holding Company Act of 1965 (12 U.S.C. 1841)
+Section 17(r)(1) of the Commodity Exchange Act (7 U.S.C. 21(r)(1))
+Section 22(a)(1) of the Commodity Exchange Act (7 U.S.C. 25(a)(1))
+Section 4c(a)(1) of the Commodity Exchange Act (7 U.S.C. 6c(a)(1))
 section 121(k) of the Emergency Economic Stabilization Act of 2008
+Section 115(a) of the Emergency Economic Stabilization Act of 2008
+Section 606(c)(3) of the Neighborhood Reinvestment Corporation Act
+Title I of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.)
+Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a))
+Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a))
+Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a))
+Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a))
+Section 27 of the Securities Exchange Act of 1934 (15 U.S.C. 78aa)
+Section 27 of the Securities Exchange Act of 1934 (15 U.S.C. 78aa)
+Section 30 of the Securities Exchange Act of 1934 (15 U.S.C. 78dd)
+Section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee)
+Section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee)
+Section 35 of the Securities Exchange Act of 1934 (15 U.S.C. 78kk)
+Section 36 of the Securities Exchange Act of 1934 (15 U.S.C. 78mm)
 section 728 of the Wall Street Transparency and Accountability Act
+Section 31 of the Investment Company Act of 1940 (15 U.S.C. 80a-30)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 title under the Federal Trade Commission Act (15 U.S.C. 41 et seq.)
 title B of the Consumer Protection Financial Protection Act of 2010
 section 3(3) of the Employee Retirement Income Security Act of 1974
+Section 306(l)(2) of the Federal Home Loan Mortgage Corporation Act
 title under the Federal Trade Commission Act (15 U.S.C. 41 et seq.)
+Section 104(a) of the Helping Families Save Their Homes Act of 2009
+Section 31 of the Investment Company Act of 1940 (15 U.S.C. 80a-30)
 section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c)
@@ -2739,11 +3838,28 @@ the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002)
 the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002)
 the Enhancing Financial Institution Safety and Soundness Act of 2010
 the Neighborhood Reinvestment Corporation Act (42 U.S.C. 8105(c)(3))
+Section 10 of the Homeowners Protection Act of 1998 (12 U.S.C. 4909)
+Section 10 of the Homeowners Protection Act of 1998 (12 U.S.C. 4909)
 section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
 section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 21B of the Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
+Section 21B of the Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
 section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
+Section 603 of the Expedited Funds Availability Act (12 U.S.C. 4002)
+Section 604 of the Expedited Funds Availability Act (12 U.S.C. 4003)
+Section 605 of the Expedited Funds Availability Act (12 U.S.C. 4004)
+Section 607 of the Expedited Funds Availability Act (12 U.S.C. 4006)
+Section 609 of the Expedited Funds Availability Act (12 U.S.C. 4008)
+Section 10 of the Homeowners Protection Act of 1998 (12 U.S.C. 4909)
+Section 10 of the Homeowners Protection Act of 1998 (12 U.S.C. 4909)
 section 6(i)(2) of the Real Estate Settlement Procedures Act of 1974
+Section 103(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7213(a))
+Section 103(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7213(a))
+Section 104(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7214(a))
+Section 104(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7214(a))
+Section 106(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216(a))
+Section 106(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216(a))
 section 308(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(b))
 section 308(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(b))
 section 308(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(b))
@@ -2752,9 +3868,12 @@ section 404(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262(b))
 section 404(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262(b))
 section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
 section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o)
+Section 21B of the Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
+Section 21B of the Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
 section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 section 205 and under the Securities Investor Protection Act of 1970
+Section 4(d)(1)(C) of the Securities Investor Protection Act of 1970
 the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2))
 the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1455(l)(2))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(e))
@@ -2763,11 +3882,18 @@ the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
+Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
+Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
+Section 210 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-10)
+Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
+Section 232(a) of the Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
+Section 210 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-10)
 section 10(a)(2) of the Real Estate Settlement Procedures Act of 1974
+Section 2(a)(9) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(9))
 section 763(i) of the Wall Street Transparency and Accountability Act
 The Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701 et seq.)
 the Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701 et seq.)
@@ -2781,6 +3907,8 @@ section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
 section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
 section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
 section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
+Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
+Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
@@ -2788,12 +3916,16 @@ section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
+Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
+Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
+Section 6(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(b))
+Section 9(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78i(b))
 title A of the Wall Street Transparency and Accountability Act of 2010
 title A of the Wall Street Transparency and Accountability Act of 2010
 title B of the Wall Street Transparency and Accountability Act of 2010
@@ -2806,6 +3938,9 @@ section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
 section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
 section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
 section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)
+Section 908(a)(1) of the International Lending Supervision Act of 1983
+Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
+Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
@@ -2813,26 +3948,52 @@ section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
+Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
+Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
+Section 6(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(b))
+Section 9(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78i(b))
 title A of the Wall Street Transparency and Accountability Act of 2010
 title A of the Wall Street Transparency and Accountability Act of 2010
 title B of the Wall Street Transparency and Accountability Act of 2010
 title B of the Wall Street Transparency and Accountability Act of 2010
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 73o(b))
 section 13(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78a(m))
+Section 13(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(e))
+Section 13(f) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(f))
+Section 14(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78n(a))
+Section 14(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78n(g))
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
+Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d))
+Section 16(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78p(a))
+Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
+Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
+Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
+Section 20(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78t(a))
+Section 20(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78t(e))
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 73o(b))
 section 13(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78a(m))
+Section 13(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(e))
+Section 13(f) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(f))
+Section 14(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78n(a))
+Section 14(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78n(g))
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
 section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
+Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d))
+Section 16(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78p(a))
+Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
+Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
+Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
+Section 20(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78t(a))
+Section 20(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78t(e))
 section 205(f) and under the Securities Investor Protection Act of 1970
 the International Lending Supervision Act of 1983 (12 U.S.C. 3907(a)(1))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)(2))
@@ -2850,6 +4011,8 @@ section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
 section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
 section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
 section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
+Section 3(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c))
+Section 3(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
@@ -2858,6 +4021,8 @@ section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
+Section 5(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(b))
+Section 5(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(b))
 section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))
 section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))
 section 2(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(b))
@@ -2866,6 +4031,8 @@ section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
 section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
 section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
 section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
+Section 3(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c))
+Section 3(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
@@ -2874,7 +4041,11 @@ section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
+Section 5(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(b))
+Section 5(b) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(b))
 section 207(k)(1) of the Federal Credit Union Act (12 U.S.C. 1787(k)(1))
+Section 207(k)(1) of the Federal Credit Union Act (12 U.S.C. 1787(k)(1))
+Section 207(k)(5) of the Federal Credit Union Act (12 U.S.C. 1787(k)(5))
 section 402 of the Federal Deposit Insurance Corporation Improvement Act
 section 104(a) of the Federally Recognized Indian Tribe List Act of 1994
 section 102 of the Small Business Investment Act of 1958 (15 U.S.C. 662)
@@ -2893,6 +4064,7 @@ section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a))
 section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a))
 section 24(f) of the Investment Company Act of 1940 (15 U.S.C. 80a-24(f))
 section 24(f) of the Investment Company Act of 1940 (15 U.S.C. 80a-24(f))
+Section 11(l)(2) of the Federal Home Loan Bank Act (12 U.S.C. 1431(l)(2))
 section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a))
 section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a))
 section 8(a) of the International Banking Act of 1978 (12 U.S.C. 3106(a))
@@ -2909,7 +4081,13 @@ title III of the Dodd-Frank Wall Street Reform and Consumer Protection Act
 section 6 of the Expand and Preserve Home Ownership Through Counseling Act
 section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3(m))
 section 728 of the Wall Street Transparency and Accountability Act of 2010
+Section 603(d)(1) of the Expedited Funds Availability Act (12 U.S.C. 4002)
+Section 1011 of the Federal Financial Institutions Examination Council Act
+Section 304(g)(2) of the Federal National Mortgage Association Charter Act
 section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3(m))
+Section 105(b)(5) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5))
+Section 105(c)(6) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(6))
+Section 107(d)(3) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7217(d)(3))
 section 728 of the Wall Street Transparency and Accountability Act of 2010
 section 311 of the Enhancing Financial Institution Safety and Soundness Act
 section 311 of the Enhancing Financial Institution Safety and Soundness Act
@@ -2926,7 +4104,9 @@ section 3(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3))
 section 3(q)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)(1))
 section 7(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(1))
 section 7(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2))
+Section 7(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2))
 section 8(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)(3))
+Section 403(a) of the Federal Deposit Insurance Corporation Improvement Act
 section 3 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802)
 section 3 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802)
 section 3 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802)
@@ -2943,7 +4123,10 @@ section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act
 section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(7))
 section 804(c) of the Community Reinvestment Act of 1977 (12 U.S.C. 2903(c))
 section 804(c) of the Community Reinvestment Act of 1977 (12 U.S.C. 2903(c))
+Section 10(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1820(b)(3))
 section 11(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1))
+Section 11(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1))
+Section 18(c)(5) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)(5))
 section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(7))
 section 727 or 763(i) of the Wall Street Transparency and Accountability Act
 The Depository Institution Management Interlocks Act (12 U.S.C. 3201 et seq.)
@@ -2962,8 +4145,11 @@ section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
+Section 2(o)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(o)(4))
 section 4(j)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(1))
 section 4(j)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(2))
+Section 4(l)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(l)(1))
+Section 5(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(2))
 section 5(c)(5) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(5))
 section 5(c)(5) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(5))
 section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
@@ -2971,25 +4157,45 @@ section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
+Section 2(o)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(o)(4))
 section 4(j)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(1))
 section 4(j)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(2))
+Section 4(l)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(l)(1))
+Section 5(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(2))
 section 5(c)(5) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(5))
 section 5(c)(5) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(5))
+Section 408(2)(C) of the Federal Deposit Insurance Corporation Improvement Act
+Section 14 of the Securities Investor Protection Act of 1970 (15 U.S.C. 78jjj)
 section 16 of the Securities Investor Protection Act of 1970 (15 U.S.C. 78lll)
+Section 16 of the Securities Investor Protection Act of 1970 (15 U.S.C. 78lll)
 Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519)
 Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519)
 section 210(c) of the Dodd-Frank Wall Street Reform and Consumer Protection Act
 section 210(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act
 section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))
+Section 7(d)(3) of the International Banking Act of 1978 (12 U.S.C. 3105(d)(3))
+Section 7(e)(1) of the International Banking Act of 1978 (12 U.S.C. 3105(e)(1))
 section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))
+Section 7(d)(3) of the International Banking Act of 1978 (12 U.S.C. 3105(d)(3))
+Section 7(e)(1) of the International Banking Act of 1978 (12 U.S.C. 3105(e)(1))
 section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
+Section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
 section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
+Section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
+Section 6 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605)
+Section 6 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605)
 The Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.)
 the Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.)
 section 1105(c) of the Dodd-Frank Wall Street Reform and Consumer Protection Act
 section 745(b)(3) of the Wall Street Transparency and Accountability Act of 2010
+Section 106 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5216)
+Section 106 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5216)
 title A of title IV of the Federal Deposit Insurance Corporation Improvement Act
 section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991
+Section 1004(a)(4) of the Federal Financial Institutions Examination Council Act
+Section 105(b)(4)(B) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(4)(B))
+Section 105(b)(5)(A) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(A))
+Section 105(c)(7)(B) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(7)(B))
 section 745(b)(3) of the Wall Street Transparency and Accountability Act of 2010
 section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002)
 section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002)
@@ -3011,13 +4217,17 @@ Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(d
 Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(d))
 section 1367 of the Federal Housing Enterprises Financial Safety and Soundness Act
 section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act
+Section 1319 of the Federal Housing Enterprises Financial Safety and Soundness Act
+Section 1011 of the Federal Financial Institutions Examination Council Act of 1978
 section 2(a)(4) of the Liability Risk Retention Act of 1986 (15 U.S.C. 3901(a)(4))
 the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310)
 the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310)
 section 311 of the Enhancing Financial Institution Safety and Soundness Act of 2010
 section 311 of the Enhancing Financial Institution Safety and Soundness Act of 2010
+Section 403(a) of the Federal Deposit Insurance Corporation Improvement Act of 1991
 section 107(a) of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 817(a))
 section 107(a) of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 817(a))
+Section 3(a)(5) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4003(a)(5))
 title that was added by the Wall Street Transparency and Accountability Act of 2010
 title that was added by the Wall Street Transparency and Accountability Act of 2010
 section 2(a)(5)(E) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(E))
@@ -3030,12 +4240,24 @@ section 2(c)(2)(F) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)
 section 2(c)(2)(F) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(F))
 section 2(c)(2)(H) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(H))
 section 2(c)(2)(H) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(H))
+Section 3(d)(1)(A) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(d)(1)(A))
+Section 4(j)(2)(A) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(2)(A))
 section 4(k)(6)(B) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(6)(B))
+Section 4(k)(6)(B) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(6)(B))
 section 727 or 763(i) of the Wall Street Transparency and Accountability Act of 2010
 the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
 the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
+Section 6(e) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(e))
+Section 6(e) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(e))
+Section 6(f) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
+Section 6(f) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
+Section 6(g) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
+Section 6(g) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
+Section 115(a) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225(a))
+Section 115(a) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225(a))
 section 121(k) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))
 section 121(k) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))
+Section 408(2)(C) of the Federal Deposit Insurance Corporation Improvement Act of 1991
 Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.)
 section 305(a)(2) the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2))
 section 305(a)(2) the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2))
@@ -3046,19 +4268,32 @@ section 305(a)(2) the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454
 title and with the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 title and with the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 title A of title IV of the Federal Deposit Insurance Corporation Improvement Act of 1991
+Section 1004(a)(4) of the Federal Financial Institutions Examination Council Act of 1978
 section 205 and the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 title and under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 section 205 and the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 title and under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(4))
+Section 606(c)(3) of the Neighborhood Reinvestment Corporation Act (42 U.S.C. 8105(c)(3))
 the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4401 et seq.)
 section 1367 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992
 section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992
+Section 1319 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992
+Section 306(l)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1455(l)(2))
 section 6(i)(2) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)(2))
+Section 908(a)(1) of the International Lending Supervision Act of 1983 (12 U.S.C. 3907(a)(1))
 section 205 and under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 section 205 and under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
+Section 304(g)(2) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1719(g)(2))
 section 205(f) and under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 section 205(f) and under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
+Section 1011 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310)
+Section 1011 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310)
+Section 403(a) of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
+Section 403(a) of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
+Section 1319 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519)
+Section 1319 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519)
 section 1367 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(d))
 section 1367 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(d))
+Section 1004(a)(4) of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(4))
 title A of title IV of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4401 et seq.)

@@ -112,13 +112,17 @@ def main(argv):
 
     # for coherence part
     secRef = r'section\s.{1,20}'
+    SecRef = r'Section\s.{1,20}'
     titleRef = r'title\s.{1,20}'
+    TitleRef = r'Title\s.{1,20}'
     legalRef = legal_references
     for ref in legal_references:
         secList = re.findall(secRef + re.escape(ref) , data_xml)
+        SecList = re.findall(SecRef + re.escape(ref) , data_xml)
         titleList = re.findall(titleRef + re.escape(ref) , data_xml)
-        #print titleList
-        legalRef = legalRef + secList + titleList
+        TitleList = re.findall(TitleRef + re.escape(ref) , data_xml)
+        print SecList
+        legalRef = legalRef + secList + SecList + titleList + TitleList
     legalRef.sort(key = lambda s: len(s))
     file = open(argv.output + "coherence/LegalReferences.txt", 'w')
     for item in legalRef:
