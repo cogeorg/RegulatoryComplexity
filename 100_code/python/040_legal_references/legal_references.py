@@ -121,7 +121,6 @@ def main(argv):
         SecList = re.findall(SecRef + re.escape(ref) , data_xml)
         titleList = re.findall(titleRef + re.escape(ref) , data_xml)
         TitleList = re.findall(TitleRef + re.escape(ref) , data_xml)
-        print SecList
         legalRef = legalRef + secList + SecList + titleList + TitleList
     legalRef.sort(key = lambda s: len(s))
     file = open(argv.output + "coherence/LegalReferences.txt", 'w')

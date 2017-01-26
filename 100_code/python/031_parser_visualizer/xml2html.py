@@ -18,7 +18,7 @@ def main(argv):
             if elem.tag == "title":
                 if c == 0:
                     html = ' '.join(html.split())
-                    head = """<!DOCTYPE html><html><head></head><body><div class = "ex1">TITLE 0."""
+                    head = """<!DOCTYPE html><html><head></head><body><div class = "ex1">TITLE 0. """
                     tail = """</div></body></html>"""
                     title = head + html + tail
                     name = "title_" + str(c) + ".html"

@@ -59,6 +59,7 @@ def main(argv):
     # For instance: title 1
     regex = []
     regex.append(r'title')
+    regex.append(r'Title')
     ref_aux = []
     ref_aux.append(r'\s[0-9]+')
     ref_type = create_ref_type()                    # create_ref_type is a list of regex
@@ -69,6 +70,7 @@ def main(argv):
     # For instance: subtitle A
     regex = []
     regex.append(r'subtitle')
+    regex.append(r'Subtitle')
     ref_aux = []
     ref_aux.append(r'\s[A-Z]+')
     ref_type = create_ref_type()
@@ -79,6 +81,7 @@ def main(argv):
     # For instance: substitles (c) through (g)
     regex = []
     regex.append(r'subtitles')
+    regex.append(r'Subtitles')
     ref_aux = []
     ref_aux.append(r'\s[A-Z]+\s[and]+\s[A-Z]+')
     ref_aux.append(r'\s[A-Z]+\s[through]+\s[A-Z]+')
@@ -90,11 +93,30 @@ def main(argv):
     # For instance: section 7701(a)(36)
     regex = []
     regex.append(r'section')
+    regex.append(r'Section')
     ref_aux = []
     ref_aux.append(r'\s[0-9]+')
     ref_aux.append(r'\s[0-9]+\([a-z]+\)')
     ref_aux.append(r'\s\([0-9]+\)\s[or]+\s\([0-9]+\)')
+    ref_aux.append(r'\s[0-9]+\([a-z]+\)\s[or]+\s[0-9]+\([a-z]+\)')
     ref_aux.append(r'\s[0-9]+\([a-z]+\)\([0-9]+\)')
+    ref_aux.append(r'\s[0-9]+\([a-z]+\)\([0-9]+\)\s[or]+\s[0-9]+\([a-z]+\)\([0-9]+\)')
+    ref_aux.append(r'\s[0-9]+\([a-z]+\)\([0-9]+\)\([A-B]+\)')
+    ref_type = create_ref_type()                      # create_ref_type is a list of regex
+    legal_references = get_list_legal(regex, ref_aux, ref_type, data_xml, legal_references)
+
+    # Find Section references.
+    # For instance: section 7701(a)(36)
+    regex = []
+    regex.append(r'sections')
+    regex.append(r'Sections')
+    ref_aux = []
+    ref_aux.append(r'\s[0-9]+')
+    ref_aux.append(r'\s[0-9]+\([a-z]+\)')
+    ref_aux.append(r'\s\([0-9]+\)\s[or]+\s\([0-9]+\)')
+    ref_aux.append(r'\s[0-9]+\([a-z]+\)\s[or]+\s[0-9]+\([a-z]+\)')
+    ref_aux.append(r'\s[0-9]+\([a-z]+\)\([0-9]+\)')
+    ref_aux.append(r'\s[0-9]+\([a-z]+\)\([0-9]+\)\s[or]+\s[0-9]+\([a-z]+\)\([0-9]+\)')
     ref_aux.append(r'\s[0-9]+\([a-z]+\)\([0-9]+\)\([A-B]+\)')
     ref_type = create_ref_type()                      # create_ref_type is a list of regex
     legal_references = get_list_legal(regex, ref_aux, ref_type, data_xml, legal_references)
@@ -103,6 +125,7 @@ def main(argv):
     # For instance: subsection (c)
     regex = []
     regex.append(r'subsection')
+    regex.append(r'Subsection')
     ref_aux = []
     ref_aux.append(r'\s\([a-z]+\)')
     ref_aux.append(r'\s\([a-z]+\)\s[or]+\s\([a-z]+\)')
@@ -114,6 +137,7 @@ def main(argv):
     # For instance: subsections (c) through (g)
     regex = []
     regex.append(r'subsections')
+    regex.append(r'Subsections')
     ref_aux = []
     ref_aux.append(r'\s\([a-z]+\)\s[and]+\s\([a-z]+\)')
     ref_aux.append(r'\s\([a-z]+\)\s[through]+\s\([a-z]+\)')
@@ -125,6 +149,7 @@ def main(argv):
     # For instance: paragraph (1)
     regex = []
     regex.append(r'paragraph')
+    regex.append(r'Paragraph')
     ref_aux = []
     ref_aux.append(r'\s\([0-9]+\)')
     ref_aux.append(r'\s\([0-9]+\)\s[or]+\s\([0-9]+\)')
@@ -135,6 +160,7 @@ def main(argv):
     # For instance: paragraphs (1) and (2)
     regex = []
     regex.append(r'paragraphs')
+    regex.append(r'Paragraphs')
     ref_aux = []
     ref_aux.append(r'\s\([0-9]+\)\s[and]+\s\([0-9]+\)')
     ref_aux.append(r'\s\([0-9]+\)\s[through]+\s\([0-9]+\)')
@@ -147,6 +173,7 @@ def main(argv):
     # For instance:subparagraph (A)
     regex = []
     regex.append(r'subparagraph')
+    regex.append(r'Subparagraph')
     ref_aux = []
     ref_aux.append(r'\s\([A-Z]+\)')
     ref_aux.append(r'\s\([A-Z]+\)\s[or]+\s\([A-Z]+\)')
@@ -157,6 +184,7 @@ def main(argv):
     # For instance:subparagraphs (A) and (B)
     regex = []
     regex.append(r'subparagraphs')
+    regex.append(r'Subparagraphs')
     ref_aux = []
     ref_aux.append(r'\s\([A-Z]+\)\s[and]+\s\([A-Z]+\)')
     ref_aux.append(r'\s\([A-Z]+\)\s[through]+\s\([A-Z]+\)')
@@ -170,6 +198,7 @@ def main(argv):
     # For instance:clause (i)
     regex = []
     regex.append(r'clause')
+    regex.append(r'Clause')
     ref_aux = []
     ref_aux.append(r'\s\([ivx]+\)')
     ref_type = []
@@ -179,6 +208,7 @@ def main(argv):
     # For instance:clauses (i) and (ii)
     regex = []
     regex.append(r'clauses')
+    regex.append(r'Clauses')
     ref_aux = []
     ref_aux.append(r'\s\([ivx]+\)\s[and]+\s\([ivx]+\)')
     ref_aux.append(r'\s\([ivx]+\)\s[through]+\s\([ivx]+\)')
@@ -192,6 +222,7 @@ def main(argv):
     # For instance:subclause (I)
     regex = []
     regex.append(r'subclause')
+    regex.append(r'Subclause')
     ref_aux = []
     ref_aux.append(r'\s\([IVX]+\)')
     ref_type = []
@@ -201,6 +232,7 @@ def main(argv):
     # For instance:subclause (I) and (II)
     regex = []
     regex.append(r'subclauses')
+    regex.append(r'Subclauses')
     ref_aux = []
     ref_aux.append(r'\s\([IVX]+\)\s[and]+\s\([IVX]+\)')
     ref_aux.append(r'\s\([IVX]+\)\s[through]+\s\([IVX]+\)')
