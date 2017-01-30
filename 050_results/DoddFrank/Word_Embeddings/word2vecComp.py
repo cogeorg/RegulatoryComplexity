@@ -12,7 +12,8 @@ import numpy as np
 import os
 import pickle
 import gensim, logging
-import matplotlib.pyplot as plt
+import plotly
+import plotly.graph_objs as go
 import argparse
 ################################################################################
 
@@ -31,20 +32,23 @@ def distances(vector):
 
 def main(argv):
     cwd = os.getcwd()
-    # import model training data
-    with open(cwd + argv.inputa + 'modelData','rb') as f:
-         data1 = pickle.load(f)
-    with open(cwd + argv.inputx + 'modelData','rb') as f:
-         data2 = pickle.load(f)
 
-    allData = data1 + data2
+    folders = [f for f in sorted(os.listdir(cwd + argv.input))]
 
-    # import aList
-    with open(cwd + argv.inputa + 'pythonData','rb') as g:
-         aList = pickle.load(g)
-    # import xList
-    with open(cwd + argv.inputx + 'pythonData','rb') as g:
-        xList = pickle.load(g)
+    allData = []
+    aListData = []
+    names = []
+    for item in folders:
+        # import model training data
+        with open(cwd + argv.input + item + '/' + 'modelData','rb') as f:
+            data = pickle.load(f)
+            allData += data
+        # import sentences per document
+        with open(cwd + argv.input + item + '/' + 'pythonData','rb') as g:
+             aList = pickle.load(g)
+             aListData.append(aList)
+             names.append(item)
+
 
     # word2vec training
     ####################
@@ -55,7 +59,7 @@ def main(argv):
     skip_gram = 1           # use skip gram model
     features = 300          # Word vector dimensionality
     count = 3               # Minimum word count
-    threads = 6             # Number of threads to run in parallel
+    threads = 8             # Number of threads to run in parallel
     context = 5             # Context window size
     downsampling = 1e-3     # Downsample setting for frequent words
     neg = 5                 # negative sample
@@ -68,7 +72,9 @@ def main(argv):
     #model.save_word2vec_format('outputTxt')
 
     # processing for both documents:
-    for l in [aList, xList]:
+    means = []
+    stds = []
+    for k, l in enumerate(aListData):
 
         # create sentence vectors by averaging
         aListVec = []
@@ -106,31 +112,78 @@ def main(argv):
 
         # visualize
         c = 0
-        for t in aListDist:
-            for i in bListIndex[c]:
-                plt.axvline(x = i, color = 'r')
-            plt.title(argv.title + ' %s' %c)
-            plt.plot(t)
-            if l == aList:
-                plt.savefig(cwd + argv.outputa + argv.title + '_%s.png' %c)
-            else:
-                plt.savefig(cwd + argv.outputx + argv.title + '_%s.png' %c)
-            plt.clf()
+        titleMean = []
+        titleStd = []
+        for j, t in enumerate(aListDist):
+
+            # calculate mean and std derivation
+            arr = np.array(t)
+            m = np.mean(arr, axis=0)
+            std = np.std(arr, axis=0)
+            titleMean.append(m)
+            titleStd.append(std)
+
+            # vertical lines
+            lines = []
+            for i in bListIndex[j]:
+                line = dict({'type': 'line', 'x0': i, 'y0': 0, 'x1': i, 'y1': 1, 'opacity': 0.2})
+                lines.append(line)
+
+            # plot
+            trace0 = go.Scatter(y = t, mode = 'lines')
+            data = go.Data([trace0])
+            layout = go.Layout(title = argv.title + ' %s' %c, xaxis = {'title':'Sentences<br>Mean: %s, Standard Deviation: %s' %(m, std)}, yaxis = {'title':'Distances'}, shapes = lines)
+            figure = go.Figure(data = data, layout = layout)
+            plotly.offline.plot(figure, filename = cwd + argv.output + names[k] + '/' + argv.title + '_%s.html' %c, auto_open = False)
             c += 1
 
-        # variances:
-        for t in aListDist:
-            arr = np.array(t)
-            print np.mean(arr, axis=0), np.std(arr, axis=0)
+        means.append([names[k], titleMean])
+        stds.append([names[k], titleStd])
+
+    means = sorted(means)
+    stds = sorted(stds)
+
+    # save means and stds
+    Means = np.zeros((j+1,k+1))
+    Stds = np.zeros((j+1,k+1))
+
+    for a, m in enumerate(means):
+        for b, n in enumerate(m[1]):
+            Means[b,a] = n
+
+    for a, m in enumerate(stds):
+        for b, n in enumerate(m[1]):
+            Stds[b,a] = n
+
+    np.savetxt(cwd + argv.output + 'Means.txt', Means)
+    np.savetxt(cwd + argv.output + 'Stds.txt', Stds)
+
+    # plot means and stds
+    traces = []
+    for i in range(len(titleMean)):
+        trace = go.Scatter(y = Means[i,:], mode = 'lines', name='Title %s' %i)
+        traces.append(trace)
+    data = go.Data(traces)
+    layout = go.Layout(title = 'Means per Version', xaxis = {'title':'Versions', 'tickvals': range(len(titleMean)), 'ticktext': sorted(folders)}, yaxis = {'title':'Mean'})
+    figure = go.Figure(data = data, layout = layout)
+    plotly.offline.plot(figure, filename = cwd + argv.output + 'Means.html', auto_open = False)
+
+    traces = []
+    for i in range(len(titleMean)):
+        trace = go.Scatter(y = Stds[i,:], mode = 'lines', name='Title %s' %i)
+        traces.append(trace)
+    data = go.Data(traces)
+    layout = go.Layout(title = 'Standard Deviation per Version', xaxis = {'title':'Versions', 'tickvals': range(len(titleMean)), 'ticktext': sorted(folders)}, yaxis = {'title':'Standard Deviation'})
+    figure = go.Figure(data = data, layout = layout)
+    plotly.offline.plot(figure, filename = cwd + argv.output + 'Stds.html', auto_open = False)
+
 
 ################################################################################
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Word Embeddings')
-    parser.add_argument('-ia', '--inputa', help='Input Directory', required=True)
-    parser.add_argument('-ix', '--inputx', help='Input Directory', required=True)
+    parser.add_argument('-i', '--input', help='Input Directory', required=True)
     parser.add_argument('-t', '--title', help='Title', required=True)
-    parser.add_argument('-oa', '--outputa', help='Output Directory', required=True)
-    parser.add_argument('-ox', '--outputx', help='Output Directory', required=True)
+    parser.add_argument('-o', '--output', help='Output Directory', required=True)
     args = parser.parse_args()
     main(args)

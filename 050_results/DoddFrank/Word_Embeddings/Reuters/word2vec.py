@@ -2,7 +2,8 @@ from nltk.corpus import reuters
 from nltk import tokenize
 import gensim, logging
 import numpy as np
-import matplotlib.pyplot as plt
+import plotly
+import plotly.graph_objs as go
 
 files = reuters.fileids()
 
@@ -115,10 +116,14 @@ for i in range(0, len(artIndex)):
         inds.append(c)
     c += 1
 
+
+lines = []
 for i in inds:
-    plt.axvline(x = i, color = 'r')
-plt.title('Earn')
-plt.plot(dists)
-#plt.savefig('earn.png', dpi=1200)
-#plt.clf()
-plt.show()
+    line = dict({'type': 'line', 'x0': i, 'y0': 0, 'x1': i, 'y1': 1.5, 'opacity': 0.2})
+    lines.append(line)
+
+trace0 = go.Scatter(y = dists, mode = 'lines')
+data = go.Data([trace0])
+layout = go.Layout(title = "Earn", xaxis = {'title':'Sentences'}, yaxis = {'title':'Distances'}, shapes = lines)
+figure = go.Figure(data = data,layout = layout)
+plotly.offline.plot(figure, filename = 'Earn.html', auto_open = False)

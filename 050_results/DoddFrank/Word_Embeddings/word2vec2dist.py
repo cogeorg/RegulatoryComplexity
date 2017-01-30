@@ -12,7 +12,8 @@ import numpy as np
 import os
 import pickle
 import gensim, logging
-import matplotlib.pyplot as plt
+import plotly
+import plotly.graph_objs as go
 import argparse
 ################################################################################
 
@@ -95,20 +96,27 @@ def main(argv):
         aListDist.append(dists)
 
     # visualize
-    c = 0
-    for t in aListDist:
-        for i in bListIndex[c]:
-            plt.axvline(x = i, color = 'r')
-        plt.title(argv.title + ' %s' %c)
-        plt.plot(t)
-        plt.savefig(cwd + argv.output + argv.title + '_%s.png' %c)
-        plt.clf()
-        c += 1
+    c = int(argv.start)
+    for j, t in enumerate(aListDist):
 
-    # variances:
-    for t in aListDist:
+        # calculate mean and std derivation
         arr = np.array(t)
-        print np.mean(arr, axis=0), np.std(arr, axis=0)
+        m = np.mean(arr, axis=0)
+        std = np.std(arr, axis=0)
+
+        # vertical lines
+        lines = []
+        for i in bListIndex[j]:
+            line = dict({'type': 'line', 'x0': i, 'y0': 0, 'x1': i, 'y1': 1, 'opacity': 0.2})
+            lines.append(line)
+
+        # plot
+        trace0 = go.Scatter(y = t, mode = 'lines')
+        data = go.Data([trace0])
+        layout = go.Layout(title = argv.title + ' %s' %c, xaxis = {'title':'Sentences<br>Mean: %s, Standard Deviation: %s' %(m, std)}, yaxis = {'title':'Distances'}, shapes = lines)
+        figure = go.Figure(data = data, layout = layout)
+        plotly.offline.plot(figure, filename = cwd + argv.output + argv.title + '_%s.html' %c, auto_open = False)
+        c += 1
 
 ################################################################################
 
@@ -116,6 +124,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Word Embeddings')
     parser.add_argument('-i', '--input', help='Input Directory', required=True)
     parser.add_argument('-t', '--title', help='Title', required=True)
+    parser.add_argument('-s', '--start', help='Start', required=True)
     parser.add_argument('-o', '--output', help='Output Directory', required=True)
     args = parser.parse_args()
     main(args)
