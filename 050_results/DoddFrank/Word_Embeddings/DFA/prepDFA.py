@@ -50,8 +50,8 @@ def main(argv):
                     #print "------------------"
 
                 #list of known abbreviations and their replacements
-                abbrev = [r'(seq\.)', r'(App\.)', r'\."\.\(', r'(\.")']
-                repl = ['seq_', 'App_', r'_"_\()', '_"']
+                abbrev = [r'(seq\.)', r'(App\.)', r'(Stat\.)', r'\."\.\(', r'(\.")']
+                repl = ['seq_', 'App_', 'Stat_', r'_"_\()', '_"']
                 # capitalized abbreviations
                 abbrevCap = re.findall('(\s[A-Z]\.([A-Z]\.){1,10})', data)
                 for l in abbrevCap:
@@ -72,7 +72,7 @@ def main(argv):
                     # replace numbers /w dots
                     par = re.sub(r"([0-9])\.([0-9])", r"\1_\2", par)
                     # split on .
-                    sen = par.split(".")
+                    sen = re.split(r' *[:\.\?!][\'"\)\]]* *', par)
                     # split on :
                     sent = []
                     for t in sen:
@@ -112,12 +112,21 @@ def main(argv):
                         s = re.sub(r"\.\.", ".", s)
                         if len(s) > 5:
                             sentences.append(s)
-                            #print s
-                            #print "-----------------"
+
+                    # corrections to splits
+                    sens = []
+                    for i, s in enumerate(sentences):
+                        if s[0].isupper() or i == 0:
+                            sens.append(s)
+                        elif re.match(r'^\(.+?\)\s[A-Z]', s):
+                            s = re.sub(r'^(\(.+?\)\s)([A-Z])', r'\2', s)
+                            sens.append(s)
+                        else:
+                            sens[-1] += ' ' + s
 
                     # split in words
                     sents = []
-                    for s in sentences:
+                    for s in sens:
                         words = s.split()
                         sents.append(words)
 
@@ -127,14 +136,15 @@ def main(argv):
                     for s in sents:
                         words = []
                         for c, w in enumerate(s, start=1):
+                            w = w.strip('"')
                             w = w.strip(',')
                             w = w.strip(';')
                             w = w.strip(':')
                             if c == len(s):
                                 w = w.strip('.')
-                            w = w.strip('"')
                             w = w.lower()
-                            words.append(w)
+                            if w:
+                                words.append(w)
                         sentences.append(words)
 
                     # U.S.C. references as 1 word

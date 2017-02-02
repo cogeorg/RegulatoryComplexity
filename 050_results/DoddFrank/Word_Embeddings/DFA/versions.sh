@@ -14,4 +14,4 @@ cd /home/sabine/Dokumente/Git/ &&
 #     python ./RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/prepDFA.py -i /RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/Original/ -o /RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/prep/$filename/
 # done
 
-python ./RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/word2vecComp.py -i /RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/prep/ -t Title -o /RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/output/
+python ./RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/word2vecComp.py -i /RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/prep/ -t Title -o /RegulatoryComplexity/050_results/DoddFrank/Word_Embeddings/DFA/output/
