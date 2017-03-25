@@ -4949,7 +4949,6 @@ cease
 chairman
 charge
 chartered
-class
 collect
 commercial
 commercial firm
