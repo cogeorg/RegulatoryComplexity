@@ -4898,3 +4898,268 @@ Zia, Bilal,
 Zimbabwe
 zombie firms,,,
 Z-score
+ability
+accept
+achieves
+acquire
+acquired
+acquiring
+acquisition
+acquisitions
+act transactions
+acting
+action
+actions
+activities
+activities conducted
+advance
+advice
+affiliate transactions
+agencies
+agreement to repurchase
+alternating
+amount
+amounts
+analysis
+antitrust
+applicant
+application
+asset backed security
+assuring
+audited financial statements
+available
+avoid
+avoids
+backup
+back-up
+became
+begin
+board of governors
+board of trade
+bona fide market-making
+borrowing
+branch
+businesses
+calendar year
+capacity
+capitalized
+carries out
+carry out
+cease
+chairman
+charge
+chartered
+class
+collect
+commercial
+commercial firm
+commercial firms
+committee
+committee on banking, housing, and urban affairs
+committee on financial services
+commodities
+commodity
+commodity trading adviser
+companies
+comptroller general
+comptroller general of the united states
+comptroller of the currency
+conducting
+confidence
+confidentiality
+congress
+consolidated
+consultation
+consummation
+contingent capital
+continue
+controlled
+controlling
+convertible
+coordinate
+coordination
+council
+country
+coverage
+criteria
+cross-marketing
+data
+date
+declaration
+delivery
+depositor
+dispose
+disruptions
+dividend
+dividends
+duplication
+economy
+eliminate
+employee
+engaging
+entities
+entity
+exchange
+exchange ratio
+exercise
+exercising
+explanation
+farm credit system
+federal
+federal insurance office
+fee
+fiduciary
+final
+financial
+financial condition
+financial firms
+financial statements
+formation
+frequency
+functionally regulated subsidiaries
+goods
+grandfathered
+gross revenues
+group
+health
+held
+holding companies
+holding company
+holdings
+holds
+home
+home owners
+house of representatives
+households
+housing
+illiquid
+incorporated
+independent
+industrial
+industrial loan companies
+initial
+inspection
+inspections
+insurer
+intent
+interest-bearing transaction
+interested parties
+interlocks
+intermediate holding company
+international
+interpretations
+interstate
+interstate acquisitions
+investment
+investment activities
+investments
+joint
+jurisdiction
+lease
+located
+locations
+low-income
+managed
+member
+mid-tier
+monitor
+mutual holding company
+new
+nonbank
+nonbanks
+nondepository
+nonfinancial
+nonvoting member
+notice
+oath
+obtain
+obtained
+off-balance-sheet
+office of financial research
+officers
+operating
+operation
+operational
+operations
+organized
+owned
+parent
+pay
+perform
+period
+placement agent
+plan
+positions
+premiums
+price
+price movements
+principal
+principally
+profit
+publicly traded
+purchaser
+qualified
+qualified thrift lender
+qualify
+raised
+rates
+real estate investments
+receives
+referrals
+registered
+registration
+remain
+reorganization
+reorganized
+reported publicly
+reporting
+reporting requirements
+reports
+requests for information
+resell
+responding
+responsibilities
+responsible for
+result
+results
+revenues
+safety
+savings and loan holding company
+securities and exchange commission
+sell
+selling
+senate
+served
+shares
+short-term
+soundness
+source of strength
+sponsor
+sponsorship
+stock
+stress
+studies
+subsidiaries
+supervisory
+synthetic
+take into consideration
+third parties
+threat
+threats
+thrift lenders
+time
+transaction
+transactions
+unaffiliated
+underserved
+underserved communities
+urban affairs
+venture capital
+voting member
+voting shares
+withdraw
+writing
+written explanation
+written request
+year
+years
