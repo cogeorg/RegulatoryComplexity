@@ -42,7 +42,6 @@ pathProt = 'RegulatoryComplexity/020_auxiliary_data/Sections/Protected_list'
 # Pythonanywhere
 engine = create_engine('sqlite:////home/RegulatoryComplexity/' + path + 'static/users/users.db', echo=True)
 
-
 # Initialize the Mail object with the app
 mail=Mail(app)
 
