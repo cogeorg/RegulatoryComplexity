@@ -1,3 +1,18 @@
+(1)(f)
+(12 u.s.c. 1464(b)(1)(b))
+(12 u.s.c. 1467a(e)(2))
+(12 u.s.c. 1467a(m)(3))
+(12 u.s.c. 1813(q))
+(12 u.s.c. 1817(j))
+(12 u.s.c. 1828(g))
+(12 u.s.c. 1831u(b)(4)(b))
+(12 u.s.c. 248a)
+(12 u.s.c. 371a)
+(12 u.s.c. 371c)
+(12 u.s.c. 84(b))
+(15 u.s.c. 80a-1 et seq.)
+12 u.s.c. 1817(j)
+3(c)(7)
 Abuse Prevention Act
 Abuse Prevention Act (15 U.S.C. 6102)
 Abuse Prevention Act (15 U.S.C. 6105)
@@ -16,11 +31,9 @@ Association Charter Act (12 U.S.C. 1719(g)(2))
 Bank Enterprise Act
 Bank Enterprise Act of 1991
 Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
-Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
 Bank Products Act
 Bank Products Act of 2000
 Bank Products Act of 2000 (7 U.S.C. 27 et seq.)
-Bank Products Act of 2000 (7 U.S.C. 27a)
 Bank Products Act of 2000 (7 U.S.C. 27a)
 Bank Protection Act
 Bank Protection Act of 1968
@@ -28,17 +41,14 @@ Bank Protection Act of 1968 (12 U.S.C. 1881 et seq.)
 Business Investment Act
 Business Investment Act of 1958
 Business Investment Act of 1958 (15 U.S.C. 662)
-Business Investment Act of 1958 (15 U.S.C. 662)
 Child Nutrition Act
 Child Nutrition Act of 1966
-Child Nutrition Act of 1966 (42 U.S.C. 1780)
 Child Nutrition Act of 1966 (42 U.S.C. 1780)
 Claims Settlement Act
 Collection Practices Act
 Collection Practices Act (15 U.S.C. 1692 et seq.)
 Commodities Exchange Act
 Commodity Exchange Act
-Commodity Exchange Act (7 U.S.C. 1 et seq.)
 Commodity Exchange Act (7 U.S.C. 1 et seq.)
 Commodity Exchange Act (7 U.S.C. 12)
 Commodity Exchange Act (7 U.S.C. 12a(7))
@@ -61,12 +71,10 @@ Commodity Exchange Act (7 U.S.C. 9)
 Community Development Act
 Community Development Act of 1974
 Community Development Act of 1974 (42 U.S.C. 5302)
-Community Development Act of 1974 (42 U.S.C. 5302)
 Community Development Act of 1992
 Community Reinvestment Act
 Community Reinvestment Act of 1977
 Community Reinvestment Act of 1977 (12 U.S.C. 2901 et seq.)
-Community Reinvestment Act of 1977 (12 U.S.C. 2903(c))
 Community Reinvestment Act of 1977 (12 U.S.C. 2903(c))
 Consumer Leasing Act
 Consumer Leasing Act of 1976
@@ -75,7 +83,6 @@ Consumer Protection Act
 Corporation Improvement Act
 Corporation Improvement Act of 1991
 Corporation Improvement Act of 1991 (12 U.S.C. 4401 et seq.)
-Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
 Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
 Credit Billing Act
 Credit Billing Act (15 U.S.C. 1666 et seq.)
@@ -100,7 +107,6 @@ Crop Insurance Act
 Crop Insurance Act (7 U.S.C. 1501 et seq.)
 Deficit Control Act
 Deficit Control Act of 1985
-Deficit Control Act of 1985 (2 U.S.C. 906(h))
 Deficit Control Act of 1985 (2 U.S.C. 906(h))
 Deposit Insurance Act
 Deposit Insurance Act (12 U.S.C. 1811 et seq.)
@@ -128,21 +134,16 @@ Economic Opportunity Act of 2000
 Economic Recovery Act
 Economic Recovery Act of 2008
 Economic Recovery Act of 2008 (42 U.S.C. 5301)
-Economic Recovery Act of 2008 (42 U.S.C. 5301)
 Economic Stabilization Act
 Economic Stabilization Act of 2008
 Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.)
 Economic Stabilization Act of 2008 (12 U.S.C. 5216)
-Economic Stabilization Act of 2008 (12 U.S.C. 5216)
 Economic Stabilization Act of 2008 (12 U.S.C. 5225(a))
-Economic Stabilization Act of 2008 (12 U.S.C. 5225(a))
-Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))
 Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))
 Education Improvement Act
 Education Improvement Act (20 U.S.C. 9702(c)(1))
 Emergency Housing Act
 Emergency Housing Act of 1975
-Emergency Housing Act of 1975 (12 U.S.C. 2706)
 Emergency Housing Act of 1975 (12 U.S.C. 2706)
 Energy Policy Act
 Energy Policy Act of 1992
@@ -153,7 +154,6 @@ Equity Protection Act of 1994
 Examination Council Act
 Examination Council Act of 1978
 Examination Council Act of 1978 (12 U.S.C. 3303(a)(4))
-Examination Council Act of 1978 (12 U.S.C. 3310)
 Examination Council Act of 1978 (12 U.S.C. 3310)
 Expand and Preserve Home Ownership Through Counseling Act
 Fair Housing Act
@@ -217,18 +217,14 @@ Health Service Act
 Higher Education Act
 Higher Education Act of 1965
 Higher Education Act of 1965 (20 U.S.C. 1018(f))
-Higher Education Act of 1965 (20 U.S.C. 1018(f))
 Holding Company Act
 Holding Company Act of 1935
-Holding Company Act of 1935 (15 U.S.C. 79a et seq.)
 Holding Company Act of 1935 (15 U.S.C. 79a et seq.)
 Holding Company Act of 1956
 Holding Company Act of 1956 (12 U.S.C. 1841 et seq.)
 Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(E))
 Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(F))
 Holding Company Act of 1956 (12 U.S.C. 1841(a))
-Holding Company Act of 1956 (12 U.S.C. 1841(a))
-Holding Company Act of 1956 (12 U.S.C. 1841(b))
 Holding Company Act of 1956 (12 U.S.C. 1841(b))
 Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(B))
 Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(D))
@@ -237,46 +233,34 @@ Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(H))
 Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 Holding Company Act of 1956 (12 U.S.C. 1841(o)(4))
 Holding Company Act of 1956 (12 U.S.C. 1841(p))
-Holding Company Act of 1956 (12 U.S.C. 1841(p))
 Holding Company Act of 1956 (12 U.S.C. 1841)
-Holding Company Act of 1956 (12 U.S.C. 1841)
-Holding Company Act of 1956 (12 U.S.C. 1842(c))
 Holding Company Act of 1956 (12 U.S.C. 1842(c))
 Holding Company Act of 1956 (12 U.S.C. 1842(d)(1)(A))
-Holding Company Act of 1956 (12 U.S.C. 1842)
 Holding Company Act of 1956 (12 U.S.C. 1842)
 Holding Company Act of 1956 (12 U.S.C. 1843(j)(1))
 Holding Company Act of 1956 (12 U.S.C. 1843(j)(2)(A))
 Holding Company Act of 1956 (12 U.S.C. 1843(j)(2))
 Holding Company Act of 1956 (12 U.S.C. 1843(k)(6)(B))
 Holding Company Act of 1956 (12 U.S.C. 1843(k))
-Holding Company Act of 1956 (12 U.S.C. 1843(k))
 Holding Company Act of 1956 (12 U.S.C. 1843(l)(1))
 Holding Company Act of 1956 (12 U.S.C. 1843)
-Holding Company Act of 1956 (12 U.S.C. 1843)
-Holding Company Act of 1956 (12 U.S.C. 1844(b))
 Holding Company Act of 1956 (12 U.S.C. 1844(b))
 Holding Company Act of 1956 (12 U.S.C. 1844(c)(1))
 Holding Company Act of 1956 (12 U.S.C. 1844(c)(2))
 Holding Company Act of 1956 (12 U.S.C. 1844(c)(5))
 Holding Company Act of 1965
 Holding Company Act of 1965 (12 U.S.C. 1841)
-Holding Company Act of 1965 (12 U.S.C. 1841)
 Homeless Assistance Act
 Homeowners Protection Act
 Homeowners Protection Act of 1998
-Homeowners Protection Act of 1998 (12 U.S.C. 4909)
 Homeowners Protection Act of 1998 (12 U.S.C. 4909)
 Housing Enterprises Financial Safety and Soundness Act
 Housing Enterprises Financial Safety and Soundness Act of 1992
 Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.)
 Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519)
-Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519)
-Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(d))
 Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617(d))
 Income Security Act
 Income Security Act of 1974
-Income Security Act of 1974 (29 U.S.C. 1002)
 Income Security Act of 1974 (29 U.S.C. 1002)
 Inspector General Act
 Inspector General Act of 1978
@@ -290,10 +274,8 @@ International Banking Act of 1978
 International Banking Act of 1978 (12 U.S.C. 3101(7))
 International Banking Act of 1978 (12 U.S.C. 3101(b)(7))
 International Banking Act of 1978 (12 U.S.C. 3101)
-International Banking Act of 1978 (12 U.S.C. 3101)
 International Banking Act of 1978 (12 U.S.C. 3105(d)(3))
 International Banking Act of 1978 (12 U.S.C. 3105(e)(1))
-International Banking Act of 1978 (12 U.S.C. 3106(a))
 International Banking Act of 1978 (12 U.S.C. 3106(a))
 Investment Adviser Act
 Investment Adviser Act of 1940
@@ -307,7 +289,6 @@ Investment Company Act of 1940 (15 U.S.C. 80a-24(f))
 Investment Company Act of 1940 (15 U.S.C. 80a-30)
 Investor Protection Act
 Investor Protection Act of 1970
-Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 Investor Protection Act of 1970 (15 U.S.C. 78ddd)
 Investor Protection Act of 1970 (15 U.S.C. 78jjj)
@@ -370,12 +351,10 @@ Risk Retention Act of 1986 (15 U.S.C. 3901(a)(4))
 Rural Investment Act
 Rural Investment Act of 2002
 Rural Investment Act of 2002 (7 U.S.C. 3007)
-Rural Investment Act of 2002 (7 U.S.C. 3007)
 Rural Recovery Act
 Rural Recovery Act of 1983
 Safety Standards Act
 Safety Standards Act of 1974
-Safety Standards Act of 1974 (42 U.S.C. 5402)
 Safety Standards Act of 1974 (42 U.S.C. 5402)
 School Lunch Act
 School Lunch Act (42 U.S.C. 1751 et seq.)
@@ -384,54 +363,39 @@ Securities Exchange Act of 1934
 Securities Exchange Act of 1934 (15 U.S.C. 73o(b))
 Securities Exchange Act of 1934 (15 U.S.C. 78 et seq.)
 Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
-Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
 Securities Exchange Act of 1934 (15 U.S.C. 78a(m))
 Securities Exchange Act of 1934 (15 U.S.C. 78aa)
 Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 Securities Exchange Act of 1934 (15 U.S.C. 78c)
-Securities Exchange Act of 1934 (15 U.S.C. 78c)
-Securities Exchange Act of 1934 (15 U.S.C. 78d)
 Securities Exchange Act of 1934 (15 U.S.C. 78d)
 Securities Exchange Act of 1934 (15 U.S.C. 78dd)
 Securities Exchange Act of 1934 (15 U.S.C. 78ee)
 Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 Securities Exchange Act of 1934 (15 U.S.C. 78f(b))
 Securities Exchange Act of 1934 (15 U.S.C. 78f)
-Securities Exchange Act of 1934 (15 U.S.C. 78f)
 Securities Exchange Act of 1934 (15 U.S.C. 78i(b))
 Securities Exchange Act of 1934 (15 U.S.C. 78i)
-Securities Exchange Act of 1934 (15 U.S.C. 78i)
-Securities Exchange Act of 1934 (15 U.S.C. 78j)
 Securities Exchange Act of 1934 (15 U.S.C. 78j)
 Securities Exchange Act of 1934 (15 U.S.C. 78kk)
 Securities Exchange Act of 1934 (15 U.S.C. 78l)
-Securities Exchange Act of 1934 (15 U.S.C. 78l)
 Securities Exchange Act of 1934 (15 U.S.C. 78m(e))
 Securities Exchange Act of 1934 (15 U.S.C. 78m(f))
-Securities Exchange Act of 1934 (15 U.S.C. 78m)
 Securities Exchange Act of 1934 (15 U.S.C. 78m)
 Securities Exchange Act of 1934 (15 U.S.C. 78mm)
 Securities Exchange Act of 1934 (15 U.S.C. 78n(a))
 Securities Exchange Act of 1934 (15 U.S.C. 78n(g))
 Securities Exchange Act of 1934 (15 U.S.C. 78n)
-Securities Exchange Act of 1934 (15 U.S.C. 78n)
 Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
 Securities Exchange Act of 1934 (15 U.S.C. 78o(d))
 Securities Exchange Act of 1934 (15 U.S.C. 78o)
-Securities Exchange Act of 1934 (15 U.S.C. 78o)
 Securities Exchange Act of 1934 (15 U.S.C. 78p(a))
 Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
-Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
 Securities Exchange Act of 1934 (15 U.S.C. 78q)
-Securities Exchange Act of 1934 (15 U.S.C. 78q)
-Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
 Securities Exchange Act of 1934 (15 U.S.C. 78t(a))
 Securities Exchange Act of 1934 (15 U.S.C. 78t(e))
 Securities Exchange Act of 1934 (15 U.S.C. 78x)
-Securities Exchange Act of 1934 (15 U.S.C. 78x)
-Securities Exchange Act of 1934 (15 U.S.C. 78y)
 Securities Exchange Act of 1934 (15 U.S.C. 78y)
 Securities Litigation Act
 Securities Litigation Act of 1995
@@ -444,15 +408,10 @@ Settlement Procedures Act
 Settlement Procedures Act of 1974
 Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.)
 Settlement Procedures Act of 1974 (12 U.S.C. 2604)
-Settlement Procedures Act of 1974 (12 U.S.C. 2604)
-Settlement Procedures Act of 1974 (12 U.S.C. 2605(e))
 Settlement Procedures Act of 1974 (12 U.S.C. 2605(e))
 Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
-Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
-Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
 Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
 Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)(2))
-Settlement Procedures Act of 1974 (12 U.S.C. 2605)
 Settlement Procedures Act of 1974 (12 U.S.C. 2605)
 Settlement Supervision Act
 Settlement Supervision Act of 2010
@@ -474,7 +433,6 @@ The Bank Service Company Act (12 U.S.C. 1861 et seq.)
 The Bretton Woods Agreements Act
 The Bretton Woods Agreements Act (22 U.S.C. 286 et seq.)
 The Commodity Exchange Act
-The Commodity Exchange Act (7 U.S.C. 1 et seq.)
 The Commodity Exchange Act (7 U.S.C. 1 et seq.)
 The Community Reinvestment Act
 The Community Reinvestment Act of 1977
@@ -515,21 +473,14 @@ The Real Estate Settlement Procedures Act
 The Real Estate Settlement Procedures Act of 1974
 The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.)
 The Securities Act
-The Securities Act
 The Securities Act of 1933
-The Securities Act of 1933
-The Securities Act of 1933 (15 U.S.C. 77a et seq.)
-The Securities Act of 1933 (15 U.S.C. 77a et seq.)
-The Securities Act of 1933 (15 U.S.C. 77a et seq.)
 The Securities Act of 1933 (15 U.S.C. 77a et seq.)
 The Securities Exchange Act
 The Securities Exchange Act of 1934
 The Securities Exchange Act of 1934 (15 U.S.C. 78 et seq.)
 The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
-The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
 The Trust Indenture Act
 The Trust Indenture Act of 1939
-The Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.)
 The Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.)
 Their Homes Act
 Their Homes Act of 2009
@@ -544,15 +495,63 @@ Tribe List Act of 1994
 Trust Indenture Act
 Trust Indenture Act of 1939
 Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.)
-Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.)
 Trust Indenture Act of 1939 (15 U.S.C. 77yyy)
 Urban Development Act
 Urban Development Act of 1968
 Urban Development Act of 1968 (12 U.S.C. 1701x)
-Urban Development Act of 1968 (12 U.S.C. 1701x)
 Wall Street Transparency and Accountability Act of 2010
 Woods Agreements Act
 Woods Agreements Act (22 U.S.C. 286 et seq.)
+act
+act (12 u.s.c. 1462)
+act (12 u.s.c. 1467a(a)(1)(d)(ii))
+act (12 u.s.c. 1467a(b)(2)
+act (12 u.s.c. 1467a(b))
+act (12 u.s.c. 1467a(c)(2))
+act (12 u.s.c. 1467a(o)
+act (12 u.s.c. 1468)
+hart-scott-rodino
+home owners loan act
+home owners' loan act
+moratorium
+paragraph
+referenced
+revised statutes of the united states
+section
+section 10(a)(1)(d)(ii)
+section 10(b)
+section 10(b)(2)
+section 10(c)(2)
+section 10(c)(9)(c)
+section 10(c)(9)(d)
+section 10(e)(2)
+section 10a
+section 10a (12 u.s.c. 1848a)
+section 11a
+section 18(c)(5)
+section 18(g)
+section 19(i)
+section 2
+section 2(a)(5)(e)
+section 2(a)(5)(f)
+section 2(c)(2)(d)
+section 2(c)(2)(f)
+section 2(c)(2)(h)
+section 23a
+section 3(d)(1)(a)
+section 4(j)(2)(a)
+section 44(b)(4)(b)
+section 5(c)(2)
+section 7a(c)(8)
+sections
+sections 5(c)(1)
+short title
+subclause
+subclause (a)(ii)
+subparagraphs
+subsection
+subsection (c)(9)(c)
+sunset
 the Administrative Procedures Act
 the Alternative Mortgage Transaction Parity Act
 the Alternative Mortgage Transaction Parity Act of 1982
@@ -560,15 +559,12 @@ the Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.)
 the Bank Enterprise Act
 the Bank Enterprise Act of 1991
 the Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
-the Bank Enterprise Act of 1991 (12 U.S.C. 1834(a))
 the Bank Holding Company Act
 the Bank Holding Company Act of 1956
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.)
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(E))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a)(5)(F))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))
-the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))
-the Bank Holding Company Act of 1956 (12 U.S.C. 1841(b))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(b))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(B))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(D))
@@ -577,30 +573,22 @@ the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(H))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(o)(4))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
-the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
-the Bank Holding Company Act of 1956 (12 U.S.C. 1841)
-the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1842(d)(1)(A))
-the Bank Holding Company Act of 1956 (12 U.S.C. 1842)
 the Bank Holding Company Act of 1956 (12 U.S.C. 1842)
 the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(1))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(2)(A))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1843(j)(2))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(6)(B))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
-the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1843(l)(1))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
-the Bank Holding Company Act of 1956 (12 U.S.C. 1843)
-the Bank Holding Company Act of 1956 (12 U.S.C. 1844(b))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1844(b))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(1))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(2))
 the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(5))
 the Bank Holding Company Act of 1965
-the Bank Holding Company Act of 1965 (12 U.S.C. 1841)
 the Bank Holding Company Act of 1965 (12 U.S.C. 1841)
 the Bank Service Company Act
 the Bank Service Company Act (12 U.S.C. 1861 et seq.)
@@ -608,12 +596,10 @@ the Bank Service Company Act 12
 the Child Nutrition Act
 the Child Nutrition Act of 1966
 the Child Nutrition Act of 1966 (42 U.S.C. 1780)
-the Child Nutrition Act of 1966 (42 U.S.C. 1780)
 the Clayton Act
 the Clayton Act (15 U.S.C. 18a(c)(8))
 the Commodities Exchange Act
 the Commodity Exchange Act
-the Commodity Exchange Act (7 U.S.C. 1 et seq.)
 the Commodity Exchange Act (7 U.S.C. 1 et seq.)
 the Commodity Exchange Act (7 U.S.C. 12)
 the Commodity Exchange Act (7 U.S.C. 12a(7))
@@ -638,7 +624,6 @@ the Commodity Futures Modernization Act of 2000
 the Community Reinvestment Act
 the Community Reinvestment Act of 1977
 the Community Reinvestment Act of 1977 (12 U.S.C. 2903(c))
-the Community Reinvestment Act of 1977 (12 U.S.C. 2903(c))
 the Consumer Credit Protection Act
 the Consumer Financial Protection Act
 the Consumer Financial Protection Act of 2010
@@ -659,18 +644,13 @@ the Emergency Economic Stabilization Act
 the Emergency Economic Stabilization Act of 2008
 the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.)
 the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5216)
-the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5216)
 the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225(a))
-the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225(a))
-the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))
 the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))
 the Emergency Housing Act
 the Emergency Housing Act of 1975
 the Emergency Housing Act of 1975 (12 U.S.C. 2706)
-the Emergency Housing Act of 1975 (12 U.S.C. 2706)
 the Employee Retirement Income Security Act
 the Employee Retirement Income Security Act of 1974
-the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002)
 the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002)
 the Energy Policy Act
 the Energy Policy Act of 1992
@@ -726,11 +706,9 @@ the Federal Deposit Insurance Corporation Improvement Act
 the Federal Deposit Insurance Corporation Improvement Act of 1991
 the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4401 et seq.)
 the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
-the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4403(a))
 the Federal Financial Institutions Examination Council Act
 the Federal Financial Institutions Examination Council Act of 1978
 the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(4))
-the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310)
 the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310)
 the Federal Home Loan Bank Act
 the Federal Home Loan Bank Act (12 U.S.C. 1431(l)(2))
@@ -740,10 +718,7 @@ the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1455(l)(2))
 the Federal Mine Safety and Health Act
 the Federal Mine Safety and Health Act of 1977
 the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802)
-the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802)
 the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814)
-the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814)
-the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 817(a))
 the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 817(a))
 the Federal National Mortgage Association Charter Act
 the Federal National Mortgage Association Charter Act (12 U.S.C. 1719(g)(2))
@@ -784,7 +759,6 @@ the Helping Families Save Their Homes Act of 2009
 the Higher Education Act
 the Higher Education Act of 1965
 the Higher Education Act of 1965 (20 U.S.C. 1018(f))
-the Higher Education Act of 1965 (20 U.S.C. 1018(f))
 the Home Mortgage Disclosure Act
 the Home Mortgage Disclosure Act of 1975
 the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.)
@@ -797,7 +771,6 @@ the Home Owners Protection Act of 1998 (12 U.S.C. 4901 et seq.)
 the Homeowners Protection Act
 the Homeowners Protection Act of 1998
 the Homeowners Protection Act of 1998 (12 U.S.C. 4909)
-the Homeowners Protection Act of 1998 (12 U.S.C. 4909)
 the Housing Act
 the Housing Act of 1948
 the Housing Act of 1948 (12 U.S.C. 1701c(c))
@@ -808,10 +781,8 @@ the International Banking Act of 1978
 the International Banking Act of 1978 (12 U.S.C. 3101(7))
 the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))
 the International Banking Act of 1978 (12 U.S.C. 3101)
-the International Banking Act of 1978 (12 U.S.C. 3101)
 the International Banking Act of 1978 (12 U.S.C. 3105(d)(3))
 the International Banking Act of 1978 (12 U.S.C. 3105(e)(1))
-the International Banking Act of 1978 (12 U.S.C. 3106(a))
 the International Banking Act of 1978 (12 U.S.C. 3106(a))
 the International Lending Supervision Act
 the International Lending Supervision Act of 1983
@@ -854,35 +825,24 @@ the Public Health Service Act
 the Public Utility Holding Company Act
 the Public Utility Holding Company Act of 1935
 the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a et seq.)
-the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a et seq.)
 the Real Estate Settlement Procedures Act
 the Real Estate Settlement Procedures Act of 1974
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.)
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
-the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604)
-the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(e))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(e))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
-the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(f))
-the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g))
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)(2))
-the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605)
 the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605)
 the Sarbanes-Oxley Act
 the Sarbanes-Oxley Act of 2002
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(9))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a))
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211 et seq.)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211)
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7211)
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7212)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7212)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7213(a))
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7213(a))
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7214(a))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7214(a))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(4)(B))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(A))
@@ -890,97 +850,66 @@ the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(6))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(7)(B))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216(a))
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216(a))
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7216)
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7217(d)(3))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7219)
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7219)
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(a))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(a))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(b))
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(b))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246)
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246)
-the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262(b))
 the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262(b))
 the Securities Act
 the Securities Act of 1933
 the Securities Act of 1933 (15 U.S.C. 77a et seq.)
-the Securities Act of 1933 (15 U.S.C. 77a et seq.)
 the Securities Act of 1933 (15 U.S.C. 77b(a))
 the Securities Act of 1933 (15 U.S.C. 77d)
-the Securities Act of 1933 (15 U.S.C. 77d)
-the Securities Act of 1933 (15 U.S.C. 77e)
 the Securities Act of 1933 (15 U.S.C. 77e)
 the Securities Act of 1933 (15 U.S.C. 77f(b))
 the Securities Act of 1933 (15 U.S.C. 77g)
-the Securities Act of 1933 (15 U.S.C. 77g)
-the Securities Act of 1933 (15 U.S.C. 77o)
 the Securities Act of 1933 (15 U.S.C. 77o)
 the Securities Act of 1933 (15 U.S.C. 77q)
-the Securities Act of 1933 (15 U.S.C. 77q)
-the Securities Act of 1933 (15 U.S.C. 77s)
 the Securities Act of 1933 (15 U.S.C. 77s)
 the Securities Act of 1933 (15 U.S.C. 77v(a))
-the Securities Act of 1933 (15 U.S.C. 77x)
 the Securities Act of 1933 (15 U.S.C. 77x)
 the Securities Exchange Act
 the Securities Exchange Act of 1934
 the Securities Exchange Act of 1934 (15 U.S.C. 73o(b))
 the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
-the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
 the Securities Exchange Act of 1934 (15 U.S.C. 78a(m))
 the Securities Exchange Act of 1934 (15 U.S.C. 78aa)
 the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))
 the Securities Exchange Act of 1934 (15 U.S.C. 78c)
-the Securities Exchange Act of 1934 (15 U.S.C. 78c)
-the Securities Exchange Act of 1934 (15 U.S.C. 78d)
 the Securities Exchange Act of 1934 (15 U.S.C. 78d)
 the Securities Exchange Act of 1934 (15 U.S.C. 78dd)
 the Securities Exchange Act of 1934 (15 U.S.C. 78ee)
 the Securities Exchange Act of 1934 (15 U.S.C. 78f(a))
 the Securities Exchange Act of 1934 (15 U.S.C. 78f(b))
 the Securities Exchange Act of 1934 (15 U.S.C. 78f)
-the Securities Exchange Act of 1934 (15 U.S.C. 78f)
 the Securities Exchange Act of 1934 (15 U.S.C. 78i(b))
 the Securities Exchange Act of 1934 (15 U.S.C. 78i)
-the Securities Exchange Act of 1934 (15 U.S.C. 78i)
-the Securities Exchange Act of 1934 (15 U.S.C. 78j)
 the Securities Exchange Act of 1934 (15 U.S.C. 78j)
 the Securities Exchange Act of 1934 (15 U.S.C. 78kk)
 the Securities Exchange Act of 1934 (15 U.S.C. 78l)
-the Securities Exchange Act of 1934 (15 U.S.C. 78l)
 the Securities Exchange Act of 1934 (15 U.S.C. 78m(e))
 the Securities Exchange Act of 1934 (15 U.S.C. 78m(f))
-the Securities Exchange Act of 1934 (15 U.S.C. 78m)
 the Securities Exchange Act of 1934 (15 U.S.C. 78m)
 the Securities Exchange Act of 1934 (15 U.S.C. 78mm)
 the Securities Exchange Act of 1934 (15 U.S.C. 78n(a))
 the Securities Exchange Act of 1934 (15 U.S.C. 78n(g))
 the Securities Exchange Act of 1934 (15 U.S.C. 78n)
-the Securities Exchange Act of 1934 (15 U.S.C. 78n)
 the Securities Exchange Act of 1934 (15 U.S.C. 78o(b))
 the Securities Exchange Act of 1934 (15 U.S.C. 78o(d))
 the Securities Exchange Act of 1934 (15 U.S.C. 78o)
-the Securities Exchange Act of 1934 (15 U.S.C. 78o)
 the Securities Exchange Act of 1934 (15 U.S.C. 78p(a))
 the Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
-the Securities Exchange Act of 1934 (15 U.S.C. 78p-2)
 the Securities Exchange Act of 1934 (15 U.S.C. 78q)
-the Securities Exchange Act of 1934 (15 U.S.C. 78q)
-the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 the Securities Exchange Act of 1934 (15 U.S.C. 78q-1)
 the Securities Exchange Act of 1934 (15 U.S.C. 78s(b))
 the Securities Exchange Act of 1934 (15 U.S.C. 78t(a))
 the Securities Exchange Act of 1934 (15 U.S.C. 78t(e))
 the Securities Exchange Act of 1934 (15 U.S.C. 78x)
-the Securities Exchange Act of 1934 (15 U.S.C. 78x)
-the Securities Exchange Act of 1934 (15 U.S.C. 78y)
 the Securities Exchange Act of 1934 (15 U.S.C. 78y)
 the Securities Investor Protection Act
 the Securities Investor Protection Act of 1970
-the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)
 the Securities Investor Protection Act of 1970 (15 U.S.C. 78ddd)
 the Securities Investor Protection Act of 1970 (15 U.S.C. 78jjj)
@@ -990,78 +919,14 @@ the Small Business Act (15 U.S.C. 632)
 the Small Business Investment Act
 the Small Business Investment Act of 1958
 the Small Business Investment Act of 1958 (15 U.S.C. 662)
-the Small Business Investment Act of 1958 (15 U.S.C. 662)
 the Terrorism Risk Insurance Act
 the Terrorism Risk Insurance Act of 2002
 the Trade Act
 the Trade Act of 1974
-the Trade Act of 1974 (19 U.S.C. 2171)
 the Trade Act of 1974 (19 U.S.C. 2171)
 the Trust Indenture Act
 the Trust Indenture Act of 1939
 the Trust Indenture Act of 1939 (15 U.S.C. 77yyy)
 the Wall Street Transparency and Accountability Act
 the Wall Street Transparency and Accountability Act of 2010
-(12 u.s.c. 1464(b)(1)(b))
-(12 u.s.c. 1467a(e)(2))
-(12 u.s.c. 1467a(m)(3))
-(12 u.s.c. 1813(q))
-(12 u.s.c. 1817(j))
-(12 u.s.c. 1828(g))
-(12 u.s.c. 1831u(b)(4)(b))
-(12 u.s.c. 248a)
-(12 u.s.c. 371a)
-(12 u.s.c. 371c)
-(12 u.s.c. 84(b))
-(15 u.s.c. 80a-1 et seq.)
-12 u.s.c. 1817(j)
-act
-act (12 u.s.c. 1462)
-act (12 u.s.c. 1467a(a)(1)(d)(ii))
-act (12 u.s.c. 1467a(b)(2)
-act (12 u.s.c. 1467a(b))
-act (12 u.s.c. 1467a(c)(2))
-act (12 u.s.c. 1467a(o)
-act (12 u.s.c. 1468)
-home owners loan act
-home owners' loan act
-moratorium
-paragraph
-referenced
-revised statutes of the united states
-section
-section 10(a)(1)(d)(ii)
-section 10(b)
-section 10(b)(2)
-section 10(c)(2)
-section 10(c)(9)(c)
-section 10(c)(9)(d)
-section 10(e)(2)
-section 10a
-section 10a (12 u.s.c. 1848a)
-section 11a
-section 18(c)(5)
-section 18(g)
-section 19(i)
-section 2
-section 2(a)(5)(e)
-section 2(a)(5)(f)
-section 2(c)(2)(d)
-section 2(c)(2)(f)
-section 2(c)(2)(h)
-section 23a
-section 3(d)(1)(a)
-section 4(j)(2)(a)
-section 44(b)(4)(b)
-section 5(c)(2)
-section 7a(c)(8)
-sections
-sections 5(c)(1)
-short title
-subclause
-subclause (a)(ii)
-subparagraphs
-subsection
-subsection (c)(9)(c)
-sunset
 title

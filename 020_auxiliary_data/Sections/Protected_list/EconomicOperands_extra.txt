@@ -1095,9 +1095,11 @@ Z-score
 Zap m-system
 Zimbabwe
 abandonment of light-touch approach
+ability
 absence of a formal mechanism in finance
 absence of institutions and voice
 absence of relation between regulation and development
+accept
 access to finance
 accountability
 accountability framework
@@ -1107,14 +1109,27 @@ accounting standards
 accounting studies
 accounting study
 accounting system
+achieves
+acquire
+acquired
+acquiring
+acquisition
+acquisitions
+acting
+action
+actions
+activities
+activities conducted
 activities of non-banks
 activity
 activity-based approach
+adequacy
 adjustable rate
 adjustable rate mortgage
 adjustable rate mortgages
 adjustment
 adoption of collective-investment scheme
+advance
 advanced internal ratings-based approach
 advanced measurement approach
 advanced measurement approaches
@@ -1125,11 +1140,13 @@ adverse effects
 adverse effects of fragmentation
 adverse selection
 advertising expenditures
+advice
 advice to client
 affordable
 aftermath
 aftermath of the 1929 crash
 against good collateral
+agencies
 agency cost
 agency cost theories
 agency costs
@@ -1145,11 +1162,13 @@ aggregate
 aggregate development in international comparison
 aggregate fluctuation
 aggregate shocks
+agreement to repurchase
 algorithmic trading
 allocation
 allocation of cash flows
 allocation of credit
 altering incentives
+alternating
 alternative approache
 alternative approaches
 alternative approaches compared
@@ -1159,9 +1178,17 @@ alternative strategies
 alternative strategy
 amakudari practice Japan
 amortization
+amount
+amounts
+analysis
 anchoring
 anchoring and adjustment
+annual
+annual gross revenues derived
 anti-predatory regulation
+antitrust
+applicant
+application
 appraisal
 appraisals
 approach to risk
@@ -1173,6 +1200,7 @@ ascendancy in policy circles
 ascendancy of objectives supervision
 assessment
 asset
+asset backed security
 asset convexity
 asset correlation
 asset distribution
@@ -1194,9 +1222,11 @@ assets
 association
 association with banks
 association with innovation
+assuring
 asymmetric information
 asymptotic-single-risk-factor framework
 asymptotically fine-grained
+audited financial statements
 auditor
 auditors
 authority
@@ -1209,9 +1239,15 @@ automated teller machine
 automated teller machines
 availability
 availability of data
+available
 available stable funding
+avoid
+avoid duplication
 avoidance
+avoids
 back end ratio
+back-up
+backup
 bad bank
 bad loan
 bad loans
@@ -1339,6 +1375,8 @@ basic characteristics of US regulatory system
 basic characteristics of regulatory system
 basis of financial system
 basis of the CFTC’s regulatory approach
+became
+begin
 beginnings of change
 behavioural analysis
 behavioural and psychological research
@@ -1356,8 +1394,12 @@ bifurcated regime
 bilateral credit relationship
 bilateral credit relationships
 binding force of legal rules
+board of governors
+board of trade
 boards of directors
 bold new approach
+bona fide
+bona fide market-making
 bonus
 bonus payment
 bonus payments
@@ -1365,6 +1407,8 @@ bonuses
 boom and bust
 boom-bust credit cycles
 borrower solvency theory of default
+borrowing
+branch
 branch banking
 branching
 branching and penetration
@@ -1383,10 +1427,14 @@ business coordinator
 business coordinators
 business cycles
 business regulation
+businesses
 by continent
+calendar year
+calendar year preceding
 calls for reform
 capabilities
 capability
+capacity
 capital
 capital allocation efficiency
 capital co-efficients
@@ -1409,12 +1457,16 @@ capital structure of commercial banks
 capital-to-assets ratio
 capital-to-assets ratios
 capitalization of investment banking
+capitalized
 card pricing
+carries out
+carry out
 cash bonus
 cash bonuses
 cash reserve requirements
 cash-asset reserves
 cashless society
+category
 causality debate
 cause
 cause of 2007 credit crunch
@@ -1424,6 +1476,7 @@ causes
 causes of market failure
 causes of systemic risk
 causes of the GFC
+cease
 central bank
 central banks
 centralization
@@ -1432,15 +1485,19 @@ centralization of payment systems
 centralization of payments
 certificate
 certificates
+chairman
 challenge
 challenge to pre-existing conceptions
 challenges facing regulators
 challenges of a renewed doctrine
+change
 change from micro-to macro-prudential approach
 change in role as intermediaries
 changes in way subject tackled
 characteristic
+charge
 charter value
+chartered
 check
 checks
 cheque
@@ -1449,6 +1506,7 @@ chip and pin
 city bank
 city banks
 civil litigation
+class
 classification
 clearing
 clearing and settlement requirements
@@ -1478,13 +1536,17 @@ collateralized loan obligation
 collateralized loan obligations
 collateralized mortgage obligation
 collateralized mortgage obligations
+collect
 collusive behaviour among banks
 collusive behaviour among banks 602
 combined loan-to-value ratio
 combined loan-to-value ratios
 coming under strain
+commence
+commencing
 comments on regulatory responses
 comments on responses
+commercial
 commercial bank
 commercial bank charter
 commercial bank charters
@@ -1492,6 +1554,8 @@ commercial bank clearing house
 commercial bank clearing houses
 commercial bank numbers
 commercial banks
+commercial firm
+commercial firms
 commercial paper
 commercial vs. universal banking
 commitment
@@ -1499,10 +1563,16 @@ commitment savings device
 commitment savings devices
 commitment to close regulatory gaps
 commitments
+committee on banking, housing, and urban affairs
+committee on financial services
+commodities
+commodity
+commodity trading adviser
 common evolutionary perspective
 community
 community bank
 community banks
+companies
 compensation
 compensation guidelines
 compensation in banking
@@ -1530,30 +1600,43 @@ compliance strategies
 compliance strategy
 compliance with the TCF requirements
 comprehensive Risk Measure
+comptroller general
+comptroller general of the united states
+comptroller of the currency
+concentrated
 concentration
 conceptual framework
 conceptual framework of EU
+concerns
 concerns for long-term interests
+conditions
 conduct
 conduct and strategy
 conduct of business regulation
 conduct of monetary policy
 conduct which raises market concerns
+conducted
+conducting
 conduit sale
 conduit sales
+confidence
+confidentiality
 conflict
 conflict between micro-and macro-regulatory objectives
 conflict of interest
 conflict with macro-regulatory objectives
 conflict with micro-regulatory objectives
 conflicting incentives
+conflicting supervisory
 conflicts
 conflicts in clearing and settlement requirements
 conflicts of interest
 conforming loan limit
+congress
 conjectural-variations method
 consensus-based system
 consequence of insolvency
+consolidated
 consolidation
 consolidation and small business lending
 consolidation effect
@@ -1562,6 +1645,8 @@ constraint
 constraints
 constraints on negative information
 constructive ambiguity
+consult
+consultation
 consumer
 consumer bias
 consumer biases
@@ -1571,11 +1656,14 @@ consumer lending restriction
 consumer lending restrictions
 consumer protection
 consumers
+consummation
 contagion
 contagion evidence
 contagion vs. fundamental views
 contestability
 contestability and efficiency
+contingent capital
+continue
 continuous linked settlement bank
 continuous linked settlement banks
 contract
@@ -1586,10 +1674,16 @@ control
 control of systemic risk
 control of systemic risk within EU
 control within EU
+controlled
+controlling
 controversy
+convenience
 convertibility
+convertible
 convexity
 cooperation
+coordinate
+coordination
 coordination of supervision
 core deposits
 core function
@@ -1621,11 +1715,14 @@ costs and G-SIBS
 costs and funding
 costs of
 costs of financial distress
+council
 counterfactual merger
 counterfactual mergers
 countries insolvency framework
 countries insolvency frameworks
 countries represented
+country
+coverage
 cream-skimming by foreign banks
 creation
 creation of an SPV
@@ -1703,6 +1800,7 @@ crisis managers
 crisis-era imposition of infrastructures
 crisis-era reforms
 crisis-prone
+criteria
 criteria collateral
 cross border
 cross-border cooperation
@@ -1715,6 +1813,7 @@ cross-border merger
 cross-border mergers
 cross-border regulation
 cross-border supervision
+cross-marketing
 culture
 cumulative abnormal return model
 currency deposit conversion
@@ -1733,7 +1832,9 @@ cyclical tools
 dark pool
 dark pools
 dark side
+data
 data-coding
+date
 daylight credit
 debit card
 debit card interchange fee
@@ -1748,6 +1849,7 @@ debt-based
 debt-based compensation
 debts
 decision-making
+declaration
 default
 default risk and credit supply
 default risk models of credit supply
@@ -1767,6 +1869,7 @@ deglobalization of finance
 delegated monitoring
 delegation
 delegation under Havana Charter
+delivery
 delivery vs. payment
 demand
 demand for
@@ -1787,6 +1890,7 @@ deposit market
 deposit markets
 deposit-guarantee scheme
 deposit-guarantee schemes
+depositor
 depository institution
 depository institutions
 deregulation
@@ -1803,6 +1907,7 @@ desupervision
 detail
 determinant
 determinants
+determining
 deterrence
 devaluation
 devaluations
@@ -1826,6 +1931,7 @@ difficult and evolving concept
 diffusion
 diffusion of TCF
 diplomacy
+direct
 direct exposure
 direct exposures
 direct exposures between financial institutions
@@ -1851,7 +1957,9 @@ diseconomies of scale
 diseconomies of scope
 disintermediation
 dispersal of share ownership
+dispose
 dispute resolution
+disruptions
 distinctive challenge
 distinctive challenges
 distinctive features
@@ -1877,6 +1985,8 @@ diversification and scale economies
 diversifying
 diversity
 diversity in the boardroom
+dividend
+dividends
 doctrine
 doctrines
 domain-specific nature
@@ -1893,6 +2003,7 @@ drawback
 drawbacks
 dualist monetary system
 dualist monetary systems
+duplication
 duties to the community
 duty of care
 duty of conscientious representation
@@ -1925,6 +2036,7 @@ economic purpose
 economic role
 economies of scale
 economies of scope
+economy
 economy of scale
 effect
 effect of GFC
@@ -1947,6 +2059,7 @@ effect on banking activity
 effect on interest rates
 effect on monetary policy
 effect on reputation of gatekeepers
+effective date
 effectiveness
 effectiveness of oversight
 effectiveness of reforms
@@ -1976,6 +2089,7 @@ electronic 8
 electronic funds transfer at the point of sale
 electronic payment
 electronic payments
+eliminate
 emergence as major force
 emergence of
 emergence of banking
@@ -1990,6 +2104,7 @@ emerging markets
 emerging themes
 empirical evidence
 empirical testing
+employee
 encouragement of desirable activities
 endogeneity
 endogenous risk
@@ -2001,10 +2116,15 @@ enforcement role
 enforcement tools
 enforcement trend
 enforcement trends
+engage
+engaging
 enrolment of self-regulation within public system
 enrolment within public system
+ensures
 enterprise access to finance in international comparison
 enterprise-contributed net worth
+entities
+entity
 eposit insurance
 eposit rate
 eposit rates
@@ -2043,25 +2163,36 @@ ex ante planning
 ex post influence
 examination
 examinations
+examine
+exceed
 exception to general trend
 excessive lending
+exchange
 exchange rate collapse
 exchange rate pegs
+exchange ratio
 exclusion and non-citizenship
 exculpatory norms in
+exercise
+exercising
+existing
+existing reports
 expansion
 expansion of activities
 expansive tendency
 expense
 experience-based shortcuts to decision-making
+explanation
 exploitive
 exposure
 exposure at default
 exposure of gaps in international regulation
 extension of OLA regime
+extent
 extent of problem
 externalities
 externality
+externally
 extraterritorial enforcement
 extreme-value theory
 facilitating access
@@ -2074,15 +2205,22 @@ fair treatment
 fall-out
 fall-out from Asian crisis of 1997
 fallout
+farm credit system
 fatal blow to transatlantic financial system
 feature
+federal
+federal insurance office
+fee
 fee structure
 feedback loop
 feedback loops
 female bank staff
 fiat monetary system
 fiat monetary systemsfiat monetary systems
+fiduciary
+final
 finance
+financial
 financial and banking crises
 financial and economic growth
 financial architecture
@@ -2092,6 +2230,7 @@ financial assets by holder
 financial citizens
 financial collateral
 financial collateral and termination provisions
+financial condition
 financial consumer action group
 financial contagion
 financial crises relationship
@@ -2102,6 +2241,7 @@ financial crisis (1997– 98)
 financial depth
 financial deregulation
 financial economics
+financial firms
 financial fragility
 financial fragility hypothesis
 financial futures and forwards
@@ -2135,6 +2275,7 @@ financial stability
 financial stability and development
 financial stability as global public good
 financial statement lending
+financial statements
 financial system
 financial systems
 financial underdevelopment
@@ -2181,6 +2322,7 @@ foreign-owned bank efficiency
 formal
 formal mechanism in finance
 formal model
+formation
 forms of compensation
 forward contract
 forward contracts
@@ -2195,13 +2337,16 @@ framing effect
 framing effects
 fraud
 free banking
+frequency
 frequency of
 from deterrence to compliance
+fullest
 function
 function of
 functional model
 functional models
 functional substitute for the separate corporate personality
+functionally regulated subsidiaries
 functions
 fund structure and funding
 funding
@@ -2251,6 +2396,7 @@ goal
 goals
 gold exchange standard
 gold standard
+goods
 governance
 governance requirement
 governance requirements
@@ -2272,8 +2418,11 @@ government-banking sector partnership
 government-sponsored enterprise
 government-sponsored enterprises
 governments
+grandfathered
 gridlock equilibrium
+gross revenues
 gross settlement
+group
 growth
 growth of consumer lending
 hard and soft
@@ -2283,11 +2432,13 @@ hard-wiring of into regulatory system
 harmonization
 harmonization within EU
 hausbank system
+health
 hedge fund
 hedge funds
 hedging
 hedging transaction
 hedging transactions
+held
 herd effect 1
 herding
 heterogeneity and dollarization
@@ -2311,8 +2462,14 @@ historical securitization issuance
 history and development
 history and development of cross-border regulation
 history and development of market access and licensing
+holding companies
+holding company
+holdings
 holdings connection
 holdings connections
+holds
+home
+house of representatives
 household access to finance in international comparison
 household asset
 household assets
@@ -2322,6 +2479,7 @@ household financial need
 household financial needs
 household investment
 household investments
+households
 housing bubble
 housing market
 housing policy
@@ -2330,8 +2488,10 @@ human capital
 hybrid
 hybrid mortgages
 idea
+identify
 idiosyncratic
 idiosyncratic risk
+illiquid
 illiquidity
 illiquidity view
 illiquidity view of contagion
@@ -2374,9 +2534,11 @@ importance of investor protection
 importance of mandates
 importance of risk
 importance to institutional design
+improvements
 in 19th century
 in US panics
 in a post-crisis world
+in concert
 inadequacy
 inadequacy at time of GFC
 inadequacy of bank capital
@@ -2391,17 +2553,23 @@ incentive system
 incentive systems
 incentive-compatible regulation
 incentives
+incidental
+include
 income distribution
 income distribution and poverty
+incorporated
 increase
 increase in capital requirements
 increase in cash reserves
 increase in credit supply
 increased pressure
+independent
 index of banking reform
 indicative list of activities
+indirect
 indirect influence
 individual risk
+industrial
 industrial development
 industry dynamics in product markets
 industry financing
@@ -2412,6 +2580,7 @@ inflation rates
 inflation targeting
 influence on competition
 influence on policy
+inform
 informal public enforcement
 informal sector
 information
@@ -2429,6 +2598,7 @@ information-processing intermediaries
 information-sharing
 information-sharing and competition
 informational cascades
+initial
 initial public offering
 initial public offerings
 injection as LOLR
@@ -2448,6 +2618,8 @@ insolvency complexity
 insolvency frameworks among countries
 insolvency risk
 insolvent
+inspection
+inspections
 instalment credit
 instalment payments
 institution
@@ -2475,6 +2647,7 @@ integrated supervision
 integration
 intended scope
 intensification of concerns
+intent
 interaction with capital requirements
 interaction with emerging financial markets
 interaction with liquidity requirements
@@ -2507,19 +2680,26 @@ interest rate spread
 interest rate spreads
 interest rates
 interest retention
+interest-bearing transaction
+interested parties
+interlocks
 intermediaries
 intermediary leverage cycle
 intermediary leverage cycles
+intermediate
+intermediate holding company
 intermediated finance
 intermediated loan
 intermediated loans
 intermediation
 intermediation chain
+internal financial
 internal financial market
 internal governance arrangements
 internal market
 internal-rating-based approach
 internal-rating-based approaches
+international
 international and US developments
 international bank acquisition
 international bank acquisitions
@@ -2535,6 +2715,9 @@ international regulation
 international regulation 3
 international regulatory systems
 interplay between markets
+interpretations
+interstate
+interstate acquisitions
 interstate banking
 interstate regulation
 intertemporal smoothing
@@ -2544,6 +2727,8 @@ intertemporal tax subsidy schemes
 intervention
 interventionist approach
 interventionist approach to financial regulation
+investment
+investment activities
 investment in management information system
 investment in management information systems
 investment restriction
@@ -2551,12 +2736,14 @@ investment restrictions
 investment restrictions on banks
 investment risk
 investment-consumption framework
+investments
 investor
 investor empowerment
 investor euphoria
 investor protection
 investors
 investors and consumers for everyday life
+involve
 involvement
 involvement in regulatory role
 irresistible impetus
@@ -2566,10 +2753,12 @@ issue
 issues
 istance
 iversification
+joint
 judgement lending
 judicial activism
 jumbo
 junior
+jurisdiction
 jurisdictional and extraterritorial enforcement
 jurisdictional enforcement
 keiretsu
@@ -2586,6 +2775,7 @@ lack of competition
 laissez-faire approach
 laissez-faire approach to financial regulation
 large banks
+large financial firms
 large vs. small banks
 large, diversified firms
 large-value payment system
@@ -2599,6 +2789,7 @@ law of reflux
 laws preventing consolidation and branching (1870-1914)
 lazy bank hypothesis
 lead regulator model
+lease
 leasing
 least cost resolution
 legacy
@@ -2703,6 +2894,8 @@ local deposit market
 local deposit markets
 local loan market
 local loan markets
+located
+locations
 long-term credit bank
 long-term credit banks
 long-term finance agenda
@@ -2713,6 +2906,7 @@ loss-given default
 losses
 low priority to prudential issues
 low quality
+low-income
 lower cost options hedges
 lower-risk investment strategies
 lower-risk investment strategy
@@ -2738,11 +2932,13 @@ macroprudential policies
 macroprudential policy
 macroprudential policymaking
 macroprudential regulation
+main
 main bank system
 main function
 main supervisory models
 major events
 making financial institutions more sophisticated
+managed
 management
 management issue
 management issues
@@ -2816,6 +3012,7 @@ mechanism
 mechanisms
 median credit
 mega
+member
 mercy norm
 merger
 merger of institutions
@@ -2838,6 +3035,7 @@ micro-regulatory objective
 micro-regulatory objectives
 microcredit
 microfinance
+mid-tier
 minimum capital
 mismanagement
 mobile money
@@ -2872,6 +3070,7 @@ money market funds
 money market mutual fund
 money market mutual funds
 money supply
+monitor
 monitoring
 monitoring and supervisory responsibilities
 monitoring and supervisory responsibility
@@ -2919,10 +3118,12 @@ multiple equilibria theory
 mutability
 mutability and variability
 mutual funds
+mutual holding company
 mutual recognition
 named as world’s premier economic forum
 national product-orientated rules
 nationalization
+nature
 need
 need for clear and unambiguous mandate
 need for cross-border coordination in regulation and supervision
@@ -2941,6 +3142,7 @@ net regulatory benefit
 net regulatory burden
 net stable funding ratio
 network theory
+new
 new bank
 new banks
 new empirical industrial organization approach
@@ -2974,13 +3176,21 @@ non-participation in SSM
 non-performing loan
 non-performing loans
 non-structural approach
+nonbank
+nonbanks
+nondepository
+nonfinancial
+nonvoting member
 norm
 norms
 note rate
 note rates
+notice
 nudge theory
+number
 number of bank branches
 numerical measures
+oath
 objective
 objective in its own right
 objective of prudential regulation
@@ -2989,7 +3199,12 @@ objectives-based Australian financial supervisory/architecture
 obligation
 obligations
 obstacles to market discipline
+obtain
+obtained
 of consumer lending
+off-balance-sheet
+office of financial research
+officers
 offshore
 offshore banking
 offshore benefit
@@ -3002,8 +3217,12 @@ online
 online banking
 opacity
 open market operations
+operating
 operating/non-operating costs
+operation
+operational
 operational risk
+operations
 opportunities
 opportunities for abuse
 opportunity
@@ -3012,9 +3231,12 @@ opposing theoretical conceptions
 optimal capital regulation
 orchestration
 orchestration of EU institutional regulation
+order
+order issued
 organization of regulatory system
 organizational form
 organizational forms
+organized
 origin
 origin in US
 original hypothesis
@@ -3044,15 +3266,19 @@ overdraft fee
 overdraft fees
 overnight interbank rate
 overnight interbank rates
+oversight
 overview
 overview of distress measures
+owned
 ownership
 ownership structure
 packages
 panic and contagion
+parent
 part-time bank staff
 partial relaxation
 partnership
+pay
 payment
 payment data
 payment instrument
@@ -3070,14 +3296,19 @@ pensions scheme
 pensions schemes
 perfect competition
 perfect contestability
+perform
 performance
 performance in relation to market discipline
 performance of large banks
+period
+period beginning
 permissible scope of business activities
 perspective
 perspectives
 pervasive incentive
 pervasive incentives
+placement agent
+plan
 point
 points
 policies
@@ -3098,6 +3329,8 @@ popularity in 1990s and 2000s
 portfolio
 portfolio theory
 portfolios
+pose
+positions
 post-GFC consumer reform
 post-GFC consumer reforms
 post-GFC reform
@@ -3107,6 +3340,8 @@ post-trade transparency requirements
 post-trading infrastructure
 post-trading infrastructures
 post-transition inflation
+potential
+potential consequences
 potential sanctions
 pound sterling
 poverty
@@ -3123,6 +3358,7 @@ preconditions for development
 predatory lending
 predatory lending law
 predatory lending laws
+premiums
 prepaid card
 prepaid cards
 preparing for Solvency II
@@ -3130,16 +3366,22 @@ pressure on efficient capital market hypothesis
 pressure on other jurisdictions
 prevention by macro-prudential policy
 prevention of systemic risk
+price
 price formation
+price movements
 price rationing
 pricing of deposit insurance
 primary dealer credit facility
 primary topics of focus
+principal
+principally
+principally invest
 principle
 principles
 principles issued by ISSBs
 principles-based approaches
 principles-based regulation
+prior
 prior multiple federal approach
 prior to the subprime lending crisis
 prioritized bank debt
@@ -3163,6 +3405,7 @@ privatization
 probability at default
 probability of default
 problem
+procedures
 process
 product
 product innovation
@@ -3182,19 +3425,26 @@ products
 professional
 professional trader
 professional traders
+profit
 profit maximization
 profitability
 prohibited
 promotion of trust
 prompt corrective action
+promulgate
 property boom
 property registration
+proposed acquisition
 proprietary trading
 protected bank
 protected banks
 protected investors
 protecting a subsidiary from the rest of the group
 protecting the group from a risky subsidiary
+provide
+provided
+provides
+provides assistance
 provision
 provision regulated by EU Member States
 prudential-related regulation
@@ -3215,20 +3465,28 @@ public ownership
 public policy
 public sanctions
 public system
+publicly
+publicly traded
+purchaser
 pure
 pure risk
 purpose
 purpose of regulation
+qualified
 qualified mortgage
 qualified residential
+qualified thrift lender
+qualify
 qualitative asset transformation
 quantification of legal rules
 quantitative easing
 quantity theory of money
 questioning of conventional wisdoms
+raised
 range of sanctions
 rarity of
 rate of return
+rates
 rating agencies
 rating agency
 rating trigger
@@ -3240,15 +3498,22 @@ rationales for regulation
 rationales for regulation of abuse
 real estate investment trust
 real estate investment trusts
+real estate investments
 real estate mortgage investment conduit
 real estate mortgage investment conduits
 real time gross settlement system
 real time gross settlement systems
 recapitalization
+receive dividends
+receives
 recent profits and losses
 reckless
+recommend
+recommendation
+reduce
 reduction of individual risk
 reduction of systemic risk
+referrals
 refinance or default decisions
 refinancing incentive
 reflection of changing ideas
@@ -3271,6 +3536,8 @@ regional perspective
 regional perspectives
 regional regional bank
 regional regional banks
+registered
+registration
 regulation
 regulation after 2008
 regulation and reform suggestion
@@ -3348,26 +3615,38 @@ relationship with risk
 relationship-based approach
 relationship-based approaches
 relative market power hypothesis
+rely
+remain
 remuneration-based risk
 remuneration-based risks
 renewed interest
 renewed interest since GFC
+reorganization
+reorganized
 repeal
 repo
+report
+reported publicly
+reporting
+reports
 repos
 repossession cost
 repossession costs
+represent
 representativeness
 repurchase agreement
 repurchase agreements
 reputation
 reputational
 reputational capital
+request
+requests
 required amount of stable funding
 required supervisory approach
 requirement
 requirements
 research
+resell
 reserve requirement
 reserve requirements
 reshaping of incentive structures
@@ -3381,9 +3660,12 @@ resolution mechanisms
 resolution process
 resolution regime
 resolution regimes
+responding
 response and prevention
 responses to GFC
+responsibilities
 responsibility for regulatory contraventions
+responsible for
 restrictive covenants
 restrictive government
 restrictive government regulation
@@ -3391,7 +3673,9 @@ restrictive government regulations
 restructuring
 restructuring after GFC
 restructuring of authorities
+result
 result of banking crises
+results
 resurrection
 resurrection risk-taking
 retail
@@ -3411,10 +3695,13 @@ return on equity
 return volatility
 return-on-equity ratio
 returns
+revenues
+revenues generated
 reverse factoring
 review of institutional structures
 revolver
 revolvers
+right
 right of challenge
 rise and fall in popularity
 risk
@@ -3494,11 +3781,14 @@ rulemaking governance
 rules
 rules, norms and standards
 runs
+safe
+safety
 safety net
 safety net access by securities arm 1
 safety nets
 sanction
 sanctions
+savings and loan holding company
 savings mechanism
 savings mechanisms
 scale and scope of twenty-first century
@@ -3540,6 +3830,9 @@ self-regulation
 self-regulation with statutory mandate (1986-1998)
 self-regulatory organization
 self-regulatory organizations
+sell
+selling
+senate
 senior
 senior-management accountability
 sense of public ownership
@@ -3549,6 +3842,7 @@ separation models
 sequencing of reforms
 sequential service constraint
 serfdom
+served
 service
 services
 servicing
@@ -3580,10 +3874,12 @@ shareholders
 shareholders and managers
 shareholders vs. creditors
 shareholders vs. managers and internal agency problems
+shares
 shift in rhetoric
 shock
 shocks
 short selling
+short-term
 short-term loan
 short-term loans
 short-term wholesale funding
@@ -3629,7 +3925,10 @@ soft-budget constraint
 soft-budget-constraint problem
 solvency
 sophisticated
+sound
+soundness
 source
+source of strength
 sources
 sources of prediction problems
 sovereign debt
@@ -3649,6 +3948,8 @@ specialization
 specialized shadow-bank entities
 spiral
 spirals
+sponsor
+sponsorship
 spreading of risk
 sset prices
 stability
@@ -3673,11 +3974,14 @@ state’s role in funding and development
 statistics
 stochastic frontier
 stochastic frontier method
+stock
 stock market crash
 stock-market
 strategies
 strategy
+strengthen
 strengthening supervision
+stress
 stress test
 stress testing
 stress tests
@@ -3701,6 +4005,9 @@ structured investment vehicle
 structured investment vehicles
 structured securitization
 structuring the transaction
+studies
+study
+submit
 subordinate notes and bonds
 subordinate notes or bonds
 subprime
@@ -3710,6 +4017,7 @@ subprime crisis
 subprime mortgage
 subprime mortgages
 subsequent failure of Single European Passport
+subsidiaries
 subsidiary banks
 subsidiary growth
 success linked to size and profitability
@@ -3717,10 +4025,12 @@ sudden and fast-moving
 suitability duties
 suitability duty
 sunspot phenomena
+supervised
 supervision
 supervision within ESFS
 supervisor
 supervisors
+supervisory
 supervisory agencies
 supervisory agency
 supervisory challenge
@@ -3748,6 +4058,7 @@ swaps
 swaps risk management
 symmetric information
 syndicated loan market
+synthetic
 system
 system reform
 systematic error
@@ -3770,6 +4081,7 @@ tail risks
 tailored intervention
 tailored interventions
 tailored interventions with field experiments
+take into consideration
 take-overs
 tax
 tax code
@@ -3813,6 +4125,9 @@ theoretical models
 theories
 theory
 theory of market discipline
+third parties
+threat
+threats
 three phases of
 three pillars
 three supervisory challenges of modernization
@@ -3822,6 +4137,8 @@ three-stage process
 thrift crisis (1980s)
 thrift institution
 thrift institutions
+thrift lenders
+time
 time-series econometrics
 timeline of development
 timing and source of legal rules
@@ -3834,6 +4151,7 @@ too-big-to problems
 tool
 tools
 tools other than capital
+total consolidated
 total factor productivity
 total liabilities
 toxic asset
@@ -3857,8 +4175,10 @@ traditional industrial organization approach
 traditional main bank studies
 traditional main bank study
 tranching
+transaction
 transaction cost
 transaction costs
+transactions
 transfer of assets
 transition
 transition countries
@@ -3872,6 +4192,7 @@ transparency
 transparency regulation
 transparency requirement
 transparency requirements
+treatment
 trend
 trends
 tri-party repo
@@ -3883,8 +4204,10 @@ trust banks
 truth-in-lending regulation
 tunnelling
 two-tier system
+types
 types of regulatory intervention
 typical aspirations for institutional design
+unaffiliated
 unambiguous mandate
 unbanked
 uncontrolled credit expansion
@@ -3897,6 +4220,8 @@ underlying problem
 underlying prudential regulation
 underlying rationale
 underlying rationale for regulation
+underserved
+underserved communities
 understanding
 underwriter
 underwriters
@@ -3918,9 +4243,13 @@ universal banking outlawed
 universal banks
 universal call for regulation
 unravelling of imbalances
+unsafe
+unsound
 unwarranted withdrawal
 unwarranted withdrawals
+use
 use of mandatory arbitration clauses
+used
 users
 usury ceiling
 usury ceilings
@@ -3936,11 +4265,14 @@ variable maturity mortgages
 variable rate
 variable rate mortgage
 variable rate mortgages
+venture capital
 venture capital financing
 venues
 verse selection
 view of contagion
 voluntary acceptance
+voting member
+voting shares
 vulnerability features
 vulture fund
 vulture funds
@@ -3963,12 +4295,18 @@ wholesale payments
 why systems are crisis-prone
 wire transfer
 wire transfers
+withdraw
 withdrawal
 withdrawal risk
 workout specialist
 workout specialists
 write-down
 write-downs
+writing
+written explanation
+written request
+year
+years
 zero tax countries
 zero tax country
 zombie firm

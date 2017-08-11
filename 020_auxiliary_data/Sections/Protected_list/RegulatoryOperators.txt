@@ -29,6 +29,7 @@ implementing
 limitations
 limiting
 may
+mitigate
 permit
 permitted
 prescribe
@@ -55,5 +56,6 @@ subjecting
 submit
 supervise
 supervised
+take effect
 treated
 treatment

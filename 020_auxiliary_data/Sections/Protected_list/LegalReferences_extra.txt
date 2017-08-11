@@ -1,3 +1,17 @@
+(1)(f)
+(12 u.s.c. 1464(b)(1)(b))
+(12 u.s.c. 1467a(e)(2))
+(12 u.s.c. 1467a(m)(3))
+(12 u.s.c. 1813(q))
+(12 u.s.c. 1817(j))
+(12 u.s.c. 1828(g))
+(12 u.s.c. 1831u(b)(4)(b))
+(12 u.s.c. 248a)
+(12 u.s.c. 371a)
+(12 u.s.c. 371c)
+(12 u.s.c. 84(b))
+(15 u.s.c. 80a-1 et seq.)
+3(c)(7)
 Clause (i)
 PART I
 PART II
@@ -484,6 +498,14 @@ TITLE XV
 TITLE XVI
 Title 18
 Title 31
+act
+act (12 u.s.c. 1462)
+act (12 u.s.c. 1467a(a)(1)(d)(ii))
+act (12 u.s.c. 1467a(b)(2)
+act (12 u.s.c. 1467a(b))
+act (12 u.s.c. 1467a(c)(2))
+act (12 u.s.c. 1467a(o)
+act (12 u.s.c. 1468)
 clause (i)
 clause (ii)
 clause (iii)
@@ -504,6 +526,9 @@ clauses (ii) and (iii)
 clauses (ii), (iii), and (iv)
 clauses (iii) and (iv)
 clauses (iii), (iv), and (v)
+hart-scott-rodino
+home owners loan act
+home owners' loan act
 paragraph (1)
 paragraph (1) or (2)
 paragraph (1) or (3)
@@ -598,6 +623,7 @@ paragraphs (5) and (6)
 paragraphs (5) through (7)
 paragraphs (7) and (11)
 paragraphs (9) and (10)
+revised statutes of the united states
 section 1
 section 1 (12 U.S.C. 1461)
 section 1(b)
@@ -611,10 +637,17 @@ section 10 (12 U.S.C. 1820)
 section 10 (15 U.S.C. 78j)
 section 10(a)
 section 10(a)(1)
+section 10(a)(1)(d)(ii)
 section 10(a)(2)
+section 10(b)
+section 10(b)(2)
 section 10(c)
+section 10(c)(2)
 section 10(c)(9)
 section 10(c)(9)(A)
+section 10(c)(9)(c)
+section 10(c)(9)(d)
+section 10(e)(2)
 section 1001
 section 1002
 section 1006
@@ -710,6 +743,8 @@ section 1083
 section 109
 section 109 (12 U.S.C. 2708)
 section 1099
+section 10a
+section 10a (12 u.s.c. 1848a)
 section 11
 section 11 (12 U.S.C. 1468)
 section 11 (12 U.S.C. 1821)
@@ -762,6 +797,7 @@ section 1132
 section 115
 section 115(c)
 section 119
+section 11a
 section 12
 section 12 (12 U.S.C. 1468a)
 section 12(d)
@@ -919,6 +955,8 @@ section 18(a)(1)
 section 18(a)(1)(B)
 section 18(a)(4)
 section 18(c)
+section 18(c)(5)
+section 18(g)
 section 19
 section 19 (12 U.S.C. 2617)
 section 19(a)
@@ -933,6 +971,7 @@ section 19(d)(6)
 section 19(d)(6)(A)
 section 19(e)
 section 19(e) (12 U.S.C. 1829(e))
+section 19(i)
 section 2
 section 2 (12 U.S.C. 1462)
 section 2 (12 U.S.C. 1881)
@@ -946,11 +985,16 @@ section 2(a)(19)
 section 2(a)(4)
 section 2(a)(44)
 section 2(a)(5)
+section 2(a)(5)(e)
+section 2(a)(5)(f)
 section 2(b)
 section 2(c)
 section 2(c) or 2(f)
 section 2(c)(2)
 section 2(c)(2)(B)
+section 2(c)(2)(d)
+section 2(c)(2)(f)
+section 2(c)(2)(h)
 section 2(f)
 section 2(h)
 section 2(h)(1)
@@ -1084,6 +1128,7 @@ section 233
 section 233(b)
 section 233(b)(2)
 section 237
+section 23a
 section 24
 section 24(f)
 section 240
@@ -1138,6 +1183,7 @@ section 3(c)
 section 3(c)(1)
 section 3(c)(1) or 3(c)(7)
 section 3(c)(2)
+section 3(d)(1)(a)
 section 3(e)
 section 3(e)(2)
 section 3(f)
@@ -1246,6 +1292,7 @@ section 4(i)
 section 4(j)
 section 4(j)(1)
 section 4(j)(2)
+section 4(j)(2)(a)
 section 4(j)(3)
 section 4(k)
 section 4(k)(4)
@@ -1272,6 +1319,7 @@ section 4302
 section 4302(d)
 section 435
 section 435(m)
+section 44(b)(4)(b)
 section 457
 section 457(b)
 section 457(e)
@@ -1295,6 +1343,7 @@ section 5(b)(1)
 section 5(b)(1)(B)
 section 5(b)(2)
 section 5(c)
+section 5(c)(2)
 section 5(c)(5)
 section 5(c)(5)(B)
 section 5(c)(5)(B) (12 U.S.C. 1844(c)(5)(B))
@@ -1508,6 +1557,7 @@ section 763(i)
 section 7701
 section 7701(a)
 section 7701(a)(36)
+section 7a(c)(8)
 section 8
 section 8 (12 U.S.C. 1466a)
 section 8 (12 U.S.C. 1818)
@@ -1658,6 +1708,7 @@ sections 422
 sections 422(b)
 sections 422(b)(6)
 sections 5
+sections 5(c)(1)
 sections 502
 sections 5136
 sections 547
@@ -1679,10 +1730,12 @@ sections 919(a)
 sections 919(a)(2)
 sections 920
 sections 921
+subclause
 subclause (I)
 subclause (II)
 subclause (III)
 subclause (IV)
+subclause (a)(ii)
 subclauses (I) and (II)
 subclauses (I) and (III)
 subclauses (I) and (IV)
@@ -1710,6 +1763,7 @@ subparagraph (H)
 subparagraph (J)
 subparagraph (K)
 subparagraph (L)
+subparagraphs
 subparagraphs (A) and (B)
 subparagraphs (A) through (C)
 subparagraphs (A) through (D)
@@ -1768,6 +1822,7 @@ subsection (c)(4)
 subsection (c)(7)
 subsection (c)(8)
 subsection (c)(9)
+subsection (c)(9)(c)
 subsection (cc)
 subsection (d)
 subsection (d) or (e)
