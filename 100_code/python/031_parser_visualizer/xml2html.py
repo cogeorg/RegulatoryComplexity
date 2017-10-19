@@ -18,14 +18,14 @@ def main(argv):
             if elem.tag == "title":
                 if c == 0:
                     html = ' '.join(html.split())
-                    head = """<!DOCTYPE html><html><head></head><body><div class = "ex1">TITLE 0. """
+                    head = """<!DOCTYPE html><html><head></head><body><div class="ex1">TITLE 0. """
                     tail = """</div></body></html>"""
                     title = head + html + tail
                     name = "title_" + str(c) + ".html"
                     dfa[name] = title
                     c += 1
                     html = ""
-                    html += '<div class = "ex1">' + 'TITLE '
+                    html += '<div class="ex1">' + 'TITLE '
                 else:
                     html = ' '.join(html.split())
                     head = """<!DOCTYPE html><html><head></head><body>"""
@@ -35,29 +35,29 @@ def main(argv):
                     dfa[name] = title
                     c += 1
                     html = ""
-                    html += '<div class = "ex1">' + 'TITLE '
+                    html += '<div class="ex1">' + 'TITLE '
             elif elem.tag == "subtitle":
-                html += '<div class = "ex2">' + 'SUBTITLE '
+                html += '<div class="ex2">' + 'SUBTITLE '
             elif elem.tag == "part":
-                html += '<div class = "ex3">' + 'PART '
+                html += '<div class="ex3">' + 'PART '
             elif elem.tag == "section":
-                html += '<div class = "ex4">' + 'SEC. '
+                html += '<div class="ex4">' + 'SEC. '
             elif elem.tag == "subsection":
-                html += '<div class = "ex5">'
+                html += '<div class="ex5">'
             elif elem.tag == "paragraph":
-                html += '<div class = "ex6">'
+                html += '<div class="ex6">'
             elif elem.tag == "subparagraph":
-                html += '<div class = "ex7">'
+                html += '<div class="ex7">'
             elif elem.tag == "clause":
-                html += '<div class = "ex8">'
+                html += '<div class="ex8">'
             elif elem.tag == "subclause":
-                html += '<div class = "ex9">'
+                html += '<div class="ex9">'
             elif elem.tag == "item":
-                html += '<div class = "ex10">'
+                html += '<div class="ex10">'
             elif elem.tag == "subitem":
-                html += '<div class = "ex11">'
+                html += '<div class="ex11">'
             elif elem.tag == "quoted-block":
-                html += '<div class = "amended">'
+                html += '<div class="amended">'
             elif elem.tag == "after-quoted-block":
                 html += '</div>'
                 if elem.text != None:
@@ -69,7 +69,7 @@ def main(argv):
                 try:
                     if elem.attrib['display-inline'] == "no-display-inline":
                         if elem.text != None:
-                            html += '<div class = "singlepar">' + elem.text.strip() + ' '
+                            html += '<div class="singlepar">' + elem.text.strip() + ' '
                     else:
                          if elem.text != None:
                              html += elem.text.strip() + ' '
@@ -134,14 +134,14 @@ def main(argv):
                 # first, delete unnecessary whitespace
                 part = re.sub(r'(")\s([^a-z])', r'\1\2', part)
                 #then include tags for paragraphs
-                if part.startswith('div class = "singlepar"'):
+                if part.startswith('div class="singlepar"'):
                     newPart = part.replace("singlepar", "ex5")
                     update.append("<" + newPart)
                     if amended == 0:
                         bullet = 1
                     else:
                         amBullet = 1
-                elif part.startswith('div class = "amended">'):
+                elif part.startswith('div class="amended">'):
                     update.append("<" + part)
                     amended = 1
                 elif (part.startswith('/div>')) and (len(part)>5):
@@ -151,7 +151,7 @@ def main(argv):
                     if (bullet == 0) and (amBullet == 0):
                         update.append("<" + part)
                     elif (bullet == 1) and (amBullet == 0):
-                        if (part.startswith('div class = "ex2"')) or (part.startswith('div class = "ex3"')) or (part.startswith('div class = "ex4"')) or (part.startswith('/body')):
+                        if (part.startswith('div class="ex2"')) or (part.startswith('div class="ex3"')) or (part.startswith('div class="ex4"')) or (part.startswith('/body')):
                             if amended == 0:
                                 update.append('</div>')
                                 update.append("<" + part)
@@ -161,7 +161,7 @@ def main(argv):
                         else:
                             update.append("<" + part)
                     else:
-                        if (part.startswith('div class = "ex2"')) or (part.startswith('div class = "ex3"')) or (part.startswith('div class = "ex4"')) or ((part.startswith('/div')) and (len(part) > 4)):
+                        if (part.startswith('div class="ex2"')) or (part.startswith('div class="ex3"')) or (part.startswith('div class="ex4"')) or ((part.startswith('/div')) and (len(part) > 4)):
                             update.append('</div>')
                             update.append("<" + part)
                             amBullet = 0
@@ -206,7 +206,7 @@ def main(argv):
                 for item in update:
                     item = re.sub('--', '', item)
                     if amended == 0:
-                        if item == '<div class = "amended">':
+                        if item == '<div class="amended">':
                             amended = 1
                         else:
                             g.write(item + "\n")
@@ -218,7 +218,7 @@ def main(argv):
                         elif item == '</div>':
                             g.write(item + "\n")
                         else:
-                            item = re.sub(r'(<div class = "ex.+?">)', r'\1"', item)
+                            item = re.sub(r'(<div class="ex.+?">)', r'\1"', item)
                             g.write(item + "\n")
 
         elif argv.type == "coherence":
@@ -260,7 +260,7 @@ def main(argv):
                 for item in update:
                     item = re.sub('--', '', item)
                     if amended == 0:
-                        if item == '<div class = "amended">':
+                        if item == '<div class="amended">':
                             amended = 1
                         else:
                             g.write(item + "\n")
@@ -272,7 +272,7 @@ def main(argv):
                         elif item == '</div>':
                             g.write(item + "\n")
                         else:
-                            item = re.sub(r'(<div class = "ex.+?">)', r'\1"', item)
+                            item = re.sub(r'(<div class="ex.+?">)', r'\1"', item)
                             g.write(item + "\n")
 
 
@@ -284,12 +284,12 @@ def main(argv):
             with open(argv.output + name, "w") as g:
                 for item in update:
                     if amended == 0:
-                        if item.startswith('<div class = "ex5">'):
-                            item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'\1<span class = "H">\2</span>', item)
+                        if item.startswith('<div class="ex5">'):
+                            item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'\1<span class="H">\2</span>', item)
                             g.write(item + "\n")
-                        elif (item.startswith('<div class = "ex6">')) or (item.startswith('<div class = "ex7">')) or (item.startswith('<div class = "ex8">')) or (item.startswith('<div class = "ex9">')) or (item.startswith('<div class = "ex10">')) or (item.startswith('<div class = "ex11">')):
-                            item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'<br />\1<span class = "H">\2</span>', item)
-                            item = re.sub(r'<div class = "ex.+?">', '', item)
+                        elif (item.startswith('<div class="ex6">')) or (item.startswith('<div class="ex7">')) or (item.startswith('<div class="ex8">')) or (item.startswith('<div class="ex9">')) or (item.startswith('<div class="ex10">')) or (item.startswith('<div class="ex11">')):
+                            item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'<br />\1<span class="H">\2</span>', item)
+                            item = re.sub(r'<div class="ex.+?">', '', item)
                             bullets += 1
                             g.write(item + "\n")
                         elif item =='</div>':
@@ -297,16 +297,16 @@ def main(argv):
                                 bullets += -1
                             else:
                                 g.write(item + "\n")
-                        elif item =='<div class = "amended">':
+                        elif item =='<div class="amended">':
                             amended += 1
                         else:
                             item = re.sub('--', '', item)
                             g.write(item + "\n")
                     else:
                         if item.startswith(r'<div class'):
-                            item = re.sub(r'<div class = "ex.+?">', '', item)
+                            item = re.sub(r'<div class="ex.+?">', '', item)
                             bullets += 1
-                            item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'<br />"\1<span class = "H">\2</span>', item)
+                            item = re.sub(r'(\(.+?\)\s)([A-Z].*?\.)(--)', r'<br />"\1<span class="H">\2</span>', item)
                             if (item.startswith('SEC')):
                                 item = '<br />' + '"' + item
                                 item = re.sub('--', '', item)
@@ -332,6 +332,7 @@ def read_txt_files(file):
         key = key[-1].replace(".txt","")
         key = key.replace("_extra", "")
         key = key.replace("_special", "")
+        key = key.replace("_co", "")
         f = open(filename, 'r')
         for element in f.readlines():
             aux_text = element.strip('\n')
