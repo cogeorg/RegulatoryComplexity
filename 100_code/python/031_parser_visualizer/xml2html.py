@@ -120,6 +120,13 @@ def main(argv):
                     elTail = ""
             else:
                 continue
+            
+    html = ' '.join(html.split())
+    head = """<!DOCTYPE html><html><head></head><body>"""
+    tail = """</body></html>"""
+    title = head + html + tail
+    name = "title_" + str(c) + ".html"
+    dfa[name] = title
 
     # include correct tags for paragraphs starting without numbering
     for name, title in dfa.items():
