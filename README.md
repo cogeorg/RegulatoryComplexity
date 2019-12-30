@@ -1,4 +1,6 @@
 # RegulatoryComplexity
+This is the code repository for the research project "Measuring Regulatory Complexity" by Jean-Edouard Colliard and Co-Pierre Georg. Use this code at your own risk. The code provides a simple dashboard that allows users to classify words in large regulatory texts (in our case the Dodd-Frank Act) in various categories, e.g. as operators or operands. This is useful when measuring the complexity of the regulatory text using the Halstead (1977) measures. Use at your own risk.
+
 Source of raw data
 https://www.fdic.gov/regulations/laws/important/
 
