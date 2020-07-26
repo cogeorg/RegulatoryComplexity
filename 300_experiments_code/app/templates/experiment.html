@@ -1,0 +1,203 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+
+{% block app_content %}
+<!-- <a class="btn btn-info btn-small" role="button" data-toggle="popover" data-trigger="hover" title="Rules" data-content="And here's some amazing content. It's very engaging. Right?" id="example">Dismissible popover</a> -->
+
+
+<body onload="startTime() ; enablepopover() ; loadregulation();">
+
+<div class="row">
+  <div class="col-md-2" align= "left">
+   <a href="/return-excel/" target="_blank"><button class='btn btn-info btn-small'>Download Excel Template</button></a>
+  </div>
+
+  <div class="col-md-8 vcenter" align= "center">
+   <h2> Regulation {{n_reg}} / 10 </h2>
+  </div>
+
+
+  <div class="col-md-2" align="right">
+   <!-- <a href="/rules/" target="_blank"><button class='btn btn-info btn-small'> Show Rules</button></a> -->
+   <a class="btn btn-info btn-small" role="button" data-toggle="popover" data-trigger="hover" title="Rules"
+    data-content=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? <br />
+   <a href = '{{ url_for('rules') }}' target ='_blank'> Entire rules here</a>"
+   id="rulespop" data-html="true">Rules</a>
+
+  </div>
+
+</div>
+
+
+<div class="jumbotron">
+  <div class="row justify-content-center" style="height:80%" >
+    <div class="col-md-6 vcenter">
+      <h3 align= "center"> Regulation </h3>
+        <div class="panel panel-default">
+          <!-- <img src="{{ url_for('static', filename='regulation1.png') }}" width="100%" alt="User Regulation" /> -->
+          <regulation> </regulation>
+        </div>
+    </div><!--
+  --><div class="col-md-6 vcenter">
+      <h3 align= "center"> Balance Sheet </h3>
+        <div class="panel panel-default">
+          <!-- <img src="{{ url_for('static', filename='balance_sheet1.png') }}" width="100%" alt="User balance sheet"/> -->
+          <balancesheet></balancesheet>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="height:245">
+
+</div>
+
+
+
+<div class="row">
+  <div class="col-sm-2 mb-1">
+    <div class="panel panel-info">
+      <div class="panel-body text-center">
+        <span class = "glyphicon glyphicon-time" aria-hidden="true"></span>
+      </div>
+      <div class="panel-footer text-center">
+        <div id = "chronometer"> </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-7 mb-1 mb-md-0">
+    </div>
+  <div class="col-sm-3 mb-1 mb-md-0">
+    <div>
+    {{ wtf.quick_form(form) }}
+    </div>
+  </div>
+
+</div>
+
+<!-- <div id = "regulation">
+    </div> -->
+
+</body>
+
+
+
+<script>
+// window.onload = function() {
+//     alert("a" + {{user_experiment_id}})
+//     var id = {{user_experiment_id}}
+//     alert("../static/exercises/" + id + "/regulation_"+id +".html")
+    // var img = new Image();
+    // img.src = "../static/regulation1.png";
+    // alert(img.height != 0);
+    // var http = new XMLHttpRequest();
+    // http.open('HEAD', "../static/exercises/%d/regulation_%d.html"%(user_experiment_id, user_experiment_id), false);
+    // http.send();
+    // if http.status!=404:
+    // alert(http.status)
+    //
+    // if (typeof $().popover == 'function') {
+    //     // jQuery is loaded
+    //     alert("Yeah!");
+    // } else {
+    //     // jQuery is not loaded
+    //     alert("Doesn't Work");
+    // }
+//}
+
+var start = new Date();
+
+function startTime(){
+  var today = new Date();
+  var diff = (today - start)/1000 ;
+  var h = Math.floor(diff /60 /60);
+  var m = Math.floor((diff - h*60*60)/60);
+  var s = Math.floor(diff - m*60 - h*60*60);
+  // add a zero in front of numbers<10
+  m=checkTime(m);
+  s=checkTime(s);
+  document.getElementById('chronometer').innerHTML=h+":"+m+":"+s;
+  t=setTimeout(function(){startTime()},500);
+};
+
+function checkTime(i){
+  if (i<10)
+    {
+    i="0" + i;
+    }
+  return i;
+};
+
+
+function enablepopover() {
+  $('#otherpop').popover();
+  $("#rulespop")
+            .popover({
+                // offset: 10,
+                container : 'body',
+                trigger: 'manual',
+                animate: false,
+                html: true,
+                placement: 'left',
+                template: '<div class="popover" onmouseover="$(this).mouseleave(function() {$(this).hide(); });"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>',
+
+            }).click(function(e) {
+                e.preventDefault() ;
+            }).mouseenter(function(e) {
+                $(this).popover('show');
+            })
+  $("popover-content").css("overflow-y", "auto");
+};
+
+// function loadregulation(){
+//       $("#regulation").load(".../static/regulation.html");
+//     };
+// $(function() {
+//   var timer = null;
+//   $('#rulespop').hover(
+//       function(event) {
+//           var elem = $(event.currentTarget);
+//           timer = setTimeout(function() {
+//               timer = null;
+//           }, 1000);
+//       },
+//       function(event) {
+//           // mouse out event handler
+//           var elem = $(event.currentTarget);
+//           if (timer) {
+//               clearTimeout(timer);
+//               timer = null;
+//           }
+//       }
+//   )
+// });
+
+fetch("../static/exercises/" + {{user_experiment_id}} + "/regulation_"+ {{user_experiment_id}}+".html")
+  .then(response => {
+    return response.text()
+  })
+  .then(data => {
+    document.querySelector("regulation").innerHTML = data;
+  });
+
+fetch("../static/exercises/" + {{user_experiment_id}} + "/balancesheet_"+ {{user_experiment_id}} +".html")
+  .then(response => {
+    return response.text()
+  })
+  .then(data => {
+    document.querySelector("balancesheet").innerHTML = data;
+  });
+
+
+</script>
+<!-- <img src="{{ url_for('static', filename='regulation1.png') }}" alt="User Regulation" width="50%" height="auto"/>
+<img src="{{ url_for('static', filename='balance_sheet1.png') }}" alt="User balance sheet" width="50%" height="auto"/> -->
+<!-- <img src="{{ user_balance_sheet}}"/> -->
+
+<!-- <img src="{{ user_image }}" alt="User Image"> -->
+
+
+
+{%endblock%}
