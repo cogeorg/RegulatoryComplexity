@@ -6,7 +6,7 @@ import numpy as np
 i=0
 while i<100:
     with open("user_%d_experiments.csv"%i, "w") as file:
-        user_experiments = random.sample(np.arange(0,100,1).tolist(), 10)
+        user_experiments = random.sample(np.arange(0,43,1).tolist(), 10)
         for a in user_experiments :
             file.write(str(a) + "\n")
     i += 1

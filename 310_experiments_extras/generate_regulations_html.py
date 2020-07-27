@@ -23,12 +23,14 @@ class bcolors:
 def parse_line(line):
     output_text = ""
     if ("(" in line and ")" in line) or "All other assets:" in line:  # asset type, including exception at the end
+        in_clause = True
         line = re.sub('\(\d\) ', '', line.rstrip("\\"))
         line = re.sub(':', '', line)
-        output_text += "<br>" + line + " weight is "
+        output_text += line
 
     if "Risk weight" in line and "=" in line:  # risk weight
         output_text += line.rstrip("\\").split(" = ")[1].rstrip("\%") + "%"
+
     return output_text
 
 # ===========================================================================
@@ -43,21 +45,31 @@ if __name__ == "__main__":
     #
     # LOOP
     #
+    counter = 0
     for filename in os.listdir(input_directory_name):
         if filename.endswith(".tex"):
             output_text = output_text_header
             input_file_name = os.path.join(input_directory_name, filename)
-            output_file_name = os.path.join(output_directory_name, filename.rstrip(".tex") + ".html")
+            output_file_name = os.path.join(output_directory_name, "regulation_" + str(counter) + ".html")
 
             print(bcolors.OKGREEN + "<<< WORKING ON: " + input_file_name + bcolors.ENDC)
 
             input_file = open(input_file_name, "r")
+
+            _out_text = ""  # temporary variable to construct compound statements
+
             for line in input_file.readlines():
-                output_text += parse_line(line.strip())
-            # note: normally, we would have to jump through hoops because we are concatenating two lines into a single string
-            output_text += output_text_footer
+                if "Risk weight " in line:
+                    output_text += "<br>The weight for <i>" + _out_text + "</i> is: " + parse_line(line.strip())
+                    _out_text = ""   # reset temporary out_text
+
+                _out_text += parse_line(line.strip())
+
+
+            output_text += output_text_footer  # add footer
 
             # print(bcolors.OKGREEN + "<<< WRITING TO: " + output_file_name + bcolors.ENDC)
             output_file = open(output_file_name, "w")
             output_file.write(output_text+"\n")
             output_file.close()
+            counter += 1

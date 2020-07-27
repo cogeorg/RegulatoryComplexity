@@ -9,16 +9,16 @@
 <body onload="startTime() ; enablepopover() ; loadregulation();">
 
 <div class="row">
-  <div class="col-md-2" align= "left">
+  <div class="col-lg-2" align= "left">
    <a href="/return-excel/" target="_blank"><button class='btn btn-info btn-small'>Download Excel Template</button></a>
   </div>
 
-  <div class="col-md-8 vcenter" align= "center">
+  <div class="col-lg-8 vcenter" align= "center">
    <h2> Regulation {{n_reg}} / 10 </h2>
   </div>
 
 
-  <div class="col-md-2" align="right">
+  <div class="col-lg-2" align="right">
    <!-- <a href="/rules/" target="_blank"><button class='btn btn-info btn-small'> Show Rules</button></a> -->
    <a class="btn btn-info btn-small" role="button" data-toggle="popover" data-trigger="hover" title="Rules"
     data-content=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -30,26 +30,26 @@
 
 </div>
 
-
+<!-- <div class="container-full-bg"> -->
 <div class="jumbotron">
   <div class="row justify-content-center" style="height:80%" >
-    <div class="col-md-6 vcenter">
+    <div class="col-lg-4 vcenter">
       <h3 align= "center"> Regulation </h3>
         <div class="panel panel-default">
           <!-- <img src="{{ url_for('static', filename='regulation1.png') }}" width="100%" alt="User Regulation" /> -->
-          <regulation> </regulation>
+          <regulation></regulation>
         </div>
     </div><!--
-  --><div class="col-md-6 vcenter">
+  --><div class="col-lg-8 vcenter">
       <h3 align= "center"> Balance Sheet </h3>
-        <div class="panel panel-default">
+        <div class="panel panel-default" style="padding:20px">
           <!-- <img src="{{ url_for('static', filename='balance_sheet1.png') }}" width="100%" alt="User balance sheet"/> -->
           <balancesheet></balancesheet>
         </div>
     </div>
   </div>
 </div>
-
+<!-- </div> -->
 <div class="row" style="height:245">
 
 </div>
@@ -67,9 +67,9 @@
       </div>
     </div>
   </div>
-  <div class="col-sm-7 mb-1 mb-md-0">
+  <div class="col-sm-7 mb-1 mb-lg-0">
     </div>
-  <div class="col-sm-3 mb-1 mb-md-0">
+  <div class="col-sm-3 mb-1 mb-lg-0">
     <div>
     {{ wtf.quick_form(form) }}
     </div>
