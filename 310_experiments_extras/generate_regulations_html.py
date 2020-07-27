@@ -22,8 +22,8 @@ class bcolors:
 
 def parse_line(line):
     output_text = ""
+
     if ("(" in line and ")" in line) or "All other assets:" in line:  # asset type, including exception at the end
-        in_clause = True
         line = re.sub('\(\d\) ', '', line.rstrip("\\"))
         line = re.sub(':', '', line)
         output_text += line
@@ -62,8 +62,8 @@ if __name__ == "__main__":
                 if "Risk weight " in line:
                     output_text += "<br>The weight for <i>" + _out_text + "</i> is: " + parse_line(line.strip())
                     _out_text = ""   # reset temporary out_text
-
-                _out_text += parse_line(line.strip())
+                else:  # forgot this else initially. it matters.
+                    _out_text += parse_line(line.strip())
 
 
             output_text += output_text_footer  # add footer
