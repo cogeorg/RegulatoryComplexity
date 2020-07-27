@@ -18,7 +18,7 @@ app = Flask(__name__)
 app.config.from_object(Config)
 
 # app.config['TEMPLATES_AUTO_RELOAD'] = True
-app.run(host='0.0.0.0', debug=True)
+# app.run(host='0.0.0.0', debug=True)
 
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
