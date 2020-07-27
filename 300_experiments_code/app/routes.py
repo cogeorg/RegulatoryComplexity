@@ -67,7 +67,7 @@ def accept_rules():
 @app.route('/return-excel/')
 def return_excel():
     name = 'excel_template.xlsx'
-    response = send_file('./static/', attachment_filename=name, as_attachment=True)
+    response = send_file('./app/static/', attachment_filename=name, as_attachment=True)
     # response.headers["x-filename"] = name
     # response.headers["Access-Control-Expose-Headers"] = 'x-filename'
     # response.headers["Content-Disposition"] = "attachment; filename=" + name
