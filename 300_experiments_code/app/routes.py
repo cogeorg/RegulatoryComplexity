@@ -87,7 +87,7 @@ def experiment(n_reg=1):
 
     user_id = current_user.id
     user_experiments = []
-    for line in open("./static/users/user_" + str(user_id) + "_experiments.csv"):
+    for line in open("./app/static/users/user_" + str(user_id) + "_experiments.csv"):
         user_experiments.append(line.strip("\n"))
 
     form = SubmissionForm()
