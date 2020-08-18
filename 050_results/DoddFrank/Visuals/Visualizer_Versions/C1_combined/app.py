@@ -4,7 +4,7 @@
 from flask import Flask
 import os
 import sys
-from werkzeug.wsgi import DispatcherMiddleware
+from werkzeug.middleware.dispatcher import DispatcherMiddleware
 from apps import welcome
 from apps import words
 #from apps import sentences
