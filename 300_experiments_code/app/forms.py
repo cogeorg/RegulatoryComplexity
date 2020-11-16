@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField
+from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, HiddenField
 from wtforms.validators import DataRequired, ValidationError, Email, EqualTo
 from app.models import User
 
@@ -32,6 +32,11 @@ class RulesForm(FlaskForm):
     excel = BooleanField("I have tested the template and can open it", validators=[DataRequired()])
     submit = SubmitField("Continue")
 
+    # class SubmissionForm(FlaskForm):
+    # answer = FloatField("Enter answer", validators= [DataRequired()])
+    # submit = SubmitField("Save and continue")
+
 class SubmissionForm(FlaskForm):
-    answer = FloatField("Enter answer", validators = [DataRequired()])
-    submit = SubmitField("Save and continue")
+    correctanswer = HiddenField(default = 10.0)
+    answer = FloatField("Enter answer", validators= [DataRequired(), EqualTo('correctanswer', message = 'not the same password')])
+    submit = SubmitField("Save and continue", render_kw = {"onclick": "validateModel()"})
