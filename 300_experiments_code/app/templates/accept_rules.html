@@ -18,11 +18,13 @@
           <br>
           In the <i>Balance Sheet</i> column on the right of the screen you see the asset side of a hypothetical bank. Each row is an entry on the balance sheet and the <b>Type</b> denotes what kind of entry it is. <b>Amount</b> is the amount, <b>Denomination</b> is the currency in which the amount is denominated (including whether it is in national or foreign currency), <b>Maturity</b> denotes the remaining maturity of the asset in years, <b>Counterparty of issuer</b> indicates who issued the asset, and the <b>Guarantor</b> indicates if another party guarantees the asset.<br>
           <br>
-          There is a timer on the left to show how much time elapsed since you started the evaluation of this regulation. You can access a template that you can use to calculate the required capital by clicking the blue "Download Excel Template" button on the top left.<br>
-         </p>
-         <div class="container" align="center">
-      		<a href="/return-excel/" target="_blank"><button class='btn btn-info btn-small'>Download the excel template</button></a>
-         </div>
+          <!-- There is a timer on the left to show how much time elapsed since you started the evaluation of this regulation. You can access a template that you can use to calculate the required capital by clicking the blue "Download Excel Template" button on the top left.<br>
+
+          <div class="container" align="center">
+            <a href="/return-excel/" target="_blank"><button class='btn btn-info btn-small'>Download the excel template</button></a>
+          </div> -->
+          
+        </p>
          <!-- <p>(Note, you will have to rename the excel file manually into "Template.xlsx")</p> -->
       </body>
 
@@ -38,14 +40,13 @@
 </body> -->
 
 
-<div class = "container theme-showcase" role ="main">
-  <div class="row">
-    <div class="col-md-4 col-lg-offset-4">
-      {{ wtf.quick_form(form) }}
+  <div class="container theme-showcase" role="main">
+    <div class="row">
+      <div class="col-md-4 col-lg-offset-4">
+        {{ wtf.quick_form(form) }}
+      </div>
     </div>
-
   </div>
-</div>
 
 
 {% endblock %}
