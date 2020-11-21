@@ -1,4 +1,8 @@
 {% extends "bootstrap/base.html" %}
+{%- block styles %}
+<link href="{{bootstrap_find_resource('css/bootstrap.css', cdn='bootstrap')}}" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+{%- endblock styles %}
 {% block navbar %}
 <nav class="navbar navbar-default">
     <div class="container-fluid">

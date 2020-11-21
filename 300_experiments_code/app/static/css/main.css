@@ -1,0 +1,22 @@
+.row {
+  margin: 0 0 40px 0;
+}
+
+#submit {
+  /* margin-top: 20px; */
+}
+
+.regulation {
+  padding: 22px;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 23px !important;
+}
+
+td {
+  padding: 2px !important;
+}
+
+th {
+  padding-bottom: 5px !important
+}
