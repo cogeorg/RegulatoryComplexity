@@ -34,14 +34,14 @@
 
 </style>
 
-<body onload="startTime() ; enablepopover() ; loadregulation();">
+<body onload="startTime() ; enablepopover() ; loadregulation();" style="height: 100vh">
 
 <div class="row">
   <div class="col-lg-2" align= "left">
    <a href="/return-excel/" target="_blank"><button class='btn btn-info btn-small'>Download Excel Template</button></a>
   </div>
 
-  <div class="col-lg-8 vcenter" align= "center">
+  <div class="col-lg-8" align= "center">
    <h2> Regulation {{n_reg}} / 10 </h2>
   </div>
 
@@ -54,11 +54,10 @@
    <a href = '{{ url_for('rules') }}' target ='_blank'> Entire rules here</a>"
    id="rulespop" data-html="true">Rules</a>
 
-  </div>
-
+  </div> 
 </div>
 
-<!-- <div class="container-full-bg"> -->
+
 <div class="jumbotron">
   <div class="row justify-content-left" style="height:80%" >
     <div class="col-lg-4 vcenter">
@@ -77,8 +76,8 @@
     </div>
   </div>
 </div>
-<!-- </div> -->
-<div class="row" style="height:245">
+
+<div class="row">
 
 </div>
 
@@ -103,8 +102,6 @@
 
 </div>
 
-<!-- <div id = "regulation">
-    </div> -->
 
 </body>
 
