@@ -38,10 +38,7 @@ class RulesForm(FlaskForm):
     # submit = SubmitField("Save and continue")
 
 class SubmissionForm(FlaskForm):
-<<<<<<< HEAD
     answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
-=======
-    answer = FloatField("Enter answer", validators = [DataRequired()])
     n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
     def validate(self):
         rv = FlaskForm.validate(self)
@@ -55,5 +52,4 @@ class SubmissionForm(FlaskForm):
 
         return True
 
->>>>>>> fixes/solve-first-problem
     submit = SubmitField("Save and continue")
