@@ -34,4 +34,17 @@ class RulesForm(FlaskForm):
 
 class SubmissionForm(FlaskForm):
     answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
+    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
+    def validate(self):
+        rv = FlaskForm.validate(self)
+        if not rv:
+            return False
+
+        correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
+        if correctanswer is None:
+            self.answer.errors.append('Your answer is incorrect.')
+            return False
+
+        return True
+
     submit = SubmitField("Save and continue")
