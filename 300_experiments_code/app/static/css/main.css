@@ -15,9 +15,11 @@
 
 td {
   padding: 2px !important;
+  overflow-wrap: normal;
 }
 
 th {
+  padding: 2px !important;
   padding-bottom: 5px !important
 }
 
