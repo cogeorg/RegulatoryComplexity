@@ -47,7 +47,7 @@ class SubmissionForm(FlaskForm):
 
         correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
         if correctanswer is None:
-            self.answer.errors.append('Company already exists at that address')
+            self.answer.errors.append('Your answer is incorrect.')
             return False
 
         return True
