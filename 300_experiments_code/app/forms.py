@@ -1,7 +1,8 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, HiddenField
+from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, HiddenField, IntegerField
 from wtforms.validators import DataRequired, ValidationError, Email, EqualTo
 from app.models import User
+from app.models import CorrectAnswer
 
 class LoginForm(FlaskForm):
     username = StringField('Username', validators = [DataRequired()])
@@ -37,6 +38,18 @@ class RulesForm(FlaskForm):
     # submit = SubmitField("Save and continue")
 
 class SubmissionForm(FlaskForm):
-    correctanswer = HiddenField(default = 10.0)
-    answer = FloatField("Enter answer", validators= [DataRequired(), EqualTo('correctanswer', message = 'not the same password')])
-    submit = SubmitField("Save and continue", render_kw = {"onclick": "validateModel()"})
+    answer = FloatField("Enter answer", validators = [DataRequired()])
+    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
+    def validate(self):
+        rv = FlaskForm.validate(self)
+        if not rv:
+            return False
+
+        correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
+        if correctanswer is None:
+            self.answer.errors.append('Company already exists at that address')
+            return False
+
+        return True
+
+    submit = SubmitField("Save and continue")
