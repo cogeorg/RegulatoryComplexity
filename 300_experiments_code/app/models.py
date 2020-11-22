@@ -35,3 +35,11 @@ class Submission(db.Model):
 
     def __repr__(self):
         return '<Submission {}'.format(self.answerfor)
+
+class CorrectAnswer(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    correctanswer = db.Column(db.Float())
+    n_reg = db.Column(db.Integer())
+
+    def __repr__(self):
+        return '<CorrectAnswer {}'.format(self.correctanswer)

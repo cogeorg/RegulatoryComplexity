@@ -102,6 +102,17 @@
       </div>
     </div>
   </div>
+  <style>
+    #n_reg {
+      display: none;
+    }
+
+    body > div > div:nth-child(4) > div.col-sm-3.mb-1.mb-lg-0 > div > form > div:nth-child(3) > label {
+      display: none;
+    }
+  
+  </style>
+  
   <div class="col-sm-7 mb-1 mb-lg-0">
     </div>
   <div class="col-sm-3 mb-1 mb-lg-0">
@@ -141,6 +152,14 @@
     //     alert("Doesn't Work");
     // }
   //}
+
+document.getElementById("n_reg").value = {{n_reg}} ;
+
+function validateModel(){
+  alert("hello")
+}
+value = document.getElementById("answer").value
+console.log("hello" + value + "something else")
 
 var start = new Date();
 

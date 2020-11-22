@@ -1,7 +1,8 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField
+from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, HiddenField, IntegerField
 from wtforms.validators import DataRequired, ValidationError, Email, EqualTo
 from app.models import User
+from app.models import CorrectAnswer
 
 class LoginForm(FlaskForm):
     username = StringField('Username', validators = [DataRequired()])
@@ -32,6 +33,27 @@ class RulesForm(FlaskForm):
     excel = BooleanField("I have tested the template and can open it", validators=[DataRequired()])
     submit = SubmitField("Continue")
 
+    # class SubmissionForm(FlaskForm):
+    # answer = FloatField("Enter answer", validators= [DataRequired()])
+    # submit = SubmitField("Save and continue")
+
 class SubmissionForm(FlaskForm):
+<<<<<<< HEAD
     answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
+=======
+    answer = FloatField("Enter answer", validators = [DataRequired()])
+    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
+    def validate(self):
+        rv = FlaskForm.validate(self)
+        if not rv:
+            return False
+
+        correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
+        if correctanswer is None:
+            self.answer.errors.append('Your answer is incorrect.')
+            return False
+
+        return True
+
+>>>>>>> fixes/solve-first-problem
     submit = SubmitField("Save and continue")
