@@ -33,13 +33,9 @@ class RulesForm(FlaskForm):
     excel = BooleanField("I have tested the template and can open it", validators=[DataRequired()])
     submit = SubmitField("Continue")
 
-    # class SubmissionForm(FlaskForm):
-    # answer = FloatField("Enter answer", validators= [DataRequired()])
-    # submit = SubmitField("Save and continue")
-
-class SubmissionForm(FlaskForm):
-    answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
-    n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
+class PracticeForm(FlaskForm):
+    answer = FloatField("Enter the practice answer", validators = [DataRequired()])
+    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
     def validate(self):
         rv = FlaskForm.validate(self)
         if not rv:
@@ -47,9 +43,23 @@ class SubmissionForm(FlaskForm):
 
         correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
         if correctanswer is None:
-            self.answer.errors.append('Your answer is incorrect.')
+            self.answer.errors.append('Company already exists at that address')
             return False
 
         return True
 
     submit = SubmitField("Save and continue")
+    
+
+class SubmissionForm(FlaskForm):
+    answer = FloatField("Enter answer", validators = [DataRequired()])
+    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
+    def validate(self):
+        rv = FlaskForm.validate(self)
+        if not rv:
+            return False
+
+        return True
+
+    submit = SubmitField("Save and continue")
+    
