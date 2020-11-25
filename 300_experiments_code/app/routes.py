@@ -13,6 +13,8 @@ from app.forms import LoginForm, RegistrationForm, RulesForm, SubmissionForm, Pr
 from flask_login import login_required, logout_user
 from werkzeug.urls import url_parse
 import csv
+import pandas as pd  
+import numpy as np
 from datetime import datetime
 from app.tables import Results
 
@@ -98,6 +100,16 @@ def experiment(n_reg=1):
     else: 
         form = SubmissionForm()
    
+    a = pd.read_csv("./app/static/excel_template.csv") 
+    # to save as html file 
+    # named as "Table" 
+    a.to_html("./app/static/table.htm", na_rep="", index=False, index_names=False, col_space=100)
+    a.style.set_properties(**{'text-align': 'right'})
+    # assign it to a  
+    # variable (string) 
+    table = a.to_html()
+
+    form = SubmissionForm()
     if form.validate_on_submit():
         submission = Submission(answer = form.answer.data, correctanswer = correctanswer , verifyanswer = bool((correctanswer == form.answer.data)), regulation = user_experiments[n_reg-1], balance_sheet= user_experiments[n_reg-1], user_id = current_user.id)
         spenttime = datetime.utcnow() - session['start_time']
@@ -113,7 +125,7 @@ def experiment(n_reg=1):
             return redirect(url_for("endpage"))
 
     session['start_time'] = datetime.utcnow()
-    return render_template('experiment.html', form = form, user_experiment_id = user_experiments[n_reg-1], n_reg = n_reg)
+    return render_template('experiment.html', form = form, user_experiment_id = user_experiments[n_reg-1], n_reg = n_reg, table = table)
 
 
     # @app.route("/endpage")       

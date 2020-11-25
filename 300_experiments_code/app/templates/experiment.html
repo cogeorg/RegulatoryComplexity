@@ -46,7 +46,16 @@
     }
 
   body > div > div:nth-child(4) > div.col-sm-3.mb-1.mb-lg-0 > div > form > div:nth-child(3) > label {
-    display: none;
+    display: none;}
+  
+  body > div > div.jumbotron.p-70.px-20 > div > div.col-lg-8.vcenter > div > balancesheet > table > thead > tr > th:nth-child(1) {
+    color: white;
+  }
+
+  body > div > div.jumbotron.p-70.px-20 > div > div.col-lg-8.vcenter > div > balancesheet > table > tbody > tr > td:nth-child(1) {
+      font-weight: 500;
+      text-align: right;
+      padding-right: 20px
   }
 
 </style>
@@ -82,6 +91,7 @@
         <div class="panel panel-default">
           <!-- <img src="{{ url_for('static', filename='regulation1.png') }}" width="100%" alt="User Regulation" /> -->
           <regulation></regulation>
+         
         </div>
       </div>
       <div class="col-lg-8 vcenter">
@@ -234,13 +244,21 @@ fetch("../static/exercises/" + {{user_experiment_id}} + "/regulation_"+ {{user_e
     document.querySelector("regulation").innerHTML = data;
   });
 
-fetch("../static/exercises/" + {{user_experiment_id}} + "/balancesheet_"+ {{user_experiment_id}} +".html")
-  .then(response => {
-    return response.text()
-  })
-  .then(data => {
-    document.querySelector("balancesheet").innerHTML = data;
-  });
+// fetch("../static/exercises/" + {{user_experiment_id}} + "/balancesheet_"+ {{user_experiment_id}} +".html")
+//   .then(response => {
+//     return response.text()
+//   })
+//   .then(data => {
+//     document.querySelector("balancesheet").innerHTML = data;
+//   });
+
+fetch("../static/Table.htm")
+.then(response => {
+  return response.text()
+})
+.then(data => {
+  document.querySelector("balancesheet").innerHTML = data;
+});
 
 
 </script>
