@@ -1,0 +1,14 @@
+﻿,Type,Amount,Denomination,Maturity,Counterparty of issuer,Guarantor
+Assets,,,,,,
+1,Cash,10000,EUR,,,
+Investments,,,,,,
+Claims,,,,,,
+2,Bonds,10000,EUR,2 years,"French State (OECD, domestic)",
+3,Bonds,10000,USD,0.5 years ,Private firms,
+4,Mortgage loans,10000,EUR,10 years,Households,
+5,Corporate loans ,10000,EUR,5 years,,Multilateral development bank
+Claims,,,,,,
+6,Shares,10000,USD,,Private firms,
+Fixed Assets,,,,,,
+7,Real estate,10000,EUR,,,
+8,Equipment,10000,EUR,,,
