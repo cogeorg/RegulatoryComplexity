@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, IntegerField
+from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, IntegerField, HiddenField
 from wtforms.validators import DataRequired, ValidationError, Email, EqualTo
 from app.models import User
 
@@ -42,7 +42,20 @@ class SubmissionForm(FlaskForm):
 
         correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
         if correctanswer is None:
-            self.answer.errors.append('Your answer is incorrect.')
+            self.answer.errors.append('Company already exists at that address')
+            return False
+
+        return True
+
+    submit = SubmitField("Save and continue")
+    
+
+class SubmissionForm(FlaskForm):
+    answer = FloatField("Enter answer", validators = [DataRequired()])
+    n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
+    def validate(self):
+        rv = FlaskForm.validate(self)
+        if not rv:
             return False
 
         return True

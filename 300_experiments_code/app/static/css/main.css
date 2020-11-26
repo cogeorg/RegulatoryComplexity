@@ -7,7 +7,7 @@
 }
 
 .regulation {
-  padding: 36px 20px 20px 10px;
+  padding: 36px 20px 20px 0px;
   font-size: 14px !important;
   font-weight: 400 !important;
   line-height: 23px !important;
@@ -25,4 +25,16 @@ th {
 
 #correctanswer {
   display: none !important;
+}
+
+#n_reg {
+  display: none !important;
+}
+
+.panel-info {
+  border-color: #e1e1e1 !important;
+}
+
+.panel {
+  border-radius: 1px !important;
 }
