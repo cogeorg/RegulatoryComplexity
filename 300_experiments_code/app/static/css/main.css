@@ -30,3 +30,11 @@ th {
 #n_reg {
   display: none !important;
 }
+
+.panel-info {
+  border-color: #e1e1e1 !important;
+}
+
+.panel {
+  border-radius: 1px !important;
+}

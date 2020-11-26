@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, IntegerField
+from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, IntegerField, HiddenField
 from wtforms.validators import DataRequired, ValidationError, Email, EqualTo
 from app.models import User
 from app.models import CorrectAnswer
@@ -53,7 +53,7 @@ class PracticeForm(FlaskForm):
 
 class SubmissionForm(FlaskForm):
     answer = FloatField("Enter answer", validators = [DataRequired()])
-    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
+    n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
     def validate(self):
         rv = FlaskForm.validate(self)
         if not rv:
