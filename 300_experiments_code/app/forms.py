@@ -33,5 +33,5 @@ class RulesForm(FlaskForm):
     submit = SubmitField("Continue")
 
 class SubmissionForm(FlaskForm):
-    answer = FloatField("Please enter the bank's total risk weighted assets for this regulation", validators = [DataRequired()])
+    answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
     submit = SubmitField("Save and continue")
