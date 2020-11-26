@@ -60,7 +60,7 @@
 
 </style>
 
-<body onload="startTime() ; enablepopover() ; loadregulation();" style="height: 100vh">
+<body onload="startTime() ; enablepopover() ; loadregulation();">
 
   <div class="row p-70">
     <div class="col-lg-2" align="left">
@@ -83,7 +83,7 @@
 </div>
 
   <!-- <div class="container-full-bg"> -->
-  <div class="jumbotron p-70 px-20" style="height: calc(100vh - 124px); display: flex">
+  <div class="jumbotron p-70 px-20" style="height: calc(100vh - 132px); display: flex">
     <div class="row justify-content-left" style="margin-bottom: auto; margin-top: auto;">
       <div class="col-lg-8 vcenter">
         <h3 align="left">Balance Sheet</h3>
@@ -98,15 +98,16 @@
           <!-- <img src="{{ url_for('static', filename='regulation1.png') }}" width="100%" alt="User Regulation" /> -->
           <regulation></regulation>
         </div>
-        <div class="panel panel-default" style="padding: 20px"> 
-          <div style="float: right">
-            <span style="display:inline-block">Elapsed Time: </span>
-            <div id="chronometer" style="display:inline-block"></div>
-          </div>
+        <div class="panel panel-default" style="padding: 20px; padding-bottom: 40px"> 
+          
           <div class="col-3 mb-1 mb-lg-0">
             <div>
               {{ wtf.quick_form(form) }}
             </div>
+          </div>
+          <div>
+            <span style="display:inline-block; font-weight: bold">Elapsed Time: </span>
+            <div id="chronometer" style="display:inline-block"></div>
           </div>
         </div>
       </div>

@@ -52,7 +52,7 @@ class PracticeForm(FlaskForm):
     
 
 class SubmissionForm(FlaskForm):
-    answer = FloatField("Enter answer", validators = [DataRequired()])
+    answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
     n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
     def validate(self):
         rv = FlaskForm.validate(self)
