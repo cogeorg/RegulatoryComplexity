@@ -7,15 +7,16 @@ Created on Fri May 17 16:10:43 2019
 """
 from flask import render_template, flash, redirect, request, url_for, send_file, session
 from flask_login import current_user, login_user
-from app.models import User, Submission
+from app.models import User, Submission, CorrectAnswer
 from app import app, db
-from app.forms import LoginForm, RegistrationForm, RulesForm, SubmissionForm
+from app.forms import LoginForm, RegistrationForm, RulesForm, SubmissionForm, PracticeForm
 from flask_login import login_required, logout_user
 from werkzeug.urls import url_parse
 import csv
 import pandas as pd  
 import numpy as np
 from datetime import datetime
+from app.tables import Results
 
 
 @app.route('/')
@@ -88,6 +89,8 @@ def experiment(n_reg=1):
         return redirect(url_for("login"))
 
     user_id = current_user.id
+    correctanswer = CorrectAnswer.query.filter_by(id=n_reg).first()
+    correctanswer = correctanswer.correctanswer
     user_experiments = []
     for line in open("./app/static/users/user_" + str(user_id) + "_experiments.csv"):
         user_experiments.append(line.strip("\n"))
@@ -102,10 +105,15 @@ def experiment(n_reg=1):
     table = a.to_html()
 
     form = SubmissionForm()
+    if n_reg == 1:
+        form = PracticeForm()
+    else: 
+        form = SubmissionForm()
+   
     if form.validate_on_submit():
-        submission = Submission(answer = form.answer.data, regulation = user_experiments[n_reg-1], balance_sheet= user_experiments[n_reg-1], user_id = current_user.id)
+        submission = Submission(answer = form.answer.data, correctanswer = correctanswer , verifyanswer = bool((correctanswer == form.answer.data)), regulation = user_experiments[n_reg-1], balance_sheet= user_experiments[n_reg-1], user_id = current_user.id)
         spenttime = datetime.utcnow() - session['start_time']
-        row = [user_experiments[n_reg-1], user_experiments[n_reg-1], submission.answer, current_user.id, current_user.student_id, str(spenttime), str(datetime.utcnow()) ]
+        row = [user_experiments[n_reg-1], user_experiments[n_reg-1], submission.answer, submission.verifyanswer, submission.correctanswer, current_user.id, current_user.student_id, str(spenttime), str(datetime.utcnow()) ]
         with open('./app/static/submissions.csv', "a") as f:
             writer = csv.writer(f)
             writer.writerow(row)
@@ -113,16 +121,54 @@ def experiment(n_reg=1):
 
         if n_reg<=9:
             return redirect(url_for("experiment", n_reg=n_reg+1)) #+1))
-        else:
+        else: 
             return redirect(url_for("endpage"))
 
     session['start_time'] = datetime.utcnow()
     return render_template('experiment.html', form = form, user_experiment_id = user_experiments[n_reg-1], n_reg = n_reg, table = table)
 
 
-@app.route("/endpage")
+    # @app.route("/endpage")       
+    # def endpage():
+    #     results = [] 
+    #     # display results
+    #     table = Results(results)
+    #     table.border = True
+    #     return render_template('endpage.html', table=table)
+
+    #  results = []
+    #     search_string = search.data['search']
+
+    #     if search.data['search'] == '':
+    #         qry = db_session.query(Album)
+    #         results = qry.all()
+
+    #     if not results:
+    #         flash('No results found!')
+    #         return redirect('/')
+    #     else:
+    #         # display results
+    #         table = Results(results)
+    #         table.border = True
+    #         return render_template('results.html', table=table)
+
+
+@app.route('/endpage')
 def endpage():
-    return render_template("endpage.html")
+    results = []
+    results = CorrectAnswer.query.order_by(CorrectAnswer.correctanswer).all()
+
+    # if not results:
+    #     flash('No results found!')
+    #     return redirect('/')
+
+    # display results
+    table = Results(results)
+    table.border = True
+    print(results)
+    return render_template('endpage.html', table=table)
+
+
 
 
 @app.route('/logout')

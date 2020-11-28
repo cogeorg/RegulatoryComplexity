@@ -2,6 +2,7 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, BooleanField, SubmitField, FloatField, IntegerField, HiddenField
 from wtforms.validators import DataRequired, ValidationError, Email, EqualTo
 from app.models import User
+from app.models import CorrectAnswer
 
 class LoginForm(FlaskForm):
     username = StringField('Username', validators = [DataRequired()])
@@ -32,9 +33,9 @@ class RulesForm(FlaskForm):
     excel = BooleanField("I have tested the template and can open it", validators=[DataRequired()])
     submit = SubmitField("Continue")
 
-class SubmissionForm(FlaskForm):
-    answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
-    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
+class PracticeForm(FlaskForm):
+    answer = FloatField("Enter answer:", validators = [DataRequired()])
+    n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
     def validate(self):
         rv = FlaskForm.validate(self)
         if not rv:
@@ -42,7 +43,7 @@ class SubmissionForm(FlaskForm):
 
         correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
         if correctanswer is None:
-            self.answer.errors.append('Company already exists at that address')
+            self.answer.errors.append('This answer is incorrect. Input 10000.00 to continue. The next 9 questions will not evaluate your answer so think carefully before answering.')
             return False
 
         return True
@@ -51,7 +52,7 @@ class SubmissionForm(FlaskForm):
     
 
 class SubmissionForm(FlaskForm):
-    answer = FloatField("Enter answer", validators = [DataRequired()])
+    answer = FloatField("Enter answer:", validators = [DataRequired()])
     n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
     def validate(self):
         rv = FlaskForm.validate(self)
@@ -61,3 +62,4 @@ class SubmissionForm(FlaskForm):
         return True
 
     submit = SubmitField("Save and continue")
+    

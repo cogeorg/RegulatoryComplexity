@@ -25,9 +25,14 @@ class User(UserMixin, db.Model):
 def load_user(id):
     return User.query.get(int(id))
 
+def load_correctanswer(correctanswer):
+    return User.query.get(correctanswer)
+
 class Submission(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     answer = db.Column(db.Float())
+    correctanswer = db.Column(db.Float())
+    verifyanswer = db.Column(db.Float())
     timestamp = db.Column(db.DateTime, index=True, default=datetime.utcnow)
     regulation = db.Column(db.String(120))
     balance_sheet = db.Column(db.String(120))
@@ -35,3 +40,11 @@ class Submission(db.Model):
 
     def __repr__(self):
         return '<Submission {}'.format(self.answerfor)
+
+class CorrectAnswer(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    correctanswer = db.Column(db.Float())
+    n_reg = db.Column(db.Integer())
+
+    def __repr__(self):
+        return '<CorrectAnswer {}'.format(self.correctanswer)
