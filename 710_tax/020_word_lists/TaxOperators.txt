@@ -1,0 +1,888 @@
+abatement 
+accelerated depreciation 
+accounting basis 
+accounting for losses
+accounting period 
+accounting records 
+accounting standard
+accounts payable 
+accounts receivable 
+accrual basis 
+accrual method
+accuracy related penalty 
+active and sustained participation
+activity tests
+ad valorem tax 
+adjustments
+administrative company 
+administrative expenses
+administrative office 
+advance pricing agreement
+advance pricing arrangement 
+advance ruling 
+affiliated companies 
+affiliated group
+affiliated parties 
+affiliated person
+alienation of user data
+allocation 
+allocation key 
+allowance 
+alternative dispute resolution
+amortization 
+amortization method  
+Amount A
+amount B
+apportionment  
+apportionment method
+arbitrage 
+arm’s length principle
+arm’s length range 
+arm's length price 
+arm's length return method
+arm's length standard
+arm's length transaction 
+artificial profit shifting
+assembled workforce 
+associated companies
+associated enterprises
+associated person
+attribution of profits
+attribution rules 
+audit 
+automated digital service
+automated digital services
+auxiliary activities 
+auxiliary company 
+avoidance 
+bad debt 
+balance sheet 
+balancing payment  
+bank secrecy provisions 
+bargain sale or purchase
+base company 
+base erosion
+base erosion and profit shifting
+baseline activities
+baseline marketing and distribution activities
+basic arm’s length return method 
+beneficial owner 
+beneficiary 
+benefit test 
+benefits in kind 
+BEPS
+berry ratio
+best method rule
+bilateral advance pricing arrangement 
+binding arbitration
+binding dispute resolution mechanism
+blocked income
+book value 
+bottom-up approach
+branch 
+branch profits tax 
+branch tax 
+burden of proof 
+business assets 
+business purpose test 
+business restructuring
+business unit
+capital assets 
+capital expenditure 
+capital gain
+capital gain 
+capital tax 
+captive bank 
+captive insurance company 
+carry-back
+carry-forward
+carryforward 
+carryover 
+carve-out
+cash basis 
+CbCR rules
+central management and control 
+centralised services 
+centralized product management model
+centre of vital interest 
+cherry picking 
+CIF value
+close 
+closely related
+closing agreement 
+cloud computing
+collateral adjustment
+commensurate with income standard 
+commercial intangible 
+commodities futures 
+commodity rule   
+commodity tax 
+common stock 
+comparability adjustments
+comparability analysis
+comparability factors 
+comparable adjustable transaction
+comparable adjustable transaction method 
+comparable data 
+comparable profit interval 
+comparable profit split method 
+comparable profits method 
+comparable search 
+comparable uncontrolled financial transaction method 
+comparable uncontrolled price 
+comparable uncontrolled price method
+comparable uncontrolled price method 
+comparable uncontrolled transaction method 
+comparable uncontrolled transactrion 
+compensating adjustment
+compensation 
+compensatory stock options 
+competent authority 
+compliance 
+conduit approach 
+conduit company 
+connected person
+connected persons 
+connected persons 
+consideration 
+consolidated revenue threshold
+consolidated tax return 
+constitutent entity
+constructive dividend 
+constructive ownership 
+consumer facing business
+consumption tax 
+contemporaneous documentation
+contract manufacturer 
+contribution 
+contribution analysis 
+control 
+controlled foreign company rule
+controlled foreign corporation 
+controlled transaction 
+controlling interest 
+controllled foreign companies 
+cooperative society 
+coordination centre 
+copyright 
+corporate income tax 
+corporate veil 
+corporation 
+correlative adjustment
+corresponding adjustment 
+cost allocation
+cost contribution arrangement
+cost funding 
+cost of goods sold 
+cost plus mark-up
+cost plus method
+cost sharing arrangement 
+cost-sharing agreement
+country by country reporting 
+country file 
+covered payments
+credit
+credit method 
+credit, underlying 
+creditor 
+current assets 
+customs duties 
+damages 
+de minimis 
+de minimus
+death duties 
+debenture 
+debt capital 
+debt dumping 
+debt instrument 
+debt parking
+debt/equity ratio 
+deduction at source 
+deductions 
+deemed interest 
+deep discount bond 
+default 
+deferment of tax 
+deferred income 
+delinquency 
+demand loan 
+DEMPE
+dependent agent 
+dependent personal services 
+depletion 
+depreciation 
+derivative financial instruments  
+destination principle 
+developing countries
+digital content
+digital content services
+digitalisation
+direct charge method 
+direct investment 
+direct tax 
+discount 
+disolution of corporation 
+dispute prevention and resolution 
+distribution 
+dividends 
+documentation 
+documentation requirements 
+domestic corporation 
+domicile 
+double dipping 
+double taxation
+double taxation treaty 
+dual residence 
+dual resident entity
+duplicated services 
+earned income 
+earnings & profits 
+earnings before taxes 
+economic double taxation 
+Economic Impact Assessment
+effective tax rate 
+effective tax rate 
+effectively connected income 
+embedded intangible 
+employee profit sharing 
+employee stock option 
+employment income 
+enterprise
+entity 
+equal treatment 
+equitable interest 
+equity 
+equity capital 
+estimated assessment 
+eu master file 
+eurodollars 
+european commission 
+european union 
+evasion  
+exchange control 
+exchange of information 
+excise tax 
+excluded entity
+exclusions 
+exemption
+exemption method 
+exemptions 
+expatriate 
+expatriation rules 
+expenses 
+export duty 
+extended limited tax liability 
+factoring 
+fair market value
+fair market value 
+federal tax 
+fiduciary 
+field audit 
+final tax 
+finance company 
+financial statement 
+financial structure 
+first in, first out 
+fiscal domicile  
+fiscal nullity doctrine 
+fiscal policy 
+fiscal residence 
+fiscal transparency 
+fiscal year 
+fixed assets 
+fixed base  
+fixed income 
+fixed return
+flag of convenience 
+flat tax 
+fob value 
+force of attraction 
+foreign currency forward 
+foreign currency futures 
+foreign currency option 
+foreign currency swap 
+foreign exchange control 
+foreign exchange tax 
+foreign tax credit 
+foreign tax credit  
+foreign tax relief 
+formula apportionment 
+formulaic substance carve-out
+formulary apportionment
+formulatory approach 
+forward contract 
+franchise taxes 
+fraud 
+fringe benefits 
+frontier workers 
+functional analysis 
+GAAP
+gaap 
+GILTI
+global dealing
+global formulary apportionment method
+global hedging 
+Global Intangible Low Taxed Income Regime
+global method 
+global revenue test
+global trading
+GLOBE
+going concern 
+going concern value 
+good faith 
+goods and sales tax vat 
+goodwill 
+grace period 
+graduated rate 
+grandfather clause 
+gross income 
+gross income, taxes on 
+gross margin
+gross margin method 
+gross profit
+gross profit ratio 
+gross profits 
+gross profits tax 
+group service center
+group synergies
+group treatment 
+guarantee fee
+guarantor 
+hard-to-value intangibles 
+head office
+head office expenses
+headquarters taxation
+hedging transaction 
+hidden reserves 
+hidden tax 
+historical cost 
+holding company 
+holding period 
+horizontal equity 
+hybrid accounting methods 
+hybrid derivative 
+hybrid entity 
+hybrid instrument 
+IFRS
+immovable property 
+import duty 
+imputation system 
+imputed income 
+imputed interest 
+in kind 
+inbound transaction 
+incidence of tax 
+incidental benefits 
+Inclusive Framework
+income adjustment
+income Inclusion Rule
+income property 
+income shifting 
+income splitting 
+income statement 
+income subject to tax 
+income tax accrued
+income tax credit 
+incorporation 
+independent contractor 
+independent enterprises 
+independent personal services 
+indirect
+indirect charge method 
+indirect cost 
+indirect tax credit 
+inheritance 
+input tax 
+in-scope business
+in-scope revenue
+insurance premiums 
+insurance settlement 
+intangible property 
+intangibles 
+intellectual property 
+intentional set
+intentional set-off 
+inter-branch transaction
+intercompany pricing 
+intercompany transactions 
+intercorporate dividends 
+intermediary company 
+internal comparables 
+internal market 
+international double taxation 
+international joint venture
+international taxation 
+interquartile range 
+intra group services 
+intra-group services 
+investment 
+investment allowance 
+investment company 
+investment deduction 
+investment goods 
+investment hub
+investment incentives 
+investment income 
+investment method 
+investment reserve 
+invoice basis 
+invoice company
+invoice company 
+issued share capital 
+itemized deductions 
+jeopardy assessment 
+joint international tax shelter
+joint operation
+joint venture 
+juridical double taxation 
+jurisdiction 
+know-how
+landed cost 
+last in, first out 
+lease 
+leaseback 
+legal entity 
+legal reserve 
+letter ruling 
+level playing field 
+leveraging 
+LIBOR
+license duties 
+license or franchise
+licensing
+lien 
+life interest 
+life tenancy 
+lifo 
+limitation on benefits provision 
+limitations, statute of 
+limited 
+limited liability 
+limited liability company 
+limited partnership 
+link structure 
+liquidation 
+listed company 
+listed securities 
+loan capital 
+local file 
+local tax 
+location of assets 
+location rents 
+location savings 
+location specific advantages 
+loophole 
+loss relief 
+losses 
+lottery tax 
+low value-adding services 
+luxury taxes 
+maintenance expenses 
+management expenses 
+management fee 
+management service 
+management, place of 
+management, place of effective 
+mandatory binding arbitration
+MAP  
+MAP dispute
+marginal rate of tax 
+mark to market 
+marketable securities 
+marketing intangible 
+marketing intangibles 
+master file 
+matching transaction method 
+median 
+memorandum of understanding 
+merger 
+mineral royalties 
+minimum tax 
+mixer company  
+mnc  
+mne  
+mne group 
+model tax conventions 
+multilateral advance pricing arrangement
+multinational enterprise 
+multiple captives 
+multiple year data 
+mutual agreement procedure 
+mutual agreement procedure 
+mutual assistance
+mutual fund 
+nationality principle 
+negative income tax 
+negative list 
+negligence 
+net income 
+net operating loss 
+net profit
+net profit margin 
+net wealth tax 
+net working capital 
+net worth comparison method
+net worth tax 
+new taxing right
+nexus
+nexus
+nominal capital 
+nominal value 
+nominative securities 
+non-routine intangibles 
+notice of assessment 
+notice of deficiency 
+oecd model tax treaty 
+oecd transfer pricing guidelines
+office audit 
+offshore bank 
+offshore company 
+online advertising
+online search engine
+onshore company 
+onus of proof 
+operating lease 
+operating profits 
+option to be taxed 
+ordering rule
+ordinary shares 
+origin principle 
+orphan entity
+other income 
+outbound transaction 
+out-of-scope
+output tax 
+overhead expenses 
+paper company 
+par value 
+parent company 
+parent entity
+participation exemption 
+partner 
+partnership 
+pass through entity
+passive association 
+passive income 
+patent
+patronage dividend 
+paying entities
+paying entity
+paying entity
+payroll tax 
+penalties  
+per diem 
+permanent establishment 
+permanent establishment 
+personal allowances 
+personal holding company 
+personal property 
+personal service corporation 
+phantom stock plan 
+physical presence test
+piercing the corporate veil 
+Pillar One
+Pillar Two
+place of effective management 
+place of management 
+platform
+political
+pooling
+portfolio interest 
+positive list
+possessions of u.s. 
+power of attorney 
+precedent 
+preference shares 
+preferred stock 
+premium 
+premium at the issue of shares 
+preparatory activities 
+presumptive taxation 
+pretax profits
+price increase reserve 
+primary adjustment 
+primary adjustment 
+principal amount 
+principal place of business 
+private ruling 
+privilege 
+privileged tax regime  
+pro rata 
+pro rata rule 
+professional services 
+profit 
+profit allocation
+profit allocation
+profit allocation
+profit and loss statement 
+profit before tax
+profit level indicator
+profit markup
+profit mark-up
+profit methods
+profit ratio 
+profit shifting 
+profit split method 
+profitablity test
+profits tax 
+progression 
+property tax 
+proprietorship 
+pro-rata allocation
+protocol 
+provisional assessment 
+publicly held corporation 
+publicly traded limited partnership 
+put option 
+quarantining 
+quoted securities 
+ratification 
+real property 
+realization 
+realized gain/loss 
+reallocation percentage
+rebate 
+reciprocity principle 
+recourse 
+redemption 
+reduced rates 
+registered security 
+registration duty 
+regulated investment company 
+reimbursement 
+related parties 
+related party
+related party distributor
+remuneration 
+repatriation  
+representative panel mechanism
+resale price margin
+resale price method 
+research and development
+reserves 
+residence 
+residence jurisdiction
+residence principle of taxation 
+resident 
+resident alien 
+resident enterprise
+residual analysis 
+residual profit
+
+residual profit split 
+residual profit split method 
+restricted stock plan 
+retail sales tax 
+retroactive effect 
+return of capital 
+revenue neutrality 
+revenue procedure 
+revenue sourcing rule
+revenue threshold
+reverse-hybrid entity
+right-of-use tangible asset
+ring fence 
+risk
+roll-back 
+rollover relief 
+round trip transaction 
+routine contribution
+routine intangibles
+royalties 
+rule coordination
+rule order
+ruling 
+rulings 
+S corporation
+safe harbour 
+sale and leaseback 
+sales tax 
+salvage value 
+scale without mass
+schedular tax system 
+secondary adjustment
+secondary transaction
+secret comparables 
+section 482 
+securities 
+segmentation
+self assessment
+self employed
+senate finance committee 
+separate assessment 
+separate enterprise trading model
+separate taxation   
+service company 
+service fee 
+services rendered.
+severance payments 
+sham transaction 
+shareholder activity 
+shareholder services 
+shareholders' equity 
+shell company 
+shifting an incidence of taxation 
+shifting of profits 
+short term capital gains
+simplification
+simultaneous tax examination 
+single entity approach 
+single taxpayer 
+sister corporation 
+situs rule 
+sixth method 
+small business corporation  
+soak up tax
+social media
+social security contributions 
+sole proprietorship 
+source of income 
+source principle of taxation 
+source rule 
+specific payment approach
+speculative gains 
+spinoff
+split off
+split ownership
+split up
+spread 
+stamp duties 
+standalone treaty provision
+statute of limitations 
+stock 
+stock option 
+stripped bond 
+subject to tax rule
+subpoena 
+subsidiary company 
+substance carve-out
+substance over form doctrine 
+substantial presence test 
+super royalty provision  
+supplemental assessment 
+surcharge 
+swap 
+switch-over rule
+syndicate 
+tangible property
+tariff 
+tax 
+tax artbitrage
+tax authorities 
+tax base 
+tax basis 
+tax bill 
+tax burden 
+tax certainty
+tax challenges
+tax clearance certificate 
+tax compliance 
+
+tax credit 
+tax declaration 
+tax deposit certificate 
+tax equality 
+tax evasion 
+tax exile 
+tax expenditure 
+tax foreclosure 
+tax form 
+tax free zone
+tax holiday 
+tax home 
+tax information exchange agreement 
+tax law 
+tax neutrality
+tax on tax 
+tax planning 
+tax refund
+tax relief 
+tax return 
+tax secrecy 
+tax shelter  
+tax sparing credit 
+tax threshold 
+tax transparent entity
+tax treaty 
+
+tax unit 
+taxable base 
+taxable event 
+taxable period 
+taxable presence
+taxable year  
+taxation at source 
+taxpayer identification number 
+technical assistance fees
+technical service agreement
+temporary importation 
+term
+terrtoriality principle 
+tested party 
+thin corporation 
+threshold tests
+tiebreaker rule 
+top-down approach
+top-up tax
+tort 
+total profit split method 
+trade 
+trade intangible 
+trade intangibles 
+trade or business 
+trademark 
+traditional transaction method 
+traditional transaction methods 
+transaction taxes 
+transactional net margin method 
+transactional profit method
+transfer pricing 
+transfer pricing adjustment
+transfer pricing method
+transfer tax 
+treaty compatability
+treaty on european union 
+treaty override 
+treaty rule
+treaty shopping 
+trust 
+trustee 
+turnkey contract 
+turnover 
+turnover tax 
+uncontrolled transaction
+under capitalization
+underlying tax 
+underlying tax credit 
+Undertaxed payments rule
+undistributed profits tax 
+undue hardship 
+unearned income 
+unilateral relief 
+unimproved property 
+unitary tax system 
+unlimited liability 
+unspecified method
+upstream dividend 
+us transfer pricing regulations
+use tax 
+useful life 
+valuation principles 
+value added tax 
+venture capital 
+vertical equity 
+vienna conventions 
+voting stock 
+wage tax tax 
+water's edge legislation 
+wear and tear 
+withdrawals 
+
+withholding tax 
+working capital 
+world wide income 
+worldwide combined reporting
+worldwide income.
+written down value 
+zero coupon bond 
+
