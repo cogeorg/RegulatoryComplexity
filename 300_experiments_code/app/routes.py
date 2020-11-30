@@ -18,6 +18,10 @@ import numpy as np
 from datetime import datetime
 from app.tables import Results
 
+import tailer as tl
+import io
+
+
 
 @app.route('/')
 @app.route('/index')
@@ -155,20 +159,47 @@ def experiment(n_reg=1):
 
 @app.route('/endpage')
 def endpage():
-    results = []
-    results = CorrectAnswer.query.order_by(CorrectAnswer.correctanswer).all()
+
+
+    # file = open("./app/static/submissions.csv")
+    # firstLines = tl.head(file,1) #to read last 15 lines, change it  to any value.
+    # lastLines = tl.tail(file,10) #to read last 15 lines, change it  to any value.
+    # file.close()
+    # a1 = pd.read_csv(io.StringIO('\n'.join(firstLines)), error_bad_lines=False, usecols=["regulation"])
+    # a2 = pd.read_csv(io.StringIO('\n'.join(lastLines)), error_bad_lines=False)
+
+    # frames = [a1,a2]
+
+    # result = pd.concat(frames)
+
+    
+    a = pd.read_csv("./app/static/submissions.csv")
+    top = a.head(0)
+    bottom = a.tail(10)
+    concatenated = pd.concat([top,bottom])
+    concatenated.reset_index(inplace=True, drop=True)
+
+    # print(result.shape)
+    # to save as html file 
+    # named as "Table" 
+    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/table.htm", index=None)
+    # a.style.set_properties(**{'text-align': 'right'})
+    # assign it to a  
+    # variable (string) 
+    table = concatenated.to_html()
+
+    # results = []
+    # results = CorrectAnswer.query.order_by(CorrectAnswer.correctanswer).all()
 
     # if not results:
     #     flash('No results found!')
     #     return redirect('/')
 
     # display results
-    table = Results(results)
-    table.border = True
-    print(results)
+    # table = Results(results)
+    # table.border = True
+    # print(results)
     return render_template('endpage.html', table=table)
-
-
 
 
 @app.route('/logout')
