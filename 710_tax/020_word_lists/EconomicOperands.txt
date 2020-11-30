@@ -1,0 +1,3876 @@
+(AMLF)
+, US,,,,
+,,
+,,,,,,,,,,,,,,,,,,,
+/
+/case study
+AA/AAA credit ratings
+ABCP see asset-backed commercial paper
+ABL see asset-based lending
+ABN-Amron,,
+ABSs see asset-backed securities
+AIG see American International Group
+AMA see advanced measurement approaches
+AMLF see asset-backed commercial paper money market mutual fund liquidity
+ARMs see adjustable rate mortgages
+ASF see available stable funding
+ASRF see asymptotic-single-risk-factor framework
+ATMs see automated teller machines
+Access see Market access
+Accountability
+Acevedo, Paola Morales,
+Act on Provision of Trust Business by Financial Institutions Japan
+Adrian, Tobias,
+Africa
+Africa,,,,,
+Agency costs
+Agents
+Aglietta, Michel,
+Agricultural Bank of China
+Alcade, José-Luis Peydró
+Algorithmic trading
+Allen, Franklin,
+Allen, Linda,
+Allen-Gale framework
+Allende, President Salvador
+Allianz AG
+Allied Irish Banks
+Almost Ideal Demand System
+Altman, Ed
+American Can
+American Express,
+American Home Mortgage
+American International Group (AIG),,,,,
+American International Group Financial Products (AIGFP)
+American Smelting and Refinery
+Anglo-Irish Bank
+Anzen credit cooperative, Japan
+Aozora Bank
+Argentina Central Bank
+Argentina,
+Argentina,,,,,,,,,,,
+Armstrong Committee US
+Ashcraft, Adam B.,
+Ashikaga Bank
+Asia,
+Asia,,,
+Asian bail-outs
+Association for Financial Professionals
+Auditors
+Australia
+Australia,,,,
+BBVA banking group
+BCBS enhancement
+BCBS see Basel Committee on Banking Supervision
+BCCI see Bank of Credit and Commerce International
+BHCs see bank holding companies
+BIS see Bank for International Settlements
+BNP Paribas,,
+BNP-Desdner
+Bagehot, Walter,,,,,n,,,,
+Bail-ins
+Bailouts
+Balance-sheet management
+Banco de la Nación
+Banco de la Provincia de Buenos Ayres
+Bangladesh,,,,
+Bank Act UK
+Bank Consolidation Company, Bulgaria
+Bank Holding Company Act US
+Bank Holiday
+Bank One Corporation (BOC)
+Bank for International Settlements (BIS),,,
+Bank of Africa
+Bank of America,,,,,,,,,
+Bank of Austria,
+Bank of China,
+Bank of Credit and Commerce International (BCCI),,
+Bank of East Asia
+Bank of England,,,,,,,,,
+Bank of Japan,,,,,
+Bankers Trust
+Banking Act UK
+Banking Actsee Glass-Steagall Act
+Banking Co-ordination Directive
+Banking Code
+Banking Law,
+Banking Lawamendments)
+Banking School,
+Bankruptcy Amendments and Federal Judgeship Act US
+Bankruptcy see Insolvency
+Banks and banking see also Institutional regulation
+Banque de France,,
+Barclays,,
+Barings Bank,,
+Barth, James R.,
+Basel Accords,,,
+Basel Committee on Banking Supervision (BCBS),,,,,,,,,,,,,
+Basel I
+Basel I,,,,,,,
+Basel II
+Basel II and Basel III compared, Fig..
+Basel II compared, Fig..
+Basel II,,,,,,,,,,,,,,
+Basel III
+Basel III compared, Fig..
+Basel III,,,,,,,,,,,,,,,,,,,,,
+Basel III’s three-pillar framework
+Basel accords and risk-based bank capital requirements
+Basic Indicator Approach
+Bayerische Landesbank,
+Bear Stearns,n,,,,,,,,,
+Beck, Thorsten,
+Behavioural analysis
+Belgium:
+Berger, Allen N.,
+Bermuda
+Bernanke, Ben,n
+Black-Scholes-Merton framework
+Bliss, Robert R.,
+Bolivia
+Bonin, John P.,
+Boone Competition Indicator
+Boot, Arnoud W. A.,
+Bouwman, Christa H. S.,,
+Bradford & Bingley
+Brazil
+Brazil,,,,,,,,,
+Bretton Woods Agreement,
+British Virgin Islands
+Broker-dealers
+Brouwer Report (second), EU
+Brown, Senator Sherrod
+Brummer, Christopher,
+Buch, Claudia M.,
+Budapest Bank
+Buffett, Warren
+Bulgaria,,,
+Bundesbank RTGS PLUS system
+Bush, President George W.
+CAMEL ratings,,,
+CAPM see Capital Asset Pricing Model
+CBCs see commercial bank clearing houses
+CBOT see Chicago Board of Trade
+CDO see collateralized debt obligations
+CDSs see credit default swaps
+CEE see Central Eastern Europe
+CEO incentives
+CFTC see Commodity Futures Trading Commission
+CHIPS see Clearinghouse Interbank Payments System
+CLOs see collateralized loan obligations
+CLTV see combined loan-to-value
+CME see Chicago Mercantile Exchange
+CMOs see collateralized mortgage obligations
+CP see commercial paper
+CRAs see credit rating agencies
+CROs see credit rating organizations
+CRT derivatives trading partnershipn
+Calomiris, Charles W.,
+Canada
+Canada:
+Cannes summit
+Cape Verde,
+Capital
+Capital Asset Pricing Model,
+Capital Requirements Directive (CRD II),
+Capital Requirements Directive (CRD II), EU,
+Capital Requirements Directive(CRD IV), EU,,
+Caprio, Gerard,
+Carletti, Elena,
+Carmassi, Jacopo,
+Carney, Mark
+Casu, Barbara,
+Cavallo, Domingo
+Cayman Islands
+Central African Republic
+Central Bank
+Central Eastern Europe (CEE),,,,,,,,
+Central European International Bank, Ltd
+Central banks
+Cetorelli, Nicola,,
+Chad
+Chase Manhattan Corporation,
+Check Clearing for thest Century Act US
+Chemical Bank,
+Chicago Board of Trade (CBOT)
+Chicago Mercantile Exchange (CME)
+Chicago banking panic,
+Chile
+Chile,,,,,,
+China
+China Construction Bank
+China exports,
+China,,,,,,,,,,
+Chinese banks
+Chrysler
+Citibank Budapest Ltd
+Citibank,,
+Citicorp merger with Travellers
+Citigroup,,,,,,,,,
+Citizenship see Financial citizenship
+City of London
+Clearinghouse Interbank Payments System (CHIPS), US,,,
+Clinton, President Bill
+Codetermination Act
+Cognitive error
+Cognitive heuristics
+Collateralized debt obligations (CDOs)
+Collins Amendment, US
+Colombia
+Commerzbank,
+Commodity Futures Trading Commission (CFTC)
+Community Reinvestment Act US,
+Competition
+Competition Commission, UK
+Competitive Equality Banking Act US
+Compliance strategies,
+Comprehensive Risk Measure (CRM)
+Conduct of business regulation
+Conflicts of interest
+Consolidated supervision see Integrated supervision
+Consumer Financial Protection Bureau, US,
+Consumer protection
+Contagion
+Contagion Value-at-Risk (CoVaR)
+Continental Illinois National Bank, Chicago,,,,,
+Convertibility (Cavallo) Plan
+Convertibility (Cavallo) Plan, Argentina
+Cooper Neff, derivatives trading partnershipn
+Core Principle for Effective Banking Supervision,
+Core Principles
+Core Principles for Effective Banking Supervision
+Correa, Ricardo,
+Costs
+Countrywide Financial mortgage lender, USn,,
+Credit Card Accountability, Responsibility and Disclosure Act US
+Credit Lyonnais
+Credit Rating Agency Reform Act US
+Credit Suisse,,
+Credit default swaps (CDSs)
+Credit ratings agencies (CRAs)
+Credit risk transfer (CRT)
+CreditMetrics model,,
+Creditanstalt,
+Crises see Financial crises; Global Financial Crisis (GFC)
+Croatia,,,,,,,,
+Croatian National Bank
+Cross-border regulation
+Crédit Mobilier
+Cull, Robert,
+Currency School
+Cyprus,,
+Czech Republic,,,,,,,,,
+DNS systems see deferred net settlement systems
+DRC see Democratic Republic of Congo
+DVP see delivery vs. payment
+Dark pools
+DeYoung, Robert,,
+Degryse, Hans,
+Delong, Gayle L.,
+Demirgüç-Kunt, Asli,,
+Democratic Republic of Congo (DRC)
+Deposit Insurance Corporation see Federal Deposit Insurance Corporation
+Deposit Insurance Corporation, Japan
+Deposit insurance
+Depository Institutions Deregulation and Monetary Control Act (DIDMCA,
+Depository Trust and Clearing Corporation, US
+Deutsche Bank,
+Development Bank of Japan
+Diamond, D.
+Diamond-Dybvig model,
+Dillon Read Capital Management (DCRM)
+Dingell, John
+Disclosure
+Discretionary enforcement
+Dispute Settlement Body (DSB),
+Dispute resolution
+Distribution regulation
+Dodd-Frank Act
+Dodd-Frank Wall Street Reform and Consumer Protection Act US,,
+Dominican Republic
+Dominican Republic financial crises
+Donadio, Gregory,
+Douglass Amendment to the Bank Holding Act, US
+Dow Jones CDX (DJ CDX) North American Investment Grade Index
+Drexel Burnham Lambert Inc.
+DuPont
+Durbin Amendment, US
+Durkin, Thomas A.,
+EAD see exposure at default
+EBRD (European Bank for Reconstruction and Development)
+EBRD/World Bank surveys
+ECB see European Central Bank
+EFTPOS see electronic funds transfer at the point of sale
+EIB see European Investment Bank
+ELA see emergency liquidity assistance
+EMDEs see emerging market and developing economies
+EU
+EU accommodation of cross-border flows
+EU example
+EU financial regulation
+EU harmonization,
+EU harmonized rule book
+EU membership,
+EU regulation
+EU transparency rules,
+EU,
+EU-
+EVT see extreme-value theory
+Eastern Europe,,,,,,,
+Ecobank
+Economic growth and development
+Ecuador,
+Efficiency see Market efficiency
+Efficient capital market hypothesis (ECMH)
+Eisenbeis, Robert A.,
+Electronic Benefit Transfer, US
+Elliehausen, Gregory,
+Emergency Credit Guarantee Program
+Emigrant Savings Bank of New York
+Enforcement
+England, early industrialization
+Enron,
+Equal Credit Opportunity Act, US
+Equilibria
+Equity Bank, Kenya
+Equity markets
+Erste Bank, Austria,
+Estonia,
+Eurodollar futures
+Europe,
+European Banking Authority (EBA),,
+European Central Bank (ECB),,,,,,,,,,,,
+European Commission (EC),,,,,
+European Company Statute
+European Financial Stability Facility,
+European Investment Bank (EIB)
+European Systemic Risk Board (ESRB),
+European Union (EU)
+European Union (EU),
+European banking union,,,
+European banks,
+European market, Fig.. Fig..
+European scheme
+Eurosystem
+Ex ante planning
+Extraterritoriality,,,
+F-IRB see foundation internal rating-based approach
+FDI see foreign direct investment
+FDIC receivership
+FDIC see Federal Deposit Insurance Corporation
+FDICIA see Federal Deposit Insurance Corporation Improvement Act
+FHA see Federal Housing Association
+FHCs see financial holding companies
+FICO score
+FICO scores,,,
+FLS see Funding for Lending Scheme
+FMI default management strategies
+FRM see fixed rate mortgages
+FSA initiative
+FSA see Financial Services Authority
+FSAP see Financial Services Action Plan
+FSB see Financial Stability Board
+FSF see Financial Stability Forum
+FSLIC see Federal Savings and Loan Insurance Corporation
+FSOC see Financial Stability Oversight Council
+Fair Credit Reporting Act, revised, US
+Fair Debt Collection Practices Act US
+Fair Isaac Company
+Fannie Mae, USn,,,,,,,,,,
+Fed, the see Federal Reserve
+FedACH (Federal Reserve Banks' Automated Clearing House)
+Federal Deposit Insurance Corporation (FDIC), US,,,,,,,,,,,,,
+Federal Deposit Insurance Corporation Improvement Act (FDICIA,, US,,,,,,
+Federal Development Bank (BNDES)
+Federal Home Loan Mortgage Corporation (FHLMC) see Freddie Mac
+Federal Housing Association (FHA)
+Federal National Mortgage Association see Fannie Mae
+Federal Reserve (the Fed),,,,,,,,,,,,,,,,,,,,,,
+Federal Reserve Act US,
+Federal Reserve Bank Act US
+Federal Reserve Bank of Atlanta
+Federal Reserve Board, US
+Federal Savings and Loan Insurance Corporation (FSLIC), US,
+Federal Trade Commission’s rule on Credit Practices US
+Fedwire, US,,,
+Financial Accounting Standards Board (FASB), US
+Financial Institutions Reform, Recovery and Enforcement Act (FIRREA,,
+Financial Services (Banking Reform) Bill
+Financial Services Action Plan (FSAP), EU,
+Financial Services Agency (FSA),
+Financial Services Authority (FSA), UK,
+Financial Services Modernization Actsee Gramm-Leach-Bliley Act
+Financial Stability Act US
+Financial Stability Board
+Financial Stability Board (FSB), G,,,,,
+Financial Stability Forum (FSF), G
+Financial Stability Oversight Council (FSOC), US,,,,,
+Financial Stability Review
+Financial collateral and termination arrangements
+Financial crises
+Financial innovation
+Financial literacy
+Financial market infrastructures (FMIs)
+Financial markets
+Financial stability
+Financial systems
+Financialization
+Fine, Camden
+Finland
+First Banking Directive
+First National Bank of Chicago
+Fiscal Investment Loan Program (FILP),
+Fitch/IBCA rating
+Fobaproa, Mexico
+Ford
+Fortisn,n,
+Fragmentation, see Market fragmentation
+Frame, Scott W.,
+France
+France:
+Freddie Mac, USn,,,,,,,,,
+Freixas, Xavier,
+Friedman, Milton,
+Functional supervision
+Funding
+Funding for Lending Scheme (FLS), UK
+G
+G,
+G,,
+G-SIBS see global systemically important banks
+G/FSB initiatives,Tab..
+GATT system
+GE Capital Bank,,
+GFC
+GFC and banks
+GFC impact of,
+GSEs see government-sponsored enterprises
+Gand policy development, global level,, Tab..
+Garn-St. Germain Depository Institution Act US,,
+Gatekeepers
+Gazprombank
+General Motors,,
+German banks
+Germany
+Germany:
+Gerschenkron, A.,,,,,,,
+Ghana
+Gini coefficient
+Ginnie Mae, US
+Glass, Senator Carter
+Glass-Steagall Act (Banking Act of,,,,,,,,n,,,,
+Global Financial Crisis (GFC)
+Global Financial Inclusion Index
+Global Financial Inclusion Index (Global Findex)
+Globalization
+Goddard, John,
+Goldman Sachs,,,,,,
+Gordy, Michael B.,
+Governance
+Government National Mortgage Association (GNMA) see Ginnie Mae
+Grameen Bank
+Gramm-Leach-Bliley Act (GLB) US,,,,,,,,
+Granger-causality network
+Great Depression, US,,,,,,,,,,,
+Great Inflations)
+Great Moderation
+Greece:
+Greenspan, Alan,,,,,
+Grepresentation
+Gu, Xian,
+Guinea
+H-statistic,
+HQLA see high-quality liquid assets
+HSBC Bank,
+Habib Bank
+Hagendorff, Jens,
+Harman, Harriet
+Hartman, Philipp,
+Hasan, Iftekhar,
+Hegelian model
+Heitfield, Erik A.,
+Herfindahl index,
+Herfindahl-Hirschman Index (HHI),,,,,,
+Heritage Foundation
+Herring, Richard J.,
+Heuristics (shortcuts)
+High-Level Expert Group on Reforming the Structure of EU Banking Sector
+High-Level Principles on Financial Consumer Protection,,
+High-frequency trading (HFT)
+Hoenig, Thomas
+Hokkaido Takushoku Bank
+Home Affordable Modification Program (HAMP), US
+Home Owner’s Loan Corporation see Fannie Mae
+Hong Kong
+Hong Kong Shanghai Banking Corporation (HSBC)
+Hong Kong,
+Honohan, Patrick,
+Hoover, President Herbert,
+Hughes, Joseph P.,,
+Human rights
+Humphrey, David,
+Hungary,,,,,,,,
+Hyderabad microfinance study
+Hyderabad study
+Hypo Real
+Hypo-Alde-Adria
+HypoVereinsbank,,
+IBM
+ICICI private bank
+IKB Deutsche Industriebank, Germany,
+IMF initiatives
+IMF see International Monetary Fund
+ING bank, Netherlands,,,
+IPOs see initial public offerings
+IRB approach,
+IRB approaches see Internal Ratings Based approaches
+IRB approaches, theoretical foundations
+Iceland
+Incremental Risk Charge (IRC)
+Independent Commission on Banking see Vickers Commission
+India
+India,,,,,,,,
+Indonesia,,,,,,,
+Industrial Bank of Japan
+Industrial Revolution ( nd
+Industrial and Commercial Bank of China,
+IndyMac Bank, US,
+Information asymmetry
+Innovation see Financial innovation
+Insider trading
+Insolvency
+Institutions
+Insurance
+Integrated supervision
+Integrity see Market integrity; Market transparency and integrity
+Internal Ratings Based (IRB) approaches,
+Internal-Models Approach
+International Accounting Standards Board (IASB)
+International Association of Insurance Supervisors (IAIS)
+International Financial Institutions (IFIs)
+International Financial Reporting Standards (IFRS)
+International Harvester
+International Monetary Fund (IMF)
+International Monetary Fund (IMF),,,,,,,,,,
+International Organization of Securities Commissions (IOSCO),
+International Swap Dealers Association (ISDA) Master Contracts
+International regulation
+Internet banking,,
+Internet-only (Internet-primary) banking,
+Internet-only (Internet-primary),
+Internet/online,,
+Intesa
+Investment Company Act US
+Investment advisers
+Investment bank
+Investment firms
+Investment services
+Investor protection
+Ireland
+Israel
+Israeli banks
+Italian banks
+Italy
+Italy,
+Itaú, Brazil
+JP Morgan Chase (previously JP Morgan),,,,,,,,,,
+Japan
+Japan Bank for International Cooperation (JBIC)
+Japan Finance Corporation (JFC),
+Japan Housing Finance Agency
+Japan Post Bank,
+Japan,,,
+Japans),
+Judgment-based regulation
+Judicial activism
+KBC Group,,
+KMV risk models
+Kane, Edward J.,
+Kaufman, George G.,
+Kazahkstan,
+Kenya
+Kenya,
+Kerviel, Jerome
+Key Attributes,,,
+Keynes, John Maynard,
+Klapper, Leora,
+Knickerbocker Trust
+Knightian uncertainty,n,
+Konsolidacni Bank, Czech Republic
+Korea
+Korea,,,,,,,,,
+Kredytbank
+Krozner, R. S.,
+LBO see leveraged buyout
+LCR see least cost resolution
+LIBOR see London Interbank Offered Rate (LIBOR)
+LOLR and liquidity shock case study
+LOLR see lender of last resort
+LTCM hedge fund management firm,,
+LTV see loan to value ratio
+LVPS see large-value payments systems
+Lamfalussy process
+Landesbanken
+Landesbanken, Germany
+Las Cabos Summit
+Latin America,,,,,
+Latin America,,,,,,, Tab.. Tab..
+Latvia,
+Law
+Legal origin hypothesis
+Lehman Brothers,,n,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lehnert, Andreas,
+Lenders of last resort
+Lerner index,,,,
+Leximetrics
+Li, Tong (Cindy),
+Liability risk see Litigation risk
+Licensing
+Liikanen Report EU,,,,,,,,
+Liikanen Report,,,
+Literacy see Financial literacy
+Lithuania
+Litigation risk
+Lloyds/Lloyds TSB,,
+London Interbank Offered Rate (LIBOR)
+London summit
+Long Term Credit Bank of Japan,
+Long-Term Capital Management
+Long-term Credit Banking Law
+Lowndes, William
+Lucius Caecilius Jucundus,
+Lula da Silva, President
+M&A see mergers and acquisitions
+M-Pesa
+MBSs see mortgage-backed securities
+MCA), US,
+MERS see Mortgage Electronic Registration System
+MMDAs see money market deposit accounts
+MMFs see money market funds
+MMMFs see money market mutual funds
+Maastricht Treaty
+Macro-prudential regulation
+Madhavpura Mercantile Cooperative Bank, India
+Madoff, Bernard
+Malawi,
+Malaysia,,,,,,
+Management-based regulation
+Mandates
+Mandatory disclosure
+Manufacturers Hanover Corporation
+Market abuse
+Market access
+Market efficiency
+Market fragmentation
+Market integrity
+Market transparency see Transparency
+Markowitz, Harry
+Martin, John
+Martinez-Peria, Maria Soledad,
+Martin’s Bank
+MasterCard,,
+Mauritius,,
+McFadden Act US,,
+Mcorp case
+Memorandum of Understanding
+Meridien BIAO Bank
+Merrill Lynchn,,,
+Merton and Merton-type risk models,,,,
+Merton, R. C.
+Mester, Loretta J.,,,
+Methodology
+Mexico,,,,,,
+MiFID I
+MiFID I governing trade execution services
+Micro-prudential regulation
+Microfinance Information eXchange (MIX)
+Middle East,,
+Minsky’s theory of financial instability
+Mitsubishi UFJ
+Mitsubishi-Tokyo UFJ Bank
+Mitsui-Sumitomo
+Mizuho Bank,,
+Mizuho Corporate Bank
+Mobile money
+Mojon, Benoit,
+Molyneux, Philip,
+Moody’s Investor Servicesn,,,
+Moody’s Magazine
+Moral hazard
+Morgan Stanley,,
+Morgan, J. P.
+Morrison, Alan D.,
+Mortgage Bankers Association National Delinquency Survey, US
+Mortgage Electronic Registration System (MERS)
+Mortgage-lending practices
+NASDAQ bubble
+NCOF see net cash outflows
+NGOs (non-government organizations), and African microfinance
+NRB see net regulatory benefit
+NSFR see net stable funding ratio
+Nafin Development Bank, Mexico
+Namibia
+National Bank of Commerce, Tanzania
+National Bank of Yugoslavia (NBY)
+National Banking Acts/, US,,,
+National City Bank,
+National City Company,
+National Microfinance Bank, Tanzania
+Nationally Recognized Statistical Rating Organization (NRSRO)
+Netherlands
+Netherlands:
+New Century Financial Corporation,,
+New Deal legislation, US
+New York Clearing House Association
+New York Clearing House Electronic Payments Network
+New York State Department of Financial Services
+New York State Fund
+Niger
+Nigeria,,
+Nippon Credit Bank,
+Nolle, Daniel E.,
+Nomura Holdings company, Japan
+Nordea,
+North American Free Trade Agreement (NAFTA),
+Northern Rock,,,,,,,,,n,,
+Norway:
+OCC see Office of the Comptroller of the Currency
+OECD Recommendation
+OLA see Orderly Liquidation Authority
+OMOs see open market operations
+OTC trading
+OTD compared
+OTH compared
+OTS see Office of Thrift Supervision, US
+Objectives supervision see ‘Twin peaks’ supervision
+Office of the Comptroller of the Currency (OCC), US,,,
+Ohio fund failure
+Ongena, Steven,
+Orange Revolution
+Orderly Liquidation Authority (OLA), US,,
+Outcomes-focused regulation
+O’Connor derivatives trading partnershipn
+PCA see prompt corrective action
+PDCF see primary dealer credit facility
+PE see private equity
+PKO (zloty savings bank), Poland
+Padoa-Schioppa, Tommaso
+Pakistan,,,,,,,,
+Panzar-Rosse approach
+Paraguay,,
+Parigi, Bruno M.,,
+Pecora Commission, US,
+Pecora, Ferdinand
+Peek, Joe,
+Penn Central,
+People’s Bank of Chinan
+Peru
+Peydró-Alcalde, José-Luis,
+Philippines,,,,
+Pinochet, General Augusto
+Pittsburgh Plate Glass
+Pittsburgh summit
+Poland,,,,,,,,,
+Policy
+Ponzi finance
+Portugal,
+Post-trading infrastructures
+Postal Services Agency, Japan
+Price formation
+Prince, Charles (Chuck),
+Principles-based regulation
+Product intervention
+Program for Financial Revival
+Provision of Trust Business by Financial Institutions Act
+Prudential Financial
+Prudential-related regulation
+Public good
+Pujo Committee US
+Péreire Brothers
+RAROC risk measurement model
+RBCR see risk-based capital ratio
+RBI see Reserve Bank of India
+RBS see Royal Bank of Scotland
+RCA see regulatory capital arbitrage
+REITS see real estate investment trusts
+REMICs see real estate mortgage investment conduits
+RFC see Reconstruction Finance Corporation
+RMBS see residential mortgage backed securities
+ROA see return on assets
+ROE see return on equity
+RSF see required amount of stable funding
+RTGS see real time gross settlement
+RWAs see risk-weighted assets
+Raiffeisen Bank, Austria,
+Rajan (Raghuram),,,
+Rational Expectation School
+Real Plan Brazil
+Reconstruction Finance Corporation (RFC)
+Recovery and Resolution Directive EU
+Reding, Viviane
+Regulation Q, US,,,,
+Regulation Q,,,,
+Reputations
+Reserve Bank of Australia,
+Reserve Bank of India (RBI),,
+Reserve Banks
+Reserve Capital
+Reserve Primary Fund
+Resolution and Collection Bank, Japan
+Resona Bank, Japan
+Retail markets
+Review of Network Economics
+Rhineland investment vehicle
+Rhode Island fund failure
+Riegle-Neal Interstate Banking and Branching Efficiency Act US,
+Rijecka Banka
+Risk
+Risk Management Index (RMI)
+Risk-based regulation
+RiskMetrics,
+Romania,,,,,,
+Roosevelt, President Franklin D.,
+Rosengren, Eric S.,
+Rothschilds
+Royal Bank of Scotland (RBS),,,
+Rule model
+Russia
+Russia,,,,,,,,
+SBCS see small business credit scoring
+SBI see State Bank of India
+SCF see Survey of Consumer Finance
+SCP see structure-conduct performance
+SEE see South Eastern Europe
+SEIR see structured early intervention and resolution
+SIBS see systemically important banks
+SIBS, cross-county comparisons
+SIBs, cross-county comparisons,
+SIFIs initiatives,Tab..
+SIFIs see systematically important financial institutions
+SIVs see structured investment vehicles
+SMEs see small and medium enterprises
+SOCBs see state-owned commercial banks
+SOCBs,,,,,,
+SSM see single supervisory mechanism
+SWIFT message transfer network,
+Salomon Brothers,
+Sanctions
+Santandern,,
+Sapriza, Horacio,
+Sarkisyan, Anna,
+Saunders, Anthony,
+Savings and Loans (S&L) crisiss), US
+Savings and Loans institutions, US
+Sberbank, Russia
+Scandinavia,
+Scandinavias),
+Schumpeter, Joseph,,,,
+Schwartz, Anna
+Second Bank of the United States
+Second Banking Directive,,
+Second European Banking Directive,,
+SectionSubsidiaries,,,,,,
+Securities Investor Protection Corporation (SIPC) proceeding
+Securities and Exchange Law
+Security and Exchange Commission (SEC),
+Self-regulation
+Seoul summit
+Serbia,,,
+Settlements
+Shadow Financial Regulatory Committee, US
+Shadow banking
+Sharpe ratio model
+Sharpe, Bill
+Shinkin banks,,
+Shinsei Bank, Japan
+Shoko Chukin Bank, Japan
+Singapore,,
+Single Euro Payment Area initiative,
+Single European Insurance Passport
+Single European Insurance Passport,
+Single Market Program,
+Single Supervisory Mechanism (SSM), EU,,
+Slovakia,,,,
+Slovenia,,,
+Small Business Jobs Act US
+Small Business Lending Fund (SBLF), US
+Smith, Adam
+Societas Europaea
+Société Générale,,,
+Solvency II regulatory methodologies
+South Africa,,
+South African Standard Bank
+South Eastern Europe (SEE),,,,,,,
+South Korea
+South Sea Bubble
+South Sudan
+Soviet Union
+Spain:
+Special Credit Guarantee Program for Financial Stability
+Sri Lanka
+Stability see Financial stability
+Standard Bank, South Africa,
+Standard Chartered,
+Standardization
+Standardized Approach
+State Bank of India (SBI)
+State Bank of India Act
+State Street Corporation,
+State intervention
+Stiroh, Kevin J.,
+Structural prudential regulation
+Suffolk Bank, Boston, Massachusetts
+Suffolk system
+Sumitomo Mitsui
+Suntrust Bank, US
+Survey of Consumer Finance (SCF), US,
+Surveys of Consumer Finances
+Swedbank
+Sweden:
+Switzerland
+Systemic risk
+Systems see Financial systems
+TAF see Term Auction Facility
+TANKAN survey
+TARP see Troubled Asset Relief Program
+TBTF see too big to fail
+Take-overs
+Tanzania
+Target payment system, Europe,
+Targetsystem
+Tax Reform Act US,
+Taxation
+Taylor rule
+Temasek
+Tequila crisis Mexico,,,,
+Tequila crisis,,,
+Tequila, Mexico,,,,
+Term Securities Lending Facility
+Thailand,,,,,,,,
+Thakor, Anjan V.,
+Theories
+Thomson Financial Securities Data
+Tier,,,,,
+Time-series econometrics
+Tobin’s q-ratio,,
+Tokyo Kyowa
+Toronto summit
+Trading practices
+Transaction costs
+Transition Report,,
+Transparency
+Travellers merger with Citicorp
+Treasury Blueprint for a modernized structure
+Treating Customers Fairly initiative compared
+Troubled Asset Relief Program (TARP), US,,,,
+Trust
+Trust Indenture Act US
+Trust Preferred Securities
+Truth in Lending Act US,
+Turkey, deposit insurance
+Turner, Adair
+U.S. regulatory system
+UBS, Switzerland,,,
+UCB, Uganda
+UK
+UK Special Resolution Regime
+UK approach
+UK approach to ‘twin peaks’ supervision
+UK approaches
+UK equity market
+UK house prices
+UK market
+UK regulatory approach
+UK retail core services
+UK:
+US
+US (pre-s)
+US Blueprint
+US COB obligations of
+US COB obligations versus broker-dealers
+US Fig..
+US Office of Thrift Supervision (OTS),,
+US Steel
+US Treasury bill futures,n
+US Treasury securities
+US approach
+US bank culpability
+US deregulations)
+US guidelines
+US housing as cause of GFC
+US housing in
+US model,
+US objectives
+US reform White Paper
+US regulation
+US regulatory regime on
+US regulatory strategy
+US regulatory systems
+US response
+US retail investment market
+US securitization
+US see also Fannie Mae; FDIC; Federal Reserve; Freddie Mac; Ginnie Mae; Great Depression; individual banks; mortgages, residential; subprime crisis;
+US subsidization
+US treaty enforcement
+US,
+USs)
+Uchida, Hirofumi,
+Udell, Gregory F.,
+Uganda
+Ukraine,,,
+Unibanco, Brazil
+Unicredit Group,,
+United Kingdom
+United States
+Uruguay,,,,
+VLRTOs see Very Long Term Refinancing Operations
+VaR
+VaR models,,,
+VaR see value at risk
+Value-at-Risk (CoVaR) measure
+Velvet Divorce (Czechoslovakia),
+Venezuela
+Venezuela,
+Very Long Term Refinancing Operations (VLTROs)
+Vickers Commission (Independent Commission on Banking), UK,,,,,,,
+Vickers Commission,,,,,,,
+Vickers, Sir John
+Vienna Initiative (VI)
+Vietnam,
+Visa,,
+Vitter, Senator David
+Vneshtorgbank, Russia
+Volcker Rule, US,,,
+Volcker, Paul,
+WTO mechanisms
+Wachovia Bank,
+Wachtel, Paul,
+Walker, David
+Wall street crash
+Walras’ models of equilibria
+Washington Mutual, USn,,,,
+Washington summit,
+Weatherstone, Dennis
+Wells Fargo,,
+Whistleblowing
+White, Lawrence, J.,
+Wicker, Elmus
+Wicksell, K.,
+Williams, Jonathan,
+Williamson, O.
+Wilson, John O. S.,,
+World Bank
+World Bank Governance Indicators
+World Bank survey data
+World Bank,,,,,
+World Economic Outlook
+World Trade Organization (WTO)
+World Trade Organization (WTO), China’s entry
+Wu, Jason J.,
+X-efficiency,,
+X-inefficiency,,,
+Yugoslavia
+Yunus, Muhammad
+Z-score
+Zap m-system
+Zia, Bilal,
+Zimbabwe
+abandonment of ‘light-touch’ approach
+ability
+absence of a formal mechanism in finance
+absence of institutions and voice
+absence of relation between regulation and development
+accept
+accountability
+accountability,
+accounting relief
+accounting standards, proposed changes
+accounting studies
+accounting system
+achieves
+acquire
+acquired
+acquiring
+acquisition
+acquisitions
+act transactions
+acting
+action
+actions
+activities
+activities conducted
+activities of non-banks
+activity-based approach
+adequacy
+adjustable rate (ARM),,
+adjustable rate mortgages (ARMS),,,,
+adoption of collective-investment scheme
+advance
+advanced internal ratings-based (A-IRB) approach
+advanced measurement approach (AMA)
+advanced measurement approaches (AMA),
+advantages
+advantages and disadvantages
+adverse effects of fragmentation
+adverse selection,
+advertising expenditures Fig..
+advice
+advice to client
+affiliate transactions
+affordable
+after the GFC
+aftermath of thecrash
+aftermath,
+against good collateral
+agencies
+agency cost theories
+agency costs
+agency costsn
+agency mortgage REITS
+agency problems
+agency securities
+agency theory of disclosure
+agent banking
+aggregate development in international comparison, Fig.. Fig.. Fig..
+aggregate shocks
+aggregate,,,,,,,,,
+agreement to repurchase
+algorithmic trading
+allocation of cash flows
+allocation of credit
+allocationFig..
+altering incentives
+alternating
+alternative approaches compared
+alternative approaches to regulation
+alternative regulatory strategies
+alternative strategies
+amakudari practice Japann
+amortization,,
+amount
+amounts
+analysis
+anchoring and adjustment
+ancient Rome and Greece,
+and Asian financial crisis
+and Bank of England,,
+and Basel I
+and Basel III
+and CEO compensation
+and Central Bank
+and Cyprus crisis
+and European banking,Tab..
+and European capital markets
+and European integration
+and G-SIBS
+and G-SIBs
+and GFC
+and GFC,,,
+and IPOs
+and Japanese banks
+and LOLR liquidity injections, Tab..
+and LOLR policy
+and Latin America
+and Latin America,
+and Lehman Brothers
+and Maastricht Treaty
+and Northern Rock crisis
+and OLA
+and Societas Europaea
+and TBTF
+and TBTF policy
+and US banking structure
+and US interstate banking
+and VaR models
+and adverse selection
+and adverse selection,
+and asset prices
+and asymmetric information
+and asymmetric information,,
+and bank board diversity
+and bank closure policy
+and bank conduct
+and bank consolidation,,
+and bank failures
+and bank financial strength rating (BFSR)
+and bank lending in Asia,, Tab. A. Tab. A.
+and bank liabilities
+and bank ownership
+and bank runs
+and bank runs,,
+and bank strategy
+and banking crises
+and banking instability
+and banking risk
+and banking shocks
+and bankruptcy-remote structures
+and bonus payments
+and capital requirements
+and capital requirements,
+and central banks
+and central banks,,
+and collateralized debt obligations (CDOs)
+and competition
+and competitive dynamics
+and competitive structures
+and competitiveness
+and complexity
+and complexity (G-SIBS/SIFIs),Tab..Fig..
+and conduct
+and conflicts of interest
+and consumer lending
+and contagion
+and convertibility
+and corporate complexity
+and corporate structures
+and costs and G-SIBS
+and credit channels
+and credit constraints
+and credit crunch
+and credit default swaps
+and credit default swaps (CDSs),
+and credit rating agencies
+and credit supply
+and creditworthiness,
+and debt default
+and deposit insurance
+and deposit insurance,
+and deposit insurance,,,
+and deposit rates
+and derivative markets
+and distance
+and diversification
+and doubts about financial innovation
+and economic downturns
+and economic efficiency
+and excessive lending
+and finance
+and financial and economic growth
+and financial crises,
+and financial innovation
+and financial innovation,,
+and financial market stability
+and financial stability
+and financial stability and development
+and financial stability,Fig..
+and firewalls in the financial sector
+and foreclosures,
+and forms of compensation
+and fraud
+and global games theory
+and government ownership
+and government ownership of banks
+and government policies
+and growth
+and hedging transactions
+and herding
+and information technology
+and information-sharing
+and insider trading
+and insolvency complexity
+and instalment payments
+and interest rate fluctuations
+and interest retention
+and international bank acquisitions
+and large, diversified firms
+and lending
+and liquidity
+and liquidity freeze
+and liquidity requirements,
+and liquidity,,,
+and loan rates,
+and macroprudential regulation,
+and market discipline
+and market discipline,
+and market power,
+and market signals
+and market structure
+and mismanagement
+and monetary policy
+and moral hazard
+and moral hazard behaviour
+and mortgage-based securities (MBSs),
+and non-bank institutions
+and non-traditional activities
+and optimal capital regulation
+and performance
+and product market diversification
+and protected banks
+and public policy
+and recapitalization
+and regulation
+and residential mortgages,Fig..
+and risk
+and risk management
+and risk sharing
+and risk,
+and risk-based bank capital requirements
+and risk-based capital ratio (RBCR)
+and risk-measurement tools
+and risk-taking
+and risk-weighted assets (RWA),
+and rogue traders
+and safety nets,,
+and safety nets,,,
+and scale economies
+and securitization
+and securitization,,,,
+and shadow banking
+and shadow banks
+and shareholder-oriented governance
+and shareholder-oriented governance,
+and small business lending,,,
+and small/large banks
+and sovereign debt crises
+and sovereign debt crisis,
+and sovereign debt crisis,,
+and sovereign debt crisis,,,,
+and sovereign debtn
+and sovereign stress
+and special purpose vehicles (SPVs)
+and state-owned banks
+and strengthening supervision
+and subsidiary banks
+and systemic risk
+and systemic risk in banking
+and tax havens
+and tax revenues
+and technology
+and technology,,,
+and the European banking union
+and the GFC
+and the GFC,
+and the Great Depression
+and the bankruptcy process
+and the complexity of CDOs
+and the shadow banking system
+and traditional OTH banking
+and transition countries
+and universal banks
+and ‘TBTF’ institutions,,
+annual
+annual gross revenues derived
+anti-predatory regulation
+antitrust
+applicant
+application
+appraisals
+approach to risk
+appropriate level of detail
+appropriate level of regulation
+as LOLR,,,,,,
+as a result of banking crises
+as barrier to international bank mergers
+as financial assets, Fig.. Fig..
+as financial weapons of mass destruction
+as gatekeepers
+as global public good
+as information-processing intermediaries
+as lenders of last resort
+as liquidity creators,
+as multilateral clearing systems
+as objective in its own right
+as protected investors
+as public policy
+as well-informed investors or consumers
+as ‘bankers’ banks,
+as ‘market for lemons’
+ascendancy in policy circles
+ascendancy of objectives supervision
+assessment
+asset
+asset backed security
+asset convexity
+asset correlation,
+asset distribution Tab..
+asset quality indicatorsTab..
+asset quality review (AQR)
+asset selection
+asset support,
+asset-backed commercial paper (ABCP),,,,,,,,,,
+asset-backed commercial paper money market mutual fund liquidity facility
+asset-backed securities (ABSs),,,,,,,,,,,,
+asset-based
+asset-based lending
+asset-based lending (ABL)
+asset-price meltdowns
+asset-price volatility,
+asset-value correlation
+asset-value correlation (AVC)
+assets
+assets, weakened portfolios
+association with banks
+association with innovation
+assuring
+asymmetric information,
+asymmetric information,,,,,,,
+asymptotic-single-risk-factor (ASRF) framework
+asymptotically fine-grained,
+audited financial statements
+auditors
+automated clearing houses
+automated clearinghouses (ACH),
+automated credit bureaus
+automated teller machines (ATMs),,,,,,,
+availability
+availability of data
+available
+available stable funding
+avoid
+avoid duplication
+avoids
+back end ratio
+back-up
+backup
+bad loans
+badn
+bail-ins
+bailout
+bailouts
+bailouts and bankruptcy
+bailouts,,,,,,
+balance-sheet management
+balloon payments
+bank advertising expenditure fig..
+bank assets
+bank bailouts
+bank boards
+bank boards see boards of directors
+bank branch extension
+bank capital
+bank capital and liquidity creation,
+bank capital regulation
+bank capital regulations
+bank capital requirements
+bank competition policies
+bank distress,
+bank distress:
+bank failures
+bank financial ratios Tab..
+bank financial strength rating (BFSR)
+bank funding
+bank holding companies (BHCs),,,,
+bank insolvencies
+bank lending channel
+bank loans outstanding Fig..
+bank ownership
+bank panics,
+bank performance
+bank performance measurement
+bank profitability
+bank restricting
+bank restructuring
+bank runs,,,,,,,,,,,
+bank size distribution Fig..
+bank types, Fig.. Tab..
+bank-based/market-based financial systems
+bank-borrower relationship
+bank-borrower relationship ‘life span’,
+bank-level evidence, Tab.. Tab..
+bank-specific factors
+banking and real economic activity
+banking collapse
+banking crises
+banking crises, aggregate fluctuation and lending booms evidence
+banking crisis causes
+banking crisis effects
+banking crisis,
+banking crisiss)
+banking evolution of
+banking governance rules and codes
+banking in a post-crisis world
+banking in the financial crisis
+banking industry structure,
+banking innovation and technical change
+banking integration
+banking outlook
+banking panic distinguished
+banking problems (early s)
+banking reforms
+banking staff numbers
+banking strategies
+banking system,
+banking:
+bankruptcy code
+bankruptcy complexity
+bankruptcy costs
+bankruptcy laws,,,,
+banks
+banks and SOEs,
+banks and banking
+banks and industry dynamics in product
+banks as intermediaries
+banks as providers of
+banks as ‘special’
+banks-markets integration
+banks:
+banks’ culpability for the financial crisis
+banks’ investment operations pre-Glass-Steagall Act
+barriers and misuse of power
+basic characteristic of US regulatory system
+basic characteristics of US regulatory system
+basic characteristics of regulatory system
+basis of financial system
+basis of the CFTC’s regulatory approach
+became
+begin
+beginnings of change
+behavioural analysis
+behavioural and psychological research
+behavioural biases
+benchmarking the banking system, Fig..
+benefits
+benefits and risks
+benefits and risks of securitization
+benefits of universal banking
+bi-partisan approach
+bifurcated regime
+bilateral credit relationships
+binding force of legal rules,
+board of governors
+board of trade
+boards of directors:
+bold new approach
+bona fide
+bona fide market-making
+bonuses, Fig..
+boom and bust
+boom-bust credit cycles,
+borrower solvency theory of default
+borrowing
+branch
+branch banking
+branching and penetration,,
+branching deregulation,,
+branching,,,
+breaking the feedback loop
+broad credit channel
+business
+business conduct regulation
+business conduct rules
+business cycles:
+businesses
+by continent Tab..
+by year Fig...
+calendar year
+calendar year preceding
+calls for reform
+capabilities
+capacity
+capital
+capital co-efficientsTab..
+capital controls
+capital liability structures
+capital market funding
+capital market theory
+capital regulation
+capital regulation framework
+capital requirements
+capital requirements directive (CRD) IV
+capital requirements, Tab..Tab..
+capital requirements,,
+capital requirements,,,
+capital standards, Tab..
+capital structure in performance equations
+capital structure of commercial banks
+capital-to-assets ratiosTab..
+capitalization of investment banking
+capitalized
+card pricing
+carries out
+carry out
+cash bonuses, Fig..
+cash reserve requirements,
+cash reserve requirements,Fig..
+cash-asset reserves
+category
+causality debate
+cause of bank bailouts
+cause of systemic risk
+cause ofcredit crunch
+causes
+causes of
+causes of market failure
+causes of systemic risk
+causes of the GFC
+cease
+central banks
+central banks as,,,,,,
+central banks, impact on
+centralization
+centralization of derivatives trading
+centralization of payment systems
+centralization of payments
+certificates,
+chairman
+challenge to pre-existing conceptions
+challenges facing regulators
+challenges of a renewed doctrine
+change
+change from micro-to macro-prudential approach
+change in role as intermediaries
+changes in way subject tackled
+charge
+charter value
+chartered
+checks (cheques),,,,
+chip and pin
+city banks
+civil litigation
+class
+classification
+clearing systems
+click-and-mortar model
+client categorization
+close-out netting
+coercion behind the new system
+coexisting general law obligations
+cognate scholarship
+cognitive error
+cognitive heuristics
+cointegrated vector autoregression (CVAR)
+collateral principle,
+collateral requirements
+collateral, criteria for
+collateralized debt obligations (CDOs),,,
+collateralized loan obligations (CLOs),,
+collateralized mortgage obligations (CMOs)
+collect
+collusive behaviour among banks
+combined loan-to-value (CLTV) ratios
+coming under strain
+commence
+commencing
+comments on regulatory responses
+comments on responses
+commercial
+commercial bank charters Fig..
+commercial bank charters, US Fig..
+commercial bank clearing houses (CBCs), as lenders of last resort
+commercial bank numbers, Fig..
+commercial firm
+commercial firms
+commercial paper (CP),,,
+commercial vs. universal banking
+commitment savings devices
+commitment to close regulatory gaps
+commitments,,,,,,,
+committee
+committee on banking, housing, and urban affairs
+committee on financial services
+commodities
+commodity
+commodity trading adviser
+common ‘evolutionary’ perspective
+community banks,,,,,,
+community banks,,,,,,,,,
+community,,,,,,,,,
+companies
+compensation
+compensation guidelines
+compensation in banking
+competency
+competing hazards model
+competition
+competition and risk
+competition,
+competition-fragility
+complex and self-contradictory strategy
+complex factors shaping regulation
+complex frameworks
+compliance strategies
+compliance with the TCF requirements
+comprehensive Risk Measure (CRM)
+comptroller general
+comptroller general of the united states
+comptroller of the currency
+concentrated
+concentration
+concept of
+conceptual framework
+conceptual framework of EU
+concerns
+concerns for long-term interests
+conditions
+conduct and strategy
+conduct of
+conduct of business regulation
+conduct which raises market concerns
+conducted
+conducting
+conduit sales
+confidence
+confidentiality
+conflict between micro-and macro-regulatory objectives
+conflict with macro-regulatory objectives
+conflict with micro-regulatory objectives
+conflicting incentives for
+conflicting supervisory
+conflicts
+conflicts in clearing and settlement requirements
+conflicts of interest
+conforming loan limit
+congress
+conjectural-variations method
+consensus-based system
+consequence of insolvency
+consolidated
+consolidation
+consolidation and small business lending,,
+consolidation effects
+consolidation,,
+consolidation,,,
+constraints on negative information
+constraints,,
+constructive ambiguity,,
+consult
+consultation
+consumer biases
+consumer credit costs, lowered by securitization
+consumer lending
+consumer lending restrictions
+consumer protection
+consumer protection,,
+consummation
+contagion
+contagion (CoVaR)
+contagion evidence
+contagion vs. fundamental views
+contagion,,,,,
+contestability and efficiency
+contestability,
+contingent capital
+continue
+continuous linked settlement (CLS) banks
+contract features, Fig..
+control of systemic risk
+control of systemic risk within EU
+control within EU
+controlled
+controlling
+controversy over
+convenience
+convertible
+convexity, Fig..
+coordinate
+coordination
+core deposits
+core function
+core prudential requirements
+cornerstone of regulatory reform
+corporate
+corporate assets and liabilitiesTab..
+corporate bonds
+corporate complexity and safety of the financial system
+corporate complexity preferences
+corporate debt
+corporate governance
+corporate governance (banks)
+corporate governance,
+corporate structures
+corporate structures and tax
+corporate structures, and tax
+corporate tax, and financial stability
+cost and availability of funding
+cost minimization
+costs
+costs and funding
+costs of,
+council
+counterfactual mergers
+countries insolvency frameworks, Tab..
+countries represented
+country
+covenants, restrictive
+coverage
+cream-skimming by foreign banks
+creation
+creation of an SPV
+creation of internal market and harmonization
+creation of moral hazard
+credit availability,
+credit availability, effects of consolidation on small business
+credit boom analysis
+credit boom/financial crises relationship
+credit booms
+credit booms and unravelling of imbalances
+credit bureaus
+credit card,,,,
+credit cards,,,,,,,,,,,,,,,,,,
+credit cooperatives
+credit crunch
+credit crunches,,,,,,
+credit default swaps (CDSs)
+credit derivatives market,, Fig..
+credit derivatives, market risk management, Fig..
+credit enhancements, Fig..
+credit growth,
+credit guarantee schemes
+credit information,,
+credit intermediation
+credit intermediation chain,, Fig..
+credit lines,,,,,,
+credit market frictions
+credit migration matrix
+credit protection
+credit rating agencies (CRAs),,,,,,,
+credit rating organizations (CROs)
+credit ratings agencies (CRAs)
+credit rationing
+credit rationing,,,,,,,,
+credit registries,
+credit risk transfer (CRT)
+credit risk transfer,,n
+credit risk,,,,,,,
+credit scores Fig..
+credit scoring and evaluation
+credit scoring,,
+credit scoring,,,
+credit unions,,,
+credit-allocation schemes,,,
+credit-exposure decision
+credit/debit card interchange fees
+creditor representation
+creditor rights
+crises see financial/banking crises; regulation-induced banking crisis; sovereign
+crisis
+crisis management
+crisis management and resolution
+crisis, US
+crisis-era imposition of infrastructures
+crisis-era reforms
+crisis; subprime crisis
+criteria
+cross border, EU example
+cross-border cooperation
+cross-border crisis in s,
+cross-border effects of Great Crash
+cross-border legal issues, Tab..
+cross-border mergers see international bank mergers
+cross-border regulation
+cross-marketing
+culture
+cumulative abnormal return (CAR) model
+currency deposit conversion
+current LPVS issues of wholesale payments
+current approach to regulation
+current separation models
+current threats
+current trends
+current trends,
+customer concerns about conflicts of interest
+cyclical downturns,,
+cyclical movement
+dark pools
+dark side
+data
+data-coding
+date
+daylight credit,
+de Bandt, Olivier,
+de Carvalho, Fernando J. Cardim de,
+de Gaulle, Charles
+de Larosière, Jacques
+de Paula, Luiz Fernando,
+debit cards,,,,,
+debt
+debt crisis; subprime crisis
+debt liabilities
+debt,,,,
+debt-based
+debt-based compensation
+decision-making
+declaration
+default risk and credit supply
+default risk models of credit supply,
+default view of financial economics
+deferred net settlement (DNS) systems,,
+defined
+defined,
+defining and measuring
+defining characteristics
+defining characteristics of institutional supervision
+definition
+deglobalization of finance
+delegated monitoring
+delegation under Havana Charter
+delivery
+delivery vs. payment (DVP),
+demand
+demand for
+demand stimulation
+demand-deposit contracts
+demandable deposits
+deposit
+deposit flows
+deposit funding over time, Fig..
+deposit insurance
+deposit insurance issues in post- crisis world
+deposit insurance monitoring,,
+deposit insurance schemes
+deposit insurance schemes,
+deposit insurance,,,,,,,,
+deposit markets
+deposit-guarantee schemes,
+deposit/GDP levels,
+depositor
+depository institutions,
+deregulation
+deregulation and entrepreneurship,
+deregulation,
+deregulation,,,,,
+derivatives markets
+derivatives,,,
+design challenge
+design challenge for retail regulation
+design challenges,
+desupervision
+determinants,
+determining
+devaluations and defaults
+developing countries
+developing countries and debt default
+development of ARROW
+development of banking
+development of cross-border supervision
+development of institutions
+development of internal financial market
+development of international regulation
+development of original hypothesis
+development policy
+dialectics of, Fig..
+difference between banks and non-financial firms, Fig..
+differences in structure,Tab..
+difficult and evolving concept
+diffusion of TCF
+direct
+direct exposures between financial institutions
+direct influence,,,
+direct vs. indirect pricing
+disadvantages
+disaggregation of banks
+disaster myopia
+disclosure
+disclosure in financial markets
+disclosure practices
+disclosure regulation
+discount window
+discount window,,,,,,,,,,,
+discount windows,,,,,,,,,,,,,,,,,,
+discounts
+discrete choice models,
+diseconomies of scale,,,,,
+diseconomies of scope
+disintermediation
+dispersal of share ownership
+dispose
+dispute resolution
+disruptions
+distinctive challenges
+distinctive features
+distinguishing between insolent and illiquid banks
+distinguishing feature of bank failures
+distinguishing features
+distortion of funding costs
+distortion of markets
+distress predictions
+distressed financial institutions
+distribution
+distribution regulation
+divergence of interest between creditors and shareholders
+divergent conduct rules
+diversification
+diversification and scale economies
+diversification,,
+diversifying
+diversity
+diversity in the boardroom
+dividend
+dividends
+doctrines
+domain-specific nature
+domestic
+domestic credit, Tab..
+domestic/foreign-owned bank efficiency
+domino effect and contagion
+domino effect approach
+double taxation
+dualist monetary systems
+duplication
+duties to the community
+duty of care
+duty of conscientious representation
+duty of efficient operation
+duty of loyalty
+duty of prompt corrective action
+duty of vision
+dynamic
+dynamic provisioning
+dynamic regulation
+e-money,n,
+early banking houses
+early studies
+early work by Fama
+economic and other justifications
+economic and social purpose
+economic benefits
+economic capital management
+economic crisis
+economic growth
+economic importance
+economic policies, liberalization of
+economic role
+economies of scale,,,,,,,
+economies of scope,,
+economy
+effect of GFC
+effect of competition
+effect of financial innovation
+effect of fractured regulatory enterprise
+effect of fraud
+effect of higher capital requirements
+effect of lack of competition
+effect of payment systems
+effect of public sanctions
+effect of single market
+effect of structural reform
+effect of trust-building diplomacy
+effect of trust-building diplomacy for international regulation
+effect on bank loan supply
+effect on banking activity
+effect on interest rates
+effect on monetary policy
+effect on reputation of gatekeepers
+effective date
+effectiveness
+effectiveness of oversight
+effectiveness of reforms
+effectiveness of regulation
+effects
+effects of bank capital on rates
+effects of corporate governance
+effects of cross-border bank acquisitions
+effects of financial crises
+effects of higher capital requirements
+effects of liquidity injection
+effects of securitization and
+effects of sudden re-capitalization
+effects on bank output
+efficiency
+efficiency and competition effects
+efficiency and efficacy concerns
+efficiency compared with domestic banks
+efficiency:
+efficient capital market hypothesis (ECMH)
+efficient market hypothesis (EMH),
+efficient vs. self-fulfilling events
+efficient-structure hypothesis
+electronic funds transfer at the point of sale (EFTPOS)
+electronic payments,
+electronic,
+eliminate
+emergence as major force
+emergence of
+emergence of banking
+emergence of behavioural economics
+emergence of new methods post financial crisis
+emergence of new theories post financial crisis
+emergency liquidity assistance
+emergency liquidity assistance (ELA),
+emerging market and developing economies (EMDEs)
+emerging markets
+emerging themes
+empirical evidence
+employee
+encouragement of desirable activities
+endogeneity,,,,,,
+endogenous risk
+endogenous to financial cycle
+enforcement
+enforcement and effectiveness
+enforcement cooperation
+enforcement role
+enforcement tools
+enforcement trends
+enforcement,
+engage
+engaging
+ensures
+enterprise access to finance in international comparison, Fig..
+enterprise-contributed net worth
+entities
+entity
+equilibria,,,,,,,,,,,
+equity
+equity and private equity firms,
+equity funding
+equity market
+equity markets
+equity-based
+equity-based compensation
+erosion of
+eruption of financial-market turmoil
+ethical perspective
+ethics of
+euro crisis see sovereign debt crises
+evasion and avoidance, EU
+event studies
+events and crises
+evidence
+evidence on
+evolution
+evolution of US schemes prior to GFC
+evolution of research, Fig..
+evolution ofTab..
+evolutionary models
+evolutionary models of market efficiency
+evolving regulatory landscape
+ex ante influence
+ex ante planning
+ex post influence
+examinations
+examine
+examples of models in use
+exceed
+exception to general trend
+exchange
+exchange rate collapse
+exchange rate pegs
+exchange ratio
+exclusion and non-citizenship
+exculpatory norms in
+exercise
+exercising
+existing
+existing reports
+expansion of activities
+expansive tendency
+expense
+experience-based shortcuts to decision-making
+explanation
+exploitive
+exposure at default (EAD),
+exposure of gaps in international regulation
+extension of OLA regime
+extent
+extent of problem
+externalities
+externally
+extreme-value theory
+extreme-value theory (EVT)
+extreme-value theory (EVT),
+facilitating access
+facility
+failure of Basel II or III to address
+failure of accountability
+failures
+fair treatment
+fall-out from Asian crisis of
+fallout
+farm credit system
+fatal blow to transatlantic financial system
+federal
+federal insurance office
+fee
+fee structure
+feedback loops,,
+female and part-time bank staff
+fiat monetary systems,
+fiduciary
+final
+finance and growth
+finance, income distribution and poverty, evidence
+financial
+financial and banking crises,
+financial assets by holder Fig..
+financial assetsTab..
+financial collateral and termination provisions
+financial condition
+financial contagion see contagion
+financial crisis
+financial crisis,,,,,
+financial depth,
+financial deregulation
+financial distress, costs of,
+financial firms
+financial fragility hypothesis
+financial fragility see fragility
+financial futures and forwards
+financial futures and forwards risk management
+financial holding companies (FHCs),,
+financial inclusion and the ‘unbanked’
+financial industry consolidation dynamics Tab..
+financial innovation
+financial innovation and securitization
+financial innovation,
+financial innovations
+financial intermediation theory
+financial leverage
+financial linkages, and contagion,
+financial literacy
+financial market infrastructures (FMIs)
+financial markets in non-equilibrium state
+financial markets:
+financial options
+financial options:
+financial penetration, Tab.. Tab..
+financial policy evolution
+financial ratios Tab..
+financial stability
+financial stability as global public good
+financial stability,
+financial stability:
+financial statement lending
+financial statements
+financial systems,Fig..Fig..
+financial underdevelopment
+financial-services liberalization and integration in Europe
+financialization
+financialization and capital allocation efficiency
+financing structure,Fig..Fig..
+fire sales
+fire sales,,
+fire-sale contagion
+firewalls in the financial sector
+firm and product risk
+first decade of transition Tab..
+first generation EU integration
+first generation distress resolution mechanisms
+first-generation integration
+five stages of Fig..
+fixed costs
+fixed rate (FRM),,
+fixed rate mortgages (FRMs),,
+fixed-asset lending,
+flawed uses of innovation
+focus of modern regulation
+focus on conduct issues
+follow-your-customer strategy
+following economic booms
+foreclosure,,,
+foreclosure,,,,
+foreign bank penetration,,,,,,
+foreign banks
+foreign banks,,,
+foreign currency liabilities
+foreign direct investment (FDI)
+foreign direct investment (FDI),,
+foreign ownership,,,,,,,
+foreign ownership,,,,,,,,
+foreign tax credit
+foreign,,,,,
+formal model
+formation
+forward contracts see also swaps
+forward guidance
+foundation internal rating-based approach (F-IRB)
+fragile banks, as liquidity providers
+fragility
+fragility:
+framework
+framing effects
+fraud
+free banking,
+frequency
+frequency of,
+from deterrence to compliance
+fullest
+function of
+functional substitute for the separate corporate personality
+functionally regulated subsidiaries
+functions of
+fund structure and funding
+funding fragilities
+funding of distress resolution
+funding of resolution
+funding opportunities and globalization
+funding opportunities and securitization
+funding over time, Fig..
+funding technologies
+funds market
+future prospects
+futures,
+fuzziness in practice
+gains and losses resulting
+gatekeeper role
+gatekeepers
+general focus from middle of twentieth century
+general focus on equilibria from middle of twentieth century
+geographic diversification
+geographic diversification,,,,
+geographic expansion
+geographic,,
+giro credit transfers,,,
+global branch structures
+global characterization,
+global financial crisis (GFC,,,,,,,,,,,,,,,,,
+global games approaches,,
+global games theory
+global impact
+global systemically important banks (G-SIBs)
+globalization
+globalizationn,,,
+goals
+gold exchange standard
+gold standard,,
+goods
+governance
+governance requirements
+governance see corporate governance
+governance theory
+government assets and liabilitiesTab..
+government guarantee programs in lending
+government intervention
+government key roles
+government ownership of financial institutions
+government ownership,,,,,,,,
+government-banking sector partnership
+government-sponsored enterprises (GSEs),,,,,,
+governments as
+grandfathered
+gridlock equilibrium
+gross revenues
+gross settlement see real-time gross settlement
+group
+growth of consumer lending
+growth,
+hard and soft,,,,
+hard information,,,
+harmonization within EU
+hausbank system
+hausbank system, Germany
+health
+hedge funds,,,n,,,,,,,,,
+hedging,,,,,,
+held
+herd effect,
+heterogeneity and dollarization, Tab..
+hierarchy or co-existence
+high frequency trading
+high growth era
+high interest rates and credit
+high leverage role
+high-frequency trading
+high-frequency trading (HFT)
+high-frequency trading (HFT) and dark pools
+high-quality liquid assets (HQLA),
+higher-risk investment strategies
+highly liquid assets
+historical background
+historical record
+historical securitization issuance,Tab..
+history and development
+history and development of cross-border regulation
+history and development of market access and licensing
+history and development,
+holding companies
+holding company
+holdings
+holdings connections,
+holds
+home
+home owners
+house of representatives
+household access to finance in international comparison
+household assets and liabilitiesTab..
+household assets,Fig..
+household credit
+household financial needs
+households
+housing
+housing bubble,,,
+housing market post-GFC
+housing market,,,,
+housing policy as cause of GFC
+housing subsidies
+human
+human capital
+hybrid
+hybrid mortgages
+identify
+idiosyncratic risk,,,,,
+idiosyncratic,,,,
+illiquid
+illiquidity view
+illiquidity view of contagion
+illiquidity:
+illustration of integration failure
+illustrations of integration failure
+illustrative examples
+impact in Asia,
+impact of GFC
+impact of GFC, Tab..
+impact of MiFID
+impact of Second European Banking Directive on competition
+impact of cross-border crisis in s,
+impact of deregulation on market structure
+impact of different outcomes
+impact of failure on externalities
+impact of financial crises
+impact of financial crises on policy
+impact of financial innovation
+impact of foreign entry
+impact of general financial reforms
+impact of securitization
+impact of securitization on renegotiation
+impact of various crises
+impact on bank funding costs
+impact on bank governance
+impact on consumer protection
+impact on financial services industry
+impact on financial stability
+impact on policy
+impact on private banking
+impact on securitization markets
+implementation progress Tab..
+importance
+importance in international finance
+importance of bank capital
+importance of bank capital,
+importance of banking
+importance of banks
+importance of investor protection
+importance of mandates
+importance of risk
+importance to institutional design
+importance,
+improvements
+in US civil war
+in US panics
+in a post-crisis world
+in concert
+in the post-crisis eraTab..
+in wholesale payments
+inadequacy at time of GFC
+inadequacy of bank capital
+inadequate constraining factor
+inadequate disciplinary role
+incentive conflicts
+incentive structures
+incentive systems
+incentive-compatible regulation
+incidental
+include
+income distribution and poverty
+incorporated
+increase in capital requirements,,,,
+increase in cash reserves
+increase in credit supply
+increased pressure, US
+independent
+index of banking reform
+indicative list of activities
+indirect
+indirect influence,,,
+industrial
+industrial development and human capital
+industrial development, and universal banking
+industrial loan companies
+industry dynamics in product markets
+industry financing,
+industry structure,
+inefficient
+inflation rates Tab..
+inflation targeting,,
+inflation, post-transition
+influence on competition
+influence on policy
+inform
+informal public enforcement
+informal sector
+information as public good
+information asymmetries
+information asymmetries see asymmetrical information
+information asymmetry
+information costs
+information disclosure
+information infrastructures
+information technology (IT),,,,,,,
+information-sharing and competition
+information-sharing, and competition
+informational cascades
+initial
+initial public offerings (IPOs)
+initial public offerings (IPOs),,
+injection as LOLR,,Tab..
+innovation in LOLR
+innovation in composition of money
+innovation, Africa
+innovative process
+inputs to the risk-weight formula
+inquiry into credit bureau fees
+inside and outside the board of directors
+inside debt
+insider trading
+insolvency
+insolvency frameworks among countries,Tab..
+insolvency risk,,,,,,
+insolvency,
+insolvent
+inspection
+inspections
+instalment credit
+institutional arrangements
+institutional design
+institutional regulation
+institutional restructuring
+institutional structure and growth
+institutional uncertainty
+institutionalization
+instrument development
+instruments
+insurance
+insurance and preparations for Solvency II
+insurance as private contract
+insurance funding
+insurance regulation,,,
+insurer
+insurers
+integrated regulation
+integrated supervision
+intended scope
+intensification of concerns
+intent
+interaction with capital requirements
+interaction with emerging financial markets
+interaction with liquidity requirements
+interactions of retail depositors
+interbank connections,,
+interbank credit lines,
+interbank deposits,,,,,,
+interbank lending
+interbank lending exposures
+interbank market
+interbank markets
+interbank payment systems
+interbank wholesale funding,
+interchange fees
+interchange fees,
+interest margins,,,,,
+interest rate
+interest rate margins
+interest rate spreads
+interest rate spreads Tab..
+interest rate spreads, Tab..
+interest rate, or money, view
+interest rates,,,
+interest-bearing transaction
+interested parties
+interlocks
+intermediaries
+intermediary leverage cycles
+intermediate
+intermediate holding company
+intermediated finance,,
+intermediated loans,
+intermediation
+intermediation chain,,Fig..
+internal financial
+internal governance arrangements
+internal-rating-based (IBR) approaches,
+international
+international and US developments
+international bank acquisitions
+international bank mergers
+international comparisons
+international enforcement
+international perspectives
+international principles
+international regulation
+international regulatory systems
+interplay between
+interpretations
+interstate
+interstate acquisitions
+interstate regulation,
+intertemporal smoothing
+intertemporal smoothing by banks
+intertemporal smoothing of risks
+intertemporal tax subsidy schemes
+interventionist approach
+inth century
+inth century,,
+investment
+investment activities
+investment in management information systems
+investment restrictions
+investment restrictions on banks
+investment-consumption framework
+investments
+investor empowerment
+investor euphoria
+investor protection
+investors and consumers for everyday life
+involve
+involvement in regulatory role
+irresistible impetus for regulation
+issuance of asset-backed securities
+joint
+judgement lending,
+judicial activism
+jumbo
+jurisdiction
+jurisdictional and extraterritorial enforcement
+keiretsu,
+key aspect of FSA approach
+key currency
+key distinguishing features
+key intervention ratesFig..
+key objectives of regulation
+key part of accountability framework
+key part of financial system
+key role
+key signal for panic
+laissez-faire approach
+laissez-faire/interventionist approach to financial regulation
+large banks
+large financial firms
+large vs. small banks,,
+large-value payment systems (LVPSs),,,,,,
+largest US-owned Tab..
+largest in the world Tab..
+late twentieth century
+launch of new system
+law of reflux
+law of reflux,
+laws preventing consolidation and branching
+lazy bank hypothesis
+lead regulator model
+lease
+leasing, lending technology,
+least cost resolution (LCR)
+legacy
+legacy of mergers and acquisitions
+legal and information structure
+legal frameworks
+legitimacy
+lender of last resort (LOLR),,,,.,
+lending
+lending and the transmission of monetary policy, non-US evidence
+lending booms,,,,
+lending distance,,
+lending during the GFC,, Tab. A. Tab. A.
+lending function
+lending rates
+lending role for the transmission of monetary policy
+lending securitization and capital market funding
+lending technologies,
+lending to enterprises
+lending to households
+lessons from GFC
+lessons learnt
+leverage cycles
+leveraged buyout (LBO) market
+leveraged finance
+leximetrics
+liabilities
+liar loans
+liberalization of economic policies
+liberalization reforms,,,,,
+liberalization tensions
+liberalization, development and the sequencing of reforms
+lifecycle dynamics
+limbo loans and the GFC
+limitations
+limits and drawbacks
+link betweenCrash and the s debt crisis
+link with compliance strategies
+liquid demand deposits,,
+liquid liabilities/GDP levels,
+liquidity
+liquidity and other risks of wholesale payments
+liquidity coverage ration see LCR
+liquidity creation and regulation
+liquidity creation and regulation, fragile banks
+liquidity creation,,,,
+liquidity crises,,,
+liquidity crunch
+liquidity injection,,Tab..
+liquidity mismatch index (LMI)
+liquidity pressures
+liquidity requirements
+liquidity risk and creation
+liquidity risk,,,,,,,
+liquidity runs
+liquidity savings mechanisms and wholesale payments
+liquidity shocks
+liquidity shocks,,,,,,,,,,,,,,,
+liquidity,
+liquidity,,,
+litigation risk
+living wills
+living willsn,,,,,,
+loan
+loan commitments,
+loan market
+loan markets
+loan rates
+loan sales,,
+loan supply, effect of monetary policy on
+loan supply, effect of shifts in
+loan to value ratio (LTV)
+loan to value ratio (LTV),
+loan-supply curve
+loans:
+local
+local contagion
+local deposit markets
+local loan markets
+local loan markets,
+local markets
+located
+locations
+long-term credit banks
+long-term finance agenda
+loopholes,
+loss-given default (LGD),
+low priority to prudential issues
+low quality,
+low-income
+lower cost options hedges
+lower-risk investment strategies
+macro-prudential approach
+macro-prudential reform of Basel III
+macro-prudential regulation
+macro-prudential regulation,
+macro-prudential supervision
+macro-prudential tools
+macro-regulation
+macro-regulation of banks
+macroeconomic factors
+macroeconomic fluctuations
+macroeconomic fragility
+macroprudential policies,,,,,,,,
+macroprudential policymaking
+macroprudential,,
+main
+main bank system, Japan,,,
+main bank system,,,
+main function
+main purpose
+main supervisory models
+major events Fig..
+making financial institutions more sophisticated
+managed
+management
+management issues
+management of systemic risk
+management-based regulation
+managerial ownership,
+managerial utility maximization
+managerial utility maximization model,n,,,,
+managers vs. shareholders
+managers’ adversity
+mandatory arbitration clauses, use of
+mandatory central clearing
+mandatory disclosure
+mandatory disclosure,
+market abuse
+market concentration and competition effects
+market concentration and competition effects,Tab..Tab..
+market contestability,
+market discipline (Pillar
+market discipline,,,,
+market efficiency
+market efficiency within EU
+market fragmentation
+market integration
+market integrity
+market interaction
+market manipulation
+market power,
+market risk see systemic/market risk
+market signals and risk
+market stability
+market structure and competition
+market structure:
+market studies
+market value frontier
+market-based financial intermediation
+market-extension
+marketability
+markets
+markets:
+mass markets and choice
+maturation of banking
+maturities transformation risks
+maturities transformation,,
+meaning and scope
+measure
+measurement
+measurement and specification
+measurement and specification of agency costs
+measurement of impact of different outcomes
+measuring
+measuring enforcement
+mechanics liens
+mechanics of
+mechanism
+mechanisms and tools
+median credit/GDP levels,,, Fig..
+mega
+member
+mercy norm
+merger of institutions
+merger wave
+mergers and acquisitions (M&A)
+mergers and acquisitions, and loan rates
+metallic standards
+mezzanine tranches
+micro-insurance
+micro-prudential regulation
+micro-prudential regulation of banks
+micro-prudential supervision
+micro-regulation
+micro/macro levels
+microcredit,
+microfinance
+microfinance,
+mid-tier
+minimum capital (Pillar
+mobile money
+mobile money transfer
+mobile money transfer (m-transfer)
+mobile phone payments
+modal regulatory strategies
+model of capital accumulation
+models
+models of cross-border supervision
+modifications
+monetary aggregates,
+monetary policy
+monetary policy and supervisory functions
+monetary policy transmission role
+monetary systems, fiat,
+money creation instruments
+money laundering
+money market deposit accounts (MMDAs)
+money market funds (MMFs),
+money market funds (MMMFs)
+money market mutual funds (MMMFs),,,
+money supply:
+money, opposing theoretical conceptions
+monitor
+monitoring and supervisory responsibilities
+monitoring,
+monoliners
+moral hazard
+moral hazard problems
+moral hazard,,
+moral hazard,,,,,,,,,,,,,,,,
+mortgage finance
+mortgage finance companies
+mortgage interest rates, Fig..
+mortgage market
+mortgage refinancing surveys
+mortgage-backed securities (MBSs)n,,,,,,,,,,,,,
+mortgage-lending practices
+mortgages and RMBs Tab..
+mortgages defaults,
+mortgages, residential
+move away from functional and institutional models
+multibillion-dollar IMF bailouts
+multilateral clearing systems
+multilateral coordination
+multimarket banks:
+multimarket deposit markets
+multinational coordination of supervision
+multiple bank lending
+multiple bank relationships
+multiple equilibria theory
+multiple equilibria,,,,,,,,
+mutability and variability
+mutual funds, see also MMMFs
+mutual holding company
+mutual recognition
+named as world’s premier economic forum
+national product-orientated rules
+nationalization,,,
+nature
+need for clear and unambiguous mandate
+need for cross-border coordination in regulation and supervision
+need for international coordination
+need for more holistic approach
+need for orchestration
+need for regulation
+need for strong framework
+neo-Keynesian model
+net cash outflows (NCOF)
+net negative positions
+net operating revenue
+net regulatory benefit/burden (NRB),
+net stable funding ratio (NSFR),
+network theory
+new
+new banks
+new empirical industrial organization (NEIO) approaches
+new focus on G-SIFIs
+new margin requirements
+new margin requirements for OTC
+new processes
+new product governance
+new regulatory architecture
+new role for monetary policy
+new source of systemic risk,
+nineteenth century
+nominal anchor,,
+non-US evidence on bank lending and the transmission of
+non-bank institutions
+non-depository institutions,
+non-discriminatory
+non-escalation norm
+non-installment credit
+non-interest income,, Fig..
+non-interest income,, Fig..,,
+non-interest income,,,
+non-participation in SSM
+non-performing loans,,,,,,,
+non-structural approach,,,
+nonbank
+nonbanks
+nondepository
+nonfinancial
+nonvoting member
+note rate
+note rates
+notice
+number
+number of bank branches
+numerical measures
+oath
+objective
+objective of prudential regulation
+objectives
+objectives,
+objectives-based Australian financial supervisory/architecture
+obligations
+obstacles to
+obtain
+obtained
+of agents duties
+of consumer lending
+of debts
+of payment systems
+of securities
+of universal banks
+of wholesale payments
+off-balance-sheet
+office of financial research
+officers
+offshore
+offshore banking
+offshore benefits
+on transaction costs
+online banking
+online banking,
+opacity,
+open market operations (OMO),,,
+operating
+operating/non-operating costs
+operation
+operational
+operational risk,,
+operational,,,
+operations
+opportunities for abuse
+orchestration of EU institutional regulation,,
+order
+order issued
+organization of regulatory system
+organizational form:
+organizational forms
+organized
+originate-to-distribute (OTD) model,,,,
+originate-to-hold (OTH) model,,,
+originate-to-hold (OTH) model,,,,,
+originate-to-sell model,,,
+origins
+origins and development
+origins in US
+origins in social citizenship
+origins of deposit insurance
+origins of recent
+origins of regulation
+other financial institutions
+out-of-market borrowing
+outcomes-focused regulation
+output quality in performance equation
+overall utility of the risk-based capital regime
+overcoming barriers to financial inclusion
+overconfidence
+overdraft fees
+overnight interbank rates and the GFC
+oversight
+overview
+overview of distress measures
+overview,
+owned
+ownership
+ownership structure, Fig.. Fig..
+packages
+panic and contagion
+parameters,
+parent
+partial relaxation
+pay
+payment and settlement systems
+payment data
+payment instruments, Tab..
+payment rules
+payment services
+payment theory
+payments
+payments and payment systems, Tab..
+payroll cards
+pensions schemes
+perfect competition,
+perfect contestability
+perform
+performance in relation to
+performance of large banks Tab..
+performance,
+period
+period beginning
+permissible scope of business activities
+pervasive incentives
+placement agent
+plan
+points
+policies
+policy
+policy approaches
+policy development as private contract
+policy development, global level,, Tab..
+policy implications
+policy issues
+policy toolkit
+political and macroeconomic environment
+political constraints in financial sector reform
+political risk and defaults
+popularity in s and s,
+portfolio theory,,,,
+portfolios:
+pose
+positions
+post-GFC consumer reforms
+post-GFC reform
+post-crisis EU supervision regime
+post-trade transparency requirements
+post-trading infrastructures
+potential
+potential consequences
+potential sanctions against Japan
+pound sterling,
+poverty and access to finance
+powers
+pre-Depression, US
+pre-World War I
+precondition for development of financial systems
+preconditions for development
+predatory lending
+predatory lending laws,
+premiums
+prepaid cards
+preparing for Solvency II
+pressure on efficient capital market hypothesis
+pressure on other jurisdictions
+prevention by macro-prudential policy,
+prevention of systemic risk
+price
+price formation
+price movements
+price rationing
+pricing of deposit insurance
+primary dealer credit facility (PDCF),
+primary topics of focus
+principal
+principally
+principally invest
+principles issued by ISSBs
+principles-based approaches
+principles-based regulation
+prior
+prior multiple federal approach
+prior to the subprime lending crisis
+prioritized bank debt
+private
+private empowerment view
+private empowerment view of financial regulation
+private enforcement Germany and the UK
+private equity (PE) firms,,,
+private equity (PE),
+private label,,,,,
+private ownership,,,,,,,
+private sector rescues
+private-label,,
+privatization,
+privatization,,,
+privatization,,,,,
+probability at default (PD) rating,
+probability of default (PD) ratings,
+procedures
+product innovations
+product intervention
+product intervention,
+product market
+product market diversification
+product-related intervention
+production process innovations
+production processes
+production structure
+products
+professional traders
+profit
+profit maximization
+profitability, Tab..
+prohibited in US
+promotion of trust
+prompt corrective action (PCA),,,,n,,
+promulgate
+property boom
+property registration
+proposed acquisition
+proprietary trading
+protecting a subsidiary from the rest of the group
+protecting the group from a risky subsidiary
+provide
+provided
+provides
+provides assistance
+provision regulated by EU Member States
+prudential-related regulation
+public
+public and private enforcement compared
+public banks
+public character of supervision
+public credit registers
+public credit registries
+public disclosure
+publicly
+publicly traded
+purchaser
+pure
+pure risk
+purpose of regulation
+qualified
+qualified mortgage (QM)
+qualified residential
+qualified thrift lender
+qualify
+qualitative asset transformation,
+quantification of legal rules (leximetrics)
+quantitative easing
+quantity theory of money
+questioning of conventional wisdoms
+raised
+range of sanctions
+rarity of
+rate of return,
+rates
+rating agencies see credit rating agencies
+rating triggers
+rationale for mandatory disclosure
+rationales
+rationales for regulation
+rationales for regulation of abuse
+real estate investment trusts (REITS),
+real estate investments
+real estate mortgage investment conduits (REMICs)
+real time gross settlement (RTGS) systems,,,,
+reasons for
+receive dividends
+receives
+recent profits and lossesTab..
+reckless,
+recommend
+recommendation
+reduce
+reduction of individual risk
+reduction of systemic risk,
+referrals
+refinance or default decisions
+refinancing incentive
+reflection of changing ideas
+reform White Paper
+reform agenda
+reform along macro-prudential lines
+reform of Basel III
+reform of FMIs
+reform of conduct of business regulation
+reform of regulatory mechanisms
+reform of the banking sector
+reform of wholesale and retail distinction
+reform recommendations, EU
+reform, and G-SIBS
+reforms
+regional and domestic perspectives
+regional/second regional banks
+registered
+registration
+regulation
+regulation after
+regulation and reform suggestions
+regulation and supervision, Fig.. Tab.. Fig..Tab..Tab..Tab.. Tab..
+regulation and supervision,,
+regulation of
+regulation of CCPs and CSDs
+regulation of CCPs and TRs
+regulation of CSDs
+regulation of TRs
+regulation of financial innovation
+regulation of market abuse
+regulation of payment systems
+regulation of retail markets
+regulation of shadow banking
+regulation of the system
+regulation of trading practices
+regulation to preserve
+regulation,,
+regulation-induced crisis
+regulations
+regulations for,,,,
+regulators acting as lender of last resort
+regulators, supervisors and self-regulatory organizations
+regulators’ attributes
+regulatory approaches
+regulatory approaches and standards
+regulatory arbitrage,
+regulatory backdrop
+regulatory capital arbitrage (RCA)n
+regulatory capital management
+regulatory challenges
+regulatory competition,
+regulatory constraints
+regulatory constraints, G-SIBS
+regulatory culture
+regulatory dialectic
+regulatory dividend
+regulatory objectives
+regulatory oversight
+regulatory overview
+regulatory perceptions and policies
+regulatory reform
+regulatory reforms and G-SIBS,
+regulatory reforms and the future of
+regulatory reforms,
+regulatory regime
+regulatory response
+regulatory responses
+regulatory responses in EU and US
+regulatory responses,,,,,,,
+regulatory strategies
+regulatory subsidies
+regulatory tool
+regulatory tools
+reinsurance
+relationship banking
+relationship banking,,,,,,,,,
+relationship between states and markets
+relationship lending,,,
+relationship to
+relationship to risk
+relationship with risk
+relationship-based approaches,,
+relative market power hypothesis
+rely
+remain
+remuneration-based risks
+renewed interest since GFC
+reorganization
+reorganized
+repeal,,,
+report
+reported publicly
+reporting
+reporting requirements
+reports
+repossession costs
+represent
+representativeness
+repurchase agreements (repos),n,,,,,,,
+reputation
+reputational capital,,,
+reputational,,,
+request
+requests
+requests for information
+required amount of stable funding (RSF)
+required supervisory approach
+research,,
+resell
+reserve requirements,
+reshaping of incentive structures
+residential-mortgage-backed securities (RMBSs),
+resolution regimes,
+resolution regimes,Tab..
+responding
+response and prevention
+response to GFC
+responses to GFC,,,,,,,
+responsibilities
+responsibility for regulatory contraventions
+responsible for
+restrictive government regulations
+restrictive government, US
+restructuring after GFC
+restructuring of authorities
+result
+results
+resurrection
+resurrection risk-taking
+retail
+retail marketing
+retail markets
+retail payments, Tab..
+retention of investment risk
+retention rules
+return efficiency/inefficiency
+return on assets (ROA),
+return on equity (ROE)
+return volatility
+return-on-equity and equity-to-assets ratios Fig..
+returns
+revenues
+revenues generated
+reverse factoring
+review of institutional structures
+revolversn
+right
+right of challenge
+rise and fall in popularity
+risk
+risk above uncertainty
+risk and return framework, Fig..
+risk culture
+risk effects
+risk management
+risk management (banks)
+risk management and tail risks
+risk management approach
+risk management inside and outside
+risk management,
+risk management,,,,,
+risk measurement,
+risk menu and conflicting incentives for risk-taking, Fig..
+risk of ‘perverse incentives’
+risk reduction tool
+risk reduction tools
+risk sharing role
+risk shifting through subsidiaries
+risk to stability
+risk tolerance
+risk,,n,,,,,,,
+risk-adjusted
+risk-based approach
+risk-based approaches
+risk-based approaches,
+risk-based capital ratio (RBCR),
+risk-based pricing
+risk-based regulation
+risk-expected return frontier,
+risk-return trade-offs
+risk-taking
+risk-taking,,,
+risk-weight formula
+risk-weighted assets (RWA), and Basel Accords,
+risks
+risks and costs
+risks of structured credit
+risks of universal banking
+roadmap for optimal regulation
+robo-signer scandal, US
+rogue traders
+role
+role as crisis managers
+role as monitors
+role in Africa, Tab..Fig.. Fig..
+role in financial development and growth
+role in financial system
+role in shadow banking
+role in support of bank stability
+role of
+role of bank lending
+role of banks
+role of banks in sharing
+role of business coordinators
+role of capital in support of stability
+role of central bank
+role of collateral
+role of credit rating agencies
+role of credit rating agencies,
+role of discretion
+role of gatekeepers
+role of incentive conflicts and regulatory subsidies
+role of institutions
+role of law
+role of legal rules
+role of microfinance, Tab.. Fig.. Fig..
+role of regulatory competition
+role of self-regulation
+role of short-term wholesale funding structures
+role of ‘soft law’
+role of,
+rolling,
+rulemaking for retail markets
+rulemaking governance
+rules of
+rules, norms and standards
+runs see bank runs
+s
+safe
+safety
+safety net access by securities arm
+safety nets,
+sanctions
+savings and loan holding company
+savings mechanisms
+scale and scope of twenty-first century
+scale economies
+scope diseconomies see diseconomies of scope
+scope economies see economies of scope
+second decade of transition Tab..
+second wave
+second-generation distress resolution mechanisms
+second-generation resolution mechanisms
+sectionsubsidiaries see bank holding companies
+sector concentration, Fig..
+sector depth
+securities affiliates
+securities affiliates, US
+securities analysts
+securities and exchange commission
+securities markets
+securities:
+securitization market, Fig..
+securitization model
+securitization,,,,,,,,,,,,
+securitized lending
+see also Africa; Asia; Latin America
+see also Conduct of business regulation; Consumer protection; Gatekeepers
+see also Conduct of business regulation; Investor protection
+see also Disclosure
+see also Enforcement
+see also European Union (EU)
+see also Financial Stability Board (FSB); Financial Stability Forum (FSF)
+see also Financial stability
+see also Financial systems; Global Financial Crisis (GFC)
+see also Methods
+see also Moral hazard
+see also Outcomes-focused regulation
+see also Principles-based regulation
+see also Sanctions
+see also Systemic risk
+see also Theories
+see also Transparency
+see also consumer lending; small business lending
+see also credit risk; insolvency risk; liquidity risk; systemic/market risk
+see also discount windows
+see also global financial crisis; regulation-induced crisis; sovereign debt
+see also individual banks
+see also individual countries
+see also international bank mergers
+see also market discipline
+see also mortgage-backed securities (MBSs)
+see also shadow banking system; universal banking
+see also sovereign debt crisis
+see also subprime mortgage crisis
+seen as service
+seen as tax on bank income
+seigniorage revenues
+seismic effect on financial regulation
+selected characteristics of schemes Tab..
+self-regulation
+self-regulation with statutory mandate
+sell
+selling
+senate
+senior-management accountability
+senior/junior
+sense of public ownership
+sequential service constraintn,,
+serfdom
+served
+services
+servicing
+settlements
+settlements and discounts
+shadow bank funding and bank deposit funding
+shadow bank monitoringFig.. Fig.. Fig..Fig.. Fig.. Fig.. Tab..
+shadow banking
+shadow banking sector
+shadow banking,
+shadow banking,,,,,
+shaping of human agency
+shaping of practices and policy
+shareholder or financial consumer action groups
+shareholder protection
+shareholder rights
+shareholder-aligned boards
+shareholder-oriented
+shareholder-oriented governance,,
+shareholders
+shareholders and managers
+shareholders vs creditors,,
+shareholders vs. creditors
+shareholders vs. managers and internal agency problems
+shares
+shift in rhetoric
+shocks
+shocks,,,,,
+short selling
+short-term
+short-term loans
+significance of design
+significant development over time
+significant systemic threat
+silent,,,,
+simplification
+simplified monitoring processes
+simplified product disclosure
+simplified transaction Fig..
+single regulator model
+single/multi-market banksc
+size
+size of shadow banging sector,,
+size of shadow banking sector
+skewed
+skin in the game,,,
+small and medium enterprises (SMEs)
+small bank failure
+small business (SBCS),,,,
+small business credit scoring
+small business credit scoring (SBCS),
+small business lending
+social influences
+social purpose and welfare costs
+socialized insurance market operations
+socialized market operations
+soft information,,,,
+soft-budget constraint
+soft-budget-constraint problem
+solvency:
+sound
+soundness
+source of strength
+sources
+sources of prediction problems
+sovereign debt
+sovereign debt crises,,,,,, Fig.. Fig.. Fig..,,
+sovereign debt crisis
+sovereign debt crisis,,,
+sovereign fiscal costs
+sovereign rating changes,
+special capital account
+special investment vehicles see structured investment vehicles (SIVs)
+special purpose vehicles (SPVs),,,
+specialization
+specialized shadow-bank entities
+spirals
+sponsor
+sponsorship
+spreading of risk
+stability
+stable funding
+standardization
+standing facilities see discount windows
+state intervention
+state support
+state support for banks
+state-owned banks,,
+state-owned commercial banks (SOCBs),,,,,,
+state-ownership as consequence of
+state/government owned,,,
+state’s role in funding and development
+statistics Tab..
+stochastic frontier method
+stochastic frontier,,
+stock
+stock market crash
+stock-market
+strategies
+strengthen
+stress
+stress testing,,
+stress tests
+stress-testing
+stress-testing,
+strong paternalistic interventions
+structural and cyclical tools distinguished
+structural and performance features
+structural approach,,
+structural demand models
+structural indicators Tab..
+structural prudential regulation
+structural regulation
+structure-conduct performance (SCP) model
+structured
+structured early intervention and resolution (SEIR)
+structured investment vehicles (SIVs),,,,n,,
+structured securitization,
+structuring the transaction
+studies
+study
+submit
+subordinate notes and/or bonds (SND),,,,
+subprime
+subprime borrower characteristics
+subprime crisis, US,,,,,,,,,,,
+subprime mortgages
+subprime mortgages see mortgages, residential
+subprime,,,,,,,,,,,
+subsequent failure of Single European Passport
+subsidiaries
+subsidiary growth,Tab..
+success linked to size and profitability
+sudden and fast-moving
+suitability duties on
+suitability duty on
+sunspot phenomena,,
+supervised
+supervision
+supervision within ESFS
+supervision,
+supervisory
+supervisory agencies
+supervisory challenges of modernization
+supervisory model
+supervisory review
+supervisory review and governance (Pillar
+supervisory review of capital
+supervisory role
+supervisory role,
+supply through financial intermediation
+support by Bank of Englandn
+surveillance mechanisms
+survey data,Tab..Tab..Tab..
+survey of regulation and supervision
+susceptibility to empirical testing
+swaps
+swaps risk management
+syndicated loan market
+synthetic
+system reform
+systematic errors in decision-making
+systematically important banks (SIBS)
+systematically important financial institutions (SIFIs),,,,,,,,
+systemic crises and contagion
+systemic crisis and contagion
+systemic effects
+systemic impact
+systemic risk
+systemic risk in wholesale payments
+systemic risk,
+systemic risks
+systemic/market risk,,,,,,,,,,,,,,
+systems for wholesale payments
+systemwide
+tailored interventions with field experiments
+take into consideration
+take-overs
+tax codes
+tax evasion and avoidance
+tax frictions
+tax havens
+tax rates
+tax:
+taxation
+techniques
+techniques, strategies and methods
+techniques, strategies and methods of regulation
+technological innovation
+technology,
+tensions between micro-and macro-prudential regulation
+tensions with macro-prudential regulation
+tensions with micro-prudential regulation
+term auction facility (TAF), US,,,,
+terminology
+textile industry
+textile industry, cross-country study
+the future
+theoretical foundations
+theoretical models
+theories
+theory
+theory of
+third parties
+threat
+threats
+three phases of
+three pillars,,,
+three supervisory challenges of modernization
+three-bank concentration ratio (CR ),,,
+three-pillar framework
+three-stage process
+thrift crisiss),
+thrift crisiss), US
+thrift institutions,,,,,
+thrift lenders
+time
+time-series econometrics
+timeline of development Fig..
+timing and source of legal rules
+too big to fail (TBTF),,,,,,,,,n,,,
+too big to fail vs. economies of scale
+too big to save
+tools other than capital
+total consolidated
+total factor productivity (TFP),,,
+total liabilitiesFig..
+toxic assets
+trade fluctuations and defaults
+trade theory
+trading on standardized OTC derivatives
+trading practice regulation
+trading practices
+trading practices,
+trading rules
+trading venues
+trading venues,
+traditional industrial organization (IO) approach
+traditional main bank studies
+tranching,,,
+transaction
+transaction costs
+transactions
+transfer of assets
+transition
+transition countries
+transition countries,,,
+transition from Basel II
+transition to Basel III
+transmission by banks
+transmission from banking sector
+transmission of stress to banks
+transparency
+transparency and disclosure
+transparency regulation
+transparency requirements
+treatment
+tri-party repo
+triggering distress resolution process
+triggering resolution process
+troubled,
+trust banks
+truth-in-lending regulation
+tunnelling
+two-tier system
+types
+types of regulatory intervention
+typical aspirations for institutional design
+unaffiliated
+unbanked
+uncontrolled credit expansion
+under-regulation
+underestimate by Basel II
+underestimation of systemic risk
+underlying concept
+underlying problem
+underlying prudential regulation
+underlying rationale
+underlying rationale for regulation
+underserved
+underserved communities
+understanding
+underwriters Tab..
+underwriting
+unidentifiable shocks
+uniformity
+unintended consequences
+unintended consequences of the GFC
+unique characteristics
+unit banking
+units of account,,
+universal bank losses
+universal banking
+universal banking outlawed,
+universal call for regulation
+unsafe
+unsound
+unwarranted withdrawals
+urban affairs
+use
+used
+users
+usury ceilings
+usury laws
+value at risk (VaR),,,,,,
+value-maximizing,,
+valuing
+van Damme, E.
+variable maturity
+variable maturity mortgages
+variable rate
+variable rate mortgages
+venture capital
+venture capital financing
+venues
+view of contagion
+voluntary acceptance
+voting member
+voting shares
+vs. creditors
+vs. economies of scale
+vs. insolvency
+vs. managers
+vs. too big to fail
+vs. traditional banking, Fig..
+vulnerability features
+vulture funds
+waiver of property rights
+war financing
+weak,
+weakness
+weaknesses
+welfare costs
+wholesale
+wholesale and retail distinction
+wholesale payments
+why systems are crisis-prone
+wire transfers
+wire transfers,,,,
+withdraw
+withdrawal risk,,,
+withdrawal,,,
+workout specialists
+write-downs, Tab..
+writing
+written explanation
+written request
+year
+years
+zero tax countries
+zombie firms,,,
+Čihák, Martin,
+‘Big Bang’
+‘Bubbles’
+‘Fat tails’
+‘Financial citizens’
+‘Nudge’ theory
+‘Responsibility-Sharing System’
+‘Too-big-to’ problems (TBT)
+‘Twin peaks’ supervision
+‘bridge bank’ structure
+‘cashless society’
+‘cognitive resource’
+‘competition-fragility’ hypothesis,
+‘competition-stability’ hypothesis,
+‘domino effect’
+‘enrolment’ of self-regulation within public system
+‘enrolment’ within public system
+‘financial citizenship’
+‘financial citizens’
+‘hard-wiring’ of CRAs into regulatory system
+‘hard-wiring’ of into regulatory system
+‘household investments’
+‘insider system’ of ownership
+‘new governance’
+‘nudge’ theory
+‘one size fits all’ approach
+‘perverse incentives’
+‘private’ and ‘public’ markets distinguished
+‘regulatory dividend’
+‘schizophrenic’ development
+‘too-big-to’ institutions
+‘too-big-to’ problems (TBT)
+‘too-big-to’ problems (TBT),
+‘twin peaks’ supervision
