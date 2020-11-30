@@ -34,8 +34,8 @@ class RulesForm(FlaskForm):
     submit = SubmitField("Continue")
 
 class PracticeForm(FlaskForm):
-    answer = FloatField("Enter the practice answer", validators = [DataRequired()])
-    n_reg  = IntegerField(id="n_reg", validators = [DataRequired()])
+    answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
+    n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
     def validate(self):
         rv = FlaskForm.validate(self)
         if not rv:
@@ -43,7 +43,7 @@ class PracticeForm(FlaskForm):
 
         correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
         if correctanswer is None:
-            self.answer.errors.append('Company already exists at that address')
+            self.answer.errors.append('This answer is incorrect. Input 1.00 to continue. The next 9 questions will not evaluate your answer so think carefully before answering.')
             return False
 
         return True

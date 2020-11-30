@@ -7,6 +7,23 @@
 
 
 <style>
+
+  input[type="text"],
+  select.form-control {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #003A70;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  input[type="text"]:focus,
+  select.form-control:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
   .navbar {
     display: none;
   }
@@ -48,14 +65,25 @@
   body > div > div:nth-child(4) > div.col-sm-3.mb-1.mb-lg-0 > div > form > div:nth-child(3) > label {
     display: none;}
   
-  body > div > div.jumbotron.p-70.px-20 > div > div.col-lg-8.vcenter > div > balancesheet > table > thead > tr > th:nth-child(1) {
+  table {
+    border: none !important;
+    font-size: 12px; 
+  }
+
+  table > thead > tr > th:nth-child(1) {
     color: white;
   }
 
-  body > div > div.jumbotron.p-70.px-20 > div > div.col-lg-8.vcenter > div > balancesheet > table > tbody > tr > td:nth-child(1) {
+
+  table > tbody > tr > td:nth-child(1) {
       font-weight: 500;
       text-align: right;
       padding-right: 20px
+  }
+
+  .help-block {
+    font-size: 12px !important;
+    font-weight: 400 !important;
   }
 
 </style>
@@ -139,6 +167,10 @@
         {{ wtf.quick_form(form) }}
       </div>
     </div>
+<<<<<<< HEAD
+=======
+  </div>
+>>>>>>> fixes/balance-sheet-fix
 
 </div> -->
 </div>

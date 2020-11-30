@@ -18,6 +18,10 @@ import numpy as np
 from datetime import datetime
 from app.tables import Results
 
+import tailer as tl
+import io
+
+
 
 @app.route('/')
 @app.route('/index')
@@ -95,21 +99,21 @@ def experiment(n_reg=1):
     for line in open("./app/static/users/user_" + str(user_id) + "_experiments.csv"):
         user_experiments.append(line.strip("\n"))
 
-    if n_reg == 1:
-        form = PracticeForm()
-    else: 
-        form = SubmissionForm()
-   
     a = pd.read_csv("./app/static/excel_template.csv") 
     # to save as html file 
     # named as "Table" 
-    a.to_html("./app/static/table.htm", na_rep="", index=False, index_names=False, col_space=100)
+    a.to_html("./app/static/table.htm", na_rep="", index=False, index_names=False, col_space=60)
     a.style.set_properties(**{'text-align': 'right'})
     # assign it to a  
     # variable (string) 
     table = a.to_html()
 
     form = SubmissionForm()
+    if n_reg == 1:
+        form = PracticeForm()
+    else: 
+        form = SubmissionForm()
+   
     if form.validate_on_submit():
         submission = Submission(answer = form.answer.data, correctanswer = correctanswer , verifyanswer = bool((correctanswer == form.answer.data)), regulation = user_experiments[n_reg-1], balance_sheet= user_experiments[n_reg-1], user_id = current_user.id)
         spenttime = datetime.utcnow() - session['start_time']
@@ -155,20 +159,47 @@ def experiment(n_reg=1):
 
 @app.route('/endpage')
 def endpage():
-    results = []
-    results = CorrectAnswer.query.order_by(CorrectAnswer.correctanswer).all()
+
+
+    # file = open("./app/static/submissions.csv")
+    # firstLines = tl.head(file,1) #to read last 15 lines, change it  to any value.
+    # lastLines = tl.tail(file,10) #to read last 15 lines, change it  to any value.
+    # file.close()
+    # a1 = pd.read_csv(io.StringIO('\n'.join(firstLines)), error_bad_lines=False, usecols=["regulation"])
+    # a2 = pd.read_csv(io.StringIO('\n'.join(lastLines)), error_bad_lines=False)
+
+    # frames = [a1,a2]
+
+    # result = pd.concat(frames)
+
+    
+    a = pd.read_csv("./app/static/submissions.csv")
+    top = a.head(0)
+    bottom = a.tail(10)
+    concatenated = pd.concat([top,bottom])
+    concatenated.reset_index(inplace=True, drop=True)
+
+    # print(result.shape)
+    # to save as html file 
+    # named as "Table" 
+    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/table.htm", index=None)
+    # a.style.set_properties(**{'text-align': 'right'})
+    # assign it to a  
+    # variable (string) 
+    table = concatenated.to_html()
+
+    # results = []
+    # results = CorrectAnswer.query.order_by(CorrectAnswer.correctanswer).all()
 
     # if not results:
     #     flash('No results found!')
     #     return redirect('/')
 
     # display results
-    table = Results(results)
-    table.border = True
-    print(results)
+    # table = Results(results)
+    # table.border = True
+    # print(results)
     return render_template('endpage.html', table=table)
-
-
 
 
 @app.route('/logout')
