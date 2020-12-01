@@ -93,7 +93,7 @@ def experiment(n_reg=1):
     for line in open("./app/static/users/user_" + str(user_id) + "_experiments.csv"):
         user_experiments.append(line.strip("\n"))
 
-    a = pd.read_csv("./app/static/excel_template.csv") 
+    a = pd.read_csv("./app/static/table_template.csv") 
     # to save as html file 
     # named as "Table" 
     a.to_html("./app/static/table.htm", na_rep="", index=False, index_names=False, col_space=60)
