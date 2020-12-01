@@ -109,3 +109,4 @@ regulation,balance_sheet,answer,true ,correctanswer,user_id,,time_elapsed,submis
 >>>>>>> fixes/balance-sheet-fix
 28,28,1.0,True,1.0,12,2000000,0:00:03.754363,2020-11-30 10:44:03.754395
 28,28,1.0,True,1.0,12,2000000,0:00:23.136026,2020-11-30 10:46:14.136071
+18,18,1.0,True,1.0,1,,0:00:14.805902,2020-11-30 11:27:06.805940

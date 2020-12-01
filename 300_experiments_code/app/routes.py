@@ -16,12 +16,6 @@ import csv
 import pandas as pd  
 import numpy as np
 from datetime import datetime
-from app.tables import Results
-
-import tailer as tl
-import io
-
-
 
 @app.route('/')
 @app.route('/index')
