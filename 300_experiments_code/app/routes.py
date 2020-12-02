@@ -17,6 +17,8 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 
+print(pd.__version__)
+
 @app.route('/')
 @app.route('/index')
 #@login_required
