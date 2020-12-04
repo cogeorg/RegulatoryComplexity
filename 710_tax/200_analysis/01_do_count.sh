@@ -9,4 +9,4 @@ time ./10_do_analysis.py ../010_raw_documents/OECD.txt OECD.csv
 time ./10_do_analysis.py ../010_raw_documents/UN.txt UN.csv
 
 rm results.csv 2>/dev/null
-cat *.csv >> results.csv
+cat results*.csv >> results.csv

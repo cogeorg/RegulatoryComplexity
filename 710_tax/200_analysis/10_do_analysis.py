@@ -188,10 +188,8 @@ def do_run(input_dir, output_file_name):
             if is_classified:
                 total_classified += 1
             else: # add to list of unclassified words
-                # try:
                 unique['unclassified'].append(token)
-                # except:
-                    # pass
+
     print("  TOTAL WORDS: " + str(total_words))
     print("  TOTAL CLASSIFIED: " + str(total_classified))
     frac = float(total_classified)/float(total_words)
@@ -202,6 +200,9 @@ def do_run(input_dir, output_file_name):
     for count_key in sorted(count.keys()):
         out_text += ";" + str(count[count_key]) + ";" + str(len(set(unique[count_key])))
 
+    #
+    # compute num operators, operands
+    #
     num_unique_operators = len(set(unique['RegulatoryOperators'])) + len(set(unique['LogicalConnectors']))
     num_unique_operands = len(set(unique['EconomicOperands'])) + len(set(unique['Attributes'])) + len(set(unique['LegalReferences'])) +  len(set(unique['TaxOperands']))
     num_operators = count['RegulatoryOperators'] + count['LogicalConnectors']
@@ -218,19 +219,49 @@ def do_run(input_dir, output_file_name):
     out_text += str(num_operators) + ";" + str(num_operands) + ";" + str(num_unique_operators) + ";" + str(num_unique_operands) + ";"
     out_text += str(total_volume) + ";" + str(potential_volume) + ";" + str(level) + "\n"
 
-    out_file = open(output_file_name, 'w')
+    #
+    # write results file
+    #
+    out_file = open("results-" + output_file_name, 'w')
     out_file.write(out_text)
     out_file.close()
-    print("   WRITTEN TO: " + output_file_name)
+    print("   RESULTS WRITTEN TO: " + "results-" + output_file_name)
 
+    #
+    # write out unclassified tokens
+    #
     out_text = ""
     out_file = open("unclassified-" + output_file_name, "w")
     for token in set(unique['unclassified']):
-        out_text += token + ";\n"
+        out_text += token + ";" + str(unique['unclassified'].count(token)) + "\n"
     out_file.write(out_text)
     out_file.close()
     print("   UNCLASSIFIED TOKENS WRITTEN TO: " + "unclassified-" + output_file_name)
 
+    #
+    # write frequency file
+    #
+    out_text = ""
+    out_file = open("frequency-" + output_file_name, 'w')
+    for token in set(unique['RegulatoryOperators']):
+        out_text += "RegulatoryOperators;" + token + ";" + str(unique['RegulatoryOperators'].count(token)) + "\n"
+    for token in set(unique['LogicalConnectors']):
+        out_text += "LogicalConnectors;" + token + ";" + str(unique['LogicalConnectors'].count(token)) + "\n"
+    for token in set(unique['EconomicOperands']):
+        out_text += "EconomicOperands;" + token + ";" + str(unique['EconomicOperands'].count(token)) + "\n"
+    for token in set(unique['Attributes']):
+        out_text += "Attributes;" + token + ";" + str(unique['Attributes'].count(token)) + "\n"
+    for token in set(unique['LegalReferences']):
+        out_text += "LegalReferences;" + token + ";" + str(unique['LegalReferences'].count(token)) + "\n"
+    for token in set(unique['TaxOperands']):
+        out_text += "TaxOperands;" + token + ";" + str(unique['TaxOperands'].count(token)) + "\n"
+    out_file.write(out_text)
+    out_file.close()
+    print("   FREQUENCIES WRITTEN TO: " + "frequency-" + output_file_name)
+
+    #
+    # END
+    #
     print(">>>>>> FINISHED")
 # -------------------------------------------------------------------------
 
