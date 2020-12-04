@@ -1,2 +1,2 @@
 file_name;Attributes;UniqueAttributes;EconomicOperands;UniqueEconomicOperands;FunctionWords;UniqueFunctionWorsd;LegalReferences;UniqueLegalReferences;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;RegulatoryOperators;UniqueRegulatoryOperators;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/OECD.txt;573;21;11907;279;47444;158;257;4;9351;81;562;24;1794;45;9597;8012737;20742;20742;12737;33479;12739;0.380507183608
+../010_raw_documents/OECD.txt;573;21;11907;279;47444;158;257;4;9351;81;562;24;1794;45;9597;8011145;22334;126;384;33479;386.0;0.0115296155799

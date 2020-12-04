@@ -32,7 +32,7 @@ def do_run(input_dir, output_file_name):
     count['LogicalConnectors'] = 0
     count['Other'] = 0
     count['RegulatoryOperators'] = 0
-    count['TaxOperators'] = 0
+    count['TaxOperands'] = 0
 
     unique = {}
     unique['Attributes'] = []
@@ -42,7 +42,8 @@ def do_run(input_dir, output_file_name):
     unique['LogicalConnectors'] = []
     unique['Other'] = []
     unique['RegulatoryOperators'] = []
-    unique['TaxOperators'] = []
+    unique['TaxOperands'] = []
+    unique['unclassified'] = []
 
     total_words = 0
     total_classified = 0
@@ -82,10 +83,10 @@ def do_run(input_dir, output_file_name):
     for line in input_file.readlines():
         RegulatoryOperators.append(line.strip().upper())
 
-    TaxOperators = []
-    input_file = open("../020_word_lists/TaxOperators.txt")
+    TaxOperands = []
+    input_file = open("../020_word_lists/TaxOperands.txt")
     for line in input_file.readlines():
-        TaxOperators.append(line.strip().upper())
+        TaxOperands.append(line.strip().upper())
 
     if False:
         print(Attributes)
@@ -95,7 +96,7 @@ def do_run(input_dir, output_file_name):
         print(LogicalConnectors)
         print(Other)
         print(RegulatoryOperators)
-        print(TaxOperators)
+        print(TaxOperands)
 
     print("<<<<<< WORKING ON: " + input_file_name)
 
@@ -108,7 +109,7 @@ def do_run(input_dir, output_file_name):
         print("    # LogicalConnectors: " + str(len(LogicalConnectors)))
         print("    # Other: " + str(len(Other)))
         print("    # RegulatoryOperators: " + str(len(RegulatoryOperators)))
-        print("    # TaxOperators: " + str(len(TaxOperators)))
+        print("    # TaxOperands: " + str(len(TaxOperands)))
 
     input_file = open(input_file_name, 'r')
 
@@ -175,18 +176,22 @@ def do_run(input_dir, output_file_name):
                 except:
                     pass
 
-            if token in TaxOperators:
+            if token in TaxOperands:
                 is_classified = True
-                count['TaxOperators'] += 1
+                count['TaxOperands'] += 1
                 try:
-                    unique['TaxOperators'].append(token)
+                    unique['TaxOperands'].append(token)
                 except:
                     pass
 
             total_words += 1
             if is_classified:
                 total_classified += 1
-
+            else: # add to list of unclassified words
+                # try:
+                unique['unclassified'].append(token)
+                # except:
+                    # pass
     print("  TOTAL WORDS: " + str(total_words))
     print("  TOTAL CLASSIFIED: " + str(total_classified))
     frac = float(total_classified)/float(total_words)
@@ -197,14 +202,18 @@ def do_run(input_dir, output_file_name):
     for count_key in sorted(count.keys()):
         out_text += ";" + str(count[count_key]) + ";" + str(len(set(unique[count_key])))
 
-    num_unique_operands = len(unique['EconomicOperands']) + len(unique['Attributes']) + len(unique['LegalReferences'])
-    num_unique_operators = len(unique['LogicalConnectors']) + len(unique['RegulatoryOperators']) + len(unique['TaxOperators'])
-    num_operators = count['EconomicOperands'] + count['Attributes'] + count['LegalReferences']
-    num_operands = count['LogicalConnectors'] + count['RegulatoryOperators'] + count['TaxOperators']
+    num_unique_operators = len(set(unique['RegulatoryOperators'])) + len(set(unique['LogicalConnectors']))
+    num_unique_operands = len(set(unique['EconomicOperands'])) + len(set(unique['Attributes'])) + len(set(unique['LegalReferences'])) +  len(set(unique['TaxOperands']))
+    num_operators = count['RegulatoryOperators'] + count['LogicalConnectors']
+    num_operands = count['EconomicOperands'] + count['Attributes'] + count['LegalReferences'] + count['TaxOperands']
 
     total_volume = num_operators + num_operands
-    potential_volume = 2 + num_unique_operands
-    level = potential_volume / float(total_volume)
+    potential_volume = 2.0 + num_unique_operands
+    level = float(potential_volume) / float(total_volume)
+    if True:
+        print("    << TOTAL VOLUME:" + str(total_volume))
+        print("    << POTENTIAL VOLUME:" + str(potential_volume))
+        print("    << LEVEL:" + str(level))
 
     out_text += str(num_operators) + ";" + str(num_operands) + ";" + str(num_unique_operators) + ";" + str(num_unique_operands) + ";"
     out_text += str(total_volume) + ";" + str(potential_volume) + ";" + str(level) + "\n"
@@ -213,6 +222,15 @@ def do_run(input_dir, output_file_name):
     out_file.write(out_text)
     out_file.close()
     print("   WRITTEN TO: " + output_file_name)
+
+    out_text = ""
+    out_file = open("unclassified-" + output_file_name, "w")
+    for token in set(unique['unclassified']):
+        out_text += token + ";\n"
+    out_file.write(out_text)
+    out_file.close()
+    print("   UNCLASSIFIED TOKENS WRITTEN TO: " + "unclassified-" + output_file_name)
+
     print(">>>>>> FINISHED")
 # -------------------------------------------------------------------------
 
