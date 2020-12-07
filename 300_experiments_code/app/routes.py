@@ -18,10 +18,6 @@ import numpy as np
 from datetime import datetime
 from app.tables import Results
 
-import tailer as tl
-import io
-
-
 
 @app.route('/')
 @app.route('/index')
@@ -172,8 +168,9 @@ def endpage():
 
     # result = pd.concat(frames)
 
-    
-    a = pd.read_csv("./app/static/submissions.csv")
+    a = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,4,5,7])
+    a.drop([5])
+
     top = a.head(0)
     bottom = a.tail(10)
     concatenated = pd.concat([top,bottom])
@@ -201,6 +198,23 @@ def endpage():
     # print(results)
     return render_template('endpage.html', table=table)
 
+
+@app.route('/leaderboard')
+def leaderboard():
+
+    a = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,4,5,7])
+    a.drop([5])
+
+    top = a.head(0)
+    bottom = a.tail(10)
+    concatenated = pd.concat([top,bottom])
+    concatenated.reset_index(inplace=True, drop=True)
+
+    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/table.htm", index=None)
+
+    table = concatenated.to_html()
+
+    return render_template('leaderboard.html', table=table)
 
 @app.route('/logout')
 def logout():
