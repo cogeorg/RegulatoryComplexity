@@ -1,0 +1,1326 @@
+5.	Tax base determinations
+
+
+
+
+        5.1. Overview
+
+    134. Amount A is a new taxing right over a share of the residual profit of MNE groups that fall within its defined scope. The tax base is therefore determined on the basis of the profits of a group (rather than on a separate entity basis), and it is necessary to start with consolidated group financial accounts. This approach raises three broad categories of issues for the determination of the Amount A tax base. First, there is the need to define a standardised measure of profit as a basis for Amount A, including the extent to which harmonisation adjustments are required to address divergences in existing financial accounting standards. Second, there is the need to address the rationale for, and technical feasibility of, computing Amount A using segmented accounts, on either a business line or geographic basis. Third, the design of loss carry-forward rules is required to ensure that losses are taken into account in the computation of Amount A. This chapter sets out a comprehensive set of rules and guidance for the Amount A tax base determination, taking into account the technical work undertaken thus far on these three broad aspects. These rules and guidance have been designed to minimise, where possible, the additional compliance costs for taxpayers and administrative burdens for tax administrations.
+
+A PBT measure based on consolidated financial accounts
+
+    135. The Amount A tax base will be quantified using an adjusted PBT measure that will be derived from the consolidated financial accounts of in-scope MNE groups. In practice, consolidated financial accounts prepared under GAAP that produce equivalent or comparable outcomes to consolidated financial accounts prepared under International Financial Reporting Standards (IFRS) – the “eligible GAAP” – will mainly be used.60 Where necessary, other GAAP will also be allowed provided their use is permitted by the body with legal authority in the tax jurisdiction of its UPE to prescribe, establish, or accept accounting standards and that its use does not result in material competitive distortions in the application of Amount A. This approach (including the assessment of GAAP equivalence) is aligned with Pillar Two, which has adopted a similar approach.
+    136. Consistent with Pillar Two, no specific book-to-book harmonisation adjustments (to account for variances between different GAAP) are considered necessary at this stage given the significant additional complexity their introduction would entail; however, the Amount A tax base may incorporate an on-going monitoring process to ensure discrepancies across accounting standards do not produce materially inconsistent outcomes among Amount A taxpayers.
+    137. For ease of administration, only a limited number of book-to-tax adjustments will apply to determine the relevant measure of PBT, and seek alignment of the tax base for Amount A with the corporate tax base
+
+
+    32 These include, in addition to IFRS, the generally accepted accounting principles of Australia, Canada, Hong Kong (China), Japan, New Zealand, the People’s Republic of China, the Republic of India, the Republic of Korea, Singapore and the United States.
+
+of Inclusive Framework members. These adjustments will include: exclusion of income tax expenses, exclusion of dividend income and gains or losses in connection with shares, and expenses not deductible for Corporate Income Tax (CIT) purposes in most Inclusive Framework jurisdictions for public policy reasons. These adjustments are consistent with the approach under Pillar Two, except potentially for income derived from joint ventures and interest expenses from transactions with related parties that do not belong to the consolidated group under the relevant accounting standard (e.g. investment entities).
+    138. Further work will be undertaken on the implementation of the proposed framework to use consolidated group financial accounts (e.g. introducing a monitoring mechanism), and to finalise some aspects of the standardised PBT measure (e.g. income from joint ventures).
+
+The segmentation framework
+    139. The Outline recognised that for some groups it may be necessary to compute the Amount A tax base on a segmented basis, but also recognised that using segmentation to determine the relevant PBT measure will create additional compliance costs for taxpayers and extra burdens for tax administrations who will need to review these segmented accounts as part of any compliance activity and within the context of the tax certainty process. The segmentation framework for Amount A aims to provide a balance of the benefits of the additional accuracy and the additional complexity and costs that segmentation would bring.
+    140. The framework starts from an acknowledgement that though it is feasible for taxpayers to break down their revenue between ADS, CFB and out-of-scope, it may not be possible for them to compute separately the net profits attributable to these activities (i.e. segmentation of the tax base). Nevertheless, as Pillar One applies the principle of net, rather than gross, basis taxation it will still be necessary to only reallocate profits attributable to in-scope activities. The easiest way to achieve this would be to calculate the Amount A tax base on a consolidated basis and use the consolidated profit margin of the group as a proxy for the in-scope profit margin, applying it to in-scope revenues to produce a proxy for in-scope profits. From this proxy, Amount A would be calculated and then allocated among market jurisdictions using the allocation formula.61 Therefore, the segmentation framework will adopt this simplification as the default rule, while providing that in some circumstances, primarily to maintain a level playing field between taxpayers, the Amount A tax base will be computed on a segmented basis.
+    141. The framework will be based on the following three-step process:
+        ◦ First, all MNE groups in scope of Amount A would need to break down their revenue between ADS, CFB and out-of-scope activities, as may be required for the scope and nexus rules.
+        ◦ Second, to limit the number of MNE groups that are required to segment their Amount A tax base, MNE groups with global revenue less than EUR [X] billion would benefit from a “segmentation exemption” which would require them to compute the Amount A tax base on a group basis.62 For
+
+
+
+    33 The quantum of Amount A profits allocable to an eligible market jurisdiction will result from applying the Amount A formula (including the allocation key based on in-scope revenue) to the consolidated tax base. This would mean that even though the calculation of the Amount A tax base would not distinguish between in and out-of-scope activities, market jurisdictions would still not be allocated Amount A profits for out-of-scope activities. In effect, the group or segment profit margin would be used as a proxy for the profit margin of in-scope activities.
+    34 This safe harbour approach could, however, substantially increase the number of MNE groups that would elect to compute the Amount A tax base on a segmented basis, with ensuing administrative burdens for tax administrations. The safe harbour approach would be to the benefit of taxpayers, as it would allow a group with a high profitability out-
+
+ease of administration and transition, this threshold would initially be set at EUR [X] billion and reduced over a five-year transition period.63 Alternatively, this exemption could be designed as a safe harbour, whereby MNE groups below the threshold would have the option to compute the Amount A tax base either on a group or on a segmented basis, subject to the constraints outlined in the third step below.
+    • Third, those groups not eligible for the exemption or, if designed as a safe harbour did not elect for it, would then test whether they are required to segment their Amount A tax base and on what basis. Consideration is being given to an approach based on the following three sub-steps:
+        ◦ MNE groups will apply the “segmentation hallmarks” to determine whether they are required to segment their tax base. If they are not required to segment, they will compute their Amount A tax base on a group basis.
+        ◦ For MNE groups that do display these segmentation hallmarks, the disclosed segments in the MNE group financial statements will be tested to ascertain whether they meet the agreed hallmarks. If so, Amount A tax base will be computed on the basis of these segments. There will be an exemption for groups whose disclosed segments have similar profit margins, which will also compute the Amount A tax base on a group basis.
+        ◦ Finally, MNE groups that are not eligible to use their disclosed segments will be required to compute the Amount A tax base on the basis of alternative segments. This is expected to be relevant for only a small number of MNE groups. This alternative approach would be determined based on the definition of a segment for the purposes of Amount A. It would be expected that this alternative approach would in most instances merely require a group to further breakdown the profit or loss account of an existing segment or segments and that the group may have an existing internal reporting framework on which to base this alternative segmentation.
+    142. Further work will be undertaken to finalise specific aspects of the different steps of this segmentation framework, including the appropriateness of the level of the global revenue thresholds (step 2), the definition of a segment based on the hallmarks (step 3) and the administration of the framework through the early certainty and dispute resolution process, and to explore potential simplifications to ease the administration of the approach.
+
+Loss carry-forward rules
+
+    143. Loss-carry forward rules will apply through an earn-out mechanism at the level of the group or segment (as determined by the segmentation framework). This means that losses generated over a given tax period under Amount A, unlike profits, will not be allocated to market jurisdictions. Instead, they will be pooled in a single account for the relevant segment and carried forward to subsequent years, with the result that no profit under Amount A would arise for that segment (and be reallocated to markets) until historic losses reported in that account have been fully absorbed. This carry-forward regime will be kept separate from any existing domestic loss carry-forward rules, and include specific rules to deal with business reorganisations (including changes of the segmentation basis).
+
+
+
+of-scope business and a low profitability in-scope business to elect to calculate its Amount A tax base on a segmented basis, thereby reducing its potential Amount A tax liability.
+    35 Where an MNE group is within the segmentation exemption but has one disclosed segment in scope of Amount A and one segment out of scope, it may be preferable to exclude the MNE group from the exemption. Further work will be undertaken on this issue.
+
+    144. Some specific design aspects of the loss-carry forward rules will need to be refined. This will include considering a transitional regime for losses incurred prior to the introduction of Amount A (pre- regime losses), and determining whether the loss-carry forward regime should include time limitations and anti-avoidance rules. There is also a separate issue on whether this regime should apply exclusively to economic losses or be extended to cover profit shortfalls (where the profit of a group or segment falls below the profitability threshold), which will be resolved as part of the discussion of the quantum of Amount A (see section 6.2).
+
+        5.2. A PBT measure based on consolidated financial accounts
+
+            5.2.1. Eligible consolidated financial accounts
+
+    145. Given that Amount A is a new taxing right that is determined based on the profits of a group (rather than on a separate entity basis), it is necessary to use consolidated group financial accounts as the starting point for computing the Amount A tax base. This approach also has the advantage that the Amount A tax base is less affected by controlled transactions64 and, for large MNE groups, that it is based on financial statements that have been subject to external audit,65 thus providing a reliable source of information that is normally readily available to tax administrations.
+    146. In general, Amount A would not mandate MNE groups to produce consolidated accounts under a specific accounting standard. The relevant financial accounting standard for computing Amount A tax base would be the financial accounting standard used by the UPE in the preparation of its consolidated financial statements.
+    147. At the same time, because MNE groups prepare consolidated financial accounts under different accounting standards, this approach requires the resolution of several issues to ensure that the Amount A tax base determination produces comparable results when differing standards are used. These issues include identifying acceptable accounting standards across Inclusive Framework jurisdictions that produce sufficiently comparable and reliable results for computing Amount A, and clarifying whether specific harmonisation adjustments are required to deal with particular items of income or expenses.
+
+Eligible GAAP
+
+    148. Although there are variations between different consolidated accounting standards, the GAAP of many Inclusive Framework members have far more commonalities than differences. To limit compliance costs, MNE groups will therefore be permitted to rely on the consolidated financial accounts produced by their UPE under any GAAP provided this standard produces equivalent or comparable outcomes to
+
+
+
+
+    36 Not all transactions between associated enterprises as defined in Article 9 of the OECD Model Tax Convention (MTC) will necessarily be eliminated through the process of consolidation. The reason for that is that the definition of “control” for accounting purposes is typically narrower than the definition of associated enterprises under Article 9 of the OECD MTC.
+    37 Even where MNE groups are not required to prepare audited consolidated financial accounts, there are also a number of constraints associated with the financial reporting process (e.g. incentives, checks and balances) that contribute to the reliability of the information provided by the financial accounts.
+
+consolidated financial accounts prepared under IFRS.66 Equivalency with IFRS is to be assessed based on the work of the International Accounting Standards Board (IASB) as well as the work of securities regulators that allow other accounting standards in financial reports of publicly accountable companies, consistent with the assessment of GAAP equivalence under the Pillar Two. An initial assessment has shown the GAAP of Australia, Canada, Hong Kong (China), Japan, New Zealand, the People’s Republic of China, the Republic of India, the Republic of Korea, Singapore and the United States are eligible GAAP. As illustrated in Figure 5.1 below, these eligible GAAP already cover roughly 90% of MNE groups with consolidated revenue above EUR 750 million and profitability above 10% in 2016.
+
+Figure 5.1. Accounting standards used by MNE groups with consolidated turnover above EUR 750 million and profitability above 10%
+
+
+Source: Orbis - Bureau van Dijk and OECD Secretariat.
+
+
+
+
+    38 IFRS is a set of accounting standards issued by the IFRS Foundation and the IASB. It is the most commonly used and accepted financial accounting standard worldwide (see https://www.ifrs.org/use-around-the-world/use-of-ifrs- standards-by-jurisdiction/). This widespread use across the world makes it a useful and pragmatic reference point for assessing differences between local GAAP when computing the Amount A tax base.
+
+    149. There will be some MNE groups in scope of Amount A whose consolidated financial reports are not prepared under eligible GAAP. Such MNE groups will however be allowed to use other GAAP as a basis for determining the Amount A tax base for ease of administration. These are GAAP permitted by the relevant body with legal authority in the tax jurisdiction of its UPE to prescribe, establish, or accept accounting standards when their use does not result in material competitive distortions in the application of Amount A. This approach needs to be consistent with the determination of acceptable accounting standards under Pillar Two.67 Further technical work is required to define and measure material competitive distortions.
+    150. Where an MNE group in scope of Amount A does not produce consolidated financial statements, it would need to prepare consolidated financial accounts and to compute the Amount A tax base under the accounting standards permitted by the body with legal authority in the tax jurisdiction of its UPE to prescribe, establish, or accept accounting standards for financial reporting purposes, provided that those standards qualify as eligible or, otherwise, do not result in material competitive distortions in the application of Amount A.
+
+Book-to-book harmonisation adjustments
+
+    151. The Amount A tax base will not involve any specific harmonisation adjustments to account for differences between different GAAP that could affect the computation of the Amount A tax base.
+    152. It is recognised that designing and administering harmonisation adjustments would be extremely complex, as the significance of discrepancies across standards varies widely across industries, and even from one MNE group to the next.68 Examples of such, adjustments could be:
+        ◦ Reversal of impairments: IFRS requires impairment adjustments to be reversed when the reasons for the impairment no longer pertain, except for impairments of goodwill. On the contrary, other GAAP may not allow for the reversal of certain impairments (e.g. inventory, long-lived assets). This could give rise to timing differences, which could be nearly permanent ones depending on the expected time that the underlying items remain in the balance sheet. This issue might be more relevant for industries with particularly long business cycles.
+        ◦ Financial assets classification: Accounting standards may resort to different criteria for classifying financial assets that can lead to permanent differences in profit measurement because classification affects recognition of income. For instance, under certain GAAP, the legal form of a debt instrument primarily determines classification. On the contrary, under IFRS the legal form does not determine classification of debt instruments. Rather, the nature of the cash flows of the instrument and the MNE group’s business model for managing the debt instruments are the key considerations for classification.
+    153. Therefore, not requiring any book-to-book harmonisation adjustment will thus significantly facilitate compliance and administration, as well as be consistent with Pillar Two, and the existing CbCR requirement.
+    154. Instead of making book-to-book adjustments, the Amount A tax base may however incorporate some safeguards to ensure that discrepancies across accounting standards do not produce materially inconsistent outcomes among MNE groups after the introduction of Amount A. For example, an ongoing monitoring mechanism of these discrepancies could be introduced as part of the implementation of Amount
+
+
+    39 [Cross-reference to chapter 4 (section 4-7) of GloBE rules].
+    40 Furthermore, many of the potential differences between GAAP are of a qualitative nature, which would impede the quantification and the adjustment of such divergences in a reliable manner to compute Amount A tax base.
+
+A. This ongoing monitoring could include performing comparisons across MNE groups in scope subject to different standards to identify and assess the actual impact of accounting differences on the Amount A tax base over time, and identify any material competitive distortions derived from existing or future differences across accounting standards that would require specific adjustments. Further technical work will be undertaken to design and explore appropriate mechanisms.
+
+            5.2.2. The standardised PBT definition
+
+    155. Consistent with the decision to use a standardised PBT figure, the computation of the Amount A tax base will start from the total profit or loss figure from the “profit or loss” (P&L) statement of the MNE group’s consolidated accounts. A number of adjustments will then be applied, including the elimination of income tax expenses, to address potential issues that might otherwise arise given the different objectives of Amount A and accounting rules (i.e. book-to-tax adjustments). These adjustments will be consistent with the approach adopted under Pillar Two, except potentially for income derived from joint ventures and interest expenses from transactions with related parties that do not belong to the consolidated group under the relevant accounting standard (e.g. investment entities).
+
+PBT as the selected measure of profit
+
+    156. A PBT measure will be used as the basis for determining Amount A as it approximates the measure of profit on which CIT is normally levied. Profit before tax is a comprehensive figure that generally comprises all income and expenses of an MNE group except the income tax expenses. It takes into account all the real costs of doing business, both operating and non-operating expenses (such as finance costs), and is unaffected by the classification of specific items in different sections of the “profit or loss” statement. This makes it the most appropriate metric for use in the calculation of Amount A. Further, its resemblance to the existing CIT base has the advantage of minimising the risk of determining profit for Amount A purposes that is substantially different from the aggregated taxable profit reported by the members of the group under existing rules.
+    157. PBT is not defined in most GAAP, which typically provide guidance on how various income and expense items should be recognised for accounting purposes. This means that MNE groups have some discretion over which items to include in PBT, and the development for Amount A purposes of a standardised definition (with adjustments) will be necessary to ensure a consistent computation of the tax base across all in-scope groups, which is discussed in the next section.
+
+The determination of a standardised PBT measure
+    158. As a starting point, all items within the consolidated P&L statement69 will be taken into consideration. 70 This means the computation of the Amount A tax base will start from the bottom line figure
+
+
+    41 The statement of “profit or loss” is one of the five inter-related statements that comprise an MNE group’s consolidated financial accounts. It contains at the bottom a total for “profit or loss” that includes, in principle, all income and expenses of an MNE group for a given period. The only exception being income and expenses presented in the “other comprehensive income” statement.
+    42 For instance, an unrealised accrued gain may be relevant for a group’s shareholders, but would typically not give rise to an income tax charge until it is realised and, accordingly, would not be included in the Amount A tax base. Most unrealised accrued gains are accounted for in the “other comprehensive income” statement and, therefore, not reflected into the “profit or loss” statement until the realisation of the gain. Therefore, MNE groups recognising unrealised accrued gains in the “other comprehensive income” statement would not need to make adjustments to compute the Amount A tax base, which would make the approach relatively simple to apply.
+
+of the P&L statement (i.e. the total for profit or loss). From this point, certain book-to-tax adjustments will be made (such as the deduction of certain items of income and the adding back of certain expenses) to arrive at a standardised PBT figure. For ease of administration and compliance, these adjustments will be kept to a minimum in order to limit complexity, and align with adjustments under Pillar Two.
+    159. The purpose of these adjustments is to align to the extent possible the Amount A tax base with the corporate tax base of Inclusive Framework jurisdictions. This will be achieved by excluding certain material items that are commonly excluded from the corporate tax base of Inclusive Framework jurisdictions. The exclusion of these items typically reflects the different objectives pursued by tax and accounting rules. .
+
+Income tax expenses
+
+    160. Income taxes are the most obvious expense that needs to be added back to determine the standardised PBT under Amount A. Income tax expenses are usually not deductible for CIT purposes in Inclusive Framework jurisdictions.
+    161. Financial accounting distinguishes between income taxes and other taxes. Income taxes, as defined for financial accounting purposes,71 are typically reported separately in the P&L statement. Taxes that are not considered income taxes are treated like operating expenses and may not be separately identified in the income statement. Only taxes covered by the definition of income taxes for accounting purposes would be extracted from the “profit or loss” statement, and added back in to compute the Amount A tax base.72
+
+Dividend income and gains or losses arising in connection with shares, including income under the equity method
+    162. In many Inclusive Framework jurisdictions, dividend income and gains or losses from the disposal of shares are excluded, in whole or in part, from the CIT base or benefit from tax relief (such as indirect credit for taxes paid). In some jurisdictions, the exclusion is conditioned on certain ownership and holding period requirements. In other jurisdictions, the exclusion applies without restrictions. These exclusions are often referred to as participation exemptions, and generally seek to eliminate the double taxation that otherwise would occur if the profit of the investee (i.e. the distributing entity or the entity whose shares are transferred) were to be taxed again at the level of the investor upon the distribution or disposal.
+    163. Recognising the broad nature of the participation exemptions of many Inclusive Framework jurisdictions, dividend income and gains or losses in connection with shares will be excluded from the Amount A tax base, consistent with the approach adopted under Pillar Two.73 This exclusion will also apply where, in the absence of any disposal, the P&L statement accounts for gains (or losses) attributable to changes in the value of shares using the fair value method. Some aspects of this adjustment are still under
+
+
+    43 IFRS defines “income taxes” for these purposes as including “all domestic and foreign taxes which are based on taxable profits. Income taxes also include taxes, such as withholding taxes, which are payable by a subsidiary, associate or joint arrangement on distributions to the reporting entity.” For instance, in the specific case of partnerships that are not subject to CIT, the tax expense would merely account for the withholding tax levied upon distribution of the profits to the partners.
+    44 This includes income taxes on excluded income for the purposes of computing the Amount A tax base.
+    45 [Cross-reference to chapter 4 (section 4-7) of GloBE rules].
+
+discussion, however, such as the option of introducing some conditions or restrictions to this exclusion (e.g. specific percentage of ownership, holding period). As part of this, the treatment of expenses incurred in connection with dividend income or the generation of gains or losses from shares is also under discussion. This issue will require balancing the challenges associated with tracing these expenses in the financial accounts and the risk of erosion of Amount A tax base (e.g. financial expenses related to funding acquisitions of shareholdings).
+    164. As a corollary, any profit or loss derived from using the equity method of accounting will also be excluded, consistent with the approach adopted under Pillar Two.74 Generally, the equity method applies to investments in entities or arrangements in which the investor owns a substantial interest (generally between 20% and 50%) that are not consolidated under financial accounting standards. These ownership interests are effectively treated as transparent, recognising the investor’s proportionate share of the entity or arrangement’s after-tax income or loss.75 The Inclusive Framework is, however, discussing whether this adjustment should not apply to income derived from joint ventures, in particular where that income does not represent retained earnings that have already been (or will be) subject to Amount A at the level of the entity or arrangement (e.g. because the revenue of the joint venture falls below the scope revenue thresholds).
+    165. This issue can be illustrated through the following example. Assume MNE Group A and MNE Group B constitute a joint venture where each group owns an interest of 50%. The joint venture generates revenue below the Amount A revenue threshold and is therefore not in scope of Amount A. Assume further that the joint venture makes a profit of 100 during the first period and Group A and Group B account for 50 profit each under the equity method. There is an argument to support the view that Group A and Group B income under the equity method from the joint venture should not be excluded from the Amount A tax base given that it represents a profit that is not subject to Amount A at the level of the joint venture. However, further work is required on this point to support the rationale of this adjustment and to address potential manipulation.
+
+Expenses that are typically non-deductible or limited for public policy reasons
+
+    166. A number of items treated as expenses under financial accounting rules are not deductible for CIT purposes in most Inclusive Framework jurisdictions for public policy reasons. Those expenses are typically associated with behaviours that governments regard as undesirable and will therefore be added back in computing the Amount A tax base. These adjustments would apply to bribes and other illegal payments, and fines and penalties that are due to a public authority for the breach of any legislation. Further work is required to explore whether the deduction of these expenses should be limited only where they exceed a certain amount to reduce the compliance burden.
+
+            5.2.3. Next steps
+
+    167. As a next step, further work will be undertaken on the implementation of the proposed framework to use consolidated group financial accounts, including:
+        ◦ Definition of an MNE group for consolidation purposes: the Amount A tax base will follow consolidation rules to delineate the composition of an MNE group in scope of Amount A. As a consequence, entities that benefit from consolidation exemptions, such as investment entities, will
+
+
+    46 [Cross-reference to chapter 4 (section 4-7) of GloBE rules].
+    47 For more details on the equity method of accounting, see [Cross-reference to chapter 4 (section 4-7) of GloBE rules].
+
+not be required to produce consolidated accounts for Amount A purposes. Including interaction with the accounting consolidation test under CbC rules and potential changes in the consolidation group derived from a decision by local accounting regulatory bodies.
+    • Dual-headed MNE groups: this involves addressing any particular issues for the computation of the Amount A tax base raised by dual-headed structures which can be listed on different exchanges and required to satisfy the accounting and regulatory frameworks of different jurisdictions.
+    • Changes in accounting estimates and prior period errors: this relates to clarifying the impact on the Amount A tax base of retrospective corrections of material “prior period errors” in the consolidated financial accounts and designing a simple mechanism to adjust Amount A computations.
+    • Development of a monitoring mechanism to assess differences between GAAP that could lead to material competitive distortions.
+    168. Further work will also be undertaken to finalise the determination of the standardised PBT measure. Specific areas for consideration include:
+        ◦ Whether profit or loss derived from joint ventures using the equity method of accounting should be retained in Amount A tax base.
+        ◦ Whether interest expenses from transactions with related parties that do not belong to the consolidated group under the accounting standard (for example an investment entity that controls an MNE group and advances funds to the group) present a risk of base erosion material enough to consider introducing a specific measure under Amount A.
+        ◦ Whether gains and losses from exceptional and non-recurring items should be excluded from the Amount A tax base, noting that these items are generally not excluded from the CIT base in Inclusive Framework jurisdictions, nor under Pillar Two or the CbCR requirement.
+        ◦ Whether items classified in the “other comprehensive statement”76 should be included in the Amount A tax base, noting that these items are generally not added back to the CIT base in Inclusive Framework jurisdictions, nor under Pillar Two or the CbCR requirement.
+        ◦ Whether minority interests should be accounted for in computing the Amount A tax base.
+    169. Important considerations in this work will include simplicity of administration, the ease of compliance, and having a standardised and consistent approach across the two Pillars.
+
+        5.3. The segmentation framework
+
+    170. The primary reason why it may be necessary to compute the Amount A tax base on a segmented basis is because Amount A will apply only to the profits that groups derive from carrying on in-scope activities. For example, the scope requirements for ADS distinguish between standardised cloud computing services, which would be in scope, and bespoke cloud services, which would not. A group that provides both types of services therefore needs an approach to segmentation that enables it to apply Amount A only to the profits derived from in-scope activities.
+
+
+    48 Under IFRS and a number of GAAP, income and expenses are classified and included either in the statement of “profit or loss” or in the “other comprehensive income” statement. As a general rule, non-realised income or expenses are recognised in the “other comprehensive income” statement in the period where they are accrued. These items are subsequently reclassified (“recycled”) from the “other comprehensive income” statement into the statement of “profit or loss” in a future period, usually when they are realised.
+
+    171. For the scope and nexus rules, taxpayers will need to separate their revenue between that attributable to CFB, ADS and out-of-scope activities. It is reasonable to expect that a taxpayer could prepare, and tax administrations could review, a breakdown of revenue on this basis. However, it would be more complex for a taxpayer to segment these different types of activities to calculate a measure of PBT. This is because it would require groups to apportion costs between these different types of activities in a way that is unlikely to reflect their existing external or internal reporting, and the reliance on allocation keys for such an apportionment brings into question whether the segmented PBT for each of these separate activities would accurately reflect the underlying economic reality of each business.77
+    172. Nevertheless, as Pillar One applies the principle of net, rather than gross, basis taxation it will still be necessary to compute the profits attributable to in-scope activities. The easiest way to achieve this would be to calculate the Amount A tax base on a consolidated basis, and use the consolidated profit margin of the group as a proxy for the in-scope profit margin, applying it to in-scope revenues to produce a proxy for in-scope profits. From this proxy, Amount A would be calculated and then allocated among market jurisdictions using the allocation formula. Therefore, as the default a group should be able to compute the Amount A tax base on a group basis.
+    173. However, there are some circumstances where this would not seem appropriate, or where doing so might fail to maintain a level playing field between taxpayers. For example, where a large group operates two substantially independent businesses, with different profit margins, computing the Amount A tax base on a segmented basis would ensure that a taxpayer cannot reduce or eliminate a potential Amount A tax liability by combining profits from high and low margin activities. In these circumstances, the segmentation framework could require a taxpayer to compute the relevant measure of PBT using segmented accounts.
+    174. The segmentation framework seeks to balance these competing pressures. In recognition of the need for an approach to Amount A that is as simple as possible, while retaining the integrity of the overall policy, a set of rules to determine whether segmentation is required, and where applicable how to arrive at a segmented PBT, is outlined below. Further work will be undertaken to develop this segmentation framework,78 and once agreement has been reached detailed guidelines will be published for taxpayers and tax administrations.
+
+            5.3.1. Overview of the different steps of the segmentation framework
+
+    175. The segmentation framework seeks to provide a balance between the additional accuracy and the additional complexity brought by the segmentation of the tax base. It establishes the following three-step process to evaluate the basis for segmentation, including providing for exemptions to the requirement to segment for ease of administration and compliance:
+        ◦ First, all MNE groups would break down their revenue between ADS, CFB and out-of-scope activities, as may required for the scope and nexus rules;
+        ◦ Second, to limit the number of MNE groups that are required to segment, MNE groups will compute the Amount A tax base on a group basis when their revenue falls below an agreed threshold; and
+
+
+
+    49 To calculate the PBT attributable to standardised and bespoke cloud computing services would require a group to apportion substantial shared costs between these activities using allocation keys (likely including revenue). The reliance on allocation keys to apportion a potentially broad range of different costs brings into question whether the PBT that would be determined for each of these separate activities would accurately reflect the underlying economic reality of each business. It would also be challenging to verify such allocations.
+    50 This will include consideration of whether it may be appropriate to only require a taxpayer to segment its tax base between in and out-of-scope activities, in line with the scope of Amount A.
+
+    • Third, any remaining groups will then test whether they should be required to segment and on what basis. Consideration is being given to an approach based on the following three sub-steps:
+        ◦ MNE groups will apply the “segmentation hallmarks” to determine whether they are required to segment – the Amount A tax base will be computed on a group basis if they are not required to segment.
+        ◦ For groups that do display these segmentation hallmarks, the disclosed segments in the consolidated financial accounts will be tested to ascertain whether they meet the agreed hallmarks. If so, the Amount A tax base will be computed on the basis of these segments, subject to an exemption where the disclosed segments have similar profit margins.
+        ◦ MNE groups that are not able to use their disclosed segments but are required to segment will be required to compute the Amount A tax base on the basis of alternative segments. This is expected to be relevant for only a small number of in-scope MNE groups, as a consequence of the application of the earlier steps.
+    176. The steps are outlined in detail below.
+
+            5.3.2. Step one: Separating revenue from CFB, ADS and out-of-scope activities
+
+    177. As a simplification, the exclusion of profits arising from out-of-scope activities will in most instances be delivered through the revenue-based allocation key of the Amount A formula (see section 6.2.3), rather than by requiring an MNE group to segment its accounts between in and out-of-scope activities to arrive at the relevant PBT measure. The Amount A formula is designed to ensure that only the portion of the Amount A tax base corresponding to in-scope revenue sourced in a given market jurisdiction is allocated to that market jurisdiction. This means that even in instances where the calculation of the Amount A tax base does not distinguish between in and out-of-scope activities, market jurisdictions will be allocated a proxy Amount A profits related to in-scope revenue sourced in their jurisdiction calculated by assuming that the profitability of in-scope activity is equal to the profitability of the group as a whole. Further work will be undertaken to address potentially material distortions where, for instance, an MNE group has highly profitable or highly loss-making out-of-scope activities which could affect the reliability of the approach. This will include consideration of whether, in some circumstances, taxpayers should be required to calculate net profit for in- and out-of-scope activities (or ADS, CFB and out-of-scope activities) separately.
+    178. To apply the Amount A formula, an MNE group would simply need to separate its revenue between that attributable to CFB, ADS and out-of-scope activities, noting that such break down would also be necessary to apply the Amount A rules on scope (see Chapter 2. ) and nexus (see Chapter 3. ).
+
+            5.3.3. Step two: Exemption or safe harbour from segmentation based on global revenue
+    179. The segmentation framework for Amount A includes an exemption or safe harbour to limit the number of groups that will be required to calculate Amount A on a segmented basis. This will reduce compliance costs and ease the burden for tax administrations who will need to review a business’ segmentation as part of the tax certainty process.
+    180. The exemption would exempt smaller groups, with global revenue below an agreed amount, from applying Amount A on a segmented basis. This means that segmentation will be required only for large groups that are more likely to operate a number of largely independent businesses, with different profits margins and different geographic profiles. It is for these businesses, which earn the highest profits, that calculating Amount A on a segmented basis will have the greatest tax impact. Consequently, MNE groups with global revenue less than EUR [X] billion would compute the Amount A tax base on a group basis (i.e.
+
+a “segmentation exemption” would apply). For ease of administration and transition, this threshold could initially be set a higher at EUR [X] billion and reduced over a transition period e.g. five years.
+    181. Alternatively, this exemption could operate as a safe harbour. This means that MNE groups below the threshold would have the option to compute the Amount A tax base either on a group or on a segmented basis (subject to the constraints outlined in the third step below). Such optionality could however substantially increase the number of MNE groups that could compute the Amount A tax base on a segmented basis, including potentially situations where the costs of this segmentation process would largely outweigh the tax revenue at stake.
+    182. The Inclusive Framework will consider the development of exceptions or safeguards to limit access to the segmentation exemption or safe harbour in certain circumstances. For example, this could include excluding groups that have out-of-scope revenue in excess of [x%] of total revenue and a group profit margin below the agreed profitability threshold or where a group below the threshold has two disclosed operating segments, one that falls within scope of Amount A and one that falls out-of-scope.
+
+            5.3.4. Step three: Determining the relevant PBT measure on a segmented basis
+
+    183. Businesses that are not eligible for the segmentation exemption or safe harbour (under Step Two) may be required to compute the Amount A tax base on a segmented basis, though it is recognised that this will not be appropriate in all instances. Step Three will determine whether a taxpayer is required to compute the Amount A tax base on a segmented basis, and, where it is, define the relevant segments for which the relevant measure of profit or loss will be computed separately.
+
+Step 3(a): Testing whether segmentation is required
+
+    184. It is expected that in most instances, it will be appropriate for a group that is required to segment its Amount A tax base to do so based on the operating segments it discloses for financial reporting purposes (see below). However, it is also recognised that the objectives of segmentation for financial reporting purposes differ from the objectives of applying Amount A on a segmented basis. In a financial reporting context, segmentation should enable the users of financial statements to better understand a group’s business. In contrast, segmentation for Amount A purposes should ensure the new taxing right delivers acceptable outcomes and ensures a level playing field for businesses in comparable circumstances. In addition, concerns have been raised that applying Amount A to disclosed operating segments could allow groups to influence or alter the application of Amount A by changing the way information is communicated to the chief operating decision maker, which under IFRS and US GAAP determines how segments should be disclosed.
+    185. Consequently, specific tests are being developed to determine if a group is required to compute its Amount A tax base on a segmented basis, or whether it would be more appropriate to compute its tax base on group basis. These tests will establish an objective and standardised definition of a segment for the purposes of Amount A based on “segmentation hallmarks”. Under one possible approach, this definition of a segment could be based on International Accounting Standard (IAS) 14, which preceded IFRS 8.79 This previous accounting standard provides a useful starting point for defining a segment for the
+
+
+    51 An operating segment is defined under IFRS 8 as the “component of an entity a) that engages in business activities from which it may earn revenues and incur expenses (including revenues and expenses relating to transactions with other components of the same entity), b) whose operating results are regularly reviewed by the entity’s chief operating decision maker to make decisions about resources to be allocated to the segment and assess its performance, and for which discrete financial information is available.” International Accounting Standards Board, International Financial Reporting Standard 8: Operating Segments, paragraph 5.
+
+purposes of Amount A, as it is based on the nature of a group’s business, rather than the basis on which
+the chief operating decision maker reviews a business.
+    186. IAS 14 defines a business segment as “a distinguishable component of an entity that is engaged in providing an individual product or service or a group of related products or services and that is subject to risks and returns that are different from those of other business segments. Factors that shall be considered in determining whether products and services are related include:
+    a) the nature of the products or services;
+    b) the nature of the production processes;
+    c) the type or class of customer for the products or services;
+    d) the methods used to distribute the products or provide the services; and
+    e) if applicable, the nature of the regulatory environment, for example, banking, insurance, or public
+utilities.”80
+    187. For some businesses, notably those that are primarily managed on a regional basis, it may be appropriate to calculate the Amount A tax base on a regional basis. In order to permit this the “segmentation hallmarks” could also include an alternative or supplementary definition of a “geographical segment”.81 However, it could also be argued that it is inconsistent with the nature of Amount A as an allocation of group-wide profits, with an agreed allocation key based on relative in-scope revenues in in each jurisdiction, to sub-divide in-scope businesses on a regional basis.
+    188. For some MNE groups, particularly those that have a relatively homogenous business, the “segmentation hallmarks” may show that it would be most appropriate to compute the Amount A tax base on a group basis. For other groups, the “segmentation hallmarks” will show that they should calculate the Amount A tax base on a segmented basis, and further will define the most appropriate approach to segmentation.
+    189. As part of the implementation of this framework, and to help taxpayers applying this definition in practice, this definition will be supported by a commentary, including examples, in order to clarify areas that may create uncertainty or give rise to dispute.
+
+Step 3(b): Computing Amount A based on disclosed segments
+
+Using disclosed segments as a rebuttable presumption
+
+    190. It is expected that the vast majority of groups that are required to compute the Amount A tax base on a segmented basis will rely on the disclosed operating segments included in their financial statements. This reflects the fact that most groups will disclose operating segments in their financial statements that meet the “segmentation hallmarks” outlined above. Hence, there will be a rebuttable presumption that Amount A will be applied on this basis. This presumption could be rebutted by either the group itself or a tax administration (e.g. through the tax certainty process) and therefore when an MNE groups disclosed segments do not meet the “segmentation hallmarks” it would not be able to calculate its Amount A tax base on this basis.
+    191. This approach means that where a group does not disclose any operating segments in its financial statements, there would be a presumption that Amount A should be applied on a group basis. Though
+
+
+    52 International Accounting Standards Board, International Account Standard 14: Segment Reporting, paragraph 9.
+    53 International Account Standard 14: Segment Reporting, paragraph 9 includes a definition of a “geographical segment” which may be relevant in developing this aspect of the “segmentation hallmarks”.
+
+these groups would still need to show this approach is consistent with the “segmentation hallmarks”. Similarly, where a group discloses business line segments, there would be a presumption that Amount A should be applied on that basis. There remains an important outstanding question whether there will be a presumption that a group disclosing regional segments should apply Amount A in all instances, particularly for groups that also have large pools of unallocated central research and development (R&D) or other costs. The final design of the definition of a segment for the purpose of Amount A will be particularly relevant for these businesses, which could allow businesses that operate on a regional basis to calculate their Amount A tax base on a regional basis.
+
+Exemption for segments with comparable profit margins
+
+    192. There may be some situations, notably where profit margins vary little across the segments of a group, where the tax impact of applying Amount A either on a group or segment basis will be minimal. In these instances, in order to minimise the compliance costs and administrative burdens associated with segmentation, taxpayers could be required to apply Amount A on a group basis. This exemption would apply where the profit margin of the disclosed segments (at the profit level shown in the financial accounts, which may be at a gross or operating level) varies by less than an agreed number of percentage points. As with the exemption for segmentation based on global revenue, this exemption could be turned into a safe harbour and become optional.
+
+Determining profit before tax on a segment basis
+
+    193. Where a taxpayer computes the Amount A tax base on the basis of its disclosed segments it will still need to allocate a pool of central or unallocated costs between segments in order to arrive at the relevant PBT measure for each segment. In many instances, it may prove difficult, if not impossible, to allocate these costs directly between segments. Therefore, again as a rebuttable presumption, these costs will be apportioned between segments using revenue as an allocation key. To prevent this rebuttable presumption giving rise to distortions, a safeguard rule could be introduced with the effect that the option of using a revenue-based allocation of costs would be available only where the proportion of central costs to be allocated between segments falls below a given percentage of total group or segment costs. Above this threshold, there would be a requirement to allocate costs using a more accurate, less approximate method. Where taxpayers compute their Amount A tax base on a segmented basis there will also be a requirement to reconcile the aggregated PBT (as calculated for the purposes of Amount A) at a segment level, with the PBT reported at a consolidated level.
+    194. When applying Amount A on a segmented basis, the treatment of intersegmental transactions remains to be determined. There may be instances where groups recognise intersegmental transactions in their segmented financial statements, or where a specific approach to segmentation requires the recognition of intersegmental transactions. Intersegmental transactions will be eliminated as part of the preparation of consolidated financial accounts. However, these transactions may have a direct impact on the reported profitability of different segments. This could, where Amount A is applied on a segmented basis, create incentives for groups to use intersegmental transactions to shift profits to segments that are primarily out-of-scope of Amount A (or conversely losses to segments that are primarily in scope of Amount A).
+    195. The simplest way to guard against this risk would be to exclude all intersegmental transactions for the purposes of Amount A. However, in some instances this would result in the misallocation of profits between segments – e.g. where one segment incurs substantial costs in developing an intangible that is then profitably exploited in another segment. To address the challenges associated with intersegmental transactions, consideration is being given to requiring a group to combine relevant segments where intersegmental transactions exceed a given percentage of the revenue attributable to a segment.
+
+Step 3(c): Computing Amount A based on alternative segments
+    196. The few groups that are not able to compute the Amount A tax base on a group basis or based on their disclosed segments could be required to perform that computation on the basis of alternative segments. This alternative approach would be determined based on the definition of a segment for the purposes of Amount A, as outlined above. It would be expected that this alternative approach would in most instances merely require a group to further break down the profit or loss account of an existing segment or segments and that the group may have an existing internal reporting framework on which to base this alternative segmentation.
+    197. A taxpayer could determine (or tax administrations, through the tax certainty process could require) that Amount A should be applied on the basis of an alternative segmentation. Hence, this option should deter taxpayers that may otherwise seek to use their approach to segmentation as a tool for tax planning.
+
+            5.3.5. Next steps
+
+    198. As a next step, further work will be undertaken to finalise the following specific areas of the segmentation framework:
+    • The exemption from segmentation (step two), especially:
+        ◦ The appropriateness of the level of the global revenue thresholds, including the threshold that would apply for the transitional period, informed by the data and analysis of the impact of the different global revenue thresholds on the number of groups required to segment their tax base (see Table 2.1).
+        ◦ The regime of this exception, and whether it should be mandatory (exemption) or optional (a safe harbour).
+        ◦ Possible additional exceptions or safeguards to override the exemption in some circumstances (e.g. in the case where a group that has out-of-scope revenue in excess of [x%] of total revenue and a group profit margin below the agreed profitability threshold or a group below the threshold has two disclosed operating segments, one that falls within scope of Amount A and one that falls out-of-scope).
+    • The definition of a segment based on the hallmarks (step three), especially:
+        ◦ Whether to include a third-party revenue requirement to prevent groups from using segments that consist primarily of revenue and costs generated by inter-group transactions.
+        ◦ Whether to include a materiality threshold to ensure that the definition does not lead to a proliferation of small, low-value segments (as this substantially increases the compliance costs and administrative burden associated with applying Amount A). For example, this materiality threshold could require a group to aggregate identified segments that generate less than an agreed percentage of the group’s consolidated revenue and/or an absolute amount of revenue.
+    • The computation of the PBT measure on a segmented basis (step three), especially the treatment of regional segments disclosed in financial accounts, the use of a revenue-based allocation keys for indirect costs, and the treatment of intersegment transactions.
+    199. In this work, important considerations will include simplicity of administration (and compliance costs) and ensuring a level playing field between taxpayers.
+
+        5.4. Loss carry-forward rules
+
+    200. To account for losses, the Amount A tax base rules will apply consistently at the level of the group or segment (where relevant) irrespective of whether the outcome is a profit or loss. Any losses arising from a taxable period will be preserved and carried forward to subsequent years through an “earn-out” mechanism. This means that Amount A losses will be reported and administered through a single account for the relevant group or segment, and kept separate from any existing domestic loss carry-forward regime.
+
+            5.4.1. Objectives
+
+    201. Consistent with the legislation of many Inclusive Framework member jurisdictions, the loss carry- forward regime will seek to ensure that Amount A is based on an appropriate measure of net profit.82 It is necessary to offset tax losses of earlier years against current year taxable profits to enable all businesses to recoup losses reflecting costs of their investment, and place businesses with volatile profit in the same position as those with more stable profit. This is consistent with the objective of taxing only economic profit (or ability to pay principle),83 and improves the neutrality of Amount A by ensuring a proper matching of revenues and expenses for all types of business activities.84
+    202. Loss carry-forward is also a way to preserve the taxing rights of residence jurisdictions, for example because they have already accepted (and will continue to accept) the deduction of losses generated by a business under the existing ALP-based system. Accounting for losses ensures that the residence jurisdiction of a business bearing the initial downside of a business activity (e.g. at a start-up level) will be able to recover these losses before a portion of the profit generated by the same activity is allocated to another jurisdiction under Amount A.
+
+            5.4.2. Calculation of losses
+
+    203. The Amount A tax base will be computed consistently whether a business earns profits or incurs losses (symmetry). This means that the calculation of “in-regime” losses (losses incurred after the introduction of Amount A) will be derived from the consolidated financial accounts after making the relevant book-to-tax adjustments (see section 5.2.2). This may apply to the level of the adjusted group PBT as a
+
+
+    54 Although some jurisdictions’ CIT legislation includes loss carry-back rules, whereby losses can be transferred to reduce or eliminate the CIT paid in a prior tax year, such rules are not considered in the context of Amount A because of their complexity and uncertainty. Loss carry-back regimes have proven difficult to administer as they require reopening a taxpayer’s assessment for prior tax periods. They also make it difficult for jurisdictions to forecast tax revenue as they require the refunding (possibly in years of economic decline) of taxes paid in previous years.
+    55 In this Report, ability to pay refers to the ability of a taxpayer to pay its income tax without impairing its original investment.
+    56 For example, this is relevant for high-risk business activities requiring heavy investments in innovation and technology, where the risk of making losses is greater than for other (low-risk) business activities. Many highly digitalised businesses start their business cycle with a “scale up” period during which they undertake substantial investment to develop their business model and launch their international growth to capture new markets. During this period, they can experience large losses even if in the long term they become efficient and highly profitable. Loss carry-forward is necessary to ensure that those risk-taking businesses with high fluctuations in profit can recoup the costs associated with their initial investments, and hence not be subject to a relatively higher income tax burden than other business activities with a faster route to profit.
+
+whole or, where the segmentation framework applies and Amount A will be measured at the level of the segment, to each segment (see section 5.3).
+    204. Where there is no segmentation85, all profits and losses linked to different business activities (including potentially out-of-scope activities) within the group will be mixed within the same tax base for Amount A purposes.86 In contrast, where the Amount A tax base is segmented, the segmentation approach will require that losses and profits incurred by different segments within the group are computed separately, and that losses incurred by a segment are generally not available to reduce the profit of another segment (i.e. there will be no cross-segment blending of profits and losses). Additional work will be required to finalise specific aspects of these computation rules, such as identifying exceptions for business reorganisations (see section 5.4.4), specific requirements to address the effects of inter-segment transactions (typically, to prevent abusive shifting of profits and losses, see section 454), and other implications of symmetry in the application of the Amount A tax base rules.
+    205. Consistent with the Outline and guiding principles established by the Inclusive Framework (see above section 1.1), a transitional regime is being considered which would allow certain net pre-regime losses (losses incurred before the introduction of Amount A that exceed profits earned during that pre- regime period) to be preserved and deducted against Amount A in-regime profits up to a certain time limit. To avoid complexity, no distinction would be made between pre-regime losses and in-regime losses under the carry-forward regime, i.e. the features of the carry-forward regime (including potential restrictions) would apply similarly to pre-regime and in-regime losses. This transitional regime would seek to allow groups to recover the costs of investment undertaken before the introduction of Amount A (i.e. distortions arising from the timing of introduction of the new taxing right), and prevent a reallocation of profit under Amount A where there is no economic profit. But it is recognised that this approach would also treat pre- regime losses and pre-regime profits differently, creating an asymmetry in the calculation of losses which would reduce the Amount A profit potentially reallocated to market jurisdictions. Some members of the Inclusive Framework consider that profit and losses should apply symmetrically and therefore, in principle are opposed to accommodating any pre-regime losses. They argue that in case pre-regime losses are considered, pre-regime profits of the relevant period must also be brought forward for distribution. In addition, retroactive identification and calculation of Amount A losses based on past financial accounts could present practical challenges. To address these challenges and to reduce compliance and administrative costs, a time limit beyond which pre-regime losses would no longer be considered could be introduced. Along with other considerations regarding this approach, further work and discussion will be required to determine this duration.87
+    206. Depending on the length of this period for pre-regime losses, and the availability of historical data, some simplifications to the Amount A tax base rules (e.g. book-to-tax adjustments, segmentation rules), or to the rules developed for business reorganisations, may also need to be considered to facilitate administration. For example, if a lengthy period of pre-regime losses is accepted then it will be necessary
+
+
+    57 As a result of the different exemptions available to determine whether segmentation is required, it is expected that only a limited number of MNEs in scope of Amount A would be required to segment their consolidated accounts for the purpose of computing the Amount A tax base (see section 5.3.3).
+    58 This means that if a profit margin-based approach is adopted (see section 6.2.4), the MNE group will calculate the quantum of losses for Amount A purposes by multiplying its consolidated negative profit margin by its total in-scope revenue.
+    59 This time limit on the calculation and reporting of losses incurred before the introduction of Amount A would not necessarily apply to the carry-forward of these pre-regime losses to subsequent years (see section 5.4.4).
+
+to devise rules which deal with the impact of changing approaches to segmentation throughout such a period to ensure that an appropriate measure of pre-regime losses is available for offset against in-scope profits (e.g. using an allocation key based on revenue).
+
+            5.4.3. Carry-forward regime
+
+    207. Unlike profits, losses generated over a given period will not be allocated to market jurisdictions through a formula. Allocating these losses to market jurisdictions would be complex and burdensome to administer,88 and could produce outcomes that are difficult to rationalise. For example, Amount A could be allocated to new markets that a group has recently entered in profitable years, even if in previous years the losses incurred (e.g. in developing a digital platform) were allocated to other markets in which the group has been operating for a longer period. Similarly, losses might be allocated to a market jurisdiction that cannot be offset later against any future profits of the group due to changes in the activity of the group in that market jurisdiction (e.g. lower sales activity in that jurisdiction, termination of the activity in that jurisdiction).
+    208. To avoid such difficulties and with a view to simplifying the process of dealing with losses, Amount A losses will be preserved and pooled in a single account at the level of the group (or segment where relevant) and carried forward to subsequent years through an “earn-out” mechanism. 89 This means that a positive tax base for Amount A (in excess of the profitability threshold determined under the formula) would arise only after all historic losses accumulated in the loss account of the group (or segment where relevant)90 have been absorbed through an earn-out mechanism.
+
+            5.4.4. Potential restrictions
+
+    209. Although loss carry-forward rules are an essential feature to tax net profits and avoid distortions, many Inclusive Framework jurisdictions restrict the deduction of some carry-forward losses for a number of reasons such as addressing tax planning strategies or ease of administration of the system. For Amount A, further work is required to assess the possibility of including time restrictions, and to develop specific rules for business reorganisations. In this work, relevant considerations will include the impact of these rules on complexity and administration, as well as on the allocation of taxing rights.
+
+Time limitations
+
+    210. In the legislation of many Inclusive Framework members, the period over which carry-forward losses can be used is limited; after a certain period, the taxpayer’s right to offset losses against profits may
+
+
+    60 An approach allocating losses to market jurisdictions would require the development in each market jurisdiction of loss carry-forward rules for Amount A purposes, presumably in accordance with some harmonised standards to ensure that market jurisdictions are not able to render the loss allocation ineffective (e.g. through prohibitive time limits on relief). Taxpayers would need to administer the allocated losses in each market jurisdiction separately, and submit in each market jurisdiction a claim for tax relief once profit is allocated to that same jurisdiction under Amount A in subsequent years.
+    61 Comparable mechanisms are used in the legislation of different Inclusive Framework jurisdictions, such as for the treatment of certain investment vehicles (typically, to offset profit and losses generated by a portfolio of assets over multiple years before redistributing profit to the investors).
+    62 If the Amount A carry-forward regime is extended to certain pre-regime losses, the loss account would also include those pre-regime losses.
+
+lapse, wholly or in part. Beyond revenue concerns, time limitations are imposed for practical and administrative reasons, such as the difficulty of retaining information over a long period and to simplify tax administration arrangements.
+    211. For Amount A losses, a trade-off exists between the practical and administrative constraints that may justify the introduction of a time limitation, and the adverse impact that any limitation may have on appropriately measuring net profit (e.g. costs of investments made before the time limitation), delivering neutrality (e.g. business models with volatile profit) or on the allocation of taxing rights (e.g. residence jurisdictions that have accepted the deduction of unrelieved losses under the existing ALP-based system at an entity level). Further work is therefore required to assess the best approach to deal with this trade- off, interactions with provisions on statute of limitations (and tax audit), and determine whether unlimited carry-forward could be retained without creating excessive administrative challenges.91
+
+Business reorganisations
+
+    212. In legislation across the membership of the Inclusive Framework, loss carry-forward regimes include specific rules for business reorganisations within an MNE group or between different groups.92 These rules generally seek to prevent avoidance opportunities by ensuring that the business claiming the loss deduction is not economically different from the business that sustained the loss. Some of these restrictions are focused on changes of ownership, for example by providing that the right of a company to carry forward losses is forfeited in the event of a change in identity of its controlling shareholder (e.g. share transactions leading to a transfer of control). Other restrictions are focused on changes in business activity, and impose what is essentially a “continuity of business enterprise” test by denying loss relief when the profit against which the deduction is claimed is not produced by substantially the same business activity that incurred the loss. Finally, some legislation includes a combination of both approaches. In all cases, these rules are complex and burdensome for taxpayers and tax administrations alike, with substantial variations in scope and impact (e.g. the definition of what constitutes a “change of ownership” or “change of business activity”). Such rules create a rich source of disputes and uncertainty.
+    213. For Amount A, specific rules will be developed to deal with the treatment of unrelieved losses in the context of business reorganisations (e.g. creation of a new business, modification of an existing business, sale (or purchase) of whole or part of a business to a third party). These rules would seek to ensure that unrelieved losses are transferred to (and carried forward in) the relevant group (or segment where relevant) where the relevant business activity is continued. They would also seek to prevent the trading of losses and related tax avoidance arrangements. Important considerations in the development of these rules will include: complexity (and administration) issues; definitional issues; interactions with segmentation rules (including changes over time of the segmentation basis) and the need to guard against tax avoidance arrangements; and possible impact on the allocation of taxing rights. Accordingly, a number
+
+
+
+    63 Some members of the Inclusive Framework consider the taxation of Amount A profit net of any losses as the priority, and support unlimited carry-forward (typically, jurisdictions with no time limitations in their domestic carry-forward regimes). Other members are concerned about the administrative challenges created by unlimited carry forward, including the opportunities for manipulation and abuse. They therefore favour a time limit. These members also generally consider that the need for time limitations is proportionate to the amount of losses at stake, and hence that the possible inclusion of profit shortfalls should be considered in deciding this issue.
+    64 A business reorganisation here means any situation where one or more members of the MNE group, or one or more business asset or branch within the group, are transferred and become part of another group, or another business or branch within the same group. This includes therefore changes to the organisation of a business that leads to changes to the segmentation basis (see section 5.3).
+
+of simplifications will be considered to deliver these results, including, for example, the use of allocation keys to allocate unrelieved losses.
+
+            5.4.5. Interactions with domestic carry-forward regimes
+
+    214. Consistent with the features described above, and the fact that Amount A has its own tax base, the Amount A carry-forward regime will be kept separate from any existing domestic loss carry-forward regime. This means that losses generated at entity level under the ALP-based profit allocation system (“entity-level losses”) would not alter the Amount A tax base, nor would Amount A unrelieved losses affect the separate tax base of an MNE group entity determined in accordance with the ALP. In practice, this means that:
+        ◦ A group entity liable to pay Amount A (or part of it) would not be able to reduce or eliminate that liability with entity-level losses;
+        ◦ Amount A losses of a group (or segment where relevant) would not be offset against the profit of an entity determined under the ALP-based profit allocation system; and
+        ◦ Entity-level losses under the ALP-based profit allocation system would generally not be affected by Amount A profit (or tax).93
+    215. There is a separate question whether entity-level losses, if not considered for computing the Amount A tax base, could be taken into account for determining the identity of the entity or entities in the group (or segment) that would bear the Amount A tax liability (for the purpose of eliminating double taxation). The mechanism to eliminate double taxation arising from Amount A is based on different steps (e.g. activity test, profitability test), and including in one of these steps the consideration of entity level losses is under consideration as part of the work on elimination of double taxation (see section 7.2.6.).
+
+            5.4.6. Profit shortfalls
+
+    216. Some Inclusive Framework members proposed that the Amount A carry-forward regime should accommodate, in addition to economic losses, “profit shortfalls”. They consider that where the Amount A profit of a group (or segment) in a given period falls below the agreed profitability threshold of the Amount A formula, the Amount A carry-forward regime should treat the difference between this profit and the level of the profitability threshold (i.e. profit shortfalls) as a “loss” that can be carried forward to the next taxable periods. Profit shortfalls would thus be preserved and potentially give rise to a tax relief in subsequent profitable years for Amount A purposes (see illustration in Annex C, Box C.1.).
+    217. For the proponents of this approach, a carry-forward regime that includes profit shortfalls would improve neutrality by ensuring that Amount A does not apply differently to taxpayers with volatile profits from one period to the next (see Group X and Y in the example in Annex C, Box C.1.).94 They note that in conventional tax systems which tax the first unit of profit above zero, zero profitability (where losses begin) is the "pivot point" for carryovers. They suggest that in a system like Amount A that only reallocates residual profits above a fixed positive profit threshold, neutrality requires that the pivot point for carryovers be the residual profit threshold. In addition, this approach would also allow Amount A to better adapt to unpredictable economic situation. Some of these members note that transfer pricing methods, such as the TNMM, rely on average financial data over a number of years; and that a carry-forward rule for profit
+
+
+    65 Members of the Inclusive Framework will remain free as a matter of domestic tax policy to reduce an Amount A allocation to their jurisdiction by entity-level losses that the same MNE has incurred through an entity in that jurisdiction.
+    66 Volatility of profits may be the result of different factors in the context of Amount A, including timing differences in the treatment of revenue and expenses between different accounting standards (see section 5.2.1).
+
+shortfalls is consistent with this approach, but without the administrative difficulties of an averaging method. In addition, they consider that this approach would improve the accuracy of the measure of residual profit subject to the Amount A formula, by ensuring that only profit in excess of the profitability threshold calculated over a longer period (and business cycle) is reallocated to market jurisdictions. It would thus contribute to preserving the taxing rights of residence jurisdictions over Amount A profits not only by recovering previously deducted losses, but also by improving the measure of the profit that remains subject to the existing ALP-based allocation system (so-called “deemed” routine profit of the business, see section 6.2.1). The residence jurisdiction where the business is bearing costs and taking risks would benefit for longer from its taxing right under existing rules on the approximation of routine profit. These members also generally consider that the same rules should apply to losses and profit shortfalls – a single carry-forward system (including for potential time restrictions) – and that this approach would not add any complexity and be easy to administer.
+    218. In contrast, for another group of members, accounting for profit shortfalls would not be justified in principle, and would also introduce a source of complexity and increase compliance and administrative burdens. From a policy standpoint, these members note that most existing income tax rules do not average profits over multiple years (including where there is a progressive tax rate), and also suggest that loss carry-forward regimes are designed only to enable taxpayers to recoup losses reflecting costs of their earlier investments. Because profit shortfalls are not a cost that impairs the ability of a group to recoup its past investments, they see them as fundamentally different from losses, and take the view that there is no justification for allowing their carry-forward. These members also take the view that disregarding profit shortfalls has no or a limited impact on the tax burden of the taxpayer (depending on income tax rate differentials), and hence on neutrality, as it only changes the allocation of profit (and the jurisdiction where the taxpayer needs to pay its income tax). In addition, they consider this proposal inconsistent with the rationale of the Amount A profitability threshold, which is a simplified convention introduced to limit interactions between Amount A and existing profit allocation rules, and simplify the calculation of Amount A profit. In their view, this threshold does not seek to replicate the concept of residual profit used in transfer pricing rules, is not intended to apply to the profit of an MNE group (or segment where relevant) over multiple years, and involves an accepted degree of approximation. Finally, these members are concerned that this proposal would present practical difficulties. In their view, the different policy objective of “income averaging” would require a separate treatment of losses and profit shortfalls, and create the complexity of dealing with two distinct carry-forward regimes. Specifically, they consider that stricter time limits would need to apply to profit shortfalls compared with losses, on the basis that accounting for profit shortfalls over an excessively long period would lead to inappropriate results. For example, a business with a low profit margin could accumulate unrelieved profit shortfalls over 10 or 15 years which would not be justified from a policy standpoint, and would create opportunities for tax planning. These members also note that profit shortfalls would increase the amount of losses administered by the Amount A carry-forward system, and hence the need for strict and complex anti-avoidance rules to prevent the trading of these losses (including in case of business reorganisations).
+    219. A decision will be necessary to determine whether the Amount A carry-forward should be extended to profit shortfalls. To facilitate this decision, further work will be conducted to estimate the impact of accounting for profit shortfalls on the amount of losses administered by the Amount A carry-forward regime (and on the Amount A profit of in-scope MNE groups), and in turn on reducing the quantum of Amount A. Relevant considerations will include possible implications and spill-overs of this proposal on other features of this carry-forward regime or of Amount A, such as time limitations for the use of losses (see section 5.4.4), or the level of the profitability threshold in the Amount A formula (see section 6.2.1).
+
+            5.4.7. Administration
+
+    220. The approach under consideration requires potentially all MNE groups in scope of Amount A to compute their Amount A tax base to identify and preserve losses incurred over a given period, including in periods where MNE groups may not foresee profit in the near or medium term that would be relevant for Amount A purposes (in excess of the profitability threshold).95 To manage the loss account(s), these groups will also be subject to specific filing and documentation requirements, such as keeping records at group level (or segment where relevant) of carried-forward losses (including pre-regime losses) for each period from the introduction of the new taxing right. This compliance burden could, however, be substantially mitigated by the development of a simplified and centralised compliance framework for Amount A (including standardised filing requirements), where one entity in the group would be responsible for administration and compliance with Amount A (see section 10.2.1). Further, other procedures developed to facilitate the administration of Amount A are likely to be relevant for the proposed loss carry-forward regime, such as the opportunity to obtain early certainty (e.g. calculation and allocation of pre-regime losses, impact on unrelieved losses of a business reorganisation).
+
+            5.4.8. Next steps
+
+    221. As a next step, further work will be undertaken on the specific aspects of the loss carry-forward regime that need to be finalised, including:
+        ◦ The issue of pre-regime losses, and what specific time limit, if any, would be needed to limit administration and compliance costs.
+        ◦ The impact of business reorganisations (including changes over time of the segmentation basis), and the specific rules that need to be developed to prevent the trading of losses and related tax avoidance arrangements.
+        ◦ The question of time limitations, and the implications of adopting unlimited carry-forward.
+    222. In this discussion, important considerations will include simplicity of administration (and compliance costs), ensuring net-basis taxation, neutrality and the possible impact on the allocation of taxing rights.
+    223. Separately, as part of the discussion on the quantum of Amount A (see section 6.5), a decision will be necessary to determine whether this regime should apply exclusively to economic losses or be extended to cover profit shortfalls.
+
+
+
+
+
+
+
+
+
+
+
+    67 The treatment of losses incurred by MNE groups that are not in scope of Amount A because they fall below one of the two revenue thresholds (see section 2.3) will also need to be considered. For example, the transitional regime developed to accommodate pre-regime losses (see section 5.4.2) could be extended and apply similarly to losses incurred during periods where the MNE falls below the scope revenue thresholds.
+6.	Profit allocation
+
+
+
+
+        6.1. Overview
+
+The formula to determine the quantum of Amount A
+
+    224. The calculation and allocation of Amount A will be delivered through a formula that is not based on the ALP. This formula will apply to the tax base of a group (or segment where relevant), and will involve three distinct components represented in the steps below:
+        ◦ Step 1: A profitability threshold to isolate the residual profit potentially subject to reallocation, and limit any interactions between Amount A and the remuneration of routine activities under conventional transfer pricing rules. To avoid complexity, this threshold would be based on a simplifying convention, which will be a PBT to revenue ratio.
+        ◦ Step 2: A reallocation percentage to identify an appropriate share of residual profit that can be allocated to market jurisdictions under Amount A (hereafter, the “allocable tax base”). This will ensure that other factors such as trade intangibles, capital and risk, continue to be remunerated and allocated residual profit. To avoid complexity, this allocable tax base will be determined through a simplifying convention, which will be a fixed percentage.
+        ◦ Step 3: An allocation key to distribute the allocable tax base amongst the eligible market jurisdictions (i.e. where nexus is established for Amount A). It will be based on locally sourced in-scope revenue determined by applying the rules on scope, nexus and revenue sourcing (see Chapter 4. ).
+    225. This three-step formula to determining the Amount A quantum could be delivered through two approaches: a profit-based approach or a profit margin-based approach. A profit-based approach would start the calculation with the Amount A tax base determined as a profit amount (e.g. an absolute profit of EUR 10 million), whereas a profit-margin approach would start the calculation with the Amount A tax base determined as a profit margin (e.g. a PBT to revenue of 15%). Both approaches would apply the three- steps of the allocation formula similarly, and hence would deliver the same quantum of Amount A taxable in each market jurisdiction. The administration of each approach may, however, present some variations (e.g. foreign currency exchanges), and these practical differences will inform the choice of the most appropriate approach to calculate and allocate Amount A. These two approaches are explored in more detail in Annex B.
+
+Potential differentiation mechanisms
+    226. As part of the comprehensive agreement still needed, it will be necessary to determine whether the formula should incorporate any “differentiation” mechanism. That is, whether the different components of this formula should apply similarly in all circumstances, or whether some variations (for example the profitability threshold under step 1 and/or the reallocation percentage under step 2) should sometimes be applied to increase (or decrease) the quantum of profit reallocated to market jurisdictions for certain business activities. No agreement has yet been reached on either the policy merits of these variations or
+
+their feasibility from a technical design perspective. There will also be some remaining issues around questions of regional and jurisdictional segmentation.
+
+The issue of double counting
+
+    227. The Outline highlighted an important question as to whether the interactions between Amount A and existing taxing rights of market jurisdictions could, in some circumstances, result in a market jurisdiction being able to tax twice the residual profit of an MNE group: once under its existing taxing rights, and again through Amount A (the issue of “double counting”). The issue of double counting is expected to be addressed, at least partially, through the mechanism to eliminate double taxation (see Chapter 7. ). This is because where an entity is allocated significant residual profit in a market jurisdiction under existing profit allocation rules, this entity may be identified as a “paying entity” within the group for the purpose of eliminating double taxation which would bear a portion of the Amount A tax liability (resulting in a “netting- off” effect). However, some members of the Inclusive Framework suggest that, on its own:
+        ◦ This may not fit with the overall rationale for Pillar One (and Amount A specifically) which has always been to adapt the income tax system where businesses have an active and sustained engagement in a market jurisdiction, but the existing profit allocation rules do not give that jurisdiction taxing rights over residual profits generated in that market. So, if Amount A did apply to businesses that already realise residual profits in the market, the problem Pillar One is trying to solve may not seem to be present.
+        ◦ Applying the mechanism to eliminate double taxation to decentralised businesses that realise residual profits in a large number of entities and jurisdiction will be complex. Specifically, it may be difficult to calibrate this system to ensure that a full-risk distributor entitled to residual profit is identified as the paying entity for the Amount A allocated to the jurisdiction in which it is resident. For this reason, it may be preferable to develop a method that would reduce pressure on the elimination system, allowing this system to focus on more centralised businesses where it will be comparably easy to identify the paying entities.
+    228. The marketing and distribution profits safe harbour described below is an approach that seeks to address these issues related to double counting, as well as a number of other issues expressed by Inclusive Framework members and stakeholders. It would be an additional step in the Amount A formula to adjust the quantum of Amount A allocated to eligible market jurisdictions in specific circumstances. Consideration is also being given to other approaches to deal (or alleviate) double counting beyond the mechanism to eliminate double taxation, such as a domestic business exemption.
+
+Marketing and distribution profits safe harbour
+
+    229. The premise of the “marketing and distribution profits safe harbour” is that Amount A should be allocated to a market jurisdiction that is not allocated residual profits under the existing profit allocation rules but should not be allocated to a market jurisdiction where (for its in-scope activities) an MNE group already leaves sufficient residual profit in the market. It would not be a traditional safe harbour, but would instead “cap” the allocation of Amount A to market jurisdictions that already have taxing rights over a group’s profits under existing tax rules. Conceptually, it would consider the income taxes payable in the market jurisdiction under existing taxing rights and Amount A together, and adjust the quantum of Amount A taxable in a market jurisdiction, on the basis of limiting it where the residual profit of the MNE group is already taxed in that jurisdiction as a result of the application of the existing profit allocation rules. Where an MNE qualifies under the safe harbour in the market jurisdictions where it operates, it would need to calculate Amount A, but would otherwise remain subject to the existing rules including on transfer pricing and the elimination of double taxation.
+
+    230. Under the safe harbour, where an MNE group has a taxable presence in a market jurisdiction conducting marketing and distribution activities connected to locally sourced in-scope revenue (either a resident entity or a permanent establishment), the group would determine the profits allocated to the market jurisdiction under existing profit allocation rules for the performance of these marketing and distribution activities (the “existing marketing and distribution profit”).96 The MNE group would then compare this with the “safe harbour return”, which would be the sum of two components:
+    • Amount A, as computed under the Amount A formula; and
+    • A fixed return for in-country routine marketing and distribution activities, which could include a regional, and industry uplift.
+    231. The safe harbour return represents the cap, by reference to which the quantum of Amount A allocated to a market jurisdiction would be adjusted. It would be applied by an MNE group separately to each market jurisdiction in which they operate and would give rise to three possible outcomes:
+        ◦ Where the existing marketing and distribution profit is lower than the fixed return, the MNE group will not be eligible for the safe harbour;
+        ◦ Where the existing marketing and distribution profits exceeds the fixed return, but falls below the safe harbour return, the quantum of Amount A allocated to that jurisdiction would be reduced to the difference between the safe harbour return and the profit already allocated to the local presence; and
+        ◦ Where existing marketing and distribution profit exceeds the safe harbour return, no Amount A would be allocated to that jurisdiction.
+    232. In-scope MNE groups that for commercial reasons (given their particular business models) operate without an existing taxable presence in a market jurisdiction or only allocate a relatively limited return (e.g. on a cost-plus basis) to local marketing and distribution activities would not come under the safe harbour rule and thus would pay Amount A in the majority of market jurisdictions in which they operate. In contrast, more traditional CFB businesses, particularly those with decentralised business models and full-risk distributors, may already allocate profits to market jurisdictions that exceed the safe harbour return. Hence, though these businesses would need to calculate Amount A (to determine that they have met the safe harbour), they would in many instances ultimately not need to pay Amount A or apply the mechanism to eliminate double taxation.
+
+A domestic business exemption.
+
+    233. This mechanism would exclude from the scope of Amount A profits derived by an ADS or CFB business in a market jurisdiction which can be seen as autonomous from the rest of the group, i.e. sale of goods or services that are developed, manufactured and sold in a single jurisdiction. As in this scenario residual profit is typically already allocated to the market, this exemption would prevent the risk of double counting in those circumstances.
+    234. Further work will be required to assess the effectiveness, the efficiency and the feasibility of the different options to deal with double counting, in close coordination with the work on the mechanism to eliminate double taxation and in light of the policy objective of Amount A (see Chapter 7. ). This will also include consideration of the interactions between Amount A and certain withholding taxes collected by market jurisdictions.
+
+
+
+    68 Where a market jurisdiction is allocated profits for other activities, e.g. manufacturing, or marketing and distribution activities relating to out-of-scope revenue this would not be taken into account for the purposes of the safe harbour.
+
+        6.2. The formula to determine the quantum of Amount A
+
+            6.2.1. Step 1 – The profitability threshold
+
+    235. Amount A represents a simplified proxy of the portion of the residual profit of a business that can reasonably be associated with the sustained and significant participation of that business in the economy of a market jurisdiction. To isolate the residual profit of a business (group or segment where relevant) potentially subject to reallocation under Amount A, the formula includes a profitability threshold. This threshold is based on a simplified convention (i.e. a fixed percentage), and will apply to the Amount A tax base after the deduction of any available losses carried forward (see section 5.4).
+    236. One reason for introducing and using a fixed threshold, rather than a variable percentage based on facts and circumstances or related transfer pricing analysis, is to reduce complexity. The profitability threshold will materially reduce the scale of interactions of Amount A with conventional transfer pricing rules (e.g. remuneration of routine activities), and hence the complexity that these interactions create to eliminate double taxation (and double counting, see below Section 6.4). This threshold will not alter the allocation of profit derived from routine activities under the current transfer pricing rules (given that Amount A operates as an overlay to the existing profit allocation rules), but will simplify the identification and calculation of the residual profit subject to the new taxing right.
+    237. To achieve these results, the profitability threshold will be based on a simplifying convention (i.e. proxy). Consistent with the logic adopted for tax base determinations, and to facilitate both administration and compliance, the profitability of an MNE group (or segment) would be assessed through an Amount A PBT to revenue ratio (i.e. a percentage).97 The determination of this figure will not rest on any MNE-specific economic assessment nor necessarily correspond with underlying transfer pricing arrangements. The impact of different profitability thresholds is shown in the Table 6.1 below.
+
+Table 6.1. Estimated Impact of Different Profitability Thresholds
+Number and share of MNE groups above the residual profit threshold.
+
+Profitability Threshold
+Estimated number of MNE groups in scope
+Estimated Global residual profit (USD trillion)
+8%
+~990
+0.60
+10%
+~780
+0.49
+15%
+~430
+0.29
+20%
+~240
+0.17
+25%
+~150
+0.10
+Note: Data are for 2016. MNEs with consolidated revenue below €750 million are excluded from this estimate. Only MNEs with a primary activity in ADS and CFB sectors are included. The classification across sectors is based on the primary activity of each group. This estimate does not account for the scope threshold based on foreign source in-scope revenue, the fact that groups may have different business lines or units operating in different sectors (i.e. impact of segmentation), and the possible impact of accounting for profit shortfalls in the calculation of Amount A profit (see section 5.4.6). This suggests that the total amount of global profit designated as residual profit in this table could be lower in practice. It does not take into account that groups may have different business lines or units operating in different sectors.
+
+
+
+
+    69 For the purpose of calculating and applying Amount A, further work will be required to define the term “revenue”
+(see paragraph 515).
+
+Source: Secretariat calculations. Further details are provided in CTPA/CFA/WP2/NOE2(2020)65 and CTPA/CFA/WP2/NOE2(2020)6.
+
+    238. More data and analysis is available in the economic impact assessment.98 With these estimates, Inclusive Framework members will be able to take an informed decision when setting the threshold. The decision on the level of the profitability threshold will seek to combine different objectives, such as ensuring the amount of profit to be reallocated is modest but meaningful, proportionate to compliance costs and administrative burden, and that the number of groups impacted is kept at an administrable level. For the purpose of illustration, it is noted that based on a 10% threshold of PBT to revenue, the above estimates in Table 2.1 suggest that about 780 MNE groups potentially in scope of Amount A would have residual profits. This would represent about 35% of MNE groups subject to CbCR with a primary activity in ADS and CFB sectors. Further, the combined residual profit of these MNE groups would be USD 0.51 trillion.
+
+            6.2.2. Step 2 – The reallocation percentage
+
+    239. Under Pillar One, only a portion of the residual profit of a group (or segment where relevant) is attributable to Amount A. This is because MNE groups perform a variety of activities unrelated to Amount A that generate residual profit, and hence a substantial portion of the group’s residual profit should continue to be allocated under existing rules to factors such as trade intangibles, capital and risk, etc.
+    240. The formulaic calculation of Amount A thus requires an additional step: the reallocation percentage. For simplicity, the share of residual profit that is attributable to the market jurisdiction will be determined by a simplifying convention (i.e. proxy) not based on the particular circumstances of the MNE group or the ALP. Such a convention could be residual profit multiplied by a fixed percentage. Consistent with the estimates provided above in Table 6.1, some estimates of the impact of different reallocation percentages (in combination with different possible profitability thresholds) on the amount of global residual profit allocable to market jurisdictions are shown in the Table 6.2 below.
+
+Table 6.2. Effect of profitability threshold and allocation percentage on residual profits
+
+Profitability Threshold
+Allocation Percentage
+Estimated global residual profit allocable to market jurisdiction (USD billion)
+8%
+10%
+60
+
+20%
+120
+
+30%
+180
+10%
+10%
+49
+
+20%
+98
+
+30%
+147
+15%
+10%
+29
+
+20%
+58
+
+30%
+87
+20%
+10%
+17
+
+20%
+34
+
+30%
+51
+25%
+10%
+10
+
+20%
+20
+
+30%
+30
+Note: Data are for 2016 (see above Table 6.1).
+
+
+    70 see CTPA/CFA/WP2/NOE2(2020)10)
+
+Source: Secretariat calculations (see above Table 6.1).
+
+    241. More data and analysis is available in the economic impact assessment.99 With these estimates, Inclusive Framework members will be able to take an informed decision on the reallocation percentage. This decision will seek to combine different objectives, such as ensuring that activities and factors generating residual profit unrelated to Amount A would continue to be taxed under the existing ALP-based profit allocation system. For the purpose of illustration, it is noted that based on a 10% profitability threshold and 20% reallocation percentage, the above estimates in Table 6.2 suggests that using 2016 financials USD 98 billion would be allocated to market jurisdictions. Under this approach, 80% of the residual profit of an MNE group (or segment where relevant) calculated for the purpose of Amount A would thus continue to be taxed in accordance with the existing ALP-based profit allocation system, and the other 20% would constitute the allocable tax base for Amount A purposes.
+
+            6.2.3. Step 3 – The allocation key
+
+    242. Once the calculation of the allocable tax base for Amount A is completed, that profit needs to be allocated to the various eligible market jurisdictions based on an allocation key. This allocation is based on in-scope revenue derived from each eligible market jurisdiction (for revenue sourcing rules, see Chapter 4.2).
+    243. The application of this allocation key will require a clear definition of revenue. Under accounting standards, revenues are typically booked on a gross basis, net of certain types of taxes (including sales, use, value added and some excise taxes). Further work will be required to determine if the existing definitions of revenue provided by accounting standards and shown in financial statements (which are relied upon for CbCR) could be used to define revenue for the purposes of applying the Amount A formula (as well as to apply the threshold tests for scope, see section 2.3).
+    244. The application of the revenue-based allocation key will differ depending on whether the formula is implemented through a profit-based or a profit-margin approach (see section 6.2.4). Under a profit-based approach, the allocable tax base (a profit amount, i.e. PBT) could be multiplied by the ratio of locally sourced in-scope revenue to total revenue of an MNE group (or segment where relevant) used in computing the tax base, including revenue from ineligible market jurisdictions (where no nexus would be established for Amount A purposes) and potentially out-of-scope revenue. Under a profit-margin approach, the allocable tax base (a profit ratio, i.e. PBT / revenue) could be multiplied by locally sourced in-scope revenue.
+    245. Both of these approaches would ensure that Amount A profits attributable to revenue sourced in ineligible market jurisdictions are not allocated to other eligible market jurisdictions, and remain instead taxed under the existing profit allocation system (a so-called “throwback” system). In practice, given the likely level of the nexus revenue thresholds, (see section 3.2.1), the Amount A profit attributable to ineligible market jurisdictions is likely to be small. Both approaches would also ensure that where the calculation of the Amount A tax base (at the level of a group or segment) includes profit from out-of-scope revenue, the portion of the Amount A tax base that relates to out-of-scope revenue will not be reallocated to market jurisdictions.100
+
+
+    71 see CTPA/CFA/WP2/NOE2(2020)10)
+    72 For example, if a segment had total in-scope revenue of 80 (all of which was sourced to eligible market jurisdictions under the nexus rule) and 100 total revenue (including out of scope revenue), the allocation key would mean that only
+
+    246. Another possible approach would be to allocate the entire allocable tax base (as determined by steps 1 and 2) between eligible market jurisdictions, and allocate Amount A profits related to revenue sourced in ineligible market jurisdictions to eligible market jurisdictions (the “throw-in” system). This would modify the application of the revenue-based allocation key described above in paragraph 516, and require determining the source of all in-scope revenue (including revenue sourced in non-eligible market jurisdictions).101
+
+            6.2.4. Approaches to implement the formula
+
+    247. To summarise, a three-step process will be required to calculate the quantum of Amount A taxable in each eligible market jurisdiction. This process could be implemented by either using absolute amounts of profit (the “profit-based approach”) or, alternatively, profit ratios (the “profit margin-based approach”). A profit-based approach would start the calculation from the Amount A tax base determined as a profit amount (e.g. an absolute profit of EUR 10 million), whereas a profit-margin approach would start the calculation from the Amount A tax base determined as a profit margin (e.g. a PBT to revenue of 15%). Both approaches would apply the above-described steps without changes or variations, and hence would provide the same quantum of Amount A taxable in each market jurisdiction. As a next step, the Inclusive Framework will determine which approach will be used to implement the Amount A formula. The profit- based approach and profit margin-based approach are discussed in more detail in Annex B.
+
+        6.3. Potential differentiation mechanisms
+
+    248. The technical work has considered whether the different components of the formula described above should apply similarly in all circumstances, or whether some variations are necessary to increase (or decrease) the amount of profit reallocated to market jurisdictions in some cases (the “differentiation mechanisms”). Such variations could have a significant impact to the general application of the Amount A rules.
+    249. Consistent with proposals formulated by some Inclusive Framework members, a differentiation mechanism could potentially be introduced to:
+        ◦ Account for different degrees of digitalisation between in-scope business activities (e.g. based on the ADS definition used for scope), and increase the quantum of profit reallocated for certain types of business activities (hereafter, “digital differentiation”). This would seek to target businesses with lower marginal costs that are seen as deriving greater benefits from scale without mass.
+        ◦ Account for substantial variations in profitability between different market jurisdictions, and increase the quantum of profit reallocated to market jurisdictions where the profitability is significantly higher than the average profitability of the segment (hereafter, “jurisdictional differentiation”). Such differentiation could be a simplified alternative to the jurisdictional
+
+
+
+
+80% of the Amount A tax base would be allocated to market jurisdictions under Amount A. The 20% would remain unallocated because it relates to revenue derived from out of scope activities.
+    73 The calculation of Amount A already requires MNE groups to determine the total revenue used in computing the Amount A tax base (and where relevant attributable to each segment). Hence, only data on revenue sourced in one eligible jurisdiction would need to be verified to calculate a market specific Amount A tax liability under a throwback system. In contrast, under a throw-in system, the calculation would require verification of the revenue sourced in all market jurisdictions.
+
+segmentation examined in the context of tax base determination, which in many instances raises questions about feasibility and administration (see section 5.3).
+    250. Various mechanisms are available to provide for these types of differentiation. These include: (i) variations to the calculation of the allocable tax base, for example by increasing the reallocation percentage (step 2) in specific circumstances; (ii) variations to the allocation key used to distribute the allocable tax base between market jurisdictions (step 3), for example by weighting the amount of revenue derived from market jurisdictions; and (iii) other variations, such as adding a specific “routine return” for certain digital activities (e.g. ADS) that can be conducted without any physical presence in market jurisdictions.
+    251. The existing gaps between Inclusive Framework members on this policy issue will need to be resolved as part of the discussion of the quantum of Amount A.
+
+            6.3.1. Digital and other differentiation mechanisms
+
+    252. In the discussions so far, Inclusive Framework members have different views on whether some form of “digital differentiation” is necessary in the design of the Amount A formula. Accordingly, various options are under consideration, including:
+        ◦ No differentiation at all – The Amount A formula would apply to all in-scope business activities in the same way, and in all circumstances.
+        ◦ Digital differentiation through adjustments to Amount A – A lower profitability threshold under step 1 of the formula, or a higher reallocation percentage under step 2, would apply to MNE groups (or segments where relevant) providing primarily ADS. Though intuitively simple, any such differentiation approach would also require exploration as regards its technical and conceptual feasibility considering issues related to businesses segmentation and implications for the respective scope rules.
+        ◦ Differentiation of Amount A through a profit escalator – A progressive reallocation percentage under step 2 of the formula would be introduced based solely on the profitability of the group (or segment where relevant). This mechanism would not seek to directly account for different degrees of digitalisation between in-scope businesses, but would be premised on the assumption that higher returns reflect at some point a greater contribution of the market to the profitability of the MNE group (e.g. monopolistic rents). The allocable tax base would thus be determined by reference to one or more bandings (e.g. X% for profit margins between a-b%, X+Y% for profit margins between b-c%, X+Y+Z% for profit margins in excess of c%), but without any distinction based on the underlying nature of the in-scope business involved.
+    253. Further, some members consider that where ADS or CFB businesses make remote sales in a jurisdiction by using digital means to connect with customers, this jurisdiction should also receive an allocation of routine profits for the remote performance of marketing and distribution activities. In their view, once the new nexus threshold under Amount A is reached, it is unfair to deny market jurisdictions taxing rights over businesses that thanks to digitalisation are able to participate in the economic life of their jurisdiction remotely (i.e. making sales, marketing and distributing their products, collecting payments and addressing customer grievances). These members consider that in addition to Amount A, for businesses that operate in a market remotely certain marketing and distribution activities should be seen as taking place in the market jurisdiction and that in such circumstances profits would be allocated to the market jurisdiction. Such reallocated profits could be determined as an agreed percentage (e.g. 30%) of the deemed routine profit margin or the actual profit margin of the MNE group (or segment, where relevant), whichever is lower, subject to a minimum return (e.g. x% of sales) for the deemed routine marketing and distribution activities. Members that favor this approach recognizes that such allocation of deemed routine return for remote marketing and distribution activities needs to address the issue of double taxation. They are of the view, however, that such double taxation can be eliminated under the existing rules. Further,
+
+they believe it is important to reduce the incentives MNE groups face to conduct marketing and distribution remotely from a lower tax jurisdiction and to create neutrality between marketing and distribution conducted physically in a market jurisdiction and similar activities conducted remotely thanks to digital technologies. Other members take the view that there would be no case for reallocating both routine profit from distribution activities and residual profit.
+
+            6.3.2. Jurisdictional differentiation
+
+    254. The Outline identified the need to explore the rationale and technical feasibility of jurisdictional or regional segmentation as a way to account for variations in profitability across regions. For businesses that do not operate on a regional basis, regional segmentation would be technically challenging because, like segmenting between ADS, CFB and out-of-scope activities, it would require that potentially significant portions of central costs are apportioned among different regions using allocation keys. It is also recognised that regional or jurisdictional differentiation is mainly a question for CFB businesses and not for ADS businesses.102 Whilst further technical work will be conducted on this issue, the work so far suggests that regional segmentation may not be sufficient to account for significant variations in profitability across jurisdictions (which are particularly significant in the CFB sector). Consideration has been given to whether the Amount A formula could be weighted to allocate more profits to more profitable markets. However, again the challenges of calculating the profits attributable to a market, mean it can be difficult to accurately identify more or less profitable markets.
+    255. Conceptually, incorporating jurisdictional differentiation within the Amount A model is particularly challenging, because it is inconsistent with the overall approach which is to calculate the profits allocable to a market jurisdiction on a group or segment basis. However, there are a number of features of Amount A that will help ensure that its introduction does not result in profits from more profitable market jurisdictions, being reallocated to less profitable market jurisdictions:
+        ◦ Mechanism to eliminate double taxation. The mechanism to eliminate double taxation (see Chapter 7. ) could include an activities test and a market connection priority test. These two tests would significantly reduce the likelihood of the profits of in-market distributors being reallocated to other markets as a result of the introduction of Amount A.
+        ◦ Domestic business exemption. As explained in more detail below, a “domestic business exemption” could be developed to exclude profits derived from the sale of goods or services that are developed, manufactured and sold in a single jurisdiction from the Amount A tax base. However, by requiring that profits from domestic businesses are excluded from the Amount A tax base, this exemption would add significant complexity to the determination of the Amount A tax base.
+
+
+
+
+
+
+    74 Business models for MNE groups in ADS industries typically entail early and ongoing centralised development of intellectual property (IP) and the incurring of other costs aimed at developing the service offering as a whole, which then may be rolled out to new markets at limited marginal cost. Consequently, significant costs are centralised and the variation of profit between regions and jurisdictions is materially affected by the allocation of those costs to entities that operate in the various market jurisdictions and that benefit from the initial and ongoing development. This implies that regional or jurisdictional differentiation will be less relevant for ADS businesses.
+
+        6.4. The issue of double counting
+
+    256. Amount A will be allocated as an overlay to the existing income tax system. This means interactions between Amount A and the existing income tax system are inevitable.103 The interactions between Amount A and the existing taxing rights of market jurisdictions on business profit, including withholding taxes, is conceptually challenging and an area where members have expressed different views. An important issue identified by the Outline is whether some of these interactions (i.e. between Amounts A and existing ALP-based profit allocation rules) could result in a duplicative taxation of the same profit of an MNE group in a particular market jurisdiction, which could be inconsistent with the policy intention of Pillar One (the issue of “double counting”). 104 The concern is that the market jurisdiction may get to tax the same item of residual profit twice: once through an existing taxable presence under transfer pricing rules, and again through Amount A. The issue of double counting is expected to be addressed, at least partially, through the mechanism to eliminate double taxation (see Chapter 7. ). This is because where an entity is allocated significant residual profit in a market jurisdiction under existing profit allocation rules, this entity may be identified as a “paying entity” within the group for the purpose of eliminating double taxation which would bear a portion of the Amount A tax liability (resulting in a “netting-off” effect). However, some members of the Inclusive Framework suggest that this approach on its own has a number of drawbacks:
+        ◦ It may seem counterintuitive. As explored below, the mechanism to eliminate double taxation may address this issue through a “netting-off” effect, but fundamentally Amount A would still be allocated to a market jurisdiction that already has taxing rights over an MNE group’s residual profits.
+        ◦ It may be inconsistent with the overall rationale for Pillar One (and Amount A specifically) which has always been to adapt the income tax system where businesses, both ADS and CFB, have an active and sustained engagement in a market jurisdiction, but the existing profit allocation rules do not give that jurisdiction taxing rights over residual profits generated in that market. So, if Amount A did apply to businesses that already realise residual profits in the market, the problem Pillar 1 is trying to solve may not seem to be present.
+        ◦ Applying the mechanism to eliminate double taxation (see Chapter 7. ) to decentralised businesses that realise residual profits in a large number of entities and jurisdictions will be complex. Specifically, it may be difficult to calibrate this system to ensure that a full-risk distributor (already allocated residual profit) is identified as the paying entity for the Amount A allocated to the jurisdiction in which it is resident. For this reason, it may be preferable to develop a method that would reduce pressure on the elimination system, allowing this system to focus on more centralised businesses where it will be comparably easy to identify the paying entities.
+
+
+
+    75 As noted above, the profitability threshold of the Amount A formula is designed to limit interactions between Amount A and existing taxing rights of market jurisdictions based on the ALP.
+    76 It could also be argued that the interactions between Amount A and some withholding taxes could give rise to double counting, i.e. that a market jurisdiction would tax twice the same item of profit if they were allocated Amount A on top of certain existing withholding tax liabilities. For example, assume an entity in the MNE group outside the market jurisdiction is receiving a royalty payment from an entity in the market jurisdiction for the use of branding or licensing rights in respect of sales in that jurisdiction. Assume the royalty is subject to withholding tax in the market jurisdiction. If the royalty is contributing to residual profits, then the market jurisdiction can be seen as already taxing a share of this residual via the withholding tax. It is important to emphasise that members have different views on this issue, some consider that this interaction could give rise to double counting, whilst others argue that it does not.
+
+    257. These challenges are variations on the same theme. Amount A can be easily rationalised when it is applied to businesses (both ADS and CFB) that realise residual profit in a handful of jurisdictions, but may be more difficult to rationalise and hence design when it is applied to businesses with less centralised business models that already leave residual profits in the market. It is also true that businesses have consistently pointed out that the ability to leverage off their existing systems that support their current in country distribution activities would seem simpler and would be very welcome. At the same time, discussions are ongoing on the issue of double counting, including on whether marketing and distribution profit allocated to a market jurisdiction under the ALP in excess of a fixed return may be seen as duplicative with Amount A profit. This will include assessing the implications of considering the income taxes payable in the market jurisdiction under existing taxing rights and Amount A together.
+    258. Consequently, consideration is being given to different options to deal with issues of double counting beyond the mechanism to eliminate double taxation, such as the marketing and distribution profits safe harbour and the domestic business exemption.
+
+            6.4.1. The impact of the mechanism to eliminate double taxation
+
+    259. The elimination of double taxation process is an important element in dealing with any potential double counting in the market jurisdiction, or at least materially reduce it. This is because where an entity is allocated significant residual profit in a market jurisdiction under existing profit allocation rules, this entity may be identified as a “paying entity” within the group for the purpose of eliminating double taxation (see below Section 7.2). Identifying this entity as a “paying entity” for Amount A purposes will, in turn, result in a “netting-off” effect: the residual profit allocated under existing rules to the market jurisdiction will, in effect, be reduced by the method used to relieve double taxation from Amount A (including Amount A allocated to other market jurisdictions). There is a question however as to whether this framework can deliver such netting-off effect in all cases, and hence whether it should be the sole basis to deal with double counting issues.
+    260. As illustrated in Annex C (see Box C.3.), the netting-off effect can be easily identified when it is applied to an MNE group with a centralised business model (both ADS and CFB) that allocates residual profit to a limited number of jurisdictions, but is more difficult to assess when applied to a group with a decentralised business model that leaves residual profit in multiple market jurisdictions (see Annex C, Box C.4.). For example, the proposed mechanism to eliminate double taxation may not identify an in-market full-risk distributor entitled to residual profit under existing rules as a paying entity (or allocate to it the full responsibility for relieving double tax) if it does not meet the profitability test articulated in section 7.2.3, while other group entities (in different jurisdictions) would satisfy such test. Views differ as to the appropriate result in this situation. The efficiency of this approach on its own needs therefore to be further tested when applied to diverse situations, alongside with other approaches that could be developed in combination with this elimination of double taxation process to deal more effectively with double counting issues.
+
+            6.4.2. The marketing and distribution profits safe harbour
+
+    261. The “marketing and distribution profits safe harbour” would start from the premise that Amount A should be allocated to a market jurisdiction that is not allocated residual profits under existing profit allocation rules, but where a group already allocates and actually earns residual profit in the market on in- scope revenue then there should be no Amount A allocation. This would mean an MNE group would have to compute Amount A under the above rules, but would not allocate it to a market jurisdiction to the extent it already allocates and earns residual profit in that jurisdiction. The marketing and distribution profit safe harbour seeks to deliver this outcome. It would not be a traditional safe harbour, but would instead “cap” the allocation of Amount A to market jurisdictions that already have taxing rights over a group’s profits
+
+under existing tax rules. Conceptually, it would consider the income taxes payable in the market jurisdiction under existing taxing rights and Amount A together, and adjust the quantum of Amount A taxable in a market jurisdiction, on the basis of limiting it where the residual profit of the MNE group is already taxed in that jurisdiction as a result of the existing profit allocation rules.
+    262. Under this approach, the basic mechanics of Amount A would be retained, and the formula itself would remain unchanged. A safe harbour return would be determined which would combine the residual profit that an MNE group would be expected to allocate to a market jurisdiction, with an additional fixed return to compensate the local marketing and distribution presence (more below). The safe harbour would recognise that there are two ways that residual profits relevant to Amount A could be allocated to the market jurisdictions. All MNE groups would calculate Amount A and would then either benefit from the safe harbour or pay Amount A through the new Amount A system.
+
+How would this safe harbour work in practice?
+
+    263. Where a group has a taxable presence in a market jurisdiction conducting marketing and distribution activities connected to locally sourced in-scope revenue (either a resident entity or a permanent establishment), the group would determine the profits allocated to the market jurisdiction under existing profit allocation rules for the performance of these marketing and distribution activities (the “existing marketing and distribution profit”).105 The MNE group would then compare the existing marketing and distribution profit with the “safe harbour return”, which would be the sum of two components:
+    • Amount A, as computed under the Amount A formula; and
+    • A fixed return for in-country routine marketing and distribution activities, which could include a regional, and industry uplift.
+    264. The safe harbour return represents the cap, by reference to which the quantum of Amount A allocated to a market jurisdiction will potentially be adjusted. It would be applied by an MNE group on a market-by-market basis and would give rise to three possible outcomes:
+        ◦ Where the existing marketing and distribution profit is lower than the fixed return, the MNE group will not be eligible for the safe harbour;
+        ◦ Where the existing marketing and distribution profit exceeds the fixed return, but falls below the safe harbour return, the quantum of Amount A allocated to that jurisdiction would be reduced to the difference between the safe harbour return and the profit already allocated to the local presence; and
+        ◦ Where the existing marketing and distribution profit exceeds the safe harbour return, no Amount A would be allocated to that jurisdiction.
+    265. In situations where an MNE group is eligible for the safe harbour in a market jurisdiction (second and third scenario above), it should be noted that it is possible that an entity resident in that jurisdiction may still be identified as a paying entity for Amount A allocated to other jurisdictions under the mechanism to eliminate double taxation if the other rules and requirements articulated in the Section 7.2, including potentially the market connection priority test, are met.
+    266. Further, in-scope MNE groups that, for commercial reasons (given their particular business models), operate without an existing taxable presence in a market jurisdiction or only allocate a relatively
+
+
+    77 Where a market jurisdiction is allocated profits for other activities, e.g. manufacturing, or marketing and distribution activities relating to out-of-scope revenue, this would not be taken into account for the purposes of the safe harbour. Further rules may be required to determine the existing marketing and distribution profit (e.g. book-to-tax adjustments).
+
+limited return (e.g. on a cost-plus basis) to local marketing and distribution activities, would not come under the safe harbour rule and thus would pay Amount A in the majority of market jurisdictions in which they operate. In contrast, more traditional CFB businesses, particularly those with decentralised business models and full-risk distributors, may already allocate profits to market jurisdictions that exceed the safe harbour return. Hence, though these businesses would need to calculate Amount A (to determine that they have met the safe harbour), they would in many instances ultimately not need to pay Amount A or apply the mechanism to eliminate double taxation. An example of its application is outlined in Annex C (see Box C.2.).
+    267. The safe harbour may be particularly relevant for decentralised businesses that realise residual profits in a large number of entities and jurisdictions, where it is conceptual challenging to identify the entity or entities within the group that should bear the Amount A tax liability. The adoption of the safe harbour may reduce in some cases the pressure of the mechanism to eliminate double taxation arising from Amount A and could allow the mechanism to eliminate double taxation to be developed with a focus on businesses with more centralised operating models that are less likely to be impacted by the safe harbour.
+    268. At the same time, the safe harbour would maintain the need to calculate Amount A, while introducing new rules to implement and administer the capping mechanism. Further, the application of the safe harbour would need to take into account any subsequent transfer pricing adjustments that changed marketing and distribution profits allocated to a market jurisdiction under the existing ALP-based profit allocation rules. For example, if a market jurisdiction made an upwards adjustment to the profits it was allocated for marketing and distribution activities, it would need to recalculate whether a MNE group would be eligible for the safe harbour, with any additional tax due under the existing profit allocation rules being offset against the tax that would no longer be due under Amount A.
+
+Determining the fixed return for the safe harbour
+
+    269. Under the marketing and distribution profits safe harbour, the formula for calculating Amount A would remain unchanged. However, it would be necessary to determine a fixed return for in-country routine marketing and distribution activities. This will raise a number of technical and design challenges that will need to be addressed within the context of the safe harbour.
+    270. The fixed return would not necessarily seek to replicate an arm’s length return, nor would it limit the profits allocable to marketing and distribution activities. Jurisdictions that are entitled to a higher return for the performance of marketing and distribution activities under the ALP would continue to be entitled to this return. Instead, this fixed return (which would only be relevant for large in-scope MNE groups) would act as a test to identify situations when allocating Amount A to a market jurisdiction would give rise to double counting.
+    271. For example, if the fixed return were set at a return on sales of 4%, it would mean that any profits allocated to a market jurisdiction in excess of this return would be deemed to duplicate the return allocated to a market jurisdiction under Amount A. So, if a market jurisdiction were allocated a 3% return under existing profit allocation rules it would receive a full allocation of Amount A, but if it were allocated a 5% return, its allocation of Amount A would be reduced by 1% (the difference between the return it receives under the existing profit allocation rules and the fixed return). If a lower fixed return were agreed, the safe harbour would apply to cap the allocation of Amount A more frequently than if a higher return were agreed.
+    272. The fixed return could be computed in a variety of different ways, but perhaps the simplest approach would be to agree a single fixed return on sales that would be applied to in-scope locally sourced revenue (as determined under the revenue-sourcing rules). This approach would draw on an existing component of the Amount A formula and would therefore avoid some of the challenges that would arise under a different approach, specifically in defining the base (e.g. sales or costs) to which a margin or mark- up would need to be applied.
+
+    273. Although the fixed return would not seek to be consistent with the ALP, it could be agreed that the fixed return could vary by region or industry (but probably not based on functions). For example, it may be argued that as pharmaceutical distributors are typically allocated a higher return under the ALP, the fixed return for pharmaceutical businesses could also be higher under the safe harbour. This would mean that a pharmaceutical business would need to allocate a higher return to a market jurisdiction under the existing profit allocation rules than a comparable business in another sector to benefit from the safe harbour. However, for simplicity it could also be agreed that there should be a single fixed rate applicable across all regions and industries.106
+    274. Hence, further consideration of this safe harbour will require additional work on a number of challenges, including for defining the fixed return for routine marketing and distribution activities.
+
+            6.4.3. The domestic business exemption
+
+    275. The development of a “domestic business exemption" to reduce the instances of “double counting” is also considered, together with the mechanism to eliminate double taxation and the safe harbour. There are two potential types of domestic business exemptions. The first, and simplest, would exclude from the scope of Amount A large, domestically-focused business with a minimal level of foreign income. This would be implemented through the exemption of groups whose foreign source in-scope revenue falls below an agreed threshold from the scope of Amount A (see above section 2.3.2).
+    276. The second, more complex exemption, would seek to exclude from Amount A part of a group’s business that is primarily or solely carried on in a single jurisdiction. This may occur for instance, where a group acquires a business operating in another jurisdiction that it does not subsequently integrate within its broader operations. In this scenario, it may be difficult to justify why Amount A should apply to this portion of a group’s business, as it could result in the residual profits from this business, which are demonstrably only derived from one jurisdiction, being reallocated to other jurisdictions around the world. It could also result in residual profits generated from other parts of the business being allocated to the jurisdiction in question; despite the fact that the said jurisdiction already has taxing rights over the residual profits (to the extent they arise) associated with the relevant sales. Another possible view is that this is simply a logical consequence of the formulaic nature of Amount A applicable to the group as a whole.
+    277. The “domestic business exemption” would address some instances of double counting by excluding from Amount A profits derived from the sale of goods or services that are developed, manufactured and sold in a single jurisdiction.
+    278. There are two challenges that would need to be overcome to develop this domestic business exemption. First, it would be necessary for a taxpayer to isolate and segment out the profits of this standalone domestic business from the other activities of the group. This would require a remodelling of the segmentation framework that would increase complexity and the associated compliance costs and administrative burden. That said, on the assumption that the business is operated on a standalone basis, it may be relatively easy for the taxpayer to perform this additional segmentation.
+    279. Second, it is unlikely that there are many examples of MNE groups with completely standalone domestic businesses. This is because in most instances these businesses will be integrated to some extent in the broader activity of the group, whether through shared development of intellectual property (IP), intragroup financing activities, or other central services. For large CFB in particularly, royalty payments in
+
+
+
+    78 The pharmaceutical industry typically has higher returns than most other industries and so even under a single fixed return approach, the total safe harbour return (i.e. Amount A plus the fixed return) would, when compared to other industries, still be relatively high for most pharmaceutical groups.
+
+relation to IP may be a significant expense in many market jurisdictions. Even where groups manufacture and sell goods in a single jurisdiction using local IP, these goods may include input purchased from a related party in another jurisdiction or produced using manufacturing know-how for which a licence fee is paid.
+    280. For this reason, if the exemption were only available for a portion of a group’s business that was conducted in a single territory and had no transactions with related parties in other jurisdictions, it is unlikely that many, if any, MNE groups would be able to utilise it. Therefore, it would likely be necessary to develop a quantitative threshold to identify “domestic businesses” eligible for the exemption as those that retained over a given percentage (e.g. 90%) of the total profits derived from a market, or alternatively as those that derive only revenue sourced in their domestic market and have no or only limited transactions with related parties in other jurisdictions. This would create its own challenges. It would be difficult to reach agreement on the percentage of profits that would need to be retained in the market for the “domestic business exemption” to apply. Agreeing a single threshold would create a cliff-edge effect where a business just above the threshold would be excluded from Amount A, but a business just below the threshold would be not be excluded. If this threshold was applied on an annual basis, the domestic business could move in and out-of-scope of the exemption, creating additional complexity. Even calculating whether the threshold had been met would be difficult, as to determine the profits generated from a market, it would also be necessary to identify all the costs incurred in relation to that market, recognising that some could be incurred in other jurisdictions. This is likely to give rise to disputes over the allocation of shared costs, such as management expenses or global advertising campaigns. These issues mean that though the “domestic business exemption” is conceptually appealing, it may be very difficult to design in practice.
+    281. Setting aside these challenges, it is also important to emphasise that the “domestic business exemption” would only reduce the occurrence of “double counting”. For example, it would not address situations where a market jurisdiction had taxing rights over the residual profits arising from the activities of a distributor not eligible for the “domestic business exemption”. Therefore, the “domestic business exemption” could only be developed in combination with another mechanism to address double counting.
+
+        6.5. Next steps
+
+    282. As a first next step, drawing on the data and the analysis prepared as part of the impact assessment of different percentages for the profitability threshold (step 1) and the reallocation percentage (step 2), a decision of the Inclusive Framework members will be necessary to determine the quantum of Amount A, including whether the formula should incorporate any “differentiation mechanism”. Relevant considerations in this discussion will include, for example, the amount of residual profit to be reallocated (including proportionality to compliance costs and administrative burden), the possible impact on this amount of residual profit of accounting for profit shortfalls (see section 5.4.6), and the number of MNE groups impacted. There will also be some remaining issues around questions of regional and jurisdictional segmentation.
+    283. In addition, further work will be required to assess the different options to deal with double counting (and their possible combinations), in close coordination with the work on the mechanism to eliminate double taxation (see Chapter 7. ). This will also include consideration of the interactions between Amount A and certain withholding taxes collected by market jurisdictions. For the safe harbour, issues where further work is required include:
+        ◦ Assessing the implications of considering the income taxes payable in the market jurisdiction under existing taxing rights and Amount A together (e.g. whether marketing and distribution profit allocated to a market jurisdiction under the ALP in excess of a fixed return may be seen as duplicative with Amount A);;
+
+        ◦ Defining the fixed return for routine marketing and distribution activities, including determining whether this return should vary by industry and/or region;
+        ◦ Identifying and isolating the profit from marketing and distribution activities in the market jurisdiction that are covered by the safe harbour; and
+        ◦ Developing a mechanism to deal with transfer pricing adjustments, lagged threshold permanent establishment claims or denial of deduction for shared costs that are made after the safe harbour has been applied in the market jurisdiction.
+        ◦ Considering how common/prevalent the double counting issue is, and whether the practical and administrative challenges in designing the safe harbour are commensurate with this double counting issue; and
+        ◦ Clarifying the treatment of withholding taxes collected by the market jurisdiction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annex B. Approaches to implementing the Amount A formula
+
+    134. A three-step process will be required to calculate the quantum of Amount A taxable in each eligible market jurisdiction. This process could be implemented by either using absolute amounts of profit (the “profit-based approach”) or, alternatively, profit ratios (the “profit margin-based approach”). Both approaches would apply the above-described steps without changes or variations, and hence would provide the same quantum of Amount A taxable in each market jurisdiction. This identical outcome is illustrated below in algebraic form, as well as through examples in Box B.1. and B.2. But the administration of each approach may present some variations, and these differences would inform the choice of the most appropriate approach to calculate and allocate Amount A.164
+Profit-based approach
+    135. Consistent with the three steps described above, the profit-based approach can be described in algebraic form as follows.165
+        ◦ Step 1: Isolate the residual profit (if any) by excluding the profit of the group or, where relevant, the segment that does not exceed an agreed level of profitability, e.g. a percentage of PBT to revenue (“z”). Assuming that the Amount A tax base for the relevant group or segment is “P”, revenues of the group or segment are “R”, and the profit margin of the group or segment is “P/R”, this means that Amount A applies only if “P/R” is greater than z%, and that a positive residual profit “W” can be calculated as:166
+𝑊   = 𝑃 −  (𝑅 × 𝑧)
+        ◦ Step 2: Separate “W” between the portion of residual profits attributable to Amount A (the allocable tax base, “A”) and other factors (“X”). Where W = A + X. If the agreed portion of residual profit attributable to Amount A is, for example, a percentage (“y”), then “A” can be calculated as:
+𝐴 = 𝑦 × 𝑊
+
+
+
+    155 In practice, some variances may arise for the implementation and administration of each approach. For example, using profit margins instead of profit amounts may limit the scope and relevance of some currency exchange issues (i.e. timing and determination of the appropriate conversion rate), to the extent that the locally sourced revenue is booked in the currency of the market jurisdiction (e.g. multiplying local revenue by a profit margin would not involve any currency exchange). These practical differences will be considered as part of the work on implementation and administration of Amount A, especially when designing a simplified administration system to centralise the computation and compliance of Amount A (see below Chapter 10. ).
+    156 To facilitate the illustration, the calculation assumes that all the revenue of the MNE group (or segment where relevant) falls in the scope of Amount A (see section 2.2).
+    157 As there can be no negative residual profit (W), this calculation could also be expressed as W = Max(P-R*z, 0).
+
+    • Step 3: Distribute the allocable tax base “A” among the market jurisdictions that meet the new nexus threshold. This would be done through an allocation key based on revenue (i.e. ratio of local revenue to total revenue). Assuming that in a particular market jurisdiction the group or, where relevant, the segment local revenue is “S”, then the allocation key is “S/R”. Therefore, the quantum of Amount A profit allocated to that particular market, expressed as “M”, can be calculated as:
+
+𝑀 =
+𝑆
+× 𝐴
+𝑅
+    136. After bringing the three components together, the Amount A formula under a profit-based approach becomes:
+𝑀  = 𝑆/𝑅 × 𝑦 × [𝑃 −  (𝑅 × 𝑧)]
+
+
+
+Box B.1. Example – profit-margin based approach
+For the purpose of this example, it is assumed that the Amount A formula includes a 10% profitability threshold (step 1) and 20% reallocation percentage (step 2).
+Facts
+Group A is a large MNE group providing exclusively in-scope ADS via an online platform. It is assumed that Group A is treated as one segment for Amount A purposes and that it has the following simplified income statement:
+
+
+in million EUR
+Revenue (R)
+25,000
+Profit before tax (P)
+6,500
+PBT margin (P/R)
+26%
+It is assumed further that the revenues are sourced exclusively from three market jurisdictions.
+
+in million EUR
+Local revenue (S)
+
+Market 1
+2,000
+local subsidiary
+Market 2
+18,000
+remote activity
+Market 3
+5,000
+remote activity
+Total
+25,000
+
+Due to the strategic location and attractiveness of Market 1, Group A established a local subsidiary in that jurisdiction performing baseline marketing and distribution activities for the whole world. In contrast, Group A has no taxable/physical presence in Market 2 and Market 3, where services are supplied remotely by the subsidiary located in Market 1. For Amount A purposes, however, it is assumed that a new nexus will be created in Markets 2 and 3 (i.e. nexus revenue threshold exceeded).
+Applying Amount A formula
+Step 1: Profitability Threshold
+Determine Group A’s residual profit (W) by subtracting 10% from the PBT margin (P/R).
+W = P – (R*10%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in million EUR
+Local revenue (S)
+Allocation key (S/R)
+Amount A (M)
+Market 1
+2,000
+8%
+A * S/R = 64
+Market 2
+18,000
+72%
+A * S/R = 576
+Market 3
+5,000
+20%
+A * S/R = 160
+Total
+25,000
+100%
+800
+
+
+Profit-margin approach
+    137. Consistent with the three-steps described above, the profit-margin approach can be described in algebraic form as follows.167
+        ◦ Step 1: Isolate the residual profit margin (if any) of the group or, where relevant, the segment by deducting the deemed routine profit margin – e.g. a percentage of PBT to revenue (“z”) – from the total profit margin. Assuming that the Amount A tax base for the relevant group or segment is “P”, revenues of the group or segment are “R”, and the profit margin of the group or segment is “P/R”, this means that Amount A applies only if “P/R” is greater than z, and that a positive residual profit margin “w” can be calculated as:
+𝑤  = 𝑃/𝑅 − 𝑧
+        ◦ Step 2: Separate “w” between the portion of residual profitability attributable to Amount A (the allocable tax base, “a”) and other factors, such as trade intangibles, capital and risk (“X”). If the agreed portion of residual profitability attributable to Amount A is, for example, a percentage (“y”), then “a” can be calculated as:
+𝑎  = 𝑦  × 𝑤
+        ◦ Step 3: Allocate the relevant portion of residual profitability attributable to Amount A to the market jurisdictions that meet the new nexus threshold. This would be done through an allocation key based on local revenue. Assuming that in a particular market jurisdiction the
+
+
+
+    158 To facilitate the illustration, the calculation assumes that all the revenue of the MNE group (or segment where relevant) falls in the scope of Amount A (see section 2.2).
+
+group or, where relevant, the segment local revenue is “S”, then the quantum of Amount A
+profit allocated to that particular market, expressed as “M”, can be calculated as:
+𝑀  = 𝑆 × 𝑎
+    138. After bringing the three components together, the Amount A formula under a profit-margin approach becomes:
+𝑀  = 𝑆 × [𝑦  × (𝑃/𝑅 − 𝑧)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in million EUR
+Local revenue (S)
+Residual profit margin attributable to Amount A
+(a)
+Amount A (M)
+Market 1
+2,000
+3,2%
+S x a = 64
+Market 2
+18,000
+3,2%
+S x a = 576
+Market 3
+5,000
+3,2%
+S x a = 160
+Total
+25,000
+n.a.
+800
+
+Annex C. Examples
+
+
+
+
+
+
+
+
+Box C.1. Extending the carry-forward regime to profit shortfalls
+Group X is an MNE group that provides streaming services with a business model producing regular profit. It has no other business lines. In Years 1, 2 and 3, pursuant to Amount A computation rules, the group (no segmentation required) generated the following results.
+
+In EUR million
+Total Revenue
+PBT
+Profitability
+Profit shortfalls
+Year 1
+100
+10
+10%
+0
+Year 2
+100
+10
+10%
+0
+Year 3
+100
+10
+10%
+0
+Total
+300
+30
+10%
+0
+Assuming the Amount A profitability threshold is established at a 10% return on revenue, Group X has no profit in excess of that threshold in any of the three years under review, and none of the profit for Amount A purposes generated during those years would be reallocated to market jurisdictions.
+Consider now a competitor, Group Y, providing similar services but with a business model producing irregular profit. In Years 1, 2 and 3, pursuant to Amount A computation rules, the group (treated as a segment) generated the following results.
+
+In EUR million
+Total Revenue
+PBT
+Profitability
+Profit shortfalls
+Year 1
+100
+5
+5%
+5
+Year 2
+100
+5
+5%
+5
+Year 3
+100
+20
+20%
+0
+Total
+300
+30
+10%
+10
+Notwithstanding the fact that this competitor has generated the same level of profit over the three-year period under review, without a carry-forward regime accommodating profit shortfalls, Group Y would have a share of its profits for Amount A purposes in excess of the profitability threshold in Year 3 reallocated to market jurisdictions, i.e. EUR 10 million.
+In contrast, with a carry-forward regime accommodating profit shortfalls, the profit shortfalls generated in Year 1 (i.e. EUR 5 million) and Year 2 (i.e. EUR 5 million) would be preserved and offset against the profit in excess of the profitability threshold in Year 3 (i.e. EUR 10 million). Group Y would thus not have a share of its profit for Amount A purposes reallocated to market jurisdictions in Year 3.
+
+
+
+
+group does not have a physical presence is a return on sales of 1.5% (Amount A only) and the Amount A profit allocated to market jurisdictions where the group has a physical presence is a return on sales of 3.5% (Amount A plus a 2% fixed return for routine marketing and distribution activities).
+IP Owner (Jurisdiction 1)
+Group X has a decentralised operating model, in which an IP Owner (resident in Jurisdiction 1) develops and owns the group’s trade intangibles and licenses these intangibles to full-risk distributors in market jurisdictions in exchange for a benchmarked royalty.
+Full-risk distributors (Jurisdictions 2, 3, 4 and 5)
+The full-risk distributors (resident in Jurisdictions 2, 3, 4 and 5 respectively) combine these licensed intangibles with their own marketing and other intangibles, in products that are then sold to third parties. The full-risk distributors realise the residual profits (or losses) from their respective markets. The group and entity-level financials for Group X are summarised below.
+
+
+in EUR million
+IP Owner
+Jurisdiction
+Distributor 2
+Jurisdiction
+Distributor 3
+Jurisdiction
+Distributor 4
+Jurisdiction
+Distributor 5
+Jurisdiction
+Total
+Consolidated
+
+1
+2
+3
+4
+5
+
+Revenue
+1,500
+1,000
+800
+1,200
+4,000
+
+Third party revenue
+0
+1,000
+800
+1,200
+4,000
+7,000
+Intragroup revenue
+1,500
+0
+0
+0
+0
+
+Profit before tax (PBT)
+450
+46
+256
+-12
+712
+1,222
+Profit margin (%)
+30.0%
+4.6%
+3.2%
+-1.0%
+17.8%
+17.5%
+Application of the safe harbour
+Group X would determine the safe harbour return due to each of these market jurisdictions under Amount A and the profits allocated to market jurisdictions under the existing profit allocation rules (shown in the table above). As Group X has a physical presence in each of the market jurisdictions it operates in the safe harbour return would be 3.5%.
+Finally, Group X would then determine in which markets it is eligible for the safe harbour and in which market it would be required to allocate Amount A:
+    • In Jurisdictions 2 and 5, Group X already allocates a return in excess of 3.5%. Therefore, it would be eligible for the safe harbour and hence would not pay Amount A in these jurisdictions.
+    • In Jurisdiction 4, Group X incurs a loss. Therefore, it would not meet the fixed return of the safe harbour and would, therefore, be ineligible for the safe harbour.
+    • In Jurisdiction 3, Group X would meet the fixed return of the safe harbour but not the cap. Therefore, it would only need to allocate profit equal to an additional return of 0.3% (being the difference between the profits already allocated to Jurisdiction 3 under the existing profit allocation rules and the cap of the safe harbour return) to Jurisdiction 3 under Amount A.
+Under the proposed mechanism to eliminate double taxation, the IP Owner is likely to be identified as the paying entity and hence Jurisdiction 1 would be required to provide double tax relief (through the exemption or credit method) for the Amount A profit allocated to Jurisdiction 4 and 3.
+
+
+Box C.3. The netting-off effect for a centralised business model
+Group A is an MNE group in scope of Amount A. The group generates EUR 20,750 million in third party revenue and earned PBT of EUR 5,323m, resulting in a profit margin of 26%. The group and entity- level financials are summarised in the table below.
+Principal (Jurisdiction 1)
+Group A has a centralised operating model, in which a Principal (resident in Jurisdiction 1) owns the group’s trade and marketing intangibles and realises the entire residual profit of the group. Jurisdiction 1 is a large market for Group A, generating EUR 10,000 million in third party revenues that are booked by the Principal.
+Other market jurisdictions (Jurisdiction 2, 3, 4 and 5)
+The other entities in the group (resident in Jurisdictions 2, 3, 4 and 5 respectively) perform baseline marketing and distribution functions. Under the ALP-based profit allocation rules, these distributors are remunerated with a 3% return on sales.
+
+
+in EUR million
+Principal
+Distributor 2
+Distributor 3
+Distributor 4
+Distributor 5
+Total
+
+Jurisdiction 1
+Jurisdiction 2
+Jurisdiction 3
+Jurisdiction 4
+Jurisdiction 5
+Consolidated
+Revenue
+15,000
+2,000
+4,000
+3,500
+1,250
+20,750
+Third party revenue
+10,000
+2,000
+4,000
+3,500
+1,250
+
+Intragroup revenue
+5,000
+0
+0
+0
+0
+
+Profit before tax (PBT)
+5,000
+60
+120
+105
+38
+5,323
+Profit margin (%)
+33%
+3%
+3%
+3%
+3%
+26%
+Under the Pillar One solution, Jurisdictions 1, 2, 3, 4 and 5 would all (as eligible market jurisdictions where nexus is established) be allocated Amount A. Jurisdictions 2, 3, 4 and 5 would also continue to be allocated profit under the existing ALP-based profit allocation rules The results of these allocations are shown in the table below.
+Prior to the elimination of double taxation, the full Amount A profit allocated to Jurisdiction 1 could be said to give rise to double counting because this market jurisdiction already exercised taxing rights over material residual profit under existing ALP-based profit allocation rules, i.e. profit amounting to EUR 5,000 million, that is, a profit margin on total sales of 33% exceeding the average return on sales of the MNE group (26%).
+
+in EUR million
+Jurisdiction 1
+Jurisdiction 2
+Jurisdiction 3
+Jurisdiction 4
+Jurisdiction 5
+Total
+Amount A
+313
+63
+125
+110
+39
+650
+ALP-based allocation
+5,000
+60
+120
+105
+38
+5,323
+Total taxable profit *
+5,313
+123
+245
+215
+77
+5,972
+Potential double counting
+313
+0
+0
+0
+0
+313
+* The total taxable profits exceed the taxable profits of Group A, as the double taxation arising from Amount A has not yet been eliminated.
+
+
+
+
+
+
+
+
+
+in EUR million
+Jurisdiction 1
+Jurisdiction 2
+Jurisdiction 3
+Jurisdiction 4
+Jurisdiction 5
+Amount A
+313
+63
+125
+110
+39
+ALP-based allocation
+5,000
+60
+120
+105
+38
+Total taxable profit*
+5,313
+123
+245
+215
+77
+Potential double counting
+313
+0
+0
+0
+0
+Netting-off of profits under the mechanism to eliminate double
+taxation
+
+(650)
+
+0
+
+0
+
+0
+
+0
+Total taxable profits (after the elimination of double taxation)
+
+4,664
+
+123
+
+245
+
+215
+
+77
+
+
+
+
+
+
+
+    159 In practice, the identification of the paying entity (or entities) should follow the rules articulated in the Section 7.2.
+
+as shown in the table below. The profit margins earned by Distributor 3 exceeds those earned by Distributor 4 and 5. This could be for a number of reasons, such as the effectiveness of their local operations or the underlying economic conditions in the different markets.
+
+
+IP Owner
+Distributor 2
+Distributor 3
+Distributor 4
+Distributor 5
+Total
+
+Jurisdiction 1
+Jurisdiction 2
+Jurisdiction 3
+Jurisdiction 4
+Jurisdiction 5
+Consolidated
+Revenue
+2,000
+4,000
+2,000
+3,000
+3,000
+12,000
+Third party revenue
+0
+4,000
+2,000
+3,000
+3,000
+
+Intragroup revenue
+2,000
+0
+0
+0
+0
+
+Profit before tax (PBT)
+750
+200
+650
+400
+450
+2,450
+Profit margin (%)
+38%
+5%
+33%
+13%
+15%
+20%
+Under the new taxing right of Pillar One, Jurisdictions 2, 3, 4 and 5 would all (as eligible market jurisdiction where nexus is established) be allocated Amount A, in addition to the profit allocated under existing ALP-based profit allocation rules due to the performance of marketing and distribution activities. Jurisdiction 1 would be allocated profit under existing rules for the activities performed by the IP Owner. The results of these allocations are shown in the table below.
+Prior to the elimination of double taxation, the Amount A profit allocated to Jurisdiction 3 could be said to give rise to double counting. It is more difficult to assess whether and how much of the allocation of Amount A to Jurisdictions 2, 4 or 5 constitutes double counting. These jurisdictions may have taxing rights over some residual profit derived from Group B’s marketing intangibles under the existing profit allocation rules, but measuring any related double counting is more complicated due to the lower profitability of the entities in those jurisdictions.
+
+in EUR million
+Jurisdiction 1
+Jurisdiction 2
+Jurisdiction 3
+Jurisdiction 4
+Jurisdiction 5
+Total
+Amount A
+0
+83
+42
+63
+63
+250
+ALP-based allocations
+750
+200
+650
+400
+450
+2,450
+Total taxable profit *
+750
+283
+692
+463
+513
+2,700
+Potential double counting
+0
+?
+42
+?
+?
+n.a.
+* The total taxable profits exceed the taxable profits of Group B, as the double taxation arising from Amount A has not yet been eliminated.
+
+Assume that under the current mechanism to eliminate double taxation, only IP Owner and Distributor 3 would be identified as potential paying entities under the activity test (step 1) and profitability test (step 2).169 Further, assume that as a result of the market connection priority test (step 3) the IP Owner is identified as the paying entity for Jurisdiction 2, 4 and 5 and Distributor 3 is identified as the primary paying entity for Jurisdiction 3, on the basis that it has the strongest connection to this market.
+In this example, the mechanism to eliminate double taxation would not entirely net-off the potential for double counting in the different jurisdictions where Group B has a distribution entity. This is because the mechanism to eliminate double taxation would not require Jurisdictions 2, 4 and 5 to provide relief for whole or part of the profits reallocated under Amount A. However, the additional profits allocated to Jurisdiction 3 under Amount A (which could give rise to double counting) would be entirely eliminated
+
+
+
+    160 The identification of the paying entity (or entities) would follow the rules articulated Section 7.2.
+
+
+
+
+
+in EUR million
+Jurisdiction 1
+Jurisdiction 2
+Jurisdiction 3
+Jurisdiction 4
+Jurisdiction 5
+Amount A
+0
+83
+42
+63
+63
+ALP-based allocations
+750
+200
+650
+400
+450
+Total taxable profit
+750
+283
+692
+463
+513
+Potential double counting
+0
+?
+42
+?
+?
+Netting-off of profits under the mechanism to eliminate double
+taxation
+
+(209)
+
+n.a.
+
+(42)
+
+n.a.
+
+n.a.
+Total taxable profits (after the elimination
+of double taxation)
+
+541
+
+283
+
+650
+
+463
+
+513

@@ -1,0 +1,887 @@
+apply
+approval
+approvals
+approve
+authorized
+complies with
+comply
+conform
+deemed
+deems
+determine
+determined
+determines
+disapprove
+enforce
+enforcing
+ensure
+ensures
+ensuring
+establish
+evaluate
+excepted
+exception
+exceptions
+exempt
+exemption
+exemptions
+implementing
+limitations
+limiting
+may
+mitigate
+permit
+permitted
+prescribe
+prescribed
+presumed
+prevent
+prior approval
+prohibition
+recommend
+recommendation
+recommendations
+regulate
+regulated
+repealed
+request
+requests
+require
+required
+requires
+restrict
+restrictions
+shall
+subjecting
+submit
+supervise
+supervised
+take effect
+treated
+treatment
+COMBINE
+DEFINING
+CONSULTS
+SEEM
+DECREASED
+APPROXIMATE
+AND/OR
+LOOKS
+ALLOWING
+COMPUTING
+REDUCED
+PRE-
+REVERSE
+CONTRARY
+ETC
+APPEARS
+DECREASE
+REDUCING
+COMPLIANCES
+HEREIN
+WANT
+RENDER
+TESTING
+SET
+IDENTIFIES
+DEMONSTRATED
+CONFIRM
+IMPOSE
+ENTAIL
+ASSESSED
+TREATS
+FALLS
+ASSUMED
+INCLUDES
+SPLITTING
+AGGREGATE
+GAP
+BELONG
+THEREBY
+OVER-OR
+SETTING
+(AGGREGATE)
+POSED
+FRACTION
+SHIFTING
+AGGREGATES
+HOW
+RESPECT
+WHY
+INTRA-
+EXCESS
+PREVIOUS
+UNACCEPTABLE
+DERIVED
+APART
+COMPUTATION
+TREAT
+SEEMS
+REDUCTIONS
+ADDITION
+EQUALITY
+EXCLUSION
+DERIVE
+FORMING
+CONFORMS
+=
+SHIFTS
+SHIFTED
+CRITERION
+COMPARED
+PORTION
+ELIMINATION
+STOP
+COMPUTED
+REMOVE
+CREDITS
+CALCULATING
+REMOVES
+SAY
+OUTCOME
+SUBTRACTED
+OPTIONS
+DISALLOWED
+APPLIED
+INSTANCE
+MEET
+DENIED
+CALCULATES
+MULTIPLIED
+SWITCH
+ANNEX
+STIPULATE
+CONTAINS
+DIVIDE
+CHANGES
+UNDO
+SUM
+AVERAGE
+COMPRISE
+ALLOWS
+CONFIRMS
+FACTORS
+EQUALS
+CLOSER
+ALLOCATING
+ADDITIONAL
+IRRESPECTIVE
+CLOSEST
+STRICTLY
+OBLIGATED
+NUMERATOR
+INVOLVES
+DISTINCT
+PROPORTIONALLY
+[X]
+REQUIREMENTS
+INCLUSIVE
+DIFFERS
+TESTS
+RESULTED
+I mean
+accordingly
+actually
+additionally
+admittedly
+after
+afterwards
+albeit
+all in all
+all the same
+also
+alternatively
+although
+altogether
+and
+and still
+and yet
+anyhow
+anyway
+applicable to
+as
+as I have said
+as a consequence
+as a final point
+as a matter of fact
+as a result
+as a result of
+as an illustration
+as for
+as has been mentioned
+as has been noted
+as long as
+as was previously stated
+as well as
+at any rate
+at first
+at lasr
+at last
+at least
+be that as it may
+because
+because of
+because of the fact that
+before
+being that
+besides
+briefly
+but
+but also
+but as well
+by the same token
+by the way
+by virtue of
+by way of contrast
+by way of example
+concerning
+consequently
+considering
+conversely
+despite
+due to
+due to the fact that
+either
+either way
+equally
+especially
+even if
+even so
+even though
+eventually
+exceed
+finally
+first
+first of all
+for
+for a start
+for example
+for fear
+for fear that
+for instance
+for one thing
+for the purpose of
+for the reason that
+for the simple reason that
+for this reason
+forasmuch as
+further
+furthermore
+given all the facts
+given all these points
+given that
+given the facts
+given these points
+granted
+granted that
+granting
+granting that
+greater
+hence
+however
+if
+if not
+if so
+in a like manner
+in a word
+in accordance with
+in addition to
+in all
+in any case
+in any event
+in case
+in conclusion
+in connection with
+in consequence
+in contrast
+in either case
+in either event
+in every case
+in fact
+in order that
+in order to
+in other words
+in particular
+in reference to
+in reference to the fact that
+in regard to
+in regard to the fact that
+in short
+in spite of
+in sum
+in summary
+in that
+in that case
+in the case of
+in the end
+in the event that
+in the first place
+in the hope that
+in the place
+in the same way
+in view of
+in view of the fact that
+inasmuch as
+incidentally
+including
+indeed
+initially
+instead
+last but not least
+lastly
+less than
+lest
+let alone
+like
+likewise
+moreover
+much less
+namely
+nevertheless
+next
+nonetheless
+nor
+not
+not later
+not only
+not to mention
+notably
+notwithstanding
+on condition that
+on the condition that
+on the other hand
+on the subject of
+on the topic of
+on the whole
+only if
+or
+or at least
+or rather
+otherwise
+overall
+owing to
+owing to the fact that
+particularly
+previously
+provided that
+providing that
+put another way
+put it another way
+rather
+regarding
+regardless
+regardless of
+relating to
+relevant to
+represent
+same
+second
+secondly
+seeing that
+similar
+similarly
+since
+so
+so as to
+so long as
+so much so that
+so much that
+so that
+solely
+speaking about
+specifically
+still
+subject to
+subsequently
+such as
+that being the case
+that is
+that is to say
+then
+therefore
+though
+thus
+to be brief
+to begin with
+to change the subject
+to conclude
+to conclude with
+to get back to the point
+to illustrate
+to make a long story short
+to put another way
+to put it another way
+to put it briefly
+to resume
+to return to the subject
+to say nothing of
+to start with
+to sum up
+to summarize
+to tell the truth
+to tell you the truth
+to the end that
+together with
+too
+under those circumstances
+unless
+was
+were
+what is more
+whatever happens
+when in fact
+whereas
+whichever happens
+while
+whole
+with reference to
+with reference to the fact that
+with regard to
+with regard to the fact that
+with respect to
+with respect to the fact that
+with this in mind
+with this intention
+yet
+========================================= OECD WORDS 2
+&
+*
++
+=
+=
+10/25=
+15/25
+15/25=
+30/70
+40/70
+6+17
+ACCEPTED
+ACCORDANCE
+ACCORDING
+ADDED
+AGGREGATION
+AIMED
+ALLOCABLE
+ALLOCATE
+ALLOCATED
+ALWAYS
+APPLYING
+APPROVED
+APPROXIMATED
+APPROXIMATES
+APPROXIMATION
+ASSESS
+ASSESSING
+ASSUME
+ASSUMES
+ASSUMING
+ASSUMPTION
+ASSUMPTIONS
+ATTRIBUTABLE
+ATTRIBUTE
+ATTRIBUTION
+CALCULATE
+CANNOT
+CASE
+CASES
+CHOOSING
+CIRCUMSTANCE
+CIRCUMSTANCES
+COMBINED
+COMPARABLE
+COMPARABLES
+CONJUNCTION
+CONNECTION
+CONSEQUENCE
+CONTAINED
+CORRESPOND
+CORRESPONDING
+DEDUCTED
+DEDUCTING
+DEPEND
+DEPENDING
+DETERMINATION
+DIFFERENCE
+DIFFERENCES
+DIFFERENT
+DIFFERING
+DIVIDED
+DIVISION
+EG
+EQUIVALENT
+ESTIMATE
+ESTIMATES
+EVALUATED
+EVALUATING
+EX
+EXCLUDE
+EXCLUDED
+EXCLUSIVE
+EXISTS
+EXTRACTED
+FACTOR
+FLOOR
+FULL
+FULLY
+IDENTIFICATION
+IDENTIFIED
+IDENTIFYING
+IE
+IMPLIES
+IMPOSED
+INDICATE
+INDICATIONS
+INDICATORS
+INDIFFERENT
+INTENDED
+LACKING
+MANDATED
+MAXIMUM
+MEANS
+MEASURED
+MINIMUM
+NEED
+NEEDED
+NET
+NONUNIQUE
+ONLY
+PARTIALLY
+POST
+PRESCRIBING
+PROPORTION
+QUANTIFY
+RATIO
+RECALCULATE
+REFER
+REFERENCES
+REFLECTED
+REFLECTS
+RELATE
+RELATION
+RELATIONSHIP
+RELATIVE
+RESIDUAL
+RESPECTIVE
+RESPECTIVELY
+RETURN
+SATISFIES
+SATISFY
+SELECTION
+SIMPLIFIES
+SUBJECT
+SUBTRACTS
+THEREIN
+TOGETHER
+UNIQUE
+VERIFY
+WILLING
+========================================= FUNCTION WORDS
+0%
+1
+10%
+100%
+2
+3
+4
+50%
+I
+a
+a bit of
+a couple of
+a few
+a good deal of
+a good many
+a great deal of
+a great many
+a lack of
+a little
+a little bit of
+a majority of
+a minority of
+a number of
+a plethora of
+a quantity of
+aboard
+about
+above
+absent
+according to
+across
+against
+ahead
+ahead of
+all
+all over
+along
+alongside
+amid
+amidst
+among
+amongst
+an
+an amount of
+another
+anti
+any
+anybody
+anyone
+anything
+applicable
+applicable to
+are
+around
+as follows
+as of
+as to
+aside
+astraddle
+astride
+at
+away from
+bar
+barring
+be
+be able to
+behind
+below
+beneath
+beside
+between
+beyond
+both
+by
+by the time of
+by virtue of
+can
+certain
+circa
+close by
+close to
+commence
+commencing
+could
+dare
+does not
+down
+during
+each
+each other
+enough
+etc.
+every
+everybody
+everyone
+everything
+except
+except for
+excepting
+excluding
+failing
+few
+fewer
+following
+follows
+for
+for all
+four
+from
+general
+generally
+given
+gives
+giving
+had better
+has
+have
+have to
+having
+he
+heaps of
+her
+hers
+herself
+him
+himself
+his
+in
+in between
+in connection with
+in front of
+in general
+in keeping with
+in place of
+incidental
+inside
+instead of
+into
+it
+its
+itself
+later
+less
+little
+loads
+lots
+made
+make
+makes
+making
+many
+masses of
+may
+me
+might
+mine
+minus
+more
+most
+much
+must
+my
+myself
+near
+near to
+need to
+neither
+next to
+no
+no_one
+nobody
+none
+not
+nothing
+numbers of
+of
+off
+on
+on top of
+once
+one
+one another
+one fifth
+one fourth
+one half
+one quarter
+one third
+onto
+opposite
+other
+other than
+ought
+ought to
+our
+ours
+ourselves
+out
+out of
+outside
+over
+part
+past
+pending
+per
+pertaining to
+plenty of
+plus
+pursuant to
+quantities of
+referred to
+related
+relating
+relating to
+respecting
+round
+same
+save
+saving
+several
+shall
+she
+should
+similar
+similar to
+some
+somebody
+someone
+something
+such
+take
+than
+thanks to
+that
+the
+the lack of
+the majority of
+the minority of
+the number of
+the plethora of
+the remainder of
+the rest of
+the whole
+their
+theirs
+them
+themselves
+thence
+there
+thereof
+thereof has been
+these
+they
+this
+tho'
+those
+three
+through
+throughout
+thru
+till
+to
+tons of
+toward
+towards
+two
+under
+underneath
+unlike
+until
+unto
+up
+up to
+upon
+us
+used to
+various
+versus
+via
+wanting
+was
+we
+were
+what
+whatever
+when
+whence
+whenever
+where
+wherever
+whether
+which
+whichever
+whilst
+who
+whoever
+whole
+whom
+whomever
+whose
+will
+with
+within
+without
+would
+you
+your
+yours
+yourself
+yourselves

@@ -1,8 +1,3 @@
-(AMLF)
-, US,,,,
-,,
-,,,,,,,,,,,,,,,,,,,
-/
 /case study
 AA/AAA credit ratings
 ABCP see asset-backed commercial paper

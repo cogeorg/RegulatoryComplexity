@@ -1,2 +1,2 @@
-file_name;Attributes;UniqueAttributes;EconomicOperands;UniqueEconomicOperands;FunctionWords;UniqueFunctionWorsd;LegalReferences;UniqueLegalReferences;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;RegulatoryOperators;UniqueRegulatoryOperators;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/Pillar2.txt;562;20;11650;273;46482;156;257;4;9114;81;559;24;1769;44;9332;7910883;21801;125;376;32684;378.0;0.0115652918859
+file_name;Operators;Operands;Other;UniqueOperators;UniqueOperands;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
+../010_raw_documents/Pillar2.txt;33658;1306;59942;493;20836;16959942;33658;493;1306;93600;1308.0;0.0139743589744

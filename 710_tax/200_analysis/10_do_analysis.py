@@ -12,104 +12,67 @@ import os
 # ###########################################################################
 def sanitize(entry):
     entry = entry.upper()
+    entry = entry.replace("'", "")
+    entry = entry.replace('"', '')
+    entry = entry.replace('`', '')
     entry = entry.replace(",", "")
     entry = entry.replace(".", "")
     entry = entry.replace(":", "")
     entry = entry.replace(";", "")
+    entry = entry.replace("(", "")
+    entry = entry.replace(")", "")
+    entry = entry.replace("[", "")
+    entry = entry.replace("]", "")
+    entry = entry.replace("%", "")
+    entry = entry.replace("-", "")
+    entry = entry.replace("$", "")
     return entry
 
 # -------------------------------------------------------------------------
 # do_run(file_name)
 # -------------------------------------------------------------------------
 def do_run(input_dir, output_file_name):
-    out_text = "file_name;Attributes;UniqueAttributes;EconomicOperands;UniqueEconomicOperands;FunctionWords;UniqueFunctionWorsd;LegalReferences;UniqueLegalReferences;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;RegulatoryOperators;UniqueRegulatoryOperators;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level\n"
+    out_text = "file_name;Operators;Operands;Other;UniqueOperators;UniqueOperands;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level\n"
 
     count = {}
-    count['Attributes'] = 0
-    count['EconomicOperands'] = 0
-    count['FunctionWords'] = 0
-    count['LegalReferences'] = 0
-    count['LogicalConnectors'] = 0
+    count['Operators'] = 0
+    count['Operands'] = 0
     count['Other'] = 0
-    count['RegulatoryOperators'] = 0
-    count['TaxOperands'] = 0
 
     unique = {}
-    unique['Attributes'] = []
-    unique['EconomicOperands'] = []
-    unique['FunctionWords'] = []
-    unique['LegalReferences'] = []
-    unique['LogicalConnectors'] = []
+    unique['Operators'] = []
+    unique['Operands'] = []
     unique['Other'] = []
-    unique['RegulatoryOperators'] = []
-    unique['TaxOperands'] = []
     unique['unclassified'] = []
 
     total_words = 0
     total_classified = 0
 
-    Attributes = []
-    input_file = open("../020_word_lists/Attributes.txt")
+    Operators = []
+    input_file = open("../020_word_lists/Operators.txt")
     for line in input_file.readlines():
-        Attributes.append(line.strip().upper())
-
-    EconomicOperands = []
-    input_file = open("../020_word_lists/EconomicOperands.txt")
+        Operators.append(sanitize(line.strip()))
+    Operands = []
+    input_file = open("../020_word_lists/Operands.txt")
     for line in input_file.readlines():
-        EconomicOperands.append(line.strip().upper())
-
-    FunctionWords = []
-    input_file = open("../020_word_lists/FunctionWords.txt")
-    for line in input_file.readlines():
-        FunctionWords.append(line.strip().upper())
-
-    LegalReferences = []
-    input_file = open("../020_word_lists/LegalReferences.txt")
-    for line in input_file.readlines():
-        LegalReferences.append(line.strip().upper())
-
-    LogicalConnectors = []
-    input_file = open("../020_word_lists/LogicalConnectors.txt")
-    for line in input_file.readlines():
-        LogicalConnectors.append(line.strip().upper())
-
+        Operands.append(sanitize(line.strip()))
     Other = []
     input_file = open("../020_word_lists/Other.txt")
     for line in input_file.readlines():
-        Other.append(line.strip().upper())
-
-    RegulatoryOperators = []
-    input_file = open("../020_word_lists/RegulatoryOperators.txt")
-    for line in input_file.readlines():
-        RegulatoryOperators.append(line.strip().upper())
-
-    TaxOperands = []
-    input_file = open("../020_word_lists/TaxOperands.txt")
-    for line in input_file.readlines():
-        TaxOperands.append(line.strip().upper())
+        Other.append(sanitize(line.strip()))
 
     if False:
-        print(Attributes)
-        print(EconomicOperands)
-        print(FunctionWords)
-        print(LegalReferences)
-        print(LogicalConnectors)
+        print(Operators)
+        print(Operands)
         print(Other)
-        print(RegulatoryOperators)
-        print(TaxOperands)
 
     print("<<<<<< WORKING ON: " + input_file_name)
 
     if True:
         print("  READING WORDS")
-        print("    # Attributes: " + str(len(Attributes)))
-        print("    # EconomicOperands: " + str(len(EconomicOperands)))
-        print("    # FunctionWords: " + str(len(FunctionWords)))
-        print("    # LegalReferences: " + str(len(LegalReferences)))
-        print("    # LogicalConnectors: " + str(len(LogicalConnectors)))
+        print("    # Operators: " + str(len(Operators)))
+        print("    # Operands: " + str(len(Operands)))
         print("    # Other: " + str(len(Other)))
-        print("    # RegulatoryOperators: " + str(len(RegulatoryOperators)))
-        print("    # TaxOperands: " + str(len(TaxOperands)))
 
     input_file = open(input_file_name, 'r')
 
@@ -120,67 +83,25 @@ def do_run(input_dir, output_file_name):
             token = sanitize(entry)
             is_classified = False
 
-            if token in Attributes:
+            if token in Operators:
                 is_classified = True
-                count['Attributes'] += 1
+                count['Operators'] += 1
                 try:
-                    unique['Attributes'].append(token)
+                    unique['Operators'].append(token)
                 except:
                     pass
-
-            if token in EconomicOperands:
+            if token in Operands:
                 is_classified = True
-                count['EconomicOperands'] += 1
+                count['Operands'] += 1
                 try:
-                    unique['EconomicOperands'].append(token)
+                    unique['Operands'].append(token)
                 except:
                     pass
-
-            if token in FunctionWords:
-                is_classified = True
-                count['FunctionWords'] += 1
-                try:
-                    unique['FunctionWords'].append(token)
-                except:
-                    pass
-
-            if token in LegalReferences:
-                is_classified = True
-                count['LegalReferences'] += 1
-                try:
-                    unique['LegalReferences'].append(token)
-                except:
-                    pass
-
-            if token in LogicalConnectors:
-                is_classified = True
-                count['LogicalConnectors'] += 1
-                try:
-                    unique['LogicalConnectors'].append(token)
-                except:
-                    pass
-
             if token in Other:
                 is_classified = True
                 count['Other'] += 1
                 try:
                     unique['Other'].append(token)
-                except:
-                    pass
-
-            if token in RegulatoryOperators:
-                is_classified = True
-                count['RegulatoryOperators'] += 1
-                try:
-                    unique['RegulatoryOperators'].append(token)
-                except:
-                    pass
-
-            if token in TaxOperands:
-                is_classified = True
-                count['TaxOperands'] += 1
-                try:
-                    unique['TaxOperands'].append(token)
                 except:
                     pass
 
@@ -192,6 +113,8 @@ def do_run(input_dir, output_file_name):
 
     print("  TOTAL WORDS: " + str(total_words))
     print("  TOTAL CLASSIFIED: " + str(total_classified))
+    print("  TOTAL UNCLASSIFIED: ") + str(len(unique['unclassified']))
+    print("  TOTAL OTHER: ") + str(len(unique['Other']))
     frac = float(total_classified)/float(total_words)
     print("  FRACTION CLASSIFIED: " + str(round(frac,2)))
 
@@ -203,14 +126,17 @@ def do_run(input_dir, output_file_name):
     #
     # compute num operators, operands
     #
-    num_unique_operators = len(set(unique['RegulatoryOperators'])) + len(set(unique['LogicalConnectors']))
-    num_unique_operands = len(set(unique['EconomicOperands'])) + len(set(unique['Attributes'])) + len(set(unique['LegalReferences'])) +  len(set(unique['TaxOperands']))
-    num_operators = count['RegulatoryOperators'] + count['LogicalConnectors']
-    num_operands = count['EconomicOperands'] + count['Attributes'] + count['LegalReferences'] + count['TaxOperands']
+    num_unique_operators = len(set(unique['Operators']))
+    num_unique_operands = len(set(unique['Operands']))
+    # num_operators = count['RegulatoryOperators'] + count['LogicalConnectors']
+    # num_operands = count['EconomicOperands'] + count['Attributes'] + count['LegalReferences'] + count['TaxOperands']
+    num_operators = count['Operators']
+    num_operands = count['Operands']
 
     total_volume = num_operators + num_operands
     potential_volume = 2.0 + num_unique_operands
     level = float(potential_volume) / float(total_volume)
+
     if True:
         print("    << TOTAL VOLUME:" + str(total_volume))
         print("    << POTENTIAL VOLUME:" + str(potential_volume))
@@ -243,18 +169,10 @@ def do_run(input_dir, output_file_name):
     #
     out_text = ""
     out_file = open("frequency-" + output_file_name, 'w')
-    for token in set(unique['RegulatoryOperators']):
-        out_text += "RegulatoryOperators;" + token + ";" + str(unique['RegulatoryOperators'].count(token)) + "\n"
-    for token in set(unique['LogicalConnectors']):
-        out_text += "LogicalConnectors;" + token + ";" + str(unique['LogicalConnectors'].count(token)) + "\n"
-    for token in set(unique['EconomicOperands']):
-        out_text += "EconomicOperands;" + token + ";" + str(unique['EconomicOperands'].count(token)) + "\n"
-    for token in set(unique['Attributes']):
-        out_text += "Attributes;" + token + ";" + str(unique['Attributes'].count(token)) + "\n"
-    for token in set(unique['LegalReferences']):
-        out_text += "LegalReferences;" + token + ";" + str(unique['LegalReferences'].count(token)) + "\n"
-    for token in set(unique['TaxOperands']):
-        out_text += "TaxOperands;" + token + ";" + str(unique['TaxOperands'].count(token)) + "\n"
+    for token in set(unique['Operators']):
+        out_text += "Operators;" + token + ";" + str(unique['Operators'].count(token)) + "\n"
+    for token in set(unique['Operands']):
+        out_text += "Operands;" + token + ";" + str(unique['Operands'].count(token)) + "\n"
     out_file.write(out_text)
     out_file.close()
     print("   FREQUENCIES WRITTEN TO: " + "frequency-" + output_file_name)

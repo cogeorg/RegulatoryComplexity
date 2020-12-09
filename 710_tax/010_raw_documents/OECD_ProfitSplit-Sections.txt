@@ -1,0 +1,530 @@
+A. Transactional profit split method
+
+The guidance contained in this section and in Annexes II and III to Chapter II are expected to be revised to include the conclusions of the ongoing work of Working Party No. 6 on the application of profit split methods. This work, mandated by Action 10 of the BEPS Action Plan, is aimed at clarifying the application of transfer pricing methods, in particular the transactional profit split method, in the context of global value chains.
+
+    A.1 In general
+
+2.114    The transactional profit split method seeks to eliminate the effect   on profits of special conditions made or imposed in a controlled transaction (or in controlled transactions that are appropriate to aggregate under the principles of paragraphs 3.9-3.12) by determining the division of profits that independent enterprises would have expected to realise from engaging in the transaction or transactions. The transactional profit split method first identifies the profits to be split for the associated enterprises from the controlled transactions in which the associated enterprises are engaged (the “combined profits”). References to “profits” should be taken as applying equally to losses. See paragraphs 2.130-2.137 for a discussion of how to measure the profits to be split. It then splits those combined profits between the associated enterprises on an economically valid basis that approximates the division of profits that would have been anticipated and reflected in an agreement made at arm’s length. See paragraphs 2.138-2.151 for a discussion of how to split the combined profits.
+
+    A.2 Strengths and weaknesses
+
+2.115  The main strength of the transactional profit split method is that it  can offer a solution for highly integrated operations for which a one-sided method would not be appropriate. For example, see the discussion of the appropriateness and application of profit split methods to the global trading of financial instruments between associated enterprises in Part III, Section C of the Report on the Attribution of Profits to Permanent Establishments.2 A
+
+2 See Report on the Attribution of Profits to Permanent Establishments, approved by the Committee on Fiscal Affairs on 24 June 2008 and by the Council for publication on 17 July 2008 and the Report on the  Attribution of Profits to Permanent Establishments, approved by the Committee on Fiscal Affairs on 22 June 2010 and by the Council for publication on 22 July 2010.
+
+transactional profit split method may also be found to be the most appropriate method in cases where both parties to a transaction make unique and valuable contributions (e.g. contribute unique intangibles) to the transaction, because in such a case independent parties might wish to share the profits of the transaction in proportion to their respective contributions and a two-sided method might be more appropriate in these circumstances than a one-sided method. In addition, in the presence of unique and valuable contributions, reliable comparables information might be insufficient to apply another method. On the other hand, a transactional profit split method would ordinarily not be used in cases where one party to the transaction performs only simple functions and does not make any significant unique contribution (e.g. contract manufacturing or contract service activities in relevant circumstances), as in such cases a transactional profit split method typically would not be appropriate in view of the functional analysis of that party. See paragraphs 3.38-3.39 for a discussion of limitations in available comparables.
+methods.
+
+assumed) between the associated enterprises themselves.
+have done if faced with the same circumstances.
+
+
+extreme and improbable profit result, since both parties to the transaction are evaluated. This aspect can be particularly important when analysing the contributions by the parties in respect of the intangible property employed in the controlled transactions. This two-sided approach may also be used to achieve a division of the profits from economies of scale or other joint efficiencies that satisfies both the taxpayer and tax administrations.
+
+    A.3 Guidance for application
+
+        A.3.1 In general
+realised had the parties been independent enterprises.
+
+factors should:
+• Be consistent with the functional analysis of the controlled transaction under review, and in particular reflect the allocation of risks among the parties,
+
+• Be consistent with the determination of the combined profits to be split and of the splitting factors which would have been agreed between independent parties,
+
+• Be consistent with the type of profit split approach (e.g. contribution analysis, residual analysis, or other; ex ante or ex post approach, as discussed at paragraphs 2.124-2.151 below), and
+
+• Be capable of being measured in a reliable manner.
+
+2.123	In addition,
+• If a transactional profit split method is used to set transfer pricing in controlled transactions (ex ante approach), it would be reasonable to expect the life-time of the arrangement and the criteria or allocation keys to be agreed in advance of the transaction,
+
+• The person using a transactional profit split method (taxpayer or tax administration) should be prepared to explain why it is regarded as the most appropriate method to the circumstances of the case, as well as the way it is implemented, and in particular the criteria or allocation keys used to split the combined profits, and
+
+• The determination of the combined profits to be split and of the splitting factors should generally be used consistently over the life- time of the arrangement, including during loss years, unless independent parties in comparable circumstances would have agreed otherwise and the rationale for using differing criteria or allocation keys is documented, or if specific circumstances would have justified a re-negotiation between independent parties.
+
+        A.3.2 Various approaches for splitting the profits
+exclusive.
+
+            A.3.2.1 Contribution analysis
+
+divided between the associated enterprises based upon a reasonable approximation of the division of profits that independent enterprises would have expected to realize from engaging in comparable transactions. This division can be supported by comparables data where available. In the absence thereof, it is often based on the relative value of the functions performed by each of the associated enterprises participating in the controlled transactions, taking account of their assets used and risks assumed. In cases where the relative value of the contributions can be measured directly, it may not be necessary to estimate the actual market value of each participant's contributions.
+split the combined profits.
+
+            A.3.2.2 Residual analyses3
+
+
+
+3 An example illustrating the application of the residual profit split is found in Annex II to Chapter II.
+
+independent seller reasonably would accept in the circumstances and the highest price that the buyer would be reasonably willing to pay. Any discrepancy between these two figures could result in the residual profit  over which independent enterprises would bargain. In the second stage, the residual analysis therefore could divide this pool of profit based on an analysis of any factors relevant to the associated enterprises that would indicate how independent enterprises might have split the difference between the seller's minimum price and the buyer's maximum price.
+
+        A.3.3 Determining the combined profits to be split
+
+
+2.123 for general guidance on the consistency of the determination of the combined profits to be split.
+
+            A.3.3.1 Actual or projected profits
+2.133     If the profit split method were to be used by associated enterprises to set transfer pricing in controlled transactions (i.e. an ex ante approach), then each associated enterprise would seek to achieve the division of profits that independent enterprises would have expected to realize from engaging
+in comparable transactions. Depending on the facts and circumstances,  profit splits using either actual or projected profits are observed in practice.
+2.134 When a tax administration examines the application of the method used ex ante to evaluate whether the method has reliably approximated arm’s length transfer pricing, it is critical for the tax administration to acknowledge that the taxpayer could not have known what the actual profit experience of the business activity would be at the time that the conditions of the controlled transaction were established. Without such an acknowledgement, the application of the transactional profit split method could penalize or reward a taxpayer by focusing on circumstances that the taxpayer could not reasonably have foreseen. Such an application would be contrary to the arm’s length principle, because independent enterprises in similar circumstances could only have relied upon projections and could not
+have known the actual profit experience. See also paragraph 3.74.
+2.135 In using the transactional profit split method to establish the conditions of controlled transactions, the associated enterprises would seek to achieve the division of profit that independent enterprises would have realized. The evaluation of the conditions of the controlled transactions of associated enterprises using a transactional profit split method will be easiest for a tax administration where the associated enterprises have originally determined such conditions on the same basis. The evaluation may then
+begin on the same basis to verify whether the division of actual profits is in accordance with the arm’s length principle.
+2.136	Where the associated enterprises have determined the conditions in their controlled transactions on a basis other than the transactional profit
+split method, the tax administration would evaluate such conditions on the basis of the actual profit experience of the enterprise. However, care would
+
+need to be exercised to ensure that the application of a transactional profit split method is performed in a context that is similar to what the associated enterprises would have experienced, i.e. on the basis of information known or reasonably foreseeable by the associated enterprises at the time the transactions were entered into, in order to avoid the use of hindsight. See paragraphs 2.12 and 3.74.
+
+            A.3.3.2 Different measures of profits4
+
+        A.3.4 How to split the combined profits
+
+            A.3.4.1 In general
+
+4 An example illustrating different measures of profits when applying a transactional profit split method can be found in Annex III to Chapter II.
+
+determination of the splitting factors. In addition, the criteria or allocation keys used to split the profit should:
+    ◦ Be reasonably independent of transfer pricing policy formulation, i.e. they should be based on objective data (e.g. sales to independent parties), not on data relating to the remuneration of controlled transactions (e.g. sales to associated enterprises), and
+
+    ◦ Be supported by comparables data, internal data, or both.
+
+            A.3.4.2 Reliance on data from comparable uncontrolled transactions
+
+            A.3.4.3 Allocation keys
+
+
+
+storage, floor area of retail points, etc. may be appropriate depending on the facts and circumstances of the transactions.
+Asset-based allocation keys
+method.
+
+Cost-based allocation keys
+
+2.145 Cost-based allocation keys have the advantage of simplicity. It is however not always the case that a strong correlation exists between relative expenses and relative value, as discussed in paragraph 6.142. One possible issue with cost-based allocation keys is that they can be very sensitive to accounting classification of costs. It is therefore necessary to clearly identify in advance what costs will be taken into account in the determination of the allocation key and to determine the allocation key consistently among the parties.
+Timing issues
+
+            A.3.4.4 Reliance on data from the taxpayer’s own operations (“internal data”)
+2.147 Where  comparable  uncontrolled  transactions  of  sufficient reliability are lacking to support the division of the combined profits, consideration should be given to internal data, which may provide a reliable means of establishing or testing the arm’s length nature of the division of profits. The types of such internal data that are relevant will depend on the facts and circumstances of the case and should satisfy the conditions outlined in this Section and in particular at paragraphs 2.122-2.123 and 2.138. They will frequently be extracted from the taxpayers’ cost accounting or financial accounting.
+
+needed for the taxpayer to draw a “transactional” balance sheet that will be used for the application of the transactional profit split method. Similarly, where cost-based allocation keys are used that are based on data extracted from the taxpayers’ profit and loss accounts, it may be necessary to draw transactional accounts that identify those expenses that are related to the controlled transaction at hand and those that should be excluded from the determination of the allocation key. The type of expenditure that is taken into account (e.g. salaries, depreciation, etc.) as well as the criteria used to determine whether a given expense is related to the transaction at hand or is rather related to other transactions of the taxpayer (e.g. to other lines of products not subject to this profit split determination) should be applied consistently to all the parties to the transaction. See also paragraph 2.104 for a discussion of valuation of assets in the context of the transactional net margin method where the net profit is weighted to assets, which is also relevant to the valuation of assets in the context of a transactional profit split where an asset-based allocation key is used.
+2.149   Internal data may also be helpful where the allocation key is based on a cost accounting system, e.g. headcounts involved in some aspects of the transaction, time spent by a certain group of employees on certain tasks,
+number of servers, data storage, floor area of retail points, etc.
+2.150 Internal data are essential to assess the values of the respective contributions of the parties to the controlled transaction. The determination of such values should rely on a functional analysis that takes into account all the economically significant functions, assets and risks contributed by the parties to the controlled transaction. In those cases where the profit is split on the basis of an evaluation of the relative importance of the functions, assets and risks to the value added to the controlled transaction, such evaluation should be supported by reliable objective data in order to limit arbitrariness. Particular attention should be given to the identification of the relevant contributions of valuable intangibles and the assumption of significant risks and the importance, relevance and measurement of the
+factors which gave rise to these valuable intangibles and significant risks.
+2.151 One possible approach not discussed  above  is  to  split  the  combined profits so that each of the associated enterprises participating in the controlled transactions earns the same rate of return on the capital it employs in that transaction. This method assumes that each participant's capital investment in the transaction is subject to a similar level of risk, so that one might expect the participants to earn similar rates of return if they were operating in the open market. However, this assumption may not be realistic. For example, it would not account for conditions in capital markets
+and  could  ignore  other  relevant  aspects  that  would  be  revealed  by  a
+
+functional analysis and that should be taken into account in a transactional profit split.
+
+B. Conclusions on transactional profit methods
+
+    2.152 Paragraphs 2.1-2.12 provide guidance on the selection of the most appropriate transfer pricing method to the circumstances of the case.
+    2.153 As discussed in these Guidelines, there are concerns regarding the use of the transactional net margin method, in particular that it is sometimes applied without adequately taking into account the relevant differences between the controlled and uncontrolled transactions being compared. Many countries are concerned that the safeguards established for the traditional transaction methods may be overlooked in applying the transactional net margin method. Thus, where differences in the characteristics of the transactions being compared have a material effect on the net profit indicators being used, it would not be appropriate to apply the transactional net margin method without making adjustments for such differences. See paragraphs 2.74-2.81 (the comparability standard to be applied to the transactional net margin method).
+    2.154 The recognition that the use of transactional profit methods may be necessary is not intended to suggest that independent enterprises would use these methods to set prices. As with any method, it is important that it be possible to calculate appropriate corresponding adjustments when transactional profit methods are used, recognising that in certain cases corresponding adjustments may be determined on an aggregate basis consistent with the aggregation principles in paragraphs 3.9-3.12.
+    2.155 In all cases, caution must be used to determine whether a transactional profit method as applied to a particular aspect of a case can produce an arm’s length answer, either in conjunction with a traditional transaction method or on its own. The question ultimately can be resolved only on a case-by-case basis taking into account the strengths and weaknesses set forth above for a particular transactional profit method to be applied, the comparability (including functional) analysis of the parties to the transaction, and the availability and reliability of comparable data. In addition, these conclusions assume that countries will have a certain degree of sophistication in their underlying tax systems before applying these methods.
+
+
+
+
+            A.1.1.1. Application of transactional profit split method6
+    6.1 In some circumstances, a transactional profit split method can be utilised to determine the arm’s length conditions for a transfer of intangibles or rights in intangibles where it is not possible to identify reliable comparable uncontrolled transactions for such transfers. Section C of
+
+6	Section D.2.6.2 of Chapter VI is likely to be revised to reflect the outcome of the work on the application of transactional profit split methods, mandated by Action 10 of the BEPS Action Plan. This work will be undertaken in 2016 and 2017.
+
+Chapter II contains guidance to be considered in applying transactional profit split methods. That guidance is fully applicable to matters involving the transfer of intangibles or rights in intangibles. In evaluating the reliability of transactional profit split methods, however, the availability of reliable and adequate data regarding combined profits, appropriately allocable expenses, and the reliability of factors used to divide combined income should be fully considered.
+    6.2 Transactional profit split methods may have application in connection with the sale of full rights in intangibles. As with other applications of the transactional profit split method, a full functional  analysis that considers the functions performed, risks assumed and assets used by each of the parties is an essential element of the analysis. Where a transactional profit split analysis is based on projected revenues and expenses, the concerns with the accuracy of such projections described in Section D.2.6.4.1 should be taken into account.
+    6.3 It is also sometimes suggested that a profit split analysis can be applied to transfers of partially developed intangibles. In such an analysis, the relative value of contributions to the development of intangibles before and after a transfer of the intangibles in question is sometimes examined. Such an approach may include an attempt to amortise the transferor’s contribution to the partially developed intangible over the asserted useful  life of that contribution, assuming no further development. Such approaches are generally based on projections of cash flows and benefits expected to arise at some future date following the transfer and the assumed successful completion of further development activities.
+    6.4 Caution should be exercised in applying profit split approaches to determine estimates of the contributions of the parties to the creation of income in years following the transfer, or an arm’s length allocation of future income, with respect to partially developed intangibles. The contribution or value of work undertaken prior to the transfer may bear no relationship to the cost of that work. For example, a chemical compound with potentially blockbuster pharmaceutical indications might be developed in the laboratory at relatively little cost. In addition, a variety of difficult to evaluate factors would need to be taken into account in such a profit split analysis. These would include the relative riskiness and value of research contributions before and after the transfer, the relative risk and its effect on value, for other development activities carried out before and after the transfer, the appropriate amortisation rate for various contributions to the intangible value, assumptions regarding the time at which any potential new products might be introduced, and the value of contributions other than intangibles to the ultimate generation of profit. Income and cash flow projections in such situations can sometimes be especially speculative.
+
+These factors can combine to call the reliability of such an application of a profit split analysis into question. See Section D.4 on hard-to-value intangibles.
+    6.5 Where limited rights in fully developed intangibles are transferred in a licence or similar transaction, and reliable comparable uncontrolled transactions cannot be identified, a transactional profit split method can often be utilised to evaluate the respective contributions of the parties to earning combined income. The profit contribution of the rights  in intangibles made available by the licensor or other transferor would, in such a circumstance, be one of the factors contributing to the earning of income following the transfer. However, other factors would also need to be considered. In particular, functions performed and risks assumed by the licensee/transferee should specifically be taken into account in such an analysis. Other intangibles used by the licensor/transferor and by the licensee/transferee in their respective businesses should similarly be considered, as well as other relevant factors. Careful attention should be given in such an analysis to the limitations imposed by the terms of the transfer on the use of the intangibles by the licensee/transferee and on the rights of the licensee/transferee to use the intangibles for purposes of ongoing research and development. Further, assessing contributions of the licensee to enhancements in the value of licensed intangibles may be important. The allocation of income in such an analysis would depend on  the findings of the functional analysis, including an analysis of the relevant risks assumed. It should not be assumed that all of the residual profit after functional returns would necessarily be allocated to the licensor/transferor in a profit split analysis related to a licensing arrangement.
+
+
+
+Annex II to Chapter II
+
+Example to Illustrate the Application of the Residual Profit Split Method
+
+
+
+See Chapter II, Part III, Section C of these Guidelines for general guidance on the application of the profit split method.
+The adjustments and assumptions about arm’s length arrangements in the examples that follow are intended for illustrative purposes only and should not be taken as prescribing adjustments and arm’s length arrangements in actual cases or particular industries. While they seek to demonstrate the principles of the Sections of the Guidelines to which they refer, those principles must be applied in each case according to the specific facts and circumstances of that case.
+
+1.	The success of an electronics product is linked to the innovative technological design both of its electronic processes and of its major component. That component is designed and manufactured by associated company A, is transferred to associated company B which designs and manufactures the rest of the product, and is distributed by associated company C. Information exists to verify by means of a resale price method that the distribution functions and risks of Company C are being appropriately rewarded by the transfer price of the finished product from B to C.
+
+element attributable to the intangible used therein. A similar calculation could be performed on company B’s manufacturing costs, to give an estimate of B’s profit derived from its manufacturing functions, ignoring the profit element attributable to its intangible. Since B’s selling price to C is known and is accepted as an arm’s length price, the amount of the residual profit accrued by A and B together from the exploitation of their respective intangible property can be determined. See paragraphs 2.114 and 2.127 of the Guidelines. At this stage the proportion of this residual profit properly attributable to each enterprise remains undetermined.
+4. Some figures may assist in following the example:
+
+a) Profit & Loss of A and B
+
+
+A
+B
+Sales
+
+50
+
+100
+Less:
+
+
+
+
+Purchases
+
+(10)
+
+(50)
+Manufacturing costs
+
+(15)
+
+(20)
+Gross profits
+
+25
+
+30
+Less:
+
+
+
+
+R&D
+15
+
+10
+
+Operating expenses
+10
+(25)
+10
+(20)
+Net profit
+
+0
+
+10
+
+b) Determine routine profit on manufacturing by A and B, and calculate total residual profit
+
+5. It is established, for both jurisdictions, that third-party comparable manufacturers without innovative intangible property earn a return on manufacturing costs (excluding purchases) of 10% (ratio of net profit to the direct and indirect costs of manufacturing).1 See paragraph 2.127 of the Guidelines. A’s manufacturing costs are 15, and so the return on costs would attribute to A a manufacturing profit of 1.5. B’s equivalent costs are 20, and so the return on costs would attribute to B a manufacturing profit of 2.0. The residual profit is therefore 6.5, arrived at by deducting from the combined net profit of 10 the combined manufacturing profit of 3.5.
+
+
+
+
+
+1 This 10% return does not technically correspond to a cost plus mark-up in its strictest sense because it yields net profit rather than gross profit. But neither does the 10% return correspond to a TNMM margin in its strictest sense, since the cost base does not include operating expenses. The net return on manufacturing costs is being used as a convenient and practical first stage of the profit split method, because it simplifies the determination of the amount of residual net profit attributable to intangible property.
+
+c) Allocate residual profit
+
+6. The initial allocation of profit (1.5 to A and 2.0 to B) rewards the manufacturing functions of A and B, but does not recognise the value of their respective R&D that has resulted in a technologically advanced product. That residual can, therefore, be split between A and B based on their share of total R&D costs, since, for the purposes of this example2, it can reliably be assumed that the companies’ relative expenditure on R&D accurately reflects their relative contributions to the value of the product’s technological innovation. A’s R&D expenditure is 15 and B’s 10, giving combined R&D expenditure of 25. The residual is 6.5 which may be allocated 15/25 to A and 10/25 to B, resulting in a share of 3.9 and 2.6 respectively, as below:
+A’s share 6.5 x 15/25= 3.9
+B’s share 6.5 x 10/25= 2.6.
+
+d) Recalculate Profits
+
+7. A’s net profits would thus become 1.5 + 3.9 = 5.4.
+The revised P & L for tax purposes would appear as:
+
+
+A
+B
+Sales
+
+55.4
+
+100
+Less:
+
+
+
+
+Purchases
+
+(10)
+
+(55.4)
+Manufacturing costs
+
+(15)
+
+(20)
+Gross profit
+
+30.4
+
+24.6
+Less:
+
+
+
+
+R& D
+15
+
+10
+
+Operating expenses
+10
+(25)
+10
+(20)
+Net profit
+
+5.4
+
+4.6
+
+
+
+
+2 But see paragraph 6.27 of the Guidelines.
+
+Note
+8. The example is intended to exemplify in a simple manner the mechanisms of a residual profit split and should not be interpreted as providing general guidance as to how the arm’s length principle should apply in identifying arm’s length comparables and determining an appropriate split. It is important that the principles that it seeks to illustrate are applied in each case taking into account the specific facts and circumstances of the case. In particular, it should be noted that the allocation of the residual split may need considerable refinement in practice in order to identify and quantify the appropriate basis for the allocation. Where R&D expenditure is used, differences in the types of R&D conducted may need to be taken into account, e.g. because different types of R&D may have different levels of risk associated with them, which would lead to different levels of expected returns at arm’s length. Relative levels of current R&D expenditure also may not adequately reflect the contribution to the earning of current profits that is attributable to intangible property developed or acquired in the past.
+
+
+Annex III to Chapter II
+
+Illustration of Different Measures of Profits When Applying a Transactional Profit Split Method
+
+
+
+See Chapter II, Part III, Section C of these Guidelines for general guidance on the application of the transactional profit split method.
+The assumptions about arm’s length arrangements in the following examples are intended for illustrative purposes only and should not be taken as prescribing adjustments and arm’s length arrangements in actual cases of particular industries. While they seek to demonstrate the principles of the sections of the Guidelines to which they refer, those principles must be applied in each case according to the specific facts and circumstances of that case.
+Furthermore, the comments below relate to the application of a transactional profit split method in the situations where, given the facts and circumstances of the case and in particular the comparability (including functional) analysis of the transaction and the review of the information available on uncontrolled comparables, such a method is found to be the most appropriate method to be used.
+
+1.	Below are some illustrations of the effect of choosing a measure of profits to determine the combined profits to be split when applying a transactional profit split method.
+
+parties. Assume that it is determined that the most appropriate method to be used is a residual profit split method, that the manufacturing activities of A and B are simple, non-unique transactions that should be allocated an initial return of 10% of the Cost of Goods Sold and that the residual profit should be split in proportion to A’s and B’s intangible asset expenditure. The following figures are for illustration only:
+
+
+A
+B
+Combined A + B
+Sales
+100
+300
+400
+Cost Of Goods Sold
+60
+170
+230
+Gross Profit
+40
+130
+170
+Overhead expenses
+3
+6
+9
+Other operating expenses
+2
+4
+6
+Intangible asset expenditure
+30
+40
+70
+Operating Profit
+5
+80
+85
+
+3. Step one: determining the initial return for the non-unique manufacturing transactions (Cost of Goods Sold + 10% in this example)
+
+A
+60 + (60 * 10 %) = 66
+ Initial return for the manufacturing transactions of A = 6
+B
+170 + (170 * 10 %) = 187
+ Initial return for the manufacturing transactions of B =	17
+
+Total profit allocated through initial returns (6+17) =	23
+
+4. Step two: determining the residual profit to be split
+    a) In case it is determined as the operating profit:
+
+Combined Operating Profit
+85
+Profit already allocated (initial returns for manufacturing transactions)
+23
+Residual profit to be split in proportion to A’s and B’s intangible asset expenditure
+62
+
+Residual profit allocated to A:
+
+62 * 30/70
+
+26.57
+Residual profit allocated to B:
+
+62 * 40/70
+
+35.43
+Total profits allocated to A:
+
+6 (initial return) + 26.57 (residual)
+32.57
+Total profits allocated to B:
+
+17 (initial return) + 35.43 (residual)
+52.43
+Total
+
+85
+
+    b) In case it is determined as the operating profit before overhead expenses (assuming it is determined that the overhead expenses of A and B do not relate to the transaction examined and should be excluded from the determination of the combined profits to be split):
+
+
+A
+B
+Combined A + B
+Sales
+100
+300
+400
+Cost Of Goods Sold
+60
+170
+230
+Gross Profit
+40
+130
+170
+Other operating expenses
+2
+4
+6
+Intangible asset expenditure
+30
+40
+70
+Operating Profit before overhead expenses
+8
+86
+94
+Overhead expenses
+3
+6
+9
+Operating Profit
+5
+80
+85
+
+
+Combined Operating Profit before overhead expenses
+
+94
+
+Profit already allocated (initial returns for manufacturing transactions)
+
+23
+Residual profit before overhead expenses to be split in proportion to A’s and B’s intangible asset expenditure
+
+71
+
+Residual profit allocated to A:
+71 * 30/70
+30.43
+Residual profit allocated to B:
+71 * 40/70
+40.57
+
+
+
+Total profits allocated to A:
+6 (initial return) + 30.43 (residual)
+– 3 (overhead expenses)
+33.43
+Total profits allocated to B:
+17 (initial return) + 40.57 (residual)
+– 6 (overhead expenses)
+51.57
+Total
+85
+
+5. As shown in the above example, excluding some specific items from the determination of the combined profits to be split implies that each party remains responsible for its own expenses in relation to it. As a consequence, the decision whether or not to exclude some specific items must be consistent with the comparability (including functional) analysis of the transaction.
+6. As another example, in some cases it may be appropriate to back out a category of expenses to the extent that the allocation key used in the residual profit split analysis relies on those expenses. For example, in cases
+
+where relative expenditure contributing to the development of an intangible asset is determined to be the most appropriate profit split factor, residual profits can be based on operating profits before that expenditure. After determining the split of residual profits, each associated enterprise then subtracts its own expenditure. This can be illustrated as follows. Assume the facts are the same as in the example at paragraph 2 above and assume the overhead expenses are not excluded from the determination of the residual profit to be split.
+7. Step one: determining the basic return for the manufacturing activities (Cost of Goods Sold + 10% in this example)
+Same as at paragraph 3.
+8. Step two: determining the residual profit to be split
+a) In case it is determined as the operating profit after intangible asset expenditure:
+
+Same as at paragraph 4, case a)
+b) In case it is determined as the operating profit before intangible asset expenditure:
+
+
+A
+B
+Combined A + B
+Sales
+100
+300
+400
+Cost Of Goods Sold
+60
+170
+230
+Gross Profit
+40
+130
+170
+Overhead expenses
+3
+6
+9
+Other operating expenses
+2
+4
+6
+Operating profit intangible asset expenditure
+
+35
+
+120
+
+155
+Intangible asset expenditure
+30
+40
+70
+Operating Profit
+5
+80
+85
+
+
+Combined Operating Profit before intangible asset expenditure
+
+155
+Profit already allocated (initial returns for manufacturing transactions)
+
+23
+Residual profit before intangible asset expenditure to be split in proportion to A’s and B’s intangible asset expenditure
+
+132
+Residual profit allocated to A:
+132 * 30/70
+56.57
+
+Residual profit allocated to B:
+132 * 40/70
+75.43
+Total profits allocated to A:
+6 (initial return) + 56.57 (residual)
+– 30 (intangible asset expenditure)
+32.57
+Total profits allocated to B:
+17 (initial return) + 75.43 (residual)
+– 40 (intangible asset expenditure)
+52.43
+Total
+85
+i.e. A and B are allocated the same profits as in the case where the profit to be split is determined as the operating profit after intangible asset expenditure, see case a) above.
+
+9. This example illustrates the fact that, when the allocation key used to split the residual profit relies on a category of expenses incurred during the period, it is indifferent whether the residual profit to be split is determined before said expenses and the expenses are deducted by each party, or whether the residual profit to be split is determined after said expenses. The outcome can however be different in the case where the split factor is based on the accumulated expenditure of the prior as well as current years (see paragraph 2 above).
