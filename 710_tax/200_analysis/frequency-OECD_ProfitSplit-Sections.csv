@@ -579,6 +579,7 @@ Operands;DEMONSTRATE;2
 Operands;EXPENSE;1
 Operands;CARE;1
 Operands;UNDETERMINED;1
+Operands;10;21
 Operands;TASKS;1
 Operands;15;9
 Operands;17;4
@@ -669,6 +670,7 @@ Operands;DESIGN;1
 Operands;ENTERED;1
 Operands;SEEKS;2
 Operands;MARKUP;1
+Operands;3;7
 Operands;BLOCKBUSTER;1
 Operands;APPROACH;7
 Operands;CONSISTENT;5

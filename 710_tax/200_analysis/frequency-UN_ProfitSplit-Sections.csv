@@ -401,6 +401,7 @@ Operands;BEGINNING;1
 Operands;JURISDICTIONS;1
 Operands;DUE;3
 Operands;ADAPT;1
+Operands;10;2
 Operands;CONVENTION;1
 Operands;TRADING;1
 Operands;KEY;1
@@ -461,6 +462,7 @@ Operands;SEEKS;1
 Operands;SEARCH;1
 Operands;INTRODUCTION;1
 Operands;COMMONLY;1
+Operands;3;1
 Operands;APPROACH;10
 Operands;AVAILABLE;3
 Operands;INCURS;1
