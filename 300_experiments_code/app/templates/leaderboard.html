@@ -73,7 +73,7 @@
                 
               <div class="panel panel-default" style="padding:20px; display: inline-block;">
                 <!-- <p>The results of your experiment are below:</p> -->
-                <useranswers></useranswers>
+                <leaderboard></leaderboard>
               </div>
             </div>
 
@@ -102,20 +102,12 @@
 
 <script>
  
-fetch("../static/table.htm")
+fetch("../static/leaderboard.htm")
 .then(response => {
   return response.text()
 })
 .then(data => {
   document.querySelector("leaderboard").innerHTML = data;
-});
-
-fetch("../static/table.htm")
-.then(response => {
-  return response.text()
-})
-.then(data => {
-  document.querySelector("useranswers").innerHTML = data;
 });
 
 

@@ -177,7 +177,7 @@ def endpage():
     # print(result.shape)
     # to save as html file 
     # named as "Table" 
-    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/table.htm", index=None)
+    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/useranswers.htm", index=None)
     # a.style.set_properties(**{'text-align': 'right'})
     # assign it to a  
     # variable (string) 
@@ -208,7 +208,7 @@ def leaderboard():
     concatenated = pd.concat([top,bottom])
     concatenated.reset_index(inplace=True, drop=True)
 
-    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/table.htm", index=None)
+    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/leaderboard.htm", index=None)
 
     table = concatenated.to_html()
 
