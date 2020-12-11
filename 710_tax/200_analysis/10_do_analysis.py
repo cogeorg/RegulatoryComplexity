@@ -5,13 +5,19 @@ __author__="""Co-Pierre Georg (co-pierre.georg@uct.ac.za)"""
 
 import sys
 import os
-
+import re
 
 # ###########################################################################
 # METHODS
 # ###########################################################################
 def sanitize(entry):
     entry = entry.upper()
+
+    # remove all links to other sections
+    numbers = re.findall(r'([0-9]+)\.', entry)  # needs to be done before replacing "."
+    for number in numbers:
+        entry = entry.replace(number, "")
+
     entry = entry.replace("'", "")
     entry = entry.replace('"', '')
     entry = entry.replace('`', '')
@@ -26,6 +32,7 @@ def sanitize(entry):
     entry = entry.replace("%", "")
     entry = entry.replace("-", "")
     entry = entry.replace("$", "")
+
     return entry
 
 # -------------------------------------------------------------------------
@@ -148,34 +155,34 @@ def do_run(input_dir, output_file_name):
     #
     # write results file
     #
-    out_file = open("results-" + output_file_name, 'w')
+    out_file = open("./results/results-" + output_file_name, 'w')
     out_file.write(out_text)
     out_file.close()
-    print("   RESULTS WRITTEN TO: " + "results-" + output_file_name)
+    print("   RESULTS WRITTEN TO: " + "./results/results-" + output_file_name)
 
     #
     # write out unclassified tokens
     #
     out_text = ""
-    out_file = open("unclassified-" + output_file_name, "w")
+    out_file = open("./unclassified/unclassified-" + output_file_name, "w")
     for token in set(unique['unclassified']):
         out_text += token + ";" + str(unique['unclassified'].count(token)) + "\n"
     out_file.write(out_text)
     out_file.close()
-    print("   UNCLASSIFIED TOKENS WRITTEN TO: " + "unclassified-" + output_file_name)
+    print("   UNCLASSIFIED TOKENS WRITTEN TO: " + "./unclassified/unclassified-" + output_file_name)
 
     #
     # write frequency file
     #
     out_text = ""
-    out_file = open("frequency-" + output_file_name, 'w')
+    out_file = open("./frequency/frequency-" + output_file_name, 'w')
     for token in set(unique['Operators']):
         out_text += "Operators;" + token + ";" + str(unique['Operators'].count(token)) + "\n"
     for token in set(unique['Operands']):
         out_text += "Operands;" + token + ";" + str(unique['Operands'].count(token)) + "\n"
     out_file.write(out_text)
     out_file.close()
-    print("   FREQUENCIES WRITTEN TO: " + "frequency-" + output_file_name)
+    print("   FREQUENCIES WRITTEN TO: " + "./frequency/frequency-" + output_file_name)
 
     #
     # END
