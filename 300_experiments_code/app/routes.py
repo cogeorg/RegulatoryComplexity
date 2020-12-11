@@ -51,7 +51,7 @@ def register():
         user.set_password(form.password.data)
         db.session.add(user)
         db.session.commit()
-        flash('You are now a registered user!')
+        flash('You are now df registered user!')
         return redirect(url_for("login"))
     return render_template("register.html", title = "Register", form=form)
 
@@ -93,14 +93,14 @@ def experiment(n_reg=1):
     for line in open("./app/static/users/user_" + str(user_id) + "_experiments.csv"):
         user_experiments.append(line.strip("\n"))
 
-    a = pd.read_csv("./app/static/table_template.csv") 
+    df = pd.read_csv("./app/static/table_template.csv") 
     # to save as html file 
     # named as "Table" 
-    a.to_html("./app/static/table.htm", na_rep="", index=False, index_names=False, col_space=60)
-    a.style.set_properties(**{'text-align': 'right'})
-    # assign it to a  
+    df.to_html("./app/static/table.htm", na_rep="", index=False, index_names=False, col_space=60)
+    df.style.set_properties(**{'text-align': 'right'})
+    # assign it to df  
     # variable (string) 
-    table = a.to_html()
+    table = df.to_html()
 
     form = SubmissionForm()
     if n_reg == 1:
@@ -166,11 +166,10 @@ def endpage():
 
     # result = pd.concat(frames)
 
-    a = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,4,5,7])
-    a.drop([5])
+    df = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,4,5,7])
 
-    top = a.head(0)
-    bottom = a.tail(10)
+    top = df.head(0)
+    bottom = df.tail(10)
     concatenated = pd.concat([top,bottom])
     concatenated.reset_index(inplace=True, drop=True)
 
@@ -178,8 +177,8 @@ def endpage():
     # to save as html file 
     # named as "Table" 
     concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/useranswers.htm", index=None)
-    # a.style.set_properties(**{'text-align': 'right'})
-    # assign it to a  
+    # df.style.set_properties(**{'text-align': 'right'})
+    # assign it to df  
     # variable (string) 
     table = concatenated.to_html()
 
@@ -200,17 +199,20 @@ def endpage():
 @app.route('/leaderboard')
 def leaderboard():
 
-    a = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,4,5,7])
-    a.drop([5])
+    df = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,3,4,5,6,7])
+    # df.drop([5])
 
-    top = a.head(0)
-    bottom = a.tail(10)
-    concatenated = pd.concat([top,bottom])
-    concatenated.reset_index(inplace=True, drop=True)
+    # top = df.head(0)
+    # bottom = df.tail(10)
+    # concatenated = pd.concat([top,bottom])
+    # concatenated.reset_index(inplace=True, drop=True)
 
-    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/leaderboard.htm", index=None)
+    # concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/leaderboard.htm", index=None)
 
-    table = concatenated.to_html()
+    df2 = df[df['true'] == False ]
+    df3 = (len(df2))
+
+    table = df3.to_html()
 
     return render_template('leaderboard.html', table=table)
 
