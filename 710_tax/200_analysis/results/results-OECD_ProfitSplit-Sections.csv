@@ -1,2 +1,2 @@
-file_name;Operators;Operands;Other;UniqueOperators;UniqueOperands;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/OECD_ProfitSplit-Sections.txt;2299;608;3103;293;995;723103;2299;293;608;5402;610.0;0.112921140318
+file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
+../010_raw_documents/OECD_ProfitSplit-Sections.txt;2299;608;969;197;2896;164969;2299;197;608;3268;610.0;0.186658506732

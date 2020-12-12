@@ -39,7 +39,7 @@ def sanitize(entry):
 # do_run(file_name)
 # -------------------------------------------------------------------------
 def do_run(input_dir, output_file_name):
-    out_text = "file_name;Operators;Operands;Other;UniqueOperators;UniqueOperands;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level\n"
+    out_text = "file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level\n"
 
     count = {}
     count['Operators'] = 0
@@ -135,8 +135,6 @@ def do_run(input_dir, output_file_name):
     #
     num_unique_operators = len(set(unique['Operators']))
     num_unique_operands = len(set(unique['Operands']))
-    # num_operators = count['RegulatoryOperators'] + count['LogicalConnectors']
-    # num_operands = count['EconomicOperands'] + count['Attributes'] + count['LegalReferences'] + count['TaxOperands']
     num_operators = count['Operators']
     num_operands = count['Operands']
 

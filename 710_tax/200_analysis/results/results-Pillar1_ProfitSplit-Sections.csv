@@ -1,2 +1,2 @@
-file_name;Operators;Operands;Other;UniqueOperators;UniqueOperands;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/Pillar1_ProfitSplit-Sections.txt;10704;1453;13937;520;4073;15613937;10704;520;1453;24641;1455.0;0.0590479282497
+file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
+../010_raw_documents/Pillar1_ProfitSplit-Sections.txt;10704;1453;4307;391;12403;2834307;10704;391;1453;15011;1455.0;0.0969289187929
