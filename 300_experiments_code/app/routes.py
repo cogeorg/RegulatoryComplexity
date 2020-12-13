@@ -23,6 +23,19 @@ from datetime import datetime
 def index():
     return render_template('index.html')
 
+
+@app.after_request
+def add_header(r):
+    """
+    Add headers to both force latest IE rendering engine or Chrome Frame,
+    and also to cache the rendered page for 10 minutes.
+    """
+    r.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    r.headers["Pragma"] = "no-cache"
+    r.headers["Expires"] = "0"
+    r.headers['Cache-Control'] = 'public, max-age=0'
+    return r
+
 @app.route('/login', methods = ['GET', 'POST'])
 def login():
     if current_user.is_authenticated:
@@ -82,7 +95,7 @@ def rules():
 @app.route('/experiment', methods=["GET", "POST"])
 @app.route('/experiment/<int:n_reg>', methods=["GET", "POST"])
 @login_required
-def experiment(n_reg=1):
+def experiment(n_reg=1, score=0):
     if not current_user.is_authenticated:
         return redirect(url_for("login"))
 
@@ -107,11 +120,27 @@ def experiment(n_reg=1):
         form = PracticeForm()
     else: 
         form = SubmissionForm()
-   
+ 
     if form.validate_on_submit():
-        submission = Submission(answer = form.answer.data, correctanswer = correctanswer , verifyanswer = bool((correctanswer == form.answer.data)), regulation = user_experiments[n_reg-1], balance_sheet= user_experiments[n_reg-1], user_id = current_user.id)
+        submission = Submission(answer = form.answer.data, correctanswer = correctanswer , verifyanswer = bool((correctanswer == form.answer.data)), regulation = user_experiments[n_reg-1], balance_sheet = user_experiments[n_reg-1], user_id = current_user.id)
         spenttime = datetime.utcnow() - session['start_time']
-        row = [user_experiments[n_reg-1], user_experiments[n_reg-1], submission.answer, submission.verifyanswer, submission.correctanswer, current_user.id, current_user.student_id, str(spenttime), str(datetime.utcnow()) ]
+        
+        if (n_reg == 1):
+            if (bool(correctanswer == form.answer.data)):
+                score = 1
+            else:
+                score = 0
+        else:
+            if (bool(correctanswer == form.answer.data)):
+                df = pd.read_csv("./app/static/submissions.csv")
+                score = df['score'].iloc[-1]
+                score = int(score) + 1   
+            else:
+                df = pd.read_csv("./app/static/submissions.csv")
+                score = df['score'].iloc[-1]
+                score = int(score)
+                
+        row = [user_experiments[n_reg-1], user_experiments[n_reg-1], submission.answer, submission.verifyanswer, submission.correctanswer, current_user.id, current_user.student_id, str(spenttime), str(datetime.utcnow()), score ]
         with open('./app/static/submissions.csv', "a") as f:
             writer = csv.writer(f)
             writer.writerow(row)
@@ -126,93 +155,40 @@ def experiment(n_reg=1):
     return render_template('experiment.html', form = form, user_experiment_id = user_experiments[n_reg-1], n_reg = n_reg, table = table)
 
 
-    # @app.route("/endpage")       
-    # def endpage():
-    #     results = [] 
-    #     # display results
-    #     table = Results(results)
-    #     table.border = True
-    #     return render_template('endpage.html', table=table)
-
-    #  results = []
-    #     search_string = search.data['search']
-
-    #     if search.data['search'] == '':
-    #         qry = db_session.query(Album)
-    #         results = qry.all()
-
-    #     if not results:
-    #         flash('No results found!')
-    #         return redirect('/')
-    #     else:
-    #         # display results
-    #         table = Results(results)
-    #         table.border = True
-    #         return render_template('results.html', table=table)
-
 
 @app.route('/endpage')
 def endpage():
 
 
-    # file = open("./app/static/submissions.csv")
-    # firstLines = tl.head(file,1) #to read last 15 lines, change it  to any value.
-    # lastLines = tl.tail(file,10) #to read last 15 lines, change it  to any value.
-    # file.close()
-    # a1 = pd.read_csv(io.StringIO('\n'.join(firstLines)), error_bad_lines=False, usecols=["regulation"])
-    # a2 = pd.read_csv(io.StringIO('\n'.join(lastLines)), error_bad_lines=False)
-
-    # frames = [a1,a2]
-
-    # result = pd.concat(frames)
-
     df = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,4,5,7])
+    df.drop([5])
 
     top = df.head(0)
     bottom = df.tail(10)
     concatenated = pd.concat([top,bottom])
     concatenated.reset_index(inplace=True, drop=True)
 
-    # print(result.shape)
-    # to save as html file 
-    # named as "Table" 
     concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/useranswers.htm", index=None)
-    # df.style.set_properties(**{'text-align': 'right'})
-    # assign it to df  
-    # variable (string) 
     table = concatenated.to_html()
 
-    # results = []
-    # results = CorrectAnswer.query.order_by(CorrectAnswer.correctanswer).all()
-
-    # if not results:
-    #     flash('No results found!')
-    #     return redirect('/')
-
-    # display results
-    # table = Results(results)
-    # table.border = True
-    # print(results)
     return render_template('endpage.html', table=table)
 
 
 @app.route('/leaderboard')
 def leaderboard():
 
-    df = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,3,4,5,6,7])
-    # df.drop([5])
+    df = pd.read_csv("./app/static/submissions.csv", usecols=[0,1,3,6,9])
 
-    # top = df.head(0)
-    # bottom = df.tail(10)
-    # concatenated = pd.concat([top,bottom])
-    # concatenated.reset_index(inplace=True, drop=True)
+    print(df)
 
-    # concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/leaderboard.htm", index=None)
+    table = df.loc[df['regulation'] == 13].sort_values(by='score', ascending=False).to_html("./app/static/leaderboard.htm", index=None)
+    # table = df.drop([0, 1])
+    # table = df.to_html("./app/static/leaderboard.htm", index=None)
 
-    df2 = df[df['true'] == False ]
-    df3 = (len(df2))
+    # table = concatenated.groupby(['user']).size().reset_index(name='Correct Answers').sort_values(by='Correct Answers', ascending=False).to_html("./app/static/leaderboard.htm",  index=None)
 
-    table = df3.to_html()
+    table = df.drop('regulation', axis=1)
+    table = df[['user', 'score']]
 
     return render_template('leaderboard.html', table=table)
 
