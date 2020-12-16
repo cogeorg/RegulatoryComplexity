@@ -4,11 +4,9 @@
 {% block app_content %}
 
 <style>
-
-
   .navbar {
-      display: none;
-    }
+    display: none;
+  }
 
   .jumbotron {
     margin-bottom: 0px;
@@ -31,20 +29,33 @@
     border: 1px solid lightgrey !important;
   }
 
-  tr:nth-child(odd) {background: rgb(237, 237, 237)}
-  tr:nth-child(even) {background: #FFF}
+  tr:nth-child(odd) {
+    background: rgb(237, 237, 237)
+  }
 
-  table > tbody > tr > td:nth-child(4), table > thead > tr > th:nth-child(4) {
+  tr:nth-child(even) {
+    background: #FFF
+  }
+
+  table>tbody>tr>td:nth-child(4),
+  table>thead>tr>th:nth-child(4) {
     display: none;
   }
 
-  col:nth-child(4) {display: none !important}
+  col:nth-child(4) {
+    display: none !important
+  }
 
   td {
     padding: 5px !important;
+    border: 1px solid lightgray;
   }
 
-  table > thead > tr {
+  tr {
+    border: 1px solid lightgrey !important;
+  }
+
+  table>thead>tr {
     border: none !important;
     background-color: transparent !important;
   }
@@ -56,77 +67,59 @@
     font-weight: 500;
     text-transform: capitalize;
   }
-
 </style>
 
-  <!-- <div class = "container theme-showcase" role ="main"> -->
-  <div class="jumbotron" style="height: calc(100vh -  30px); margin: 15px 0px">
-    <div class="text-center">
-      <h1>Thank you!</h1>
-      <hr class="my-4">
-      <!-- <p>The results of your experiment are below:</p> -->
-        <div class="row" style="margin-bottom: auto; margin-top: auto">
-          <div style="display: inline-flex;">
-            <div style="display: inline-block; margin: 10px">
-              <!-- <h3 align="left">Your results:</h3> -->
-                
-              <div class="panel panel-default" style="padding:20px; display: inline-block;">
-                <!-- <p>The results of your experiment are below:</p> -->
-                <useranswers></useranswers>
-              </div>
+<!-- <div class = "container theme-showcase" role ="main"> -->
+<div class="jumbotron" style="height: calc(100vh -  30px); margin: 15px 0px">
+  <div class="text-center">
+    <h1>Thank you!</h1>
+    <hr class="my-4">
+    <!-- <p>The results of your experiment are below:</p> -->
+    <div class="row" style="margin-bottom: auto; margin-top: auto">
+      <div style="display: inline-flex;">
+        <div style="display: inline-block; margin: 10px">
+          <!-- <h3 align="left">Your results:</h3> -->
+
+          <div class="panel panel-default" style="padding:20px; display: inline-block;">
+            <!-- <p>The results of your experiment are below:</p> -->
+            <useranswers></useranswers>
+          </div>
+        </div>
+        <div style="display: inline-block; margin: 10px; text-align: left">
+          <div class="panel panel-default"
+            style="padding:40px; padding-top: 40px; display: flex; flex-direction: column; align-items: flex-end; justify-content: space-between;">
+            <p style="font-size: 15px; font-weight: 400">Congratualtions you completed the experiment. Your results are
+              to the left. <br><br>You scored 1/10 for the experiment and completed the test in a total time of 00:30:21
+            </p>
+
+            <div style="margin-top: 50px">
+              <a href="/leaderboard"><button class='btn btn-info btn-small'
+                  style="background-color: #003A70; border-radius: 0px; border: none">Continue to
+                  Leaderboard</button></a>
             </div>
-             <div style="display: inline-block; margin: 10px; text-align: left">
-              <div class="panel panel-default" style="padding:40px; padding-top: 40px; display: flex; flex-direction: column; align-items: flex-end; justify-content: space-between;">
-                <p style="font-size: 15px; font-weight: 400">Congratualtions you completed the experiment. Your results are to the left. <br><br>You scored 1/10 for the experiment and completed the test in a total time of 00:30:21</p>
-                <!-- <h3 align="left">Leader Board:</h3>
-                <div class="panel panel-default" style="padding:20px; ">
-                
-                  <leaderboard></leaderboard>
-                </div> -->
-                <div style="margin-top: 50px">
-                  <a href="/leaderboard"><button class='btn btn-info btn-small' style="background-color: #003A70; border-radius: 0px; border: none">Continue to Leaderboard</button></a>
-                </div>
-                </div>
-
-          
-              </div>
-
-              
+          </div>
 
         </div>
-      <!-- </div> -->
 
-      <!-- <a href = "/login" >
-      <button type="button" class="btn btn-default btn-md">
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Login
-      </button>
-      </a>
+      </div>
 
-
-      <a href = "/experiment"
-      <button type="button" class="btn btn-default" aria-label="Left Align">
-      <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Begin with the Experiment
-      </button>
-      </a> -->
-
-
+    </div>
   </div>
 </div>
-</div>
-
-
 
 <script>
+  fetch("../static/useranswers.htm")
+    .then(response => {
+      return response.text()
+    })
+    .then(data => {
+      document.querySelector("useranswers").innerHTML = data;
+    });
 
-fetch("../static/useranswers.htm")
-.then(response => {
-  return response.text()
-})
-.then(data => {
-  document.querySelector("useranswers").innerHTML = data;
-});
-
-
+  history.pushState(null, null, location.href);
+  window.onpopstate = function () {
+      history.go(1);
+  };
 </script>
 
-  {% endblock %}
+{% endblock %}

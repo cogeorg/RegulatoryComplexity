@@ -1,10 +1,8 @@
 {% extends "base.html" %}
 {% import 'bootstrap/wtf.html' as wtf %}
 
-
 {% block app_content %}
 <!-- <a class="btn btn-info btn-small" role="button" data-toggle="popover" data-trigger="hover" title="Rules" data-content="And here's some amazing content. It's very engaging. Right?" id="example">Dismissible popover</a> -->
-
 
 <style>
 
@@ -32,13 +30,12 @@
     margin: 10px auto;
   }
   
-
   body > div > div.jumbotron {
     margin-bottom: 0px;
   }
 
   body > div > div:nth-child(2) {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   body > div > div:nth-child(2) > div.col-lg-8 > h2 {
@@ -46,7 +43,7 @@
   }
 
   .container-fluid {
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   .p-70 {
@@ -87,7 +84,6 @@
     border: 1px solid white;
   }
 
-
   table > tbody > tr > td:nth-child(1) {
       font-weight: 500;
       text-align: right;
@@ -95,8 +91,9 @@
   }
 
   .help-block {
-    font-size: 12px !important;
+    font-size: 14px !important;
     font-weight: 400 !important;
+    line-height: 17px !important;
   }
 
 </style>
@@ -124,22 +121,22 @@
 </div>
 
   <!-- <div class="container-full-bg"> -->
-  <div class="jumbotron p-70 px-20" style="height: calc(100vh - 132px); display: flex">
+  <div class="jumbotron p-70 px-20" style="height: calc(100vh - 88px); display: flex">
     <div class="row justify-content-left" style="margin-bottom: auto; margin-top: auto;">
-      <div class="col-lg-8 vcenter">
+      <div class="col-lg-7 vcenter" style="padding: 0px">
         <h3 align="left">Balance Sheet</h3>
-        <div class="panel panel-default" style="padding:20px">
+        <div class="panel panel-default" style="padding:20px; min-height: 510px">
           <!-- <img src="{{ url_for('static', filename='balance_sheet1.png') }}" width="100%" alt="User balance sheet"/> -->
           <balancesheet></balancesheet>
         </div>
       </div>
-      <div class="col-lg-4 vcenter">
+      <div class="col-lg-5 vcenter">
         <h3 align="left">Regulation</h3>
-        <div class="panel panel-default">
+        <div class="panel panel-default" style="margin-bottom: 17px;">
           <!-- <img src="{{ url_for('static', filename='regulation1.png') }}" width="100%" alt="User Regulation" /> -->
           <regulation></regulation>
         </div>
-        <div class="panel panel-default" style="padding: 20px; padding-bottom: 40px"> 
+        <div class="panel panel-default" style="padding: 20px; padding-bottom: 20px; min-height: 190px"> 
           
           <div class="col-3 mb-1 mb-lg-0">
             <div>
@@ -157,94 +154,60 @@
 </div>
 <!-- </div> -->
 
-<div class="row">
-
-</div>
-
-<!-- <div class="row p-70">
-  <div class="col-sm-2 mb-1">
-    <div class="panel panel-info">
-      <div class="panel-body text-center">
-        <span class = "glyphicon glyphicon-time" aria-hidden="true"></span>
-      </div>
-      <div class="panel-footer text-center">
-        <div id = "chronometer"> </div>
-      </div>
-    </div>
-  </div>
-
-    <div class="col-sm-7 mb-1 mb-lg-0">
-    </div>
-    <div class="col-sm-3 mb-1 mb-lg-0">
-      <div>
-        {{ wtf.quick_form(form) }}
-      </div>
-    </div>
-  </div>
-
-</div> -->
 </div>
 </div>
-
 
 </body>
 
-
-
 <script>
-
-  // window.onload = function() {
-  //     alert("a" + {{user_experiment_id}})
-  //     var id = {{user_experiment_id}}
-  //     alert("../static/exercises/" + id + "/regulation_"+id +".html")
-    // var img = new Image();
-    // img.src = "../static/regulation1.png";
-    // alert(img.height != 0);
-    // var http = new XMLHttpRequest();
-    // http.open('HEAD', "../static/exercises/%d/regulation_%d.html"%(user_experiment_id, user_experiment_id), false);
-    // http.send();
-    // if http.status!=404:
-    // alert(http.status)
-    //
-    // if (typeof $().popover == 'function') {
-    //     // jQuery is loaded
-    //     alert("Yeah!");
-    // } else {
-    //     // jQuery is not loaded
-    //     alert("Doesn't Work");
-    // }
-  //}
 
 document.getElementById("n_reg").value = {{n_reg}} ;
 
-function validateModel(){
-  alert("hello")
+  // function validateModel(){
+  // alert("hello")
+  // }
+  // value = document.getElementById("answer").value
+  // console.log("hello" + value + "something else")
+
+// var start = new Date();
+
+// function startTime(){
+//   var today = new Date();
+//   var diff = (today - start)/1000 ;
+//   var h = Math.floor(diff /60 /60);
+//   var m = Math.floor((diff - h*60*60)/60);
+//   var s = Math.floor(diff - m*60 - h*60*60);
+//   // add a zero in front of numbers<10
+//   m=checkTime(m);
+//   s=checkTime(s);
+//   document.getElementById('chronometer').innerHTML=h+":"+m+":"+s;
+//   t=setTimeout(function(){startTime()},500);
+// };
+
+// function checkTime(i){
+//   if (i<10)
+//     {
+//     i="0" + i;
+//     }
+//   return i;
+// };
+
+function reset_timer() {
+  startTime = new Date();
+  window.localStorage.setItem('startTime', startTime);
+  return startTime;
 }
-value = document.getElementById("answer").value
-console.log("hello" + value + "something else")
 
-var start = new Date();
-
-function startTime(){
-  var today = new Date();
-  var diff = (today - start)/1000 ;
-  var h = Math.floor(diff /60 /60);
-  var m = Math.floor((diff - h*60*60)/60);
-  var s = Math.floor(diff - m*60 - h*60*60);
-  // add a zero in front of numbers<10
-  m=checkTime(m);
-  s=checkTime(s);
-  document.getElementById('chronometer').innerHTML=h+":"+m+":"+s;
-  t=setTimeout(function(){startTime()},500);
-};
-
-function checkTime(i){
-  if (i<10)
-    {
-    i="0" + i;
-    }
-  return i;
-};
+document.addEventListener('DOMContentLoaded', function(event) { 
+  // get timestamp
+  startTime = new Date(window.localStorage.getItem('startTime') || resetStartTime());
+  // start timer
+  
+  window.setInterval(function() {
+    var secsDiff = new Date().getTime() - startTime.getTime();
+    document.getElementById('chronometer').innerText = Math.floor(secsDiff / 1000) + ' seconds' ;
+  }, 1000);
+});
 
 
 function enablepopover() {
@@ -267,29 +230,6 @@ function enablepopover() {
   $("popover-content").css("overflow-y", "auto");
 };
 
-// function loadregulation(){
-//       $("#regulation").load(".../static/regulation.html");
-//     };
-// $(function() {
-//   var timer = null;
-//   $('#rulespop').hover(
-//       function(event) {
-//           var elem = $(event.currentTarget);
-//           timer = setTimeout(function() {
-//               timer = null;
-//           }, 1000);
-//       },
-//       function(event) {
-//           // mouse out event handler
-//           var elem = $(event.currentTarget);
-//           if (timer) {
-//               clearTimeout(timer);
-//               timer = null;
-//           }
-//       }
-//   )
-// });
-
 fetch("../static/exercises/" + {{user_experiment_id}} + "/regulation_"+ {{user_experiment_id}}+".html")
   .then(response => {
     return response.text()
@@ -297,14 +237,6 @@ fetch("../static/exercises/" + {{user_experiment_id}} + "/regulation_"+ {{user_e
   .then(data => {
     document.querySelector("regulation").innerHTML = data;
   });
-
-// fetch("../static/exercises/" + {{user_experiment_id}} + "/balancesheet_"+ {{user_experiment_id}} +".html")
-//   .then(response => {
-//     return response.text()
-//   })
-//   .then(data => {
-//     document.querySelector("balancesheet").innerHTML = data;
-//   });
 
 fetch("../static/table.htm")
 .then(response => {
@@ -314,14 +246,11 @@ fetch("../static/table.htm")
   document.querySelector("balancesheet").innerHTML = data;
 });
 
+history.pushState(null, null, location.href);
+    window.onpopstate = function () {
+        history.go(1);
+    };
 
 </script>
-<!-- <img src="{{ url_for('static', filename='regulation1.png') }}" alt="User Regulation" width="50%" height="auto"/>
-<img src="{{ url_for('static', filename='balance_sheet1.png') }}" alt="User balance sheet" width="50%" height="auto"/> -->
-<!-- <img src="{{ user_balance_sheet}}"/> -->
-
-<!-- <img src="{{ user_image }}" alt="User Image"> -->
-
-
 
 {%endblock%}
