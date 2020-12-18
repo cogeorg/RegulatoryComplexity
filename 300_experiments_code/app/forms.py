@@ -48,7 +48,7 @@ class PracticeForm(FlaskForm):
 
         return True
 
-    submit = SubmitField("Save and continue")
+    submit = SubmitField("Save and continue", render_kw={"onclick": "reset_timer()"})
     
 
 class SubmissionForm(FlaskForm):
@@ -61,5 +61,5 @@ class SubmissionForm(FlaskForm):
 
         return True
 
-    submit = SubmitField("Save and continue")
+    submit = SubmitField("Save and continue", render_kw={"onclick": "reset_timer()"})
     

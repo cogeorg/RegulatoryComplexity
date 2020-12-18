@@ -5,10 +5,9 @@
 
 <style>
 
-
-  .navbar {
+  /* .navbar {
       display: none;
-    }
+    } */
 
   .jumbotron {
     margin-bottom: 0px;
@@ -27,6 +26,10 @@
     border: none;
   }
 
+  td {
+    border: 1px solid lightgray;
+  }
+
   tr {
     border: 1px solid lightgrey !important;
   }
@@ -34,12 +37,9 @@
   tr:nth-child(odd) {background: rgb(237, 237, 237)}
   tr:nth-child(even) {background: #FFF}
 
-  table > tbody > tr > td:nth-child(1), 
-  table > thead > tr > th:nth-child(1),
-  table > tbody > tr > td:nth-child(2), 
-  table > thead > tr > th:nth-child(2),
-  table > tbody > tr > td:nth-child(3), 
-  table > thead > tr > th:nth-child(3)
+  table > tbody > tr > td:not(:nth-child(9)):not(:nth-child(12)):not(:nth-child(13)),
+  table > thead > tr > th:not(:nth-child(9)):not(:nth-child(12)):not(:nth-child(13))
+
   {
     display: none;
   }
@@ -64,7 +64,7 @@
 </style>
 
   <!-- <div class = "container theme-showcase" role ="main"> -->
-  <div class="jumbotron" style="height: calc(100vh -  30px); margin: 15px 0px">
+  <div class="jumbotron" style="min-height: calc(100vh -  67px); margin: 15px 0px">
     <div class="text-center">
       <h1>🏆</h1>
       <h2>Leaderboard</h2>
@@ -87,8 +87,6 @@
 </div>
 </div>
 
-
-
 <script>
  
 fetch("../static/leaderboard.htm")
@@ -99,6 +97,10 @@ fetch("../static/leaderboard.htm")
   document.querySelector("leaderboard").innerHTML = data;
 });
 
+history.pushState(null, null, location.href);
+    window.onpopstate = function () {
+        history.go(1);
+    };
 
 </script>
 

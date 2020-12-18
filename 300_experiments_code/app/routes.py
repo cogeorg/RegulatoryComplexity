@@ -95,7 +95,7 @@ def rules():
 @app.route('/experiment', methods=["GET", "POST"])
 @app.route('/experiment/<int:n_reg>', methods=["GET", "POST"])
 @login_required
-def experiment(n_reg=1, score=0):
+def experiment(n_reg=1, Score=0):
     if not current_user.is_authenticated:
         return redirect(url_for("login"))
 
@@ -123,24 +123,26 @@ def experiment(n_reg=1, score=0):
  
     if form.validate_on_submit():
         submission = Submission(answer = form.answer.data, correctanswer = correctanswer , verifyanswer = bool((correctanswer == form.answer.data)), regulation = user_experiments[n_reg-1], balance_sheet = user_experiments[n_reg-1], user_id = current_user.id)
-        spenttime = datetime.utcnow() - session['start_time']
+        spenttime = ((datetime.utcnow() - session['start_time']))
+
+        headers = ['Index','Regulation','balance_sheet','answer','true','correctanswer','user_id','Student ID','Username', 'Time Elapsed','Submission Time','Score']
         
         if (n_reg == 1):
             if (bool(correctanswer == form.answer.data)):
-                score = 1
+                Score = 1
             else:
-                score = 0
+                Score = 0
         else:
             if (bool(correctanswer == form.answer.data)):
-                df = pd.read_csv("./app/static/submissions.csv")
-                score = df['score'].iloc[-1]
-                score = int(score) + 1   
+                df = pd.read_csv("./app/static/submissions.csv", names=headers)
+                Score = df['Score'].iloc[-1]
+                Score = int(Score) + 1   
             else:
-                df = pd.read_csv("./app/static/submissions.csv")
-                score = df['score'].iloc[-1]
-                score = int(score)
+                df = pd.read_csv("./app/static/submissions.csv", names=headers)
+                Score = df['Score'].iloc[-1]
+                Score = int(Score)
                 
-        row = [user_experiments[n_reg-1], user_experiments[n_reg-1], submission.answer, submission.verifyanswer, submission.correctanswer, current_user.id, current_user.student_id, str(spenttime), str(datetime.utcnow()), score ]
+        row = [n_reg, user_experiments[n_reg-1], user_experiments[n_reg-1], submission.answer, submission.verifyanswer, submission.correctanswer, current_user.id, current_user.student_id, current_user.username, str(spenttime), datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S"), datetime.utcnow().strftime("%Y-%m-%d"), Score ]
         with open('./app/static/submissions.csv', "a") as f:
             writer = csv.writer(f)
             writer.writerow(row)
@@ -152,6 +154,7 @@ def experiment(n_reg=1, score=0):
             return redirect(url_for("endpage"))
 
     session['start_time'] = datetime.utcnow()
+    
     return render_template('experiment.html', form = form, user_experiment_id = user_experiments[n_reg-1], n_reg = n_reg, table = table)
 
 
@@ -159,16 +162,15 @@ def experiment(n_reg=1, score=0):
 @app.route('/endpage')
 def endpage():
 
-
-    df = pd.read_csv("./app/static/submissions.csv", usecols=[0,2,4,5,7])
-    df.drop([5])
+    headers = ['Index','Regulation','balance_sheet','answer','true','correctanswer','User ID','Student ID', 'Username', 'Time Elapsed','Submission Full Time', 'Submission Date', 'Score']
+    df = pd.read_csv("./app/static/submissions.csv", usecols=[0,3,5,6], names=headers)
 
     top = df.head(0)
     bottom = df.tail(10)
     concatenated = pd.concat([top,bottom])
     concatenated.reset_index(inplace=True, drop=True)
 
-    concatenated.loc[concatenated['user_id'] == current_user.id].to_html("./app/static/useranswers.htm", index=None)
+    concatenated.loc[concatenated['User ID'] == current_user.id].to_html("./app/static/useranswers.htm", index=None)
     table = concatenated.to_html()
 
     return render_template('endpage.html', table=table)
@@ -177,18 +179,32 @@ def endpage():
 @app.route('/leaderboard')
 def leaderboard():
 
-    df = pd.read_csv("./app/static/submissions.csv", usecols=[0,1,3,6,9])
+    # def trim_all_columns(df):
+    #     """
+    #     Trim whitespace from ends of each value across all series in dataframe
+    #     """
+    #     trim_strings = lambda x: x[:10] if isinstance(x, str) else x
+    #     return df.applymap(trim_strings)
 
-    print(df)
 
-    table = df.loc[df['regulation'] == 13].sort_values(by='score', ascending=False).to_html("./app/static/leaderboard.htm", index=None)
+    # dateparse = lambda x: datetime.strptime(x, '%Y-%m-%d')
+
+    # df = pd.read_csv(infile, parse_dates=['datetime'], date_parser=dateparse)
+    headers = ['Index','Regulation','balance_sheet','answer','true','correctanswer','user_id','Student ID', 'Username', 'Time Elapsed','Submission Full Time', 'Submission Date', 'Score']
+    # dtypes = {'Regulation':'str','balance_sheet' : 'str','answer' : 'str','true' : 'bool','correctanswer' : 'str','user_id' : 'str','Student ID' : 'str','Time Elapsed' : 'str','Submission Time' : 'str','Score' : 'str'}
+    # parse_dates = ['Time Elapsed']
+    # df = pd.read_csv("./app/static/submissions.csv", parse_dates=[8], names = headers, date_parser=dateparse)
+    df = pd.read_csv("./app/static/submissions.csv", parse_dates=[9], names = headers)
+    # df.columns = ['Regulation','balance_sheet','answer','true','correctanswer','user_id','Student ID','Time Elapsed','Submission Time','Score']
+    # df = trim_all_columns(df)
+    table = df.loc[df['Index'] == 10].sort_values(by='Score', ascending=False).to_html("./app/static/leaderboard.htm", index=None)
     # table = df.drop([0, 1])
     # table = df.to_html("./app/static/leaderboard.htm", index=None)
 
-    # table = concatenated.groupby(['user']).size().reset_index(name='Correct Answers').sort_values(by='Correct Answers', ascending=False).to_html("./app/static/leaderboard.htm",  index=None)
+    # table = concatenated.groupby(['Student ID']).size().reset_index(name='Correct Answers').sort_values(by='Correct Answers', ascending=False).to_html("./app/static/leaderboard.htm",  index=None)
 
-    table = df.drop('regulation', axis=1)
-    table = df[['user', 'score']]
+    # table = df.drop('regulation', axis=1)
+    # table = df[['Student ID', 'Score']]
 
     return render_template('leaderboard.html', table=table)
 
