@@ -35,7 +35,7 @@ ST/ESA/
 
 
 
-Department of Economic & Social Affairs
+Department of Economic & Social Affairs 
 
 United Nations
 Practical Manual on Transfer Pricing
@@ -188,123 +188,123 @@ Contents
 
 
 B .2 .
-Comparability Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Comparability Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 65
 B.2.1.
-Rationale for Comparability Analysis. . . . . . . . . . . . . . .
+Rationale for Comparability Analysis. . . . . . . . . . . . . . . 
 65
 B.2.2.
-Comparability Analysis Process. . . . . . . . . . . . . . . . . . . .
+Comparability Analysis Process. . . . . . . . . . . . . . . . . . . . 
 69
 B.2.3.
-Comparability Analysis in Operation . . . . . . . . . . . . . . .
+Comparability Analysis in Operation . . . . . . . . . . . . . . . 
 70
 B.2.4
-Issues Regarding Comparability Analysis . . . . . . . . . . .
+Issues Regarding Comparability Analysis . . . . . . . . . . . 
 132
 B.2.5.
-Conclusion. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Conclusion. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 146
 B .3 .
-Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 149
 
-B.3.1.	Introduction to Transfer Pricing Methods . . . . . . . . . . .
+B.3.1.	Introduction to Transfer Pricing Methods . . . . . . . . . . . 
 149
 
-B.3.2. Traditional Transaction Methods . . . . . . . . . . . . . . . . . .
+B.3.2. Traditional Transaction Methods . . . . . . . . . . . . . . . . . . 
 154
 
-B.3.3.	Transactional Profit Methods. . . . . . . . . . . . . . . . . . . . . .
+B.3.3.	Transactional Profit Methods. . . . . . . . . . . . . . . . . . . . . . 
 183
 
-B.3.4.	The “Sixth Method” or “Commodity Rule” . . . . . . . . . .
+B.3.4.	The “Sixth Method” or “Commodity Rule” . . . . . . . . . . 
 213
 B .4 .
-Intra-Group Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Intra-Group Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 229
 
-B.4.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.4.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 229
 
-B.4.2. Analysis of Intra-Group Services. . . . . . . . . . . . . . . . . . .
+B.4.2. Analysis of Intra-Group Services. . . . . . . . . . . . . . . . . . . 
 231
 
-B.4.3.	Determining an arm’s length charge. . . . . . . . . . . . . . . .
+B.4.3.	Determining an arm’s length charge. . . . . . . . . . . . . . . . 
 246
 
-B.4.4.	Calculating arm’s length consideration . . . . . . . . . . . . .
+B.4.4.	Calculating arm’s length consideration . . . . . . . . . . . . . 
 250
 
-B.4.5.	Safe harbours. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.4.5.	Safe harbours. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 262
 B .5 .
-Transfer Pricing Considerations for Intangible Property . . .
+Transfer Pricing Considerations for Intangible Property . . . 
 273
 
-B.5.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.5.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 273
 
-B.5.2. Identifying Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.5.2. Identifying Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 274
 
-B.5.3.	Ownership of Intangibles and Transactions Involving Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.5.3.	Ownership of Intangibles and Transactions Involving Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 288
 
-B.5.4.	Comparability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.5.4.	Comparability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 301
 
-B.5.5.	Selection of the most appropriate transfer pricing method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.5.5.	Selection of the most appropriate transfer pricing method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 302
 
-B.5.6.	Supplemental guidance for applying methods. . . . . . . .
+B.5.6.	Supplemental guidance for applying methods. . . . . . . . 
 303
 B .6 .
-Cost Contribution Arrangements . . . . . . . . . . . . . . . . . . . . . . .
+Cost Contribution Arrangements . . . . . . . . . . . . . . . . . . . . . . . 
 319
 
-B.6.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.6.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 319
 
-B.6.2. CCA features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.6.2. CCA features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 321
 
-B.6.3.	Participation in a CCA . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.6.3.	Participation in a CCA . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 322
 
-B.6.4.	Valuing CCA contributions . . . . . . . . . . . . . . . . . . . . . . .
+B.6.4.	Valuing CCA contributions . . . . . . . . . . . . . . . . . . . . . . . 
 323
 
-B.6.5.	Predicting expected benefits. . . . . . . . . . . . . . . . . . . . . . .
+B.6.5.	Predicting expected benefits. . . . . . . . . . . . . . . . . . . . . . . 
 326
 
-B.6.6.	Non-arm’s length CCAs . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.6.6.	Non-arm’s length CCAs . . . . . . . . . . . . . . . . . . . . . . . . . . 
 328
 Contents
 
 
 
-B.6.7.	CCA entry, withdrawal and termination . . . . . . . . . . . .
+B.6.7.	CCA entry, withdrawal and termination . . . . . . . . . . . . 
 330
 
-B.6.8. General CCA Requirements . . . . . . . . . . . . . . . . . . . . . . .
+B.6.8. General CCA Requirements . . . . . . . . . . . . . . . . . . . . . . . 
 332
 B .7 .
-Transfer Pricing Aspects of Business Restructurings . . . . . . .
+Transfer Pricing Aspects of Business Restructurings . . . . . . . 
 339
 
-B.7.1.	Setting the framework and definition issues . . . . . . . . .
+B.7.1.	Setting the framework and definition issues . . . . . . . . . 
 339
 
-B.7.2.	Types of business restructurings . . . . . . . . . . . . . . . . . . .
+B.7.2.	Types of business restructurings . . . . . . . . . . . . . . . . . . . 
 345
 B .8 .
-General Legal Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+General Legal Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 355
 
-B.8.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B.8.1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 355
             B.8.2. Domestic Transfer Pricing Legislation: Structural
 Overview	357
@@ -336,67 +336,67 @@ Contents
 
 
 
-C.2.4. Practical Guidance on Documentation Rules and Procedures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.2.4. Practical Guidance on Documentation Rules and Procedures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 407
 C .3 .
-Audits and Risk Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Audits and Risk Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 417
 
-C.3.1. Introduction to Audits and Risk Assessment. . . . . . . . .
+C.3.1. Introduction to Audits and Risk Assessment. . . . . . . . . 
 417
 
 C.3.2. Organization and Staffing of Transfer Pricing Audits .
 418
 
-C.3.3. Selection of Taxpayers for Transfer Pricing Examination: Risk Assessment . . . . . . . . . . . . . . . . . . . .
+C.3.3. Selection of Taxpayers for Transfer Pricing Examination: Risk Assessment . . . . . . . . . . . . . . . . . . . . 
 
 422
 
-C.3.4. Planning for a Transfer Pricing Examination . . . . . . . .
+C.3.4. Planning for a Transfer Pricing Examination . . . . . . . . 
 435
 
-C.3.5. Preliminary Examination . . . . . . . . . . . . . . . . . . . . . . . . .
+C.3.5. Preliminary Examination . . . . . . . . . . . . . . . . . . . . . . . . . 
 440
 
-C.3.6. Narrowing of Issues: Development of Tax Authorities’ Position . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.3.6. Narrowing of Issues: Development of Tax Authorities’ Position . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 455
 
-C.3.7.	Case Closure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.3.7.	Case Closure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 458
 
-C.3.8. Relationship between Transfer Pricing Audits and Advance Pricing Agreements . . . . . . . . . . . . . . . . . . . . . .
+C.3.8. Relationship between Transfer Pricing Audits and Advance Pricing Agreements . . . . . . . . . . . . . . . . . . . . . . 
 
 458
 C .4 .
-Dispute Avoidance and Resolution . . . . . . . . . . . . . . . . . . . . . .
+Dispute Avoidance and Resolution . . . . . . . . . . . . . . . . . . . . . . 
 463
 
-C.4.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.4.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 463
 
-C.4.2. Special Considerations for Developing Countries. . . . .
+C.4.2. Special Considerations for Developing Countries. . . . . 
 464
 
-C.4.3. Dispute Avoidance Procedures: Domestic . . . . . . . . . . .
+C.4.3. Dispute Avoidance Procedures: Domestic . . . . . . . . . . . 
 465
 
-C.4.4. Dispute Avoidance Procedures: Cross-Border. . . . . . . .
+C.4.4. Dispute Avoidance Procedures: Cross-Border. . . . . . . . 
 472
 
-C.4.5. Coordination of Domestic and Cross-Border Dispute Resolution Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.4.5. Coordination of Domestic and Cross-Border Dispute Resolution Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 491
 C .5 .
-Establishing Transfer Pricing Capability in  Developing Countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Establishing Transfer Pricing Capability in  Developing Countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 493
 
-C.5.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.5.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 493
 
-C.5.2. Relationship between Tax Policy and Tax Administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.5.2. Relationship between Tax Policy and Tax Administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 494
 
@@ -404,86 +404,86 @@ C.5.3. Assessing Current Capabilities and Gaps to be Filled .
 495
 
 C.5.4. Developing the Mission, the Vision and the Culture
-of the Unit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+of the Unit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 497
 
 C.5.5. Organizational Structure for the Transfer Pricing Unit
 503
 
-C.5.6. Building Team Capability . . . . . . . . . . . . . . . . . . . . . . . . .
+C.5.6. Building Team Capability . . . . . . . . . . . . . . . . . . . . . . . . . 
 506
 
-C.5.7.	Effective and Efficient Business Processes . . . . . . . . . . .
+C.5.7.	Effective and Efficient Business Processes . . . . . . . . . . . 
 518
 
-C.5.8. Application of the Above Considerations in Implementing a Transfer Pricing Unit and Enhancing Capability. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.5.8. Application of the Above Considerations in Implementing a Transfer Pricing Unit and Enhancing Capability. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 519
 Contents
 
 
-C.5.9. Country Examples of Capacity Building in Transfer Pricing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C.5.9. Country Examples of Capacity Building in Transfer Pricing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 522
 Part D
 
-Country Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Country Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 525
-D .1 . Brazil Country Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D .1 . Brazil Country Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 527
-D.1.1.	Introduction: General Explanation . . . . . . . . . . . . . . . . .
+D.1.1.	Introduction: General Explanation . . . . . . . . . . . . . . . . . 
 527
-D.1.2	Resale Price Method with Fixed Margins. . . . . . . . . . . .
+D.1.2	Resale Price Method with Fixed Margins. . . . . . . . . . . . 
 528
 D.1.3. Cost Plus Method with Fixed Margins . . . . . . . . . . . . . .
 535
-D.1.4. Differences Between the Application of the Methods Regarding Import and Export Operations . . . . . . . . . . .
+D.1.4. Differences Between the Application of the Methods Regarding Import and Export Operations . . . . . . . . . . . 
 
 537
-D.1.5. Imports. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.1.5. Imports. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 538
-D.1.6. Exports. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.1.6. Exports. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 539
 D.1.7.	Strengths and Weakness of the Brazilian Methods with Predetermined Profit Margins . . . . . . . . . . . . . . . . . . . . .
 
 539
-D.1.8. Other Explanations of the Brazilian Transfer Pricing Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.1.8. Other Explanations of the Brazilian Transfer Pricing Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 541
 D.1.9.	Comments for Countries Considering the Adoption
-of Fixed Margins. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+of Fixed Margins. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 543
-D .2 . China Country Practice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D .2 . China Country Practice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 547
-D.2.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.2.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 547
-D.2.2. Recent Developments in China’s Transfer Pricing Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.2.2. Recent Developments in China’s Transfer Pricing Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 550
-D.2.3. China’s Transfer Pricing Regime . . . . . . . . . . . . . . . . . . .
+D.2.3. China’s Transfer Pricing Regime . . . . . . . . . . . . . . . . . . . 
 557
-D.2.4. Challenges Facing China and Other Developing Countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.2.4. Challenges Facing China and Other Developing Countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 565
-D .3 . Transfer Pricing Practices and Challenges in India . . . . . . . .
+D .3 . Transfer Pricing Practices and Challenges in India . . . . . . . . 
 581
-D.3.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.3.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 581
-D.3.2. Transfer Pricing Regulations in India. . . . . . . . . . . . . . .
+D.3.2. Transfer Pricing Regulations in India. . . . . . . . . . . . . . . 
 582
-D.3.3. Transfer Pricing Issues in India . . . . . . . . . . . . . . . . . . . .
+D.3.3. Transfer Pricing Issues in India . . . . . . . . . . . . . . . . . . . . 
 583
-D.3.4. Issues relating to Risks. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.3.4. Issues relating to Risks. . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 584
-D.3.5. Arm’s Length Range. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.3.5. Arm’s Length Range. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 585
-D.3.6. Comparability Adjustment . . . . . . . . . . . . . . . . . . . . . . . .
+D.3.6. Comparability Adjustment . . . . . . . . . . . . . . . . . . . . . . . . 
 586
-D.3.7.	Location Savings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.3.7.	Location Savings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 586
-D.3.8. Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.3.8. Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 587
 Contents
             D.3.9. Intangibles generated through R&D activities	589
@@ -495,43 +495,43 @@ Contents
             D.3.15. Safe Harbour	600
             D.3.16. The Base Erosion and Profit Shifting (BEPS) Final
 
-Reports on Actions 8, 9, 10 and 13 . . . . . . . . . . . . . . . . . .
+Reports on Actions 8, 9, 10 and 13 . . . . . . . . . . . . . . . . . . 
 601
 D .4 .
 Mexico
-Country Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Country Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 603
 
 D.4.1.
-Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 603
 
 D.4.2.
-Related party definition. . . . . . . . . . . . . . . . . . . . . . . . . . .
+Related party definition. . . . . . . . . . . . . . . . . . . . . . . . . . . 
 603
 
 D.4.3.
-Deemed related party definition . . . . . . . . . . . . . . . . . . .
+Deemed related party definition . . . . . . . . . . . . . . . . . . . 
 604
 
 D.4.4.
-Specific documentation requirements. . . . . . . . . . . . . . .
+Specific documentation requirements. . . . . . . . . . . . . . . 
 604
 
 D.4.5.
-Comparability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Comparability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 606
 
 D.4.6.
-Audit Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Audit Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 608
 
 D.4.7.
-Advance Pricing Agreements procedures. . . . . . . . . . . .
+Advance Pricing Agreements procedures. . . . . . . . . . . . 
 610
 
 D.4.8.
-Maquila Export Companies . . . . . . . . . . . . . . . . . . . . . . .
+Maquila Export Companies . . . . . . . . . . . . . . . . . . . . . . . 
 610
 
 D.4.9.
@@ -542,43 +542,43 @@ D.4.10.
 Competent Authority Procedure . . . . . . . . . . . . . . . . . . .
 613
 
-D.4.11. Effective Implementation of the Arm’s Length Standard. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.4.11. Effective Implementation of the Arm’s Length Standard. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 613
 
-D.4.12. Recent developments . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.4.12. Recent developments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 615
 D .5 .
-South Africa– Country Perspective . . . . . . . . . . . . . . . . . . . . . .
+South Africa– Country Perspective . . . . . . . . . . . . . . . . . . . . . . 
 617
 
-D.5.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.5.1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 617
 
-D.5.2. South African Transfer Pricing Law . . . . . . . . . . . . . . . .
+D.5.2. South African Transfer Pricing Law . . . . . . . . . . . . . . . . 
 617
 
 D.5.3. Recent Transfer Pricing Developments in South Africa
 618
 
-D.5.4. The OECD/G20 BEPS Project. . . . . . . . . . . . . . . . . . . . . .
+D.5.4. The OECD/G20 BEPS Project. . . . . . . . . . . . . . . . . . . . . . 
 621
 
 D.5.5. Legislative and Administrative Amendments
-and Proposals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+and Proposals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 622
 
-D.5.6. Comparability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.5.6. Comparability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 624
 
-D.5.7.	Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.5.7.	Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 625
 
-D.5.8. Contract Risk Shifting—Year-End Adjustments. . . . . .
+D.5.8. Contract Risk Shifting—Year-End Adjustments. . . . . . 
 627
 
-D.5.9. Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D.5.9. Intangibles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 628
 Contents
 
@@ -1441,7 +1441,7 @@ functions, up/down side consequences, financial capcity
 NO
 
 
-
+ 	
 NO
 
 
@@ -1451,11 +1451,11 @@ YES
 One party
 Multiple parties
 
-
+	
 No party
 
 
-
+  
 
 
 line. Changes to a ‘flagship’ product are likely to carry more risk than changes or variations to a less important product or to one product among many sold by the business, and developments based on novel technologies or wholly new applications are likely to be higher risk than those which build on existing, proven products or technologies.
@@ -2416,7 +2416,7 @@ Figure B.3.2:
 Resale Price Method
 
 
-
+	
 Arm’s length price?
 
 Given price
@@ -2531,7 +2531,7 @@ B .3 .2 .12 .7 .  Example 7
 Figure B.3.3:
 Cost Plus Method
 
-
+ 	
 Arm’s length price?
 
 
@@ -3267,7 +3267,7 @@ Operating profit
 Figure B.3.5:
 Profit Split Method
 
-
+	
 
 
                     B.3.3.13.3. The Profit Split Method starts by identifying the profits to be divided between the associated enterprises from the controlled trans- actions. Subsequently, these profits are divided between the associated enterprises based on the relative value of each enterprise’s contribu- tion, which should reflect the functions performed, risks incurred and assets used by each enterprise in the controlled transactions. External market data (e.g. profit split percentages among independent enterprises performing comparable functions) should be used to value each enter- prise’s contribution, if possible, so that the division of combined profits between the associated enterprises is in accordance with that between independent enterprises performing functions comparable to the func- tions performed by the associated enterprises. The Profit Split Method is applicable to transfer pricing issues involving tangible property, intan- gible property, trading activities or financial services.
@@ -7073,10 +7073,10 @@ net resale price (Product B) less its “gross profit margin” participation. F
                 D.1.2.8. The above-mentioned participation ratio is determined as follows: the ratio of the price of Product A (input)  to the total cost    of the goods resold (Product B), calculated according to the compa- ny’s cost spreadsheet. The net resale price is the weighted average price of sales of the goods resold (Product B), less unconditional discounts granted, indirect taxes on sales, and commissions and brokerage fees paid. “Unconditional discounts” are those that do not depend on future events and that are detailed in the invoice.
                 D.1.2.9. The gross profit of Product A (in the resale of Product    B) is the application of, for example, a 30% (gross profit margin) on the participation value referred to above. As mentioned before, in this approach the gross profit margin will be provided by law. See Figure D.1.1. The 30% margin may vary depending on the economic sector of the activity performed by Associated Enterprise 2.
 Figure D.1.2:
-Resale Price Method (with manufacturing)
+Resale Price Method (with manufacturing)	
 
 
-
+ 		 	
 Appropriate Price? Price is Given
 (Where Product A is an input for Product B)
 (Net) Resale Price
@@ -7166,7 +7166,7 @@ Cost Plus Method
 
 
 
-
+ 	
 Appropriate Price?
 Costs for Associated Enterprise 1	=	$ 5 000
 + Gross Profit  Mark-up (20%)	=	$ 1 000 Parameter price (arm’s length)	=	$ 6 000
@@ -8263,3 +8263,5 @@ Transfer pricing The general term for the pricing of cross-border, intragroup tr
 Transfer pricing adjustment An adjustment made by the tax author- ities to the profits of an enterprise after determining that the transfer price of a transaction with a related party does not conform to the arm’s length principle.
 Transfer pricing method A transfer pricing method is a methodology by which the arm’s length principle is applied to determine the arm’s length price of a transaction. Examples of trans- fer pricing methods are the comparable uncontrolled price (CUP) method, resale price method, cost plus method, trans- actional net margin method and profit split method. Other appropriate methods are also used in some jurisdictions.
 Uncontrolled transaction A transaction between independent and unrelated enterprises.
+
+

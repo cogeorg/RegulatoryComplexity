@@ -14,8 +14,8 @@ file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;nu
 ../010_raw_documents/Pillar1_ProfitSplit-Sections.txt;10704;1453;4307;391;12403;2834307;10704;391;1453;15011;1455.0;0.0969289187929
 file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
 ../010_raw_documents/Pillar2.txt;40392;1663;18790;460;61217;31718790;40392;460;1663;59182;1665.0;0.0281335541212
-file_name;Attributes;UniqueAttributes;EconomicOperands;UniqueEconomicOperands;FunctionWords;UniqueFunctionWorsd;LegalReferences;UniqueLegalReferences;LogicalConnectors;UniqueLogicalConnectors;Other;UniqueOther;RegulatoryOperators;UniqueRegulatoryOperators;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/UN.txt;1131;24;18974;372;74546;181;143;7;16140;82;601;25;2569;52;12974;9218709;33222;134;495;51931;497.0;0.009570391481
+file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
+../010_raw_documents/UN.txt;70649;2046;28210;484;96015;38528210;70649;484;2046;98859;2048.0;0.0207163738253
 file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
 ../010_raw_documents/UN_NoGlossary.txt;68982;2038;27676;483;94115;38427676;68982;483;2038;96658;2040.0;0.0211053404788
 file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
