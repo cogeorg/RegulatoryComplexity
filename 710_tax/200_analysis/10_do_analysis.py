@@ -73,6 +73,10 @@ def do_run(input_dir, output_file_name):
         print(Operands)
         print(Other)
 
+
+    #
+    # START WORK ON ACTUAL FILE
+    #
     print("<<<<<< WORKING ON: " + input_file_name)
 
     if True:
@@ -118,6 +122,21 @@ def do_run(input_dir, output_file_name):
             else: # add to list of unclassified words
                 unique['unclassified'].append(token)
 
+    #
+    # CLEAN UP OPERANDS
+    #
+    _number = 0
+    while _number <= 800:
+        _count = unique['Operands'].count(str(_number))
+        if _count > 0:
+            unique['Operands'].remove(str(_number))
+        if False:
+            print(_number, _count, unique['Operands'].count(str(_number)))
+        _number += 1
+
+    #
+    # OUTPUT
+    #
     print("  TOTAL WORDS: " + str(total_words))
     print("  TOTAL CLASSIFIED: " + str(total_classified))
     print("  TOTAL UNCLASSIFIED: ") + str(len(unique['unclassified']))
