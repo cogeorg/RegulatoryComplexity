@@ -153,7 +153,7 @@ Operands;PATENTS;1
 Operands;MANUFACTURE;3
 Operands;TANGIBLE;1
 Operands;ASSETS;6
-Operands;INDUSTRY;1
+Operands;BRAND;3
 Operands;VALUES;1
 Operands;PROPERTY;17
 Operands;REALIZE;1
@@ -249,7 +249,6 @@ Operands;ROUTINE;2
 Operands;USUALLY;1
 Operands;WORLDWIDE;2
 Operands;CUSTOMERS;1
-Operands;20;1
 Operands;SEPA;2
 Operands;NAMES;3
 Operands;CONDITIONS;1
@@ -269,7 +268,7 @@ Operands;PRICING;10
 Operands;SIGNIFICANT;1
 Operands;ENTERPRISE;8
 Operands;MARGIN;1
-Operands;BRAND;3
+Operands;INDUSTRY;1
 Operands;SCALE;1
 Operands;BASED;15
 Operands;BUSINESS;6
@@ -312,14 +311,14 @@ Operands;REASONS;1
 Operands;WORK;1
 Operands;AIMS;1
 Operands;TRADE;1
-Operands;180;2
+Operands;180;1
 Operands;ASIAN;3
 Operands;IMPLEMENTED;1
 Operands;BEGINNING;1
 Operands;JURISDICTIONS;1
 Operands;DUE;3
 Operands;ADAPT;1
-Operands;10;2
+Operands;10;1
 Operands;CONVENTION;1
 Operands;TRADING;1
 Operands;KEY;1
@@ -339,7 +338,7 @@ Operands;COMPONENTS;6
 Operands;AGGREGATE;1
 Operands;TRANSFERS;1
 Operands;TWOSTEP;2
-Operands;200;3
+Operands;200;2
 Operands;QUOTED;2
 Operands;INTANGIBLE;19
 Operands;DETRIMENT;1
@@ -380,7 +379,6 @@ Operands;SEEKS;1
 Operands;SEARCH;1
 Operands;INTRODUCTION;1
 Operands;COMMONLY;1
-Operands;3;1
 Operands;APPROACH;10
 Operands;AVAILABLE;3
 Operands;INCURS;1
@@ -399,7 +397,6 @@ Operands;ELIMINATE;1
 Operands;ELECTRONIC;4
 Operands;RECENT;1
 Operands;CHARACTERISTICS;1
-Operands;500;1
 Operands;SOCALLED;3
 Operands;FAIR;1
 Operands;SUCCESSFULLY;1
@@ -425,7 +422,6 @@ Operands;OWN;4
 Operands;BENEFITS;2
 Operands;ADAPTS;1
 Operands;SEEK;1
-Operands;9;1
 Operands;CONFLICT;1
 Operands;INPUTS;1
 Operands;DEFENCE;2
@@ -448,7 +444,6 @@ Operands;STEPS;2
 Operands;PROPER;1
 Operands;ORDER;1
 Operands;SPECIFIC;2
-Operands;4;1
 Operands;FACTS;2
 Operands;VALUATION;1
 Operands;HISTORICALLY;1
@@ -465,9 +460,7 @@ Operands;RESOURCES;1
 Operands;LIMITED;1
 Operands;DESIGNS;1
 Operands;ILLUSTRATES;1
-Operands;51;1
 Operands;AUTHORITY;3
-Operands;52;1
 Operands;LATE;1
 Operands;LENGTH;11
 Operands;EXPERIENCES;1
@@ -490,7 +483,6 @@ Operands;MANUFACTURING;3
 Operands;INTEGRATED;1
 Operands;STAGE;1
 Operands;INFORMATION;2
-Operands;300;1
 Operands;ADDRESS;2
 Operands;FUNCTIONAL;1
 Operands;AFFILIATES;2

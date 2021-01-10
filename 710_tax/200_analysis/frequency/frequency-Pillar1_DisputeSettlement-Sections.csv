@@ -330,10 +330,9 @@ Operands;VEHICLE;1
 Operands;ACTIVE;1
 Operands;AGREE;32
 Operands;PREPARATION;1
-Operands;OFFER;2
 Operands;DELIVER;3
 Operands;CONTROLS;5
-Operands;34;2
+Operands;34;1
 Operands;OUTOFSCOPE;3
 Operands;AVOIDS;3
 Operands;NOW;2
@@ -554,11 +553,9 @@ Operands;PRINCIPALLY;1
 Operands;DEMONSTRATE;1
 Operands;EFFECTIVENESS;6
 Operands;LARGE;3
-Operands;13;1
-Operands;12;5
-Operands;15;2
+Operands;12;4
+Operands;15;1
 Operands;TARGET;1
-Operands;19;1
 Operands;REVISED;7
 Operands;CONVENTION;1
 Operands;MAJORITY;17
@@ -591,7 +588,6 @@ Operands;VERY;3
 Operands;JURISDICTION;68
 Operands;ACTIONS;1
 Operands;LEGAL;13
-Operands;75;1
 Operands;INCONSISTENT;2
 Operands;SPREAD;4
 Operands;POOL;9
@@ -635,7 +631,7 @@ Operands;METHODOLOGY;1
 Operands;ENTER;1
 Operands;EXCHANGING;2
 Operands;OPERATE;1
-Operands;14;9
+Operands;14;8
 Operands;CHALLENGES;4
 Operands;EXPERIENCE;13
 Operands;REFLECT;10
@@ -667,7 +663,7 @@ Operands;INTRODUCTION;3
 Operands;COMMONLY;1
 Operands;LIABILITY;2
 Operands;FRAMEWORK;50
-Operands;3;4
+Operands;3;3
 Operands;DIFFICULTIES;1
 Operands;GREATEST;1
 Operands;PARTICIPATE;10
@@ -695,7 +691,7 @@ Operands;UNITED;1
 Operands;FINANCIAL;2
 Operands;SITUATIONS;3
 Operands;AGREEING;2
-Operands;23;1
+Operands;OFFER;2
 Operands;ATTRIBUTED;1
 Operands;EXPLORE;8
 Operands;PARAGRAPH;1
@@ -707,15 +703,14 @@ Operands;ASSOCIATED;3
 Operands;LEVELS;6
 Operands;GLOBAL;4
 Operands;ARRANGEMENTS;1
-Operands;68;1
-Operands;69;1
+Operands;COLLECTED;1
+Operands;SUBSIDIARY;1
 Operands;DUPLICATION;1
 Operands;ELECTRONIC;1
 Operands;RECENT;1
 Operands;ABILITY;1
 Operands;INVESTMENT;1
 Operands;BETTER;1
-Operands;159;1
 Operands;PROFITABILITY;1
 Operands;PURSUED;2
 Operands;EXERCISE;1
@@ -728,7 +723,6 @@ Operands;ABSENCE;3
 Operands;INVENTORY;8
 Operands;WAY;1
 Operands;PROVIDING;6
-Operands;160;1
 Operands;EXAMPLE;10
 Operands;FOCUSES;1
 Operands;APPEAR;2
@@ -764,7 +758,6 @@ Operands;INTRODUCE;3
 Operands;RESORT;4
 Operands;INTEREST;13
 Operands;ARISE;6
-Operands;9;1
 Operands;RETAIN;1
 Operands;ASSESSMENT;35
 Operands;CONFLICT;1
@@ -847,11 +840,9 @@ Operands;SUPPORT;15
 Operands;PRACTICE;2
 Operands;DISCUSSED;4
 Operands;ACCEPT;12
-Operands;COLLECTED;1
 Operands;CONDUCTED;16
 Operands;ONGOING;11
 Operands;PRINCIPLE;3
-Operands;SUBSIDIARY;1
 Operands;REPORT;1
 Operands;INTERVENTION;1
 Operands;BROADLY;3
@@ -924,11 +915,7 @@ Operands;BROADER;4
 Operands;USING;3
 Operands;UNLIKELY;1
 Operands;USE;15
-Operands;155;1
-Operands;157;1
-Operands;156;1
 Operands;EFFICIENT;1
-Operands;158;1
 Operands;NUMBER;45
 Operands;EVIDENCE;2
 Operands;BENEFIT;8
@@ -950,7 +937,6 @@ Operands;OVERRIDE;1
 Operands;UNDERTAKEN;25
 Operands;OPERATION;3
 Operands;FACILITATE;6
-Operands;10;1
 Operands;RATIONALE;1
 Operands;SUGGEST;1
 Operands;SUFFICIENT;3

@@ -1,2 +1,2 @@
 file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/UN.txt;70649;2046;28210;484;96015;38528210;70649;484;2046;98859;2048.0;0.0207163738253
+../010_raw_documents/UN.txt;70649;1966;28210;484;96015;38528210;70649;484;1966;98859;1968.0;0.0199071404728
