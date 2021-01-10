@@ -1,2 +1,2 @@
 file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/OECD.txt;76466;1930;31124;498;103395;29031124;76466;498;1930;107590;1932.0;0.0179570592062
+../010_raw_documents/OECD.txt;72193;1843;34693;557;103395;290;504;2034693;72193;557;1843;106886;1845.0;0.0172613812847

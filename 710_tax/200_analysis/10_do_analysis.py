@@ -45,11 +45,13 @@ def do_run(input_dir, output_file_name):
     count['Operators'] = 0
     count['Operands'] = 0
     count['Other'] = 0
+    count['Unclassified'] = 0
 
     unique = {}
     unique['Operators'] = []
     unique['Operands'] = []
     unique['Other'] = []
+    unique['Unclassified'] = []
     unique['unclassified'] = []
 
     total_words = 0
@@ -67,11 +69,16 @@ def do_run(input_dir, output_file_name):
     input_file = open("../020_word_lists/Other.txt")
     for line in input_file.readlines():
         Other.append(sanitize(line.strip()))
+    Unclassified = []
+    input_file = open("../020_word_lists/Unclassified.txt")
+    for line in input_file.readlines():
+        Unclassified.append(sanitize(line.strip()))
 
     if False:
         print(Operators)
         print(Operands)
         print(Other)
+        print(Unclassified)
 
 
     #
@@ -84,6 +91,7 @@ def do_run(input_dir, output_file_name):
         print("    # Operators: " + str(len(Operators)))
         print("    # Operands: " + str(len(Operands)))
         print("    # Other: " + str(len(Other)))
+        print("    # Unclassified: " + str(len(Unclassified)))
 
     input_file = open(input_file_name, 'r')
 
@@ -115,6 +123,13 @@ def do_run(input_dir, output_file_name):
                     unique['Other'].append(token)
                 except:
                     pass
+            if token in Unclassified:
+                is_classified = True
+                count['Unclassified'] += 1
+                try:
+                    unique['Unclassified'].append(token)
+                except:
+                    pass
 
             total_words += 1
             if is_classified:
@@ -139,10 +154,11 @@ def do_run(input_dir, output_file_name):
     #
     print("  TOTAL WORDS: " + str(total_words))
     print("  TOTAL CLASSIFIED: " + str(total_classified))
-    print("  TOTAL UNCLASSIFIED: ") + str(len(unique['unclassified']))
+    print("  TOTAL UNCLASSIFIED: ") + str(len(unique['Unclassified']))
     print("  TOTAL OTHER: ") + str(len(unique['Other']))
+    print("  TOTAL NOT FOUND: ") + str(len(unique['unclassified']))
     frac = float(total_classified)/float(total_words)
-    print("  FRACTION CLASSIFIED: " + str(round(frac,2)))
+    print("  FRACTION FOUND: " + str(round(frac,2)))
 
     # add output
     out_text += input_file_name
@@ -197,6 +213,10 @@ def do_run(input_dir, output_file_name):
         out_text += "Operators;" + token + ";" + str(unique['Operators'].count(token)) + "\n"
     for token in set(unique['Operands']):
         out_text += "Operands;" + token + ";" + str(unique['Operands'].count(token)) + "\n"
+    for token in set(unique['Other']):
+        out_text += "Other;" + token + ";" + str(unique['Other'].count(token)) + "\n"
+    for token in set(unique['Unclassified']):
+        out_text += "Unclassified;" + token + ";" + str(unique['Unclassified'].count(token)) + "\n"
     out_file.write(out_text)
     out_file.close()
     print("   FREQUENCIES WRITTEN TO: " + "./frequency/frequency-" + output_file_name)
