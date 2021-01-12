@@ -69,6 +69,14 @@
       <h1>🏆</h1>
       <h2>Leaderboard</h2>
       <hr class="my-4">
+      <p style="max-width: 400px; margin-left: auto; margin-right: auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <a href="/experiment" onclick="reset_timer()">
+        Restart Experiment</a>
+      {% if current_user.is_anonymous %}
+      {% else %}
+      or <a href="{{ url_for('logout') }}">  Logout</a>
+      {% endif %}
+      <hr class="my-4">
       <!-- <p>The results of your experiment are below:</p> -->
         <div class="row" style="margin-bottom: auto; margin-top: auto">
           <div style="display: inline-flex;">
@@ -88,6 +96,12 @@
 </div>
 
 <script>
+
+function reset_timer() {
+  startTime = new Date();
+  window.localStorage.setItem('startTime', startTime);
+  return startTime;
+}
  
 fetch("../static/leaderboard.htm")
 .then(response => {

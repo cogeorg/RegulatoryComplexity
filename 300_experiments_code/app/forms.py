@@ -34,21 +34,22 @@ class RulesForm(FlaskForm):
     submit = SubmitField("Continue", render_kw={"onclick": "reset_timer()"})
 
 class PracticeForm(FlaskForm):
-    answer = FloatField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
-    n_reg  = HiddenField(id="n_reg", validators = [DataRequired()])
-    def validate(self):
-        rv = FlaskForm.validate(self)
-        if not rv:
-            return False
+    # answer = HiddenField("Enter the bank's total risk weighted assets for this regulation:", validators = [DataRequired()])
+    answer = HiddenField("Enter the bank's total risk weighted assets for this regulation:")
+    n_reg  = HiddenField(id="n_reg")
+    # def validate(self):
+    #     rv = FlaskForm.validate(self)
+    #     if not rv:
+    #         return False
 
-        correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
-        if correctanswer is None:
-            self.answer.errors.append('This answer is incorrect. Input 1.00 to continue. The next 9 questions will not evaluate your answer so think carefully before answering.')
-            return False
+    #     correctanswer = CorrectAnswer.query.filter_by(correctanswer=self.answer.data, id=self.n_reg.data).first()
+    #     if correctanswer is None:
+    #         self.answer.errors.append('Your answer is incorrect. Input 1.00 to continue. The next 9 questions will not evaluate your answer so think carefully before answering.')
+    #         return False
 
-        return True
+    #     return True
 
-    submit = SubmitField("Save and continue", render_kw={"onclick": "reset_timer()"})
+    submit = SubmitField("Continue", id="modalbtn", render_kw={"onclick": "reset_timer()"})
     
 
 class SubmissionForm(FlaskForm):

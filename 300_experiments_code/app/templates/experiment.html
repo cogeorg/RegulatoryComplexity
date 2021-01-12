@@ -97,6 +97,68 @@
     line-height: 17px !important;
   }
 
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: none;
+    overflow: auto;
+    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 9999;
+}
+
+#modalCorrect, #modalWrong{
+  display: none;
+}
+
+.modal-window {
+    position: relative;
+    background-color: #FFFFFF;
+    width: 50%;
+    margin: 10% auto;
+    padding: 20px;
+}
+
+.modal-window.small {
+    width: 30%;
+}
+
+.modal-window.large {
+    width: 75%;
+}
+
+.close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: rgba(0,0,0,0.3);
+    height: 30px;
+    width: 30px;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.close:hover,
+.close:focus {
+    color: #000000;
+    cursor: pointer;
+}
+
+.open {
+    display: block;
+}
+
+.align-wtf-modal {
+  display: flex;
+  align-content: end;
+  justify-content: end;
+}
+
+
 </style>
 
 <body onload="startTime() ; enablepopover() ; loadregulation();">
@@ -140,11 +202,20 @@
         <div class="panel panel-default" style="padding: 20px; padding-bottom: 20px; min-height: 190px"> 
           
           <div class="col-3 mb-1 mb-lg-0">
-            <div>
+            <div id="practiceOver">
               {{ wtf.quick_form(form) }}
             </div>
           </div>
-          <div>
+          <div id="practiceStart">
+            <label class="control-label" for="answer">Enter the bank's total risk weighted assets for this regulation:</label>
+            <input class="form-control" id="practiceAnswer" type="text" value="">
+            <button class="btn btn-default" data-target="practiceModal" data-toggle="modal" style="position: absolute;
+            right: 0;
+            margin-top: 16px;
+            margin-right: 35px;
+            ">Save and Continue</button>
+          </div>
+          <div style="margin-top:16px">
             <span style="display:inline-block; font-weight: bold">Elapsed Time: </span>
             <div id="chronometer" style="display:inline-block"></div>
           </div>
@@ -158,45 +229,78 @@
 </div>
 </div>
 
+  <div id="practiceModal" class="modal">
+    <div id="modalWrong" class="modal-window">
+      <h3>Incorrect Answer!</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <div class="align-wtf-modal">{{ wtf.quick_form(form) }}</div>
+      <!-- <button data-dismiss="modal">Close</button> -->
+    </div>
+    <div id="modalCorrect" class="modal-window">
+      <h3>Correct Answer!</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <div class="align-wtf-modal">{{ wtf.quick_form(form) }}</div>
+      <!-- <button data-dismiss="modal">Close</button> -->
+  </div>
+</div>
+
 </body>
 
 <script>
 
-document.getElementById("n_reg").value = {{n_reg}} ;
+document.getElementById("n_reg").value = {{n_reg}};
+n_reg = {{n_reg}};
 
   // function validateModel(){
   // alert("hello")
   // }
-  // value = document.getElementById("answer").value
-  // console.log("hello" + value + "something else")
+n_answer = document.getElementById("practiceAnswer").value;
+console.log("hello" + n_answer + "something else");
 
-// var start = new Date();
+if (n_reg == 1 ) {
+  document.getElementById("practiceStart").classList.add('show');
+  document.getElementById("practiceOver").classList.add('hidden');
+} else {
+  document.getElementById("practiceStart").classList.add('hidden');
+  document.getElementById("practiceOver").classList.add('show');
+}
 
-// function startTime(){
-//   var today = new Date();
-//   var diff = (today - start)/1000 ;
-//   var h = Math.floor(diff /60 /60);
-//   var m = Math.floor((diff - h*60*60)/60);
-//   var s = Math.floor(diff - m*60 - h*60*60);
-//   // add a zero in front of numbers<10
-//   m=checkTime(m);
-//   s=checkTime(s);
-//   document.getElementById('chronometer').innerHTML=h+":"+m+":"+s;
-//   t=setTimeout(function(){startTime()},500);
-// };
+document.addEventListener('click', function (e) {
+e = e || window.event;
+var target = e.target || e.srcElement;
 
-// function checkTime(i){
-//   if (i<10)
-//     {
-//     i="0" + i;
-//     }
-//   return i;
-// };
+if (target.hasAttribute('data-toggle') && target.getAttribute('data-toggle') == 'modal') {
+    if (target.hasAttribute('data-target')) {
+        var m_ID = target.getAttribute('data-target');
+        document.getElementById(m_ID).classList.add('open');
+        let practiceAnswer = document.getElementById("practiceAnswer").value;
+        console.log(practiceAnswer);
+        if (practiceAnswer == 1 ) {
+            document.getElementById("modalCorrect").classList.add('show');
+          } else {
+            document.getElementById("modalWrong").classList.add('show');
+          }
+      e.preventDefault();
+    }
+}
+
+// Close modal window with 'data-dismiss' attribute or when the backdrop is clicked
+if ((target.hasAttribute('data-dismiss') && target.getAttribute('data-dismiss') == 'modal') || target.classList.contains('modal')) {
+    var modal = document.querySelector('[class="modal open"]');
+    modal.classList.remove('open');
+    document.getElementById("modalCorrect").classList.remove('show');
+    document.getElementById("modalWrong").classList.remove('show');
+    e.preventDefault();
+}
+}, false);
+
 
 function reset_timer() {
+
   startTime = new Date();
   window.localStorage.setItem('startTime', startTime);
   return startTime;
+
 }
 
 document.addEventListener('DOMContentLoaded', function(event) { 
