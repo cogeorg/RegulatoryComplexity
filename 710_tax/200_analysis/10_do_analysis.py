@@ -39,7 +39,7 @@ def sanitize(entry):
 # do_run(file_name)
 # -------------------------------------------------------------------------
 def do_run(input_dir, output_file_name):
-    out_text = "file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level\n"
+    out_text = "file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount\n"
 
     count = {}
     count['Operators'] = 0
@@ -164,26 +164,27 @@ def do_run(input_dir, output_file_name):
     out_text += input_file_name
     for count_key in sorted(count.keys()):
         out_text += ";" + str(count[count_key]) + ";" + str(len(set(unique[count_key])))
+    out_text += ";" + str(total_words) + "\n"
 
+    # #
+    # # compute num operators, operands
+    # #
+    # num_unique_operators = len(set(unique['Operators']))
+    # num_unique_operands = len(set(unique['Operands']))
+    # num_operators = count['Operators']
+    # num_operands = count['Operands']
     #
-    # compute num operators, operands
+    # total_volume = num_operators + num_operands
+    # potential_volume = 2.0 + num_unique_operands
+    # level = float(potential_volume) / float(total_volume)
     #
-    num_unique_operators = len(set(unique['Operators']))
-    num_unique_operands = len(set(unique['Operands']))
-    num_operators = count['Operators']
-    num_operands = count['Operands']
-
-    total_volume = num_operators + num_operands
-    potential_volume = 2.0 + num_unique_operands
-    level = float(potential_volume) / float(total_volume)
-
-    if True:
-        print("    << TOTAL VOLUME:" + str(total_volume))
-        print("    << POTENTIAL VOLUME:" + str(potential_volume))
-        print("    << LEVEL:" + str(level))
-
-    out_text += str(num_operators) + ";" + str(num_operands) + ";" + str(num_unique_operators) + ";" + str(num_unique_operands) + ";"
-    out_text += str(total_volume) + ";" + str(potential_volume) + ";" + str(level) + "\n"
+    # if True:
+    #     print("    << TOTAL VOLUME:" + str(total_volume))
+    #     print("    << POTENTIAL VOLUME:" + str(potential_volume))
+    #     print("    << LEVEL:" + str(level))
+    #
+    # out_text += str(num_operators) + ";" + str(num_operands) + ";" + str(num_unique_operators) + ";" + str(num_unique_operands) + ";"
+    # out_text += str(total_volume) + ";" + str(potential_volume) + ";" + str(level) + "\n"
 
     #
     # write results file

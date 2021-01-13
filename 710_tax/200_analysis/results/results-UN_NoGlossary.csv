@@ -1,2 +1,2 @@
-file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/UN_NoGlossary.txt;65260;1867;30831;547;94115;384;518;2030831;65260;547;1867;96091;1869.0;0.0194503127244
+file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
+../010_raw_documents/UN_NoGlossary.txt;65260;1867;30831;547;94115;384;518;20;206681

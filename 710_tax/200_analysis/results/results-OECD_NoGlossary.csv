@@ -1,2 +1,2 @@
-file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;num_operators;num_operands;num_unique_operators;num_unique_operands;total_volume;potential_volume;level
-../010_raw_documents/OECD_NoGlossary.txt;71370;1843;34340;557;102276;289;503;2034340;71370;557;1843;105710;1845.0;0.0174534102734
+file_name;Operands;UniqueOperands;Operators;UniqueOperators;Other;UniqueOther;Unclassified;UniqueUnclassified;WordCount
+../010_raw_documents/OECD_NoGlossary.txt;71370;1843;34340;557;102276;289;503;20;215677
