@@ -1,5 +1,5 @@
 #!/bin/bash
-# Prepare glossary
+# Prepare glossary - needs to be run only once
 # ./05_prepare_glossary.py ../020_word_lists/RegulatoryOperators_Tax-raw.txt ../020_word_lists/RegulatoryOperators_Tax-clean.txt
 
 # ANALYZE TEXT
