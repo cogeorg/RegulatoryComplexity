@@ -158,6 +158,7 @@
   justify-content: end;
 }
 
+.w3-modal{z-index:3;display:none;padding-top:100px;position:fixed;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:rgb(0,0,0);background-color:rgba(0,0,0,0.4)}
 
 </style>
 
@@ -174,17 +175,46 @@
   </div>
 
     <div class="col-lg-2" align="right">
-      <!-- <a href="/rules/" target="_blank"><button class='btn btn-info btn-small'> Show Rules</button></a> -->
+
+      <button onclick="document.getElementById('id01').style.display='block'" class="btn btn-info btn-small" style="background-color: #003A70; border-radius: 0px; border: none">Rules</button>
+      <!-- <a href="/rules/" target="_blank"><button class='btn btn-info btn-small'> Show Rules</button></a>
       <a class="btn btn-info btn-small" role="button" data-toggle="popover" data-trigger="hover" title="Rules" data-content="In the <i>Regulation</i> column on the left hand side of the screen you find a list of regulations applicable to the Balance Sheet on the right hand side of the screen. Evaluate how much <b> regulatory capital</b> the hypothetical bank, based in France (which is in the European Union), is required to have to stay solvent according to the rules given in the Regulation column. Enter your answer (in EUR) as fast as possible in the <b>Enter answer</b> field and click 'Save and continue'.<br>
     <br>
     In the <i>Balance Sheet</i> column on the right of the screen you see the asset side of a hypothetical bank. Each row is an entry on the balance sheet and the <b>Type</b> denotes what kind of entry it is. <b>Amount</b> is the amount, <b>Denomination</b> is the currency in which the amount is denominated (including whether it is in national or foreign currency), <b>Maturity</b> denotes the remaining maturity of the asset in years, <b>Counterparty of issuer</b> indicates who issued the asset, and the <b>Guarantor</b> indicates if another party guarantees the asset.<br>
-   <a href = '{{ url_for('rules') }}' target ='_blank'> Entire rules here</a>" id="rulespop" data-html="true" style="background-color: #003A70; border-radius: 0px; border: none">Rules</a>
+    <a href = '{{ url_for('rules') }}' target ='_blank'> Entire rules here</a>" id="rulespop" data-html="true" style="background-color: #003A70; border-radius: 0px; border: none">Rules</a> -->
 
   </div> 
+
+  <div id="id01" class="w3-modal">
+    <div class="w3-modal-content">
+      <div style="background-color: white; padding: 40px; max-width: 900px; margin-left: auto; margin-right: auto;">
+
+        In the <i>Regulation</i> column on the left hand side of the screen you find a list of regulations applicable to
+        the Balance Sheet on the right hand side of the screen. Evaluate how much <b> regulatory capital</b> the
+        hypothetical bank, based in France (which is in the European Union), is required to have to stay solvent
+        according to the rules given in the Regulation column. Enter your answer (in EUR) as fast as possible in the
+        <b>Enter answer</b> field and click 'Save and continue'.<br>
+        <br>
+        In the <i>Balance Sheet</i> column on the right of the screen you see the asset side of a hypothetical bank.
+        Each row is an entry on the balance sheet and the <b>Type</b> denotes what kind of entry it is. <b>Amount</b> is
+        the amount, <b>Denomination</b> is the currency in which the amount is denominated (including whether it is in
+        national or foreign currency), <b>Maturity</b> denotes the remaining maturity of the asset in years,
+        <b>Counterparty of issuer</b> indicates who issued the asset, and the <b>Guarantor</b> indicates if another
+        party guarantees the asset.<br><br>
+
+        <div style="height: 20px">
+          <a href='{{ url_for('rules') }}' target='_blank' style="float:left; padding-top: 6px; padding-bottom: 6px;"> View all rules by clicking here</a>
+          <span onclick="document.getElementById('id01').style.display='none'"
+            style="cursor:pointer; float: right; margin-right: 10px; background-color: #003A70; border-radius: 0px; border: none" class="btn btn-info btn-small">Close and Continue</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 </div>
 
   <!-- <div class="container-full-bg"> -->
-  <div class="jumbotron p-70 px-20" style="height: calc(100vh - 88px); display: flex">
+  <div class="jumbotron p-70 px-20" style="height: calc(100vh - 88px); display: flex; margin: 0 20px; border-radius: 5px;">
     <div class="row justify-content-left" style="margin-bottom: auto; margin-top: auto; width: 100%;">
       <div class="col-lg-7 vcenter" style="padding: 0px">
         <h3 align="left">Balance Sheet</h3>
@@ -250,12 +280,7 @@
 
 document.getElementById("n_reg").value = {{n_reg}};
 n_reg = {{n_reg}};
-
-  // function validateModel(){
-  // alert("hello")
-  // }
 n_answer = document.getElementById("practiceAnswer").value;
-console.log("hello" + n_answer + "something else");
 
 if (n_reg == 1 ) {
   document.getElementById("practiceStart").classList.add('show');
@@ -274,7 +299,6 @@ if (target.hasAttribute('data-toggle') && target.getAttribute('data-toggle') == 
         var m_ID = target.getAttribute('data-target');
         document.getElementById(m_ID).classList.add('open');
         let practiceAnswer = document.getElementById("practiceAnswer").value;
-        console.log(practiceAnswer);
         if (practiceAnswer == 1 ) {
             document.getElementById("modalCorrect").classList.add('show');
           } else {
@@ -296,11 +320,9 @@ if ((target.hasAttribute('data-dismiss') && target.getAttribute('data-dismiss') 
 
 
 function reset_timer() {
-
   startTime = new Date();
   window.localStorage.setItem('startTime', startTime);
   return startTime;
-
 }
 
 document.addEventListener('DOMContentLoaded', function(event) { 
@@ -313,7 +335,6 @@ document.addEventListener('DOMContentLoaded', function(event) {
     document.getElementById('chronometer').innerText = Math.floor(secsDiff / 1000) + ' seconds' ;
   }, 1000);
 });
-
 
 function enablepopover() {
   $('#otherpop').popover();
