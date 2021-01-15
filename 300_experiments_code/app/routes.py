@@ -107,12 +107,8 @@ def experiment(n_reg=1, Score=0):
         user_experiments.append(line.strip("\n"))
 
     df = pd.read_csv("./app/static/table_template.csv") 
-    # to save as html file 
-    # named as "Table" 
     df.to_html("./app/static/table.htm", na_rep="", index=False, index_names=False, col_space=60)
     df.style.set_properties(**{'text-align': 'right'})
-    # assign it to df  
-    # variable (string) 
     table = df.to_html()
 
     form = SubmissionForm()
@@ -179,32 +175,9 @@ def endpage():
 @app.route('/leaderboard')
 def leaderboard():
 
-    # def trim_all_columns(df):
-    #     """
-    #     Trim whitespace from ends of each value across all series in dataframe
-    #     """
-    #     trim_strings = lambda x: x[:10] if isinstance(x, str) else x
-    #     return df.applymap(trim_strings)
-
-
-    # dateparse = lambda x: datetime.strptime(x, '%Y-%m-%d')
-
-    # df = pd.read_csv(infile, parse_dates=['datetime'], date_parser=dateparse)
     headers = ['Index','Regulation','balance_sheet','answer','true','correctanswer','user_id','Student ID', 'Username', 'Time Elapsed','Submission Full Time', 'Submission Date', 'Score']
-    # dtypes = {'Regulation':'str','balance_sheet' : 'str','answer' : 'str','true' : 'bool','correctanswer' : 'str','user_id' : 'str','Student ID' : 'str','Time Elapsed' : 'str','Submission Time' : 'str','Score' : 'str'}
-    # parse_dates = ['Time Elapsed']
-    # df = pd.read_csv("./app/static/submissions.csv", parse_dates=[8], names = headers, date_parser=dateparse)
     df = pd.read_csv("./app/static/submissions.csv", parse_dates=[9], names = headers)
-    # df.columns = ['Regulation','balance_sheet','answer','true','correctanswer','user_id','Student ID','Time Elapsed','Submission Time','Score']
-    # df = trim_all_columns(df)
     table = df.loc[df['Index'] == 10].sort_values(by='Score', ascending=False).to_html("./app/static/leaderboard.htm", index=None)
-    # table = df.drop([0, 1])
-    # table = df.to_html("./app/static/leaderboard.htm", index=None)
-
-    # table = concatenated.groupby(['Student ID']).size().reset_index(name='Correct Answers').sort_values(by='Correct Answers', ascending=False).to_html("./app/static/leaderboard.htm",  index=None)
-
-    # table = df.drop('regulation', axis=1)
-    # table = df[['Student ID', 'Score']]
 
     return render_template('leaderboard.html', table=table)
 
