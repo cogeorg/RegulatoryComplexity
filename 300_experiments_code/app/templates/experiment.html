@@ -174,15 +174,8 @@
    <h2> Regulation {{n_reg}} / 10 </h2>
   </div>
 
-    <div class="col-lg-2" align="right">
-
+  <div class="col-lg-2" align="right">
       <button onclick="document.getElementById('id01').style.display='block'" class="btn btn-info btn-small" style="background-color: #003A70; border-radius: 0px; border: none">Rules</button>
-      <!-- <a href="/rules/" target="_blank"><button class='btn btn-info btn-small'> Show Rules</button></a>
-      <a class="btn btn-info btn-small" role="button" data-toggle="popover" data-trigger="hover" title="Rules" data-content="In the <i>Regulation</i> column on the left hand side of the screen you find a list of regulations applicable to the Balance Sheet on the right hand side of the screen. Evaluate how much <b> regulatory capital</b> the hypothetical bank, based in France (which is in the European Union), is required to have to stay solvent according to the rules given in the Regulation column. Enter your answer (in EUR) as fast as possible in the <b>Enter answer</b> field and click 'Save and continue'.<br>
-    <br>
-    In the <i>Balance Sheet</i> column on the right of the screen you see the asset side of a hypothetical bank. Each row is an entry on the balance sheet and the <b>Type</b> denotes what kind of entry it is. <b>Amount</b> is the amount, <b>Denomination</b> is the currency in which the amount is denominated (including whether it is in national or foreign currency), <b>Maturity</b> denotes the remaining maturity of the asset in years, <b>Counterparty of issuer</b> indicates who issued the asset, and the <b>Guarantor</b> indicates if another party guarantees the asset.<br>
-    <a href = '{{ url_for('rules') }}' target ='_blank'> Entire rules here</a>" id="rulespop" data-html="true" style="background-color: #003A70; border-radius: 0px; border: none">Rules</a> -->
-
   </div> 
 
   <div id="id01" class="w3-modal">
@@ -259,18 +252,19 @@
 </div>
 </div>
 
+
+<!-- 5a. Set the responses to whether an answer is correct or wrong -->
+
   <div id="practiceModal" class="modal">
     <div id="modalWrong" class="modal-window">
       <h3>Incorrect Answer!</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       <div class="align-wtf-modal">{{ wtf.quick_form(form) }}</div>
-      <!-- <button data-dismiss="modal">Close</button> -->
     </div>
     <div id="modalCorrect" class="modal-window">
       <h3>Correct Answer!</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       <div class="align-wtf-modal">{{ wtf.quick_form(form) }}</div>
-      <!-- <button data-dismiss="modal">Close</button> -->
   </div>
 </div>
 
@@ -278,11 +272,19 @@
 
 <script>
 
+// 1. Set the correct answer
+
+theCorrectAnswer = 1;
+
+// 2. Get regulation number - pass to variable
 document.getElementById("n_reg").value = {{n_reg}};
 n_reg = {{n_reg}};
+
+// 3. Get practice answer  - pass to variable
 n_answer = document.getElementById("practiceAnswer").value;
 
-if (n_reg == 1 ) {
+// 4. If n_reg is 1 then practice answer wtf_form will be shown
+if (n_reg == 1) {
   document.getElementById("practiceStart").classList.add('show');
   document.getElementById("practiceOver").classList.add('hidden');
 } else {
@@ -294,12 +296,14 @@ document.addEventListener('click', function (e) {
 e = e || window.event;
 var target = e.target || e.srcElement;
 
+// 5. If Practice Answer equals the answer set above in 1. then modalCorrect is displayed, else modalWrong is displayed. To define their responses look to point 5a. above in the html.
+
 if (target.hasAttribute('data-toggle') && target.getAttribute('data-toggle') == 'modal') {
     if (target.hasAttribute('data-target')) {
         var m_ID = target.getAttribute('data-target');
         document.getElementById(m_ID).classList.add('open');
         let practiceAnswer = document.getElementById("practiceAnswer").value;
-        if (practiceAnswer == 1 ) {
+        if (practiceAnswer == theCorrectAnswer ) {
             document.getElementById("modalCorrect").classList.add('show');
           } else {
             document.getElementById("modalWrong").classList.add('show');
@@ -308,7 +312,6 @@ if (target.hasAttribute('data-toggle') && target.getAttribute('data-toggle') == 
     }
 }
 
-// Close modal window with 'data-dismiss' attribute or when the backdrop is clicked
 if ((target.hasAttribute('data-dismiss') && target.getAttribute('data-dismiss') == 'modal') || target.classList.contains('modal')) {
     var modal = document.querySelector('[class="modal open"]');
     modal.classList.remove('open');
@@ -319,16 +322,28 @@ if ((target.hasAttribute('data-dismiss') && target.getAttribute('data-dismiss') 
 }, false);
 
 
+// 6. This function resets the timer
+
 function reset_timer() {
   startTime = new Date();
   window.localStorage.setItem('startTime', startTime);
   return startTime;
 }
 
+// 7. This function stops user from being able to go back.
+
+history.pushState(null, null, location.href);
+    window.onpopstate = function () {
+        history.go(1);
+    };
+
+
+// 8. This function fetches the timestamp in the browsers localstorage so that if a user refreshes it will continue its count.
+
 document.addEventListener('DOMContentLoaded', function(event) { 
   // get timestamp
-  startTime = new Date(window.localStorage.getItem('startTime') || resetStartTime());
-  // start timer
+startTime = new Date(window.localStorage.getItem('startTime') || resetStartTime());
+// start timer
   
   window.setInterval(function() {
     var secsDiff = new Date().getTime() - startTime.getTime();
@@ -336,25 +351,27 @@ document.addEventListener('DOMContentLoaded', function(event) {
   }, 1000);
 });
 
-function enablepopover() {
-  $('#otherpop').popover();
-  $("#rulespop")
-            .popover({
-                // offset: 10,
-                container : 'body',
-                trigger: 'manual',
-                animate: false,
-                html: true,
-                placement: 'left',
-                template: '<div class="popover" onmouseover="$(this).mouseleave(function() {$(this).hide(); });"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>',
+  // function enablepopover() {
+  //   $('#otherpop').popover();
+  //   $("#rulespop")
+  //             .popover({
+  //                 // offset: 10,
+  //                 container : 'body',
+  //                 trigger: 'manual',
+  //                 animate: false,
+  //                 html: true,
+  //                 placement: 'left',
+  //                 template: '<div class="popover" onmouseover="$(this).mouseleave(function() {$(this).hide(); });"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>',
 
-            }).click(function(e) {
-                e.preventDefault() ;
-            }).mouseenter(function(e) {
-                $(this).popover('show');
-            })
-  $("popover-content").css("overflow-y", "auto");
-};
+  //             }).click(function(e) {
+  //                 e.preventDefault() ;
+  //             }).mouseenter(function(e) {
+  //                 $(this).popover('show');
+  //             })
+  //   $("popover-content").css("overflow-y", "auto");
+  // };
+
+// 9. This function outputs the regulation
 
 fetch("../static/exercises/" + {{user_experiment_id}} + "/regulation_"+ {{user_experiment_id}}+".html")
   .then(response => {
@@ -364,18 +381,16 @@ fetch("../static/exercises/" + {{user_experiment_id}} + "/regulation_"+ {{user_e
     document.querySelector("regulation").innerHTML = data;
   });
 
-fetch("../static/table.htm")
-.then(response => {
-  return response.text()
-})
-.then(data => {
-  document.querySelector("balancesheet").innerHTML = data;
-});
+// 9. This function outputs the static regulation table. Regulation can be set in table_template.csv. The csv will be converted into table.htm on the fly. 
 
-history.pushState(null, null, location.href);
-    window.onpopstate = function () {
-        history.go(1);
-    };
+fetch("../static/table.htm")
+  .then(response => {
+    return response.text()
+  })
+  .then(data => {
+    document.querySelector("balancesheet").innerHTML = data;
+  });
+
 
 </script>
 
