@@ -272,7 +272,7 @@
 
 <script>
 
-// 1. Set the correct answer
+// 1. Set the correct answer - This is needed for Practice Answer
 
 theCorrectAnswer = 1;
 
@@ -283,7 +283,7 @@ n_reg = {{n_reg}};
 // 3. Get practice answer  - pass to variable
 n_answer = document.getElementById("practiceAnswer").value;
 
-// 4. If n_reg is 1 then practice answer wtf_form will be shown
+// 4. If n_reg is 1 then practice answer wtf_form will be shown - No need to change
 if (n_reg == 1) {
   document.getElementById("practiceStart").classList.add('show');
   document.getElementById("practiceOver").classList.add('hidden');
@@ -361,7 +361,7 @@ fetch("../static/exercises/" + {{user_experiment_id}} + "/regulation_"+ {{user_e
     document.querySelector("regulation").innerHTML = data;
   });
 
-// 9. This function outputs the static regulation table. Regulation can be set in table_template.csv. The csv will be converted into table.htm on the fly. 
+// 10. This function outputs the static regulation table. Regulation can be set in table_template.csv. The csv will be converted into table.htm on the fly. 
 
 fetch("../static/table.htm")
   .then(response => {

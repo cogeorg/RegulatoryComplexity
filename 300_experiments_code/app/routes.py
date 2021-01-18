@@ -158,7 +158,7 @@ def experiment(n_reg=1, Score=0):
 @app.route('/endpage')
 def endpage():
 
-    headers = ['Index','Regulation','balance_sheet','answer','true','correctanswer','User ID','Student ID', 'Username', 'Time Elapsed','Submission Full Time', 'Submission Date', 'Score']
+    headers = ['Index','Regulation','balance_sheet','answer','true','Correct Answer','User ID','Student ID', 'Username', 'Time Elapsed','Submission Full Time', 'Submission Date', 'Score']
     df = pd.read_csv("./app/static/submissions.csv", usecols=[0,3,5,6], names=headers)
 
     top = df.head(0)
@@ -175,7 +175,7 @@ def endpage():
 @app.route('/leaderboard')
 def leaderboard():
 
-    headers = ['Index','Regulation','balance_sheet','answer','true','correctanswer','user_id','Student ID', 'Username', 'Time Elapsed','Submission Full Time', 'Submission Date', 'Score']
+    headers = ['Index','Regulation','balance_sheet','answer','true','Correct Answer','user_id','Student ID', 'Username', 'Time Elapsed','Submission Full Time', 'Submission Date', 'Score']
     df = pd.read_csv("./app/static/submissions.csv", parse_dates=[9], names = headers)
     table = df.loc[df['Index'] == 10].sort_values(by='Score', ascending=False).to_html("./app/static/leaderboard.htm", index=None)
 
