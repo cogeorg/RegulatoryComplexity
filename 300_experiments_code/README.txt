@@ -20,7 +20,6 @@ then, for example, to see all the users in the database:
 - users = User.query.all()
 - for u in users: {print(u.username, u.email)}
 
-
 In main folder:
 - app
 	- init.py
@@ -42,3 +41,14 @@ In main folder:
 - venv # virtual environment (Flask, jinja2, flask-bootstrap, doting)
 - envvariablename.flaskenv : #is supposed to set FLASK_APP to regexp.py automatically (file read when ‘flask run’ in terminal), but doesn’t seem to work for now.
 - regexp.py #automatic decoration of flask shell (python terminal shell more or less) doesn't work
+
+Major Updates (18/01/2021):
+
+1. CorrectAnswer database model was created in models.py
+	 - This is used to reference submited answers vs correct answers in DB in order to get a final score for the users.
+	 - It is also used on the end page to show a breakdown of the users answers.
+2. PracticeForm wtf form created in forms.py
+	 - Used to seperate actual test from practice test.
+	 - The forms display logic can be found in routes.py. 
+	 - Javascript is used to check submitted answer against correct practice answer as set in the experiments.html page. See below.
+3. Refer to commented tags in experiments.html for step by step information relating to how the experiments page functions. 
