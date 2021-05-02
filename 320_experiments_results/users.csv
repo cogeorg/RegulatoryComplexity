@@ -1,0 +1,72 @@
+,username,email,student_id,sex,education,year,area,institution,experience,years_experience
+0,Shnmawrhy,ipi@zapahsa.fr,MhCtnaay,G,PhD,1950,,Ma,Business,1969
+1,emile,emile.dpretorius@gmail.com,1234567,M,PhD,2009,,NMMU,Business,10
+2,co,cogeorg@gmail.com,1440812,m,PhD,2011,,University of Jena,Business,10
+3,co2,cogeorg+test2@gmail.com,1440812,Male,PhD,2011,,FSUJ,Business,10
+4,Matt,matjohnson251@gmail.com,JHNMAT015,Male,Bachelor’s Level,2020,,University of Cape Town,Other,0
+5,Kirstin,kirstin.detering@googlemail.com,DTRKIR001,Female,Master’s Level,1,,University of Cape Town ,Business,
+6,Arnaud,arnaud.mouton.am@gmail.com,MTNARN001,Male,Bachelor’s Level,2018,,University of Cape Town,Other,0
+7,MWLMUT001,mwlmut001@myuct.ac.za,MWLMUT001,Female,Bachelor’s Level,2020,,University of Cape Town,Other,0
+8,emile_april,emile.dpretorius+april@gmail.com,2301203,Male,PhD,2010,Business,NMMU,Business,10
+9,JEC2,jean.edouard.colliard@gmail.com,7,Male,PhD,2012,Business,PSE,Business,1
+10,JEC3,colliard@hec.Fr,7,Male,PhD,2012,Business,PSE,Other,9
+11,testaccount,testuser@gmail.com,213,,,,,,,
+12,ArranMacdonald,arran.macdonald@hec.edu,71479,,,,,,,
+13,cdehler,carsten.dehler@hec.edu,71449,,,,,,,
+14,Matthias Zlöbl,matthias.zlobl@hec.edu,63525,,,,,,,
+15,stefano.berta@hec.edu,stefano.berta@hec.edu,71499,,,,,,,
+16,manuel.salo@hec.edu,manuel.salo@hec.edu,S71528,,,,,,,
+17,camille zeller,camille.zeller1@hec.edu,camille zeller,,,,,,,
+18,zihan WANG,zihan.wang@hec.edu,71480,,,,,,,
+19,mattieujunker,mattieu.junker@hec.edu,71463,,,,,,,
+20,feschu,felix.schuhbauer@hec.edu,71522,,,,,,,
+21,qiuxulun,xulun.qiu@hec.edu,S63439,,,,,,,
+22,Tushar Shani,tushar.shani@hec.edu,63582,,,,,,,
+23,lukasrielke,lukas.rielke@hec.edu,71484,,,,,,,
+24,fabio.bonino@hec.edu,fabio.bonino@hec.edu,s67329,,,,,,,
+25,bernd.kemper@hec.edu,bernd.kemper@hec.edu,S63577,,,,,,,
+26,Leonard_LEIKERT,leonard.leikert@hec.edu,S71468,Male,Master’s Level,2021,Business,HEC Paris,Business,2
+27,Constantin Brandt,constantin.brandt@hec.edu,71507,Male,Bachelor’s Level,2020,Business,Frankfurt School of Finance & Management,Business,1
+28,luka.reisch,luka.reisch@hec.edu,67355,Male,Bachelor’s Level,2018,Business,Bocconi University,Business,1
+29,Gregorywagner,gregory.wagner@hec.edu,63611,Male,Bachelor’s Level,2018,Business,"Rotterdam School of Management, Erasmus University",Business,0
+30,Nicolas BOCCIARELLI,nicolas.bocciarelli@hec.edu,S60331,Male,Master’s Level,2021,Business,HEC Paris,Business,1
+31,tolsen,theodor.aam-olsen@hec.edu,71492,Male,Bachelor’s Level,2020,Business,University of Wyoming,Business,0
+32,Zeyang.yuan@hec.edu,zeyang.yuan@hec.edu,71489,Male,Master’s Level,2022,Business,HEC Paris,Business,1
+33,paulmartignac,paul.martignac@hec.edu,71530,Male,Master’s Level,,Business,HEC,Business,1
+34,angelica.defilippi,angelica.de-filippi@hec.edu,71533,Female,Master’s Level,2019,Business,Bocconi,Business,0
+35,mariam.mirzaianova,miriam.mirzaianova@hec.edu,71519,Female,Bachelor’s Level,2019,Business,University of London,Business,1
+36,vincenzo.ricci,vincenzo.ricci@hec.edu,70122,Male,Bachelor’s Level,2019,Business,Bocconi,Business,0
+37,eamonn.nicosia,eamonn.nicosia@hec.edu,70123,Male,Bachelor’s Level,2019,Other,Bocconi University ,Business,0.5
+38,bondmarket,lars-oliver.hostettler@hec.edu,70117,Male,Bachelor’s Level,Economics,Other,University of St. Gallen,Business,5
+39,philipp.hermann@hec.edu,philipp.hermann@hec.edu,71464,Male,Bachelor’s Level,2020,Business,University of St. Gallen,Business,1
+40,tobias.kastan@hec.edu,tobias.kastan@hec.edu,71520,Male,Bachelor’s Level,2019,Business,Technical University of Munich,Business,2
+41,Mbaluku,kibundila.mbaluku@hec.edu,S71521,Male,Bachelor’s Level,2016,Other,American University,Business,3
+42,Endzweig Bendahan,alexander.endzweig-bendahan@hec.edu,71439,Male,Bachelor’s Level,2021,Business,IE University,Business,0
+43,ABlair,Archie.blair@hec.edu,71481,Male,Master’s Level,2021,Business,HEC Paris,Business,0
+44,FerdinandWeishaupt,ferdinand.weishaupt@hec.edu,S71435,Male,Bachelor’s Level,2019,Business,Maastricht University,Business,
+45,PhilippHp,philipp.hupler@hec.edu,S71452,Male,Bachelor’s Level,2019,Business,Maastricht University,Business,0
+46,julieronsin,julie.ronsin@hec.edu,71526,Female,Master’s Level,2021,Business,HEC,Business,1
+47,Margot Bruder,margot.bruder@hec.edu,S71434,Female,Master’s Level,2021,Business,HEC Paris,Business,1
+48,Patricia_Bronder,patricia.bronder@hec.edu,71469,Female,Bachelor’s Level,2019,Business,Universita Bocconi,Business,1
+49,Hongyi Zheng,hongyi.zheng@hec.edu,71438,Male,Bachelor’s Level,2020,Business,Sun Yat-sen University,Business,0
+50,d.lad,dominik.ladner@hec.edu,70118,Male,Master’s Level,2021,Business,HEC Paris,Business,4
+51,Giulia Chiarelli,giulia.chiarelli@hec.edu,63495,Female,Master’s Level,2021,Business,HEC Paris,Business,1
+52,arnaudg,arnaud.goldberg@hec.edu,63584,Male,Bachelor’s Level,2018,Business,University of Warwick,Business,1
+53,Emmasimoni,emma.simoni@hec.edu,S71466,Female,Bachelor’s Level,2020,Business,Bocconi University,Business,NA
+54,jonas.purckhauer@hec.edu,jonas.purckhauer@hec.edu,S71518,Male,Master’s Level,2021,Business,HEC Paris,Business,1
+55,philippe.oberson@hec.edu,philippe.oberson@hec.edu,71514,Male,Master’s Level,2021,Business,HEC Paris,Business,4
+56,Jwang128,jiawen.wang@hec.edu,S53441,Female,Bachelor’s Level,2018,Other,Peking University,Other,0
+57,Aziz_Rachdi,mohamed-aziz.rachdi@hec.edu,63723,Male,Master’s Level,2021,Business,HEC,Business,0
+58,SophieDeVuyst,sophie.de-vuyst@hec.edu,71423,Female,Master’s Level,2020,Business,UGent ,Business,4 months
+59,Radoslaw Rogowski,radoslaw.rogowski@hec.edu,71443,Male,Bachelor’s Level,2020,Other,Warsaw School of Economics,Other,0
+60,Anemesanszky,andras.nemesanszky@hec.edu,71506,Male,Bachelor’s Level,2020,Business,University of St Andrews,Business,0
+61,hdames,hendrik.dames@hec.edu,71493,Male,Master’s Level,2021,Business,HEC Paris,Business,
+62,Yekai Zhang,yekai.zhang@hec.edu,71458,Male,Master’s Level,2021,Business,HEC & Tsinghua University,Business,0
+63,mmf97,matias.melo-felgueres@hec.edu,S60068,Male,Bachelor’s Level,2018,Business,HEC Paris,Business,1
+64,julienperquin,julien.perquin@hec.edu,71465,Male,Master’s Level,2018,Technology,Ensimag,Technology,1
+65,PaulCimad,paul.cimadomo@hec.edu,71448,Male,Master’s Level,2020,Technology,EPFL,Technology,1
+66,Nanpu Jin,nanpu.jin@hec.edu,no,Male,Master’s Level,2022,Business,HEC Paris,Business,
+67,Jan Georg,jan.georg@hec.edu,71505,Male,Bachelor’s Level,2020,Business,ESB Reutlingen,Business,2
+68,imohib,inasse.mohib@hec.edu,S62720,Female,Master’s Level,,Technology,IP Paris,Other,1
+69,juliette.quellec@hec.edu,juliette.quellec@hec.edu,S63722,Female,Master’s Level,Master,Business,HEC,Business,1
+70,Alice Beccegato,alice.beccegato@hec.edu,S63702,Female,Master’s Level,2021,Business,HEC,Business,1.5
