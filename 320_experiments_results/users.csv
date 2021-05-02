@@ -1,30 +1,4 @@
 ,username,email,student_id,sex,education,year,area,institution,experience,years_experience
-0,Shnmawrhy,ipi@zapahsa.fr,MhCtnaay,G,PhD,1950,,Ma,Business,1969
-1,emile,emile.dpretorius@gmail.com,1234567,M,PhD,2009,,NMMU,Business,10
-2,co,cogeorg@gmail.com,1440812,m,PhD,2011,,University of Jena,Business,10
-3,co2,cogeorg+test2@gmail.com,1440812,Male,PhD,2011,,FSUJ,Business,10
-4,Matt,matjohnson251@gmail.com,JHNMAT015,Male,Bachelor’s Level,2020,,University of Cape Town,Other,0
-5,Kirstin,kirstin.detering@googlemail.com,DTRKIR001,Female,Master’s Level,1,,University of Cape Town ,Business,
-6,Arnaud,arnaud.mouton.am@gmail.com,MTNARN001,Male,Bachelor’s Level,2018,,University of Cape Town,Other,0
-7,MWLMUT001,mwlmut001@myuct.ac.za,MWLMUT001,Female,Bachelor’s Level,2020,,University of Cape Town,Other,0
-8,emile_april,emile.dpretorius+april@gmail.com,2301203,Male,PhD,2010,Business,NMMU,Business,10
-9,JEC2,jean.edouard.colliard@gmail.com,7,Male,PhD,2012,Business,PSE,Business,1
-10,JEC3,colliard@hec.Fr,7,Male,PhD,2012,Business,PSE,Other,9
-11,testaccount,testuser@gmail.com,213,,,,,,,
-12,ArranMacdonald,arran.macdonald@hec.edu,71479,,,,,,,
-13,cdehler,carsten.dehler@hec.edu,71449,,,,,,,
-14,Matthias Zlöbl,matthias.zlobl@hec.edu,63525,,,,,,,
-15,stefano.berta@hec.edu,stefano.berta@hec.edu,71499,,,,,,,
-16,manuel.salo@hec.edu,manuel.salo@hec.edu,S71528,,,,,,,
-17,camille zeller,camille.zeller1@hec.edu,camille zeller,,,,,,,
-18,zihan WANG,zihan.wang@hec.edu,71480,,,,,,,
-19,mattieujunker,mattieu.junker@hec.edu,71463,,,,,,,
-20,feschu,felix.schuhbauer@hec.edu,71522,,,,,,,
-21,qiuxulun,xulun.qiu@hec.edu,S63439,,,,,,,
-22,Tushar Shani,tushar.shani@hec.edu,63582,,,,,,,
-23,lukasrielke,lukas.rielke@hec.edu,71484,,,,,,,
-24,fabio.bonino@hec.edu,fabio.bonino@hec.edu,s67329,,,,,,,
-25,bernd.kemper@hec.edu,bernd.kemper@hec.edu,S63577,,,,,,,
 26,Leonard_LEIKERT,leonard.leikert@hec.edu,S71468,Male,Master’s Level,2021,Business,HEC Paris,Business,2
 27,Constantin Brandt,constantin.brandt@hec.edu,71507,Male,Bachelor’s Level,2020,Business,Frankfurt School of Finance & Management,Business,1
 28,luka.reisch,luka.reisch@hec.edu,67355,Male,Bachelor’s Level,2018,Business,Bocconi University,Business,1
