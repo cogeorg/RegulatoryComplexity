@@ -52,7 +52,11 @@ if __name__ == "__main__":
             input_file_name = os.path.join(input_directory_name, filename)
             output_file_name = os.path.join(output_directory_name, "regulation_" + str(counter) + ".html")
 
-            print(bcolors.OKGREEN + "<<< WORKING ON: " + input_file_name + bcolors.ENDC)
+            if False:
+                print(bcolors.OKGREEN + "<<< WORKING ON: " + input_file_name + bcolors.ENDC + " --> " + str(counter))
+            if True:
+                # tokens = input_file_name.split("-")
+                print(filename.rstrip(".tex") + ";" + str(counter))
 
             input_file = open(input_file_name, "r")
 

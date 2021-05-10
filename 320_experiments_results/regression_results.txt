@@ -1,0 +1,133 @@
+
+. areg time level, a(id_user)
+
+Linear regression, absorbing indicators         Number of obs     =      1,151
+Absorbed variable: id_user                      No. of categories =        125
+                                                F(1, 1025)        =     176.27
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.4081
+                                                Adj R-squared     =     0.3359
+                                                Root MSE          = 92821.8884
+
+------------------------------------------------------------------------------
+        time | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       level |  -362790.7   27325.48   -13.28   0.000      -416411   -309170.4
+       _cons |   288108.4   11641.18    24.75   0.000     265265.1    310951.7
+------------------------------------------------------------------------------
+F test of absorbed indicators: F(124, 1025) = 4.341           Prob > F = 0.000
+
+. areg time totalvolume, a(id_user)
+
+Linear regression, absorbing indicators         Number of obs     =      1,151
+Absorbed variable: id_user                      No. of categories =        125
+                                                F(1, 1025)        =     242.57
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.4391
+                                                Adj R-squared     =     0.3707
+                                                Root MSE          = 90361.8905
+
+------------------------------------------------------------------------------
+        time | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+ totalvolume |    1821.68   116.9653    15.57   0.000     1592.161    2051.199
+       _cons |   29934.23   7425.181     4.03   0.000     15363.94    44504.52
+------------------------------------------------------------------------------
+F test of absorbed indicators: F(124, 1025) = 4.512           Prob > F = 0.000
+
+. areg time potentialvolume, a(id_user)
+
+Linear regression, absorbing indicators         Number of obs     =      1,151
+Absorbed variable: id_user                      No. of categories =        125
+                                                F(1, 1025)        =     220.36
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.4291
+                                                Adj R-squared     =     0.3595
+                                                Root MSE          = 91163.8524
+
+-------------------------------------------------------------------------------
+         time | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+--------------+----------------------------------------------------------------
+potentialvo~e |   6479.472   436.4863    14.84   0.000     5622.963    7335.981
+        _cons |  -7374.302   10147.35    -0.73   0.468    -27286.26    12537.66
+-------------------------------------------------------------------------------
+F test of absorbed indicators: F(124, 1025) = 4.350           Prob > F = 0.000
+
+.
+. probit is_correct i.id_user level
+
+Iteration 0:   log likelihood = -606.77974
+Iteration 1:   log likelihood =  -464.2261
+Iteration 2:   log likelihood = -461.37534
+Iteration 3:   log likelihood = -461.37306
+Iteration 4:   log likelihood = -461.37306
+
+Probit regression                                       Number of obs =    915
+                                                        LR chi2(99)   = 290.81
+                                                        Prob > chi2   = 0.0000
+Log likelihood = -461.37306                             Pseudo R2     = 0.2396
+
+------------------------------------------------------------------------------
+  is_correct | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     id_user |
+          2  |  -.8263761   .6395722    -1.29   0.196    -2.079915    .4271624
+...
+        125  |  -.8251301   .6041388    -1.37   0.172     -2.00922    .3589601
+             |
+       level |   5.113723   .5806661     8.81   0.000     3.975638    6.251808
+       _cons |  -1.364202   .5255935    -2.60   0.009    -2.394347    -.334058
+------------------------------------------------------------------------------
+
+. probit is_correct i.id_user totalvolume
+
+Iteration 0:   log likelihood = -606.77974
+Iteration 1:   log likelihood = -455.80473
+Iteration 2:   log likelihood =  -453.5287
+Iteration 3:   log likelihood = -453.52686
+Iteration 4:   log likelihood = -453.52686
+
+Probit regression                                       Number of obs =    915
+                                                        LR chi2(99)   = 306.51
+                                                        Prob > chi2   = 0.0000
+Log likelihood = -453.52686                             Pseudo R2     = 0.2526
+
+------------------------------------------------------------------------------
+  is_correct | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     id_user |
+          2  |  -.8368605   .6630146    -1.26   0.207    -2.136345    .4626242
+...
+        125  |  -.9458942   .6179984    -1.53   0.126    -2.157149    .2653603
+             |
+ totalvolume |  -.0234747   .0024184    -9.71   0.000    -.0282146   -.0187347
+       _cons |     2.1506   .5055168     4.25   0.000     1.159806    3.141395
+------------------------------------------------------------------------------
+
+. probit is_correct i.id_user potentialvolume
+
+Iteration 0:   log likelihood = -606.77974
+Iteration 1:   log likelihood = -457.59945
+Iteration 2:   log likelihood = -455.23976
+Iteration 3:   log likelihood = -455.23754
+Iteration 4:   log likelihood = -455.23754
+
+Probit regression                                       Number of obs =    915
+                                                        LR chi2(99)   = 303.08
+                                                        Prob > chi2   = 0.0000
+Log likelihood = -455.23754                             Pseudo R2     = 0.2497
+
+-------------------------------------------------------------------------------
+   is_correct | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+--------------+----------------------------------------------------------------
+      id_user |
+           2  |  -.9779949   .6795526    -1.44   0.150    -2.309894    .3539038
+...
+         125  |  -1.186306   .6359946    -1.87   0.062    -2.432832     .060221
+              |
+potentialvo~e |  -.0844669   .0087907    -9.61   0.000    -.1016963   -.0672375
+        _cons |   2.790976   .5474628     5.10   0.000     1.717969    3.863983
+-------------------------------------------------------------------------------
+
+.
+end of do-file

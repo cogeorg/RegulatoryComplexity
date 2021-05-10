@@ -599,8 +599,8 @@ id_question,id_regulation,user,answer,correctanswer,score,id_student,time,sex,ed
 3,35,"71502",37,37,1,"71502",00:02:6,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,1
 4,17,"71502",55,60,1,"71502",00:02:7,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,0
 5,21,"71502",69,69,2,"71502",00:00:39,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,1
-6,14,"71502",67,67,4,"71502",00:00:11,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,1
 6,14,"71502",67,67,3,"71502",00:00:11,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,1
+6,14,"71502",67,67,4,"71502",00:00:11,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,1
 7,28,"71502",31,38,4,"71502",00:01:20,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,0
 8,22,"71502",22,22,5,"71502",00:01:18,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,1
 9,2,"71502",22,25,5,"71502",00:01:11,"Female","Bachelor’s Level","2020","Business","Bocconi","Business","0",6,0
@@ -686,22 +686,22 @@ id_question,id_regulation,user,answer,correctanswer,score,id_student,time,sex,ed
 8,14,"71517",67,67,3,"71517",00:00:34,"Male","Bachelor’s Level","2019","Business","Università Cattolica del Sacro Cuore","Business","0",5,1
 9,19,"71517",55,55,4,"71517",00:02:39,"Male","Bachelor’s Level","2019","Business","Università Cattolica del Sacro Cuore","Business","0",5,1
 10,8,"71517",13,13,5,"71517",00:01:9,"Male","Bachelor’s Level","2019","Business","Università Cattolica del Sacro Cuore","Business","0",5,1
-2,2,"71519",25,25,1,"71519",00:01:3,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 2,37,"71519",32,8,0,"71519",00:01:25,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,0
-3,20,"71519",37,37,2,"71519",00:01:57,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
+2,2,"71519",25,25,1,"71519",00:01:3,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 3,8,"71519",13,13,1,"71519",00:00:40,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
-4,32,"71519",14,14,2,"71519",00:00:46,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
+3,20,"71519",37,37,2,"71519",00:01:57,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 4,38,"71519",61,61,3,"71519",00:00:34,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
-5,5,"71519",36,36,3,"71519",00:00:49,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
+4,32,"71519",14,14,2,"71519",00:00:46,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 5,12,"71519",3,13,3,"71519",00:01:31,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,0
-6,34,"71519",1,1,4,"71519",00:01:16,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
+5,5,"71519",36,36,3,"71519",00:00:49,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 6,13,"71519",18,22,3,"71519",00:01:0,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,0
+6,34,"71519",1,1,4,"71519",00:01:16,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 7,4,"71519",55,55,4,"71519",00:00:25,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 7,19,"71519",55,55,5,"71519",00:01:7,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 8,15,"71519",21,20,4,"71519",00:01:9,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,0
 8,10,"71519",12,12,5,"71519",00:00:13,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
-9,22,"71519",22,22,6,"71519",00:01:16,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 9,3,"71519",18,18,5,"71519",00:01:29,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
+9,22,"71519",22,22,6,"71519",00:01:16,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 10,26,"71519",77,67,4,"71519",00:00:30,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,0
 10,29,"71519",57,57,7,"71519",00:01:25,"Female","Bachelor’s Level","2019","Business","University of London","Business","1",7,1
 2,15,"71520",20,20,1,"71520",00:12:22,"Male","Bachelor’s Level","2019","Business","Technical University of Munich","Business","2",9,1
@@ -744,20 +744,20 @@ id_question,id_regulation,user,answer,correctanswer,score,id_student,time,sex,ed
 2,11,"71533",32,12,0,"71533",00:02:2,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 3,22,"71533",13,22,0,"71533",00:00:37,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 3,26,"71533",57,67,0,"71533",00:01:27,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
-4,25,"71533",56,37,0,"71533",00:00:2,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 4,16,"71533",10,10,1,"71533",00:01:33,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,1
+4,25,"71533",56,37,0,"71533",00:00:2,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 5,23,"71533",47,47,2,"71533",00:02:34,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,1
 5,23,"71533",24,47,0,"71533",00:00:2,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 6,3,"71533",13,18,0,"71533",00:00:3,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 6,32,"71533",24,14,2,"71533",00:02:39,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
-7,17,"71533",60,60,3,"71533",00:03:37,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,1
 7,33,"71533",20,30,0,"71533",00:00:2,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
-8,1,"71533",19,38,0,"71533",00:00:10,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
+7,17,"71533",60,60,3,"71533",00:03:37,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,1
 8,19,"71533",55,55,4,"71533",00:03:13,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,1
-9,38,"71533",61,61,5,"71533",00:00:40,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,1
+8,1,"71533",19,38,0,"71533",00:00:10,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 9,38,"71533",30,61,0,"71533",00:00:8,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
-10,37,"71533",24,8,5,"71533",00:00:55,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
+9,38,"71533",61,61,5,"71533",00:00:40,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,1
 10,15,"71533",42,20,0,"71533",00:00:4,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
+10,37,"71533",24,8,5,"71533",00:00:55,"Female","Master’s Level","2019","Business","Bocconi","Business","0",5,0
 2,23,"71534",47,47,1,"71534",00:03:45,"Female","Bachelor’s Level","2020","Business","University of St. Gallen (HSG)","Other","0",7,1
 3,11,"71534",12,12,2,"71534",00:01:6,"Female","Bachelor’s Level","2020","Business","University of St. Gallen (HSG)","Other","0",7,1
 4,14,"71534",67,67,3,"71534",00:00:53,"Female","Bachelor’s Level","2020","Business","University of St. Gallen (HSG)","Other","0",7,1
@@ -814,8 +814,8 @@ id_question,id_regulation,user,answer,correctanswer,score,id_student,time,sex,ed
 10,29,"S60181",57,57,2,"S60181",00:03:48,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",2,1
 2,23,"S60331",41,47,0,"S60331",00:02:17,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,0
 2,33,"S60331",40,30,0,"S60331",00:01:25,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,0
-3,27,"S60331",24,4,0,"S60331",00:00:30,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,0
 3,1,"S60331",34,38,0,"S60331",00:01:33,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,0
+3,27,"S60331",24,4,0,"S60331",00:00:30,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,0
 4,25,"S60331",37,37,1,"S60331",00:01:52,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,1
 5,37,"S60331",8,8,2,"S60331",00:00:48,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,1
 6,36,"S60331",30,30,3,"S60331",00:00:10,"Male","Master’s Level","2021","Business","HEC Paris","Business","1",4,1
@@ -840,8 +840,8 @@ id_question,id_regulation,user,answer,correctanswer,score,id_student,time,sex,ed
 7,3,"S62720",27,18,3,"S62720",00:03:0,"Female","Master’s Level","","Technology","IP Paris","Other","1",7,0
 8,9,"S62720",35,35,4,"S62720",00:01:29,"Female","Master’s Level","","Technology","IP Paris","Other","1",7,1
 9,24,"S62720",46,46,5,"S62720",00:03:51,"Female","Master’s Level","","Technology","IP Paris","Other","1",7,1
-10,34,"S62720",1,1,6,"S62720",00:01:37,"Female","Master’s Level","","Technology","IP Paris","Other","1",7,1
 10,34,"S62720",1,1,7,"S62720",00:01:37,"Female","Master’s Level","","Technology","IP Paris","Other","1",7,1
+10,34,"S62720",1,1,6,"S62720",00:01:37,"Female","Master’s Level","","Technology","IP Paris","Other","1",7,1
 2,17,"S63443",55,60,0,"S63443",00:02:6,"Female","Master’s Level","","Business","","Business","",4,0
 3,2,"S63443",25,25,1,"S63443",00:05:49,"Female","Master’s Level","","Business","","Business","",4,1
 4,22,"S63443",22,22,2,"S63443",00:05:17,"Female","Master’s Level","","Business","","Business","",4,1
@@ -1139,8 +1139,8 @@ id_question,id_regulation,user,answer,correctanswer,score,id_student,time,sex,ed
 8,33,"no",30,30,7,"no",00:01:25,"Male","Master’s Level","2022","Business","HEC Paris","Business","",9,1
 9,19,"no",55,55,8,"no",00:01:43,"Male","Master’s Level","2022","Business","HEC Paris","Business","",9,1
 10,28,"no",38,38,9,"no",00:01:51,"Male","Master’s Level","2022","Business","HEC Paris","Business","",9,1
-2,31,"riwa.kanaan@hec.edu",61,32,0,"riwa.kanaan@hec.edu",00:02:3,"Female","Master’s Level","2021","Business","HEC Paris","Business","3",2,0
 2,37,"riwa.kanaan@hec.edu",8,8,1,"riwa.kanaan@hec.edu",00:00:7,"Female","Master’s Level","2021","Business","HEC Paris","Business","3",2,1
+2,31,"riwa.kanaan@hec.edu",61,32,0,"riwa.kanaan@hec.edu",00:02:3,"Female","Master’s Level","2021","Business","HEC Paris","Business","3",2,0
 2,37,"riwa.kanaan@hec.edu",8,8,1,"riwa.kanaan@hec.edu",00:01:2,"Female","Master’s Level","2021","Business","HEC Paris","Business","3",2,1
 3,9,"riwa.kanaan@hec.edu",26,35,0,"riwa.kanaan@hec.edu",00:02:53,"Female","Master’s Level","2021","Business","HEC Paris","Business","3",2,0
 4,22,"riwa.kanaan@hec.edu",53,22,0,"riwa.kanaan@hec.edu",00:02:58,"Female","Master’s Level","2021","Business","HEC Paris","Business","3",2,0
