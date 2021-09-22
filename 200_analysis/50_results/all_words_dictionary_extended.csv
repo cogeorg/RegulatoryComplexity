@@ -1,0 +1,5609 @@
+class,EconomicOperands
+Payment,EconomicOperands
+clearing,EconomicOperands
+and,LogicalConnectors
+supervision,EconomicOperands
+Short title,LegalReferences
+title,LegalReferences
+may,FunctionWords
+be,FunctionWords
+cited,Other
+as,FunctionWords
+the,FunctionWords
+Payment Clearing and Settlement Supervision Act of 2010,LegalReferences
+purposes,EconomicOperands
+Congress,EconomicOperands
+following,FunctionWords
+The,FunctionWords
+of,FunctionWords
+financial markets,EconomicOperands
+is,FunctionWords
+upon,FunctionWords
+safe,Attributes
+arrangements,EconomicOperands
+for,FunctionWords
+payment,EconomicOperands
+securities,EconomicOperands
+other,FunctionWords
+financial transactions,EconomicOperands
+Financial,EconomicOperands
+market,EconomicOperands
+that,FunctionWords
+conduct,EconomicOperands
+or,LogicalConnectors
+activities,EconomicOperands
+reduce,EconomicOperands
+risks,EconomicOperands
+their,FunctionWords
+financial system,EconomicOperands
+but,LogicalConnectors
+such,FunctionWords
+also,LogicalConnectors
+new,EconomicOperands
+thus,LogicalConnectors
+must,FunctionWords
+well,Attributes
+in,FunctionWords
+a,FunctionWords
+sound,Attributes
+manner,Other
+activities conducted,EconomicOperands
+by,FunctionWords
+financial institutions,EconomicOperands
+to,FunctionWords
+regulation and supervision,EconomicOperands
+systemically important,EconomicOperands
+financial,EconomicOperands
+conduct of,EconomicOperands
+are,FunctionWords
+necessary,Attributes
+provide,EconomicOperands
+risk management,EconomicOperands
+safety,EconomicOperands
+soundness,EconomicOperands
+systemic risks,EconomicOperands
+stability,EconomicOperands
+Purpose,EconomicOperands
+purpose,EconomicOperands
+this,FunctionWords
+title is,LegalReferences
+mitigate,RegulatoryOperators
+systemic risk,EconomicOperands
+financial stability,EconomicOperands
+Board of Governors,EconomicOperands
+standards,EconomicOperands
+management,EconomicOperands
+an,FunctionWords
+role,EconomicOperands
+liquidity,EconomicOperands
+Definitions,EconomicOperands
+this title,LegalReferences
+definitions,EconomicOperands
+shall,FunctionWords
+apply,RegulatoryOperators
+Appropriate financial regulator,EconomicOperands
+term,Other
+appropriate financial regulator,EconomicOperands
+means,Other
+primary financial regulatory agency,EconomicOperands
+defined,EconomicOperands
+section 2,LegalReferences
+this Act,LegalReferences
+Credit Union,EconomicOperands
+with respect to,LogicalConnectors
+any,FunctionWords
+insured credit union,EconomicOperands
+under,FunctionWords
+the Federal Credit Union Act 12 USC 1751 et seq,LegalReferences
+operating,EconomicOperands
+section,LegalReferences
+the Federal Reserve Act 12 USC 611,LegalReferences
+financial institution,EconomicOperands
+designated activity,EconomicOperands
+Designated activity,EconomicOperands
+payment clearing or settlement activity,EconomicOperands
+Council,EconomicOperands
+has,FunctionWords
+section 804,LegalReferences
+Designated clearing entity,EconomicOperands
+designated clearing entity,EconomicOperands
+designated financial market utility,EconomicOperands
+that is,LogicalConnectors
+derivatives clearing organization,EconomicOperands
+registered,EconomicOperands
+the Commodity Exchange Act 7 USC 7a-1,LegalReferences
+agency,EconomicOperands
+with,FunctionWords
+Securities and Exchange Commission,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78q-1,LegalReferences
+Designated financial market utility,EconomicOperands
+financial market utility,EconomicOperands
+Financial institution,EconomicOperands
+In general,FunctionWords
+depository institution,EconomicOperands
+section 3,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1813,LegalReferences
+branch,EconomicOperands
+foreign bank,EconomicOperands
+section 1b,LegalReferences
+the International Banking Act of 1978 12 USC 3101,LegalReferences
+section 25,LegalReferences
+the Federal Reserve Act,LegalReferences
+through,FunctionWords
+credit union,EconomicOperands
+section 101,LegalReferences
+the Federal Credit Union Act 12 USC 1752,LegalReferences
+broker,EconomicOperands
+dealer,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78c,LegalReferences
+investment company,EconomicOperands
+the Investment Company Act of 1940,LegalReferences
+insurance company,EconomicOperands
+investment adviser,EconomicOperands
+section 202,LegalReferences
+the Investment Advisers Act of 1940,LegalReferences
+futures commission merchant,EconomicOperands
+commodity trading advisor,EconomicOperands
+commodity pool operator,EconomicOperands
+the Commodity Exchange Act,LegalReferences
+company,EconomicOperands
+nature,EconomicOperands
+incidental,EconomicOperands
+activity,EconomicOperands
+described,Other
+section 4,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1843k,LegalReferences
+does not,FunctionWords
+include,EconomicOperands
+contract,EconomicOperands
+markets,EconomicOperands
+futures,EconomicOperands
+associations,EconomicOperands
+swap,EconomicOperands
+data,EconomicOperands
+the Commodity Exchange Act 7 USC 1 et seq,LegalReferences
+exchanges,EconomicOperands
+systems,EconomicOperands
+information,EconomicOperands
+solely,LogicalConnectors
+entity,EconomicOperands
+security-based swap,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78a et seq,LegalReferences
+entities,EconomicOperands
+provided that,LogicalConnectors
+subparagraph,Other
+require,RegulatoryOperators
+so,LogicalConnectors
+Financial market utility,EconomicOperands
+person,EconomicOperands
+system,EconomicOperands
+for the purpose of,LogicalConnectors
+payments,EconomicOperands
+among,FunctionWords
+between,FunctionWords
+respecting,FunctionWords
+terms,Other
+of securities,EconomicOperands
+transactions,EconomicOperands
+on,FunctionWords
+exchange,EconomicOperands
+controlled,EconomicOperands
+transfer,EconomicOperands
+agent,EconomicOperands
+introducing broker,EconomicOperands
+functions,EconomicOperands
+institution,EconomicOperands
+part,FunctionWords
+acting,EconomicOperands
+in connection with,FunctionWords
+services,EconomicOperands
+its,EconomicOperands
+use,EconomicOperands
+not,FunctionWords
+functions of,EconomicOperands
+Payment clearing or settlement activity,EconomicOperands
+out,FunctionWords
+1,FunctionWords
+more,FunctionWords
+sale,EconomicOperands
+security,EconomicOperands
+the Securities Act of 1933 15 USC 77a et seq,LegalReferences
+order,EconomicOperands
+Financial transaction,EconomicOperands
+For,FunctionWords
+subparagraph A,LegalReferences
+financial transaction,EconomicOperands
+includes,EconomicOperands
+funds,EconomicOperands
+transfers,EconomicOperands
+securities contracts,EconomicOperands
+contracts,EconomicOperands
+commodity,EconomicOperands
+future,EconomicOperands
+delivery,EconomicOperands
+forward contracts,EconomicOperands
+repurchase agreements,EconomicOperands
+swaps,EconomicOperands
+security-based swaps,EconomicOperands
+swap agreements,EconomicOperands
+security-based swap agreements,EconomicOperands
+foreign exchange,EconomicOperands
+derivatives,EconomicOperands
+similar,FunctionWords
+transaction,EconomicOperands
+determines,RegulatoryOperators
+When,FunctionWords
+conducted,EconomicOperands
+provision,EconomicOperands
+final,EconomicOperands
+determine,RegulatoryOperators
+public,EconomicOperands
+reporting,EconomicOperands
+section 727,LegalReferences
+the Wall Street Transparency and Accountability Act of 2010,LegalReferences
+Supervisory agency,EconomicOperands
+Supervisory Agency,EconomicOperands
+Federal agency,EconomicOperands
+jurisdiction,EconomicOperands
+over,FunctionWords
+Federal,EconomicOperands
+banking,EconomicOperands
+laws,EconomicOperands
+as follows,FunctionWords
+Commodity Futures Trading Commission,EconomicOperands
+appropriate Federal banking agency,EconomicOperands
+section 3q,LegalReferences
+the Federal Deposit Insurance Act,LegalReferences
+otherwise,LogicalConnectors
+subject to,LogicalConnectors
+clauses i ii and iii,LegalReferences
+If,LogicalConnectors
+than,FunctionWords
+then,LogicalConnectors
+agencies,EconomicOperands
+should,FunctionWords
+act,LegalReferences
+if,LogicalConnectors
+which,FunctionWords
+Systemically important,EconomicOperands
+systemic importance,EconomicOperands
+mean,Other
+where,FunctionWords
+failure,EconomicOperands
+could,FunctionWords
+increase,EconomicOperands
+risk,EconomicOperands
+credit,EconomicOperands
+problems,EconomicOperands
+United States,EconomicOperands
+Financial Stability Oversight Council,EconomicOperands
+fewer,FunctionWords
+2/3,Attributes
+members,EconomicOperands
+including,EconomicOperands
+Chairperson,EconomicOperands
+those,FunctionWords
+In,FunctionWords
+determining,EconomicOperands
+whether,FunctionWords
+take into consideration,EconomicOperands
+aggregate,EconomicOperands
+monetary,EconomicOperands
+value,EconomicOperands
+exposure,EconomicOperands
+relationship,EconomicOperands
+effect,EconomicOperands
+would,FunctionWords
+have,FunctionWords
+Any,FunctionWords
+deems,RegulatoryOperators
+appropriate,Attributes
+no,FunctionWords
+Effect,EconomicOperands
+Upon,FunctionWords
+conducting,EconomicOperands
+will,FunctionWords
+provisions,EconomicOperands
+rules,EconomicOperands
+orders,EconomicOperands
+prescribed,RegulatoryOperators
+Consultation,EconomicOperands
+notice,EconomicOperands
+opportunity,EconomicOperands
+Before,LogicalConnectors
+making,FunctionWords
+subsection a or b,LegalReferences
+consult,EconomicOperands
+Advance,EconomicOperands
+in the case of,LogicalConnectors
+advance,EconomicOperands
+Notice,EconomicOperands
+Requests,EconomicOperands
+Within,FunctionWords
+30 days,Attributes
+from,FunctionWords
+date,EconomicOperands
+request,EconomicOperands
+writing,EconomicOperands
+before,LogicalConnectors
+evidence,EconomicOperands
+time,EconomicOperands
+after,LogicalConnectors
+unless,LogicalConnectors
+at,FunctionWords
+submit,EconomicOperands
+discretion,EconomicOperands
+Emergency,EconomicOperands
+exception,RegulatoryOperators
+modification,EconomicOperands
+requirements,EconomicOperands
+paragraph 2,LegalReferences
+prevent,RegulatoryOperators
+threat,EconomicOperands
+later,FunctionWords
+3,FunctionWords
+business days,EconomicOperands
+After,LogicalConnectors
+60 days,Attributes
+subsection c2,LegalReferences
+not later,LogicalConnectors
+All,FunctionWords
+notices,EconomicOperands
+this subsection,LegalReferences
+periods,EconomicOperands
+subsections c and d,LegalReferences
+Standards,EconomicOperands
+Authority,EconomicOperands
+prescribe,RegulatoryOperators
+Except,FunctionWords
+provided,EconomicOperands
+rule,EconomicOperands
+consultation,EconomicOperands
+Supervisory Agencies,EconomicOperands
+into,FunctionWords
+international,EconomicOperands
+existing,EconomicOperands
+operations,EconomicOperands
+related,FunctionWords
+procedures,EconomicOperands
+certain,FunctionWords
+CFTC,EconomicOperands
+Commission,EconomicOperands
+each,FunctionWords
+regulations,EconomicOperands
+both,FunctionWords
+pursuant to,FunctionWords
+operational,EconomicOperands
+subparagraph B,LegalReferences
+applicable,FunctionWords
+whole,FunctionWords
+ensure,RegulatoryOperators
+pose,EconomicOperands
+analysis,EconomicOperands
+identify,EconomicOperands
+commission,EconomicOperands
+within,FunctionWords
+either,LogicalConnectors
+as to,FunctionWords
+explanation,EconomicOperands
+actions,EconomicOperands
+subparagraph D,LegalReferences
+determined,RegulatoryOperators
+Objectives,EconomicOperands
+principles,EconomicOperands
+objectives,EconomicOperands
+subsection a,LegalReferences
+Scope,EconomicOperands
+such as,LogicalConnectors
+policies,EconomicOperands
+margin,EconomicOperands
+collateral requirements,EconomicOperands
+default,EconomicOperands
+ability,EconomicOperands
+capital,EconomicOperands
+subsection b,LegalReferences
+Limitation,EconomicOperands
+scope,EconomicOperands
+subsections e and f,LegalReferences
+section 807,LegalReferences
+nothing,FunctionWords
+construed,Other
+permit,RegulatoryOperators
+take,FunctionWords
+action,EconomicOperands
+exercise,EconomicOperands
+authority,EconomicOperands
+granted,LogicalConnectors
+section 2h,LegalReferences
+the Securities Exchange Act of 1934,LegalReferences
+approval,RegulatoryOperators
+clearing requirement,EconomicOperands
+group,EconomicOperands
+category,EconomicOperands
+accept,EconomicOperands
+section 2h1,LegalReferences
+exempt,RegulatoryOperators
+establish,RegulatoryOperators
+significance,EconomicOperands
+Compliance,EconomicOperands
+required,RegulatoryOperators
+compliance,EconomicOperands
+Operations,EconomicOperands
+Federal reserve,EconomicOperands
+account,EconomicOperands
+Federal Reserve,EconomicOperands
+Bank,EconomicOperands
+deposit,EconomicOperands
+accounts,EconomicOperands
+first,LogicalConnectors
+paragraph,LegalReferences
+section 13,LegalReferences
+the Federal Reserve Act 12 USC 342,LegalReferences
+authorized,RegulatoryOperators
+Advances,EconomicOperands
+bank,EconomicOperands
+discount,EconomicOperands
+borrowing,EconomicOperands
+privileges,EconomicOperands
+a majority of,FunctionWords
+number,EconomicOperands
+in accordance with,LogicalConnectors
+section 11r2,LegalReferences
+the Federal Reserve Act 12 USC 248r2,LegalReferences
+Secretary,EconomicOperands
+it,EconomicOperands
+adequate,Attributes
+institutions,EconomicOperands
+discounts,EconomicOperands
+limitations,EconomicOperands
+restrictions,RegulatoryOperators
+and regulations,EconomicOperands
+Access,EconomicOperands
+this section,LegalReferences
+bank holding company,EconomicOperands
+A,FunctionWords
+pay,EconomicOperands
+same,FunctionWords
+extent,EconomicOperands
+Reserve requirements,EconomicOperands
+reserve requirements,EconomicOperands
+section 19,LegalReferences
+the Federal Reserve Act 12 USC 461,LegalReferences
+applicable to,FunctionWords
+Changes,EconomicOperands
+changes,EconomicOperands
+change,EconomicOperands
+rules of,EconomicOperands
+Terms,Other
+Each,FunctionWords
+describe,Other
+when,FunctionWords
+Contents,Other
+effects,EconomicOperands
+plans,EconomicOperands
+designated financial market utilitys,EconomicOperands
+techniques,EconomicOperands
+regarding,LogicalConnectors
+further,LogicalConnectors
+Change,EconomicOperands
+receives,EconomicOperands
+requests,EconomicOperands
+complex,EconomicOperands
+issues,EconomicOperands
+during,FunctionWords
+60-day,Attributes
+period,EconomicOperands
+subparagraphs E and G,LegalReferences
+less than,LogicalConnectors
+conditions,EconomicOperands
+emergency,EconomicOperands
+continue,EconomicOperands
+In addition to,LogicalConnectors
+was,FunctionWords
+Modification,EconomicOperands
+consistent,Attributes
+section 805a,LegalReferences
+submits,EconomicOperands
+Examination,EconomicOperands
+enforcement,EconomicOperands
+against,FunctionWords
+Notwithstanding,LogicalConnectors
+law,EconomicOperands
+subsection d,LegalReferences
+examinations,EconomicOperands
+at least,LogicalConnectors
+once,FunctionWords
+in order to,LogicalConnectors
+operational risks,EconomicOperands
+capabilities,EconomicOperands
+monitor,EconomicOperands
+control,EconomicOperands
+Service providers,EconomicOperands
+Whenever,FunctionWords
+service,EconomicOperands
+operation,EconomicOperands
+another,FunctionWords
+affiliate,EconomicOperands
+off,FunctionWords
+examine,EconomicOperands
+were,FunctionWords
+Enforcement,EconomicOperands
+enforcing,RegulatoryOperators
+subsections b through n,LegalReferences
+section 8,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1818,LegalReferences
+insured depository institution,EconomicOperands
+involvement,EconomicOperands
+examination,EconomicOperands
+methodology,EconomicOperands
+subsections a and b,LegalReferences
+all,FunctionWords
+recommendations,EconomicOperands
+Recommendation,EconomicOperands
+recommend,EconomicOperands
+recommendation,EconomicOperands
+paragraph 3,LegalReferences
+referenced,LegalReferences
+subsection c,LegalReferences
+reasonable,Attributes
+cause,EconomicOperands
+to conclude,LogicalConnectors
+section 806e,LegalReferences
+poses,EconomicOperands
+subsection e,LegalReferences
+paragraph 1,LegalReferences
+other financial institutions,EconomicOperands
+available,EconomicOperands
+paragraphs 2 and 3,LegalReferences
+appropriate financial regulators,EconomicOperands
+Delegation,EconomicOperands
+Request,EconomicOperands
+written request,EconomicOperands
+enforce,RegulatoryOperators
+if so,LogicalConnectors
+Back-up,EconomicOperands
+Limitations,EconomicOperands
+paragraph 1A,LegalReferences
+only if,LogicalConnectors
+clause i,LegalReferences
+Boards,EconomicOperands
+clause ii,LegalReferences
+obtained,EconomicOperands
+paragraph 1B,LegalReferences
+Requests for information,EconomicOperands
+reports,EconomicOperands
+records,EconomicOperands
+Information,EconomicOperands
+To,FunctionWords
+Financial institutions,EconomicOperands
+Reporting,EconomicOperands
+frequency,EconomicOperands
+deemed,RegulatoryOperators
+appropriately,Attributes
+requirement,EconomicOperands
+section 805a2,LegalReferences
+Coordination,EconomicOperands
+supervisory agency,EconomicOperands
+coordination,EconomicOperands
+coordinate,EconomicOperands
+detail,EconomicOperands
+Supervisory,EconomicOperands
+each other,FunctionWords
+report,EconomicOperands
+subsection c1,LegalReferences
+reporting requirements,EconomicOperands
+directly,Attributes
+persons,EconomicOperands
+concerns,EconomicOperands
+promptly,Attributes
+about,FunctionWords
+relating to,FunctionWords
+Other,FunctionWords
+supervisory,EconomicOperands
+Reserve Banks,EconomicOperands
+State,EconomicOperands
+supervisory agencies,EconomicOperands
+foreign,EconomicOperands
+supervisors,EconomicOperands
+central banks,EconomicOperands
+finance,EconomicOperands
+confidentiality,EconomicOperands
+however,LogicalConnectors
+other than,FunctionWords
+this paragraph,LegalReferences
+without,FunctionWords
+the Commodity Exchange Act 7 USC 12,LegalReferences
+Privilege,EconomicOperands
+privilege,EconomicOperands
+thereof,FunctionWords
+used,EconomicOperands
+Disclosure,EconomicOperands
+exemption,RegulatoryOperators
+assessment,EconomicOperands
+disclosure,EconomicOperands
+section 552,LegalReferences
+title 5,LegalReferences
+subsection b3,LegalReferences
+issue,EconomicOperands
+carry out,EconomicOperands
+evasions,EconomicOperands
+except,FunctionWords
+section 805,LegalReferences
+less,FunctionWords
+conflict,EconomicOperands
+prior,EconomicOperands
+exercising,EconomicOperands
+sections,LegalReferences
+amended,Other
+amendment,Other
+section 745b3,LegalReferences
+section 728,LegalReferences
+SEC,EconomicOperands
+section 19b2,LegalReferences
+section 13n,LegalReferences
+section 763i,LegalReferences
+framework,EconomicOperands
+Not later,LogicalConnectors
+year,EconomicOperands
+enactment,Other
+joint,EconomicOperands
+Committee on Banking Housing and Urban Affairs,EconomicOperands
+Committee,EconomicOperands
+Senate,EconomicOperands
+Committee on Financial Services,EconomicOperands
+House of Representatives,EconomicOperands
+oversight,EconomicOperands
+regulators,EconomicOperands
+potential,EconomicOperands
+Effective date,EconomicOperands
+as of,FunctionWords
+contents,Other
+This Act,LegalReferences
+Dodd-Frank Wall Street Reform and Consumer Protection Act,LegalReferences
+2,FunctionWords
+requires,RegulatoryOperators
+specifically,LogicalConnectors
+Affiliate,EconomicOperands
+meaning,Other
+Appropriate Federal banking agency,EconomicOperands
+On,FunctionWords
+transfer date,EconomicOperands
+12 USC 1813q,LegalReferences
+title III,LegalReferences
+Board of governors,EconomicOperands
+System,EconomicOperands
+Bureau,EconomicOperands
+Consumer,EconomicOperands
+title X,LegalReferences
+Commodity,EconomicOperands
+swap dealer,EconomicOperands
+swap execution facility,EconomicOperands
+board of trade,EconomicOperands
+commodity pool,EconomicOperands
+meanings,Other
+given,FunctionWords
+Corporation,EconomicOperands
+Federal Deposit Insurance Corporation,EconomicOperands
+title I,LegalReferences
+Credit union,EconomicOperands
+Federal credit union,EconomicOperands
+Federal banking agency,EconomicOperands
+Office of the Comptroller of the Currency,EconomicOperands
+Federal banking agencies,EconomicOperands
+referred to,FunctionWords
+Functionally regulated subsidiary,EconomicOperands
+functionally regulated subsidiary,EconomicOperands
+section 5c5,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1844c5,LegalReferences
+Primary financial regulatory agency,EconomicOperands
+Act,LegalReferences
+investment,EconomicOperands
+nationally recognized statistical rating organization,EconomicOperands
+association,EconomicOperands
+Securities,EconomicOperands
+Board,EconomicOperands
+Public,EconomicOperands
+Company,EconomicOperands
+Oversight,EconomicOperands
+the Sarbanes-Oxley Act of 2002 15 USC 7211 et seq,LegalReferences
+Investor Protection,EconomicOperands
+the Securities Investor Protection Act of 1970 15 USC 78aaa et seq,LegalReferences
+security-based swap execution facility,EconomicOperands
+security-based swap data repository,EconomicOperands
+security-based swap dealer,EconomicOperands
+major security-based swap participant,EconomicOperands
+in that,LogicalConnectors
+commodity trading adviser,EconomicOperands
+retail,EconomicOperands
+swap data repository,EconomicOperands
+major swap participant,EconomicOperands
+insurance,EconomicOperands
+Housing,EconomicOperands
+Finance,EconomicOperands
+Agency,EconomicOperands
+Home,EconomicOperands
+Loan,EconomicOperands
+Banks,EconomicOperands
+Federal National Mortgage Association,EconomicOperands
+Federal Home Loan Mortgage Corporation,EconomicOperands
+Prudential standards,EconomicOperands
+prudential standards,EconomicOperands
+regulatory,EconomicOperands
+section 165,LegalReferences
+issuer,EconomicOperands
+securities laws,EconomicOperands
+Transfer date,EconomicOperands
+section 311,LegalReferences
+incorporated,EconomicOperands
+Deposit insurance act,LegalReferences
+Federal depository institution,EconomicOperands
+Federal savings association,EconomicOperands
+insured branch,EconomicOperands
+national member bank,EconomicOperands
+national nonmember bank,EconomicOperands
+savings association,EconomicOperands
+State bank,EconomicOperands
+State depository institution,EconomicOperands
+State member bank,EconomicOperands
+State nonmember bank,EconomicOperands
+State savings association,EconomicOperands
+subsidiary,EconomicOperands
+Holding Companies,EconomicOperands
+the Bank Holding Company Act of 1956 12 USC 1841,LegalReferences
+financial holding company,EconomicOperands
+section 2p,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841p,LegalReferences
+savings and loan holding company,EconomicOperands
+section 10,LegalReferences
+Home Owners Loan Act,LegalReferences
+made,FunctionWords
+application,EconomicOperands
+held,EconomicOperands
+the remainder of,FunctionWords
+amendments,Other
+4,FunctionWords
+take effect,RegulatoryOperators
+Effects,EconomicOperands
+Committees,EconomicOperands
+Antitrust,EconomicOperands
+savings,FunctionWords
+antitrust laws,EconomicOperands
+the Clayton Act,LegalReferences
+section 5,LegalReferences
+the Federal Trade Commission Act,LegalReferences
+methods,EconomicOperands
+competition,EconomicOperands
+access,EconomicOperands
+Financial Institutions Act of 2010,LegalReferences
+financial products,EconomicOperands
+who,FunctionWords
+Account,EconomicOperands
+eligible entity,EconomicOperands
+obtains,EconomicOperands
+products,EconomicOperands
+loan,EconomicOperands
+Community development financial institution,EconomicOperands
+community development financial institution,EconomicOperands
+Community,EconomicOperands
+Development,EconomicOperands
+Banking,EconomicOperands
+Financial Institutions Act of 1994 12 USC 47025,LegalReferences
+Eligible entity,EconomicOperands
+section 501c3,LegalReferences
+tax,EconomicOperands
+section 501a,LegalReferences
+federally insured depository institution,EconomicOperands
+local,EconomicOperands
+government,EconomicOperands
+partnership,EconomicOperands
+subparagraphs A through D,LegalReferences
+Federally insured depository institution,EconomicOperands
+one,FunctionWords
+needs,EconomicOperands
+restrict,RegulatoryOperators
+Subject to,LogicalConnectors
+several,FunctionWords
+loans,EconomicOperands
+consumers,EconomicOperands
+Loans,EconomicOperands
+lending,EconomicOperands
+practices,EconomicOperands
+Financial literacy,EconomicOperands
+opportunities,EconomicOperands
+financial literacy,EconomicOperands
+consumer,EconomicOperands
+As,FunctionWords
+measures,EconomicOperands
+obtain,EconomicOperands
+Financial Institutions Act of 1994 12 USC 4701 et seq,LegalReferences
+adding,Other
+end,Other
+Purposes,EconomicOperands
+make,FunctionWords
+Fund,EconomicOperands
+community development financial institutions,EconomicOperands
+costs of,EconomicOperands
+small dollar loan programs,EconomicOperands
+amounts,EconomicOperands
+loss,EconomicOperands
+some,FunctionWords
+losses,EconomicOperands
+cost,EconomicOperands
+fund,EconomicOperands
+small dollar loan program,EconomicOperands
+amount,EconomicOperands
+percent,Attributes
+Use,EconomicOperands
+direct,Attributes
+used to,FunctionWords
+technology,EconomicOperands
+costs,EconomicOperands
+consumer reporting agency that compiles and maintains files on consumers on a nationwide basis,EconomicOperands
+section 603p,LegalReferences
+the Fair Credit Reporting Act,LegalReferences
+There,FunctionWords
+remain,EconomicOperands
+until,FunctionWords
+Regulations,EconomicOperands
+promulgate,EconomicOperands
+Regulatory,EconomicOperands
+classifications,EconomicOperands
+adjustments,EconomicOperands
+exceptions,RegulatoryOperators
+evasion,EconomicOperands
+results,EconomicOperands
+Insurance,EconomicOperands
+Federal Insurance Office,EconomicOperands
+Insurance Office Act of 2010,LegalReferences
+office,EconomicOperands
+I,FunctionWords
+subtitle I,LegalReferences
+title 31,LegalReferences
+redesignating,Other
+section 312,LegalReferences
+section 315,LegalReferences
+section 313,LegalReferences
+inserting,Other
+redesignated,Other
+Office,EconomicOperands
+Director,EconomicOperands
+Senior,EconomicOperands
+Service,EconomicOperands
+section 3132,LegalReferences
+Functions,EconomicOperands
+gaps,EconomicOperands
+regulation of,EconomicOperands
+insurers,EconomicOperands
+crisis,EconomicOperands
+underserved communities,EconomicOperands
+section 1204c,LegalReferences
+Financial Institutions,EconomicOperands
+Reform,EconomicOperands
+affordable,EconomicOperands
+health,EconomicOperands
+insurer,EconomicOperands
+affiliates,EconomicOperands
+regulation,EconomicOperands
+nonbank financial company supervised by the Board of Governors,EconomicOperands
+the Terrorism Risk Insurance Act of 2002,LegalReferences
+policy,EconomicOperands
+International Association of Insurance Supervisors,EconomicOperands
+covered agreements,EconomicOperands
+subsection r,LegalReferences
+subsection f,LegalReferences
+State insurance measures,EconomicOperands
+States,EconomicOperands
+State insurance regulators,EconomicOperands
+importance,EconomicOperands
+perform,EconomicOperands
+domestic,EconomicOperands
+policy issues,EconomicOperands
+capacity,EconomicOperands
+the Financial Stability Act of 2010,LegalReferences
+Health,EconomicOperands
+Human,EconomicOperands
+Services,EconomicOperands
+based on,Other
+section 2791,LegalReferences
+the Public Health Service Act,LegalReferences
+the Federal Crop Insurance Act 7 USC 1501 et seq,LegalReferences
+collect,EconomicOperands
+information-sharing,EconomicOperands
+Rule of construction,Other
+Exception,RegulatoryOperators
+Paragraph 2,LegalReferences
+size,EconomicOperands
+State insurance regulator,EconomicOperands
+publicly,EconomicOperands
+sources,EconomicOperands
+regulator,EconomicOperands
+source,EconomicOperands
+complies with,RegulatoryOperators
+title 44,LegalReferences
+the Paperwork Reduction Act,LegalReferences
+Confidentiality,EconomicOperands
+court,EconomicOperands
+Information-sharing,EconomicOperands
+comply,RegulatoryOperators
+Section 552,LegalReferences
+power,EconomicOperands
+paragraph 4,LegalReferences
+served,EconomicOperands
+In the case of,LogicalConnectors
+Standard,EconomicOperands
+State insurance measure,EconomicOperands
+section 314,LegalReferences
+measure,EconomicOperands
+treatment,EconomicOperands
+non-United States insurer,EconomicOperands
+covered agreement,EconomicOperands
+United States insurer,EconomicOperands
+interested parties,EconomicOperands
+as a result of,LogicalConnectors
+reinsurance,EconomicOperands
+substantially equivalent to the level of protection achieved,EconomicOperands
+Financial Services,EconomicOperands
+Means,Other
+Urban Affairs,EconomicOperands
+and Finance,EconomicOperands
+effectiveness,EconomicOperands
+still,LogicalConnectors
+as well as,LogicalConnectors
+effective date,EconomicOperands
+No,FunctionWords
+Administrative Procedures Act,LegalReferences
+subsection f2,LegalReferences
+Savings,FunctionWords
+Nothing,FunctionWords
+rates,EconomicOperands
+premiums,EconomicOperands
+underwriting,EconomicOperands
+sales,EconomicOperands
+coverage,EconomicOperands
+business of insurance,EconomicOperands
+solvency,EconomicOperands
+limit,EconomicOperands
+the Consumer Financial Protection Agency Act of 2010,LegalReferences
+general,FunctionWords
+Federal financial regulatory agency,EconomicOperands
+foreign governments,EconomicOperands
+committees,EconomicOperands
+uniformity,EconomicOperands
+section 141,LegalReferences
+the Trade Act of 1974 19 USC 2171,LegalReferences
+development,EconomicOperands
+Annual,Attributes
+congress,EconomicOperands
+Section 313,LegalReferences
+calendar year,EconomicOperands
+Reports,EconomicOperands
+impact,EconomicOperands
+part II,LegalReferences
+Reinsurance Reform Act of 2010,LegalReferences
+regulated,RegulatoryOperators
+companies,EconomicOperands
+jurisdictions,EconomicOperands
+Study,EconomicOperands
+18 months,Attributes
+study,EconomicOperands
+insurance regulation,EconomicOperands
+Systemic risk,EconomicOperands
+Capital standards,EconomicOperands
+allocation,EconomicOperands
+liabilities,EconomicOperands
+Consumer protection,EconomicOperands
+consolidated,EconomicOperands
+International,EconomicOperands
+benefits,EconomicOperands
+across,FunctionWords
+various,FunctionWords
+while,LogicalConnectors
+eliminate,EconomicOperands
+regulatory arbitrage,EconomicOperands
+developments,EconomicOperands
+might,FunctionWords
+consumer protection,EconomicOperands
+potential consequences,EconomicOperands
+subjecting,RegulatoryOperators
+resolution,EconomicOperands
+claims,EconomicOperands
+creditor,EconomicOperands
+assets,EconomicOperands
+competitiveness,EconomicOperands
+Such,FunctionWords
+Required,RegulatoryOperators
+With respect to,LogicalConnectors
+controls,EconomicOperands
+Covered agreement,EconomicOperands
+achieves,EconomicOperands
+Insurer,EconomicOperands
+Supervision,EconomicOperands
+Non-United States insurer,EconomicOperands
+organized,EconomicOperands
+practice,EconomicOperands
+responsible for,EconomicOperands
+Substantially equivalent to the level of protection achieved,EconomicOperands
+foreign government,EconomicOperands
+outcome,EconomicOperands
+Covered agreements,EconomicOperands
+Requirements,EconomicOperands
+what,FunctionWords
+subsection b1,LegalReferences
+Section 321a,LegalReferences
+paragraph 7,LegalReferences
+striking,Other
+,Attributes
+semicolon,Other
+this subtitle,LegalReferences
+period beginning,EconomicOperands
+Nonadmitted insurance,EconomicOperands
+Home States,EconomicOperands
+home State,EconomicOperands
+premium tax,EconomicOperands
+nonadmitted insurance,EconomicOperands
+Allocation,EconomicOperands
+begins,EconomicOperands
+Report,EconomicOperands
+NAIC,EconomicOperands
+interstate,EconomicOperands
+surplus lines brokers,EconomicOperands
+independently procured insurance,EconomicOperands
+exposures,EconomicOperands
+located,EconomicOperands
+filing,Other
+Regulation of,EconomicOperands
+Home State,EconomicOperands
+Broker,EconomicOperands
+licensing,EconomicOperands
+surplus lines broker,EconomicOperands
+sell,EconomicOperands
+section 521,LegalReferences
+whose,FunctionWords
+compensation,EconomicOperands
+This section,LegalReferences
+restricts,RegulatoryOperators
+nonadmitted insurer,EconomicOperands
+fees,EconomicOperands
+criteria,EconomicOperands
+nonadmitted insurers,EconomicOperands
+Non-Admitted Insurance Model Act,EconomicOperands
+section 521b,LegalReferences
+outside,FunctionWords
+Insurers,EconomicOperands
+commercial,EconomicOperands
+purchasers,EconomicOperands
+exempt commercial purchaser,EconomicOperands
+can,FunctionWords
+admitted insurers,EconomicOperands
+greater,LogicalConnectors
+regulatory oversight,EconomicOperands
+subsequently,LogicalConnectors
+Comptroller General of the United States,EconomicOperands
+the number of,FunctionWords
+holding companies,EconomicOperands
+business,EconomicOperands
+price,EconomicOperands
+availability,EconomicOperands
+there,FunctionWords
+Comptroller General,EconomicOperands
+Admitted insurer,EconomicOperands
+admitted insurer,EconomicOperands
+engage,EconomicOperands
+Affiliated group,EconomicOperands
+affiliated group,EconomicOperands
+Control,EconomicOperands
+An,FunctionWords
+indirectly,Attributes
+25 percent,Attributes
+directors,EconomicOperands
+Exempt commercial purchaser,EconomicOperands
+qualified risk manager,EconomicOperands
+property,EconomicOperands
+immediately,Attributes
+annual,Attributes
+revenues,EconomicOperands
+employees,EconomicOperands
+per,FunctionWords
+member,EconomicOperands
+subclauses,LegalReferences
+Price,EconomicOperands
+Index,EconomicOperands
+for All,FunctionWords
+Consumers,EconomicOperands
+Statistics,EconomicOperands
+principal,EconomicOperands
+out of,FunctionWords
+Affiliated groups,EconomicOperands
+Independently procured insurance,EconomicOperands
+Association,EconomicOperands
+permitted,RegulatoryOperators
+Non-admitted insurance model act,EconomicOperands
+Nonadmitted insurer,EconomicOperands
+section 2a4,LegalReferences
+the Liability Risk Retention Act of 1986 15 USC 3901a4,LegalReferences
+Premium tax,EconomicOperands
+fee,EconomicOperands
+charge,EconomicOperands
+deposits,EconomicOperands
+assessments,EconomicOperands
+registration,EconomicOperands
+Qualified risk manager,EconomicOperands
+employee,EconomicOperands
+provides,EconomicOperands
+purchase,EconomicOperands
+years,EconomicOperands
+Chartered,EconomicOperands
+Property,EconomicOperands
+Underwriter,EconomicOperands
+Risk Management,EconomicOperands
+ARM,EconomicOperands
+Risk,EconomicOperands
+Manager,EconomicOperands
+CRM,EconomicOperands
+Research,EconomicOperands
+competency,EconomicOperands
+Reinsurance,EconomicOperands
+Surplus lines broker,EconomicOperands
+corporation,EconomicOperands
+Credit,EconomicOperands
+State of domicile,EconomicOperands
+ceding insurer,EconomicOperands
+similar to,FunctionWords
+domiciliary State,EconomicOperands
+they,FunctionWords
+rights,EconomicOperands
+title 9,LegalReferences
+ceding insurers,EconomicOperands
+reinsurer,EconomicOperands
+Domiciliary state,EconomicOperands
+states,EconomicOperands
+Ceding insurer,EconomicOperands
+purchases,EconomicOperands
+Domiciliary State,EconomicOperands
+Reinsurer,EconomicOperands
+principally,EconomicOperands
+subsection,LegalReferences
+Pay It Back Act,LegalReferences
+Amendment,Other
+TARP,EconomicOperands
+the Emergency Economic Stabilization Act of 2008 12 USC 5225a,LegalReferences
+the Pay It Back Act,LegalReferences
+became,EconomicOperands
+obligation,EconomicOperands
+the Emergency Economic Stabilization Act of 2008 12 USC 5216,LegalReferences
+every,FunctionWords
+6 months,Attributes
+Amendments,Other
+Economic Recovery Act of 2008,LegalReferences
+Sale,EconomicOperands
+Fannie Mae,EconomicOperands
+obligations,EconomicOperands
+Section 304g2,LegalReferences
+the Federal National Mortgage Association Charter Act 12 USC 1719g2,LegalReferences
+subparagraph C,LegalReferences
+General,FunctionWords
+acquired,EconomicOperands
+prohibited,EconomicOperands
+increases,EconomicOperands
+Section 306l2,LegalReferences
+the Federal Home Loan Mortgage Corporation Act 12 USC 1455l2,LegalReferences
+Section 11l2,LegalReferences
+the Federal Home Loan Bank Act 12 USC 1431l2,LegalReferences
+periodic,Attributes
+commitment,EconomicOperands
+stock,EconomicOperands
+mortgage-backed security,EconomicOperands
+section 1117,LegalReferences
+Law,EconomicOperands
+housing,EconomicOperands
+Section 1607,LegalReferences
+Withdrawal,EconomicOperands
+Title XVI,LegalReferences
+withdraws,EconomicOperands
+Section 1603,LegalReferences
+interest,EconomicOperands
+Investor protections,EconomicOperands
+improvements,EconomicOperands
+Securities Reform Act of 2010,LegalReferences
+investor protection,EconomicOperands
+Investor,EconomicOperands
+strategies,EconomicOperands
+fee structures,EconomicOperands
+investor,EconomicOperands
+confidence,EconomicOperands
+integrity,EconomicOperands
+commissions,EconomicOperands
+interests,EconomicOperands
+senior,EconomicOperands
+represent,EconomicOperands
+equity,EconomicOperands
+debt,EconomicOperands
+investors,EconomicOperands
+mutual funds,EconomicOperands
+reputations,EconomicOperands
+Term,Other
+Members,EconomicOperands
+agents,EconomicOperands
+because of,LogicalConnectors
+Chairman,EconomicOperands
+chairman,EconomicOperands
+secretary,EconomicOperands
+Frequency of,EconomicOperands
+Compensation,EconomicOperands
+expenses,EconomicOperands
+exceed,EconomicOperands
+section 5316,LegalReferences
+performance,EconomicOperands
+away from,FunctionWords
+home,EconomicOperands
+Government,EconomicOperands
+section 5703b,LegalReferences
+Advisory Committee Act,LegalReferences
+The Federal Advisory Committee Act 5 USC App,LegalReferences
+testing,EconomicOperands
+the Securities Act of 1933 15 USC 77s,LegalReferences
+For the purpose of,LogicalConnectors
+considering,LogicalConnectors
+engaging,EconomicOperands
+the Paperwork Reduction Act 44 USC 3501 et seq,LegalReferences
+brokers,EconomicOperands
+dealers,EconomicOperands
+investment advisers,EconomicOperands
+Definition,EconomicOperands
+retail customer,EconomicOperands
+advice,EconomicOperands
+uses,EconomicOperands
+evaluate,RegulatoryOperators
+retail customers,EconomicOperands
+frequency of,EconomicOperands
+standard,EconomicOperands
+courts,EconomicOperands
+definition,EconomicOperands
+result,EconomicOperands
+relationships,EconomicOperands
+fraud,EconomicOperands
+profitability,EconomicOperands
+duty of care,EconomicOperands
+Content,Other
+commence,EconomicOperands
+customers,EconomicOperands
+Establish,RegulatoryOperators
+Fiduciary,EconomicOperands
+Brokers,EconomicOperands
+Dealers,EconomicOperands
+Securities Exchange Act of 1934,EconomicOperands
+Section 15,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78o,LegalReferences
+Conduct,EconomicOperands
+customer,EconomicOperands
+section 211,LegalReferences
+itself,FunctionWords
+violation,EconomicOperands
+Where,FunctionWords
+sells,EconomicOperands
+disclosures,EconomicOperands
+conflicts of interest,EconomicOperands
+Investment advisers Act of 1940,LegalReferences
+Section 211,LegalReferences
+subsections,LegalReferences
+for all,FunctionWords
+In accordance with,LogicalConnectors
+private fund,EconomicOperands
+managed,EconomicOperands
+Retail customer,EconomicOperands
+Harmonization,EconomicOperands
+Securities exchange act of 1934,EconomicOperands
+subsection g1,LegalReferences
+violations,EconomicOperands
+sanctions,EconomicOperands
+sanction,EconomicOperands
+Investment advisers act of 1940,LegalReferences
+subsection g2,LegalReferences
+need,EconomicOperands
+having,FunctionWords
+self-regulatory organizations,EconomicOperands
+Commissions,EconomicOperands
+broker-dealers,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78d,LegalReferences
+In General,FunctionWords
+perspective,EconomicOperands
+ceases,EconomicOperands
+independent,EconomicOperands
+research,EconomicOperands
+powers,EconomicOperands
+Functions of,EconomicOperands
+benefit,EconomicOperands
+service providers,EconomicOperands
+self-regulatory organization,EconomicOperands
+most,FunctionWords
+subclause III,LegalReferences
+reasons for,EconomicOperands
+Independence,EconomicOperands
+Management,EconomicOperands
+formal,EconomicOperands
+Filing,Other
+Section 19b,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78sb,LegalReferences
+Approval,RegulatoryOperators
+process,EconomicOperands
+approve,RegulatoryOperators
+disapprove,RegulatoryOperators
+Order,EconomicOperands
+subclause II,LegalReferences
+clause I,LegalReferences
+Time,EconomicOperands
+Result,EconomicOperands
+begin,EconomicOperands
+together with,LogicalConnectors
+filing date,EconomicOperands
+inform,EconomicOperands
+Section 19b1,LegalReferences
+Section 19b3,LegalReferences
+second,LogicalConnectors
+sentence,Other
+read,Other
+At,FunctionWords
+takes,FunctionWords
+paragraph 2B,LegalReferences
+Section,LegalReferences
+subclause I,LegalReferences
+content,Other
+intermediaries,EconomicOperands
+investment services,EconomicOperands
+need to,FunctionWords
+product,EconomicOperands
+shares,EconomicOperands
+transparency,EconomicOperands
+and conflicts of interests,EconomicOperands
+private,EconomicOperands
+Financial Literacy,EconomicOperands
+strategy,EconomicOperands
+goals,EconomicOperands
+2 years,Attributes
+past,FunctionWords
+investor protections,EconomicOperands
+Disclosures,EconomicOperands
+efficiency,EconomicOperands
+formation,EconomicOperands
+and risks,EconomicOperands
+incentive,EconomicOperands
+conflicts,EconomicOperands
+Settlements,EconomicOperands
+securities markets,EconomicOperands
+Regulation,EconomicOperands
+previously,LogicalConnectors
+Registration,EconomicOperands
+Investment Adviser,EconomicOperands
+advantages and disadvantages,EconomicOperands
+method,EconomicOperands
+themselves,FunctionWords
+titles,LegalReferences
+role of,EconomicOperands
+and risk management,EconomicOperands
+professional standards,EconomicOperands
+professional,EconomicOperands
+Recommendations,EconomicOperands
+section 914,LegalReferences
+describes,Other
+evaluates,RegulatoryOperators
+paragraph 6,LegalReferences
+them,FunctionWords
+prohibition,RegulatoryOperators
+Investment Advisers Act of 1940,LegalReferences
+Section 205,LegalReferences
+Whistleblower,EconomicOperands
+The Securities Exchange Act of 1934 15 USC 78a et seq,LegalReferences
+whistleblower,EconomicOperands
+incentives,EconomicOperands
+Covered judicial or administrative action,EconomicOperands
+covered judicial or administrative action,EconomicOperands
+monetary sanctions,EconomicOperands
+Original information,EconomicOperands
+original information,EconomicOperands
+news,EconomicOperands
+Monetary sanctions,EconomicOperands
+section 308b,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7246b,LegalReferences
+Related action,EconomicOperands
+related action,EconomicOperands
+subclauses I through IV,LegalReferences
+whistleblowers,EconomicOperands
+10 percent,Attributes
+total,Attributes
+related actions,EconomicOperands
+Discretion,EconomicOperands
+Criteria,EconomicOperands
+gains,EconomicOperands
+financial statements,EconomicOperands
+whom,FunctionWords
+section 10A,LegalReferences
+Permitted,RegulatoryOperators
+makes,FunctionWords
+claim,EconomicOperands
+Prior,EconomicOperands
+section 706,LegalReferences
+limitation,EconomicOperands
+funding,EconomicOperands
+section 4i,LegalReferences
+Deposits,EconomicOperands
+credits,EconomicOperands
+section 308,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7246,LegalReferences
+exceeds,EconomicOperands
+investments,EconomicOperands
+Investments,EconomicOperands
+Amounts,EconomicOperands
+Interest,EconomicOperands
+types,EconomicOperands
+audited financial statements,EconomicOperands
+Prohibition,RegulatoryOperators
+the Sarbanes-Oxley Act of 2002 15 USC 7201 et seq,LegalReferences
+section 1513e,LegalReferences
+title 18,LegalReferences
+Cause,EconomicOperands
+6 years,Attributes
+right,EconomicOperands
+times,EconomicOperands
+subparagraphs B and C,LegalReferences
+Availability,EconomicOperands
+Without,FunctionWords
+foreign law enforcement authority,EconomicOperands
+subclauses I through VI,LegalReferences
+Foreign,EconomicOperands
+subclauses VII and VIII,LegalReferences
+Rights,EconomicOperands
+Provision,EconomicOperands
+nationally recognized statistical rating organizations,EconomicOperands
+section 3a,LegalReferences
+Private,EconomicOperands
+and regulation,EconomicOperands
+responding,EconomicOperands
+applications,EconomicOperands
+mechanism,EconomicOperands
+committee,EconomicOperands
+section 552b3,LegalReferences
+Securities Act of 1933,EconomicOperands
+Section 20d3A,LegalReferences
+the Securities Act of 1933,LegalReferences
+the Sarbanes-Oxley Act of 2002,LegalReferences
+Investment Company Act of 1940,LegalReferences
+Section 42e3A,LegalReferences
+Section 209e3A,LegalReferences
+Securities Exchange Act,LegalReferences
+Section 21,LegalReferences
+subsection d1,LegalReferences
+subsections f and g,LegalReferences
+transition,EconomicOperands
+Implementing,RegulatoryOperators
+implementing,RegulatoryOperators
+because,LogicalConnectors
+regardless of,LogicalConnectors
+section 922a,LegalReferences
+bars,FunctionWords
+Section 15b6A,LegalReferences
+bar,FunctionWords
+municipal advisor,EconomicOperands
+Section 203f,LegalReferences
+title 17,LegalReferences
+like,LogicalConnectors
+supervises,RegulatoryOperators
+examines,EconomicOperands
+banks,EconomicOperands
+savings associations,EconomicOperands
+credit unions,EconomicOperands
+section 205,LegalReferences
+section 203b,LegalReferences
+subsidiaries,EconomicOperands
+publicly traded,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78od,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7246a,LegalReferences
+the Securities Investor Protection Act of 1970,LegalReferences
+Section 22a,LegalReferences
+the Securities Act of 1933 15 USC 77va,LegalReferences
+Rule,EconomicOperands
+Rules of,EconomicOperands
+Section 27,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78aa,LegalReferences
+Section 44,LegalReferences
+Section 214,LegalReferences
+Member,EconomicOperands
+board,EconomicOperands
+Person,EconomicOperands
+Section 21a1,LegalReferences
+director,EconomicOperands
+Section 19h4,LegalReferences
+Section 36a,LegalReferences
+acts,LegalReferences
+Section 2a9,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 72019,LegalReferences
+sections 3c,LegalReferences
+rules of the Board,EconomicOperands
+excepted,RegulatoryOperators
+section 105b,LegalReferences
+section 105c1,LegalReferences
+section 105c4,LegalReferences
+section 105b3,LegalReferences
+demand,EconomicOperands
+Section 105c6,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7215c6,LegalReferences
+supervise,RegulatoryOperators
+Section 107d3,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7217d3,LegalReferences
+Section 3114,LegalReferences
+follows,FunctionWords
+positions,EconomicOperands
+market structures,EconomicOperands
+information technology,EconomicOperands
+section 3114,LegalReferences
+Pay,EconomicOperands
+section 3109,LegalReferences
+SIPC,EconomicOperands
+Reforms,EconomicOperands
+Section 9,LegalReferences
+subsection a1,LegalReferences
+standard maximum cash advance amount,EconomicOperands
+Standard maximum cash advance amount,EconomicOperands
+adjustment,EconomicOperands
+section 3e2,LegalReferences
+Directors,EconomicOperands
+index,EconomicOperands
+calendar year preceding,EconomicOperands
+values,EconomicOperands
+down,FunctionWords
+overall,LogicalConnectors
+state,EconomicOperands
+broker-dealer,EconomicOperands
+Section 5a3,LegalReferences
+comma,Other
+section 21e,LegalReferences
+advances,EconomicOperands
+section 9,LegalReferences
+insolvency,EconomicOperands
+bankruptcy,EconomicOperands
+title II,LegalReferences
+Section 24,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78x,LegalReferences
+Records,EconomicOperands
+section 17b,LegalReferences
+Treatment,EconomicOperands
+section 17,LegalReferences
+section 3518c1,LegalReferences
+Section 31,LegalReferences
+the Investment Company Act of 1940 15 USC 80a-30,LegalReferences
+section 31,LegalReferences
+subsections d and e,LegalReferences
+Section 210,LegalReferences
+the Investment Advisers Act of 1940 15 USC 80b-10,LegalReferences
+section 204,LegalReferences
+Expansion,EconomicOperands
+the Sarbanes-Oxley Act of 2002 15 USC 7216,LegalReferences
+performs,EconomicOperands
+audit report,EconomicOperands
+conducts,EconomicOperands
+subsection g,LegalReferences
+Sanctions,EconomicOperands
+section 6,LegalReferences
+State securities or law enforcement authority,EconomicOperands
+Securities Exchange Act of 1934 15 USC 78a et seq,LegalReferences
+facility,EconomicOperands
+section 10a1,LegalReferences
+section 15c1A,LegalReferences
+the Securities Act,LegalReferences
+the Investment Company Act,LegalReferences
+Under,FunctionWords
+the securities act of 1933,LegalReferences
+the Securities Act of 1933 15 USC 77o,LegalReferences
+Every,FunctionWords
+Controlling,EconomicOperands
+subparagraph b,LegalReferences
+section 20,LegalReferences
+Section 48,LegalReferences
+subsection d or e,LegalReferences
+section 42,LegalReferences
+the Investment Advisers Act,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78te,LegalReferences
+cease,EconomicOperands
+First,LogicalConnectors
+Second,LogicalConnectors
+reckless,EconomicOperands
+subparagraphs A and B,LegalReferences
+gain,EconomicOperands
+Evidence,EconomicOperands
+concerning,LogicalConnectors
+third parties,EconomicOperands
+paragraphs 1 through 4,LegalReferences
+margins,EconomicOperands
+accordingly,LogicalConnectors
+Section 9d1,LegalReferences
+subparagraphs A through C,LegalReferences
+clauses i through iii,LegalReferences
+Section 203i1,LegalReferences
+clauses i through iv,LegalReferences
+subsection k,LegalReferences
+Section 22,LegalReferences
+section 17a,LegalReferences
+even if,LogicalConnectors
+involves,EconomicOperands
+section 206,LegalReferences
+Section 20a,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78ta,LegalReferences
+paragraph 1 or 3,LegalReferences
+section 21d,LegalReferences
+Certain,FunctionWords
+section 212c2,LegalReferences
+Section 204,LegalReferences
+ownership,EconomicOperands
+profit,EconomicOperands
+Section 13,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78m,LegalReferences
+acquisition,EconomicOperands
+subsection d2,LegalReferences
+Section 16a,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78pa,LegalReferences
+inspections,EconomicOperands
+Wells,Attributes
+intent,EconomicOperands
+Exceptions,RegulatoryOperators
+inspection,EconomicOperands
+whichever,FunctionWords
+his,FunctionWords
+Security,EconomicOperands
+Investor Protection Act,LegalReferences
+gross revenues,EconomicOperands
+Section 14c,LegalReferences
+Section 14,LegalReferences
+the Securities Investor Protection Act of 1970 15 USC 78jjj,LegalReferences
+represents,EconomicOperands
+Internet,EconomicOperands
+throughout,FunctionWords
+granting,LogicalConnectors
+dividends,EconomicOperands
+paying agent,EconomicOperands
+check,EconomicOperands
+yet,LogicalConnectors
+along,FunctionWords
+paying agents,EconomicOperands
+next,LogicalConnectors
+custodian,EconomicOperands
+accepts,EconomicOperands
+disruptions,EconomicOperands
+avoid,EconomicOperands
+reforms,EconomicOperands
+Section 13f,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78mf,LegalReferences
+paragraphs,LegalReferences
+public disclosure,EconomicOperands
+Short selling,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78i,LegalReferences
+g,EconomicOperands
+i,FunctionWords
+Transactions,EconomicOperands
+It,EconomicOperands
+Notices,EconomicOperands
+Exchange,EconomicOperands
+frauds,EconomicOperands
+To the extent feasible,Attributes
+the Private Securities Litigation Act of 1995,LegalReferences
+Improvements,EconomicOperands
+Credit Rating Agencies,EconomicOperands
+Because of,LogicalConnectors
+and performances,EconomicOperands
+credit rating agencies,EconomicOperands
+economy,EconomicOperands
+Credit rating agencies,EconomicOperands
+gatekeeper,EconomicOperands
+equity market,EconomicOperands
+auditors,EconomicOperands
+accountability,EconomicOperands
+Because,LogicalConnectors
+much,FunctionWords
+gatekeepers,EconomicOperands
+securities analysts,EconomicOperands
+particularly,LogicalConnectors
+structured,EconomicOperands
+therefore,LogicalConnectors
+financial crisis,EconomicOperands
+This,FunctionWords
+mismanagement,EconomicOperands
+around,FunctionWords
+clauses i and ii,LegalReferences
+paragraphs 1 through 5,LegalReferences
+subparagraphs A through E,LegalReferences
+subparagraph E,LegalReferences
+subsection h,LegalReferences
+Rules,EconomicOperands
+in any case,LogicalConnectors
+underwriter,EconomicOperands
+sponsor,EconomicOperands
+instruments,EconomicOperands
+ethics,EconomicOperands
+conflict of interest,EconomicOperands
+whenever,FunctionWords
+transitions,EconomicOperands
+supervised,EconomicOperands
+Public disclosure,EconomicOperands
+subsection j,LegalReferences
+models,EconomicOperands
+users,EconomicOperands
+so as to,LogicalConnectors
+independence,EconomicOperands
+officers,EconomicOperands
+subsection p,LegalReferences
+corporate,EconomicOperands
+Conduct of,EconomicOperands
+governance,EconomicOperands
+subsection j1,LegalReferences
+Inspection,EconomicOperands
+Transparency,EconomicOperands
+initial,EconomicOperands
+business activities,EconomicOperands
+function,EconomicOperands
+servicer,EconomicOperands
+paragraph 3B,LegalReferences
+main,EconomicOperands
+defaults,EconomicOperands
+limits,EconomicOperands
+probability of default,EconomicOperands
+event,EconomicOperands
+impacts,EconomicOperands
+asset-backed securities,EconomicOperands
+asset-backed security,EconomicOperands
+In any case,LogicalConnectors
+adequacy,EconomicOperands
+Corporate governance,EconomicOperands
+Independent,EconomicOperands
+At least,LogicalConnectors
+rating agency,EconomicOperands
+In order to,LogicalConnectors
+her,FunctionWords
+responsibilities,EconomicOperands
+nrsro,EconomicOperands
+parent,EconomicOperands
+chairperson,EconomicOperands
+Section 3a62,LegalReferences
+Accountability,EconomicOperands
+credit rating agency,EconomicOperands
+controlling,EconomicOperands
+giving,FunctionWords
+rise,Other
+credit risk,EconomicOperands
+technique,EconomicOperands
+issuers,EconomicOperands
+Deposit Insurance Act,LegalReferences
+The Federal Deposit Insurance Act 12 USC 1811 et seq,LegalReferences
+section 28d,LegalReferences
+section 28e,LegalReferences
+Housing Enterprises Financial Safety and Soundness Act of 1992,LegalReferences
+Section 1319,LegalReferences
+Housing Enterprises Financial Safety and Soundness Act of 1992 12 USC 4519,LegalReferences
+Revised Statutes of the United States,LegalReferences
+Comptroller of the Currency,EconomicOperands
+subsection a3,LegalReferences
+Requirement,EconomicOperands
+national bank,EconomicOperands
+insured banks,EconomicOperands
+subsection f1,LegalReferences
+Section 3a,LegalReferences
+paragraph 41,LegalReferences
+two,FunctionWords
+paragraph 53A,LegalReferences
+World Bank,EconomicOperands
+Section 3a6,LegalReferences
+section 555,LegalReferences
+terminology,EconomicOperands
+so that,LogicalConnectors
+stress,EconomicOperands
+asset,EconomicOperands
+Modifications,EconomicOperands
+to the extent feasible,Attributes
+rely,EconomicOperands
+90 days,Attributes
+raised,EconomicOperands
+creation,EconomicOperands
+section 936,LegalReferences
+structured finance product,EconomicOperands
+section 3a77,LegalReferences
+section 941,LegalReferences
+structured finance products,EconomicOperands
+mechanisms,EconomicOperands
+creation of moral hazard,EconomicOperands
+prevents,RegulatoryOperators
+May,FunctionWords
+Securitization,EconomicOperands
+Process,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78ca,LegalReferences
+Asset-backed security,EconomicOperands
+financial asset,EconomicOperands
+lease,EconomicOperands
+collateralized mortgage obligation,EconomicOperands
+collateralized debt obligation,EconomicOperands
+collateralized debt obligations,EconomicOperands
+none,FunctionWords
+Credit risk,EconomicOperands
+section 3c,LegalReferences
+securitizer,EconomicOperands
+selling,EconomicOperands
+originator,EconomicOperands
+Residential mortgages,EconomicOperands
+residential mortgage,EconomicOperands
+hedging,EconomicOperands
+qualified residential mortgage,EconomicOperands
+qualified residential mortgages,EconomicOperands
+permissible,Attributes
+purchaser,EconomicOperands
+holds,EconomicOperands
+securitization,EconomicOperands
+section 3a2,LegalReferences
+qualified,EconomicOperands
+section 150d2,LegalReferences
+Asset,EconomicOperands
+securitizers,EconomicOperands
+residential mortgages,EconomicOperands
+characteristics,EconomicOperands
+Originators,EconomicOperands
+businesses,EconomicOperands
+Exemptions,RegulatoryOperators
+exemptions,RegulatoryOperators
+Applicable,FunctionWords
+originators,EconomicOperands
+Farm credit system,EconomicOperands
+Exemption,RegulatoryOperators
+Qualified residential mortgage,EconomicOperands
+features,EconomicOperands
+qualify,EconomicOperands
+shock,EconomicOperands
+adjustable rate mortgages,EconomicOperands
+reduces,EconomicOperands
+balloon payments,EconomicOperands
+amortization,EconomicOperands
+qualified mortgage,EconomicOperands
+Lending,EconomicOperands
+the Consumer Financial Protection Act of 2010,LegalReferences
+ensuring,RegulatoryOperators
+in addition to,LogicalConnectors
+Financial Accounting Standards Board,EconomicOperands
+Section 15d,LegalReferences
+Asset-backed securities,EconomicOperands
+Classification,EconomicOperands
+Section 7,LegalReferences
+the Securities Act of 1933 15 USC 77g,LegalReferences
+unique,EconomicOperands
+trusts,EconomicOperands
+Section 4,LegalReferences
+the Securities Act of 1933 15 USC 77d,LegalReferences
+paragraph 5,LegalReferences
+bubbles,EconomicOperands
+creditors,EconomicOperands
+function of,EconomicOperands
+in concert,EconomicOperands
+monetary policy,EconomicOperands
+Shareholder,EconomicOperands
+section 14 15 USC 78n,LegalReferences
+shareholder,EconomicOperands
+Not,FunctionWords
+shareholders,EconomicOperands
+resolutions,EconomicOperands
+merger,EconomicOperands
+consolidation,EconomicOperands
+understandings,EconomicOperands
+acquiring,EconomicOperands
+fiduciary,EconomicOperands
+manager,EconomicOperands
+section 13f,LegalReferences
+reported publicly,EconomicOperands
+The Securities Exchange Act of 1934 15 USC 78 et seq,LegalReferences
+section 753,LegalReferences
+controlled company,EconomicOperands
+owned,EconomicOperands
+Direct,Attributes
+This paragraph,LegalReferences
+This subsection,LegalReferences
+Opportunity,EconomicOperands
+Controlled company,EconomicOperands
+versus,FunctionWords
+the Securities Exchange Act of 1934 15 USC 78n,LegalReferences
+actually,LogicalConnectors
+distributions,EconomicOperands
+Total,Attributes
+section 952,LegalReferences
+in the event that,LogicalConnectors
+due to,LogicalConnectors
+financial instruments,EconomicOperands
+Arrangements,EconomicOperands
+9 months,Attributes
+appropriate Federal regulators,EconomicOperands
+covered financial institution,EconomicOperands
+appropriate Federal regulator,EconomicOperands
+covered financial institutions,EconomicOperands
+rules of construction,Other
+arrangement,EconomicOperands
+feature,EconomicOperands
+subsections a or b,LegalReferences
+insured depository institutions,EconomicOperands
+section 39c,LegalReferences
+section 505,LegalReferences
+treated,RegulatoryOperators
+subtitle A,LegalReferences
+depository institution holding company,EconomicOperands
+section 15,LegalReferences
+section 202a11,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78fb,LegalReferences
+paragraph 9,LegalReferences
+clauses i through v,LegalReferences
+subclauses I through V,LegalReferences
+clause iv,LegalReferences
+section 12,LegalReferences
+filings,Other
+subsection b2,LegalReferences
+Inspections,EconomicOperands
+Examinations,EconomicOperands
+New,EconomicOperands
+Acting,EconomicOperands
+Corporate,EconomicOperands
+relevant to,LogicalConnectors
+Once,FunctionWords
+numbers of,FunctionWords
+managers,EconomicOperands
+since,LogicalConnectors
+human,EconomicOperands
+Expenses,EconomicOperands
+cooperation,EconomicOperands
+pending,FunctionWords
+Markets,EconomicOperands
+Investment,EconomicOperands
+Funding,EconomicOperands
+reform,EconomicOperands
+restructuring,EconomicOperands
+SECs,EconomicOperands
+offices,EconomicOperands
+high-frequency trading,EconomicOperands
+diversity,EconomicOperands
+many,FunctionWords
+G,EconomicOperands
+Corporate Governance,EconomicOperands
+Section 14a,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78na,LegalReferences
+municipal advisors,EconomicOperands
+municipal entity,EconomicOperands
+obligated person,EconomicOperands
+municipal financial products,EconomicOperands
+solicitation of a municipal entity or obligated person,EconomicOperands
+engages,EconomicOperands
+obligated persons,EconomicOperands
+clause iii,LegalReferences
+the whole,FunctionWords
+regulate,RegulatoryOperators
+That,FunctionWords
+subparagraph G,LegalReferences
+subparagraph J,LegalReferences
+charges,EconomicOperands
+subparagraph K,LegalReferences
+portfolio,EconomicOperands
+securities market,EconomicOperands
+professionals,EconomicOperands
+section 19b,LegalReferences
+paragraph 6B,LegalReferences
+equally,LogicalConnectors
+guaranteed investment contract,EconomicOperands
+withdrawal,EconomicOperands
+interest rate,EconomicOperands
+dates,EconomicOperands
+investment strategies,EconomicOperands
+guaranteed investment contracts,EconomicOperands
+placement agents,EconomicOperands
+section 2a11,LegalReferences
+municipal financial product,EconomicOperands
+person associated with a municipal advisor,EconomicOperands
+plan,EconomicOperands
+indirect,Attributes
+generally,FunctionWords
+Registered,EconomicOperands
+subsection b4,LegalReferences
+Accounts,EconomicOperands
+others,FunctionWords
+Section 17a1,LegalReferences
+repeal,EconomicOperands
+market transparency,EconomicOperands
+credit enhancements,EconomicOperands
+innovations,EconomicOperands
+and liquidity,EconomicOperands
+with reference to,LogicalConnectors
+Accounting Standards,EconomicOperands
+Section 19,LegalReferences
+section 912,LegalReferences
+adequately,Attributes
+equitable,Attributes
+according to,FunctionWords
+governments,EconomicOperands
+Rules of construction,Other
+Fees,EconomicOperands
+Section 2a,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7201a,LegalReferences
+Foreign auditor oversight authority,EconomicOperands
+foreign auditor oversight authority,EconomicOperands
+Section 105b5,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7215b5,LegalReferences
+Section 105b5A,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7215b5A,LegalReferences
+Title I,LegalReferences
+Audit report,EconomicOperands
+section 3a4,LegalReferences
+section 17e1A,LegalReferences
+Dealer,EconomicOperands
+section 3a5,LegalReferences
+Professional standards,EconomicOperands
+section 19a,LegalReferences
+section 13b,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78am,LegalReferences
+audit reports,EconomicOperands
+section 103a,LegalReferences
+Self-regulatory organization,EconomicOperands
+Section 101,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7211,LegalReferences
+Section 102,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7212,LegalReferences
+paragraph 2A,LegalReferences
+Section 103a,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7213a,LegalReferences
+Section 104a,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7214a,LegalReferences
+prior approval,RegulatoryOperators
+section 107b,LegalReferences
+anything,FunctionWords
+section 102,LegalReferences
+Section 17e1A,LegalReferences
+Section 105c7B,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7215c7B,LegalReferences
+Section 106a,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7216a,LegalReferences
+Section 109,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7219,LegalReferences
+subsection i,LegalReferences
+Obligation,EconomicOperands
+Section 105b4B,LegalReferences
+the Sarbanes-Oxley Act of 2002 15 USC 7215b4B,LegalReferences
+clauses ii and iii,LegalReferences
+clauses iii and iv,LegalReferences
+subclause IV,LegalReferences
+Portfolio,EconomicOperands
+Section 9a1,LegalReferences
+Section 16,LegalReferences
+the Securities Investor Protection Act of 1970 15 USC 78lll,LegalReferences
+Customer,EconomicOperands
+understanding,EconomicOperands
+notwithstanding,LogicalConnectors
+subparagraph L,LegalReferences
+paragraph 11,LegalReferences
+customer name securities,EconomicOperands
+minus,FunctionWords
+Section 10,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78j,LegalReferences
+The Securities Act of 1933 15 USC 77a et seq,LegalReferences
+section 3a4 15 USC 77ca4,LegalReferences
+section 18 15 USC 77r,LegalReferences
+section 19d6A,LegalReferences
+section 2 15 USC 78b,LegalReferences
+section 3 15 USC 78c,LegalReferences
+section 3a12,LegalReferences
+section 13b1 15 USC 78mb1,LegalReferences
+section 15 15 USC 78o,LegalReferences
+section 17b1B,LegalReferences
+gives,FunctionWords
+Paragraph 1,LegalReferences
+Trust Indenture Act of 1939,LegalReferences
+The Trust Indenture Act of 1939 15 USC 77aaa et seq,LegalReferences
+section 304b,LegalReferences
+section 2a,LegalReferences
+section 317a1,LegalReferences
+The Investment Company Act of 1940,LegalReferences
+section 2a19,LegalReferences
+clause vi,LegalReferences
+clause vii,LegalReferences
+subparagraphs,LegalReferences
+section 9b4B,LegalReferences
+section 17f,LegalReferences
+section 205a1,LegalReferences
+paragraph 1 or 2,LegalReferences
+section 205b,LegalReferences
+The Investment Advisers Act of 1940,LegalReferences
+section 203,LegalReferences
+section 213a,LegalReferences
+section 222,LegalReferences
+the Public Utility Holding Company Act of 1935,LegalReferences
+section 3a47,LegalReferences
+the Public Utility Holding Company Act of 1935 15 USC 79a et seq,LegalReferences
+section 12k 15 USC 78lk,LegalReferences
+prices,EconomicOperands
+section 21h2 15 USC 78uh2,LegalReferences
+section 18c,LegalReferences
+section 303 15 USC 77ccc,LegalReferences
+paragraph 17,LegalReferences
+Acts,LegalReferences
+section 308 15 USC 77hhh,LegalReferences
+section 310 15 USC 77jjj,LegalReferences
+section 311 15 USC 77kkk,LegalReferences
+section 323b,LegalReferences
+section 326 15 USC 77zzz,LegalReferences
+section 2a44,LegalReferences
+Holding Company Act of 1935,LegalReferences
+paragraph 8,LegalReferences
+section 38b,LegalReferences
+section 50,LegalReferences
+Section 202a21,LegalReferences
+material loss,EconomicOperands
+Deposit Insurance,EconomicOperands
+Section 38k,LegalReferences
+Material loss,EconomicOperands
+failures,EconomicOperands
+depository institutions,EconomicOperands
+paragraph 4A,LegalReferences
+Losses,EconomicOperands
+supervisor,EconomicOperands
+section 11c5,LegalReferences
+section 38,LegalReferences
+Section 216j,LegalReferences
+the Federal Credit Union Act,LegalReferences
+the future,EconomicOperands
+section 208,LegalReferences
+section 552b5,LegalReferences
+section 552b8,LegalReferences
+Subparagraph A,LegalReferences
+insured credit unions,EconomicOperands
+the Inspector General Act of 1978,LegalReferences
+proprietary trading,EconomicOperands
+covered entity,EconomicOperands
+the Bank Holding Company Act of 1956 12 USC 1841 et seq,LegalReferences
+commodities,EconomicOperands
+hedge funds,EconomicOperands
+private equity firms,EconomicOperands
+depositors,EconomicOperands
+if not,LogicalConnectors
+and conflicts of interest,EconomicOperands
+capital requirements,EconomicOperands
+derivative,EconomicOperands
+financial product,EconomicOperands
+details,EconomicOperands
+NASAA,EconomicOperands
+Professional,EconomicOperands
+conform,RegulatoryOperators
+pays,EconomicOperands
+misleading designation,EconomicOperands
+servicing,EconomicOperands
+seniors,EconomicOperands
+misleading or fraudulent marketing,EconomicOperands
+misleading designations,EconomicOperands
+Applications,EconomicOperands
+problem,EconomicOperands
+Performance,EconomicOperands
+subsection a4,LegalReferences
+section 7104,LegalReferences
+paragraph 12,LegalReferences
+paragraph 13,LegalReferences
+sentences,Other
+Troubled Asset Relief Program,EconomicOperands
+section 121k,LegalReferences
+the Emergency Economic Stabilization Act of 2008 12 USC 5231k,LegalReferences
+generals,FunctionWords
+Groups,EconomicOperands
+Group,EconomicOperands
+groups,EconomicOperands
+studies,EconomicOperands
+alternative approaches,EconomicOperands
+Section 404,LegalReferences
+Subsection b,LegalReferences
+neither,FunctionWords
+nor,LogicalConnectors
+section 404b,LegalReferences
+initial public offerings,EconomicOperands
+Benefit,EconomicOperands
+the Sarbanes-Oxley Act of 2002 15 USC 7262b,LegalReferences
+the lack of,FunctionWords
+auditor,EconomicOperands
+Further,LogicalConnectors
+section 3a8,LegalReferences
+modifications,EconomicOperands
+monitoring,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78ee,LegalReferences
+subsection e2,LegalReferences
+Adjustments,EconomicOperands
+subsections b and c,LegalReferences
+subsection l,LegalReferences
+section 553,LegalReferences
+Section 6,LegalReferences
+Section 6b,LegalReferences
+the Securities Act of 1933 15 USC 77fb,LegalReferences
+paragraph 10,LegalReferences
+paragraph 5 or 6,LegalReferences
+Section 13e,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78me,LegalReferences
+paragraphs 5 and 6,LegalReferences
+section 6b,LegalReferences
+Fee,EconomicOperands
+Section 14g,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78ng,LegalReferences
+paragraphs 1 and 3,LegalReferences
+Section 35,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78kk,LegalReferences
+Securities and exchange commission,EconomicOperands
+section 24f,LegalReferences
+the Investment Company Act of 1940 15 USC 80a-24f,LegalReferences
+collects,EconomicOperands
+TITLE XVI,"<div class = ""ex1"
+Section 1256 contracts,EconomicOperands
+SEC 1601,"<div class = ""ex4"
+etc,FunctionWords
+section 1256 contracts,EconomicOperands
+section 1256,LegalReferences
+2 Exceptions,"<div class = ""ex6"
+section 1256 contract,EconomicOperands
+B,"<div class = ""ex7"
+credit default swap,EconomicOperands
+b Effective date,"<div class = ""ex5"
+Provisions,EconomicOperands
+Restrictions,RegulatoryOperators
+Woods Agreements Act 22 USC 286 et seq,LegalReferences
+International Monetary Fund,EconomicOperands
+country,EconomicOperands
+approves,RegulatoryOperators
+countrys,EconomicOperands
+management strategy,EconomicOperands
+Conflict minerals,EconomicOperands
+conflict minerals,EconomicOperands
+section 13p,LegalReferences
+adjoining country,EconomicOperands
+in cases,LogicalConnectors
+DRC,EconomicOperands
+armed groups,EconomicOperands
+origin,EconomicOperands
+mine,FunctionWords
+appropriate congressional committees,EconomicOperands
+armed group,EconomicOperands
+conflict mineral,EconomicOperands
+section 1502,LegalReferences
+Strategy,EconomicOperands
+human rights,EconomicOperands
+Mines,FunctionWords
+community,EconomicOperands
+in particular,LogicalConnectors
+Democratic Republic of Congo,EconomicOperands
+under the control of armed groups,EconomicOperands
+mines,FunctionWords
+Conflict Minerals,EconomicOperands
+Conflict,EconomicOperands
+declaration,EconomicOperands
+section 13p1A,LegalReferences
+Adjoining country,EconomicOperands
+Appropriate congressional committees,EconomicOperands
+Armed group,EconomicOperands
+Country,EconomicOperands
+Human Rights,EconomicOperands
+Practices,EconomicOperands
+sections 116d,LegalReferences
+the Foreign Assistance Act of 1961,LegalReferences
+Conflict mineral,EconomicOperands
+Under the control of armed groups,EconomicOperands
+Mine,FunctionWords
+point,EconomicOperands
+Reporting requirements,EconomicOperands
+coal or other mine,EconomicOperands
+section 13a or 15d,LegalReferences
+operator,EconomicOperands
+section 104,LegalReferences
+the Federal Mine Safety and Health Act of 1977 30 USC 814,LegalReferences
+Safety,EconomicOperands
+section 104b,LegalReferences
+section 104d,LegalReferences
+section 110b2,LegalReferences
+section 107a,LegalReferences
+coal or other mines,EconomicOperands
+section 104e,LegalReferences
+order issued,EconomicOperands
+the Federal Mine Safety and Health Act of 1977 30 USC 817a,LegalReferences
+as for,LogicalConnectors
+the Federal Mine Safety and Health Act of 1977 30 USC 802,LegalReferences
+resource extraction issuers,EconomicOperands
+commercial development of oil natural gas or minerals,EconomicOperands
+bonuses,EconomicOperands
+resource extraction issuer,EconomicOperands
+interactive data format,EconomicOperands
+interactive data standard,EconomicOperands
+Interactive data format,EconomicOperands
+Interactive data standard,EconomicOperands
+ends,Other
+online,EconomicOperands
+core deposits,EconomicOperands
+community banks,EconomicOperands
+Mortgage Reform and Anti-Predatory Lending Act,LegalReferences
+This title,LegalReferences
+sections 1471,LegalReferences
+enumerated consumer laws,EconomicOperands
+section 1002,LegalReferences
+subtitle F,LegalReferences
+designated transfer date,EconomicOperands
+Residential Mortgage Loan,EconomicOperands
+residential mortgage loans,EconomicOperands
+Unless,LogicalConnectors
+Mortgage originator,EconomicOperands
+mortgage originator,EconomicOperands
+residential mortgage loan,EconomicOperands
+subparagraph A or B,LegalReferences
+manufactured homes,EconomicOperands
+trust,EconomicOperands
+fixed rate,EconomicOperands
+adjustable rate,EconomicOperands
+behind,FunctionWords
+Nationwide Mortgage Licensing System and Registry,EconomicOperands
+Mortgage Licensing Act of 2008,LegalReferences
+packages,EconomicOperands
+with regard to,LogicalConnectors
+Residential mortgage loan,EconomicOperands
+section 128a,LegalReferences
+sections 128f,LegalReferences
+title 11,LegalReferences
+Servicer,EconomicOperands
+section 6i2,LegalReferences
+the Real Estate Settlement Procedures Act of 1974 12 USC 2605i2,LegalReferences
+section 129 15 USC 1639a,LegalReferences
+servicers,EconomicOperands
+remains,EconomicOperands
+Duty of care,EconomicOperands
+section 1507,LegalReferences
+section 129,LegalReferences
+section 1402a,LegalReferences
+Restructuring,EconomicOperands
+bona fide,EconomicOperands
+points,EconomicOperands
+mortgage originators,EconomicOperands
+limiting,RegulatoryOperators
+so long as,LogicalConnectors
+section 1403,LegalReferences
+section 130,LegalReferences
+plus,FunctionWords
+section 1404,LegalReferences
+Application,EconomicOperands
+section 105,LegalReferences
+strengthen,EconomicOperands
+housing markets,EconomicOperands
+foreclosure,EconomicOperands
+Ability,EconomicOperands
+prudential regulator,EconomicOperands
+returns,EconomicOperands
+as long as,LogicalConnectors
+points and fees,EconomicOperands
+section 103aa4,LegalReferences
+balloon payment,EconomicOperands
+Both,FunctionWords
+Variable rate,EconomicOperands
+variable rate,EconomicOperands
+permits,RegulatoryOperators
+consummation,EconomicOperands
+average prime offer rate,EconomicOperands
+above,FunctionWords
+fully indexed rate,EconomicOperands
+hybrid,EconomicOperands
+acceptable,Attributes
+interest rates,EconomicOperands
+small business,EconomicOperands
+section 1402b,LegalReferences
+Safe,Attributes
+section 1411,LegalReferences
+Qualified mortgage,EconomicOperands
+except for,FunctionWords
+altogether,LogicalConnectors
+Average prime offer rate,EconomicOperands
+Points and fees,EconomicOperands
+Up to,FunctionWords
+bona fide discount points,EconomicOperands
+up to,FunctionWords
+Bona fide discount points,EconomicOperands
+in fact,LogicalConnectors
+Interest rate,EconomicOperands
+Subclauses I and II,LegalReferences
+norms,EconomicOperands
+mortgage market,EconomicOperands
+underserved,EconomicOperands
+qualified mortgages,EconomicOperands
+the National Housing Act 12 USC 1707 et seq,LegalReferences
+anyone,FunctionWords
+Amount,EconomicOperands
+Prohibited,EconomicOperands
+section 305a2,LegalReferences
+the Federal Home Loan Mortgage Corporation Act 12 USC 1454a2,LegalReferences
+average prime offer rates,EconomicOperands
+During,FunctionWords
+controversy,EconomicOperands
+homeownership counseling,EconomicOperands
+Section 108a,LegalReferences
+anti-deficiency law,EconomicOperands
+Policy,EconomicOperands
+Increase,EconomicOperands
+Section 130a,LegalReferences
+Section 130e,LegalReferences
+in case,LogicalConnectors
+hybrid adjustable rate mortgages,EconomicOperands
+section 128,LegalReferences
+Hybrid adjustable rate mortgages,EconomicOperands
+hybrid adjustable rate mortgage,EconomicOperands
+these,FunctionWords
+numbers,EconomicOperands
+section 1301,LegalReferences
+adjustable rate mortgage,EconomicOperands
+wholesale,EconomicOperands
+Periodic,Attributes
+Ownership,EconomicOperands
+Equity Protection Act of 1994,LegalReferences
+high-cost mortgages,EconomicOperands
+Analysis,EconomicOperands
+High-Cost Mortgages,EconomicOperands
+High-cost mortgage,EconomicOperands
+Section 103aa,LegalReferences
+high-cost mortgage,EconomicOperands
+junior,EconomicOperands
+section 203c2A,LegalReferences
+the National Housing Act,LegalReferences
+Adjustment,EconomicOperands
+Section 103aa2,LegalReferences
+Section 103aa4,LegalReferences
+credit line,EconomicOperands
+Bona fide,EconomicOperands
+Section 103,LegalReferences
+subsection cc,LegalReferences
+section 1401,LegalReferences
+subsection aa,LegalReferences
+the National Housing Act 12 USC 1702 et seq,LegalReferences
+Paragraphs 1 and 2,LegalReferences
+Section 129c2,LegalReferences
+repealed,RegulatoryOperators
+Section 129e,LegalReferences
+Section 129,LegalReferences
+subsections n o p and q,LegalReferences
+Default,EconomicOperands
+insufficiency,EconomicOperands
+Failure,EconomicOperands
+Debt,EconomicOperands
+Prohibitions,RegulatoryOperators
+subsection q,LegalReferences
+parts,FunctionWords
+subsection s,LegalReferences
+Transaction,EconomicOperands
+the Real Estate Settlement Procedures Act of 1974,LegalReferences
+subsection u,LegalReferences
+whatever,FunctionWords
+Expand and Preserve Home Ownership Through Counseling Act,LegalReferences
+Urban Development Act,LegalReferences
+rental housing counseling,EconomicOperands
+policy development,EconomicOperands
+and performance,EconomicOperands
+homes,EconomicOperands
+credit protection,EconomicOperands
+section 106g1,LegalReferences
+Urban Development Act of 1968,LegalReferences
+section 106g,LegalReferences
+distribution,EconomicOperands
+the Real Estate Settlement Procedures Act of 1974 12 USC 2604,LegalReferences
+section 106e,LegalReferences
+section 106a4,LegalReferences
+Section 106,LegalReferences
+Urban Development Act of 1968 12 USC 1701x,LegalReferences
+Procedures,EconomicOperands
+Homeownership counseling,EconomicOperands
+section 105a20,LegalReferences
+Community Development Act of 1974,LegalReferences
+States Housing Act of 1937,LegalReferences
+section 9e 42 USC 1437ge,LegalReferences
+section 23c4 42 USC 1437uc4,LegalReferences
+section 32e4,LegalReferences
+section 33d2B,LegalReferences
+sections 302b6,LegalReferences
+section 304c4,LegalReferences
+section 302a4,LegalReferences
+Economic Opportunity Act of 2000,LegalReferences
+sections 233b2,LegalReferences
+Affordable Housing Act,LegalReferences
+section 101e,LegalReferences
+Low-Income,EconomicOperands
+Resident Homeownership Act of 1990 12 USC 4110d2G,LegalReferences
+sections 422b6,LegalReferences
+Homeless Assistance Act,LegalReferences
+section 203 12 USC 1709,LegalReferences
+subsection r4,LegalReferences
+section 237,LegalReferences
+section 255,LegalReferences
+section 502h4B,LegalReferences
+the Housing Act,LegalReferences
+section 508,LegalReferences
+section 106,LegalReferences
+the Energy Policy Act of 1992,LegalReferences
+Rental housing counseling,EconomicOperands
+referrals,EconomicOperands
+section 302b6,LegalReferences
+section 233b2,LegalReferences
+section 422b6,LegalReferences
+subsection g4,LegalReferences
+Secretarys,EconomicOperands
+initially,LogicalConnectors
+locations,EconomicOperands
+and conduct,EconomicOperands
+subprime mortgage,EconomicOperands
+low-income,EconomicOperands
+foreclosures,EconomicOperands
+Foreclosure,EconomicOperands
+involve,EconomicOperands
+predatory lending,EconomicOperands
+minority,EconomicOperands
+nonprofit organizations,EconomicOperands
+subclause,LegalReferences
+applicant,EconomicOperands
+subsection g3,LegalReferences
+Qualified,EconomicOperands
+Distribution,EconomicOperands
+ensures,EconomicOperands
+None,FunctionWords
+applicable individuals,EconomicOperands
+applicable individual,EconomicOperands
+paragraphs 2 through 5,LegalReferences
+causes of,EconomicOperands
+and foreclosures,EconomicOperands
+one-,FunctionWords
+unsound,Attributes
+allocation of credit,EconomicOperands
+section 1022c,LegalReferences
+Nonprofit organization,EconomicOperands
+nonprofit organization,EconomicOperands
+Trust,EconomicOperands
+Unit of general local government,EconomicOperands
+unit of general local government,EconomicOperands
+HUD-approved counseling agency,EconomicOperands
+taxation,EconomicOperands
+section 501c,LegalReferences
+State housing finance agency,EconomicOperands
+covered assistance,EconomicOperands
+Covered assistance,EconomicOperands
+simplification,EconomicOperands
+advantages,EconomicOperands
+sections 125,LegalReferences
+variable rate mortgage,EconomicOperands
+Adjustable Rate Mortgages,EconomicOperands
+appraisals,EconomicOperands
+appraisal,EconomicOperands
+Your,FunctionWords
+periodically,Attributes
+at first,LogicalConnectors
+subparagraphs A B and D,LegalReferences
+subparagraphs C and D,LegalReferences
+section 1444,LegalReferences
+saving,FunctionWords
+Servicing,EconomicOperands
+hazard insurance,EconomicOperands
+flood insurance,EconomicOperands
+section 102d,LegalReferences
+the Flood Disaster Protection Act of 1973,LegalReferences
+Flood insurance,EconomicOperands
+the National Flood Insurance Act of 1968,LegalReferences
+Hazard insurance,EconomicOperands
+section 1461,LegalReferences
+Settlement Procedures Act of 1974,LegalReferences
+prohibitions,RegulatoryOperators
+the Real Estate Settlement Procedures Act of 1974 12 USC 2605,LegalReferences
+written requests,EconomicOperands
+Force-placed insurance,EconomicOperands
+subsections l and m,LegalReferences
+force-placed insurance,EconomicOperands
+expense,EconomicOperands
+Disaster Protection Act,LegalReferences
+a lack of,FunctionWords
+section 102e,LegalReferences
+Section 6f,LegalReferences
+the Real Estate Settlement Procedures Act of 1974 12 USC 2605f,LegalReferences
+Section 6e,LegalReferences
+the Real Estate Settlement Procedures Act of 1974 12 USC 2605e,LegalReferences
+Section 6g,LegalReferences
+the Real Estate Settlement Procedures Act of 1974 12 USC 2605g,LegalReferences
+section 1472,LegalReferences
+In connection with,FunctionWords
+section 10a2,LegalReferences
+Assessment,EconomicOperands
+Appraisal,EconomicOperands
+Activities,EconomicOperands
+section 1464b,LegalReferences
+higher-risk mortgage,EconomicOperands
+certified or licensed appraiser,EconomicOperands
+Certified or licensed appraiser,EconomicOperands
+Practice,EconomicOperands
+title XI,LegalReferences
+Violations,EconomicOperands
+Higher-risk mortgage,EconomicOperands
+section 1461a,LegalReferences
+appraisal management company,EconomicOperands
+Provide,EconomicOperands
+failing,FunctionWords
+subsections b or d,LegalReferences
+Consistent,Attributes
+fee appraisers,EconomicOperands
+objective,EconomicOperands
+Fee appraiser,EconomicOperands
+fee appraiser,EconomicOperands
+section 1124,LegalReferences
+Sunset,LegalReferences
+Valuation,EconomicOperands
+continues,EconomicOperands
+subsection a or c,LegalReferences
+section 108,LegalReferences
+section 1461c,LegalReferences
+Section 105,LegalReferences
+Monitoring,EconomicOperands
+Companies,EconomicOperands
+Automated Valuation Models,EconomicOperands
+Broker Price Opinions,EconomicOperands
+Section 1112b,LegalReferences
+Section 1103a,LegalReferences
+Section 1104b,LegalReferences
+Section 1106,LegalReferences
+the Administrative Procedures Act,LegalReferences
+Section 1110,LegalReferences
+Section 1113,LegalReferences
+Appraisal management company,EconomicOperands
+Title XI,LegalReferences
+coercion,EconomicOperands
+certificate,EconomicOperands
+Additionally,LogicalConnectors
+Section 1117,LegalReferences
+additionally,LogicalConnectors
+Section 1121,LegalReferences
+valuing,EconomicOperands
+mortgage markets,EconomicOperands
+certified or licensed appraisers,EconomicOperands
+underwriters,EconomicOperands
+Section 1109a,LegalReferences
+section 1473g,LegalReferences
+Section 1109b,LegalReferences
+Section 1116,LegalReferences
+Section 1118,LegalReferences
+section 1122,LegalReferences
+Section 1122d,LegalReferences
+though,LogicalConnectors
+Section 1122,LegalReferences
+agencys,EconomicOperands
+up,FunctionWords
+Automated valuation models,EconomicOperands
+automated valuation models,EconomicOperands
+Automated valuation model,EconomicOperands
+automated valuation model,EconomicOperands
+Broker price opinions,EconomicOperands
+broker price opinions,EconomicOperands
+Broker price opinion,EconomicOperands
+broker price opinion,EconomicOperands
+propertys,EconomicOperands
+section 1125c,LegalReferences
+Section 1011,LegalReferences
+the Federal Financial Institutions Examination Council Act of 1978 12 USC 3310,LegalReferences
+Section 1119a2,LegalReferences
+council,EconomicOperands
+Corporations,EconomicOperands
+subparagraphs A B and C,LegalReferences
+councils,EconomicOperands
+Councils,EconomicOperands
+Credit Opportunity Act,LegalReferences
+section 701,LegalReferences
+the Equal Credit Opportunity Act 15 USC 1691,LegalReferences
+applicants,EconomicOperands
+valuations,EconomicOperands
+valuation,EconomicOperands
+Whether,FunctionWords
+multifamily properties,EconomicOperands
+Making,FunctionWords
+Affordable,EconomicOperands
+the Emergency Economic Stabilization Act of 2008 12 USC 5201 et seq,LegalReferences
+Money laundering,EconomicOperands
+Tax,EconomicOperands
+Home Affordable Modification Program,EconomicOperands
+the Emergency Economic Stabilization Act of 2008,LegalReferences
+Data,EconomicOperands
+14 days,Attributes
+The number of,FunctionWords
+section 702,LegalReferences
+subsection a2,LegalReferences
+section 704,LegalReferences
+government-sponsored enterprises,EconomicOperands
+Government-sponsored enterprises,EconomicOperands
+chartered,EconomicOperands
+corporations,EconomicOperands
+Fannie Maes,EconomicOperands
+below,FunctionWords
+subprime,EconomicOperands
+acquisitions,EconomicOperands
+According to,FunctionWords
+mortgage-backed securities,EconomicOperands
+the Helping Families Save Their Homes Act of 2009,LegalReferences
+Section 104b1A,LegalReferences
+China,EconomicOperands
+section 1062,LegalReferences
+section 107,LegalReferences
+the Emergency Housing Act of 1975 12 USC 2706,LegalReferences
+the Emergency Housing Act of 1975,LegalReferences
+section 103 12 USC 2702,LegalReferences
+section 104 12 USC 2703,LegalReferences
+toward,FunctionWords
+section 105 12 USC 2704,LegalReferences
+be able to,FunctionWords
+section 108 12 USC 2707,LegalReferences
+Coverage,EconomicOperands
+section 109 12 USC 2708,LegalReferences
+sections 110,LegalReferences
+section 112 12 USC 2711,LegalReferences
+section 110,LegalReferences
+section 2301b,LegalReferences
+allocations,EconomicOperands
+section 2301c,LegalReferences
+section 2301a,LegalReferences
+Community Development Act of 1974 42 USC 5302,LegalReferences
+Section 2301,LegalReferences
+section 2301,LegalReferences
+Economic Recovery Act of 2008 42 USC 5301,LegalReferences
+in danger of default,EconomicOperands
+Commence,EconomicOperands
+Private Fund,EconomicOperands
+Advisers Registration Act of 2010,LegalReferences
+Section 202a,LegalReferences
+section 3c1 or 3c7,LegalReferences
+foreign private adviser,EconomicOperands
+private funds,EconomicOperands
+section 54,LegalReferences
+foreign private advisers,EconomicOperands
+the Private Fund Investment Advisers Registration Act of 2010,LegalReferences
+the Small Business Investment Act of 1958,LegalReferences
+Small Business,EconomicOperands
+off-balance-sheet,EconomicOperands
+trading practices,EconomicOperands
+undue,Attributes
+in all,LogicalConnectors
+section 210b,LegalReferences
+paragraphs 1 and 2,LegalReferences
+venture capital fund,EconomicOperands
+venture capital funds,EconomicOperands
+investment adviser acts,LegalReferences
+Family offices,EconomicOperands
+Section 202a11,LegalReferences
+family office,EconomicOperands
+family offices,EconomicOperands
+accredited investors,EconomicOperands
+the Investment Adviser Act of 1940,LegalReferences
+Covered persons,EconomicOperands
+Parts,FunctionWords
+subsection b6,LegalReferences
+accredited investor,EconomicOperands
+excluding,FunctionWords
+Initial,EconomicOperands
+the Commodities Exchange Act,LegalReferences
+commodity pools,EconomicOperands
+commodity pool operators,EconomicOperands
+commodity trading advisors,EconomicOperands
+short selling,EconomicOperands
+Studies,EconomicOperands
+and Financial Innovation,EconomicOperands
+Consolidated,EconomicOperands
+Transition,EconomicOperands
+Financial Stability,EconomicOperands
+Financial Stability Act of 2010,LegalReferences
+Bank holding company,EconomicOperands
+the Bank Holding Company Act of 1956,LegalReferences
+section 8a,LegalReferences
+the International Banking Act of 1978 12 USC 3106a,LegalReferences
+Member agency,EconomicOperands
+member agency,EconomicOperands
+voting member,EconomicOperands
+Nonbank financial company,EconomicOperands
+Foreign nonbank financial company,EconomicOperands
+foreign nonbank financial company,EconomicOperands
+financial activities,EconomicOperands
+US nonbank financial company,EconomicOperands
+Farm Credit System,EconomicOperands
+the Farm Credit Act of 1971 12 USC 2001 et seq,LegalReferences
+Nonbank Financial company,EconomicOperands
+nonbank financial company,EconomicOperands
+Nonbank financial company supervised by the Board of Governors,EconomicOperands
+section 113,LegalReferences
+Office of Financial Research,EconomicOperands
+section 152,LegalReferences
+annual gross revenues derived,EconomicOperands
+section 4k,LegalReferences
+85 percent,Attributes
+significant nonbank financial company,EconomicOperands
+significant bank holding company,EconomicOperands
+paragraph 4B,LegalReferences
+subsection a6,LegalReferences
+nonbank,EconomicOperands
+subtitles A and C,LegalReferences
+section 113b,LegalReferences
+Voting members,EconomicOperands
+voting members,EconomicOperands
+Nonvoting members,EconomicOperands
+nonvoting members,EconomicOperands
+nonvoting member,EconomicOperands
+Nonvoting member,EconomicOperands
+subparagraphs C D and E,LegalReferences
+in the place,LogicalConnectors
+Section 5314,LegalReferences
+Detail,EconomicOperands
+distress,EconomicOperands
+bank holding companies,EconomicOperands
+financial services,EconomicOperands
+market discipline,EconomicOperands
+threats,EconomicOperands
+contingent capital,EconomicOperands
+credit exposure,EconomicOperands
+concentration,EconomicOperands
+public disclosures,EconomicOperands
+title VIII,LegalReferences
+principle,EconomicOperands
+emerging market,EconomicOperands
+section 119,LegalReferences
+subtitle B,LegalReferences
+Nonbank,EconomicOperands
+mix,EconomicOperands
+households,EconomicOperands
+rather,LogicalConnectors
+financial assets,EconomicOperands
+short-term,EconomicOperands
+Consolidated supervision,EconomicOperands
+intermediate holding company,EconomicOperands
+Intermediate holding company,EconomicOperands
+section 167b2,LegalReferences
+Action,EconomicOperands
+section 167,LegalReferences
+Subsections d through h,LegalReferences
+internal financial activities,EconomicOperands
+Nonfinancial,EconomicOperands
+Final,EconomicOperands
+Court,EconomicOperands
+complexity,EconomicOperands
+$50000000000,Attributes
+subsections c through g,LegalReferences
+liquidity requirements,EconomicOperands
+short-term debt,EconomicOperands
+nonfinancial,EconomicOperands
+Contingent capital,EconomicOperands
+convertible,EconomicOperands
+Resolution,EconomicOperands
+Credit exposure,EconomicOperands
+Concentration,EconomicOperands
+Short-term debt,EconomicOperands
+total consolidated,EconomicOperands
+financial condition,EconomicOperands
+existing reports,EconomicOperands
+to the fullest extent possible,Attributes
+externally,Attributes
+Capital,EconomicOperands
+Purchase,EconomicOperands
+section 113a or 113b,LegalReferences
+intervention,EconomicOperands
+dispute resolution,EconomicOperands
+section 115,LegalReferences
+economic growth,EconomicOperands
+Role of,EconomicOperands
+acquire,EconomicOperands
+unaffiliated,EconomicOperands
+and complexity,EconomicOperands
+market efficiency,EconomicOperands
+and diversification,EconomicOperands
+financial company,EconomicOperands
+Data Center,EconomicOperands
+data center,EconomicOperands
+section 154,LegalReferences
+Research and Analysis Center,EconomicOperands
+research and analysis center,EconomicOperands
+financial transaction data,EconomicOperands
+financial contract,EconomicOperands
+position data,EconomicOperands
+financial instrument,EconomicOperands
+roles,EconomicOperands
+Responsibilities,EconomicOperands
+exercises,EconomicOperands
+classification,EconomicOperands
+Section 1206a,LegalReferences
+section 3109b,LegalReferences
+Ethics,EconomicOperands
+case-by-case basis,EconomicOperands
+tools,EconomicOperands
+risk measurement,EconomicOperands
+Standardization,EconomicOperands
+section 154b1,LegalReferences
+subsections a1 a2 a7 and c1,LegalReferences
+section 153,LegalReferences
+Research and analysis center,EconomicOperands
+systemwide,EconomicOperands
+stress tests,EconomicOperands
+Funds,EconomicOperands
+assessment base,EconomicOperands
+Plans,EconomicOperands
+innovation,EconomicOperands
+clauses i through ix,LegalReferences
+section 7103a8,LegalReferences
+oath,EconomicOperands
+thereof has been,FunctionWords
+commencing,EconomicOperands
+avoid duplication,EconomicOperands
+requests for information,EconomicOperands
+section 8b3,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1818b3,LegalReferences
+functionally regulated subsidiaries,EconomicOperands
+written explanation,EconomicOperands
+Acquisitions,EconomicOperands
+the Bank Holding Company Act of 1956 12 USC 1842,LegalReferences
+Acquisition,EconomicOperands
+section 4k6B,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1843k6B,LegalReferences
+voting shares,EconomicOperands
+$10000000000,Attributes
+section 4c,LegalReferences
+section 4j1,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1843j1,LegalReferences
+section 4j3,LegalReferences
+section 4j2,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1843j2,LegalReferences
+proposed acquisition,EconomicOperands
+concentrated,EconomicOperands
+Hart-Scott-Rodino,LegalReferences
+Solely,LogicalConnectors
+section 7Ac8,LegalReferences
+the Clayton Act 15 USC 18ac8,LegalReferences
+interlocks,EconomicOperands
+the Depository Institutions Management Interlocks Act 12 USC 3201 et seq,LegalReferences
+section 7,LegalReferences
+similarly,LogicalConnectors
+section 115c,LegalReferences
+ownership structure,EconomicOperands
+corporate structure,EconomicOperands
+growth,EconomicOperands
+nonbank financial company supervised by the Board,EconomicOperands
+and lending,EconomicOperands
+derivative transaction,EconomicOperands
+section 113e3,LegalReferences
+Stress tests,EconomicOperands
+By,FunctionWords
+board of governors,EconomicOperands
+stress test,EconomicOperands
+off-balance-sheet activities,EconomicOperands
+Off-balance-sheet activities,EconomicOperands
+commercial paper,EconomicOperands
+Commodities,EconomicOperands
+Forward contracts,EconomicOperands
+Securities contracts,EconomicOperands
+section 165a,LegalReferences
+insolvent,EconomicOperands
+the Bank Holding Company Act of 1956 12 USC 1843,LegalReferences
+Necessary,Attributes
+Internal financial activities,EconomicOperands
+internal financial,EconomicOperands
+revenues generated,EconomicOperands
+Source of strength,EconomicOperands
+source of strength,EconomicOperands
+Parent,EconomicOperands
+unsafe,Attributes
+goods,EconomicOperands
+duplication,EconomicOperands
+rationale,EconomicOperands
+empirical evidence,EconomicOperands
+Generally applicable leverage capital requirements,EconomicOperands
+generally applicable leverage capital requirements,EconomicOperands
+tier 1,EconomicOperands
+prompt corrective action,EconomicOperands
+capital requirement,EconomicOperands
+Generally applicable risk-based capital requirements,EconomicOperands
+generally applicable risk-based capital requirements,EconomicOperands
+risk-weighted assets,EconomicOperands
+section 46a2,LegalReferences
+Effective dates,EconomicOperands
+Depository institution,EconomicOperands
+and Regulation,EconomicOperands
+Bank Holding Company,EconomicOperands
+smaller insured depository institutions,EconomicOperands
+smaller insured depository institution,EconomicOperands
+Capital requirements,EconomicOperands
+section 120,LegalReferences
+not only,LogicalConnectors
+concentrations,EconomicOperands
+Section 10b3,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1820b3,LegalReferences
+section 165d,LegalReferences
+Section 8t,LegalReferences
+Powers,EconomicOperands
+backup,EconomicOperands
+holding company,EconomicOperands
+Section 7d3,LegalReferences
+the International Banking Act of 1978 12 USC 3105d3,LegalReferences
+Section 7e1,LegalReferences
+the International Banking Act of 1978 12 USC 3105e1,LegalReferences
+Tier 1,EconomicOperands
+benefits and risks,EconomicOperands
+our,FunctionWords
+intermediate,EconomicOperands
+foreign banks,EconomicOperands
+capital standards,EconomicOperands
+Wall Street Transparency and Accountability Act of 2010,LegalReferences
+Swaps,EconomicOperands
+associated person of a swap dealer or major swap participant,EconomicOperands
+eligible contract participant,EconomicOperands
+associated person of a security-based swap dealer or major security-based swap participant,EconomicOperands
+section 721b,LegalReferences
+swap dealers,EconomicOperands
+major swap participants,EconomicOperands
+clearing organizations,EconomicOperands
+eligible contract participants,EconomicOperands
+prudential regulators,EconomicOperands
+assuring,EconomicOperands
+security-based swap dealers,EconomicOperands
+major security-based swap participants,EconomicOperands
+sections 556,LegalReferences
+Administrative Procedure Act,LegalReferences
+Futures,EconomicOperands
+the Commodity Exchange Act 7 USC 21,LegalReferences
+subsection a7,LegalReferences
+aside,FunctionWords
+business day,EconomicOperands
+Joint,EconomicOperands
+security-based swap agreement,EconomicOperands
+section 3a78,LegalReferences
+In the event that,LogicalConnectors
+effective dates,EconomicOperands
+Section 15c3,LegalReferences
+section 36,LegalReferences
+Commodity Exchange Act,LegalReferences
+section 15b1,LegalReferences
+section 15c3,LegalReferences
+Section 20,LegalReferences
+the Commodity Exchange Act 7 USC 24,LegalReferences
+customer property,EconomicOperands
+the Commodity Exchange Act 7 USC 6,LegalReferences
+bailouts,EconomicOperands
+Federal assistance,EconomicOperands
+swaps entity,EconomicOperands
+credit facility,EconomicOperands
+discount window,EconomicOperands
+Swaps entity,EconomicOperands
+Affiliates,EconomicOperands
+Hedging,EconomicOperands
+section 5136,LegalReferences
+credit default swaps,EconomicOperands
+the Securities Exchange Act,LegalReferences
+Existing,EconomicOperands
+small business lending,EconomicOperands
+covered financial company,EconomicOperands
+FDIC,EconomicOperands
+Institutions,EconomicOperands
+Systems,EconomicOperands
+measuring,EconomicOperands
+swaps entitys,EconomicOperands
+financial stability oversight council,EconomicOperands
+federal assistance,EconomicOperands
+section 619,LegalReferences
+section 2a1,LegalReferences
+section 3a10,LegalReferences
+the Futures Trading Act of 1982,LegalReferences
+section 36a1,LegalReferences
+The Securities Exchange Act of 1934,LegalReferences
+section 4c1,LegalReferences
+the Commodity Exchange Act 7 USC 6c1,LegalReferences
+section 718,LegalReferences
+Determining,EconomicOperands
+Commodity Futures Trading Commissions,EconomicOperands
+section 2a1A,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78y,LegalReferences
+trading venues,EconomicOperands
+derivatives markets,EconomicOperands
+regulatory regimes,EconomicOperands
+Goals,EconomicOperands
+international financial institutions,EconomicOperands
+paragraphs 1 through 3,LegalReferences
+Asia,EconomicOperands
+Europe,EconomicOperands
+geographic,EconomicOperands
+portfolios,EconomicOperands
+Stable value contracts,EconomicOperands
+stable value contracts,EconomicOperands
+Until,FunctionWords
+stable value contract,EconomicOperands
+the Employee Retirement Income Security Act of 1974,LegalReferences
+section 457b,LegalReferences
+section 457e1A,LegalReferences
+section 403b,LegalReferences
+section 529,LegalReferences
+memorandum of understanding,EconomicOperands
+market power,EconomicOperands
+Swap,EconomicOperands
+Appropriate federal banking agency,EconomicOperands
+farm credit system,EconomicOperands
+Associated person of a security-based swap dealer or major security-based swap participant,EconomicOperands
+Associated person of a swap dealer or major swap participant,EconomicOperands
+Other than,FunctionWords
+Cleared swap,EconomicOperands
+cleared swap,EconomicOperands
+Commodity pool,EconomicOperands
+Commodity pool operator,EconomicOperands
+subclauses II and III,LegalReferences
+subclauses III and IV,LegalReferences
+paragraph 12A,LegalReferences
+paragraph 18A,LegalReferences
+paragraph 18,LegalReferences
+paragraph 17A,LegalReferences
+clause xi,LegalReferences
+paragraph 22,LegalReferences
+Floor broker,EconomicOperands
+floor broker,EconomicOperands
+paragraph 23,LegalReferences
+Floor trader,EconomicOperands
+floor trader,EconomicOperands
+Foreign exchange forward,EconomicOperands
+foreign exchange forward,EconomicOperands
+Foreign exchange swap,EconomicOperands
+foreign exchange swap,EconomicOperands
+paragraph 28,LegalReferences
+Futures commission merchant,EconomicOperands
+paragraph 30,LegalReferences
+paragraph 31,LegalReferences
+Introducing broker,EconomicOperands
+Major security-based swap participant,EconomicOperands
+Major swap participant,EconomicOperands
+substantial position,EconomicOperands
+commercial risk,EconomicOperands
+paragraphs 3 and 32,LegalReferences
+the Employee Retirement Income Security Act of 1974 29 USC 1002,LegalReferences
+adverse effects,EconomicOperands
+banking system,EconomicOperands
+financial entity,EconomicOperands
+cleared swaps,EconomicOperands
+commercial risks,EconomicOperands
+paragraph 38,LegalReferences
+Prudential regulator,EconomicOperands
+section 225,LegalReferences
+the Bank Holding Company Act of 1965 12 USC 1841,LegalReferences
+section 1b7,LegalReferences
+the International Banking Act of 1978 12 USC 3101b7,LegalReferences
+the Federal Reserve Act 12 USC 601 et seq,LegalReferences
+section 1303,LegalReferences
+paragraph 40,LegalReferences
+subparagraphs B C and F,LegalReferences
+section 21,LegalReferences
+Security-based swap,EconomicOperands
+Security-based swap dealer,EconomicOperands
+paragraph 46,LegalReferences
+section 2h7,LegalReferences
+section 2h5,LegalReferences
+dividend,EconomicOperands
+swap agreement,EconomicOperands
+section 6a,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78fa,LegalReferences
+creditworthiness,EconomicOperands
+section 3a68A,LegalReferences
+foreign exchange swaps,EconomicOperands
+Foreign exchange swaps,EconomicOperands
+foreign exchange forwards,EconomicOperands
+section 721c,LegalReferences
+Business,EconomicOperands
+the Wall Street Transparency and Accountability Act,LegalReferences
+Retail,EconomicOperands
+section 2c2,LegalReferences
+Swap data repository,EconomicOperands
+Swap dealer,EconomicOperands
+Swap execution facility,EconomicOperands
+paragraph 51,LegalReferences
+Section 4c1,LegalReferences
+sections 2a13,LegalReferences
+4s,FunctionWords
+section 206e,LegalReferences
+sections 721c,LegalReferences
+the Commodity Exchange Act 7 USC 6m3,LegalReferences
+Section 5e1,LegalReferences
+Section 402,LegalReferences
+Bank Products Act of 2000 7 USC 27 et seq,LegalReferences
+Jurisdiction,EconomicOperands
+Section 2a1,LegalReferences
+the Commodity Exchange Act 7 USC 2a1,LegalReferences
+Section 12,LegalReferences
+the Commodity Exchange Act 7 USC 16,LegalReferences
+Section 2c2A,LegalReferences
+Section 2,LegalReferences
+the Commodity Exchange Act 7 USC 2,LegalReferences
+section 723a3,LegalReferences
+the Federal Power Act,LegalReferences
+Section 4c,LegalReferences
+section 721d,LegalReferences
+section 201f,LegalReferences
+the Natural Gas Act,LegalReferences
+The Commodity Exchange Act,LegalReferences
+payment and settlement systems,EconomicOperands
+Clearing,EconomicOperands
+Clearing requirement,EconomicOperands
+subsections d e g and h,LegalReferences
+sections 17,LegalReferences
+non-discriminatory,EconomicOperands
+clearing organization,EconomicOperands
+derivatives clearing organizations,EconomicOperands
+interpretations,EconomicOperands
+clearing requirements,EconomicOperands
+paragraph 5A,LegalReferences
+paragraph 5B,LegalReferences
+Financial entity,EconomicOperands
+section 202a,LegalReferences
+small banks,EconomicOperands
+paragraph 1 or 7,LegalReferences
+Commodity exchange act,LegalReferences
+subsection h1,LegalReferences
+subsection h8,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78l,LegalReferences
+section 15d,LegalReferences
+section 2h8B,LegalReferences
+section 732,LegalReferences
+Cleared swaps,EconomicOperands
+convenience,EconomicOperands
+in general,FunctionWords
+Commodity contract,EconomicOperands
+commodity contract,EconomicOperands
+section 761,LegalReferences
+dispose,EconomicOperands
+Bankruptcy,EconomicOperands
+Section 761,LegalReferences
+subparagraph F,LegalReferences
+Section 4s,LegalReferences
+section 731,LegalReferences
+gains and losses resulting,EconomicOperands
+custodians,EconomicOperands
+Derivatives clearing organizations,EconomicOperands
+core principles,EconomicOperands
+Core principles,EconomicOperands
+rolling,EconomicOperands
+Risk management,EconomicOperands
+Measurement,EconomicOperands
+credit exposures,EconomicOperands
+Margin,EconomicOperands
+settlements,EconomicOperands
+Permissible,Attributes
+events,EconomicOperands
+operational risk,EconomicOperands
+risks and costs,EconomicOperands
+settlement systems,EconomicOperands
+Governance,EconomicOperands
+Conflicts of interest,EconomicOperands
+decision-making,EconomicOperands
+boards,EconomicOperands
+section 2a13,LegalReferences
+Section 8e,LegalReferences
+central bank,EconomicOperands
+Repeals,EconomicOperands
+sections 404,LegalReferences
+section 402 7 USC 27,LegalReferences
+section 408 7 USC 27f,LegalReferences
+Bank Products Act of 2000,LegalReferences
+Section 403,LegalReferences
+Bank Products Act of 2000 7 USC 27a,LegalReferences
+subsection b or c,LegalReferences
+section 3a68,LegalReferences
+real-time public reporting,EconomicOperands
+subsection h7,LegalReferences
+subsection h6,LegalReferences
+subsection h2,LegalReferences
+Bank for International Settlements,EconomicOperands
+section 20 7 USC 24,LegalReferences
+Reasonable,Attributes
+subsection c7,LegalReferences
+applicable To,FunctionWords
+pertaining to,FunctionWords
+Commodity Exchange Act 7 USC 1 et seq,LegalReferences
+section 4s,LegalReferences
+causes,EconomicOperands
+commitments,EconomicOperands
+section 729,LegalReferences
+Swap dealers,EconomicOperands
+Major swap participants,EconomicOperands
+by virtue of,FunctionWords
+section 15b,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78ob,LegalReferences
+section 15b11,LegalReferences
+Futures commission merchants,EconomicOperands
+special entity,EconomicOperands
+Special Entity,EconomicOperands
+Special entity,EconomicOperands
+the Employee Retirement Income Security act of 1974,LegalReferences
+futures commission merchants,EconomicOperands
+introducing brokers,EconomicOperands
+used To,FunctionWords
+These,FunctionWords
+goal,EconomicOperands
+For all,FunctionWords
+section 2h8,LegalReferences
+market manipulation,EconomicOperands
+especially,LogicalConnectors
+Capacity,EconomicOperands
+Derivatives,EconomicOperands
+Sections,LegalReferences
+section 723a1B,LegalReferences
+Section 6g1A,LegalReferences
+Section 5,LegalReferences
+the Commodity Exchange Act 7 USC 7,LegalReferences
+Contracts,EconomicOperands
+rules of the board,EconomicOperands
+market abuses,EconomicOperands
+delegation,EconomicOperands
+Dispute resolution,EconomicOperands
+Diversity,EconomicOperands
+the Commodity Exchange Act 7 USC 12a7,LegalReferences
+excepting,FunctionWords
+subparagraphs D through F,LegalReferences
+subparagraphs E through G,LegalReferences
+Aggregate,EconomicOperands
+Exempt,RegulatoryOperators
+Goal,EconomicOperands
+hedging transaction,EconomicOperands
+opposite,FunctionWords
+Section 4b,LegalReferences
+Persons,EconomicOperands
+board of trades,EconomicOperands
+Subparagraphs A and B,LegalReferences
+Contract,EconomicOperands
+section 739,LegalReferences
+section 4a,LegalReferences
+section 2f,LegalReferences
+the Federal Deposit Insurance Corporation Improvement Act of 1991,LegalReferences
+Prudential regulators,EconomicOperands
+Referrals,EconomicOperands
+the Commodity Exchange Act 7 USC 6ca1,LegalReferences
+Section 6c,LegalReferences
+the Commodity Exchange Act 7 USC 9,LegalReferences
+Section 6d,LegalReferences
+the Commodity Exchange Act 7 USC 13,LegalReferences
+subsection e1,LegalReferences
+Section 9a,LegalReferences
+section 2h4,LegalReferences
+Section 2c2B,LegalReferences
+section 721a1,LegalReferences
+have to,FunctionWords
+Section 2c,LegalReferences
+section 402b,LegalReferences
+Sections 4a,LegalReferences
+Section 206a,LegalReferences
+Section 2c2,LegalReferences
+the Commodity Exchange Act 7 USC 2c2,LegalReferences
+Federal regulatory agency,EconomicOperands
+With regard to,LogicalConnectors
+subtitle do,LegalReferences
+Equitable,Attributes
+Prior approval,RegulatoryOperators
+Event,EconomicOperands
+Violation,EconomicOperands
+Insider trading,EconomicOperands
+acquires,EconomicOperands
+section 746,LegalReferences
+trading practice,EconomicOperands
+Successful resolution,EconomicOperands
+successful resolution,EconomicOperands
+section 7064,LegalReferences
+Commodity futures trading commission,EconomicOperands
+section 1221,LegalReferences
+publics,EconomicOperands
+section 1001,LegalReferences
+section 724,LegalReferences
+Subsection,LegalReferences
+section 2h3,LegalReferences
+Section 12e2B,LegalReferences
+section 2c,LegalReferences
+section 2c or 2f,LegalReferences
+Section 17r1,LegalReferences
+the Commodity Exchange Act 7 USC 21r1,LegalReferences
+sections 5,LegalReferences
+and derivative markets,EconomicOperands
+the Federal Advisory Committee Act 5 USC App,LegalReferences
+harmonization,EconomicOperands
+Subsection c,LegalReferences
+section 9a2,LegalReferences
+section 12f,LegalReferences
+oaths,EconomicOperands
+In case,LogicalConnectors
+wherever,FunctionWords
+Orders,EconomicOperands
+carries out,EconomicOperands
+section 2112,LegalReferences
+title 28,LegalReferences
+Cease,EconomicOperands
+Provided,EconomicOperands
+Section 22a1,LegalReferences
+the Commodity Exchange Act 7 USC 25a1,LegalReferences
+Security-Based Swap,EconomicOperands
+paragraph 14,LegalReferences
+paragraph 39,LegalReferences
+Eligible contract participant,EconomicOperands
+paragraph 29,LegalReferences
+Person associated with a security-based swap dealer or major security-based swap participant,EconomicOperands
+person associated with a security-based swap dealer or major security-based swap participant,EconomicOperands
+Security-based swap data repository,EconomicOperands
+Security-based swap execution facility,EconomicOperands
+Security-based swap agreement,EconomicOperands
+sections 9,LegalReferences
+the Securities Act of 1933 15 USC 77q,LegalReferences
+Repeal,EconomicOperands
+Section 17,LegalReferences
+section 9 15 USC 78i,LegalReferences
+market operations,EconomicOperands
+section 10 15 USC 78j,LegalReferences
+section 303f,LegalReferences
+the Commodity Futures Modernization Act of 2000,LegalReferences
+section 16 15 USC 78p,LegalReferences
+section 206b,LegalReferences
+section 20 15 USC 78t,LegalReferences
+section 717,LegalReferences
+Security-based swaps,EconomicOperands
+section 741,LegalReferences
+section 3a13,LegalReferences
+repurchase agreement,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78f,LegalReferences
+Section 9b,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78ib,LegalReferences
+paragraph 68,LegalReferences
+subsection m,LegalReferences
+section 24,LegalReferences
+Major security-based swap participants,EconomicOperands
+Security-based swap dealers,EconomicOperands
+subparagraph F or H,LegalReferences
+Claims Settlement Act,LegalReferences
+Section 13f1,LegalReferences
+Section 15b4,LegalReferences
+section 16,LegalReferences
+regulates,RegulatoryOperators
+the Securities Act of 1933 15 USC 77ba,LegalReferences
+the Securities Act of 1933 15 USC 77e,LegalReferences
+section 10a,LegalReferences
+Section 36,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78mm,LegalReferences
+Section 30,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78dd,LegalReferences
+the Securities Exchange Act of 1934 15 USC 78p-2,LegalReferences
+Federal Reserve Act,LegalReferences
+the Federal Reserve Act 12 USC 343,LegalReferences
+partnerships,EconomicOperands
+Chairpersons,EconomicOperands
+section 201,LegalReferences
+Section 507a2,LegalReferences
+Section 714,LegalReferences
+Credit facility,EconomicOperands
+special purpose vehicle,EconomicOperands
+Covered transaction,EconomicOperands
+covered transaction,EconomicOperands
+section 11s,LegalReferences
+covered transactions,EconomicOperands
+Section 714d,LegalReferences
+paragraph 3A,LegalReferences
+Reserve banks,EconomicOperands
+link,EconomicOperands
+section 714,LegalReferences
+reserve banks,EconomicOperands
+Section 11,LegalReferences
+the Federal Reserve Act 12 USC 248,LegalReferences
+open market operations,EconomicOperands
+section 714f1A,LegalReferences
+section 14,LegalReferences
+subparagraph a,LegalReferences
+section 714f,LegalReferences
+section 1109,LegalReferences
+section 502,LegalReferences
+Liquidity event,EconomicOperands
+liquidity event,EconomicOperands
+section 1105,LegalReferences
+section 1105a,LegalReferences
+section 1105c,LegalReferences
+section 1104,LegalReferences
+solvent,EconomicOperands
+Policies,EconomicOperands
+joint resolution,EconomicOperands
+Absent,FunctionWords
+even though,LogicalConnectors
+house of Representatives,EconomicOperands
+Joint resolution,EconomicOperands
+paragraphs 1 and 4,LegalReferences
+section 11a4,LegalReferences
+Backup,EconomicOperands
+Depository institution holding company,EconomicOperands
+Solvent,EconomicOperands
+deposit insurance Act,LegalReferences
+section 301,LegalReferences
+section 303,LegalReferences
+the Federal Reserve Act 12 USC 341,LegalReferences
+Class,EconomicOperands
+the Federal Reserve Act 12 USC 242,LegalReferences
+Of,FunctionWords
+financial firms,EconomicOperands
+the Federal Reserve Act 12 USC 241 et seq,LegalReferences
+regulatory policy,EconomicOperands
+Exercise,EconomicOperands
+federal reserve,EconomicOperands
+section 11k,LegalReferences
+section 714b,LegalReferences
+Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility,EconomicOperands
+Asset-Backed Securities,EconomicOperands
+Facility,EconomicOperands
+Primary Dealer Credit Facility,EconomicOperands
+Commercial Paper,EconomicOperands
+Term Securities Lending Facility,EconomicOperands
+Term Auction Facility,EconomicOperands
+Mortgage-Backed Securities,EconomicOperands
+Assessments,EconomicOperands
+Transfer,EconomicOperands
+Enhancing Financial Institution Safety and Soundness Act of 2010,LegalReferences
+transferred employee,EconomicOperands
+section 322,LegalReferences
+Savings and loan holding company,EconomicOperands
+section 11,LegalReferences
+the Home Owners Loan Act 12 USC 1468,LegalReferences
+section 5q,LegalReferences
+Federal savings associations,EconomicOperands
+State savings associations,EconomicOperands
+Section 3,LegalReferences
+insured bank,EconomicOperands
+the International Banking Act of 1978,LegalReferences
+section 7c1,LegalReferences
+the Financial Institutions Supervisory Act of 1966,LegalReferences
+section 324,LegalReferences
+Section 324,LegalReferences
+bureau,EconomicOperands
+fair treatment,EconomicOperands
+the Enhancing Financial Institution Safety and Soundness Act of 2010,LegalReferences
+title VII,LegalReferences
+Comptroller,EconomicOperands
+section 329,LegalReferences
+Section 329,LegalReferences
+Sections 312b,LegalReferences
+OTS,EconomicOperands
+office of the comptroller of the currency,EconomicOperands
+section 312b,LegalReferences
+subtitle E,LegalReferences
+Section 5240,LegalReferences
+section 5240,LegalReferences
+section 3q1,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1813q1,LegalReferences
+section 5234,LegalReferences
+Section 10e,LegalReferences
+section 3q2,LegalReferences
+leasing,EconomicOperands
+Administrative Services Act of 1949 41 USC 251 et seq,LegalReferences
+Competition,EconomicOperands
+section 1064,LegalReferences
+Employees,EconomicOperands
+transferred employees,EconomicOperands
+section 3503,LegalReferences
+Employee,EconomicOperands
+affected employee,EconomicOperands
+Affected employees,EconomicOperands
+Benefits,EconomicOperands
+existing retirement plan,EconomicOperands
+Cost,EconomicOperands
+section 8909,LegalReferences
+section 8901,LegalReferences
+sections 8706b,LegalReferences
+section 8714,LegalReferences
+section 8706b1A,LegalReferences
+Reorganization,EconomicOperands
+reorganization,EconomicOperands
+affected employees,EconomicOperands
+section 8336d2,LegalReferences
+section 325,LegalReferences
+section 312b2B,LegalReferences
+section 312b1A,LegalReferences
+section 323,LegalReferences
+Plan,EconomicOperands
+sections 301,LegalReferences
+conforms,RegulatoryOperators
+Deposit insurance,EconomicOperands
+Size,EconomicOperands
+Section 7b2,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1817b2,LegalReferences
+Assessment base,EconomicOperands
+section 7b2,LegalReferences
+section 7b1,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1817b1,LegalReferences
+subparagraphs D through G,LegalReferences
+deposit insurance,EconomicOperands
+Section 7a2B,LegalReferences
+section 7a2B,LegalReferences
+Section 7b3B,LegalReferences
+Section 3y3,LegalReferences
+depositor,EconomicOperands
+Section 207k5,LegalReferences
+the Federal Credit Union Act 12 USC 1787k5,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1812,LegalReferences
+Consumer Financial Protection Bureau,EconomicOperands
+office of the Comptroller of the Currency,EconomicOperands
+Branching,EconomicOperands
+the Federal Deposit Insurance Act 12 USC 1811 et seq,LegalReferences
+Minority,EconomicOperands
+agency administrator,EconomicOperands
+mandate,EconomicOperands
+challenges,EconomicOperands
+Offices,EconomicOperands
+Agency administrator,EconomicOperands
+Minority-owned business,EconomicOperands
+minority-owned business,EconomicOperands
+the Federal Home Loan Bank Act,LegalReferences
+Women-owned business,EconomicOperands
+women-owned business,EconomicOperands
+womens business,EconomicOperands
+Section 11a1,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1821a1,LegalReferences
+noninterest-bearing transaction accounts,EconomicOperands
+noninterest-bearing transaction account,EconomicOperands
+Noninterest-bearing transaction account,EconomicOperands
+withdrawals,EconomicOperands
+section 11a1,LegalReferences
+Credit unions,EconomicOperands
+Section 207k1,LegalReferences
+the Federal Credit Union Act 12 USC 1787k1,LegalReferences
+section 207k1,LegalReferences
+section 364a,LegalReferences
+Deficit Control Act of 1985,LegalReferences
+Deficit Control Act of 1985 2 USC 906h,LegalReferences
+subparagraphs C and G,LegalReferences
+subparagraphs D E F and H,LegalReferences
+subparagraphs C D E and F,LegalReferences
+Bank Enterprise Act of 1991,LegalReferences
+the Bank Enterprise Act of 1991 12 USC 1834a,LegalReferences
+Federal Reserve Board,EconomicOperands
+subparagraphs B through D,LegalReferences
+Holding Company Act of 1956,LegalReferences
+Holding Company Act of 1956 12 USC 1841 et seq,LegalReferences
+section 2j3 12 USC 1841j3,LegalReferences
+section 4 12 USC 1843,LegalReferences
+section 5f 12 USC 1844f,LegalReferences
+the Bank Holding Company Act,LegalReferences
+Bank Protection Act of 1968,LegalReferences
+Bank Protection Act of 1968 12 USC 1881 et seq,LegalReferences
+section 2 12 USC 1881,LegalReferences
+section 3 12 USC 1882,LegalReferences
+section 5 12 USC 1884,LegalReferences
+Service Company Act,LegalReferences
+Service Company Act 12 USC 1861 et seq,LegalReferences
+section 1b4 12 USC 1861b4,LegalReferences
+Federal Savings and Loan Insurance Corporation,EconomicOperands
+section 1b5,LegalReferences
+section 7c2 12 USC 1867c2,LegalReferences
+Community Reinvestment Act of 1977,LegalReferences
+Community Reinvestment Act of 1977 12 USC 2901 et seq,LegalReferences
+section 803 12 USC 2902,LegalReferences
+section 744q,LegalReferences
+section 806 12 USC 2905,LegalReferences
+State member banks,EconomicOperands
+Crime Control Act of 1990,LegalReferences
+section 2539c2,LegalReferences
+subparagraphs E through H,LegalReferences
+subparagraphs C through G,LegalReferences
+section 2554b2,LegalReferences
+Depository Institution,EconomicOperands
+Management Interlocks Act,LegalReferences
+Management Interlocks Act 12 USC 3201 et seq,LegalReferences
+section 207 12 USC 3206,LegalReferences
+paragraphs 4 and 5,LegalReferences
+section 209 12 USC 3207,LegalReferences
+section 210a 12 USC 3208a,LegalReferences
+Bank Board,EconomicOperands
+Federal Credit Union,EconomicOperands
+Credit Union Act 12 USC 1751 et seq,LegalReferences
+section 205 12 USC 1785,LegalReferences
+subsection i1,LegalReferences
+section 206g7 12 USC 1786g7,LegalReferences
+clause v,LegalReferences
+Deposit Insurance Act 12 USC 1811 et seq,LegalReferences
+section 3 12 USC 1813,LegalReferences
+subsection l5,LegalReferences
+subsection z,LegalReferences
+section 7 12 USC 1817,LegalReferences
+subsection n,LegalReferences
+section 8 12 USC 1818,LegalReferences
+subsection e7,LegalReferences
+subsection b9,LegalReferences
+subsection o,LegalReferences
+section 10 12 USC 1820,LegalReferences
+subsection d5,LegalReferences
+section 11 12 USC 1821,LegalReferences
+paragraph 18B,LegalReferences
+paragraph 16,LegalReferences
+paragraph 12B,LegalReferences
+FSLIC,EconomicOperands
+section 18 12 USC 1828,LegalReferences
+section 19e 12 USC 1829e,LegalReferences
+section 28 12 USC 1831e,LegalReferences
+section 33e 12 USC 1831je,LegalReferences
+Loan Bank Act,LegalReferences
+section 18,LegalReferences
+Housing Enterprises Financial Safety and Soundness Act of 1992 12 USC 4501 et seq,LegalReferences
+section 1315b 12 USC 4515b,LegalReferences
+section 1317c 12 USC 4517c,LegalReferences
+Federal Reserve Act 12 USC 221 et seq,LegalReferences
+section 11a2 12 USC 248a2,LegalReferences
+section 19b 12 USC 461b,LegalReferences
+1F,LegalReferences
+section 402,LegalReferences
+section 1103a 12 USC 3332a,LegalReferences
+section 1205b,LegalReferences
+subparagraphs C through F,LegalReferences
+subparagraphs B through E,LegalReferences
+section 1206 12 USC 1833b,LegalReferences
+section 1216 12 USC 1833e,LegalReferences
+paragraphs 3 and 4,LegalReferences
+Depositor,EconomicOperands
+Disaster Protection Act of 1973,LegalReferences
+the Flood Disaster Protection Act of 1973 42 USC 4003a5,LegalReferences
+section 1 12 USC 1461,LegalReferences
+section 2 12 USC 1462,LegalReferences
+paragraphs 4 through 9,LegalReferences
+paragraphs 2 through 7,LegalReferences
+section 3 12 USC 1462a,LegalReferences
+section 4 12 USC 1463,LegalReferences
+subsection e5,LegalReferences
+section 5 12 USC 1464,LegalReferences
+comptroller,EconomicOperands
+subsections m n o and p,LegalReferences
+subsection r3,LegalReferences
+subsection t,LegalReferences
+clauses i through vii,LegalReferences
+subsection v,LegalReferences
+subsection w1,LegalReferences
+subparagraphs A through J,LegalReferences
+section 8 12 USC 1466a,LegalReferences
+section 9 12 USC 1467,LegalReferences
+subparagraphs A through G,LegalReferences
+section 10 12 USC 1467a,LegalReferences
+section 11 12 USC 1468,LegalReferences
+section 12 12 USC 1468a,LegalReferences
+section 13 12 USC 1468a,LegalReferences
+the Housing Act of 1948 12 USC 1701cc,LegalReferences
+Community Development Act of 1992,LegalReferences
+subparagraphs G and H,LegalReferences
+subparagraphs D and E,LegalReferences
+National Housing Act,LegalReferences
+Reinvestment Corporation Act,LegalReferences
+the Neighborhood Reinvestment Corporation Act 42 USC 8105c3,LegalReferences
+section 3a34,LegalReferences
+section 3b2,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1813b2,LegalReferences
+section 3b3,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1813b3,LegalReferences
+clauses iii iv and v,LegalReferences
+clauses ii iii and iv,LegalReferences
+subparagraph H,LegalReferences
+section 12i 15 USC 78li,LegalReferences
+national banks,EconomicOperands
+section 23b1 15 USC 78wb1,LegalReferences
+Title 18,LegalReferences
+subparagraphs D through H,LegalReferences
+section 657,LegalReferences
+section 982a3,LegalReferences
+section 1006,LegalReferences
+section 1014,LegalReferences
+Title 31,LegalReferences
+section 321,LegalReferences
+section 714a,LegalReferences
+Financial Protection Act of 2010,LegalReferences
+Business of insurance,EconomicOperands
+Consumer financial product or service,EconomicOperands
+consumer financial product or service,EconomicOperands
+financial product or service,EconomicOperands
+paragraph 15,LegalReferences
+paragraph 15A,LegalReferences
+Covered person,EconomicOperands
+covered person,EconomicOperands
+service provider,EconomicOperands
+Deposit-taking activity,EconomicOperands
+deposit-taking activity,EconomicOperands
+Designated transfer date,EconomicOperands
+Electronic conduit services,EconomicOperands
+electronic conduit services,EconomicOperands
+Enumerated consumer laws,EconomicOperands
+section 1029,LegalReferences
+subtitle G,LegalReferences
+subtitle H,LegalReferences
+the Alternative Mortgage Transaction Parity Act of 1982 12 USC 3801 et seq,LegalReferences
+the Consumer Leasing Act of 1976 15 USC 1667 et seq,LegalReferences
+the Electronic Fund Transfer Act 15 USC 1693 et seq,LegalReferences
+section 920,LegalReferences
+the Equal Credit Opportunity Act 15 USC 1691 et seq,LegalReferences
+the Fair Credit Billing Act 15 USC 1666 et seq,LegalReferences
+the Fair Credit Reporting Act 15 USC 1681 et seq,LegalReferences
+sections 615e,LegalReferences
+the Home Owners Protection Act of 1998 12 USC 4901 et seq,LegalReferences
+the Fair Debt Collection Practices Act 15 USC 1692 et seq,LegalReferences
+subsections b through f,LegalReferences
+section 43,LegalReferences
+sections 502,LegalReferences
+section 501b,LegalReferences
+the Home Mortgage Disclosure Act of 1975 12 USC 2801 et seq,LegalReferences
+the Real Estate Settlement Procedures Act of 1974 12 USC 2601 et seq,LegalReferences
+Mortgage Licensing Act of 2008 12 USC 5101 et seq,LegalReferences
+section 626,LegalReferences
+the Omnibus Appropriations Act,LegalReferences
+the Interstate Land Sales Full Disclosure Act 15 USC 1701,LegalReferences
+Fair Lending,EconomicOperands
+fair lending,EconomicOperands
+Federal consumer financial law,EconomicOperands
+subtitles F and H,LegalReferences
+Financial product or service,EconomicOperands
+leases,EconomicOperands
+transmitting or exchanging funds,EconomicOperands
+stored value,EconomicOperands
+payment instruments,EconomicOperands
+payment instrument,EconomicOperands
+online banking,EconomicOperands
+person regulated by the Commission,EconomicOperands
+section 1027a2A,LegalReferences
+Foreign exchange,EconomicOperands
+Insured credit union,EconomicOperands
+Payment instrument,EconomicOperands
+Person regulated by the commodity futures trading commission,EconomicOperands
+person regulated by the Commodity Futures Trading Commission,EconomicOperands
+Person regulated by the commission,EconomicOperands
+subparagraphs A through K,LegalReferences
+Person regulated by a State insurance regulator,EconomicOperands
+person regulated by a State insurance regulator,EconomicOperands
+Person that performs income tax preparation activities for consumers,EconomicOperands
+person that performs income tax preparation activities for consumers,EconomicOperands
+section 7701a36,LegalReferences
+section 330,LegalReferences
+section 7216,LegalReferences
+Related person,EconomicOperands
+related person,EconomicOperands
+Service provider,EconomicOperands
+incidentally,LogicalConnectors
+section 104a,LegalReferences
+the Federally Recognized Indian Tribe List Act of 1994,LegalReferences
+Stored value,EconomicOperands
+debit card,EconomicOperands
+Transmitting or exchanging funds,EconomicOperands
+payment services,EconomicOperands
+Federal consumer financial laws,EconomicOperands
+section 5313,LegalReferences
+section 2105,LegalReferences
+section 2302b11,LegalReferences
+section 11l,LegalReferences
+Federal Reserve System retirement plan,EconomicOperands
+Federal Reserve System thrift plan,EconomicOperands
+Federal Reserve System Retirement Plan,EconomicOperands
+Federal Reserve System Thrift Plan,EconomicOperands
+Controlled,EconomicOperands
+subsections b c m and o,LegalReferences
+section 414,LegalReferences
+high growth,EconomicOperands
+the Equal Credit Opportunity Act,LegalReferences
+the Home Mortgage Disclosure Act,LegalReferences
+And,LogicalConnectors
+Section 513c1,LegalReferences
+Education Improvement Act 20 USC 9702c1,LegalReferences
+Section 513d,LegalReferences
+Education Improvement Act,LegalReferences
+outcomes,EconomicOperands
+Service Member,EconomicOperands
+service members,EconomicOperands
+near,FunctionWords
+service member,EconomicOperands
+legitimacy,EconomicOperands
+trends,EconomicOperands
+covered persons,EconomicOperands
+Board Of Governors,EconomicOperands
+Financial statements,EconomicOperands
+accounting standards,EconomicOperands
+section 3512c,LegalReferences
+section 716c,LegalReferences
+section 3709,LegalReferences
+section 1517,LegalReferences
+sections 1024,LegalReferences
+section 1026,LegalReferences
+section 1023,LegalReferences
+section 1061b5,LegalReferences
+Methodology,EconomicOperands
+nondepository,EconomicOperands
+section 552b,LegalReferences
+Right,EconomicOperands
+Financial Privacy Act of 1978 12 USC 3401 et seq,LegalReferences
+Financial Privacy Act of 1978,LegalReferences
+section 1101,LegalReferences
+asides,FunctionWords
+section 1013b3,LegalReferences
+private education loan,EconomicOperands
+section 140,LegalReferences
+section 1025a or 1026a,LegalReferences
+Activity,EconomicOperands
+product markets,EconomicOperands
+checks,EconomicOperands
+principals,EconomicOperands
+section 1061,LegalReferences
+section 7c,LegalReferences
+the Bank Service Company Act,LegalReferences
+large banks,EconomicOperands
+the Bank Service Company Act 12,LegalReferences
+Avoidance,EconomicOperands
+section 212,LegalReferences
+Except for,FunctionWords
+section 1025,LegalReferences
+small business concern,EconomicOperands
+the Small Business Act 15 USC 632,LegalReferences
+manufactured home,EconomicOperands
+modular home,EconomicOperands
+Manufactured home,EconomicOperands
+section 603,LegalReferences
+Safety Standards Act of 1974 42 USC 5402,LegalReferences
+Modular home,EconomicOperands
+section 505a6,LegalReferences
+specified plan or arrangement,EconomicOperands
+section 529b1,LegalReferences
+Specified plan or arrangement,EconomicOperands
+section 220,LegalReferences
+commodity futures trading commission,EconomicOperands
+person regulated by the Farm Credit Administration,EconomicOperands
+subsections a through h,LegalReferences
+section 1022,LegalReferences
+section 1024c1,LegalReferences
+Fair housing Act,LegalReferences
+the Fair Housing Act,LegalReferences
+motor vehicles,EconomicOperands
+motor vehicle dealer,EconomicOperands
+Subsection a,LegalReferences
+subsections b and d,LegalReferences
+motor vehicle dealers,EconomicOperands
+Motor vehicle,EconomicOperands
+motor vehicle,EconomicOperands
+title 49,LegalReferences
+Motor vehicle dealer,EconomicOperands
+sections 1022,LegalReferences
+public policy,EconomicOperands
+sections 4,LegalReferences
+credit scores,EconomicOperands
+money laundering,EconomicOperands
+Private education loan,EconomicOperands
+Private Education Loan,EconomicOperands
+private education loans,EconomicOperands
+section 141f,LegalReferences
+the Higher Education Act of 1965 20 USC 1018f,LegalReferences
+institution of higher education,EconomicOperands
+section 1031,LegalReferences
+sections 1044,LegalReferences
+Greater,LogicalConnectors
+section 1083,LegalReferences
+consumer protection regulations,EconomicOperands
+consumer protection regulation,EconomicOperands
+Explanation,EconomicOperands
+National bank,EconomicOperands
+State consumer financial laws,EconomicOperands
+State consumer financial law,EconomicOperands
+the Federal Reserve Act 12 USC 371,LegalReferences
+Case-by-case basis,EconomicOperands
+section 5244,LegalReferences
+Federal Reserve Act 12 USC 371,LegalReferences
+section 5197,LegalReferences
+OCC,EconomicOperands
+constraints,EconomicOperands
+The Home Owners Loan Act 12 USC 1461 et seq,LegalReferences
+Principles,EconomicOperands
+National banks,EconomicOperands
+S,Attributes
+Savings associations,EconomicOperands
+the Home Owners Loan Act,LegalReferences
+Bureau investigation,EconomicOperands
+Bureau investigator,EconomicOperands
+Custodian,EconomicOperands
+Documentary material,EconomicOperands
+documentary material,EconomicOperands
+Fair lending,EconomicOperands
+Demands,EconomicOperands
+demand for,EconomicOperands
+Demand for,EconomicOperands
+Method,EconomicOperands
+Oath,EconomicOperands
+briefly,LogicalConnectors
+section 6004,LegalReferences
+him,FunctionWords
+Documentary materials,EconomicOperands
+section 1291,LegalReferences
+Effectiveness,EconomicOperands
+section 1254,LegalReferences
+avoids,EconomicOperands
+finally,LogicalConnectors
+covered employee,EconomicOperands
+covered employees,EconomicOperands
+he,FunctionWords
+she,FunctionWords
+Actions,EconomicOperands
+citizenship,EconomicOperands
+section 1361,LegalReferences
+consumer financial protection functions,EconomicOperands
+Defined,EconomicOperands
+transferor agency,EconomicOperands
+transferor agencies,EconomicOperands
+Comptroller of the currency,EconomicOperands
+Federal deposit insurance corporation,EconomicOperands
+Trade Commission Act,LegalReferences
+federal,EconomicOperands
+section 1025a1,LegalReferences
+the Federal Trade Commission Act 15 USC 41 et seq,LegalReferences
+section 18a1B,LegalReferences
+Mortgage Licensing Act of 2008 12 USC 5102 et seq,LegalReferences
+the Interstate Land Sales Full Disclosure Act 15 USC 1701 et seq,LegalReferences
+section 1025a,LegalReferences
+section 1025c,LegalReferences
+section 1026a,LegalReferences
+sections 3q,LegalReferences
+the Bank Service Company Act 12 USC 1861 et seq,LegalReferences
+Subsections b and c,LegalReferences
+Section 1061b1,LegalReferences
+Section 1061b4,LegalReferences
+Section 1061b5,LegalReferences
+Section 1061b6,LegalReferences
+Office of the comptroller of the currency,EconomicOperands
+Section 1061b2,LegalReferences
+Section 1061b3,LegalReferences
+Section 1061b7,LegalReferences
+the Interstate Land Sales Full Disclosure Act,LegalReferences
+fdic,EconomicOperands
+paragraphs 1 through 7,LegalReferences
+section 3132a7,LegalReferences
+Between,FunctionWords
+Federal Reserve System transferred employees,EconomicOperands
+Transferred employees,EconomicOperands
+federal employee retirement program,EconomicOperands
+Federal Reserve System transferred employee,EconomicOperands
+Federal Employee Retirement Program,EconomicOperands
+section 1013a2B,LegalReferences
+sections 401a,LegalReferences
+entitys,EconomicOperands
+section 8905b1A,LegalReferences
+Incidental,EconomicOperands
+section 1011,LegalReferences
+Small business,EconomicOperands
+The Equal Credit Opportunity Act 15 USC 1691 et seq,LegalReferences
+Small business loan,EconomicOperands
+small business loan,EconomicOperands
+section 1204c3,LegalReferences
+Section 701b,LegalReferences
+the Consumer Credit Protection Act,LegalReferences
+Section 1132,LegalReferences
+section 1132,LegalReferences
+Remittance transfers,EconomicOperands
+remittance transfers,EconomicOperands
+The Electronic Fund Transfer Act 15 USC 1693 et seq,LegalReferences
+section 902b 15 USC 1693b,LegalReferences
+section 904c 15 USC 1693bc,LegalReferences
+sections 919,LegalReferences
+sections 920,LegalReferences
+section 918,LegalReferences
+remittance transfer provider,EconomicOperands
+sender,EconomicOperands
+remittance transfer,EconomicOperands
+designated recipient,EconomicOperands
+section 1013,LegalReferences
+National Commerce Act 15 USC 7001 et seq,LegalReferences
+beyond,FunctionWords
+remittance transfer providers,EconomicOperands
+section 101c,LegalReferences
+Global Commerce Act,LegalReferences
+internet,EconomicOperands
+via,FunctionWords
+section 904a2,LegalReferences
+Remittance transfer,EconomicOperands
+senders,EconomicOperands
+section 903,LegalReferences
+sections 905,LegalReferences
+section 908,LegalReferences
+Obligations,EconomicOperands
+National Commerce Act,LegalReferences
+section 906a,LegalReferences
+expansion,EconomicOperands
+ACH,EconomicOperands
+efficacy,EconomicOperands
+Assuring,EconomicOperands
+SAFE,Attributes
+Paragraph 12,LegalReferences
+section 919,LegalReferences
+the Electronic Fund Transfer Act,LegalReferences
+credit score,EconomicOperands
+transparency and disclosure,EconomicOperands
+privatization,EconomicOperands
+standardization,EconomicOperands
+sections 921,LegalReferences
+interchange transaction fees,EconomicOperands
+electronic debit transactions,EconomicOperands
+interchange transaction fee,EconomicOperands
+electronic debit transaction,EconomicOperands
+payment card network,EconomicOperands
+payment card networks,EconomicOperands
+debit cards,EconomicOperands
+prepaid cards,EconomicOperands
+prepaid card,EconomicOperands
+automated teller machines,EconomicOperands
+automated teller machine,EconomicOperands
+designated automated teller machine network,EconomicOperands
+network fees,EconomicOperands
+network fee,EconomicOperands
+providing that,LogicalConnectors
+credit cards,EconomicOperands
+credit card,EconomicOperands
+Debit card,EconomicOperands
+section 915a2A,LegalReferences
+Credit card,EconomicOperands
+section 103,LegalReferences
+Discount,EconomicOperands
+Electronic debit transaction,EconomicOperands
+Institution of higher education,EconomicOperands
+the Higher Education Act of 1965,LegalReferences
+Interchange transaction fee,EconomicOperands
+Issuer,EconomicOperands
+Network fee,EconomicOperands
+Payment card network,EconomicOperands
+Sections 916,LegalReferences
+Section 7h10,LegalReferences
+Section 920,LegalReferences
+electronic benefit transfer,EconomicOperands
+Rural Investment Act of 2002,LegalReferences
+Section 4402,LegalReferences
+Rural Investment Act of 2002 7 USC 3007,LegalReferences
+the Child Nutrition Act of 1966,LegalReferences
+the Child Nutrition Act of 1966 42 USC 1780,LegalReferences
+School Lunch Act 42 USC 1751 et seq,LegalReferences
+section 4302d,LegalReferences
+the Real Estate Settlement Procedures Act,LegalReferences
+Equity,EconomicOperands
+parents,EconomicOperands
+title IV,LegalReferences
+section 435m,LegalReferences
+consumer protections,EconomicOperands
+exchange facilitators,EconomicOperands
+Exchange facilitator,EconomicOperands
+exchange facilitator,EconomicOperands
+Pursuant to,FunctionWords
+section 994,LegalReferences
+subclauses I and II,LegalReferences
+section 3553a2,LegalReferences
+Securities fraud offenses,EconomicOperands
+securities fraud offense,EconomicOperands
+section 1348,LegalReferences
+section 32a,LegalReferences
+the Securities Act of 1933 15 USC 77x,LegalReferences
+section 217,LegalReferences
+section 49,LegalReferences
+the Trust Indenture Act of 1939 15 USC 77yyy,LegalReferences
+the False Claims Act,LegalReferences
+Section 3730h,LegalReferences
+the Inspector General Act,LegalReferences
+the Privacy Act of 1974,LegalReferences
+the Alternative Mortgage Transaction Parity Act of 1982,LegalReferences
+The Alternative Mortgage Transaction Parity Act of 1982 12 USC 3801 et seq,LegalReferences
+section 803 12 USC 38021,LegalReferences
+section 804 12 USC 3803,LegalReferences
+the Alternative Mortgage Transaction Parity Act,LegalReferences
+Fund Transfer Act 15 USC 1693 et seq,LegalReferences
+subsections a and e,LegalReferences
+section 904,LegalReferences
+the Credit Card Act of 2009,LegalReferences
+section 1076,LegalReferences
+section 903 15 USC 1693a,LegalReferences
+paragraphs 3 through 11,LegalReferences
+paragraphs 4 through 12,LegalReferences
+section 904 15 USC 1693b,LegalReferences
+section 1029a,LegalReferences
+section 916d 15 USC 1693m,LegalReferences
+the Credit CARD Act of 2009,LegalReferences
+section 918 15 USC 1693o,LegalReferences
+paragraphs 3 through 5,LegalReferences
+paragraphs 2 through 4,LegalReferences
+Overall,LogicalConnectors
+Credit Opportunity Act 15 USC 1691 et seq,LegalReferences
+section 703f,LegalReferences
+section 704a4 15 USC 1691ca4,LegalReferences
+section 702 15 USC 1691a,LegalReferences
+section 703 15 USC 1691b,LegalReferences
+subsections a through e,LegalReferences
+section 704 15 USC 1691c,LegalReferences
+the Consumer Protection Financial Protection Act of 2010,LegalReferences
+paragraphs 3 through 9,LegalReferences
+paragraphs 2 through 8,LegalReferences
+Subtitle E,LegalReferences
+paragraphs 1 through 8,LegalReferences
+section 706e 15 USC 1691ee,LegalReferences
+section 706g 15 USC 1691eg,LegalReferences
+section 706f 15 USC 1691ef,LegalReferences
+the Expedited Funds Availability Act,LegalReferences
+Section 603d1,LegalReferences
+the Expedited Funds Availability Act 12 USC 4002,LegalReferences
+Section 604,LegalReferences
+the Expedited Funds Availability Act 12 USC 4003,LegalReferences
+Section 605,LegalReferences
+the Expedited Funds Availability Act 12 USC 4004,LegalReferences
+section 605f1,LegalReferences
+Section 609,LegalReferences
+the Expedited Funds Availability Act 12 USC 4008,LegalReferences
+Consultations,EconomicOperands
+Section 603,LegalReferences
+Section 607,LegalReferences
+the Expedited Funds Availability Act 12 USC 4006,LegalReferences
+the Fair Credit Billing Act,LegalReferences
+Credit Billing Act,LegalReferences
+section 105i,LegalReferences
+Credit Transactions Act of 2003,LegalReferences
+Credit Reporting Act,LegalReferences
+The Fair Credit Reporting Act 15 USC 1681 et seq,LegalReferences
+section 603 15 USC 1681a,LegalReferences
+subsections w and x,LegalReferences
+subsections x and y,LegalReferences
+sections 615e 15 USC 1681me,LegalReferences
+section 615e1 15 USC 1681me,LegalReferences
+section 628a1 15 USC 1681wa1,LegalReferences
+section 603k2 15 USC 1681ak2,LegalReferences
+section 604g 15 USC 1681bg,LegalReferences
+section 605h2A,LegalReferences
+section 621,LegalReferences
+section 611e2 15 USC 1681ie,LegalReferences
+section 615d2B,LegalReferences
+section 615e1 15 USC 1681me1,LegalReferences
+section 615h6 15 USC 1681mh6,LegalReferences
+section 621 15 USC 1681s,LegalReferences
+section 5a,LegalReferences
+section 5b,LegalReferences
+section 623a1,LegalReferences
+section 615d,LegalReferences
+subtitle IV,LegalReferences
+the Federal Aviation Act of 1958,LegalReferences
+section 406,LegalReferences
+Incorporated,EconomicOperands
+section 3s,LegalReferences
+subsection c4,LegalReferences
+section 623,LegalReferences
+subsection a8,LegalReferences
+section 628a3 15 USC 1681wa3,LegalReferences
+section 112b,LegalReferences
+section 211d,LegalReferences
+section 214b,LegalReferences
+section 624,LegalReferences
+section 214e1,LegalReferences
+the Fair Debt Collection Practices Act,LegalReferences
+Collection Practices Act 15 USC 1692 et seq,LegalReferences
+section 803 15 USC 1692a,LegalReferences
+section 814 15 USC 1692l,LegalReferences
+paragraphs 3 through 6,LegalReferences
+Neither,FunctionWords
+of debts,EconomicOperands
+section 8t 12 USC 1818t,LegalReferences
+section 43 12 USC 1831t,LegalReferences
+Examination Council Act of 1978,LegalReferences
+the Federal Financial Institutions Examination Council Act of 1978 12 USC 3303a4,LegalReferences
+savings and loan institutions,EconomicOperands
+Federal credit unions,EconomicOperands
+paragraphs 5 through 7,LegalReferences
+savings and loan institution,EconomicOperands
+section 501b 15 USC 6801b,LegalReferences
+section 502e5 15 USC 6802e5,LegalReferences
+section 504a 15 USC 6804a,LegalReferences
+section 501,LegalReferences
+section 505a 15 USC 6805a,LegalReferences
+This subtitle,LegalReferences
+section 505b1 15 USC 6805b1,LegalReferences
+section 507b 15 USC 6807,LegalReferences
+the Home Mortgage Disclosure Act of 1975,LegalReferences
+Mortgage Disclosure Act of 1975 12 USC 2801 et seq,LegalReferences
+sections 303,LegalReferences
+section 303 12 USC 2802,LegalReferences
+paragraphs 1 through 6,LegalReferences
+section 304 12 USC 2803,LegalReferences
+measurements,EconomicOperands
+section 1503,LegalReferences
+explanations,EconomicOperands
+section 305 12 USC 2804,LegalReferences
+section 3f,LegalReferences
+subparagraph B or C,LegalReferences
+section 304,LegalReferences
+section 306 12 USC 2805b,LegalReferences
+section 307 12 USC 2806,LegalReferences
+the Homeowners Protection Act of 1998,LegalReferences
+the Homeowners Protection Act of 1998 12 USC 4909,LegalReferences
+section 3c2,LegalReferences
+section 19b1A,LegalReferences
+vi,EconomicOperands
+section 158a,LegalReferences
+section 158b,LegalReferences
+Settlement Procedures Act of 1974 12 USC 2601 et seq,LegalReferences
+section 3 12 USC 2602,LegalReferences
+section 4 12 USC 2603,LegalReferences
+section 5 12 USC 2604,LegalReferences
+section 6j3 12 USC 2605j3,LegalReferences
+section 7b 12 USC 2606b,LegalReferences
+section 8c5 12 USC 2607c5,LegalReferences
+section 8d 12 USC 2607d,LegalReferences
+section 10c,LegalReferences
+section 16 12 USC 2614,LegalReferences
+section 18 12 USC 2616,LegalReferences
+section 19 12 USC 2617,LegalReferences
+Interstate,EconomicOperands
+Sales,EconomicOperands
+Full Disclosure Act 15 USC 1701 et seq,LegalReferences
+section 1402 15 USC 1701,LegalReferences
+section 1416a 15 USC 1715a,LegalReferences
+section 1112e 12 USC 3412e,LegalReferences
+section 1113 12 USC 3413,LegalReferences
+paragraphs 7 and 11,LegalReferences
+section 1507a1,LegalReferences
+section 1503 12 USC 5102,LegalReferences
+paragraphs 2 through 12,LegalReferences
+section 1507 12 USC 5106,LegalReferences
+employeess,EconomicOperands
+section 1508 12 USC 5107,LegalReferences
+Sec,EconomicOperands
+section 1510 12 USC 5109,LegalReferences
+section 1513 12 USC 5112,LegalReferences
+section 1509,LegalReferences
+section 1514 12 USC 5113,LegalReferences
+section 103 15 USC 1602,LegalReferences
+subsections b through bb,LegalReferences
+subsections c through cc,LegalReferences
+section 140d,LegalReferences
+sections 105i,LegalReferences
+section 108c,LegalReferences
+section 129m,LegalReferences
+section 105a 15 USC 1604a,LegalReferences
+section 103aa,LegalReferences
+section 105b 15 USC 1604b,LegalReferences
+section 105f1 15 USC 1604f1,LegalReferences
+section 105 15 USC 1604,LegalReferences
+section 108 15 USC 1604,LegalReferences
+Enforcing,RegulatoryOperators
+the Farm Credit Act of 1971,LegalReferences
+section 129 15 USC 1639,LegalReferences
+subsection l2,LegalReferences
+section 272b 12 USC 4311,LegalReferences
+section 270a 12 USC 4309,LegalReferences
+section 272b 12 USC 4311b,LegalReferences
+section 274 12 USC 4313,LegalReferences
+Fraud,EconomicOperands
+Abuse Prevention Act,LegalReferences
+Abuse Prevention Act 15 USC 6102,LegalReferences
+Section 4d,LegalReferences
+Section 5c,LegalReferences
+Abuse Prevention Act 15 USC 6105,LegalReferences
+sections 3d,LegalReferences
+Section 3513,LegalReferences
+section 609f2A,LegalReferences
+section 609f1,LegalReferences
+subsection h5,LegalReferences
+Section 609d,LegalReferences
+section 609d2,LegalReferences
+Section 604a,LegalReferences
+sections 1081,LegalReferences
+VI,EconomicOperands
+Savings Association,EconomicOperands
+Holding Company,EconomicOperands
+Regulatory Improvements Act of 2010,LegalReferences
+commercial firm,EconomicOperands
+15 percent,Attributes
+Moratorium,LegalReferences
+credit card banks,EconomicOperands
+industrial loan companies,EconomicOperands
+credit card bank,EconomicOperands
+section 2c2F,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841c2F,LegalReferences
+industrial bank,EconomicOperands
+section 2c2H,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841c2H,LegalReferences
+trust bank,EconomicOperands
+section 2c2D,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841c2D,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1815,LegalReferences
+November 23 2009,Attributes
+section 7j,LegalReferences
+12 USC 1817j,LegalReferences
+approvals,RegulatoryOperators
+section 2a5E,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841a5E,LegalReferences
+section 2a5F,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841a5F,LegalReferences
+section 2c2B,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841c2B,LegalReferences
+generally describe,Other
+commercial firms,EconomicOperands
+affiliate transactions,EconomicOperands
+cross-marketing,EconomicOperands
+Sections 5c1,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1844c1,LegalReferences
+subclause Aii,LegalReferences
+Section 5c2,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1844c2,LegalReferences
+The Bank Holding Company Act of 1956 12 USC 1841 et seq,LegalReferences
+section 5c5B 12 USC 1844c5B,LegalReferences
+section 10A 12 USC 1848a,LegalReferences
+Section 3c,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1842c,LegalReferences
+Financial stability,EconomicOperands
+In every case,LogicalConnectors
+nonbanks,EconomicOperands
+Section 4j2A,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1843j2A,LegalReferences
+Section 4k6B,LegalReferences
+act transactions,EconomicOperands
+Section 18c5,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1828c5,LegalReferences
+Section 10b2,LegalReferences
+Home Owners,EconomicOperands
+Act 12 USC 1467ab2,LegalReferences
+Act 12 USC 1462,LegalReferences
+Section 10b,LegalReferences
+Act 12 USC 1467ab,LegalReferences
+Act 12 USC 1467aa1Dii,LegalReferences
+subsection c9C,LegalReferences
+companys,EconomicOperands
+Lead insured depository institution,EconomicOperands
+lead insured depository institution,EconomicOperands
+section 2o8,LegalReferences
+Alternating,EconomicOperands
+alternating,EconomicOperands
+conflicting supervisory,EconomicOperands
+demands,EconomicOperands
+Appropriate Federal Banking Agency,EconomicOperands
+financial holding companies,EconomicOperands
+capitalized,EconomicOperands
+Section 4l1,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1843l1,LegalReferences
+Section 10c2,LegalReferences
+Act 12 USC 1467ac2,LegalReferences
+sections 4l,LegalReferences
+section 804c,LegalReferences
+the Community Reinvestment Act of 1977 12 USC 2903c,LegalReferences
+interstate acquisitions,EconomicOperands
+Section 3d1A,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1842d1A,LegalReferences
+mergers,EconomicOperands
+Section 44b4B,LegalReferences
+12 USC 1831ub4B,LegalReferences
+Affiliate transactions,EconomicOperands
+Section 23A,LegalReferences
+12 USC 371c,LegalReferences
+agreement to repurchase,EconomicOperands
+section 5200b,LegalReferences
+12 USC 84b,LegalReferences
+subsection d4,LegalReferences
+State banks,EconomicOperands
+Act 12 USC 1468,LegalReferences
+section 23A,LegalReferences
+derivative transactions,EconomicOperands
+Section 5200b,LegalReferences
+Section 5u3,LegalReferences
+Section 18,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1828,LegalReferences
+section 5200b3,LegalReferences
+troubled,EconomicOperands
+Section 5154,LegalReferences
+Section 5i,LegalReferences
+absent,FunctionWords
+branching,EconomicOperands
+Section 5155g1A,LegalReferences
+insiders,EconomicOperands
+section 22h,LegalReferences
+the Federal reserve Act,LegalReferences
+Section 22d,LegalReferences
+the Federal Reserve Act 12 USC 375,LegalReferences
+Section 5b,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1844b,LegalReferences
+capital regulations,EconomicOperands
+Section 10g1,LegalReferences
+Section 908a1,LegalReferences
+the International Lending Supervision Act of 1983 12 USC 3907a1,LegalReferences
+section 38 12 USC 1831o,LegalReferences
+Holding companies,EconomicOperands
+source of financial strength,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 78q,LegalReferences
+subsections j and k,LegalReferences
+subsections i and j,LegalReferences
+associated person of a securities holding company,EconomicOperands
+securities holding company,EconomicOperands
+the International Banking Act of 1978 12 USC 31017,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841c2,LegalReferences
+the Federal Reserve Act 12 USC 611 et seq,LegalReferences
+consolidated supervision,EconomicOperands
+supervised securities holding company,EconomicOperands
+Securities Holding Company,EconomicOperands
+Having,FunctionWords
+Subsections,LegalReferences
+s,Attributes
+private equity funds,EconomicOperands
+banking entity,EconomicOperands
+hedge fund,EconomicOperands
+private equity fund,EconomicOperands
+sponsors,EconomicOperands
+sponsorship,EconomicOperands
+subsection d3,LegalReferences
+illiquid,EconomicOperands
+the International Banking Act,LegalReferences
+disadvantages,EconomicOperands
+illiquid funds,EconomicOperands
+May 1 2010,Attributes
+illiquid fund,EconomicOperands
+Government National Mortgage Association,EconomicOperands
+subsection h4,LegalReferences
+holdings,EconomicOperands
+the Small Business Investment Act of 1958 15 USC 662,LegalReferences
+section 47,LegalReferences
+private equity,EconomicOperands
+subparagraph f,LegalReferences
+Proprietary trading,EconomicOperands
+paragraph 9 or 13,LegalReferences
+diversification,EconomicOperands
+the Federal Reserve Act 12 USC 371c-1,LegalReferences
+Banking entity,EconomicOperands
+withdraw,EconomicOperands
+section 11A,LegalReferences
+12 USC 248a,LegalReferences
+section 19b7,LegalReferences
+the Federal Reserve Act 12 USC 461b7,LegalReferences
+Hedge fund,EconomicOperands
+15 USC 80a-1 et seq,LegalReferences
+Nonbank financial company supervised by the board,EconomicOperands
+trading account,EconomicOperands
+Sponsor,EconomicOperands
+Trading account,EconomicOperands
+resell,EconomicOperands
+price movements,EconomicOperands
+Illiquid fund,EconomicOperands
+principally invest,EconomicOperands
+real estate investments,EconomicOperands
+venture capital,EconomicOperands
+section 203m,LegalReferences
+the Investment Advisers Act of 1940 15 USC 80b-3m,LegalReferences
+investment activities,EconomicOperands
+reputation,EconomicOperands
+2 months,Attributes
+securitizations,EconomicOperands
+placement agent,EconomicOperands
+synthetic,EconomicOperands
+bona fide market-making,EconomicOperands
+asset backed security,EconomicOperands
+large financial firms,EconomicOperands
+With,FunctionWords
+section 13c,LegalReferences
+moral hazard,EconomicOperands
+and competitiveness,EconomicOperands
+Interstate merger transactions,EconomicOperands
+Section 18c,LegalReferences
+interstate merger transaction,EconomicOperands
+provides assistance,EconomicOperands
+home States,EconomicOperands
+Bank Holding Companies,EconomicOperands
+Interstate acquisitions,EconomicOperands
+subsection c8,LegalReferences
+the Federal Deposit Insurance Act 12 USC 1823,LegalReferences
+Section 2o4,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841o4,LegalReferences
+Section 10e2,LegalReferences
+12 USC 1467ae2,LegalReferences
+Qualified thrift lenders,EconomicOperands
+12 USC 1467am3,LegalReferences
+qualified thrift lender,EconomicOperands
+Dividends,EconomicOperands
+the Home Owners Loan Act 12 USC 1464,LegalReferences
+section 5d,LegalReferences
+Section 10o,LegalReferences
+Act 12 USC 1467ao,LegalReferences
+Declaration,EconomicOperands
+mutual holding company,EconomicOperands
+insider,EconomicOperands
+receive dividends,EconomicOperands
+December 1 2009,Attributes
+reorganized,EconomicOperands
+mid-tier,EconomicOperands
+exchange ratio,EconomicOperands
+Intermediate,EconomicOperands
+Owners Loan Act 12 USC 1461 et seq,LegalReferences
+Financial activities,EconomicOperands
+section 10c9A,LegalReferences
+Grandfathered unitary savings and loan holding company,EconomicOperands
+grandfathered unitary savings and loan holding company,EconomicOperands
+section 10c9C,LegalReferences
+grandfathered,EconomicOperands
+Grandfathered,EconomicOperands
+presumed,RegulatoryOperators
+section 10c9D,LegalReferences
+Interest-bearing transaction,EconomicOperands
+Section 19i,LegalReferences
+12 USC 371a,LegalReferences
+section 5b1B,LegalReferences
+12 USC 1464b1B,LegalReferences
+Section 18g,LegalReferences
+12 USC 1828g,LegalReferences
+Credit card bank,EconomicOperands
+title 13,LegalReferences
+Orderly liquidation authority,EconomicOperands
+Administrative expenses of the receiver,EconomicOperands
+administrative expenses of the receiver,EconomicOperands
+Bankruptcy code,EconomicOperands
+Bankruptcy Code,EconomicOperands
+Bridge financial company,EconomicOperands
+bridge financial company,EconomicOperands
+section 210h,LegalReferences
+Claim,EconomicOperands
+section 2b,LegalReferences
+the Bank Holding Company Act of 1956 12 USC 1841b,LegalReferences
+the majority of,FunctionWords
+Covered broker or dealer,EconomicOperands
+covered broker or dealer,EconomicOperands
+Covered financial company,EconomicOperands
+Covered subsidiary,EconomicOperands
+covered subsidiary,EconomicOperands
+net equity,EconomicOperands
+Financial company,EconomicOperands
+the Bank Holding Company Act of 1956 12 USC 1841a,LegalReferences
+section 210n,LegalReferences
+Insurance company,EconomicOperands
+Nonbank financial company supervised by the board of governors,EconomicOperands
+subsection a11,LegalReferences
+section 203a,LegalReferences
+section 201a11,LegalReferences
+Courts,EconomicOperands
+Issues,EconomicOperands
+bankruptcy process,EconomicOperands
+tool,EconomicOperands
+section 202a1A,LegalReferences
+impact on financial stability,EconomicOperands
+title 12,LegalReferences
+sections 204d,LegalReferences
+orderly liquidation authority,EconomicOperands
+mitigates,RegulatoryOperators
+section 210,LegalReferences
+section 210n9,LegalReferences
+section 210b1,LegalReferences
+Following,FunctionWords
+section 204d,LegalReferences
+Qualified financial contracts,EconomicOperands
+qualified financial contract,EconomicOperands
+section 210c8,LegalReferences
+section 210c10B,LegalReferences
+Claims,EconomicOperands
+section 210a2,LegalReferences
+section 210a5,LegalReferences
+transfer of assets,EconomicOperands
+the Securities Investor Protection Act,LegalReferences
+Customer property,EconomicOperands
+section 8c,LegalReferences
+Operation,EconomicOperands
+Merger,EconomicOperands
+antitrust,EconomicOperands
+section 8n,LegalReferences
+Shareholders,EconomicOperands
+the Securities Exchange Act of 1934 15 USC 73ob,LegalReferences
+sipc,EconomicOperands
+section 203c3,LegalReferences
+section 209,LegalReferences
+subparagraphs B C and D,LegalReferences
+Clause i,LegalReferences
+Payments,EconomicOperands
+Period,EconomicOperands
+paragraph 3 or 5,LegalReferences
+Date,EconomicOperands
+debts,EconomicOperands
+sections 547,LegalReferences
+section 546,LegalReferences
+section 547c,LegalReferences
+section 548c,LegalReferences
+Generally,FunctionWords
+Insufficiency,EconomicOperands
+Insolvency,EconomicOperands
+subparagraphs A B C and D,LegalReferences
+records of a covered financial company,EconomicOperands
+avoidance,EconomicOperands
+subparagraph G or H,LegalReferences
+Creditors,EconomicOperands
+section 205e,LegalReferences
+section 205f,LegalReferences
+actual direct compensatory damages,EconomicOperands
+profits,EconomicOperands
+Measure,EconomicOperands
+qualified financial contracts,EconomicOperands
+loan commitment,EconomicOperands
+Leases,EconomicOperands
+paragraphs 9 and 10,LegalReferences
+Subsection a8,LegalReferences
+section 5242,LegalReferences
+Qualified financial contract,EconomicOperands
+securities contract,EconomicOperands
+forward contract,EconomicOperands
+Securities contract,EconomicOperands
+certificates,EconomicOperands
+subclauses I through XII,LegalReferences
+subclauses I through X,LegalReferences
+subclauses I through VIII,LegalReferences
+Forward contract,EconomicOperands
+subclauses I and III,LegalReferences
+Repurchase agreement,EconomicOperands
+Cooperation,EconomicOperands
+subclauses I and IV,LegalReferences
+Swap agreement,EconomicOperands
+clauses i through vi,LegalReferences
+section 1,LegalReferences
+title 1,LegalReferences
+Walkaway clauses,EconomicOperands
+sections 403,LegalReferences
+walkaway clause,EconomicOperands
+paragraph 10A,LegalReferences
+Walkaway clause,EconomicOperands
+paragraph 10B,LegalReferences
+paragraph 9 or 10,LegalReferences
+Back-Up,EconomicOperands
+paragraph 8A,LegalReferences
+paragraph 9A,LegalReferences
+Business day,EconomicOperands
+Stock,EconomicOperands
+section 202a1,LegalReferences
+as a result,LogicalConnectors
+the Federal Deposit Insurance Corporation Improvement Act of 1991 12 USC 4401 et seq,LegalReferences
+enforces,RegulatoryOperators
+challenge,EconomicOperands
+Manner,Other
+corporate governance,EconomicOperands
+Operating,EconomicOperands
+subsection n9,LegalReferences
+registrations,EconomicOperands
+Interests,EconomicOperands
+Transfer of assets,EconomicOperands
+paragraphs 13 and 14,LegalReferences
+paragraph 13A,LegalReferences
+paragraph 13B,LegalReferences
+bridge financial companys,EconomicOperands
+section 8v,LegalReferences
+stockbroker,EconomicOperands
+customer name security,EconomicOperands
+customer property and member property,EconomicOperands
+commodity broker,EconomicOperands
+sections 741,LegalReferences
+section 203d,LegalReferences
+section 15c5,LegalReferences
+Implementation expenses,EconomicOperands
+implementation expenses,EconomicOperands
+eligible financial company,EconomicOperands
+adverse effect,EconomicOperands
+and risk,EconomicOperands
+the Securities Investor Protection Act of 1970 15 USC 78ddd,LegalReferences
+section 215,LegalReferences
+Section 1032,LegalReferences
+corporation improvement Act of 1991,LegalReferences
+Section 403a,LegalReferences
+the Federal Deposit Insurance Corporation Improvement Act of 1991 12 USC 4403a,LegalReferences
+section 210c,LegalReferences
+section 1367,LegalReferences
+Housing Enterprises Financial Safety and Soundness Act of 1992 12 USC 4617d,LegalReferences
+section 11e,LegalReferences
+section 210n14,LegalReferences
+Frequency,EconomicOperands
+Limit,EconomicOperands
+Conflict of interest,EconomicOperands
+Authorized,RegulatoryOperators
+section 8e,LegalReferences
+resolution process,EconomicOperands
+resolution mechanisms,EconomicOperands
+dynamics,EconomicOperands
+02-Mar,Attributes
+"$10,000,000,000",Attributes
+"$50,000,000,000",Attributes
+10 percent,Attributes
+14 days,Attributes
+15 percent,Attributes
+18 months,Attributes
+2 months,Attributes
+2 years,Attributes
+25 percent,Attributes
+30 days,Attributes
+6 months,Attributes
+6 years,Attributes
+60 days,Attributes
+60-day,Attributes
+85 percent,Attributes
+9 months,Attributes
+90 days,Attributes
+acceptable,Attributes
+adequate,Attributes
+adequately,Attributes
+annual,Attributes
+appropriate,Attributes
+appropriately,Attributes
+consistent,Attributes
+"december 1, 2009",Attributes
+direct,Attributes
+directly,Attributes
+equitable,Attributes
+externally,Attributes
+immediately,Attributes
+indirect,Attributes
+indirectly,Attributes
+"may 1, 2010",Attributes
+november,Attributes
+"november 23, 2009",Attributes
+percent,Attributes
+periodic,Attributes
+periodically,Attributes
+permissible,Attributes
+promptly,Attributes
+reasonable,Attributes
+safe,Attributes
+sound,Attributes
+to the extent feasible,Attributes
+to the fullest extent possible,Attributes
+total,Attributes
+undue,Attributes
+unsafe,Attributes
+unsound,Attributes
+well,Attributes
+ability,EconomicOperands
+accept,EconomicOperands
+achieves,EconomicOperands
+acquire,EconomicOperands
+acquired,EconomicOperands
+acquiring,EconomicOperands
+acquisition,EconomicOperands
+acquisitions,EconomicOperands
+act transactions,EconomicOperands
+acting,EconomicOperands
+action,EconomicOperands
+actions,EconomicOperands
+activities,EconomicOperands
+activities conducted,EconomicOperands
+advance,EconomicOperands
+advice,EconomicOperands
+affiliate transactions,EconomicOperands
+agencies,EconomicOperands
+agreement to repurchase,EconomicOperands
+alternating,EconomicOperands
+amount,EconomicOperands
+amounts,EconomicOperands
+analysis,EconomicOperands
+antitrust,EconomicOperands
+applicant,EconomicOperands
+application,EconomicOperands
+asset backed security,EconomicOperands
+assuring,EconomicOperands
+audited financial statements,EconomicOperands
+available,EconomicOperands
+avoid,EconomicOperands
+avoids,EconomicOperands
+backup,EconomicOperands
+back-up,EconomicOperands
+became,EconomicOperands
+begin,EconomicOperands
+board of governors,EconomicOperands
+board of trade,EconomicOperands
+bona fide market-making,EconomicOperands
+borrowing,EconomicOperands
+branch,EconomicOperands
+businesses,EconomicOperands
+calendar year,EconomicOperands
+capacity,EconomicOperands
+capitalized,EconomicOperands
+carries out,EconomicOperands
+carry out,EconomicOperands
+cease,EconomicOperands
+chairman,EconomicOperands
+charge,EconomicOperands
+chartered,EconomicOperands
+class,EconomicOperands
+collect,EconomicOperands
+commercial,EconomicOperands
+commercial firm,EconomicOperands
+commercial firms,EconomicOperands
+committee,EconomicOperands
+"committee on banking, housing, and urban affairs",EconomicOperands
+committee on financial services,EconomicOperands
+commodities,EconomicOperands
+commodity,EconomicOperands
+commodity trading adviser,EconomicOperands
+companies,EconomicOperands
+comptroller general,EconomicOperands
+comptroller general of the united states,EconomicOperands
+comptroller of the currency,EconomicOperands
+conducting,EconomicOperands
+confidence,EconomicOperands
+confidentiality,EconomicOperands
+congress,EconomicOperands
+consolidated,EconomicOperands
+consultation,EconomicOperands
+consummation,EconomicOperands
+contingent capital,EconomicOperands
+continue,EconomicOperands
+controlled,EconomicOperands
+controlling,EconomicOperands
+convertible,EconomicOperands
+coordinate,EconomicOperands
+coordination,EconomicOperands
+council,EconomicOperands
+country,EconomicOperands
+coverage,EconomicOperands
+criteria,EconomicOperands
+cross-marketing,EconomicOperands
+data,EconomicOperands
+date,EconomicOperands
+declaration,EconomicOperands
+delivery,EconomicOperands
+depositor,EconomicOperands
+dispose,EconomicOperands
+disruptions,EconomicOperands
+dividend,EconomicOperands
+dividends,EconomicOperands
+duplication,EconomicOperands
+economy,EconomicOperands
+eliminate,EconomicOperands
+employee,EconomicOperands
+engaging,EconomicOperands
+entities,EconomicOperands
+entity,EconomicOperands
+exchange,EconomicOperands
+exchange ratio,EconomicOperands
+exercise,EconomicOperands
+exercising,EconomicOperands
+explanation,EconomicOperands
+farm credit system,EconomicOperands
+federal,EconomicOperands
+federal insurance office,EconomicOperands
+fee,EconomicOperands
+fiduciary,EconomicOperands
+final,EconomicOperands
+financial,EconomicOperands
+financial condition,EconomicOperands
+financial firms,EconomicOperands
+financial statements,EconomicOperands
+formation,EconomicOperands
+frequency,EconomicOperands
+functionally regulated subsidiaries,EconomicOperands
+goods,EconomicOperands
+grandfathered,EconomicOperands
+gross revenues,EconomicOperands
+group,EconomicOperands
+health,EconomicOperands
+held,EconomicOperands
+holding companies,EconomicOperands
+holding company,EconomicOperands
+holdings,EconomicOperands
+holds,EconomicOperands
+home,EconomicOperands
+home owners,EconomicOperands
+house of representatives,EconomicOperands
+households,EconomicOperands
+housing,EconomicOperands
+illiquid,EconomicOperands
+incorporated,EconomicOperands
+independent,EconomicOperands
+industrial,EconomicOperands
+industrial loan companies,EconomicOperands
+initial,EconomicOperands
+inspection,EconomicOperands
+inspections,EconomicOperands
+insurer,EconomicOperands
+intent,EconomicOperands
+interest-bearing transaction,EconomicOperands
+interested parties,EconomicOperands
+interlocks,EconomicOperands
+intermediate holding company,EconomicOperands
+international,EconomicOperands
+interpretations,EconomicOperands
+interstate,EconomicOperands
+interstate acquisitions,EconomicOperands
+investment,EconomicOperands
+investment activities,EconomicOperands
+investments,EconomicOperands
+joint,EconomicOperands
+jurisdiction,EconomicOperands
+lease,EconomicOperands
+located,EconomicOperands
+locations,EconomicOperands
+low-income,EconomicOperands
+managed,EconomicOperands
+member,EconomicOperands
+mid-tier,EconomicOperands
+monitor,EconomicOperands
+mutual holding company,EconomicOperands
+new,EconomicOperands
+nonbank,EconomicOperands
+nonbanks,EconomicOperands
+nondepository,EconomicOperands
+nonfinancial,EconomicOperands
+nonvoting member,EconomicOperands
+notice,EconomicOperands
+oath,EconomicOperands
+obtain,EconomicOperands
+obtained,EconomicOperands
+off-balance-sheet,EconomicOperands
+office of financial research,EconomicOperands
+officers,EconomicOperands
+operating,EconomicOperands
+operation,EconomicOperands
+operational,EconomicOperands
+operations,EconomicOperands
+organized,EconomicOperands
+owned,EconomicOperands
+parent,EconomicOperands
+pay,EconomicOperands
+perform,EconomicOperands
+period,EconomicOperands
+placement agent,EconomicOperands
+plan,EconomicOperands
+positions,EconomicOperands
+premiums,EconomicOperands
+price,EconomicOperands
+price movements,EconomicOperands
+principal,EconomicOperands
+principally,EconomicOperands
+profit,EconomicOperands
+publicly traded,EconomicOperands
+purchaser,EconomicOperands
+qualified,EconomicOperands
+qualified thrift lender,EconomicOperands
+qualify,EconomicOperands
+raised,EconomicOperands
+rates,EconomicOperands
+real estate investments,EconomicOperands
+receives,EconomicOperands
+referrals,EconomicOperands
+registered,EconomicOperands
+registration,EconomicOperands
+remain,EconomicOperands
+reorganization,EconomicOperands
+reorganized,EconomicOperands
+reported publicly,EconomicOperands
+reporting,EconomicOperands
+reporting requirements,EconomicOperands
+reports,EconomicOperands
+requests for information,EconomicOperands
+resell,EconomicOperands
+responding,EconomicOperands
+responsibilities,EconomicOperands
+responsible for,EconomicOperands
+result,EconomicOperands
+results,EconomicOperands
+revenues,EconomicOperands
+safety,EconomicOperands
+savings and loan holding company,EconomicOperands
+securities and exchange commission,EconomicOperands
+sell,EconomicOperands
+selling,EconomicOperands
+senate,EconomicOperands
+served,EconomicOperands
+shares,EconomicOperands
+short-term,EconomicOperands
+soundness,EconomicOperands
+source of strength,EconomicOperands
+sponsor,EconomicOperands
+sponsorship,EconomicOperands
+stock,EconomicOperands
+stress,EconomicOperands
+studies,EconomicOperands
+subsidiaries,EconomicOperands
+supervisory,EconomicOperands
+synthetic,EconomicOperands
+take into consideration,EconomicOperands
+third parties,EconomicOperands
+threat,EconomicOperands
+threats,EconomicOperands
+thrift lenders,EconomicOperands
+time,EconomicOperands
+transaction,EconomicOperands
+transactions,EconomicOperands
+unaffiliated,EconomicOperands
+underserved,EconomicOperands
+underserved communities,EconomicOperands
+urban affairs,EconomicOperands
+venture capital,EconomicOperands
+voting member,EconomicOperands
+voting shares,EconomicOperands
+withdraw,EconomicOperands
+writing,EconomicOperands
+written explanation,EconomicOperands
+written request,EconomicOperands
+year,EconomicOperands
+years,EconomicOperands
+as follows,FunctionWords
+be,FunctionWords
+commence,FunctionWords
+commencing,FunctionWords
+does not,FunctionWords
+follows,FunctionWords
+for,FunctionWords
+general,FunctionWords
+generally,FunctionWords
+gives,FunctionWords
+giving,FunctionWords
+has,FunctionWords
+have,FunctionWords
+having,FunctionWords
+in general,FunctionWords
+incidental,FunctionWords
+made,FunctionWords
+make,FunctionWords
+makes,FunctionWords
+making,FunctionWords
+pursuant to,FunctionWords
+related,FunctionWords
+relating,FunctionWords
+take,FunctionWords
+there,FunctionWords
+thereof,FunctionWords
+this,FunctionWords
+(12 u.s.c. 1464(b)(1)(b)),LegalReferences
+(12 u.s.c. 1467a(e)(2)),LegalReferences
+(12 u.s.c. 1467a(m)(3)),LegalReferences
+(12 u.s.c. 1813(q)),LegalReferences
+(12 u.s.c. 1817(j)),LegalReferences
+(12 u.s.c. 1828(g)),LegalReferences
+(12 u.s.c. 1831u(b)(4)(b)),LegalReferences
+(12 u.s.c. 248a),LegalReferences
+(12 u.s.c. 371a),LegalReferences
+(12 u.s.c. 371c),LegalReferences
+(12 u.s.c. 84(b)),LegalReferences
+(15 u.s.c. 80a-1 et seq.),LegalReferences
+12 u.s.c. 1817(j),LegalReferences
+act,LegalReferences
+act (12 u.s.c. 1462),LegalReferences
+act (12 u.s.c. 1467a(a)(1)(d)(ii)),LegalReferences
+act (12 u.s.c. 1467a(b)(2),LegalReferences
+act (12 u.s.c. 1467a(b)),LegalReferences
+act (12 u.s.c. 1467a(c)(2)),LegalReferences
+act (12 u.s.c. 1467a(o),LegalReferences
+act (12 u.s.c. 1468),LegalReferences
+home owners loan act,LegalReferences
+home owners' loan act,LegalReferences
+moratorium,LegalReferences
+paragraph,LegalReferences
+referenced,LegalReferences
+revised statutes of the united states,LegalReferences
+section,LegalReferences
+section 10(a)(1)(d)(ii),LegalReferences
+section 10(b),LegalReferences
+section 10(b)(2),LegalReferences
+section 10(c)(2),LegalReferences
+section 10(c)(9)(c),LegalReferences
+section 10(c)(9)(d),LegalReferences
+section 10(e)(2),LegalReferences
+section 10a,LegalReferences
+section 10a (12 u.s.c. 1848a),LegalReferences
+section 11a,LegalReferences
+section 18(c)(5),LegalReferences
+section 18(g),LegalReferences
+section 19(i),LegalReferences
+section 2,LegalReferences
+section 2(a)(5)(e),LegalReferences
+section 2(a)(5)(f),LegalReferences
+section 2(c)(2)(d),LegalReferences
+section 2(c)(2)(f),LegalReferences
+section 2(c)(2)(h),LegalReferences
+section 23a,LegalReferences
+section 3(d)(1)(a),LegalReferences
+section 4(j)(2)(a),LegalReferences
+section 44(b)(4)(b),LegalReferences
+section 5(c)(2),LegalReferences
+section 7a(c)(8),LegalReferences
+sections,LegalReferences
+sections 5(c)(1),LegalReferences
+short title,LegalReferences
+subclause,LegalReferences
+subclause (a)(ii),LegalReferences
+subparagraphs,LegalReferences
+subsection,LegalReferences
+subsection (c)(9)(c),LegalReferences
+sunset,LegalReferences
+title,LegalReferences
+applicable to,LogicalConnectors
+by virtue of,LogicalConnectors
+exceed,LogicalConnectors
+greater,LogicalConnectors
+if,LogicalConnectors
+in accordance with,LogicalConnectors
+in connection with,LogicalConnectors
+in every case,LogicalConnectors
+in the case of,LogicalConnectors
+less than,LogicalConnectors
+not,LogicalConnectors
+not later,LogicalConnectors
+or,LogicalConnectors
+relating to,LogicalConnectors
+relevant to,LogicalConnectors
+represent,LogicalConnectors
+same,LogicalConnectors
+similar,LogicalConnectors
+solely,LogicalConnectors
+subject to,LogicalConnectors
+together with,LogicalConnectors
+was,LogicalConnectors
+were,LogicalConnectors
+whole,LogicalConnectors
+"$10,000,000,000",None
+(1),None
+(1) notice,None
+(1) notice procedures,None
+(1)(f),None
+(2),None
+(2) content,None
+(2) moratorium,None
+(2)(f),None
+(3),None
+(3) report,None
+(a),None
+(a) moratorium,None
+(b),None
+(b) exceptions,None
+(c),None
+(d),None
+(h),None
+15 percent,None
+18 months,None
+25,None
+3(c)(7),None
+601,None
+602,None
+603,None
+acquire,None
+acquired,None
+acquiring,None
+acquisition,None
+acquisitions,None
+acting in concert,None
+activities,None
+adding,None
+adding,None
+adequacy,None
+adequacy,None
+advise,None
+advised,None
+agencies,None
+amended,None
+amended,None
+amendment,None
+amendments,None
+amendments,None
+annual,None
+annual gross revenues derived,None
+applicable,None
+applicable to,None
+application,None
+apply,None
+appropriate,None
+approval,None
+approvals,None
+approve,None
+are,None
+are,None
+assuring,None
+audited,None
+available,None
+avoid,None
+avoid duplication,None
+be,None
+be based,None
+be served,None
+bona fide,None
+bona fide,None
+calendar year preceding,None
+carry,None
+case,None
+category,None
+category,None
+cease,None
+change,None
+change,None
+cited,None
+cited,None
+commence,None
+commencing,None
+commercial firm,None
+commercial firm,None
+commercial firms,None
+commodities,None
+commodity trading adviser,None
+comptroller general,None
+concentrated,None
+concentrated,None
+concerns,None
+concert) holds,None
+condition,None
+conditions,None
+conducted,None
+conducted,None
+conflicting supervisory,None
+consequences,None
+consideration,None
+consistent,None
+consolidated,None
+consult,None
+consult,None
+controlled,None
+controlling,None
+convenience,None
+convenience,None
+coordination,None
+cross-marketing,None
+date,None
+derived,None
+describe,None
+describe,None
+described,None
+described,None
+determine,None
+determined,None
+determining,None
+direct,None
+directly,None
+disapprove,None
+duplication,None
+economy,None
+effective date,None
+effective date,None
+enactment,None
+enactment,None
+end,None
+end,None
+enforce,None
+engage,None
+engage,None
+entity,None
+established,None
+evaluate,None
+examine,None
+exceed,None
+except,None
+excepted,None
+exception,None
+exceptions,None
+exclusion,None
+existing,None
+existing,None
+existing reports,None
+extent,None
+extent,None
+externally,None
+feasible,None
+federal,None
+filing,None
+filing,None
+financial,None
+financial condition,None
+financial statements,None
+for,None
+fullest,None
+fullest extent,None
+fullest extent possible,None
+functionally,None
+generally describe,None
+greater,None
+gross revenues,None
+group,None
+hart-scott-rodino,None
+hart-scott-rodino,None
+has,None
+has specific,None
+have,None
+holding companies,None
+holding company,None
+house of representatives,None
+identify,None
+identify,None
+immediately,None
+improvements,None
+improvements,None
+in concert,None
+incidental,None
+include,None
+indirect,None
+indirectly,None
+inform,None
+inform,None
+inserting,None
+inserting,None
+intermediate,None
+intermediate,None
+internal financial,None
+involve,None
+jurisdiction,None
+large financial firms,None
+later,None
+locations,None
+made,None
+main,None
+make,None
+manner,None
+matter,None
+mean,None
+meaning,None
+meaning,None
+meanings,None
+means,None
+means,None
+mitigate,None
+monitor,None
+moratorium,None
+nature,None
+nature,None
+necessary,None
+necessary,None
+new,None
+nonbanks,None
+not,None
+"november 23, 2009",None
+number,None
+number,None
+obtained,None
+operation,None
+operational,None
+operations,None
+order,None
+order,None
+order issued,None
+order issued,None
+other companies,None
+oversight,None
+oversight,None
+owned,None
+paragraph,None
+period beginning,None
+permissible,None
+pose,None
+pose,None
+potential,None
+potential,None
+potential consequences,None
+prescribed,None
+principally invest,None
+prior,None
+procedures,None
+procedures,None
+promptly,None
+promulgate,None
+proposed,None
+proposed acquisition,None
+protection,None
+provide,None
+provide,None
+provided,None
+provided,None
+provides,None
+provides assistance,None
+publicly,None
+publicly,None
+publicly traded,None
+pursuant,None
+read,None
+read,None
+reasonable notice,None
+receive dividends,None
+received,None
+redesignated,None
+redesignating,None
+reduce,None
+reduce,None
+referenced,None
+referred to,None
+registration,None
+regulate,None
+rely,None
+rely,None
+report,None
+report,None
+reported,None
+reports,None
+represent,None
+request,None
+required,None
+responsible,None
+restrictions,None
+result,None
+results,None
+revenues generated,None
+right,None
+safe,None
+safety,None
+same,None
+sec,None
+section,None
+sections,None
+senate,None
+solely,None
+sound,None
+soundness,None
+strengthen,None
+strengthen,None
+striking,None
+striking,None
+study,None
+study,None
+study required,None
+subclause,None
+subject,None
+subjecting,None
+submit,None
+subparagraph,None
+subparagraphs,None
+subsidiaries,None
+sunset,None
+supervisory,None
+take,None
+take effect,None
+term,None
+term,None
+terms,None
+thereof has,None
+thereof has been,None
+thereof has been,None
+this,None
+threat,None
+title,None
+total consolidated,None
+transaction,None
+transactions,None
+treated,None
+treatment,None
+types,None
+types,None
+unsound,None
+use,None
+use,None
+used,None
+voting shares,None
+whole,None
+years,None
+based on,Other
+comma,Other
+construed,Other
+content,Other
+rise,Other
+rule of construction,Other
+rules of construction,Other
+semicolon,Other
+sentence,Other
+apply,RegulatoryOperators
+approval,RegulatoryOperators
+approvals,RegulatoryOperators
+approve,RegulatoryOperators
+authorized,RegulatoryOperators
+complies with,RegulatoryOperators
+comply,RegulatoryOperators
+conform,RegulatoryOperators
+deemed,RegulatoryOperators
+deems,RegulatoryOperators
+determine,RegulatoryOperators
+determined,RegulatoryOperators
+determines,RegulatoryOperators
+disapprove,RegulatoryOperators
+enforce,RegulatoryOperators
+enforcing,RegulatoryOperators
+ensure,RegulatoryOperators
+ensures,RegulatoryOperators
+ensuring,RegulatoryOperators
+establish,RegulatoryOperators
+evaluate,RegulatoryOperators
+excepted,RegulatoryOperators
+exception,RegulatoryOperators
+exceptions,RegulatoryOperators
+exempt,RegulatoryOperators
+exemption,RegulatoryOperators
+exemptions,RegulatoryOperators
+implementing,RegulatoryOperators
+limitations,RegulatoryOperators
+limiting,RegulatoryOperators
+may,RegulatoryOperators
+permit,RegulatoryOperators
+permitted,RegulatoryOperators
+prescribe,RegulatoryOperators
+prescribed,RegulatoryOperators
+presumed,RegulatoryOperators
+prevent,RegulatoryOperators
+prior approval,RegulatoryOperators
+prohibition,RegulatoryOperators
+recommend,RegulatoryOperators
+recommendation,RegulatoryOperators
+recommendations,RegulatoryOperators
+regulate,RegulatoryOperators
+regulated,RegulatoryOperators
+repealed,RegulatoryOperators
+request,RegulatoryOperators
+requests,RegulatoryOperators
+require,RegulatoryOperators
+required,RegulatoryOperators
+requires,RegulatoryOperators
+restrict,RegulatoryOperators
+restrictions,RegulatoryOperators
+shall,RegulatoryOperators
+subjecting,RegulatoryOperators
+submit,RegulatoryOperators
+supervise,RegulatoryOperators
+supervised,RegulatoryOperators
+treated,RegulatoryOperators
+treatment,RegulatoryOperators

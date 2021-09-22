@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 __author__="""Co-Pierre Georg (co-pierre.georg@uct.ac.za)"""
 
 import sys
-import os  
+import os
 
 
 # ###########################################################################
@@ -43,6 +43,7 @@ def do_run(input_dir, output_file_name):
             count[count_key] = 0
             unique[count_key] = []
 
+        print("  <<< NOW WORKING ON: " + input_dir + input_file_name)
         # read html file
         for line in input_file.readlines():
             for count_key in count.keys():
@@ -62,7 +63,7 @@ def do_run(input_dir, output_file_name):
         # add output
         out_text += input_file_name
         for count_key in sorted(count.keys()):
-            out_text += ";" + str(count[count_key]) + ";" + str(len(set(unique[count_key]))) # TODO: doesn't work yet. 
+            out_text += ";" + str(count[count_key]) + ";" + str(len(set(unique[count_key]))) # TODO: doesn't work yet.
         out_text += "\n"
 
 
@@ -85,7 +86,7 @@ if __name__ == '__main__':
     input_dir = args[1]
     output_file_name = args[2]
 
-# 
+#
 # CODE
-# 
+#
     do_run(input_dir, output_file_name)
