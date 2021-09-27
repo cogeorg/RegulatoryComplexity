@@ -1,0 +1,373 @@
+SECTION 1035 OF THE COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS ACT OF 1994 12 USC 47025;LegalReferences;1
+CONSUMER REPORTING AGENCY THAT COMPILES AND MAINTAINS FILES ON CONSUMERS ON A NATIONWIDE BASIS;EconomicOperands;1
+SECTION 603P OF THE FAIR CREDIT REPORTING ACT 15 USC 1681AP;LegalReferences;1
+FINANCIAL INSTITUTIONS ACT OF 1994 12 USC 4701 ET SEQ;LegalReferences;1
+COMMITTEE ON BANKING HOUSING AND URBAN AFFAIRS;EconomicOperands;1
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813;LegalReferences;1
+COMMITTEE ON FINANCIAL SERVICES OF THE HOUSE;EconomicOperands;1
+COMMUNITY DEVELOPMENT FINANCIAL INSTITUTION;EconomicOperands;11
+FEDERALLY INSURED DEPOSITORY INSTITUTION;EconomicOperands;5
+THE FEDERAL CREDIT UNION ACT 12 USC 1752;LegalReferences;1
+FINANCIAL INSTITUTIONS ACT OF 2010;LegalReferences;1
+INSURED DEPOSITORY INSTITUTION;EconomicOperands;1
+INTERNAL REVENUE CODE OF 1986;EconomicOperands;1
+SMALL DOLLAR LOAN PROGRAM;EconomicOperands;8
+SUBPARAGRAPHS A THROUGH D;LegalReferences;1
+FINANCIAL INSTITUTIONS;EconomicOperands;3
+INSURED CREDIT UNION;EconomicOperands;1
+FINANCIAL LITERACY;EconomicOperands;3
+IN ACCORDANCE WITH;LogicalConnectors;1
+FINANCIAL PRODUCT;EconomicOperands;1
+ASSOCIATED WITH;FunctionWords;1
+CLASSIFICATIONS;EconomicOperands;1
+DIFFERENTIATION;EconomicOperands;1
+ELIGIBLE ENTITY;EconomicOperands;7
+MODERATE-INCOME;EconomicOperands;3
+REPRESENTATIVES;EconomicOperands;1
+ADMINISTRATIVE;EconomicOperands;1
+APPROPRIATIONS;EconomicOperands;1
+THIS PARAGRAPH;LegalReferences;1
+ADMINISTRATOR;EconomicOperands;1
+AFFORDABILITY;EconomicOperands;1
+AUTHORIZATION;RegulatoryOperators;3
+CIRCUMVENTION;EconomicOperands;1
+DEMONSTRATION;EconomicOperands;1
+JOINT VENTURE;EconomicOperands;1
+OPPORTUNITIES;EconomicOperands;3
+PARTICIPATING;EconomicOperands;1
+PARTICIPATION;EconomicOperands;1
+SECTION 501C3;LegalReferences;1
+SUBSECTION A2;LegalReferences;1
+APPROPRIATED;EconomicOperands;2
+COMPRISED OF;LogicalConnectors;1
+ESTABLISHING;EconomicOperands;1
+INCORPORATED;EconomicOperands;1
+INSTALLMENTS;EconomicOperands;1
+INSTITUTIONS;EconomicOperands;7
+ORGANIZATION;EconomicOperands;1
+PARAGRAPH 1A;LegalReferences;1
+REQUIREMENTS;EconomicOperands;1
+SECTION 1031;LegalReferences;1
+SECTION 501A;LegalReferences;1
+SMALL-DOLLAR;EconomicOperands;1
+SUBSECTION A;LegalReferences;2
+THIS SECTION;LegalReferences;9
+TRANSACTIONS;EconomicOperands;1
+UNDERTAKINGS;EconomicOperands;5
+ADJUSTMENTS;EconomicOperands;1
+ALTERNATIVE;EconomicOperands;2
+APPLICATION;EconomicOperands;1
+APPROPRIATE;Attributes;5
+CARRIED OUT;EconomicOperands;1
+COOPERATIVE;EconomicOperands;2
+DEFINITIONS;EconomicOperands;3
+DESCRIPTION;EconomicOperands;1
+DEVELOPMENT;EconomicOperands;1
+DISTRIBUTED;EconomicOperands;1
+EDUCATIONAL;EconomicOperands;2
+ELIGIBILITY;EconomicOperands;1
+ESTABLISHED;RegulatoryOperators;8
+IN ORDER TO;LogicalConnectors;2
+INDIVIDUALS;EconomicOperands;5
+INFORMATION;EconomicOperands;1
+INITIATIVES;EconomicOperands;2
+INSTITUTION;EconomicOperands;5
+NON-FEDERAL;EconomicOperands;1
+PARAGRAPH 1;LegalReferences;1
+PARTICIPATE;EconomicOperands;2
+PARTNERSHIP;EconomicOperands;7
+PRE-PAYMENT;EconomicOperands;1
+PURSUANT TO;FunctionWords;3
+REGULATIONS;EconomicOperands;6
+RELATING TO;FunctionWords;2
+REQUIREMENT;EconomicOperands;1
+SECTION 101;LegalReferences;1
+SHORT TITLE;Other;1
+50 PERCENT;Attributes;1
+ACCESSIBLE;EconomicOperands;1
+ACTIVITIES;EconomicOperands;3
+ADMINISTER;EconomicOperands;2
+AGREEMENTS;EconomicOperands;5
+ASSISTANCE;EconomicOperands;3
+AUTHORIZED;RegulatoryOperators;8
+CLOSED-END;EconomicOperands;1
+COMPLIANCE;EconomicOperands;1
+CONDITIONS;EconomicOperands;2
+CONDUCTING;EconomicOperands;1
+CONTAINING;EconomicOperands;2
+COUNSELING;EconomicOperands;3
+EFFECTUATE;EconomicOperands;1
+EVALUATION;EconomicOperands;1
+EXCEPTIONS;LogicalConnectors;1
+FACILITATE;EconomicOperands;1
+GOVERNMENT;EconomicOperands;1
+IN GENERAL;FunctionWords;5
+INDIVIDUAL;EconomicOperands;2
+INVESTMENT;EconomicOperands;1
+MAINSTREAM;EconomicOperands;5
+MAINTAINED;EconomicOperands;1
+MEASURABLE;EconomicOperands;1
+NATIONWIDE;EconomicOperands;1
+PRESCRIBED;RegulatoryOperators;4
+PROCEDURAL;EconomicOperands;1
+PROMULGATE;EconomicOperands;1
+PROVISIONS;EconomicOperands;2
+REASONABLE;Attributes;3
+REGULATORY;EconomicOperands;1
+SUBJECT TO;LogicalConnectors;2
+TECHNOLOGY;EconomicOperands;1
+THIS TITLE;LegalReferences;13
+AGREEMENT;EconomicOperands;1
+AMERICANS;EconomicOperands;1
+AUTHORITY;EconomicOperands;2
+AVAILABLE;EconomicOperands;3
+BEGINNING;LogicalConnectors;1
+COMMUNITY;EconomicOperands;1
+CONSUMERS;EconomicOperands;6
+CONTRACTS;EconomicOperands;2
+DEFAULTED;EconomicOperands;1
+DESCRIBED;Other;2
+DESIGNATE;EconomicOperands;1
+EDUCATION;EconomicOperands;4
+ENCOURAGE;EconomicOperands;2
+ESTABLISH;RegulatoryOperators;8
+EXCEEDING;LogicalConnectors;1
+FINANCIAL;EconomicOperands;6
+FOLLOWING;FunctionWords;2
+IMPLEMENT;EconomicOperands;2
+IMPROVING;EconomicOperands;2
+INCLUDING;EconomicOperands;3
+LOAN-LOSS;EconomicOperands;4
+MAINTAINS;EconomicOperands;1
+MULTIYEAR;EconomicOperands;2
+NECESSARY;Attributes;3
+OPERATING;EconomicOperands;1
+OPERATION;EconomicOperands;1
+PRACTICES;EconomicOperands;1
+PROVIDING;EconomicOperands;1
+PROVISION;EconomicOperands;2
+RECAPTURE;EconomicOperands;1
+REGARDING;LogicalConnectors;1
+REPORTING;EconomicOperands;1
+SECRETARY;EconomicOperands;15
+SECTION 3;LegalReferences;1
+TECHNICAL;EconomicOperands;2
+ACCOUNTS;EconomicOperands;4
+AGENCIES;EconomicOperands;1
+AT LEAST;LogicalConnectors;1
+BUILDING;EconomicOperands;2
+CONGRESS;EconomicOperands;1
+CONSUMER;EconomicOperands;2
+COSTS OF;EconomicOperands;3
+DESIGNED;EconomicOperands;2
+DESIRING;EconomicOperands;1
+ELIGIBLE;EconomicOperands;4
+ENTITIES;EconomicOperands;5
+EQUAL TO;LogicalConnectors;2
+EXPANDED;EconomicOperands;1
+EXPENDED;EconomicOperands;1
+INCLUDES;EconomicOperands;1
+JUDGMENT;EconomicOperands;1
+LOW-COST;EconomicOperands;2
+MAINTAIN;EconomicOperands;2
+MANAGING;EconomicOperands;1
+MATCHING;EconomicOperands;2
+MEASURES;EconomicOperands;1
+MITIGATE;RegulatoryOperators;1
+NORMALLY;EconomicOperands;1
+PAYMENTS;EconomicOperands;1
+PRODUCTS;EconomicOperands;3
+PROGRAMS;EconomicOperands;8
+PROJECTS;EconomicOperands;1
+PROVIDED;EconomicOperands;3
+PURPOSES;EconomicOperands;4
+RECEIVED;EconomicOperands;3
+RELEVANT;Attributes;2
+REQUIRES;RegulatoryOperators;1
+RESTRICT;RegulatoryOperators;1
+SERVICES;EconomicOperands;7
+TARGETED;EconomicOperands;1
+TITLE XI;LegalReferences;1
+ACCOUNT;EconomicOperands;7
+AMENDED;RegulatoryOperators;1
+AMOUNTS;EconomicOperands;5
+AWARDED;EconomicOperands;1
+BANKING;EconomicOperands;2
+BETWEEN;FunctionWords;5
+COMPILE;EconomicOperands;1
+CONTAIN;EconomicOperands;1
+COURSES;EconomicOperands;2
+DEFINED;EconomicOperands;3
+DEPOSIT;EconomicOperands;1
+EVASION;EconomicOperands;1
+IMPROVE;EconomicOperands;1
+LENDING;EconomicOperands;2
+MEANING;Other;2
+MILLION;Attributes;1
+MISSION;EconomicOperands;1
+OBTAINS;EconomicOperands;1
+PENALTY;EconomicOperands;1
+PORTION;EconomicOperands;1
+PREVENT;RegulatoryOperators;1
+PRIMARY;EconomicOperands;1
+PROGRAM;EconomicOperands;8
+PROJECT;EconomicOperands;1
+PROMOTE;EconomicOperands;2
+PROVIDE;EconomicOperands;6
+PURPOSE;EconomicOperands;2
+REPORTS;EconomicOperands;1
+RESERVE;EconomicOperands;5
+RESULTS;EconomicOperands;1
+SAVINGS;FunctionWords;2
+SEVERAL;FunctionWords;1
+SIMILAR;LogicalConnectors;2
+SUCH AS;LogicalConnectors;1
+SUPPORT;EconomicOperands;2
+THROUGH;FunctionWords;1
+UTILIZE;EconomicOperands;1
+WHEREIN;FunctionWords;1
+ACCESS;EconomicOperands;7
+ADDING;Other;1
+AGENCY;EconomicOperands;2
+AMOUNT;EconomicOperands;4
+COMBAT;EconomicOperands;1
+COSTLY;EconomicOperands;1
+DEFRAY;EconomicOperands;2
+DIRECT;Attributes;1
+DOLLAR;EconomicOperands;3
+ENABLE;EconomicOperands;2
+ENSURE;RegulatoryOperators;1
+ENTITY;EconomicOperands;2
+EXEMPT;RegulatoryOperators;1
+EXPAND;EconomicOperands;2
+FISCAL;EconomicOperands;4
+FUNDED;EconomicOperands;1
+LOSSES;EconomicOperands;1
+MARKET;EconomicOperands;1
+OBTAIN;EconomicOperands;2
+OFFERS;EconomicOperands;1
+PROPER;EconomicOperands;1
+REMAIN;EconomicOperands;1
+REPAID;EconomicOperands;1
+REPORT;EconomicOperands;2
+SENATE;EconomicOperands;1
+SUBMIT;EconomicOperands;2
+TRIBAL;EconomicOperands;1
+WEALTH;EconomicOperands;2
+AGENT;EconomicOperands;2
+AMONG;FunctionWords;3
+APPLY;Other;1
+AREAS;EconomicOperands;2
+BASIS;EconomicOperands;1
+CITED;Other;1
+CLASS;EconomicOperands;1
+COSTS;EconomicOperands;1
+DEEMS;RegulatoryOperators;1
+FILES;EconomicOperands;1
+FULLY;EconomicOperands;1
+FUNDS;EconomicOperands;5
+GIVEN;FunctionWords;1
+GRANT;EconomicOperands;19
+LOANS;EconomicOperands;8
+LOCAL;EconomicOperands;1
+MEANS;Other;5
+MONEY;EconomicOperands;1
+NEEDS;EconomicOperands;1
+OFFER;EconomicOperands;1
+OTHER;FunctionWords;6
+SERVE;EconomicOperands;1
+SHALL;RegulatoryOperators;9
+SMALL;EconomicOperands;4
+STAFF;EconomicOperands;1
+STATE;EconomicOperands;1
+STEPS;EconomicOperands;1
+TERMS;Other;3
+THEIR;FunctionWords;1
+THERE;FunctionWords;2
+UNDER;FunctionWords;20
+UNTIL;FunctionWords;1
+VALUE;EconomicOperands;1
+WHICH;FunctionWords;2
+WOULD;FunctionWords;1
+2010;Attributes;1
+2500;Attributes;1
+BOTH;FunctionWords;1
+CODE;EconomicOperands;1
+COST;EconomicOperands;1
+EACH;FunctionWords;4
+FORM;EconomicOperands;1
+FROM;FunctionWords;4
+FUND;EconomicOperands;9
+GIVE;FunctionWords;1
+HAVE;FunctionWords;1
+HELP;EconomicOperands;3
+HIGH;EconomicOperands;1
+INTO;FunctionWords;1
+LOAN;EconomicOperands;6
+LOSS;EconomicOperands;1
+MADE;FunctionWords;3
+MAKE;FunctionWords;3
+MEET;EconomicOperands;2
+MORE;FunctionWords;5
+MUST;FunctionWords;1
+PART;FunctionWords;1
+SAME;FunctionWords;2
+SOME;FunctionWords;1
+SUCH;FunctionWords;22
+SUMS;EconomicOperands;1
+TAKE;FunctionWords;1
+TERM;Other;9
+THAT;FunctionWords;9
+USED;EconomicOperands;4
+WILL;FunctionWords;1
+WITH;FunctionWords;4
+YEAR;EconomicOperands;3
+120;LegalReferences;9
+210;Attributes;1
+ALL;FunctionWords;1
+AND;LogicalConnectors;50
+ANY;FunctionWords;15
+ARE;FunctionWords;10
+END;Other;1
+FOR;FunctionWords;14
+HAS;FunctionWords;3
+LOW;EconomicOperands;3
+MAY;FunctionWords;12
+NOT;FunctionWords;3
+ONE;FunctionWords;1
+OWN;FunctionWords;1
+SEC;EconomicOperands;10
+TAX;EconomicOperands;1
+THE;FunctionWords;67
+USE;EconomicOperands;1
+WHO;FunctionWords;2
+12;Attributes;1
+AN;FunctionWords;12
+AS;FunctionWords;12
+AT;FunctionWords;1
+BE;FunctionWords;11
+BY;FunctionWords;14
+EC;EconomicOperands;1
+IN;FunctionWords;21
+IS;FunctionWords;9
+NO;FunctionWords;1
+OF;FunctionWords;34
+ON;FunctionWords;5
+OR;LogicalConnectors;34
+TO;FunctionWords;64
+1;Attributes;14
+2;Attributes;8
+3;Attributes;3
+4;Attributes;3
+5;Attributes;1
+6;Attributes;2
+7;Attributes;1
+8;Attributes;1
+9;Attributes;1
+A;FunctionWords;40
+B;LegalReferences;10
+C;LegalReferences;4
+D;LegalReferences;2
+E;LegalReferences;2
+I;FunctionWords;1
+S;Attributes;25

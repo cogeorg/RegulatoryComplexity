@@ -35,6 +35,8 @@ def do_run(input_dir, output_file_name):
     unique['Other'] = []
     unique['RegulatoryOperators'] = []
 
+    print("<<< STARTING 10_DO_ANALYSIS.PY")
+
     for input_file_name in os.listdir(input_dir):
         input_file = open(input_dir + "/" + input_file_name, 'r')
 

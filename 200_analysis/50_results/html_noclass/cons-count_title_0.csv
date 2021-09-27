@@ -1,0 +1,357 @@
+THE SECURITIES INVESTOR PROTECTION ACT OF 1970 15 USC 78AAA ET SEQ;LegalReferences;1
+COMMONWEALTH OF THE NORTHERN MARIANA ISLANDS AMERICAN SAMOA GUAM;EconomicOperands;1
+DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT;LegalReferences;1
+NATIONALLY RECOGNIZED STATISTICAL RATING ORGANIZATION;EconomicOperands;2
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1844C5;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841P;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7211 ET SEQ;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78C;LegalReferences;1
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813;LegalReferences;3
+OFFICE OF THE COMPTROLLER OF THE CURRENCY;EconomicOperands;1
+THE COMMODITY EXCHANGE ACT 7 USC 1 ET SEQ;LegalReferences;10
+THE FEDERAL CREDIT UNION ACT 12 USC 1752;LegalReferences;1
+BUREAU OF CONSUMER FINANCIAL PROTECTION;EconomicOperands;1
+FEDERAL HOME LOAN MORTGAGE CORPORATION;EconomicOperands;1
+SECURITY-BASED SWAP EXECUTION FACILITY;EconomicOperands;1
+FEDERAL DEPOSIT INSURANCE CORPORATION;EconomicOperands;1
+FEDERAL NATIONAL MORTGAGE ASSOCIATION;EconomicOperands;1
+FINANCIAL STABILITY OVERSIGHT COUNCIL;EconomicOperands;1
+MAJOR SECURITY-BASED SWAP PARTICIPANT;EconomicOperands;1
+MUNICIPAL SECURITIES RULEMAKING BOARD;EconomicOperands;1
+COMMODITY FUTURES TRADING COMMISSION;EconomicOperands;10
+PRIMARY FINANCIAL REGULATORY AGENCY;EconomicOperands;2
+SECURITY-BASED SWAP DATA REPOSITORY;EconomicOperands;1
+STATUTORY PAY-AS-YOU-GO-ACT OF 2010;LegalReferences;1
+THE INVESTMENT ADVISERS ACT OF 1940;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934;LegalReferences;9
+APPROPRIATE FEDERAL BANKING AGENCY;EconomicOperands;3
+SECURITIES AND EXCHANGE COMMISSION;EconomicOperands;2
+THE INVESTMENT COMPANY ACT OF 1940;LegalReferences;2
+DERIVATIVES CLEARING ORGANIZATION;EconomicOperands;4
+FUNCTIONALLY REGULATED SUBSIDIARY;EconomicOperands;2
+THE FEDERAL DEPOSIT INSURANCE ACT;LegalReferences;1
+SAVINGS AND LOAN HOLDING COMPANY;EconomicOperands;1
+THE FEDERAL TRADE COMMISSION ACT;LegalReferences;1
+FEDERAL DEPOSITORY INSTITUTION;EconomicOperands;1
+INSURED DEPOSITORY INSTITUTION;EconomicOperands;1
+FEDERAL DEPOSIT INSURANCE ACT;LegalReferences;1
+STATE DEPOSITORY INSTITUTION;EconomicOperands;1
+COMMONWEALTH OF PUERTO RICO;EconomicOperands;1
+FEDERAL SAVINGS ASSOCIATION;EconomicOperands;1
+FUTURES COMMISSION MERCHANT;EconomicOperands;4
+SECURITY-BASED SWAP DEALER;EconomicOperands;1
+COMMODITY TRADING ADVISER;EconomicOperands;1
+COMMODITY TRADING ADVISOR;EconomicOperands;3
+FINANCIAL HOLDING COMPANY;EconomicOperands;1
+SECRETARY OF THE TREASURY;EconomicOperands;1
+STATE SAVINGS ASSOCIATION;EconomicOperands;1
+FEDERAL BANKING AGENCIES;EconomicOperands;1
+THE HOME OWNERS LOAN ACT;LegalReferences;1
+COMMODITY POOL OPERATOR;EconomicOperands;4
+NATIONAL NONMEMBER BANK;EconomicOperands;1
+SWAP EXECUTION FACILITY;EconomicOperands;2
+DEPOSITORY INSTITUTION;EconomicOperands;1
+FEDERAL BANKING AGENCY;EconomicOperands;2
+MAJOR SWAP PARTICIPANT;EconomicOperands;1
+BANK HOLDING COMPANY;EconomicOperands;2
+DISTRICT OF COLUMBIA;EconomicOperands;1
+FEDERAL CREDIT UNION;EconomicOperands;1
+NATIONAL MEMBER BANK;EconomicOperands;1
+PRUDENTIAL STANDARDS;EconomicOperands;2
+STATE NONMEMBER BANK;EconomicOperands;1
+SWAP DATA REPOSITORY;EconomicOperands;1
+INVESTOR PROTECTION;EconomicOperands;1
+SAVINGS ASSOCIATION;EconomicOperands;1
+SECURITY-BASED SWAP;EconomicOperands;1
+BOARD OF GOVERNORS;EconomicOperands;5
+FOR THE PURPOSE OF;LogicalConnectors;1
+INTRODUCING BROKER;EconomicOperands;3
+INVESTMENT ADVISER;EconomicOperands;2
+INVESTMENT COMPANY;EconomicOperands;4
+HOLDING COMPANIES;EconomicOperands;1
+IN THE CONTEXT OF;FunctionWords;1
+INSURANCE COMPANY;EconomicOperands;2
+STATE MEMBER BANK;EconomicOperands;1
+TABLE OF CONTENTS;FunctionWords;3
+FOREIGN EXCHANGE;EconomicOperands;3
+UNCONSTITUTIONAL;Attributes;1
+FEDERAL RESERVE;EconomicOperands;1
+SECURITIES LAWS;EconomicOperands;1
+STATE-CHARTERED;EconomicOperands;1
+THE CLAYTON ACT;LegalReferences;1
+WITH RESPECT TO;LogicalConnectors;18
+ANTITRUST LAWS;EconomicOperands;2
+BOARD OF TRADE;EconomicOperands;2
+COMMODITY POOL;EconomicOperands;2
+COMPLYING WITH;RegulatoryOperators;1
+EFFECTIVE DATE;EconomicOperands;1
+INSURED BRANCH;EconomicOperands;1
+SUBPARAGRAPH A;LegalReferences;1
+SUBPARAGRAPH B;LegalReferences;1
+VIRGIN ISLANDS;EconomicOperands;1
+CONGRESSIONAL;EconomicOperands;1
+PROVIDED THAT;LogicalConnectors;1
+TO THE EXTENT;LogicalConnectors;2
+TRANSFER DATE;EconomicOperands;3
+UNITED STATES;EconomicOperands;2
+CIRCUMSTANCE;EconomicOperands;2
+COLLECTIVELY;EconomicOperands;1
+COMMONWEALTH;EconomicOperands;1
+CREDIT UNION;EconomicOperands;4
+FOREIGN BANK;EconomicOperands;1
+INCORPORATED;EconomicOperands;1
+INDIVIDUALLY;EconomicOperands;1
+INSTITUTIONS;EconomicOperands;1
+SEVERABILITY;Other;1
+SPECIFICALLY;LogicalConnectors;2
+SUBSECTION A;LegalReferences;1
+THIS SECTION;LegalReferences;1
+APPLICATION;EconomicOperands;2
+ASSOCIATION;EconomicOperands;2
+COMPETITION;EconomicOperands;1
+CORPORATION;EconomicOperands;4
+DEFINITIONS;EconomicOperands;3
+ESTABLISHED;RegulatoryOperators;6
+INFORMATION;EconomicOperands;1
+INSTITUTION;EconomicOperands;2
+LEGISLATION;EconomicOperands;1
+REFERRED TO;FunctionWords;1
+SECTION 101;LegalReferences;1
+SECTION 165;LegalReferences;1
+SECTION 202;LegalReferences;1
+SECTION 311;LegalReferences;1
+SECTION 5C5;LegalReferences;1
+SHORT TITLE;Other;2
+SUPERVISION;EconomicOperands;2
+SWAP DEALER;EconomicOperands;2
+TAKE EFFECT;RegulatoryOperators;1
+ACCOUNTING;EconomicOperands;1
+ACTIVITIES;EconomicOperands;18
+AMENDMENTS;Other;3
+AS FOLLOWS;FunctionWords;1
+COMMISSION;EconomicOperands;12
+COMMITTEES;EconomicOperands;1
+CONFERENCE;EconomicOperands;1
+DESIGNATED;RegulatoryOperators;1
+DETERMINED;RegulatoryOperators;1
+INCIDENTAL;EconomicOperands;2
+INVESTMENT;EconomicOperands;1
+POSSESSION;EconomicOperands;1
+PROVISIONS;EconomicOperands;1
+REGISTERED;EconomicOperands;31
+REGULATORY;EconomicOperands;1
+SECTION 10;LegalReferences;1
+SECTION 2P;LegalReferences;1
+SECTION 3Q;LegalReferences;2
+SECURITIES;EconomicOperands;5
+STATE BANK;EconomicOperands;1
+SUBJECT TO;LogicalConnectors;1
+SUBSIDIARY;EconomicOperands;1
+AFFILIATE;EconomicOperands;2
+AMENDMENT;Other;4
+ANTITRUST;EconomicOperands;1
+AUTHORITY;EconomicOperands;2
+BUDGETARY;EconomicOperands;3
+COMMODITY;EconomicOperands;1
+CONSTRUED;Other;1
+DESCRIBED;Other;2
+DEVELOPED;EconomicOperands;1
+DOMICILED;EconomicOperands;1
+ENACTMENT;Other;1
+EXCEPT AS;LogicalConnectors;2
+FOLLOWING;FunctionWords;1
+INCLUDING;EconomicOperands;1
+INSURANCE;EconomicOperands;5
+OPERATION;EconomicOperands;1
+OTHERWISE;LogicalConnectors;5
+OVERSIGHT;EconomicOperands;1
+PROCESSOR;EconomicOperands;1
+PROVISION;EconomicOperands;2
+REFERENCE;EconomicOperands;1
+SECRETARY;EconomicOperands;2
+SECTION 1;LegalReferences;1
+SECTION 2;LegalReferences;1
+SECTION 3;LegalReferences;4
+SECTION 5;LegalReferences;2
+SPECIFIED;RegulatoryOperators;1
+STANDARDS;EconomicOperands;1
+STATEMENT;EconomicOperands;2
+SUBMITTED;EconomicOperands;2
+SUPERSEDE;Other;1
+TERRITORY;EconomicOperands;1
+TITLE III;LegalReferences;1
+ADVISORY;EconomicOperands;2
+AFFECTED;EconomicOperands;1
+AGENCIES;EconomicOperands;1
+CHAIRMEN;EconomicOperands;1
+CLEARING;EconomicOperands;2
+CONTRACT;EconomicOperands;1
+ENHANCED;EconomicOperands;1
+EXCHANGE;EconomicOperands;2
+INCLUDES;EconomicOperands;1
+MEANINGS;Other;3
+NATIONAL;EconomicOperands;2
+PRINTING;EconomicOperands;1
+PROVIDED;EconomicOperands;2
+PURPOSES;EconomicOperands;1
+REQUIRES;RegulatoryOperators;1
+SECURITY;EconomicOperands;1
+THIS ACT;LegalReferences;16
+TRANSFER;EconomicOperands;1
+AMENDED;RegulatoryOperators;1
+APPLIES;FunctionWords;1
+BETWEEN;FunctionWords;1
+COMPANY;EconomicOperands;2
+CONTEXT;Other;1
+CONTROL;EconomicOperands;1
+COUNCIL;EconomicOperands;2
+DEFINED;EconomicOperands;2
+DEPOSIT;EconomicOperands;1
+EFFECTS;EconomicOperands;3
+FEDERAL;EconomicOperands;3
+FINANCE;EconomicOperands;1
+FUTURES;EconomicOperands;2
+HOUSING;EconomicOperands;1
+IN THAT;LogicalConnectors;1
+JOINTLY;FunctionWords;1
+MEANING;Other;9
+METHODS;EconomicOperands;1
+NOTHING;FunctionWords;1
+PASSAGE;EconomicOperands;1
+REQUIRE;RegulatoryOperators;11
+SAVINGS;FunctionWords;1
+SECTION;LegalReferences;1
+THAT IS;LogicalConnectors;4
+THEREBY;LogicalConnectors;1
+TITLE I;LegalReferences;1
+TITLE X;LegalReferences;1
+ACTING;EconomicOperands;1
+AGENCY;EconomicOperands;4
+BROKER;EconomicOperands;4
+BUDGET;EconomicOperands;1
+BUREAU;EconomicOperands;2
+CLAUSE;LegalReferences;1
+DEALER;EconomicOperands;7
+ENTITY;EconomicOperands;3
+EXCEPT;FunctionWords;3
+HOUSES;EconomicOperands;1
+IMPAIR;EconomicOperands;1
+ISSUER;EconomicOperands;1
+LATEST;LogicalConnectors;1
+MARKET;EconomicOperands;1
+MODIFY;EconomicOperands;1
+PERSON;EconomicOperands;6
+PUBLIC;EconomicOperands;1
+RECORD;EconomicOperands;1
+REMAIN;EconomicOperands;1
+REPORT;EconomicOperands;1
+RETAIL;EconomicOperands;3
+SENATE;EconomicOperands;1
+SYSTEM;EconomicOperands;2
+TITLED;EconomicOperands;1
+UNFAIR;EconomicOperands;1
+UNLESS;LogicalConnectors;1
+1467A;LegalReferences;1
+AFTER;LogicalConnectors;2
+AGENT;EconomicOperands;1
+APPLY;Other;1
+BANKS;EconomicOperands;1
+BOARD;EconomicOperands;1
+CITED;Other;1
+FIRST;Attributes;2
+GIVEN;FunctionWords;1
+HOUSE;EconomicOperands;2
+MEANS;Other;13
+OTHER;FunctionWords;1
+PRIOR;EconomicOperands;1
+SHALL;RegulatoryOperators;5
+STATE;EconomicOperands;8
+TERMS;Other;7
+THOSE;FunctionWords;1
+TITLE;LegalReferences;1
+UNDER;FunctionWords;38
+WHICH;FunctionWords;1
+BANK;EconomicOperands;2
+BEEN;FunctionWords;1
+DATE;EconomicOperands;2
+HAVE;FunctionWords;3
+HELD;EconomicOperands;1
+HOME;EconomicOperands;2
+LOAN;EconomicOperands;2
+MADE;FunctionWords;4
+SAME;FunctionWords;12
+SUCH;FunctionWords;13
+SWAP;EconomicOperands;2
+TERM;Other;20
+THAT;FunctionWords;25
+THIS;FunctionWords;1
+USED;EconomicOperands;1
+VIII;LegalReferences;2
+VOTE;EconomicOperands;1
+WITH;FunctionWords;17
+ACT;LegalReferences;12
+ALL;FunctionWords;1
+AND;LogicalConnectors;18
+ANY;FunctionWords;25
+ARE;FunctionWords;4
+DAY;EconomicOperands;1
+FOR;FunctionWords;4
+HAS;FunctionWords;10
+III;LegalReferences;4
+LAW;EconomicOperands;1
+MAY;FunctionWords;1
+NOT;FunctionWords;1
+PAY;EconomicOperands;1
+SEC;EconomicOperands;6
+THE;FunctionWords;141
+VII;LegalReferences;2
+XII;LegalReferences;1
+10;Attributes;1
+11;LegalReferences;1
+12;Attributes;2
+13;LegalReferences;1
+14;LegalReferences;1
+15;Attributes;3
+16;LegalReferences;1
+17;LegalReferences;1
+18;LegalReferences;1
+A3;LegalReferences;1
+AN;FunctionWords;5
+AS;FunctionWords;20
+B2;LegalReferences;1
+BE;FunctionWords;16
+BY;FunctionWords;10
+GO;FunctionWords;1
+IF;LogicalConnectors;1
+II;LegalReferences;3
+IN;FunctionWords;23
+IS;FunctionWords;4
+IV;LegalReferences;2
+IX;LegalReferences;2
+OF;FunctionWords;48
+ON;FunctionWords;3
+OR;LogicalConnectors;25
+TO;FunctionWords;20
+US;EconomicOperands;3
+VI;EconomicOperands;2
+XI;LegalReferences;1
+1;Attributes;3
+2;Attributes;2
+3;Attributes;2
+4;Attributes;2
+5;Attributes;2
+6;Attributes;2
+7;Attributes;1
+8;Attributes;3
+9;Attributes;1
+A;FunctionWords;11
+B;LegalReferences;5
+C;LegalReferences;6
+D;LegalReferences;3
+E;LegalReferences;3
+I;FunctionWords;3
+Q;LegalReferences;1
+R;LegalReferences;1
+V;LegalReferences;2
+X;LegalReferences;2

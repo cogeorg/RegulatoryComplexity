@@ -1,0 +1,78 @@
+SUBSECTION B OF SECTION 1256 OF THE INTERNAL REVENUE CODE OF 1986;LegalReferences;1
+SUBPARAGRAPHS A THROUGH E;LegalReferences;1
+TAXABLE YEARS BEGINNING;EconomicOperands;1
+PARAGRAPHS 1 THROUGH 5;LegalReferences;1
+SECTION 1256 CONTRACT;EconomicOperands;3
+CREDIT DEFAULT SWAP;EconomicOperands;1
+INTEREST RATE FLOOR;EconomicOperands;1
+EQUITY INDEX SWAP;EconomicOperands;1
+INTEREST RATE CAP;EconomicOperands;1
+COMMODITY SWAP;EconomicOperands;1
+EFFECTIVE DATE;EconomicOperands;1
+CURRENCY SWAP;EconomicOperands;1
+INTEREST RATE;EconomicOperands;1
+LAST SENTENCE;EconomicOperands;1
+REDESIGNATING;Other;1
+SUBPARAGRAPHS;Other;1
+REDESIGNATED;Other;1
+RESPECTIVELY;LogicalConnectors;1
+THIS SECTION;LegalReferences;1
+ACCORDINGLY;LogicalConnectors;1
+AMENDMENTS;Other;1
+BASIS SWAP;EconomicOperands;1
+EXCEPTIONS;LogicalConnectors;1
+IN GENERAL;FunctionWords;2
+SECURITIES;EconomicOperands;2
+AGREEMENT;EconomicOperands;1
+ENACTMENT;Other;1
+FOLLOWING;FunctionWords;2
+INDENTING;Other;1
+INSERTING;Other;2
+PARAGRAPH;LegalReferences;1
+TITLE XVI;LegalReferences;1
+CONTRACT;EconomicOperands;4
+PURPOSES;EconomicOperands;2
+STRIKING;Other;2
+THIS ACT;LegalReferences;1
+AMENDED;RegulatoryOperators;1
+CERTAIN;FunctionWords;1
+FUTURES;EconomicOperands;2
+INCLUDE;EconomicOperands;1
+SIMILAR;LogicalConnectors;1
+TREATED;EconomicOperands;1
+DEALER;EconomicOperands;1
+EQUITY;EconomicOperands;1
+OPTION;EconomicOperands;2
+UNLESS;LogicalConnectors;1
+AFTER;LogicalConnectors;1
+APPLY;Other;1
+SHALL;RegulatoryOperators;2
+SWAPS;EconomicOperands;1
+DATE;EconomicOperands;1
+MADE;FunctionWords;1
+SUCH;FunctionWords;3
+SWAP;EconomicOperands;2
+TERM;Other;1
+601;LegalReferences;1
+AND;LogicalConnectors;4
+ANY;FunctionWords;2
+ETC;FunctionWords;1
+FOR;FunctionWords;2
+NEW;EconomicOperands;1
+NOT;FunctionWords;2
+SEC;EconomicOperands;1
+THE;FunctionWords;7
+AS;FunctionWords;3
+BY;FunctionWords;5
+IS;FunctionWords;2
+OF;FunctionWords;4
+ON;FunctionWords;1
+OR;LogicalConnectors;4
+SO;LogicalConnectors;1
+TO;FunctionWords;1
+1;Attributes;3
+2;Attributes;2
+3;Attributes;1
+A;FunctionWords;4
+B;LegalReferences;2
+S;Attributes;2
