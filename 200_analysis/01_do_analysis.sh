@@ -11,12 +11,12 @@
 # ./12_count_txt.py ./txt/ ./50_results/Master_clean.csv ./50_results/txt/
 
 # ./12_count_html.py ./test/ ./50_results/test/
-# ./12_count_html.py ./html/ ./50_results/html/
-# cd 50_results/html/
-# rm *_all_titles.* 2>/dev/null
-# cat *.csv >> results_all_titles.csv
-# cat *.txt >> residual_all_titles.txt
-# cd ../../
+./12_count_html.py ./html/ ./50_results/html/
+cd 50_results/html/
+rm *_all_titles.* 2>/dev/null
+cat results_title_*.csv >> results_all_titles.csv
+cat residual_title_*.txt >> residual_all_titles.txt
+cd ../../
 
 # ./13_standardize_master.py ../020_auxiliary_data/Sections/Protected_list/Master_extended.csv ../020_auxiliary_data/Sections/Protected_list/Master_standardized.csv
 

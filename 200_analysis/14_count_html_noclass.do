@@ -41,6 +41,7 @@ outsheet using 50_results/html_noclass/category_cons_count_all_titles.csv, repla
 keep category tot_*
 duplicates drop
 drop if category == "subprime crisis"  // weird bug
+outsheet using 50_results/html_noclass/category_cons_count_all_titles-total.csv, replace
 
 //
 // COMPUTE MOST OCCURRING WORDS

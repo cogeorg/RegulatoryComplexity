@@ -3,31 +3,32 @@ cd /home/co/git/RegulatoryComplexity/200_analysis
 //
 // PREPARE COUNTS AND RESIDUALS (=UNMATCHED WORDS)
 //
-// insheet using 50_results/html/all_titles.csv, delimiter(";") clear
-// 	rename v1 key
-// 	rename v2 category
-// 	rename v3 count
-//
-// 	sort key count
-//
-// 	egen id_key = group(key)
-// 	egen id_category = group(category)
-//
-// 	bysort id_category: egen category_count = sum(count)
-// 	bysort id_key: egen total_count = sum(count)
-// 	drop count
-// duplicates drop
-//
-// 	bysort id_key: gen _duplicate = _N
-// 	gsort - _duplicate + id_key
-//
-// outsheet using 50_results/html/master_dict.csv, delimiter(";") replace
+insheet using 50_results/html/results_all_titles.csv, delimiter(";") clear
+	rename v1 key
+	rename v2 category
+	rename v3 count
 
-// keep category category_count
-// duplicates drop
-//
-// 	gsort - category_count
-// outsheet using 50_results/html/category_count.csv, delimiter(";") replace
+	sort key count
+
+	egen id_key = group(key)
+	egen id_category = group(category)
+
+	bysort id_category: egen category_count = sum(count)
+	bysort id_key: egen total_count = sum(count)
+	drop count
+duplicates drop key, force
+
+	bysort id_key: gen _duplicate = _N
+	gsort - _duplicate + id_key
+
+outsheet using 50_results/html/master_dict.csv, delimiter(";") replace
+
+
+keep category category_count
+duplicates drop
+
+	gsort - category_count
+outsheet using 50_results/html/category_count.csv, delimiter(";") replace
 
 
 //
@@ -73,6 +74,11 @@ insheet using 50_results/html/results_title_`i'.csv, delimiter(";") clear
 save 50_results/html/results_title_`i'.dta, replace
 }
 
+use 50_results/html/results_title_1.dta, clear
+forval i=2/16 {
+	append using 50_results/html/results_title_`i'.dta
+}
+duplicates drop key, force
 
 //
 // CHECK RESIDUALS
